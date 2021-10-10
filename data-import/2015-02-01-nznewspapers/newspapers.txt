@@ -1,1 +1,31 @@
+Id	First year	Final year	Title	Placecode	Placename	District	Region	Current?	Genre	Digitised URL	Current URL	MARC Control Number	Modified At	Modified By
+1001	1934	1964	Weekly News	02-01-auckland	Auckland	Auckland	Auckland	no	Newspaper			1235073	Wed Jan 21 10:37:36 UTC 2015	gordon.paynter
+1002	199u	9999	Rotorua Weekender	04-05	Rotorua	Rotorua District	Bay of Plenty	yes	Weekend Edition		http://www.rotoruadailypost.co.nz/topic/rotorua-weekender/	2659112	Wed May 07 09:10:24 UTC 2014	DataBot
+1003	1982	1988	Northern Outlook	12-04	Rangiora	Waimakariri District	Canterbury	no	Newspaper			2750499	Wed May 07 09:46:57 UTC 2014	DataBot
+1004	1993	2003	Manurewa Week	02-01-auckland	Auckland	Auckland	Auckland	no	Newspaper			2795473	Wed May 07 09:46:58 UTC 2014	DataBot
+1005	1881	18uu	Era	09-08-wellington	Wellington	Wellington City	Wellington	no	Newspaper			2864353	Wed May 07 09:10:29 UTC 2014	DataBot
 1006	1988	2008	West Coast Times [1988]	11-03	Hokitika	Westland District	West Coast	no	Newspaper			3530511	Sat Apr 12 11:47:22 UTC 2014	gordon.paynter
+1007	1948	1999	Central Otago News	13-02	Alexandra	Central Otago District	Otago	no	Newspaper			3531219	Wed May 07 09:05:37 UTC 2014	DataBot
+1008	1957	9999	Feilding Herald	08-04	Feilding	Manawatu District	Manawatu-Wanganui	yes	Newspaper			3531223	Wed May 07 09:47:26 UTC 2014	DataBot
+1009	1921	9999	Wairoa Star	06-01	Wairoa	Wairoa District	Hawke's Bay	yes	Newspaper			3531231	Wed May 07 09:05:39 UTC 2014	DataBot
+1010	1971	1993	Milton Gazette	13-04	Balclutha	Clutha District	Otago	no	Newspaper			3531244	Wed May 07 09:47:36 UTC 2014	DataBot
+1011	1983	9999	Taupo Weekender	03-10	Taupo	Taupo District	Waikato	yes	Newspaper		http://www.facebook.com/pages/Taupo-Weekender/105073816244171	3531257	Tue Jan 06 09:24:58 UTC 2015	gordon.paynter
+1012	1988	9999	Wanganui Midweek	08-03	Wanganui	Wanganui District	Manawatu-Wanganui	yes	Newspaper			3561163	Tue Apr 02 08:54:57 UTC 2013	marc-loader-bot
+1013	1969	1990	Contact (Wellington)	09-08-wellington	Wellington	Wellington City	Wellington	no	Newspaper			3601354	Wed May 07 09:47:49 UTC 2014	DataBot
+1014	1979	1997	Weekly News [1979]	08-07	Levin	Horowhenua District	Manawatu-Wanganui	no	Masthead			3604369	Sat May 31 09:28:01 UTC 2014	gordon.paynter
+1015	1989	1990	NewsPlus	12-05-christchur	Christchurch	Christchurch City	Canterbury	no	Newspaper			3678323	Thu Apr 25 09:48:34 UTC 2013	gordon.paynter
+1016	1988	1994	Kuki Airani	02-01-auckland	Auckland	Auckland	Auckland	no	Periodical			3805514	Wed May 07 09:00:03 UTC 2014	DataBot
+1017	1991	1992	On  the  Hill News &  Views	09-07	Lower Hutt	Hutt City	Wellington	no	Periodical			3888222	Wed May 07 09:48:11 UTC 2014	DataBot
+1018	1985	9999	Auckland City Harbour News	02-01-auckland	Auckland	Auckland	Auckland	yes	Newspaper			3888572	Wed May 07 09:48:12 UTC 2014	DataBot
+1019	1987	1993	Mirror (Invercargill)	14-01	Invercargill	Southland District	Southland	no	Newspaper			3889254	Wed May 07 09:11:09 UTC 2014	DataBot
+1020	1982	9999	Central Districts Farmer	08-05	Palmerston North	Palmerston North City	Manawatu-Wanganui	yes	Periodical			4025531	Wed May 07 09:00:11 UTC 2014	DataBot
+1021	1966	1989	Pegasus Post	12-05-christchur	Christchurch	Christchurch City	Canterbury	no	Periodical			4074931	Tue Apr 02 08:55:56 UTC 2013	marc-loader-bot
+1022	1992	1993	Community Leader	10-02	Nelson	Nelson City	Top of the South	no	Periodical			4151138	Wed May 07 09:48:25 UTC 2014	DataBot
+1023	1993	2001	City Voice Wellington	09-08-wellington	Wellington	Wellington City	Wellington	no	Newspaper			4174174	Wed May 07 09:48:26 UTC 2014	DataBot
+1024	1998	2011	Country News	04-02	Tauranga	Tauranga City	Bay of Plenty	no	Periodical			4248725	Wed May 07 09:48:34 UTC 2014	DataBot
+1025	1988	2004	Nor'west Newsbrief	02-01	Kumeu	Auckland	Auckland	no	Periodical			4608094	Tue Apr 02 08:56:43 UTC 2013	marc-loader-bot
+1026	1872	9999	Bay  of  Plenty Times	04-02	Tauranga	Tauranga City	Bay of Plenty	yes	Newspaper	http://paperspast.natlib.govt.nz/cgi-bin/paperspast?a=d&cl=CL1.BOPT	http://www.bayofplentytimes.co.nz	4645508	Fri Mar 21 11:47:20 UTC 2014	DataBot
+1027	1990	1991	The Examiner	02-01	Auckland	Auckland	Auckland	no	Newspaper			4685274	Sat May 31 10:34:45 UTC 2014	gordon.paynter
+1028	1996	1998	Golden Bay  Gazette	10-01	Takaka	Tasman District	Top of the South	no	Newspaper			4715916	Wed May 07 09:48:56 UTC 2014	DataBot
+1029	1878	1973	The  Mataura Ensign	14-02	Gore	Gore District	Southland	no	Newspaper	http://paperspast.natlib.govt.nz/cgi-bin/paperspast?a=d&cl=CL1.ME		4716789	Thu May 09 10:58:16 UTC 2013	gordon.paynter
+1030	1977	1987	Mount Cook Messenger	09-08-wellington	Wellington	Wellington City	Wellington	no	Newspaper			4777956	Wed May 07 08:59:00 UTC 2014	DataBot
