@@ -1,5 +1,5 @@
 // nznimport-newspapers.js
-// Reads newspaper data from tab-seperated archived data file and writes to JSON.
+// Reads newspaper data from a tab-seperated archived data file and writes to JSON files.
 
 var fs = require("fs");
 var parse = require("csv-parse");
@@ -31,14 +31,15 @@ if (!fs.existsSync(jsonDirectory)) {
 
 /**
  * Read (or create) a newspaper JSON file and update it with new data.
+ * @param  {string} index Runnig newspaper index (id number)
  * @param  {string} record Newspaper info in JSON format
  */
-function updateNewspaperRecord(record) {
-  var id = record.Id;
-  var filename = jsonDirectory + "/" + id + ".json";
+function updateNewspaperRecord(index, record) {
+  var id = index;
 
   // Read any existing record:
-  newspaper = {};
+  var filename = jsonDirectory + "/" + id + ".json";
+  var newspaper = {};
   try {
     if (fs.existsSync(filename)) {
       newspaper = JSON.parse(fs.readFileSync(filename));
@@ -49,10 +50,13 @@ function updateNewspaperRecord(record) {
   }
 
   // Update with new data:
+  newspaper["id"] = index;
   for (var key in record) {
     // console.log(key);
     if (key == "Id") {
-      newspaper.id = id;
+      newspaper["id-nzn-v1"] = record[key];
+    } else if (key == "MARC Control Number") {
+      newspaper["id-marc-control-number"] = record[key];
     } else if (key == "Current?") {
       newspaper["is-current"] = record[key];
     } else if (key == "Placecode") {
@@ -73,7 +77,7 @@ function updateNewspaperRecord(record) {
     newspaper.revision = 1;
   }
 
-  // Write back record:
+  // Write theindividual JSON record:
   const newspaperJson = JSON.stringify(newspaper, null, 2);
 
   fs.writeFile(filename, newspaperJson, (err) => {
@@ -96,11 +100,11 @@ function parseNewspaperRows(err, records) {
     return;
   }
 
-  records.forEach(function (arrayItem) {
+  records.forEach(function (arrayItem, arrayIndex) {
     count += 1;
     var genre = arrayItem.Genre;
 
-    updateNewspaperRecord(arrayItem);
+    updateNewspaperRecord(10000 + arrayIndex, arrayItem);
 
     if (countGenre[genre]) {
       countGenre[genre] += 1;
