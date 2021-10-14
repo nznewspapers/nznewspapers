@@ -63,18 +63,18 @@ function writeJsonDict(dict, filename) {
 
 /**
  * Read (or create) a newspaper JSON file and update it with new data.
- * @param  {string} index Runnig newspaper index (id number)
+ * @param  {string} newspaperId Runnig newspaper index (id number)
  * @param  {string} record Newspaper info in JSON format
  */
-function updateNewspaperRecord(index, record) {
-  var id = index;
+function updateNewspaperRecord(newspaperId, record) {
+  var id = newspaperId;
 
   // Read any existing record:
   var filename = jsonDirectory + "/" + id + ".json";
   var newspaper = readJsonDictSync(filename);
 
   // Update with new data:
-  newspaper["id"] = index;
+  newspaper["id"] = newspaperId;
   for (var key in record) {
     // console.log(key);
     if (key == "Id") {
