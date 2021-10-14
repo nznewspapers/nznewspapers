@@ -20,6 +20,8 @@ if (!fs.existsSync(inputFilename)) {
   process.exit(1);
 }
 
+var oldIdtoNewIdFilename = jsonDirectory + "/old_id_to_new_id.txt";
+
 console.log("Running: " + process.argv[1]);
 console.log("Input dir: " + inputDirectory);
 console.log("Input file: " + inputFilename);
@@ -27,6 +29,36 @@ console.log("Output dir: " + jsonDirectory);
 
 if (!fs.existsSync(jsonDirectory)) {
   fs.mkdirSync(jsonDirectory, { recursive: true });
+}
+
+/**
+ * Read a JSON file to a dict or die trying.
+ */
+function readJsonDictSync(filename) {
+  var result = {};
+  try {
+    if (fs.existsSync(filename)) {
+      result = JSON.parse(fs.readFileSync(filename));
+    }
+  } catch (err) {
+    console.error(err);
+    process.exit(1);
+  }
+  return result;
+}
+
+/**
+ * Write a dict to a JSON file or die trying (async).
+ */
+function writeJsonDict(dict, filename) {
+  const jsonString = JSON.stringify(dict, null, 2);
+
+  fs.writeFile(filename, jsonString, (err) => {
+    if (err) {
+      console.error(err);
+      process.exit(1);
+    }
+  });
 }
 
 /**
@@ -39,15 +71,7 @@ function updateNewspaperRecord(index, record) {
 
   // Read any existing record:
   var filename = jsonDirectory + "/" + id + ".json";
-  var newspaper = {};
-  try {
-    if (fs.existsSync(filename)) {
-      newspaper = JSON.parse(fs.readFileSync(filename));
-    }
-  } catch (err) {
-    console.error(err);
-    process.exit(1);
-  }
+  var newspaper = readJsonDictSync(filename);
 
   // Update with new data:
   newspaper["id"] = index;
@@ -77,21 +101,12 @@ function updateNewspaperRecord(index, record) {
     newspaper.revision = 1;
   }
 
-  // Write theindividual JSON record:
-  const newspaperJson = JSON.stringify(newspaper, null, 2);
-
-  fs.writeFile(filename, newspaperJson, (err) => {
-    if (err) {
-      console.error(err);
-      process.exit(1);
-    }
-  });
+  // Write an individual JSON record:
+  writeJsonDict(newspaper, filename);
 }
 
 function parseNewspaperRows(err, records) {
   console.log("Start parseNewspaperRows()");
-  var count = 0;
-  var countGenre = {};
 
   if (err) {
     //handle error
@@ -100,11 +115,30 @@ function parseNewspaperRows(err, records) {
     return;
   }
 
+  // Read the mapping from old Id to new Id:
+  var oldIdtoNewId = readJsonDictSync(oldIdtoNewIdFilename);
+  if (oldIdtoNewId && Object.keys(oldIdtoNewId).length > 0) {
+    console.log("Read " + oldIdtoNewIdFilename);
+  } else {
+    console.log("Creating " + oldIdtoNewIdFilename);
+    count = 1000;
+    records.forEach(function (arrayItem) {
+      count++;
+      oldIdtoNewId[arrayItem.Id] = count;
+    });
+    writeJsonDict(oldIdtoNewId, oldIdtoNewIdFilename);
+  }
+
+  // Read and re-write the newspaper Json:
+  var count = 0;
+  var countGenre = {};
+
   records.forEach(function (arrayItem, arrayIndex) {
     count += 1;
-    var genre = arrayItem.Genre;
 
-    updateNewspaperRecord(10000 + arrayIndex, arrayItem);
+    var genre = arrayItem.Genre;
+    var id = oldIdtoNewId[arrayItem.Id];
+    updateNewspaperRecord(id, arrayItem);
 
     if (countGenre[genre]) {
       countGenre[genre] += 1;
