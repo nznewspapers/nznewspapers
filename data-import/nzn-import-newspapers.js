@@ -14,9 +14,9 @@ if (process.argv[2]) {
   }
 }
 
-var inputFilename = inputDirectory + "/newspapers.txt";
-if (!fs.existsSync(inputFilename)) {
-  console.error("Missing input file: " + inputFilename);
+var newspaperFilename = inputDirectory + "/newspapers.txt";
+if (!fs.existsSync(newspaperFilename)) {
+  console.error("Missing input file: " + newspaperFilename);
   process.exit(1);
 }
 
@@ -24,7 +24,7 @@ var oldIdtoNewIdFilename = jsonDirectory + "/old_id_to_new_id.txt";
 
 console.log("Running: " + process.argv[1]);
 console.log("Input dir: " + inputDirectory);
-console.log("Input file: " + inputFilename);
+console.log("Input file: " + newspaperFilename);
 console.log("Output dir: " + jsonDirectory);
 
 if (!fs.existsSync(jsonDirectory)) {
@@ -162,4 +162,4 @@ var newspaperParser = parse(
 );
 
 console.log("Starting Read");
-fs.createReadStream(inputFilename).pipe(newspaperParser);
+fs.createReadStream(newspaperFilename).pipe(newspaperParser);
