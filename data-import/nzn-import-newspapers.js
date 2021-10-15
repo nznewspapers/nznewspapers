@@ -1,20 +1,21 @@
 // nzn-import-newspapers.js
 // Reads newspaper data from a tab-seperated archived data file and writes to JSON files.
 
-var fs = require("fs");
-var parse = require("csv-parse");
-var nznImportShared = require("./nzn-import-shared");
+const fs = require("fs");
+const path = require("path");
+const parse = require("csv-parse");
+const nznImportShared = require("./nzn-import-shared");
 
-var newspaperFilename = nznImportShared.inputDirectory + "/newspapers.txt";
+var newspaperFilename = path.join(nznImportShared.inputDir, "newspapers.txt");
 if (!fs.existsSync(newspaperFilename)) {
   console.error("Missing input file: " + newspaperFilename);
   process.exit(1);
 }
 
 console.log("Running: " + process.argv[1]);
-console.log("Input dir: " + nznImportShared.inputDirectory);
+console.log("Input dir: " + nznImportShared.inputDir);
 console.log("Input file: " + newspaperFilename);
-console.log("Output dir: " + nznImportShared.jsonDirectory);
+console.log("Output dir: " + nznImportShared.jsonDir);
 console.log("Id file: " + nznImportShared.oldIdtoNewIdFilename);
 
 /**
@@ -23,16 +24,11 @@ console.log("Id file: " + nznImportShared.oldIdtoNewIdFilename);
  * @param  {string} record Newspaper info in JSON format
  */
 function updateNewspaperRecord(newspaperId, record) {
-  var id = newspaperId;
-
-  // Read any existing record:
-  var filename = nznImportShared.jsonDirectory + "/" + id + ".json";
-  var newspaper = nznImportShared.readJsonDictSync(filename);
+  var newspaper = nznImportShared.readNewspaper(newspaperId);
 
   // Update with new data:
-  newspaper["id"] = newspaperId;
+  newspaper.id = newspaperId;
   for (var key in record) {
-    // console.log(key);
     if (key == "Id") {
       newspaper["id-nzn-v1"] = record[key];
     } else if (key == "MARC Control Number") {
@@ -51,14 +47,8 @@ function updateNewspaperRecord(newspaperId, record) {
     }
   }
 
-  if (newspaper.revision) {
-    newspaper.revision += 1;
-  } else {
-    newspaper.revision = 1;
-  }
-
   // Write an individual JSON record:
-  nznImportShared.writeJsonDict(newspaper, filename);
+  nznImportShared.writeNewspaper(newspaperId, newspaper);
 }
 
 function parseNewspaperRows(err, records) {

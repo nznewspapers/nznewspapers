@@ -3,6 +3,7 @@
     "csv-parse": "^4.16.3"
   },
   "scripts": {
-    "nzn-import-newspapers": "node data-import/nzn-import-newspapers.js"
+    "nzn-import-newspapers": "node data-import/nzn-import-newspapers.js",
+    "nzn-import-links": "node data-import/nzn-import-links.js"
   }
 }

@@ -4,15 +4,15 @@
 const fs = require("fs");
 const path = require("path");
 
-exports.inputDirectory = path.join(
+exports.inputDir = path.join(
   process.cwd(),
   "data-import",
   "2015-02-01-nznewspapers"
 );
-exports.jsonDirectory = path.join(process.cwd(), "docs", "data", "json");
+exports.jsonDir = path.join(process.cwd(), "docs", "data", "json");
 
 exports.oldIdtoNewIdFilename = path.join(
-  exports.jsonDirectory,
+  exports.jsonDir,
   "old_id_to_new_id.json"
 );
 
@@ -45,7 +45,7 @@ exports.writeJsonDict = function (dict, filename) {
   }
 
   // Write the file:
-  fs.writeFile(filename, jsonString, (err) => {
+  fs.writeFileSync(filename, jsonString, (err) => {
     if (err) {
       console.error(err);
       process.exit(1);
@@ -54,10 +54,33 @@ exports.writeJsonDict = function (dict, filename) {
 };
 
 /**
+ * Read the data for one newspaper.
+ */
+exports.readNewspaper = function (id) {
+  const filename = path.join(exports.jsonDir, id + ".json");
+  return exports.readJsonDictSync(filename);
+};
+
+/**
+ * Write the data for one newspaper.
+ */
+exports.writeNewspaper = function (id, record) {
+  const filename = path.join(exports.jsonDir, id + ".json");
+
+  if (record.revision) {
+    record.revision += 1;
+  } else {
+    record.revision = 1;
+  }
+
+  exports.writeJsonDict(record, filename);
+};
+
+/**
  * Read the mapping from old ids to new ids.
  */
 exports.readOldIdtoNewId = function () {
-  return nznImportShared.readJsonDictSync(exports.oldIdtoNewIdFilename);
+  return exports.readJsonDictSync(exports.oldIdtoNewIdFilename);
 };
 
 /**
