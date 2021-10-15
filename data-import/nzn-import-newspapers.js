@@ -5,26 +5,17 @@ var fs = require("fs");
 var parse = require("csv-parse");
 var nznImportShared = require("./nzn-import-shared");
 
-if (process.argv[2]) {
-  nznImportShared.inputDirectory = process.argv[2];
-  if (process.argv[3]) {
-    nznImportShared.jsonDirectory = process.argv[3];
-  }
-}
-
 var newspaperFilename = nznImportShared.inputDirectory + "/newspapers.txt";
 if (!fs.existsSync(newspaperFilename)) {
   console.error("Missing input file: " + newspaperFilename);
   process.exit(1);
 }
 
-var oldIdtoNewIdFilename =
-  nznImportShared.jsonDirectory + "/old_id_to_new_id.txt";
-
 console.log("Running: " + process.argv[1]);
 console.log("Input dir: " + nznImportShared.inputDirectory);
 console.log("Input file: " + newspaperFilename);
 console.log("Output dir: " + nznImportShared.jsonDirectory);
+console.log("Id file: " + nznImportShared.oldIdtoNewIdFilename);
 
 /**
  * Read (or create) a newspaper JSON file and update it with new data.
@@ -80,19 +71,7 @@ function parseNewspaperRows(err, records) {
     return;
   }
 
-  // Read the mapping from old Id to new Id:
-  var oldIdtoNewId = nznImportShared.readJsonDictSync(oldIdtoNewIdFilename);
-  if (oldIdtoNewId && Object.keys(oldIdtoNewId).length > 0) {
-    console.log("Read " + oldIdtoNewIdFilename);
-  } else {
-    console.log("Creating " + oldIdtoNewIdFilename);
-    count = 1000;
-    records.forEach(function (arrayItem) {
-      count++;
-      oldIdtoNewId[arrayItem.Id] = count;
-    });
-    nznImportShared.writeJsonDict(oldIdtoNewId, oldIdtoNewIdFilename);
-  }
+  var oldIdtoNewId = nznImportShared.readOrCreateOldIdtoNewId(records);
 
   // Read and re-write the newspaper Json:
   var count = 0;

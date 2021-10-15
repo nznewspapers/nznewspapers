@@ -11,6 +11,11 @@ exports.inputDirectory = path.join(
 );
 exports.jsonDirectory = path.join(process.cwd(), "docs", "data", "json");
 
+exports.oldIdtoNewIdFilename = path.join(
+  exports.jsonDirectory,
+  "old_id_to_new_id.json"
+);
+
 /**
  * Read a JSON file to a dict or die trying.
  */
@@ -46,4 +51,32 @@ exports.writeJsonDict = function (dict, filename) {
       process.exit(1);
     }
   });
+};
+
+/**
+ * Read the mapping from old ids to new ids.
+ */
+exports.readOldIdtoNewId = function () {
+  return nznImportShared.readJsonDictSync(exports.oldIdtoNewIdFilename);
+};
+
+/**
+ * Read the mapping from old ids to new ids, or create it if it doesn't exist.
+ */
+exports.readOrCreateOldIdtoNewId = function (records) {
+  var oldIdtoNewId = exports.readJsonDictSync(exports.oldIdtoNewIdFilename);
+
+  if (oldIdtoNewId && Object.keys(oldIdtoNewId).length > 0) {
+    return oldIdtoNewId;
+  }
+
+  console.log("Creating " + exports.oldIdtoNewIdFilename);
+  count = 10000;
+  records.forEach(function (arrayItem) {
+    count++;
+    oldIdtoNewId[arrayItem.Id] = count;
+  });
+
+  exports.writeJsonDict(oldIdtoNewId, exports.oldIdtoNewIdFilename);
+  return oldIdtoNewId;
 };
