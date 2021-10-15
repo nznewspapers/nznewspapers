@@ -1,65 +1,30 @@
-// nznimport-newspapers.js
+// nzn-import-newspapers.js
 // Reads newspaper data from a tab-seperated archived data file and writes to JSON files.
 
 var fs = require("fs");
 var parse = require("csv-parse");
-
-var inputDirectory = process.cwd() + "/data-import/2015-02-01-nznewspapers";
-var jsonDirectory = process.cwd() + "/docs/data/json";
+var nznImportShared = require("./nzn-import-shared");
 
 if (process.argv[2]) {
-  inputDirectory = process.argv[2];
+  nznImportShared.inputDirectory = process.argv[2];
   if (process.argv[3]) {
-    jsonDirectory = process.argv[3];
+    nznImportShared.jsonDirectory = process.argv[3];
   }
 }
 
-var newspaperFilename = inputDirectory + "/newspapers.txt";
+var newspaperFilename = nznImportShared.inputDirectory + "/newspapers.txt";
 if (!fs.existsSync(newspaperFilename)) {
   console.error("Missing input file: " + newspaperFilename);
   process.exit(1);
 }
 
-var oldIdtoNewIdFilename = jsonDirectory + "/old_id_to_new_id.txt";
+var oldIdtoNewIdFilename =
+  nznImportShared.jsonDirectory + "/old_id_to_new_id.txt";
 
 console.log("Running: " + process.argv[1]);
-console.log("Input dir: " + inputDirectory);
+console.log("Input dir: " + nznImportShared.inputDirectory);
 console.log("Input file: " + newspaperFilename);
-console.log("Output dir: " + jsonDirectory);
-
-if (!fs.existsSync(jsonDirectory)) {
-  fs.mkdirSync(jsonDirectory, { recursive: true });
-}
-
-/**
- * Read a JSON file to a dict or die trying.
- */
-function readJsonDictSync(filename) {
-  var result = {};
-  try {
-    if (fs.existsSync(filename)) {
-      result = JSON.parse(fs.readFileSync(filename));
-    }
-  } catch (err) {
-    console.error(err);
-    process.exit(1);
-  }
-  return result;
-}
-
-/**
- * Write a dict to a JSON file or die trying (async).
- */
-function writeJsonDict(dict, filename) {
-  const jsonString = JSON.stringify(dict, null, 2);
-
-  fs.writeFile(filename, jsonString, (err) => {
-    if (err) {
-      console.error(err);
-      process.exit(1);
-    }
-  });
-}
+console.log("Output dir: " + nznImportShared.jsonDirectory);
 
 /**
  * Read (or create) a newspaper JSON file and update it with new data.
@@ -70,8 +35,8 @@ function updateNewspaperRecord(newspaperId, record) {
   var id = newspaperId;
 
   // Read any existing record:
-  var filename = jsonDirectory + "/" + id + ".json";
-  var newspaper = readJsonDictSync(filename);
+  var filename = nznImportShared.jsonDirectory + "/" + id + ".json";
+  var newspaper = nznImportShared.readJsonDictSync(filename);
 
   // Update with new data:
   newspaper["id"] = newspaperId;
@@ -102,7 +67,7 @@ function updateNewspaperRecord(newspaperId, record) {
   }
 
   // Write an individual JSON record:
-  writeJsonDict(newspaper, filename);
+  nznImportShared.writeJsonDict(newspaper, filename);
 }
 
 function parseNewspaperRows(err, records) {
@@ -116,7 +81,7 @@ function parseNewspaperRows(err, records) {
   }
 
   // Read the mapping from old Id to new Id:
-  var oldIdtoNewId = readJsonDictSync(oldIdtoNewIdFilename);
+  var oldIdtoNewId = nznImportShared.readJsonDictSync(oldIdtoNewIdFilename);
   if (oldIdtoNewId && Object.keys(oldIdtoNewId).length > 0) {
     console.log("Read " + oldIdtoNewIdFilename);
   } else {
@@ -126,7 +91,7 @@ function parseNewspaperRows(err, records) {
       count++;
       oldIdtoNewId[arrayItem.Id] = count;
     });
-    writeJsonDict(oldIdtoNewId, oldIdtoNewIdFilename);
+    nznImportShared.writeJsonDict(oldIdtoNewId, oldIdtoNewIdFilename);
   }
 
   // Read and re-write the newspaper Json:
