@@ -6,21 +6,20 @@ const path = require("path");
 const parse = require("csv-parse");
 const nznImportShared = require("./nzn-import-shared");
 
-var newspaperFilename = path.join(nznImportShared.inputDir, "newspapers.txt");
-if (!fs.existsSync(newspaperFilename)) {
-  console.error("Missing input file: " + newspaperFilename);
+var inputFilename = path.join(nznImportShared.inputDir, "newspapers.txt");
+if (!fs.existsSync(inputFilename)) {
+  console.error("Missing input file: " + inputFilename);
   process.exit(1);
 }
 
 console.log("Running: " + process.argv[1]);
-console.log("Input dir: " + nznImportShared.inputDir);
-console.log("Input file: " + newspaperFilename);
+console.log("Input file: " + inputFilename);
 console.log("Output dir: " + nznImportShared.jsonDir);
 console.log("Id file: " + nznImportShared.oldIdtoNewIdFilename);
 
 /**
  * Read (or create) a newspaper JSON file and update it with new data.
- * @param  {string} newspaperId Runnig newspaper index (id number)
+ * @param  {string} newspaperId New identifier for the newspaper.
  * @param  {string} record Newspaper info in JSON format
  */
 function updateNewspaperRecord(newspaperId, record) {
@@ -47,7 +46,7 @@ function updateNewspaperRecord(newspaperId, record) {
     }
   }
 
-  // Write an individual JSON record:
+  // Write back the updated newspaper JSON record:
   nznImportShared.writeNewspaper(newspaperId, newspaper);
 }
 
@@ -55,8 +54,7 @@ function parseNewspaperRows(err, records) {
   console.log("Start parseNewspaperRows()");
 
   if (err) {
-    //handle error
-    console.log("Error parsing newspaper records.");
+    console.log("Error parsing CSV data.");
     console.log(err);
     return;
   }
@@ -67,11 +65,11 @@ function parseNewspaperRows(err, records) {
   var count = 0;
   var countGenre = {};
 
-  records.forEach(function (arrayItem, arrayIndex) {
+  records.forEach(function (arrayItem) {
     count += 1;
 
-    var genre = arrayItem.Genre;
     var id = oldIdtoNewId[arrayItem.Id];
+    var genre = arrayItem.Genre;
     updateNewspaperRecord(id, arrayItem);
 
     if (countGenre[genre]) {
@@ -96,4 +94,4 @@ var newspaperParser = parse(
 );
 
 console.log("Starting Read");
-fs.createReadStream(newspaperFilename).pipe(newspaperParser);
+fs.createReadStream(inputFilename).pipe(newspaperParser);

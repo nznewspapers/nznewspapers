@@ -6,25 +6,27 @@ const path = require("path");
 const parse = require("csv-parse");
 const nznImportShared = require("./nzn-import-shared");
 
-var linkFilename = path.join(nznImportShared.inputDir, "links.txt");
-if (!fs.existsSync(linkFilename)) {
-  console.error("Missing input file: " + linkFilename);
+var inputFilename = path.join(nznImportShared.inputDir, "links.txt");
+if (!fs.existsSync(inputFilename)) {
+  console.error("Missing input file: " + inputFilename);
   process.exit(1);
 }
 
 console.log("Running: " + process.argv[1]);
-console.log("Input file: " + linkFilename);
-console.log("Json dir: " + nznImportShared.jsonDir);
+console.log("Input file: " + inputFilename);
+console.log("Output dir: " + nznImportShared.jsonDir);
 console.log("Id file: " + nznImportShared.oldIdtoNewIdFilename);
 
 /**
  * Read (or create) a newspaper JSON file and update it with new data.
+ * @param  {string} newspaperId Id of newspaper we're linking from.
+ * @param  {string} targetId Id of newspaper we're linking fromto
+ * @param  {string} record Link info in JSON format
  */
-function updateNewspaperRecord(sourceId, targetId, record) {
-  console.log(sourceId);
+function updateNewspaperRecord(newspaperId, targetId, record) {
+  var newspaper = nznImportShared.readNewspaper(newspaperId);
 
-  var newspaper = nznImportShared.readNewspaper(sourceId);
-
+  // Construct a link record to add to the newspaper:
   var link = {};
   for (var key in record) {
     if (key == "Id") {
@@ -44,7 +46,8 @@ function updateNewspaperRecord(sourceId, targetId, record) {
     }
   }
 
-  console.log(link);
+  // Add a link record to the newspaper record:
+  // console.log(link);
   if (!newspaper.links) {
     newspaper.links = {};
   }
@@ -53,14 +56,15 @@ function updateNewspaperRecord(sourceId, targetId, record) {
   }
   newspaper.links[targetId] = link;
 
-  nznImportShared.writeNewspaper(sourceId, newspaper);
+  // Write back the updated newspaper JSON record:
+  nznImportShared.writeNewspaper(newspaperId, newspaper);
 }
 
 function parseNewspaperRows(err, records) {
   console.log("Start parseNewspaperRows()");
 
   if (err) {
-    console.log("Error parsing newspaper records.");
+    console.log("Error parsing CSV data.");
     console.log(err);
     return;
   }
@@ -69,7 +73,7 @@ function parseNewspaperRows(err, records) {
 
   // Read and re-write the newspaper Json:
   var count = 0;
-  var countGenre = {};
+  var skipped = 0;
 
   records.forEach(function (arrayItem) {
     count += 1;
@@ -82,12 +86,15 @@ function parseNewspaperRows(err, records) {
       var targetId = oldIdtoNewId[oldTargetId];
       updateNewspaperRecord(sourceId, targetId, arrayItem);
     } else {
-      // console.log("Skippiing row " + rowId);
+      // console.log("Skippiing row (unknown source Id): " + oldSourceId);
+      skipped += 1;
     }
   });
 
   console.log("End parseNewspaperRows(): " + count + " records");
-  console.log(countGenre);
+  console.log(
+    "End parseNewspaperRows(): " + skipped + " records had an undefined source"
+  );
 }
 
 var newspaperParser = parse(
@@ -101,4 +108,4 @@ var newspaperParser = parse(
 );
 
 console.log("Starting Read");
-fs.createReadStream(linkFilename).pipe(newspaperParser);
+fs.createReadStream(inputFilename).pipe(newspaperParser);
