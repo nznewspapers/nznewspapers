@@ -93,6 +93,21 @@ exports.readOrCreateOldIdtoNewId = function (records) {
     return oldIdtoNewId;
   }
 
+  console.log("Sorting " + records.length + " records");
+  records.sort(function (a, b) {
+    // sort by nzn-placecode, then by first-year, then by final-year, then by title
+    if (a["Placecode"] === b["Placecode"]) {
+      if (a["First year"] === b["First year"]) {
+        if (a["Final year"] === b["Final year"]) {
+          return a["Title"].localeCompare(b["Title"]);
+        }
+        return a["Final year"].localeCompare(b["Final year"]);
+      }
+      return a["First year"].localeCompare(b["First year"]);
+    }
+    return a["Placecode"].localeCompare(b["Placecode"]);
+  });
+
   console.log("Creating " + exports.oldIdtoNewIdFilename);
   count = 10000;
   records.forEach(function (arrayItem) {
