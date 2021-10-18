@@ -35,7 +35,11 @@ function updateNewspaperRecord(newspaperId, record) {
     } else if (key == "Current?") {
       newspaper["is-current"] = record[key];
     } else if (key == "Placecode") {
-      newspaper["nzn-placecode"] = record[key];
+      if (record[key] == "") {
+        newspaper["nzn-placecode"] = "unknown";
+      } else {
+        newspaper["nzn-placecode"] = record[key];
+      }
     } else if (key == "Modified At" || key == "Modified By") {
       // Ignore
     } else {
