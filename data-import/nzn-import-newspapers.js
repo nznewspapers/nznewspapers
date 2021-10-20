@@ -45,7 +45,8 @@ function updateNewspaperRecord(newspaperId, record) {
     } else {
       if (record[key] != "") {
         newKey = key.toLowerCase().replaceAll(" ", "-");
-        newspaper[newKey] = record[key];
+        newValue = record[key].replace(/  /g, " ");
+        newspaper[newKey] = newValue;
       }
     }
   }

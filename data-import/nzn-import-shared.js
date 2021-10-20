@@ -9,7 +9,8 @@ exports.inputDir = path.join(
   "data-import",
   "2015-02-01-nznewspapers"
 );
-exports.jsonDir = path.join(process.cwd(), "docs", "data", "json");
+exports.jsonDir = path.join(process.cwd(), "docs", "data");
+exports.paperDir = path.join(exports.jsonDir, "papers");
 
 exports.oldIdtoNewIdFilename = path.join(
   exports.jsonDir,
@@ -57,7 +58,7 @@ exports.writeJsonDict = function (dict, filename) {
  * Read the data for one newspaper.
  */
 exports.readNewspaper = function (id) {
-  const filename = path.join(exports.jsonDir, id + ".json");
+  const filename = path.join(exports.paperDir, id + ".json");
   return exports.readJsonDictSync(filename);
 };
 
@@ -65,13 +66,16 @@ exports.readNewspaper = function (id) {
  * Write the data for one newspaper.
  */
 exports.writeNewspaper = function (id, record) {
-  const filename = path.join(exports.jsonDir, id + ".json");
+  const filename = path.join(exports.paperDir, id + ".json");
 
+  // record = Object.fromEntries(Object.entries(record).sort());
+
+  revision = 1;
   if (record.revision) {
-    record.revision += 1;
-  } else {
-    record.revision = 1;
+    revision = record.revision + 1;
+    delete record.revision;
   }
+  record.revision = revision;
 
   exports.writeJsonDict(record, filename);
 };
@@ -81,6 +85,41 @@ exports.writeNewspaper = function (id, record) {
  */
 exports.readOldIdtoNewId = function () {
   return exports.readJsonDictSync(exports.oldIdtoNewIdFilename);
+};
+
+var compareFunction = function (a, b) {
+  // sort by genre, nzn-placecode, then by first-year, then by final-year, then by title
+  placeA = a["Placecode"] || "unspecified";
+  placeB = b["Placecode"] || "unspecified";
+
+  genrePriority = {
+    Newspaper: 1,
+    Masthead: 1,
+    "Weekly Edition": 1,
+    "Alternate Edition": 1,
+    "Weekend Edition": 1,
+    "Minor Edition": 1,
+    Periodical: 2,
+    Other: 3,
+    Unknown: 3,
+    Duplicate: 3,
+  };
+  genreA = genrePriority[a["Genre"]];
+  genreB = genrePriority[b["Genre"]];
+
+  if (genreA === genreB) {
+    if (placeA === placeB) {
+      if (a["First year"] === b["First year"]) {
+        if (a["Final year"] === b["Final year"]) {
+          return a["Title"].localeCompare(b["Title"]);
+        }
+        return a["Final year"].localeCompare(b["Final year"]);
+      }
+      return a["First year"].localeCompare(b["First year"]);
+    }
+    return placeA.localeCompare(placeB);
+  }
+  return genreA < genreB ? -1 : 1;
 };
 
 /**
@@ -94,22 +133,10 @@ exports.readOrCreateOldIdtoNewId = function (records) {
   }
 
   console.log("Sorting " + records.length + " records");
-  records.sort(function (a, b) {
-    // sort by nzn-placecode, then by first-year, then by final-year, then by title
-    if (a["Placecode"] === b["Placecode"]) {
-      if (a["First year"] === b["First year"]) {
-        if (a["Final year"] === b["Final year"]) {
-          return a["Title"].localeCompare(b["Title"]);
-        }
-        return a["Final year"].localeCompare(b["Final year"]);
-      }
-      return a["First year"].localeCompare(b["First year"]);
-    }
-    return a["Placecode"].localeCompare(b["Placecode"]);
-  });
+  records.sort(compareFunction);
 
   console.log("Creating " + exports.oldIdtoNewIdFilename);
-  count = 10000;
+  count = 1000;
   records.forEach(function (arrayItem) {
     count++;
     oldIdtoNewId[arrayItem.Id] = count;
