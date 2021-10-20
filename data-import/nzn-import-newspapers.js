@@ -33,12 +33,16 @@ function updateNewspaperRecord(newspaperId, record) {
     } else if (key == "MARC Control Number") {
       newspaper["id-marc-control-number"] = record[key];
     } else if (key == "Current?") {
-      newspaper["is-current"] = record[key];
+      newspaper["is-current"] = record[key] == "yes";
+    } else if (key == "Current URL") {
+      newspaper["url-current"] = record[key];
+    } else if (key == "Digitised URL") {
+      newspaper["url-digitized"] = record[key];
     } else if (key == "Placecode") {
       if (record[key] == "") {
-        newspaper["nzn-placecode"] = "unknown";
+        newspaper["placecode"] = "unknown";
       } else {
-        newspaper["nzn-placecode"] = record[key];
+        newspaper["placecode"] = record[key];
       }
     } else if (key == "Modified At" || key == "Modified By") {
       // Ignore

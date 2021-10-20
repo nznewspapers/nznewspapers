@@ -68,16 +68,42 @@ exports.readNewspaper = function (id) {
 exports.writeNewspaper = function (id, record) {
   const filename = path.join(exports.paperDir, id + ".json");
 
-  // record = Object.fromEntries(Object.entries(record).sort());
+  newRecord = {};
 
-  revision = 1;
-  if (record.revision) {
-    revision = record.revision + 1;
-    delete record.revision;
+  // Add the entries we want to appear first:
+  newRecord.id = record.id;
+  newRecord.title = record.title;
+  newRecord.genre = record.genre;
+  newRecord["first-year"] = record["first-year"];
+  newRecord["final-year"] = record["final-year"];
+
+  // Add all the entries in alphabeticl order:
+  var keys = Object.keys(record).sort();
+  keys.forEach(function (key) {
+    if (typeof record[key] != "string" || record[key] != "") {
+      newRecord[key] = record[key];
+    }
+  });
+
+  // Re-inset the entries that we want to appear last:
+  if (newRecord.notes) {
+    delete newRecord.notes;
+    newRecord.notes = record.notes;
   }
-  record.revision = revision;
 
-  exports.writeJsonDict(record, filename);
+  if (newRecord.links) {
+    delete newRecord.links;
+    newRecord.links = record.links;
+  }
+
+  if (newRecord.revision) {
+    delete newRecord.revision;
+    newRecord.revision = record.revision + 1;
+  } else {
+    newRecord.revision = 1;
+  }
+
+  exports.writeJsonDict(newRecord, filename);
 };
 
 /**
