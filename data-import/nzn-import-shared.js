@@ -18,6 +18,19 @@ exports.oldIdtoNewIdFilename = path.join(
 );
 
 /**
+ * Convert a string to camelCase, as per https://stackoverflow.com/a/2970667
+ * @param {string} String to convert
+ * @returns camelized string.
+ */
+exports.camelize = function (str) {
+  return str
+    .replace(/(?:^\w|[A-Z]|\b\w)/g, function (word, index) {
+      return index === 0 ? word.toLowerCase() : word.toUpperCase();
+    })
+    .replace(/\s+/g, "");
+};
+
+/**
  * Read a JSON file to a dict or die trying.
  */
 exports.readJsonDictSync = function (filename) {
@@ -74,8 +87,8 @@ exports.writeNewspaper = function (id, record) {
   newRecord.id = record.id;
   newRecord.title = record.title;
   newRecord.genre = record.genre;
-  newRecord["first-year"] = record["first-year"];
-  newRecord["final-year"] = record["final-year"];
+  newRecord.firstYear = record.firstYear;
+  newRecord.finalYear = record.finalYear;
 
   // Add all the entries in alphabeticl order:
   var keys = Object.keys(record).sort();

@@ -31,25 +31,25 @@ function updateNewspaperRecord(newspaperId, record) {
   var fieldValue = record["Value"];
 
   if (fieldName != "") {
-    fieldName = fieldName.toLowerCase().replaceAll(" ", "-");
+    fieldName = nznImportShared.camelize(fieldName);
   }
 
   // Add a fields record to the newspaper record:
-  if (fieldName == "papers-past-code") {
+  if (fieldName == "papersPastCode") {
     var fieldValue = record["Value"];
-    newspaper["id-papers-past-code"] = fieldValue;
+    newspaper.idPapersPastCode = fieldValue;
   } else if (fieldName == "note") {
     // There may be multiple note fields:
     if (!newspaper.notes) {
       newspaper.notes = {};
     }
     newspaper.notes[fieldId] = fieldValue;
-  } else if (fieldName == "alternate-title") {
+  } else if (fieldName == "alternateTitle") {
     // There may be multiple alternate titles:
-    if (!newspaper["alternate-title"]) {
-      newspaper["alternate-title"] = {};
+    if (!newspaper.alternateTitle) {
+      newspaper.alternateTitle = {};
     }
-    newspaper["alternate-title"][fieldId] = fieldValue;
+    newspaper.alternateTitle[fieldId] = fieldValue;
   } else {
     // Otherwise this is a single-value field, store it in the newspaper record:
     if (newspaper[fieldName]) {

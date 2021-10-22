@@ -29,26 +29,26 @@ function updateNewspaperRecord(newspaperId, record) {
   newspaper.id = newspaperId;
   for (var key in record) {
     if (key == "Id") {
-      newspaper["id-nzn-v1"] = record[key];
+      newspaper.idNZNewspapersV1 = record[key];
     } else if (key == "MARC Control Number") {
-      newspaper["id-marc-control-number"] = record[key];
+      newspaper.idMarcControlNumber = record[key];
     } else if (key == "Current?") {
-      newspaper["is-current"] = record[key] == "yes";
+      newspaper.isCurrent = record[key] == "yes";
     } else if (key == "Current URL") {
-      newspaper["url-current"] = record[key];
+      newspaper.urlCurrent = record[key];
     } else if (key == "Digitised URL") {
-      newspaper["url-digitized"] = record[key];
+      newspaper.urlDigitized = record[key];
     } else if (key == "Placecode") {
       if (record[key] == "") {
-        newspaper["placecode"] = "unknown";
+        newspaper.placecode = "unknown";
       } else {
-        newspaper["placecode"] = record[key];
+        newspaper.placecode = record[key];
       }
     } else if (key == "Modified At" || key == "Modified By") {
       // Ignore
     } else {
       if (record[key] != "") {
-        newKey = key.toLowerCase().replaceAll(" ", "-");
+        newKey = nznImportShared.camelize(key);
         newValue = record[key].replace(/  /g, " ");
         newspaper[newKey] = newValue;
       }
