@@ -98,7 +98,7 @@ exports.writeNewspaper = function (id, record) {
     }
   });
 
-  // Re-inset the entries that we want to appear last:
+  // Re-insert the entries that we want to appear last:
   if (newRecord.notes) {
     delete newRecord.notes;
     newRecord.notes = record.notes;
@@ -107,6 +107,11 @@ exports.writeNewspaper = function (id, record) {
   if (newRecord.links) {
     delete newRecord.links;
     newRecord.links = record.links;
+  }
+
+  if (newRecord.sources) {
+    delete newRecord.sources;
+    newRecord.sources = record.sources;
   }
 
   if (newRecord.revision) {
