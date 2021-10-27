@@ -27,11 +27,22 @@ function updateNewspaperRecord(newspaperId, record) {
 
   // Update with new data:
   newspaper.id = newspaperId;
+  if (!newspaper.sources) {
+    newspaper.sources = {};
+  }
   for (var key in record) {
     if (key == "Id") {
       newspaper.idNZNewspapersV1 = record[key];
     } else if (key == "MARC Control Number") {
-      newspaper.idMarcControlNumber = record[key];
+      if (record[key]) {
+        newspaper.idMarcControlNumber = record[key];
+        myDate = new Date("Tue Apr 02 08:58:38 UTC 2013");
+        newspaper.sources[myDate.toISOString()] =
+          "Extracted from the New Zealand National Bibliography" +
+          " (MARC record " +
+          newspaper.idMarcControlNumber +
+          ") downloaded March 2013.";
+      }
     } else if (key == "Current?") {
       newspaper.isCurrent = record[key] == "yes";
     } else if (key == "Current URL") {
@@ -44,8 +55,16 @@ function updateNewspaperRecord(newspaperId, record) {
       } else {
         newspaper.placecode = record[key];
       }
-    } else if (key == "Modified At" || key == "Modified By") {
+    } else if (key == "Modified At") {
       // Ignore
+    } else if (key == "Modified By") {
+      if (record["Modified By"] != "marc-loader-bot") {
+        if (record["Modified At"] != "An Unknown Date") {
+          const dateModified = new Date(record["Modified At"]);
+          newspaper.sources[dateModified.toISOString()] =
+            "Modified by " + record["Modified By"];
+        }
+      }
     } else {
       if (record[key] != "") {
         newKey = nznImportShared.camelize(key);
