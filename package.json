@@ -5,6 +5,7 @@
   "scripts": {
     "nzn-import-newspapers": "node data-import/nzn-import-newspapers.js",
     "nzn-import-links": "node data-import/nzn-import-links.js",
-    "nzn-import-fields": "node data-import/nzn-import-fields.js"
+    "nzn-import-fields": "node data-import/nzn-import-fields.js",
+    "nzn-summarise": "node scripts/nzn-summarise.js"
   }
 }
