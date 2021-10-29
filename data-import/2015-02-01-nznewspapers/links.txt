@@ -1,0 +1,1504 @@
+Id	Newspaper Id	Target Id	Direction	Relationship	Target Description	Is Auto	Is Modified
+15006	10008	13028	Succeeding	Merged into	The Star	false	false
+15007	14005	unknown	Preceding	Absorbed	What's new (Lower Hutt (N.Z.). City Council)	true	false
+15009	11014	10019	Succeeding	Merged	Norwester (Wellington, N.Z.)	true	false
+15011	10019	11014	Succeeding	Merged	Contact (Wellington, N.Z. : 1991)	true	false
+15012	4023	1010	Preceding	Absorbed	Milton gazette	true	false
+15013	4028	7037	Has Edition		Guardian Today	false	false
+15014	1032	14023	Succeeding	Merged	Our town Papakura	true	false
+15015	10029	17002	Preceding	Continues	Picton paper	true	false
+15016	11023	14014	Succeeding	Continued by	Courier (Timaru, N.Z.)	true	false
+15017	13027	unknown	Succeeding	Continued by	Manuhiri tuarangi and Maori intelligencer	true	false
+15018	26	10034	Preceding	Continues	Dominion Sunday times	true	false
+15019	14026	14014	Succeeding	Continued by	Courier (Ashburton, N.Z. : 1995)	true	false
+15020	10034	26	Succeeding	Continued by	Sunday Times [1992]	false	false
+15021	4041	3035	Succeeding	Merged	Leader (Nelson, N.Z.)	true	false
+15022	3035	4041	Preceding	Formed by the union	Motueka sun	true	false
+15026	14036	2051	Succeeding	Continued by	Yi zhou tong	true	false
+15028	7043	8036	Continued By		Doubtless Bay  Times	true	false
+15029	42	14039	Succeeding	Merged	Aucklander (Central ed.)	true	false
+15030	6043	8038	Continued By		Horowhenua &  Kapiti News	true	false
+15032	7046	6030	Preceding	Continues	Tamaki times	true	false
+15033	9035	unknown	Succeeding	Continued by	Voice of labour	true	false
+15034	6045	12035	Succeeding	Continued by	Papatoetoe-Otara gazette	true	false
+15035	7047	unknown	Succeeding	Merged	Courier (Central ed. : 1970)	true	false
+15036	4054	7057	Succeeding	Continued by	High Country herald (2007)	true	false
+15037	6048	unknown	Succeeding	Continued by	Waitaki Herald.	true	false
+15038	11050	4061	Succeeding	Unrelated	Star community (Eastern)	true	false
+15039	11050	11045	Preceding	Formed by the union	Shore news (Christchurch, N.Z.)	true	false
+15040	11052	unknown	Succeeding	Continued by	Urban&Country	true	false
+15041	4064	5054	Succeeding	Unrelated	Star community news (Eastern)	true	false
+15042	9039	2011	Preceding	Continues	Western news (Wellington, N.Z.)	true	false
+15043	14053	1058	Continued By		Citylife Porirua News	false	false
+15044	54	13033	Continues		Franklin Life Newspaper	true	false
+15045	11054	10025	Preceding	Continues	Canterbury times (1996)	true	false
+15046	10060	11052	Preceding	Continues	Country (Matamata, N.Z.)	true	false
+15047	11056	14039	Preceding	Formed by the union	Aucklander (Central ed.)	true	false
+15048	4070	9039	Preceding	Formed by the union	Citylife (West ed.)	true	false
+15049	2061	9044	Succeeding	Continued by	Filipino migrant news	true	false
+15050	11057	13052	Preceding	Continues	Chronicle 	false	false
+15051	3061	2057	Preceding	Continues	Star community news (Western)	true	false
+16003	1003	18002	Succeeding	Continued by	North Canterbury outlook.	true	false
+16004	6007	unknown	Succeeding	Continued by	North Shore week	true	false
+16006	1007	unknown	Preceding	Formed by the union	Alexandra herald	true	false
+16008	5009	unknown	Preceding	Continues	Sunday news (Northern ed.)	true	false
+16009	4015	1013	Preceding	Continues	Contact (Wellington, N.Z. : 1969)	true	false
+16011	10016	unknown	Succeeding	Continued by	Matakokiri taima (1917)	true	false
+16012	7016	7011	Preceding	Formed by the union	Wairarapa News	false	false
+16013	5016	3048	Continued By		New Tatler	false	false
+16014	6018	4032	Preceding	Continues	Southern Cross	false	false
+16015	13018	unknown	Preceding	Continues	Month (Auckland, N.Z.)	true	false
+16016	11019	4006	Preceding	Continues	Community news (Pegasus post ed.)	true	false
+16017	2027	1034	Succeeding	Continued by	New Zealand Gazette and Wellington Spectator	false	false
+16018	2028	3059	Succeeding	Continued by	Record (Winton (N.Z.))	true	false
+16019	2029	12010	Succeeding	Absorbed by	People's voice (Auckland, N.Z. : 1939)	true	false
+16020	3029	13042	Succeeding	Continued by	Waihi leader (2004)	true	false
+16021	5032	5033	Succeeding	Continued by	Colonist	false	false
+16022	5033	5032	Preceding	Continues	Otago Colonist	false	false
+16025	14026	14014	Preceding	Continues	Courier (Ashburton, N.Z.)	true	false
+16026	10039	3006	Preceding	Continues	New Truth & TV Extra	false	false
+16031	14037	1008	Preceding	Formed by the union	Feilding herald	true	false
+16032	14039	42	Succeeding	Merged	Aucklander (City ed.)	true	false
+16033	14039	6042	Succeeding	Merged	Aucklander (East ed.)	true	false
+16034	14039	5053	Succeeding	Merged	Aucklander (Tamaki)	true	false
+16035	4048	6031	Preceding	Continues	Shore news (Auckland, N.Z. : 1994)	true	false
+16036	5042	4033	Preceding	Formed by union	The Christchurch Times	false	false
+16038	11042	13032	Preceding	Formed by union	Observer	false	false
+16039	11042	7032	Preceding	Formed by union	Auckland Free Lance	false	false
+16040	4053	3009	Succeeding	Merged into	Wairarapa Times-Age	false	false
+16041	3050	8035	Succeeding	Unrelated	Local matters (Mahurangi, Matakana)	true	false
+16042	11046	10042	Preceding	Formed by the union	Northern mail (Christchurch, N.Z.)	true	false
+16043	11050	13047	Succeeding	Unrelated	Star community (Western)	true	false
+16045	11053	10068	Succeeding	Continued by	Observer (Christchurch, N.Z. : 2009)	true	false
+16046	12044	14042	Preceding	Continues	Wainuiomata news	true	false
+16048	4067	unknown	Preceding	Continues	iBall	true	false
+16049	1058	14053	Preceding	Continues	Citylife (Porirua ed.)	true	false
+16050	10071	2060	Preceding	Continues	Aucklander North Shore	true	false
+17003	9002	unknown	Succeeding	Continued by	Food industry news	true	false
+17006	6006	unknown	Succeeding	Continued by	New Zealand rugby news	true	false
+17008	8002	unknown	Preceding	Continues	Homedale tatler	true	false
+17010	13004	12001	Preceding	Formed by the union	Malvern record	true	false
+17011	7004	unknown	Preceding	Formed by the union	Arrow	true	false
+17013	5008	10026	Succeeding	Continued by	Westside news (Hamilton, N.Z.)	true	false
+17014	9008	unknown	Preceding	Absorbed	Town & country crier	true	false
+17015	18002	unknown	Preceding	Continues	Northern outlook (1990)	true	false
+17016	5011	unknown	Preceding	Continues	Herald-gazette (Christchurch, N.Z.)	true	false
+17018	4015	11014	Succeeding	Continued by	Contact (Wellington, N.Z. : 1991)	true	false
+17021	12010	unknown	Succeeding	Continued by	New Zealand people's voice.	true	false
+17022	12012	unknown	Preceding	Continues	Waka Maori o Ahuriri	true	false
+17023	1022	3035	Succeeding	Merged	Leader (Nelson, N.Z.)	true	false
+17024	3025	10017	Preceding	Continues	Creativity network (Wellington, N.Z.)	true	false
+17025	9017	unknown	Preceding	Continues	Twizel newsletter	true	false
+17026	5024	13027	Preceding	Continues	Maori messenger (1855)	true	false
+17027	5024	unknown	Succeeding	Continued by	Karere Maori	true	false
+17028	14023	unknown	Preceding	Continues	Our town	true	false
+17029	5028	46	Continued By	Continued by	Report	false	false
+17031	4031	unknown	Preceding	Continues	Chinese weekly	true	false
+17032	11024	unknown	Preceding	Absorbed	Jia ri	true	false
+17033	11024	unknown	Succeeding	Continued in part by	Jia ri zhou bao	true	false
+17037	4040	11023	Succeeding	Continued by	Timaru's the courier	true	false
+17039	9022	unknown	Succeeding	Continued by	Korimako hou	true	false
+17040	4042	1027	Preceding	Absorbed	The Examiner	false	false
+17043	2041	4030	Preceding	Continues	Herald (Gisborne, N.Z.)	true	false
+17044	14035	11046	Succeeding	Merged	Christchurch mail (Waimairi, Papanui, Riccarton, Fendalton)	true	false
+17047	9032	unknown	Preceding	Continues	Consumers' shopping guide	true	false
+17048	3048	10027	Continued By		North Waikato Tatler	false	false
+17049	1046	unknown	Succeeding	Continued by	Weekly graphic and New Zealand mail	true	false
+17050	11043	10048	Continued By	Continued by	The Oxford Observer and Canterbury Democrat	false	false
+17053	8035	3050	Succeeding	Unrelated	Local matters (Wellsford, Kaiwaka, Mangawhai)	true	false
+17054	6048	7057	Preceding	Continues in part	High Country herald	true	false
+17055	11050	3058	Succeeding	Unrelated	Star community (Northern)	true	false
+17056	3058	unknown	Preceding	Continues	News advertiser (Northern)	true	false
+17057	9038	9038	Succeeding	Unrelated	Da ji yuan shi bao (Auckland, N.Z.)	true	false
+17058	12042	unknown	Succeeding	Merged	New Zealand Labour Party journal	true	false
+17059	4064	9045	Succeeding	Continued by	News advertiser (Christchurch, N.Z. : 2009)	true	false
+17060	10068	11053	Preceding	Continues	Star community news (Southern)	true	false
+17061	5060	4069	Preceding	Continues	Aucklander Manukau City	true	false
+18003	1001	6034	Continues		Auckland Weekly News	false	false
+18004	1001	4026	Continued By		New Zealand Weekly News	false	false
+18005	2002	6048	Succeeding	Split	Community high country herald (North Otago)	true	false
+18008	11003	unknown	Preceding	Formed by the union	City leader	true	false
+18013	11007	unknown	Succeeding	Merged	Waverley newsletter	true	false
+18014	14007	unknown	Preceding	Continues	Times record (Ingelwood, N.Z.)	true	false
+18015	3014	unknown	Preceding	Formed by the union	Sunday express	true	false
+18016	14008	unknown	Preceding	Continues	Eastern suburbs news	true	false
+18017	11014	7045	Succeeding	Merged	Wellington contact	true	false
+18019	10019	7045	Succeeding	Merged	Wellington contact	true	false
+18020	1029	9004	Succeeding	Continued by	The Ensign	false	false
+18021	11021	9027	Preceding	Continues	Punchi	true	false
+18022	6025	unknown	Preceding	Continues	Capital visitor	true	false
+18023	3028	5028	Continued By	Continued by	Whangarei Report [1997]	false	false
+18025	2033	12012	Preceding	Continues	Waka Maori o Niu Tirani (Wellington, N.Z.)	true	false
+18026	3034	3028	Continued By	Continued by	Whangarei's First Report	false	false
+18030	1040	3040	Succeeding	Merged	Northern courier (Wellington, N.Z.)	true	false
+18031	13035	5042	Succeeding	Merged into	Christchurch Star-Sun	false	false
+18032	36	unknown	Succeeding	Continued by	House of the Year. Taranaki, Manawatu, Wanganui, Wairarapa, Wellington, Nelson, Marlborough	true	false
+18033	40	6001	Continues	Continues	Evening Standard	false	false
+18034	14040	10021	Preceding	Continues	Tu?ranganui a? Kiwa pi?pi?wharauroa	true	false
+18035	6042	42	Succeeding	Merged	Aucklander (City ed.)	true	false
+18036	3044	1032	Preceding	Formed by the union	Papatoetoe & Otahuhu week	true	false
+18037	7045	11014	Preceding	Formed by the union	Contact (Wellington, N.Z. : 1991)	true	false
+18039	6046	unknown	Succeeding	Merged	Franklin times	true	false
+18040	13044	10027	Preceding	Continues	North Waikato Tatler	false	false
+18041	3058	4061	Succeeding	Unrelated	Star community (Eastern)	true	false
+18042	4062	10059	Succeeding	Merged	North Shore Aucklander	true	false
+18043	10056	11024	Preceding	Continues	Capital Chinese news	true	false
+18044	11051	1054	Preceding	Continues	Aucklander (Counties ed.)	true	false
+18045	10057	12016	Preceding	Continues	Waiuku & districts post	true	false
+18046	2057	3061	Succeeding	Continued by	Western news (Christchurch, N.Z.)	true	false
+18047	5054	4064	Succeeding	Unrelated	Star community news (Northern)	true	false
+18048	5054	7058	Succeeding	Continued by	Pegasus post (Christchurch, N.Z.)	true	false
+18049	10059	2055	Preceding	Formed by the union	Aucklander (North ed.)	true	false
+18050	6055	11046	Preceding	Continues	Christchurch mail (Waimairi, Papanui, Riccarton, Fendalton)	true	false
+18051	13052	6051	Preceding	Continues	Daily Chronicle 	false	false
+19003	1004	3044	Succeeding	Merged	Aucklander (South ed.)	true	false
+19004	4005	2001	Succeeding	Continued by	News advertiser (Christchurch, N.Z. : 1996)	true	false
+19005	14002	unknown	Preceding	Absorbed	Country living (Pukekohe, N.Z.)	true	false
+19006	2011	unknown	Preceding	Continues	Karori and Western Suburbs news	true	false
+19008	14013	8020	Succeeding	Continued by	New leader (Temuka, N.Z.)	true	false
+19009	12016	10057	Succeeding	Continued by	Post (Waiuku, N.Z.)	true	false
+19010	11019	4061	Succeeding	Continued by	Star community (Eastern)	true	false
+19011	3026	14021	Succeeding	Absorbed by	Countryman (Leeston, N.Z.)	true	false
+19013	1027	4042	Succeeding	Absorbed by	National Business Review	false	false
+19014	6028	62	Preceding	Absorbed	Taradale observer	true	false
+19015	23	3040	Succeeding	Merged	Northern courier (Wellington, N.Z.)	true	false
+19016	10031	4003	Continued By		Evening Herald	false	false
+19018	13028	4010	Preceding	Formed by the Union	Dunedin Star Midweek	false	false
+19020	3035	1022	Preceding	Formed by the union	Community leader (Nelson, N.Z.)	true	false
+19022	11028	6008	Preceding	Formed by the union	The Daily Telegraph	false	false
+19023	9025	6055	Preceding	Continues in part	Christchurch mail	true	false
+19025	9029	13011	Preceding	Continues	Chronicle (Kerikeri)	false	false
+19026	14038	unknown	Succeeding	Continued by	Dong fang zhan kan	true	false
+19027	6042	5053	Succeeding	Merged	Aucklander (Tamaki)	true	false
+19028	12034	9036	Succeeding	Continued by	This week (Hamilton, N.Z.)	true	false
+19031	3048	5016	Continues		Community Tatler	false	false
+19032	9036	unknown	Succeeding	Continued by	Hamilton this week	true	false
+19033	6046	8033	Succeeding	Merged	South Auckland news advertiser (1970)	true	false
+19034	3050	unknown	Succeeding	Continued by	Northern matters	true	false
+19035	5050	9031	Continues		District Monitor	false	false
+19036	7052	unknown	Succeeding	Continued by	Onslow news pictorial	true	false
+19037	14049	14037	Preceding	Continues	Feilding herald Rangitikei mail	true	false
+19038	3058	4064	Succeeding	Continued by	Star community news (Northern)	true	false
+19039	4062	2055	Preceding	Continues in part	Aucklander (North ed.)	true	false
+19040	4062	2055	Succeeding	Merged	Aucklander (North ed.)	true	false
+19041	11053	2057	Succeeding	Unrelated	Star community news (Western)	true	false
+19042	11053	11050	Preceding	Continues	Star community (Southern)	true	false
+19043	2057	13047	Preceding	Continues	Star community (Western)	true	false
+19045	6051	11030	Preceding	Formed by the union	Horowhenua-Kapiti Chronicle	false	false
+19046	14056	8035	Preceding	Continues	Local matters (Mahurangi, Matakana)	true	false
+19047	14056	unknown	Preceding	Absorbed	Northern matters	true	false
+19048	10059	4062	Preceding	Formed by the union	Aucklander (Shore : 2005)	true	false
+19049	11056	42	Preceding	Formed by the union	Aucklander (City ed.)	true	false
+19050	11056	unknown	Succeeding	Continued by	Aucklander.  Central	true	false
+19051	4070	5055	Preceding	Formed by the union	Citylife (North ed.)	true	false
+19053	1059	3008	Succeeding	Unrelated	Press (Christchurch, N.Z.)	true	false
+19054	14059	12009	Preceding	Continues	Guardian (Palmerston North, N.Z.)	true	false
+21002	6003	4033	Succeeding	Continued by	Christchurch Times	false	false
+21007	19001	3004	Succeeding	Continued by	Porirua news	true	false
+21008	12004	7016	Succeeding	Merged into	Wairarapa News & The Chronicle	false	false
+21010	10007	3052	Preceding	Formed by the union	North Shore times	true	false
+21012	1008	14049	Succeeding	Merged	Rangitikei mail	true	false
+21013	2009	2018	Succeeding	Continued by	Rodney Times	false	false
+21014	1012	unknown	Preceding	Formed by the union	Herald Weekender	true	false
+21016	7009	unknown	Preceding	Formed by the union	Courier (Manukau central ed.)	true	false
+21017	22001	14029	Preceding	Formed by the union	King Country Chronicle	false	false
+21018	7011	7016	Succeeding	Merged into	Wairarapa News & The Chronicle	true	false
+21019	10015	4030	Succeeding	Continued by	Herald [Gisborne]	false	false
+21020	2021	unknown	Succeeding	Absorbed by	Food and beverage news (Auckland, N.Z.)	true	false
+21021	2022	unknown	Succeeding	Continued by	Hurunui news.	true	false
+21022	7024	11045	Succeeding	Merged	Shore news (Christchurch, N.Z.)	true	false
+21023	9015	unknown	Preceding	Continues	Manuhiri tuarangi and Maori intelligencer	true	false
+21024	9015	unknown	Succeeding	Continued by	[Gazette notices]	true	false
+21025	5026	1053	Continued By		Hua Ye	false	false
+21026	3028	3034	Continues	Continues	Whangarei Report [1988]	false	false
+21027	1031	22	Preceding	Continues	Courier-leader (Hastings ed.)	true	false
+21029	4030	2041	Succeeding	Continued by	Gisborne Herald [2000]	false	false
+21032	26	4024	Succeeding	Merged into	Sunday Star-Times	false	false
+21033	14035	10042	Succeeding	Merged	Northern mail (Christchurch, N.Z.)	true	false
+21035	1041	10023	Preceding	Formed by the union	The Evening Post	false	false
+21036	4046	9038	Succeeding	Unrelated	Da ji yuan shi bao (Auckland, N.Z.). English. Epoch times	true	false
+21040	12035	6045	Preceding	Continues	Papatoetoe news	true	false
+21041	6046	unknown	Succeeding	Merged	Franklin times advertiser	true	false
+21042	7048	10039	Preceding	Continues	New Zealand Truth & TV Extra	false	false
+21043	13046	6043	Continued By		Horowhenua News	true	false
+21044	5053	11056	Succeeding	Merged	The Aucklander city	true	false
+21045	4061	3058	Succeeding	Unrelated	Star community (Northern)	true	false
+21046	2055	10059	Succeeding	Merged	North Shore Aucklander	true	false
+21047	12044	60	Succeeding	Continued by	Citylife Wainuiomata news	true	false
+21049	2060	10059	Preceding	Continues	North Shore Aucklander	true	false
+21050	10067	unknown	Succeeding	Continued by	Eastsider	true	false
+21051	60	12044	Preceding	Continues	Citylife (Wainuiomata ed.)	true	false
+21052	65	1020	Succeeding	Continued by	Central districts farmer	true	false
+22002	2001	4005	Preceding	Continues	Community news (Advertiser ed.)	true	false
+22003	1004	1032	Succeeding	Merged	Papatoetoe & Otahuhu week	true	false
+22006	12003	unknown	Preceding	Continues	Heathcote news	true	false
+22007	4006	7058	Preceding	Continues	Pegasus post	true	false
+22011	11004	unknown	Preceding	Continues	East city news advertiser	true	false
+22013	11007	unknown	Succeeding	Merged	Patea & Waverley press (1999)	true	false
+22016	12010	2029	Preceding	Absorbed	In print (Auckland, N.Z. : 1941)	true	false
+22017	7024	3007	Preceding	Continues	Community news (Observer ed.)	true	false
+22018	14021	3026	Preceding	Absorbed	Plains express	true	false
+22019	5028	3028	Continues	Continues	Whangarei's First Report	false	false
+22020	6027	6028	Succeeding	Continued by	Napier courier	true	false
+22021	1032	3044	Succeeding	Continued by	Aucklander (South ed.)	true	false
+22022	8022	1035	Preceding	Continues	Nelson Evening Mail	false	false
+22023	1034	2027	Preceding	Continues	New Zealand gazette and Britannia spectator	true	false
+22024	2033	unknown	Succeeding	Continued by	Waka Maori o Aotearoa	true	false
+22025	11026	unknown	Succeeding	Continued by	Opunake and coastal news	true	false
+22028	9025	13040	Succeeding	Continued by	Christchurch mail (Shirley, Burwood, Pegasus, Hagley)	true	false
+22029	14035	6055	Preceding	Continues in part	Christchurch mail	true	false
+22030	10042	14035	Succeeding	Merged	Western mail (Christchurch, N.Z.)	true	false
+22031	1040	23	Succeeding	Merged	Tawa times	true	false
+22032	14037	14049	Succeeding	Continued by	Rangitikei mail	true	false
+22033	42	6042	Succeeding	Merged	Aucklander (East ed.)	true	false
+22034	3044	4069	Succeeding	Continued by	The Aucklander Manukau City	true	false
+22035	7046	12029	Succeeding	Continued by	Times pinnacle	true	false
+22037	7047	unknown	Succeeding	Merged	Times advertiser (Pukekohe, N.Z.)	true	false
+22039	7049	unknown	Succeeding	Absorbed by	New Zealand nursing review	true	false
+22040	2051	14036	Preceding	Continues	Xin hua qiao si bao	true	false
+22041	5053	14039	Succeeding	Merged	Aucklander (Central ed.)	true	false
+22042	4061	11050	Succeeding	Unrelated	Star community (Southern)	true	false
+22043	2055	4048	Preceding	Continues	Aucklander (Shore ed.)	true	false
+22044	4064	3058	Preceding	Continues	Star community (Northern)	true	false
+22045	5054	2057	Succeeding	Unrelated	Star community news (Western)	true	false
+22046	10059	2060	Succeeding	Continued by	Aucklander North Shore	true	false
+22047	6054	10053	Preceding	Continues	Blenheim Sun	false	false
+22048	10065	7050	Preceding	Formed by the union	Bay beacon (Whitianga, N.Z.)	true	false
+22049	9043	14047	Preceding	Continues	Christchurch mail (Wigram, Spreydon, Heathcote, Ferrymead)	true	false
+22050	10066	13040	Preceding	Continues	Christchurch mail (Shirley, Burwood, Pegasus, Hagley)	true	false
+22051	11056	5053	Preceding	Formed by the union	Aucklander (Tamaki)	true	false
+23003	10007	3052	Succeeding	Continued by	North Shore times (Takapuna, N.Z.)	true	false
+23005	5010	49	Continued By		South Taranaki Star	true	false
+23008	23001	3017	Preceding	Continues	Christchurch mid-week mail	true	false
+23009	23001	10042	Succeeding	Split	Northern mail (Christchurch, N.Z.)	true	false
+23010	8012	unknown	Preceding	Continues	Korimako.	true	false
+23011	13018	unknown	Succeeding	Continued by	New Zealandia	true	false
+23013	5020	3037	Succeeding	Continued by	Pacific star	true	false
+23014	14016	10068	Succeeding	Absorbed by	Observer (Christchurch, N.Z. : 1990)	true	false
+23016	14023	1032	Succeeding	Merged	Papatoetoe & Otahuhu week	true	false
+23017	10027	13044	Continued By		North Waikato News	false	false
+23018	6031	4048	Succeeding	Continued by	Aucklander (Shore ed.)	true	false
+23019	23	1040	Succeeding	Merged	Newlands/Paparangi post	true	false
+23020	4032	6018	Continued By		Daily Southern Cross	false	false
+23022	4033	5042	Succeeding	Merged into	Christchurch Star-Sun	false	false
+23023	4039	unknown	Preceding	Continues	New Zealand worker	true	false
+23027	14033	7039	Continues		Evening Herald	false	false
+23028	3038	unknown	Succeeding	Continued by	Christchurch citizen	true	false
+23029	5040	4044	Succeeding	Continued by	Rotorua reader magazine	true	false
+23030	6039	2009	Succeeding	Absorbed by	Rodney & Waitemata times	true	false
+23031	8035	unknown	Succeeding	Continued by	Mahurangi matters	true	false
+23032	5047	6053	Succeeding	Continued by	Mid Canterbury herald	true	false
+23033	48	unknown	Succeeding	Continued by	TOM	true	false
+23034	7051	5006	Continues		Daily News	false	false
+23035	13047	3058	Succeeding	Unrelated	Star community (Northern)	true	false
+23036	13049	9028	Preceding	Continues	Xin Hua shang bao	true	false
+23037	14055	14055	Preceding	Continues	Oamaru mail extra.	true	false
+23038	9042	13050	Continues		Citylife (South ed.)	false	false
+23039	61	9042	Preceding	Continues	Citylife (Wellington, N.Z. : South & East)	true	false
+23040	8045	11056	Preceding	Continues	Aucklander City	true	false
+24004	9002	unknown	Preceding	Absorbed	4 quarter	true	false
+24005	10003	11052	Succeeding	Continued by	Country (Matamata, N.Z.)	true	false
+24006	4004	unknown	Succeeding	Continued by	Pipiwharauroa	true	false
+24007	5004	9014	Continued By		Coaster (1991)	false	false
+24008	6008	11028	Succeeding	Merged to form	Hawke's Bay Today	false	false
+24009	14006	unknown	Preceding	Absorbed	Northern comment	false	false
+24012	7009	unknown	Preceding	Formed by the union	Courier (Manukau & Franklin ed.)	true	false
+24013	11012	6027	Succeeding	Continued by	Courier-leader (Napier ed.)	true	false
+24014	23001	14035	Succeeding	Split	Western mail (Christchurch, N.Z.)	true	false
+24015	3021	unknown	Preceding	Continues	Waka o te iwi	true	false
+24016	1019	unknown	Succeeding	Continued by	Mirror (Central Otago ed.)	true	false
+24017	7020	12033	Preceding	Continues	Prohibitionist (Christchurch, N.Z.)	true	false
+24018	4024	5035	Preceding	Formed by the union	Sunday Star	false	false
+24019	2029	unknown	Preceding	Absorbed	Unity (Wellington, N.Z. : 1941)	true	false
+24020	3029	13042	Preceding	Continues	Waihi leader	true	false
+24021	2030	5020	Preceding	Continues	Pacific network newspaper	true	false
+24022	6030	7046	Succeeding	Continued by	Ellerslie & Panmure times	true	false
+24023	3032	1041	Succeeding	Merged into	The Dominion Post	false	false
+24025	11025	unknown	Preceding	Continues	Courier eastern	true	false
+24027	12029	7046	Preceding	Continues	Ellerslie & Panmure times	true	false
+24031	7047	unknown	Succeeding	Merged	Courier times advertiser	true	false
+24032	3050	4050	Preceding	Continues	Wellsford matters	true	false
+24033	46	5028	Preceding	Continues	Whangarei Report [1997]	false	false
+24035	5053	6042	Succeeding	Merged	Aucklander (East ed.)	true	false
+24036	4061	13047	Succeeding	Unrelated	Star community (Western)	true	false
+24037	4061	5054	Succeeding	Continued by	Star community news (Eastern)	true	false
+24038	12043	unknown	Preceding	Continues	College Sentinel	true	false
+24039	5054	11053	Succeeding	Unrelated	Star community news (Southern)	true	false
+24040	9042	61	Continued By		Citylife Cook Strait News	false	false
+24041	11056	6042	Preceding	Formed by the union	Aucklander (East ed.)	true	false
+25003	12003	8005	Succeeding	Continued by	Heathcote-Ferrymead news	true	false
+25004	4005	9045	Preceding	Continues	News advertiser (Christchurch, N.Z.)	true	false
+25005	3007	7024	Succeeding	Continued by	Observer (Christchurch, N.Z. : 1996)	true	false
+25006	3009	4053	Preceding	Formed by union	Wairarapa Daily Times	false	false
+25007	13004	7023	Preceding	Formed by the union	Guardian (Leeston, N.Z.)	true	false
+25010	1007	unknown	Succeeding	Continued by	Lakes District and Central Otago news	true	false
+25011	21001	unknown	Preceding	Continues	Taumarunui press	true	false
+25012	13011	9029	Succeeding	Continued by	Bay Chronicle	false	false
+25014	23001	9025	Succeeding	Split	Eastern mail (Christchurch, N.Z.)	true	false
+25015	1019	unknown	Succeeding	Continued by	Mirror (Queenstown-Lakes ed.)	true	false
+25016	12013	10036	Preceding	Continues	Remuera times	true	false
+25017	4024	26	Preceding	Formed by the union	Sunday Times	false	false
+25019	10030	unknown	Preceding	Continues	Review (New Zealand Returned Services' Association)	true	false
+25020	9019	2033	Preceding	Continues	Waka Maori o Niu Tirani (Gisborne, N.Z.)	true	false
+25021	11024	10056	Succeeding	Continued by	NZ Asia	true	false
+25023	12027	unknown	Preceding	Continues	Central suburbs leader	true	false
+25024	11027	4020	Preceding	Continues	Petone chronicle	true	false
+25025	11027	5048	Succeeding	Continued by	Petone and Harbour Ward herald	true	false
+25026	4041	1022	Succeeding	Merged	Community leader (Nelson, N.Z.)	true	false
+25028	34	unknown	Preceding	Continues	New Zealand Infotech weekly	true	false
+25029	10042	6055	Preceding	Continues in part	Christchurch mail	true	false
+25031	3044	1004	Preceding	Formed by the union	Manurewa week	true	false
+25034	13039	3004	Preceding	Continues	Porirua news	true	false
+25035	1052	37	Continues		Karere News	true	false
+25036	13047	unknown	Preceding	Continues	News advertiser (Western)	true	false
+25037	11053	5054	Succeeding	Unrelated	Star community news (Eastern)	true	false
+25038	4064	2057	Succeeding	Unrelated	Star community news (Western)	true	false
+25039	10065	unknown	Preceding	Formed by the union	Moehau messenger	true	false
+26002	4003	10031	Continues		Morning Herald	false	false
+26003	11003	unknown	Preceding	Formed by the union	Te Mata leader	true	false
+26004	11003	2012	Preceding	Formed by the union	Western leader (Hastings, N.Z.)	true	false
+26006	3008	1059	Succeeding	Unrelated	Press (Christchurch, N.Z. : South Island ed.)	true	false
+26007	1007	unknown	Preceding	Formed by the union	Dunstan times	true	false
+26009	2009	10049	Preceding	Continues	Rodney and Otamatea Times, Waitemata and Kaipara Gazette	false	false
+26010	21001	unknown	Preceding	Continues	Plateau gazette	true	false
+26011	8005	12003	Preceding	Continues	Heathcote County news	true	false
+26012	6011	2034	Succeeding	Merged into	Thames Valley Gazette [1998]	false	false
+26014	3017	6055	Succeeding	Continued by	Christchurch mail	true	false
+26015	14008	unknown	Succeeding	Continued by	Cook Strait news	true	false
+26016	13012	unknown	Preceding	Continues	Reparoa report	true	false
+26017	3019	3029	Succeeding	Continued by	Leader (Waihi, N.Z.)	true	false
+26018	6016	10017	Succeeding	Continued by	Creativity network (Wellington, N.Z.)	true	false
+26019	4019	unknown	Preceding	Continues	Country weekender	true	false
+26020	12012	2033	Succeeding	Continued by	Waka Maori o Niu Tirani (Gisborne, N.Z.)	true	false
+26021	1020	unknown	Preceding	Absorbed	Wanganui Rangitikei farmer	true	false
+26023	2019	3020	Preceding	Continues	Riccarton & Hornby times	true	false
+26025	1022	unknown	Preceding	Continues	Richmond leader	true	false
+26026	7024	11050	Succeeding	Merged	Star community (Southern)	true	false
+26027	1025	unknown	Preceding	Continues	River Valley newsbrief	true	false
+26028	1025	unknown	Succeeding	Continued by	Nor-west news	true	false
+26029	13022	unknown	Preceding	Continues	Kupu whakamarama	true	false
+26030	8021	8015	Preceding	Continues	House & home (Wellington ed.)	true	false
+26031	11023	4040	Preceding	Continues	South Canterbury community news	true	false
+26034	12028	7034	Succeeding	Continued by	N.Z. home pictorial	true	false
+26035	7034	12028	Preceding	Continues	N.Z. pictorial news	true	false
+26036	3040	1040	Preceding	Formed by the union	Newlands/Paparangi post	true	false
+26037	14037	14049	Preceding	Formed by the union	Rangitikei mail	true	false
+26038	14039	11056	Succeeding	Merged	The Aucklander city	true	false
+26039	42	5053	Succeeding	Merged	Aucklander (Tamaki)	true	false
+26040	12033	7020	Succeeding	Continued by	Prohibitionist and direct veto advocate	true	false
+26041	6043	13046	Continues		Kapiti-Horowhenua News	true	false
+26042	10048	11043	Continues	Continues	Oxford and Cust Observer and Canterbury Liberal	false	false
+26043	7047	unknown	Preceding	Continues	Otahuhu courier	true	false
+26044	5048	11027	Preceding	Continues	Petone herald	true	false
+26045	2053	7045	Preceding	Continues	Wellington contact	true	false
+26046	8036	7043	Continues		Far  North &  Doubtless Bay  Times	true	false
+26047	11050	7024	Preceding	Formed by the union	Observer (Christchurch, N.Z. : 1996)	true	false
+26048	4061	11019	Preceding	Continues	Pegasus post (1996)	true	false
+26049	13047	4061	Succeeding	Unrelated	Star community (Eastern)	true	false
+26050	13047	2057	Succeeding	Continued by	Star community news (Western)	true	false
+26051	9039	unknown	Succeeding	Merged	West & north citylife	true	false
+26052	14057	unknown	Preceding	Continues	Local matters (Wellsford, Kaiwaka, Mangawai)	true	false
+26053	9044	2061	Preceding	Continues	Pinoy.net.nz.	true	false
+26054	59	unknown	Preceding	Continues	Eastside community news	true	false
+26055	12045	4070	Preceding	Continues	Citylife (West & North ed.)	true	false
+27001	2002	5047	Succeeding	Split	Community high country herald (Mid Canterbury)	true	false
+27003	3004	13039	Continued By		Porirua City news	false	false
+27004	3007	10068	Preceding	Continues	Observer (Christchurch, N.Z.)	true	false
+27005	9004	1029	Preceding	Continues	Mataura Ensign	false	false
+27007	1007	unknown	Preceding	Formed by the union	Lake County mail	true	false
+27009	6010	1050	Preceding	Continues	Leader (Upper Hutt, N.Z.)	true	false
+27010	3014	unknown	Preceding	Formed by the union	Northern star	true	false
+27011	1012	unknown	Preceding	Formed by the union	Herald Midweek	true	false
+27012	1013	4015	Succeeding	Continued by	Contact weekender	true	false
+27014	6014	10013	Succeeding	Continued by	Pauanui press	true	false
+27015	10017	unknown	Preceding	Continues	Art & creativity	true	false
+27016	10017	3025	Succeeding	Continued by	Learning Connexion (Series)	true	false
+27017	11014	4015	Preceding	Continues	Contact weekender	true	false
+27019	12013	unknown	Succeeding	Continued by	Times midweek (Auckland, N.Z.)	true	false
+27021	7016	12004	Preceding	Formed by the union	Chronicle	false	false
+27023	2021	unknown	Preceding	Continues in part	Food and beverage news (Auckland, N.Z.)	true	false
+27025	11017	unknown	Preceding	Continues	Here's the drum	true	false
+27026	4026	1001	Preceding	Continues	Weekly News	false	false
+27027	13022	unknown	Succeeding	Continued by	Kopara	true	false
+27028	10022	7020	Preceding	Continues	Prohibitionist and direct veto advocate.	true	false
+27029	10025	11054	Succeeding	Continued by	Selwyn times.	true	false
+27030	14023	3044	Succeeding	Merged	Aucklander (South ed.)	true	false
+27032	6027	11012	Preceding	Continues	Courier (Napier, N.Z.)	true	false
+27033	1031	1050	Succeeding	Continued by	Leader (Hastings, N.Z. : 2004)	true	false
+27034	6028	62	Succeeding	Continued in part by	Taradale observer (Taradale, N.Z.)	true	false
+27035	12026	unknown	Preceding	Continues	New times (Auckland, N.Z.)	true	false
+27038	11028	8003	Preceding	Formed by the union	Hawke's Bay Herald-Tribune	false	false
+27039	10040	7002	Succeeding	Absorbed by	West Coast messenger	true	false
+27040	12030	5043	Succeeding	Continued by	Dannevirke advocate	true	false
+27041	6038	9021	Preceding	Continues	Exercise (Wellington, N.Z.)	true	false
+27042	6038	4037	Succeeding	Continued by	Capital news (Wellington Polytechnic. Journalism Course)	true	false
+27043	2044	6055	Preceding	Continues in part	Christchurch mail	true	false
+27044	2044	14047	Succeeding	Continued by	Christchurch mail (Wigram, Spreydon, Heathcote, Ferrymead)	true	false
+27045	1041	3032	Preceding	Formed by the union	The Dominion	false	false
+27046	9028	13049	Succeeding	Continued by	Xin Hua zhou kan	true	false
+27047	7044	unknown	Succeeding	Continued by	Onslow news pictorial	true	false
+27048	10049	2009	Succeeding	Continued by	Rodney & Waitemata Times	false	false
+27049	44	5006	Succeeding	Continued by	Daily News	false	false
+27050	13038	6011	Succeeding	Continued by	Paeroa Gazette	false	false
+27054	12042	unknown	Succeeding	Merged	Nation (New Zealand Labour Party)	true	false
+27057	6050	2053	Preceding	Separted from	Wellingtonian (Wellington, N.Z. : 2004)	true	false
+27058	14057	unknown	Succeeding	Absorbed by	Mahurangi matters	true	false
+27060	3059	6047	Preceding	Continues	Winton record	true	false
+27062	8042	43	Preceding	Continues	Aucklander (West ed.)	true	false
+27063	8042	unknown	Succeeding	Continued by	Aucklander.  West	true	false
+27064	4069	3044	Preceding	Continues	Aucklander (South ed.)	true	false
+27065	7058	5054	Preceding	Continues	Star community news (Eastern)	true	false
+27066	62	6028	Preceding	Separted from	Napier courier	true	false
+28001	2002	4054	Succeeding	Split	Community high country herald (South Canterbury)	true	false
+28002	4002	8003	Succeeding	Merged to form	Hawke's Bay Herald-Tribune	false	false
+28003	13001	unknown	Preceding	Continues	Kawau Island kookaburra	true	false
+28004	4007	5023	Succeeding	Continued by	Community review (Hamilton, N.Z.)	true	false
+28006	10007	unknown	Preceding	Formed by the union	North Shore advertiser	true	false
+28007	1008	14037	Succeeding	Merged	Feilding herald Rangitikei mail	true	false
+28013	7010	unknown	Preceding	Continues in part	Westsider (Hamilton, N.Z.)	true	false
+28014	10013	6014	Preceding	Continues	Pauanui post	true	false
+28015	10016	unknown	Preceding	Continues	Matakokiri taima (1911)	true	false
+28016	12011	unknown	Succeeding	Continued by	Community views (Takaka, N.Z.)	true	false
+28017	1021	4006	Succeeding	Continued by	Community news (Pegasus post ed.)	true	false
+28018	12014	unknown	Succeeding	Continued by	Mail (Waipawa, N.Z.)	true	false
+28019	5025	8023	Preceding	Continues	Wellington Independent	false	false
+28020	3027	2027	Continued By	Continued by	New Zealand Gazette and Britannia Spectator	false	false
+28021	5027	unknown	Succeeding	Continued by	Toa takitini	true	false
+28022	14023	1004	Succeeding	Merged	Manurewa week	true	false
+28023	8020	14013	Preceding	Continues	New Temuka leader	true	false
+28024	22	7055	Succeeding	Continued by	Hastings leader	true	false
+28025	10026	5008	Preceding	Continues	Nawton news	true	false
+28026	10027	3048	Continues		New Tatler	false	false
+28028	11022	5034	Continued By		Daily News	false	false
+28029	1035	8022	Succeeding	Continued by	Nelson Mail	false	false
+28031	7034	unknown	Succeeding	Absorbed by	New Zealand illustrated sporting & dramatic review	true	false
+28032	34	1041	Succeeding	Absorbed by	Dominion post (Wellington, N.Z.)	true	false
+28034	3040	23	Preceding	Formed by the union	Tawa times	true	false
+28035	37	1052	Continued By		Karere Maori News [2004]	true	false
+28036	3044	14023	Preceding	Formed by the union	Our town Papakura	true	false
+28037	4050	3050	Succeeding	Continued by	Local matters (Wellsford, Kaiwaka, Mangawhai)	true	false
+28040	11046	14035	Preceding	Formed by the union	Western mail (Christchurch, N.Z.)	true	false
+28041	3052	10007	Preceding	Continues	North Shore times advertiser	true	false
+28042	2053	6050	Succeeding	Continued in part by	Norwester (Wellington, N.Z. : 2006)	true	false
+28043	5053	42	Succeeding	Merged	Aucklander (City ed.)	true	false
+28044	3058	11050	Succeeding	Unrelated	Star community (Southern)	true	false
+28045	2055	4062	Succeeding	Continued in part by	Aucklander (Shore : 2005)	true	false
+28046	2055	4062	Succeeding	Merged	Aucklander (Shore : 2005)	true	false
+28047	11052	10003	Preceding	Continues	East Waikato country	true	false
+28048	2057	4064	Succeeding	Unrelated	Star community news (Northern)	true	false
+28049	5054	4061	Preceding	Continues	Star community (Eastern)	true	false
+28051	7057	4054	Preceding	Continues	Community high country herald (South Canterbury)	true	false
+28052	4070	12045	Succeeding	Continued by	Citylife independent herald	true	false
+28053	4071	10068	Preceding	Separted from	Observer (Christchurch, N.Z. : 2009)	true	false
+29001	8001	unknown	Succeeding	Continued by	Maori messenger (1849)	true	false
+29003	6007	unknown	Preceding	Continues	East Coast Bays news	true	false
+29005	8003	11028	Succeeding	Merged to form	Hawke's Bay Today	false	false
+29006	2006	unknown	Preceding	Continues	North Wairarapa news	true	false
+29008	3013	unknown	Preceding	Continues	Waipa post	true	false
+29009	7010	unknown	Preceding	Continues in part	Eastsider (Hamilton, N.Z.)	true	false
+29010	6016	unknown	Preceding	Continues	TLC mindbiz	true	false
+29011	7018	unknown	Succeeding	Continued by	Waitakere week west	true	false
+29012	7019	unknown	Succeeding	Continued by	Waitakere week north	true	false
+29013	8018	unknown	Preceding	Continues	SC guardian	true	false
+29014	6028	6027	Preceding	Continues	Courier-leader (Napier ed.)	true	false
+29015	11025	3023	Succeeding	Continued in part by	East & bays courier	true	false
+29017	10039	7048	Succeeding	Continued by	New Zealand Truth	false	false
+29018	7037	4028	Is Edition Of		Ashburton Guardian	false	false
+29019	7038	unknown	Preceding	Formed by the union	Village news (Richmond, N.Z.)	true	false
+29021	10042	11046	Succeeding	Merged	Christchurch mail (Waimairi, Papanui, Riccarton, Fendalton)	true	false
+29022	11037	unknown	Succeeding	Continued by	Hilton news.	true	false
+29023	6042	14039	Succeeding	Merged	Aucklander (Central ed.)	true	false
+29024	7045	10019	Preceding	Formed by the union	Norwester (Wellington, N.Z.)	true	false
+29026	9032	unknown	Succeeding	Continued by	Christchurch shopping & TV guide	true	false
+29028	9036	12034	Preceding	Continues	Waikato this week	true	false
+29029	4054	7057	Preceding	Continues in part	High Country herald	true	false
+29030	13042	3029	Preceding	Continues	Leader (Waihi, N.Z.)	true	false
+29031	10052	9036	Preceding	Continues	This week (Hamilton, N.Z.)	true	false
+29032	2057	5054	Succeeding	Unrelated	Star community news (Eastern)	true	false
+29033	9040	unknown	Succeeding	Continued by	NiHao	true	false
+29034	6053	5047	Preceding	Continues	Community high country herald (Mid Canterbury)	true	false
+29035	2060	unknown	Succeeding	Continued by	Aucklander.  North	true	false
+29036	9045	4064	Preceding	Continues	Star community news (Northern)	true	false
+29037	13054	14038	Preceding	Continues	Dong fang shi bao	true	false
+30001	1004	14023	Succeeding	Merged	Our town Papakura	true	false
+30003	17001	unknown	Succeeding	Absorbed by	Auckland city news	true	false
+30004	4006	11019	Succeeding	Continued by	Pegasus post (1996)	true	false
+30005	11003	22	Succeeding	Continued by	Courier-leader (Hastings ed.)	true	false
+30007	7004	unknown	Preceding	Formed by the union	Morrinsville star	true	false
+30008	14005	unknown	Preceding	Continues	Hutt news (1927)	true	false
+30009	2009	6039	Preceding	Absorbed	Helensville Recorder	false	false
+30010	3012	unknown	Succeeding	Continued by	Cook Strait news	true	false
+30013	11008	1047	Continued By		Dannevirke News	false	false
+30014	4013	unknown	Preceding	Continues	New envoy	true	false
+30015	17002	10029	Succeeding	Absorbed by	Marlborough times (Nelson, N.Z.)	true	false
+30016	24001	unknown	Preceding	Continues	Riccarton borough news	true	false
+30017	11013	unknown	Preceding	Continues	Coast to coast weekly	true	false
+30018	4020	11027	Succeeding	Continued by	Petone herald	true	false
+30020	1020	unknown	Preceding	Absorbed	Manawatu farmer	true	false
+30021	1022	4041	Succeeding	Merged	Motueka sun	true	false
+30022	10021	14040	Succeeding	Continued by	Pi?pi?wharauroa (Gisborne, N.Z.)	true	false
+30023	2026	4031	Succeeding	Continued by	Xian qu bao	true	false
+30025	2027	3027	Preceding	Continues	New Zealand Gazette	false	false
+30027	5027	unknown	Preceding	Continues	Pipiwharauroa	true	false
+30028	1032	unknown	Preceding	Continues	Papatoetoe week	true	false
+30029	6029	unknown	Succeeding	Continued by	R.S.A. review	true	false
+30030	6031	unknown	Preceding	Continues	North Shore Week	true	false
+30033	4036	6018	Preceding	Absorbed	Daily Southern Cross	false	false
+30034	13028	10008	Preceding	Formed by the Union	Dunedin Star Weekender	false	false
+30035	5035	4024	Succeeding	Merged into	Sunday Star-Times	false	false
+30036	10036	12013	Succeeding	Continued by	Bays and Remuera times	true	false
+30038	7038	unknown	Preceding	Formed by the union	RdR	true	false
+30039	7039	14033	Continued By		The Wanganui Herald	false	false
+30042	11035	unknown	Succeeding	Continued by	Howick post	true	false
+30043	42	11056	Succeeding	Merged	The Aucklander city	true	false
+30044	6042	11056	Succeeding	Merged	The Aucklander city	true	false
+30045	5043	12030	Continues		Bush Advocate	false	false
+30047	5047	7057	Preceding	Continues in part	High Country herald	true	false
+30048	14047	2044	Preceding	Continues	Christchurch southern mail	true	false
+30049	13040	9025	Preceding	Continues	Eastern mail (Christchurch, N.Z.)	true	false
+30050	13043	unknown	Succeeding	Continued by	Wairoa guardian	true	false
+30051	11047	1025	Preceding	Continues	Nor'west newsbrief	true	false
+30052	11050	11053	Succeeding	Continued by	Star community news (Southern)	true	false
+30053	3058	13047	Succeeding	Unrelated	Star community (Western)	true	false
+30054	13047	11050	Succeeding	Unrelated	Star community (Southern)	true	false
+30055	11053	4064	Succeeding	Unrelated	Star community news (Northern)	true	false
+30056	2057	11053	Succeeding	Unrelated	Star community news (Southern)	true	false
+30057	4064	11053	Succeeding	Unrelated	Star community news (Southern)	true	false
+30058	5055	11005	Preceding	Continues	Independent herald (Wellington, N.Z.)	true	false
+30059	5055	unknown	Succeeding	Merged	West & north citylife	true	false
+30060	14053	13039	Continues		Porirua City News	false	false
+30063	2064	unknown	Preceding	Continues	New Zealand truth weekly	true	false
+30064	3062	unknown	Preceding	Continues	Hamilton this week	true	false
+30065	11058	unknown	Succeeding	Continued by	Northern farm review	true	false
+31001	13001	unknown	Succeeding	Continued by	Kookaburra (Kawau Island, N.Z.)	true	false
+31002	8044	11058	Preceding	Continues	South Auckland farm review	true	false
+32002	1010	4023	Succeeding	Absorbed by	Southern gazette (Balclutha, N.Z.)	true	false
+32003	5042	13035	Preceding	Formed by union	The Star	false	false
+33002	14002	9033	Preceding	Continues	County news (Pukekohe, N.Z.)	true	false
+33003	1015	8006	Succeeding	Continued by	Central Canterbury News (1990)	false	false
+34001	14003	unknown	Preceding	Continues	Matamata district chronicle	true	false
+34002	3056	12013	Preceding	Continues	Bays and Remuera times (Auckland, N.Z. : 1994)	true	false
+34003	7055	1050	Preceding	Continues	Leader (Hastings, N.Z. : 2004)	true	false
+35002	3020	2019	Succeeding	Continued by	West city times	true	false
+35003	23001	2044	Succeeding	Split	Christchurch southern mail	true	false
+35004	9021	6038	Succeeding	Continued by	Exercise (Wellington, N.Z. : 1971)	true	false
+35005	4037	6038	Preceding	Continues	Exercise (Wellington, N.Z. : 1971)	true	false
+37002	8015	8021	Succeeding	Continued by	Wellington's house & home	true	false
+37003	5023	4007	Preceding	Continues	Tamahere crier	true	false
+37004	8018	7023	Succeeding	Continued by	Guardian (Normanby, N.Z.)	true	false
+37005	1032	1004	Succeeding	Merged	Manurewa week	true	false
+37006	9027	11021	Succeeding	Continued by	Maoriland thinker	true	false
+37007	4051	8004	Succeeding	Continued by	Kapiti observer	true	false
+38001	13027	unknown	Preceding	Continues	Maori messenger (1849)	true	false
+39001	13029	12012	Succeeding	Continued by	Waka Maori o Niu Tirani (Wellington, N.Z.)	true	false
+40001	31	3051	Succeeding	Continued by	Review (Palmerston, N.Z.)	true	false
+40002	4043	unknown	Preceding	Continues	Newlands-Paparangi monthly times	true	false
+41002	4066	unknown	Preceding	Continues	Oakura messenger	true	false
+42001	8038	6043	Continues		Horowhenua News	true	false
+42002	1053	5026	Continues		Mandarin Times	false	false
+42003	4069	unknown	Succeeding	Continued by	Aucklander. South	true	false
+42004	10070	8042	Preceding	Continues	Aucklander Waitakere	true	false
+44001	10043	13036	Succeeding	Continued by	North Otago Times	false	false
+45001	13036	10043	Preceding	Continues	Oamaru Times and Waitaki Reporter	false	false
+51001	13053	4036	Preceding	Main edition	New  Zealand Herald	false	false
+75002	61104	66131	Continues		Patea County Mail	true	false
+77004	14006	70084	Preceding	Continues	Guardian	false	false
+79003	66131	61104	Continued By		Patea Daily Mail	true	false
+81002	58119	61104	Continues		Patea Daily Mail	true	false
+88001	61104	58119	Continued By		Patea Mail (1882)	true	false
+90002	66132	66131	Continued By		Patea County Mail	true	false
+91001	66131	66132	Continues		Patea Mail [1875]	true	false
+94001	71095	63082	Preceding	Incorporates	Kamo &  Hikurangi Echo	false	false
+95001	63082	71095	Succeeding	Incorporated by	Marsden Times and  Whangarei County Official Gazette	false	false
+96001	64139	63134	Succeeding	Continued by	Rotorua Post	false	false
+96007	69153	3041	Succeeding	Absorbed by	The  Inangahua Times	false	false
+97001	63134	64139	Preceding	Continues	Rotorua Morning Post	false	false
+97002	4044	5040	Preceding	Continues	Weekend Reader Magazine	false	false
+97007	69065	12006	Succeeding	Continued by	Whakatane Beacon	false	false
+97008	12006	69065	Preceding	Continues	Bay  of  Plenty Beacon	false	false
+97012	5039	59148	Succeeding	Continued by	Te  Aroha News [1917]	false	false
+98009	3041	69153	Preceding	Absorbed	Reefton Guardian	false	false
+98012	59087	3041	Succeeding	Absorbed by	The  Inangahua Times	false	false
+99001	63134	10028	Succeeding	Continued by	Daily Post	false	false
+99006	3041	62079	Succeeding	Continued by	Inangahua-Murchison Times	false	false
+101012	58127	3041	Succeeding	Continued by	The  Inangahua Times	false	false
+101013	62182	59076	Succeeding	Continued by	Examiner	false	false
+101020	5039	8027	Preceding	Continues	The Te Aroha News	false	false
+102001	10028	63134	Preceding	Continues	Rotorua Post	false	false
+105012	8027	5039	Succeeding	Continued by	The Aroha & Ohinemuri News	false	false
+106005	9003	68053	Continues		Evening Star	false	false
+108012	59076	62182	Preceding	Continues	Woodville Examiner	false	false
+109005	68053	9003	Continued By		Auckland Star	false	false
+109010	3041	58127	Preceding	Continues	Reefton Courier and  Inangahua Advertiser	false	false
+109015	59148	5039	Preceding	Continues	The Aroha & Ohinemuri News	false	false
+110010	3041	59087	Preceding	Absorbed	Inangahua Herald	false	false
+110011	62079	3041	Preceding	Continues	The Inangahua Times	false	false
+114002	65070	5043	Preceding	Incorporates	Dannevirke Advocate	false	false
+121008	10023	1041	Succeeding	Merged into	The Dominion Post	false	false
+121016	1045	14034	Preceding	Spun off from	The  New  Zealand Observer and  Free Lance	false	false
+122011	72041	9020	Preceding	Continues	The  Grey River Argus	false	false
+123011	11042	14034	Succeeding	Continued by	The New  Zealand Observer and  Free Lance	false	false
+123014	9020	72041	Succeeding	Continued by	Argus Leader	false	false
+124013	8003	4002	Preceding	Formed by the union	The Hawke's Bay Herald	false	false
+127012	14034	11042	Preceding	Continues	Observer and  Free Lance	false	false
+128009	13030	66076	Preceding	Continues	Feilding Guardian	false	false
+132002	1035	14043	Preceding	Absorbed	Colonist	false	false
+133008	66076	13030	Succeeding	Continued by	Feilding Star	false	false
+134001	14043	1035	Succeeding	Absorbed by	Nelson Evening Mail	false	false
+134002	6018	4036	Succeeding	Absorbed by	New  Zealand Herald	false	false
+134006	65088	66067	Preceding	Continues	Ellesmere Guardian	false	false
+134007	66067	65088	Succeeding	Continued by	Guardian	false	false
+137009	9006	66078	Preceding	Continues	Foxton Herald	false	false
+138008	141012	66078	Succeeding	Continued by	Foxton Herald	false	false
+142003	13008	150002	Preceding	Continues	Bay Sun (Te Puke Edition)	false	false
+142005	58086	70092	Succeeding	Continued by	Horowhenua Chronicle	false	false
+143004	58078	70092	Continues		Horowhenua Chronicle	false	false
+145004	1015	13004	Preceding	Continues	Central Canterbury News	false	false
+145005	13004	1015	Succeeding	Continued by	NewsPlus	false	false
+145011	141010	68024	Succeeding	Continued by	The  Kaipara and  Waitemata Echo	false	false
+148005	70092	58078	Succeeding	Continued by	Levin Chronicle	false	false
+149006	4035	2042	Has Edition		The Hawke's Bay Weekly Times	false	false
+150001	8006	1015	Preceding	Continues	NewsPlus	false	false
+150004	150002	13008	Succeeding	Continued by	Te  Puke Times (1981)	false	false
+150006	4033	6003	Preceding	Continues	The  Lyttelton Times	false	false
+152001	150002	11044	Preceding	Continues	Te  Puke Times	false	false
+152002	11044	150002	Succeeding	Continued by	Bay Sun (Te Puke Edition)	false	false
+153002	2042	4035	Is Edition Of		Hawke's Bay Times	false	false
+154004	70092	58086	Preceding	Continues	Manawatu Farmer and  Horowhenua County Chronicle	false	false
+154007	68024	141010	Preceding	Continues	The Kaipara Advertiser and Waitemata Chronicle	false	false
+154011	66078	9006	Continued By		Manawatu Herald [1961]	false	false
+157014	14020	70123	Succeeding	Continued by	New  Zealand Worker	false	false
+161017	70123	14020	Preceding	Continues	The Maoriland Worker	false	false
+202001	2014	61138	Preceding	Continues	Waimarino Bulletin	false	false
+204001	61138	2014	Succeeding	Continued by	Ruapehu Bulletin	false	false
+217004	3006	10039	Succeeding	Continued by	New  Zealand Truth &  TV  Extra	false	false
+220004	3006	70116	Preceding	Continues	N.Z. Truth	false	false
+223004	70116	3006	Succeeding	Continued by	New  Truth &  TV  Extra	false	false
+224001	60167	4008	Succeeding	Continued by	Northern Advocate	false	false
+226001	4008	60167	Preceding	Continues	Whangarei Comet and  Northern Advertiser	false	false
+238002	7032	11042	Succeeding	Merged into	Observer and  Free Lance	false	false
+240003	11042	60054	Preceding	Formed by union	Evening Telephone	false	false
+240004	65044	69089	Preceding	Continues	Evening Bell	false	false
+242004	69089	65044	Succeeding	Continued by	Auckland Evening Bell	false	false
+242005	11042	65044	Preceding	Incorporates	Auckland Evening Bell	false	false
+243001	13032	11042	Succeeding	Merged into	Observer and  Free Lance	false	false
+246003	65044	11042	Succeeding	Incorporated by	Observer and  Free Lance	false	false
+248001	60054	11042	Succeeding	Merged into	Observer and  Free Lance	false	false
+255006	259004	4012	Succeeding	Continued by	Thames Star	false	false
+259002	258002	13038	Succeeding	Merged into	Thames Valley Gazette [1977]	false	false
+260003	6011	13038	Preceding	Continues	Thames Valley Gazette [1977]	false	false
+260008	4012	67158	Preceding	Absorbed	Thames Advertiser	false	false
+261001	72067	4052	Succeeding	Incorporated by	Ohinemuri Gazette	false	false
+261003	258002	4052	Preceding	Continues	Ohinemuri Gazette	false	false
+262001	4052	72067	Preceding	Incorporated	Hauraki Tribune and  County of  Ohinemuri Advertiser	false	false
+262006	67158	4012	Succeeding	Absorbed into	Thames Star	false	false
+263004	4012	2034	Succeeding	Merged into	Thames Valley Gazette	false	false
+264001	4052	258002	Succeeding	Continued by	Hauraki Plains Gazette	false	false
+264002	2034	6011	Preceding	Formed by union	Paeroa Gazette	false	false
+265002	13038	258002	Preceding	Formed by union	Hauraki Plains Gazette	false	false
+265003	2034	4012	Preceding	Formed by union	Thames Star	false	false
+266001	13038	69176	Preceding	Formed by union	Thames and  Peninsula Gazette	false	false
+267001	69176	13038	Succeeding	Merged into	Thames Valley Gazette [1977]	false	false
+267004	4012	259004	Preceding	Continues	The Evening Star	false	false
+280001	6037	269002	Preceding	Absorbed	Gisborne Times	false	false
+283001	269002	6037	Succeeding	Absorbed by	The Poverty Bay Herald	false	false
+288002	4030	10015	Preceding	Continues	Gisborne Herald [1939]	false	false
+296002	5042	67147	Preceding	Formed by union	Sun	false	false
+299002	3030	5044	Preceding	Continues	Invercargill Times	false	false
+300002	2018	2009	Preceding	Continues	Rodney &  Waitemata Times	false	false
+301005	67147	5042	Succeeding	Merged into	Christchurch Star-Sun	false	false
+305001	5044	3030	Succeeding	Continued by	Southland Times	false	false
+325002	64055	61055	Preceding	Incorporates	East Coast Guardian	false	false
+327001	61055	64055	Succeeding	Incorporated By	Bay of Plenty Press	false	false
+336003	10004	61132	Preceding	Continues	Times	false	false
+339002	5038	61132	Succeeding	Continued by	Times	false	false
+344001	14032	71158	Succeeding	Continued by	Waimate Daily Advertiser	false	false
+344005	61140	4053	Continued By		Wairarapa Daily Times	false	false
+344009	68153	2010	Succeeding	Continued by	Waihi Gazette	false	false
+345003	13007	65173	Preceding	Continues	Waimate Daily Advertiser [1972]	false	false
+345005	3009	66175	Preceding	Formed by union	Wairarapa Age	false	false
+346001	71158	14032	Preceding	Continues	The  Waimate Advertiser	false	false
+346002	65068	65173	Succeeding	Continued by	Waimate Daily Advertiser [1972]	false	false
+346005	63155	73024	Preceding	Continues	Waihi Miner and  Hauraki Goldfield Gazette	false	false
+346007	2010	68153	Preceding	Continues	Waihi Telegraph	false	false
+348001	71158	65068	Succeeding	Continued by	Daily Advertiser	false	false
+348002	65173	65068	Preceding	Continues	Daily Advertiser	false	false
+348003	65173	13007	Succeeding	Continued by	Waimate Advertiser [1980]	false	false
+348005	4053	61140	Preceding	Continues	Wairarapa Daily	false	false
+348007	68153	70065	Preceding	Continues	Daily Telegraph	false	false
+349001	65068	71158	Preceding	Continues	Waimate Daily Advertiser	false	false
+351005	63155	70065	Succeeding	Continued by	Daily Telegraph	false	false
+351006	70065	63155	Preceding	Continues	Waihi Daily Telegraph	false	false
+352003	66175	3009	Succeeding	Merged into	Wairarapa Times-Age	false	false
+355003	70065	68153	Succeeding	Continued by	Waihi Telegraph	false	false
+358001	73024	63155	Succeeding	Continued by	Waihi Daily Telegraph	false	false
+372004	62180	72168	Continues		Westport Times and Buller Express	false	false
+372010	10050	70100	Continued By	Continued by	Leader	false	false
+374007	67179	70053	Succeeding	Continued by	Buller Times	false	false
+374008	68169	60166	Preceding	Formed by union	Westport Star	false	false
+376002	8023	5025	Succeeding	Continued by	New  Zealand Times	false	false
+378002	5025	3032	Succeeding	Absorbed by	The Dominion	false	false
+378006	67179	68169	Preceding	Continues	Westport Times and  Evening Star	false	false
+378007	60166	68169	Succeeding	Merged into	Westport Times and  Evening Star	false	false
+380006	72147	60084	Preceding	Continues	Manawatu Daily Times	false	false
+381001	3032	5025	Preceding	Absorbed	New  Zealand Times	false	false
+381010	60084	68086	Preceding	Continues	Manawatu Times	false	false
+381011	60084	72147	Succeeding	Continued by	Times	false	false
+382004	14046	64090	Succeeding	Absorbed by	Hokitika Guardian	false	false
+383002	63064	64090	Succeeding	Absorbed by	Hokitika Guardian	false	false
+383003	64090	63064	Preceding	Absorbed	Evening Star	false	false
+383005	72168	62180	Succeeding	Continued by	Westport Daily Times and  Charleston Argus	false	false
+384004	70053	67179	Preceding	Continues	Westport Times &  Star	false	false
+384008	70100	10050	Continues		Upper Hutt Leader	false	false
+385004	68169	67179	Succeeding	Continued by	Westport Times &  Star	false	false
+385006	68086	60084	Succeeding	Continued by	Manawatu Daily Times	false	false
+387001	59162	63171	Succeeding	Merged into	Weekly News and  Weekly Herald	false	false
+389001	62171	63171	Succeeding	Merged into	Weekly News and  Weekly Herald	false	false
+391001	63171	62171	Preceding	Formed by union	Weekly News	false	false
+391002	6034	1001	Continued By		Weekly News	false	false
+393001	63171	59162	Preceding	Formed by union	Weekly Herald	false	false
+395001	6034	63171	Continues		Weekly News and  Weekly Herald	false	false
+395002	63171	6034	Continued By		Auckland Weekly News	false	false
+403001	401001	399001	Preceding	Formed by merger	Hot Lakes Chronicle	false	false
+405001	399001	401001	Succeeding	Merged into	Rotorua Chronicle	false	false
+405002	406002	401001	Succeeding	Merged into	Rotorua Chronicle	false	false
+407001	64139	401001	Preceding	Continues	Rotorua Chronicle	false	false
+407002	410003	406002	Succeeding	Continued by	Rotorua Times	false	false
+408001	401001	64139	Succeeding	Continued by	Rotorua Morning Post	false	false
+411002	406002	410003	Preceding	Continues	Wonderland Gazette and Rotorua Times	false	false
+438001	59133	441001	Is Masthead Of		Poverty Bay Standard	false	false
+438002	61122	441001	Is Masthead Of		Poverty Bay Standard	false	false
+442003	58123	441001	Is Masthead Of		Poverty Bay Standard	false	false
+443001	71126	441001	Is Masthead Of		Poverty Bay Standard	false	false
+444002	72124	441001	Is Masthead Of		Poverty Bay Standard	false	false
+444004	65164	72062	Succeeding	Continued by	Gisborne Standard and  Cook County Gazette	false	false
+444005	72062	65164	Preceding	Continues	Telephone	false	false
+445001	70156	441001	Is Masthead Of		Poverty Bay Standard	false	false
+446003	441001	65164	Continued By		Telephone	false	false
+446004	65164	441001	Preceding	Continues	Poverty Bay Standard	false	false
+447002	68115	441001	Is Masthead Of		Poverty Bay Standard	false	false
+449003	72137	441001	Is Masthead Of		Poverty Bay Standard	false	false
+457003	68079	72098	Succeeding	Continued by	News Gazette	false	false
+457004	72098	68079	Preceding	Continues	Kawerau &  Eastern Bay  News Gazette	false	false
+458002	59186	3024	Preceding	Continues	Eastern Bay  News	false	false
+458004	69113	58056	Succeeding	Continued by	Eastern Bay  of  Plenty Picture News and  Kawerau Gazette	false	false
+459003	68079	61057	Preceding	Continues	Eastern Bay  of  Plenty News Kawerau Gazette	false	false
+460001	72057	66125	Preceding	Main title	Opotiki Herald	false	false
+460004	441001	58123	Has Masthead		Poverty Bay  Standard [1881-04-06]	false	false
+461002	3024	59186	Succeeding	Continued by	Whakatane News	false	false
+461004	70072	58056	Preceding	Continues	Eastern Bay  of  Plenty Picture News and  Kawerau Gazette	false	false
+462003	61069	70159	Succeeding	Continued by	Sun	false	false
+462004	61057	68079	Succeeding	Continued by	Kawerau &  Eastern Bay  News Gazette	false	false
+464005	58056	69113	Preceding	Continues	Kawerau Gazette	false	false
+465003	70072	61057	Succeeding	Continued by	Eastern Bay  of  Plenty News Kawerau Gazette	false	false
+466001	72098	3024	Succeeding	Continued by	Eastern Bay  News	false	false
+466004	61057	70072	Preceding	Continues	Eastern Bay  of  Plenty News and  Kawerau Gazette	false	false
+467005	70159	61069	Preceding	Continues	Half sun	false	false
+468002	58056	70072	Succeeding	Continued by	Eastern Bay  of  Plenty News and  Kawerau Gazette	false	false
+474001	441001	71126	Has Masthead		Poverty Bay Standard [1872]	false	false
+474002	441001	61122	Has Masthead		Standard [1880]	false	false
+475001	441001	70156	Has Masthead		Standard [1873]	false	false
+477001	441001	59133	Has Masthead		Poverty Bay Standard [1879]	false	false
+478002	441001	72137	Has Masthead		Standard [1881]	false	false
+480002	441001	72124	Has Masthead		Poverty Bay  Standard [1881-11-15]	false	false
+481001	441001	68115	Has Masthead		P.B. Standard	false	false
+487002	69113	488001	Is Masthead Of		Kawerau Gazette	false	false
+487003	58056	488001	Is Masthead Of		Kawerau Gazette	false	false
+488003	488001	72098	Has Masthead		News Gazette	false	false
+488004	1002	10028	Is Edition Of		Daily Post	false	false
+489003	61057	488001	Is Masthead Of		Kawerau Gazette	false	false
+489004	488001	68079	Has Masthead		Kawerau &  Eastern Bay  News Gazette	false	false
+489005	493004	70159	Has Masthead		Sun	false	false
+491002	488001	69113	Has Masthead		Kawerau Gazette	false	false
+492003	68079	488001	Is Masthead Of		Kawerau Gazette	false	false
+492004	488001	61057	Has Masthead		Eastern Bay  of  Plenty News Kawerau Gazette	false	false
+492005	3024	488001	Continues		Kawerau Gazette	false	false
+492006	61069	493004	Is Masthead Of		Sun	false	false
+493003	70072	488001	Is Masthead Of		Kawerau Gazette	false	false
+493006	70159	493004	Is Masthead Of		Sun	false	false
+494004	68052	10023	Is Edition Of		The Evening Post	false	false
+495001	72098	488001	Is Masthead Of		Kawerau Gazette	false	false
+496002	488001	3024	Continued By		Eastern Bay  News	false	false
+496003	64092	399001	Is Edition Of		Hot Lakes Chronicle	false	false
+497001	488001	58056	Has Masthead		Eastern Bay  of  Plenty Picture News and  Kawerau Gazette	false	false
+497004	10028	1002	Has Edition		Rotorua Weekender	false	false
+498001	488001	70072	Has Masthead		Eastern Bay  of  Plenty News and  Kawerau Gazette	false	false
+499002	493004	61069	Has Masthead		Half sun	false	false
+499003	399001	64092	Has Edition		Hot  Lakes Weekly Chronicle	false	false
+502001	10023	68052	Has Edition		Evening Post Sports Post	false	false
+502002	71062	69084	Continued By		East Coast Press	false	false
+504001	69084	71062	Continues		East Coast News and  Waiapu County Gazette	false	false
+504002	62057	71062	Continued By		East Coast News and  Waiapu County Gazette	false	false
+505001	71062	62057	Continues		East Coast Watch and  Waiapu County Advocate	false	false
+506003	506001	10015	Has Masthead		Gisborne Herald [1939]	false	false
+506015	510012	40	Has Masthead		Manawatu Standard [2002-]	false	false
+506016	64103	510012	Is Masthead Of		Manawatu Standard	false	false
+506019	510012	61179	Has Masthead		Manawatu Daily Standard	false	false
+507004	519004	68134	Has Edition		Spree	false	false
+507010	62109	13025	Is Edition Of		Oamaru Mail	false	false
+508001	506001	6037	Continues		The Poverty Bay Herald	false	false
+508006	10050	509009	Is Masthead Of		Upper Hutt Leader	false	false
+508009	60084	518007	Is Masthead Of		Manawatu Times	false	false
+508011	518007	72147	Has Masthead		Times	false	false
+508014	6001	64103	Continues		Manawatu Evening Standard	false	false
+508019	13025	66069	Continues		Evening Mail	false	false
+509003	4030	506001	Is Masthead Of		Gisborne Herald	false	false
+509004	506001	2041	Has Masthead		Gisborne Herald [2000]	false	false
+509006	68062	11011	Continues		Gisborne Herald Midweek Extra	false	false
+509008	150002	519004	Is Edition Of		Bay Sun	false	false
+509012	511004	509009	Is Masthead Of		Upper Hutt Leader	false	false
+509015	10048	521007	Is Masthead Of		Oxford Observer	false	false
+509016	521007	10048	Has Masthead		The Oxford Observer and Canterbury Democrat	false	false
+510003	506001	68062	Has Edition		Gisborne Herald Weekly Outlook	false	false
+510017	61179	64103	Continued By		Manawatu Evening Standard	false	false
+511002	6037	506001	Continued By		Gisborne Herald	false	false
+511008	521007	11043	Has Masthead		The  Oxford and  Cust Observer and  Canterbury Liberal	false	false
+511010	518007	60084	Has Masthead		Manawatu Daily Times	false	false
+511016	64103	61179	Continues		Manawatu Daily Standard	false	false
+512002	2041	506001	Is Masthead Of		Gisborne Herald	false	false
+512003	506001	4030	Has Masthead		Herald	false	false
+512005	506001	11011	Has Edition		Gisborne Herald Midweek Extra	false	false
+512007	68134	519004	Is Edition Of		Bay Sun	false	false
+513002	68062	506001	Is Edition Of		Gisborne Herald	false	false
+513004	519004	150002	Has Edition		Bay Sun (Te Puke Edition)	false	false
+514001	10015	506001	Is Masthead Of		Gisborne Herald	false	false
+514005	511004	70100	Continues		Leader [1939-1970]	false	false
+514010	40	510012	Is Masthead Of		Manawatu Standard	false	false
+514013	61179	510012	Is Masthead Of		Manawatu Standard	false	false
+514015	66104	61179	Continued By		Manawatu Daily Standard	false	false
+514017	13025	62109	Has Edition		Oamaru Mail Extra [1984-1988]	false	false
+515003	11011	506001	Is Edition Of		Gisborne Herald	false	false
+515008	509009	511004	Has Masthead		Upper Hutt Leader [1970-]	false	false
+515011	518007	68086	Has Masthead		Manawatu Times [1875-1882]	false	false
+516004	11043	521007	Is Masthead Of		Oxford Observer	false	false
+516005	68086	518007	Is Masthead Of		Manawatu Times	false	false
+517009	510012	64103	Has Masthead		Manawatu Evening Standard	false	false
+517010	6001	40	Continued By		Manawatu Standard [2002]	false	false
+518001	11011	68062	Continued By		Gisborne Herald Weekly Outlook	false	false
+518003	70100	511004	Continued By		Upper Hutt Leader [1970-]	false	false
+518004	509009	10050	Has Masthead		Upper Hutt Leader [1939]	false	false
+519008	70100	509009	Is Masthead Of		Upper Hutt Leader	false	false
+519012	509009	70100	Has Masthead		Leader [1939-1970]	false	false
+519017	510012	66104	Has Masthead		Manawatu Standard [1880-1886]	false	false
+519018	6001	510012	Is Masthead Of		Manawatu Standard	false	false
+519022	64103	6001	Continued By		Evening Standard	false	false
+519023	66069	13025	Continued By		Oamaru Mail	false	false
+520006	72147	518007	Is Masthead Of		Manawatu Times	false	false
+520008	518007	63092	Has Edition		Manawatu Times Weekly Edition	false	false
+520009	510012	6001	Has Masthead		Evening Standard	false	false
+520010	66104	510012	Is Masthead Of		Manawatu Standard	false	false
+521011	63092	518007	Is Edition Of		Manawatu Times	false	false
+521017	61179	66104	Continues		Manawatu Standard [1880-1886]	false	false
+522006	59126	22001	Succeeding	Merged into	Waitomo News	false	false
+523002	1034	522001	Is Masthead Of		The New Zealand Gazette and Wellington Spectator	false	false
+528002	3027	522001	Is Masthead Of		The New Zealand Gazette and Wellington Spectator	false	false
+528005	13036	5045	Has Edition		North Otago Standard	false	false
+529001	522001	3027	Has Masthead		New  Zealand Gazette	false	false
+529002	522001	1034	Has Masthead		The  New  Zealand Gazette and  Wellington Spectator	false	false
+529008	14029	22001	Succeeding	Merged into	Waitomo News	false	false
+530001	522001	2027	Has Masthead		The  New  Zealand Gazette and  Britannia Spectator	false	false
+530002	2027	522001	Is Masthead Of		The New Zealand Gazette and Wellington Spectator	false	false
+530004	22001	59126	Preceding	Formed by the union	Otorohanga Times	false	false
+532003	5045	13036	Is Edition Of		North Otago Times	false	false
+537003	3047	59182	Continues		The  Nelson Examiner	false	false
+538002	5022	59182	Continued By		The  Nelson Examiner	false	false
+538003	59182	5022	Continues		The Nelson Examiner and New Zealand Chronicle	false	false
+541001	59182	3047	Continued By		Nelson Daily Examiner	false	false
+553002	98002	59182	Has Masthead		The Nelson Examiner [1855-1873]	false	false
+554003	59104	98002	Is Edition Of		The Nelson Examiner	false	false
+555005	66070	65078	Continues		Evening Mail Friday Sports Edition	false	false
+556002	98002	3047	Has Masthead		Nelson Daily Examiner	false	false
+556006	65078	1035	Is Edition Of		Nelson Evening Mail	false	false
+557003	5022	98002	Is Masthead Of		The Nelson Examiner	false	false
+558002	98002	5022	Has Masthead		The Nelson Examiner and New Zealand Chronicle	false	false
+558003	98002	59104	Has Edition		Nelson Weekly Examiner	false	false
+558004	3047	98002	Is Masthead Of		The Nelson Examiner	false	false
+558008	62062	65078	Continued By		Evening Mail Friday Sports Edition	false	false
+560001	98002	62077	Has Edition		Illustrated Examiner	false	false
+560004	1035	65078	Has Edition		Evening Mail Friday Sports Edition	false	false
+560005	65078	62062	Continues		Evening Mail Sports Edition	false	false
+560007	65078	66070	Continued By		Evening Mail Sports News	false	false
+562004	1035	62062	Has Edition		Evening Mail Sports Edition	false	false
+563002	62077	98002	Is Edition Of		The Nelson Examiner	false	false
+563003	66070	1035	Is Edition Of		Nelson Evening Mail	false	false
+564001	59182	98002	Is Masthead Of		The Nelson Examiner	false	false
+565003	62062	1035	Is Edition Of		Nelson Evening Mail	false	false
+565004	1035	66070	Has Edition		Evening Mail Sports News	false	false
+567002	5043	65070	Succeeding	Incorporated By	Dannevirke Evening News	false	false
+568002	65070	61042	Continued By		Evening News	false	false
+572001	61042	65070	Continues		Dannevirke Evening News	false	false
+573002	11008	61042	Continues		Evening News	false	false
+575001	1047	11008	Continues		Dannevirke and  District Evening News	false	false
+577001	61042	11008	Continued By		Dannevirke and  District Evening News	false	false
+580001	5007	69136	Continues		North Auckland Times	false	false
+590002	69136	5007	Continued By		Northland Times	false	false
+590003	5007	63117	Continued By		Northland Times and  Rodney Reporter	false	false
+600002	63117	5007	Continues		Northland Times	false	false
+660001	5005	7054	Has Edition		Marlborough Midweek	false	false
+660002	7054	5005	Is Edition Of		Marlborough Express	false	false
+920002	72159	950001	Continues		The Kopuru Bell	false	false
+970002	950001	72159	Continued By		Wairoa Bell	false	false
+1030002	68070	67095	Continues		Hokianga Star	false	false
+1040002	60067	63074	Continued By		Hokianga Times and North-Western Representative	false	false
+1040003	1020002	67095	Succeeding	Incorporated by	Hokianga Star	false	false
+1050003	63074	1020002	Is Masthead Of		Hokianga Times	false	false
+1050005	67093	68070	Preceding	Break in publication?	Hokianga Herald	false	false
+1060006	60067	1020002	Is Masthead Of		Hokianga Times	false	false
+1060007	61072	1020002	Is Masthead Of		Hokianga Times	false	false
+1070002	63074	60067	Continues		Hokianga County Times and North-Western Representative	false	false
+1070003	61072	63074	Continues		Hokianga Times and North-Western Representative	false	false
+1070004	1020002	61072	Has Masthead		Hokianga Times	false	false
+1070005	61072	67095	Succeeding	Incorporated by	Hokianga Star	false	false
+1070006	67095	1020002	Preceding	Incorporates	Hokianga Times	false	false
+1070007	68070	67093	Succeeding	Break in publication?	Hokianga Herald [1946]	false	false
+1100003	67095	68070	Continued By		Hokianga Herald	false	false
+1110001	63074	61072	Continued By		Hokianga Times	false	false
+1110002	1020002	63074	Has Masthead		Hokianga Times and North-Western Representative	false	false
+1130001	1020002	60067	Has Masthead		Hokianga County Times and North-Western Representative	false	false
+1180002	64124	4008	Is Edition Of		Northern Advocate	false	false
+1180005	63108	68170	Continues		Whangarei Wild-Cat	false	false
+1190004	1190003	46	Has Masthead		Report	false	false
+1200001	4008	64124	Has Edition		Northern Advocate Weekly	false	false
+1230001	72106	72105	Is Edition Of		Northern Mail	false	false
+1240002	58097	64177	Preceding	Incorporates	Whangarei and  District Argus	false	false
+1250002	4008	72105	Preceding	Incorporates	Northern Mail	false	false
+1260001	72105	72106	Has Edition		Northern Mail Weekly	false	false
+1260003	68170	63108	Continued By		North Auckland Advertiser	false	false
+1280001	72105	4008	Succeeding	Incorporated by	Northern Advocate	false	false
+1290003	64177	58097	Succeeding	Incorporated by	Mirror	false	false
+1340003	3034	1190003	Is Masthead Of		Whangarei Report	false	false
+1340004	62168	1190003	Is Masthead Of		Whangarei Report	false	false
+1350003	1190003	2058	Has Masthead		Whangarei Report [2006]	false	false
+1360005	1190003	62168	Has Masthead		Weekend Report	false	false
+1370005	62168	3034	Continued By		Whangarei Report [1988]	false	false
+1370006	1190003	3034	Has Masthead		Whangarei Report [1988]	false	false
+1390001	2058	1190003	Is Masthead Of		Whangarei Report	false	false
+1400001	46	1190003	Is Masthead Of		Whangarei Report	false	false
+1420001	5028	1190003	Is Masthead Of		Whangarei Report	false	false
+1430001	3028	1190003	Is Masthead Of		Whangarei Report	false	false
+1440003	46	2058	Continued By		Whangarei Report [2006]	false	false
+1440004	2058	46	Continues		Report	false	false
+1450001	3034	62168	Continues		Weekend Report	false	false
+1490002	1190003	5028	Has Masthead		Whangarei Report [1997]	false	false
+1500001	1190003	3028	Has Masthead		Whangarei's First Report	false	false
+1570001	69101	73015	Succeeding	Incoporated by	Temuka Leader	false	false
+1570002	73015	69101	Preceding	Incorporates	Geraldine Guardian	false	false
+1600002	3004	19001	Continues		Te  Awa-Iti	false	false
+1630001	2047	19001	Succeeding	Absorbed by	Te  Awa-iti	false	false
+1640001	19001	2047	Preceding	Absorbed	Nga Paripari	false	false
+1660126	63047	1660123	Is Masthead Of		The Westport News	true	false
+1680128	59167	1660123	Is Masthead Of		The Westport News	true	false
+1680129	9011	1660123	Is Masthead Of		The Westport News	true	false
+1700126	1660123	63047	Has Masthead		Buller News	true	false
+1720128	1660123	59167	Has Masthead		Westport News [1882]	true	false
+1720129	1660123	9011	Has Masthead		The Westport News [1971]	true	false
+1750131	59167	63047	Continues		Buller News	true	false
+1790124	63047	59167	Continued By		Westport News [1882]	true	false
+10532310	5006	7051	Continues		Taranaki Daily News	false	false
+10672158	61132	10004	Continued By		The Waikato Times	false	false
+10672280	5006	7051	Continued By		Taranaki Daily News	false	false
+10682147	14052	2063	Continued By		The  Hastings & Havelock North Mail	false	false
+10692142	61132	5038	Continues		The Waikato Times [Ngaruawahia]	false	false
+10692261	44	10812250	Is Masthead Of		Taranaki Daily News	false	false
+10712263	10812250	44	Has Masthead		Taranaki Daily News	false	false
+10712264	10812250	5006	Has Masthead		Daily News	false	false
+10722267	10812250	7051	Has Masthead		Taranaki Daily News	false	false
+10722405	4028	59053	Preceding	Incorporates	Ashburton Herald	false	false
+10732123	62069	69076	Continued By		Daily Mail	false	false
+10732237	7051	10812250	Is Masthead Of		Taranaki Daily News	false	false
+10762130	2063	14052	Continues		The Hastings Mail	false	false
+10772267	5006	10812250	Is Masthead Of		Taranaki Daily News	false	false
+10772398	59053	64069	Continues		Evening Echo	false	false
+10782011	5034	11022	Continues		Manukau Daily News	false	false
+10792150	69076	62069	Continues		Hawke's Bay Daily Mail	false	false
+10812391	59053	4028	Succeeding	Incorporated by	Ashburton Guardian	false	false
+10812392	64069	59053	Continued By		Ashburton Herald	false	false
+11447175	72058	68053	Succeeding	Incorporated By	Evening Star	false	false
+11447176	68053	72058	Preceding	Incorporates	Echo	false	false
+11457401	11487384	10004	Has Masthead		The Waikato Times	true	false
+11467414	10004	11487384	Is Masthead Of		The Waikato Times	true	false
+11487385	11487384	61132	Has Masthead		Times	true	false
+11497185	71146	9003	Succeeding	Incorporated By	Auckland Star	false	false
+11497415	11487384	5038	Has Masthead		The Waikato Times [Ngaruawahia]	true	false
+11507406	4012	60120	Preceding	Absorbed	Paeroa Star	false	false
+11517179	68053	59072	Preceding	Incorporates	Evening News	false	false
+11517301	5026	64026	Continues		Mandarin Pages Weekly	false	false
+11517409	61132	11487384	Is Masthead Of		The Waikato Times	true	false
+11527406	5038	11487384	Is Masthead Of		The Waikato Times	true	false
+11537197	59072	68053	Succeeding	Incorporated By	Evening Star	false	false
+11537200	9003	71146	Preceding	Incorporates	Sun	false	false
+11537319	64026	5026	Continued By		Mandarin Times	false	false
+11567429	60120	4012	Succeeding	Absorbed By	Thames Star	false	false
+11740004	68154	11487384	Succeeding	Incorporated By	The Waikato Times	false	false
+11740022	11800019	62069	Has Masthead		Hawke's Bay Daily Mail	true	false
+11740254	5010	11810254	Continues		Hawera Star	true	false
+11740263	9031	5050	Continued By		Rangitikei District Monitor	false	false
+11741373	3009	66165	Has Edition		Times-Age Topix	false	false
+11750127	72048	64166	Continues		Waipukurau Press	true	false
+11750128	3016	58084	Continues		Mail	true	false
+11751307	68158	59159	Continues		Wairarapa Register	false	false
+11760128	58084	65105	Has Edition		Mail Weekender	true	false
+11760261	62140	59145	Continues		Taihape &  Mangaweka News	true	false
+11760263	70162	72141	Continued By		Taihape Times	true	false
+11760270	58086	11770268	Is Masthead Of		Horowhenua Chronicle	true	false
+11760277	11030	6051	Continued By		Daily Chronicle	false	false
+11761335	68158	61140	Continued By		Wairarapa Daily	false	false
+11770246	8032	11810254	Continued By		Hawera Star	true	false
+11770250	8032	69087	Has Edition		Egmont Star	false	false
+11770261	11006	72141	Preceding	Formed by the union	Taihape Times	false	false
+11770270	11770268	70092	Has Masthead		Horowhenua Chronicle	true	false
+11770275	61080	58078	Continues		Levin Chronicle	false	false
+11771334	3009	16001	Has Edition		Wairarapa Times-Age Midweek Farm & Community	false	false
+11780009	64055	471001	Continues		Whakatane Press	false	false
+11780014	64082	11760016	Continued By		Hawke's Bay Tribune	true	false
+11780141	66153	67146	Continues		Stratford Evening Post	true	false
+11780241	11810254	5010	Continued By		Star	false	false
+11780243	63138	59132	Continued By		Post	true	false
+11780259	70092	11770268	Is Masthead Of		Horowhenua Chronicle	true	false
+11780260	61080	11770268	Is Masthead Of		Horowhenua Chronicle	true	false
+11780261	11030	11770268	Is Masthead Of		Horowhenua Chronicle	true	false
+11780265	9005	61080	Continues		Levin Daily Chronicle	false	false
+11790017	8003	11760016	Preceding	Formed by the union	Hawke's Bay Tribune	false	false
+11790147	67146	66153	Continued By		Taranaki Central Press	true	false
+11790259	69087	8032	Is Edition Of		Hawera &  Normanby Star	false	false
+11790282	11770268	9005	Has Masthead		Chronicle	true	false
+11790288	9005	11030	Continued By		Horowhenua-Kapiti Chronicle	false	false
+11791385	14048	3009	Is Edition Of		Wairarapa Times-Age	false	false
+11800015	67091	69106	Continued By		Hastings Evening Star	false	false
+11800143	72048	58084	Continued By		Mail	true	false
+11800144	65105	58084	Is Edition Of		Mail	true	false
+11800262	11810254	8032	Continues		Hawera &  Normanby Star	true	false
+11800264	11810254	65154	Has Edition		Star Weekender	false	false
+11800273	70162	62140	Continues		Taihape &  Waimarino News	true	false
+11800281	58078	11770268	Is Masthead Of		Horowhenua Chronicle	true	false
+11800282	11770268	13052	Has Masthead		Chronicle	true	false
+11801354	73027	59159	Succeeding	Merged to form	Wairarapa Register	false	false
+11801489	67169	67168	Is Edition Of		Wairarapa Observer	false	false
+11810010	401001	406002	Preceding	Formed by merger	Rotorua Times	false	false
+11810015	69076	11800019	Is Masthead Of		Daily Mail	true	false
+11810128	4002	72097	Has Edition	Special edition	News Bulletin	false	false
+11810256	49	5010	Continues		Star	false	false
+11810260	65154	11810254	Is Edition Of		Hawera Star	false	false
+11810272	11770268	58086	Has Masthead		Manawatu Farmer and  Horowhenua County Chronicle	true	false
+11811467	67168	67169	Has Edition		Wairarapa Weekly Observer and  East and  West Coast Advertiser	false	false
+11820010	69106	67091	Continues		Hastings Star	false	false
+11820125	72097	6008	Is Edition Of		The Daily Telegraph	false	false
+11820127	58084	3016	Continued By		CHB  Mail	true	false
+11820258	72141	70162	Continues		Taihape Daily Times	true	false
+11820262	65070	62054	Continues		Daily Press	false	false
+11820272	11770268	11030	Has Masthead		Horowhenua-Kapiti Chronicle	true	false
+11820281	11057	11770268	Is Masthead Of		Horowhenua Chronicle	false	false
+11821371	59159	73027	Preceding	Formed by the union	Wairarapa News and  Valley and  East Coast Advertiser	false	false
+11830020	11800019	69076	Has Masthead		Daily Mail	true	false
+11830138	72097	4002	Is Edition Of		The Hawke's Bay Herald	false	false
+11830140	58084	72048	Continues		Central Hawke's Bay  Press	true	false
+11830147	58045	66051	Continued By		Budget and  Taranaki Weekly Herald	true	false
+11830263	62140	70162	Continued By		Taihape Daily Times	true	false
+11830276	11770268	58078	Has Masthead		Levin Chronicle	true	false
+11830277	11770268	61080	Has Masthead		Levin Daily Chronicle	true	false
+11831374	61140	68158	Continues		Wairarapa Free Press	false	false
+11831378	66175	72158	Continues		Wairarapa Star	false	false
+11831389	66165	3009	Is Edition Of		Wairarapa Times-Age	false	false
+11840125	64166	72048	Continued By		Central Hawke's Bay  Press	true	false
+11840258	58078	61080	Continued By		Levin Daily Chronicle	false	false
+11841303	72158	66175	Continued By		Wairarapa Age	false	false
+11841315	3009	14048	Has Edition		Wairarapa Midweek	false	false
+11850001	11487384	68154	Preceding	Incorporates	Waikato Argus	false	false
+11850141	66051	58045	Continues		Budget	true	false
+11850262	59145	62140	Continued By		Taihape &  Waimarino News	true	false
+11850265	11006	68155	Preceding	Formed by the union	Waimarino News	false	false
+11850270	62054	65070	Continued By		Dannevirke Evening News	false	false
+11850274	72104	71122	Continues		Pahiatua Herald	true	false
+11850281	61080	9005	Continued By		Chronicle	false	false
+11860293	6051	13052	Continued By		Chronicle	false	false
+11870015	11760016	8003	Succeeding	Merged to form	Hawke's Bay Herald-Tribune	false	false
+11870268	68155	11006	Succeeding	Merged into	Central District Times	false	false
+11870276	71122	72104	Continued By		North Wairarapa Herald	true	false
+11870284	9005	11770268	Is Masthead Of		Horowhenua Chronicle	true	false
+11870288	13052	11057	Continued By		Horowhenua Chronicle	false	false
+11880010	11760016	64082	Continues		Hastings Standard	true	false
+11880011	8003	11760016	Succeeding			false	false
+11880016	62069	11800019	Is Masthead Of		Daily Mail	true	false
+11880119	6008	72097	Has Edition	Special edition	News Bulletin	false	false
+11880242	59132	63138	Continues		South Taranaki Post	true	false
+11880252	72141	11006	Succeeding	Merged into	Central District Times	false	false
+11880268	13052	11770268	Is Masthead Of		Horowhenua Chronicle	true	false
+11880275	11030	9005	Continues		Chronicle	false	false
+11890707	59159	68098	Preceding	Formed by the union	News Letter	false	false
+11890721	16001	3009	Is Edition Of		Wairarapa Times-Age	false	false
+11900135	68098	59159	Succeeding	Merged to form	Wairarapa Register	false	false
+11911368	63063	10032	Continued By		Greymouth Evening Star	false	false
+11911370	10032	11931353	Is Masthead Of		Greymouth Evening Star	true	false
+11921027	62163	68157	Succeeding	Merged into	Wairarapa Daily News	true	false
+11921029	7016	11920922	Continued By		Wairarapa News	true	false
+11921381	1048	66099	Continues		Kumara Times	false	false
+11931014	7011	68157	Continues		Wairarapa Daily News	true	false
+11931333	71144	62093	Continues		Motueka Star	true	false
+11931336	67136	71144	Continues		Star-Times	true	false
+11931341	5005	71093	Preceding	Incorporates	Marlborough Daily Times	false	false
+11931347	71094	58091	Continued By		Marlborough Times	true	false
+11941024	67168	68157	Succeeding	Merged into	Wairarapa Daily News	true	false
+11941243	65077	70169	Continues		Tribune	true	false
+11941363	71093	58091	Continues		Marlborough Times	true	false
+11941368	63063	11931353	Is Masthead Of		Greymouth Evening Star	true	false
+11961021	68157	62163	Preceding	Formed by the union	Wairarapa Leader	false	false
+11961023	11920922	7016	Continues		Wairarapa News & The Chronicle	true	false
+11961366	10032	63063	Continues		Evening Star [Greymouth]	false	false
+11961376	64090	14046	Preceding	Absorbed	West Coast Times [1865]	false	false
+11961382	66099	1048	Continued By		Westland Chronicle	false	false
+11970902	7011	66170	Has Edition		Valley Farmer	false	false
+11971368	64090	1006	Continued By		West Coast Times [1988]	false	false
+11981023	68157	7011	Continued By		Wairarapa News	true	false
+11981340	62093	71144	Continued By		Star-Times	true	false
+11981350	71093	5005	Succeeding	Incorporated By	Marlborough Express	true	false
+11981369	1006	64090	Continues		Hokitika Guardian [1881]	false	false
+11991231	65077	70076	Continued By		Evening Chronicle	true	false
+11991360	10063	1006	Continues		West Coast Times [1988]	false	false
+12001347	71144	67136	Continued By		Province	true	false
+12011232	64149	10812250	Is Edition Of		Taranaki Daily News	false	false
+12011233	70169	65077	Continued By		Evening Argus	true	false
+12011350	58091	71093	Continued By		Marlborough Daily Times	true	false
+12011358	11931353	63063	Has Masthead		Evening Star [Greymouth]	true	false
+12021134	10023	69122	Has Edition		Morning Post	false	false
+12021240	70076	65077	Continues		Evening Argus	true	false
+12031357	58091	71094	Continues		Marlborough News and  General Advertiser	true	false
+12041017	68157	67168	Preceding	Formed by the union	Wairarapa Observer	false	false
+12041132	69122	10023	Is Edition Of		The Evening Post	false	false
+12041363	11931353	10032	Has Masthead		Greymouth Evening Star	true	false
+12051021	61064	12004	Continued By		Chronicle	false	false
+12051361	53	11931353	Continues		Greymouth Evening Star	true	false
+12051367	1006	10063	Continued By		Hokitika Guardian [2008]	false	false
+12060577	66170	7011	Is Edition Of		Wairarapa News	false	false
+12060700	12004	61064	Continues		Featherston Chronicle	false	false
+12060910	10812250	64149	Has Edition		Taranaki Daily News (Overseas Edition)	false	false
+12061041	11931353	53	Continued By		Greymouth Star	true	false
+12070014	12200005	5014	Has Masthead		Christchurch Star (1988)	true	false
+12070040	71158	12190026	Is Masthead Of		The Waimate Daily Advertiser	true	false
+12070044	13007	12190026	Is Masthead Of		The Waimate Daily Advertiser	false	false
+12070197	66146	71139	Continued By		Southland News	true	false
+12080010	69164	12200005	Is Masthead Of		Christchurch Star	true	false
+12080030	63157	65177	Continues		Waitangi Tribune	false	false
+12080189	71139	58052	Continued By		Daily News	true	false
+12080194	73001	69103	Continued By		Gore Standard	false	false
+12090008	66147	12200005	Is Edition Of		Christchurch Star	true	false
+12090033	12190026	13007	Has Masthead		Waimate Advertiser [1980]	false	false
+12090065	63054	59141	Is Masthead Of		Southern League and  Daily Advertiser	false	false
+12090194	69162	6032	Continued By		Southland Daily News	true	false
+12100010	12200005	5042	Continues		Christchurch Star-Sun	true	false
+12100011	5014	12200005	Is Masthead Of		Christchurch Star	true	false
+12100013	62149	58063	Preceding	Incorporated By	Globe	true	false
+12100062	62055	5033	Continues		Colonist	false	false
+12100181	12190171	70153	Has Masthead		Southland News (1864)	true	false
+12100184	71139	66146	Continues		Southern News and  Foveaux Straits' Herald	true	false
+12110015	68051	72149	Continues		Truth	true	false
+12110030	12190026	14032	Has Masthead		The  Waimate Advertiser	true	false
+12110065	59141	63054	Has Masthead		Daily Advertiser and  Southern League	false	false
+12110183	12190171	69162	Has Masthead		Southland News (1866)	true	false
+12110185	12190171	70152	Has Masthead		Southland News (1967)	true	false
+12110188	58052	71139	Continues		Southland News	true	false
+12110189	71139	12190171	Succeeding			false	false
+12120012	12200005	14050	Continued By		The Star	true	false
+12120014	12200005	69164	Has Masthead		Star	true	false
+12120016	62149	72149	Continued By		Truth	true	false
+12120041	65068	12190026	Is Masthead Of		The Waimate Daily Advertiser	true	false
+12120209	6032	12190171	Is Masthead Of		Southland Daily News	true	false
+12130182	70153	12190171	Is Masthead Of		Southland Daily News	true	false
+12130189	65069	69162	Continued By		Southland News (1866)	true	false
+12130191	6032	69162	Continues		Southland News (1866)	true	false
+12140011	14050	12200005	Continues		Christchurch Star	true	false
+12140016	72149	68051	Continued By		Evening News	true	false
+12140069	70112	13024	Is Edition Of		Evening Star [Dunedin]	false	false
+12140192	12190171	66146	Has Masthead		Southern News and  Foveaux Straits' Herald	true	false
+12140193	12190171	71139	Has Masthead		Southland News	true	false
+12140200	69162	65069	Continues		Daily News	true	false
+12150010	5042	12200005	Continued By		Christchurch Star	true	false
+12150014	58063	62149	Succeeding	Incorporated By	Telegraph	true	false
+12150015	72149	62149	Continues		Telegraph	true	false
+12150030	61131	59098	Continues		Morning Post	false	false
+12150033	65173	12190026	Is Masthead Of		The Waimate Daily Advertiser	true	false
+12150173	65069	12190171	Is Masthead Of		Southland Daily News	true	false
+12160025	14032	12190026	Is Masthead Of		The Waimate Daily Advertiser	true	false
+12160028	65177	63157	Continued By		Waimate Times	false	false
+12160179	66146	12190171	Is Masthead Of		Southland Daily News	true	false
+12160180	12190171	58052	Has Masthead		Daily News	true	false
+12160187	58052	70153	Continued By		Southland News (1864)	true	false
+12170176	12190171	65069	Has Masthead		Daily News	true	false
+12170177	12190171	6032	Has Masthead		Southland Daily News	true	false
+12170180	71139	12190171	Is Masthead Of		Southland Daily News	false	false
+12180008	12200005	66147	Has Edition		Star (Dunedin Edition)	true	false
+12180032	12190026	71158	Has Masthead		Waimate Daily Advertiser	true	false
+12180185	58052	12190171	Is Masthead Of		Southland Daily News	false	false
+12180188	69103	73001	Continues		Southern Standard	false	false
+12190027	12190026	65173	Has Masthead		Waimate Daily Advertiser [1972]	true	false
+12190066	8017	67128	Preceding	Incorporates	Otago Guardian	false	false
+12190178	70153	65069	Continued By		Daily News	true	false
+12190180	6032	70152	Continued By		Southland News (1967)	true	false
+12190181	70152	6032	Continues		Southland Daily News	true	false
+12200065	5033	62055	Continued By		Daily Telegraph	false	false
+12200074	67128	8017	Succeeding	Incorporated By	Otago Daily Times	false	false
+12200187	70152	12190171	Is Masthead Of		Southland Daily News	true	false
+12200191	65069	70153	Continues		Southland News (1864)	true	false
+12210025	59098	61131	Continued By		Timaru Post	false	false
+12210029	12190026	65068	Has Masthead		Daily Advertiser	true	false
+12210061	13024	70112	Has Edition		Morning Star	false	false
+12210177	69162	12190171	Is Masthead Of		Southland Daily News	true	false
+12210179	70153	58052	Continues		Daily News	true	false
+13120329	11770268	6051	Has Masthead		Daily Chronicle	false	false
+13130332	6051	11770268	Is Masthead Of		Horowhenua Chronicle	false	false
+14840470	68169	67178	Preceding	Formed by union	Westport Times	false	false
+14846911	59085	14292637	Is Masthead Of		Huntly Press and District Gazette	true	false
+14846913	68073	14292637	Is Masthead Of		Huntly Press and District Gazette	true	false
+14846915	65027	2004	Continues		Huntly Press	true	false
+14847160	1014	14242654	Is Masthead Of		Weekly News	true	false
+14847162	69196	70188	Continues		Weekly News -  Horowhenua and  Kapiti	true	false
+14850697	69093	2037	Continues		Far  North Penny Pincher	true	false
+14850988	58082	14342635	Is Masthead Of		Lyell Argus	true	false
+14850989	14292641	14342635	Is Masthead Of		Lyell Argus	true	false
+14856895	59134	59085	Continues		Huntly Press and  District Gazette	true	false
+14856897	2004	14292637	Is Masthead Of		Huntly Press and District Gazette	true	false
+14857149	71087	14242654	Is Masthead Of		Weekly News	true	false
+14857151	70188	14242654	Is Masthead Of		Weekly News	true	false
+14857154	71119	14242654	Succeeding	Merged into	Weekly News	false	false
+15730455	66078	10046	Continues		Manawatu Herald	false	false
+15736896	59134	61073	Continued By		Huntly Press (1983)	true	false
+15736898	14292637	65027	Has Masthead		Huntly and  Districts Press	true	false
+15737146	71087	60097	Continued By		News	true	false
+15737148	14242654	69196	Has Masthead		Weekly News -  Kapiti and  Horowhenua	true	false
+15740486	37	59046	Continues		Karere Maori News	true	false
+15750247	14292637	59134	Has Masthead		Press	true	false
+15750249	61073	68073	Continued By		Huntly and  Ngaruawahia Press	true	false
+15750372	62148	14292637	Succeeding	Incorporated By	Huntly Press and District Gazette	false	false
+15750479	16002	70119	Continues		New  Edition	false	false
+15750498	60097	1014	Continued By		Weekly News (Levin)	true	false
+15870627	14332627	8038	Has Masthead		Horowhenua &  Kapiti News	true	false
+16720704	2037	69093	Continued By		Far  North Times	true	false
+16726887	59085	59134	Continued By		Press	true	false
+16726889	14292637	2004	Has Masthead		Huntly Press	true	false
+16727132	14242654	71087	Has Masthead		Levin-Otaki-Waikanae Weekly News	true	false
+16727134	14242654	70188	Has Masthead		Weekly News -  Horowhenua and  Kapiti	true	false
+16730711	7043	69093	Continues		Far  North Times	true	false
+16731005	70102	14342635	Is Masthead Of		Lyell Argus	true	false
+16736890	61073	14292637	Is Masthead Of		Huntly Press and District Gazette	true	false
+16736892	2004	68073	Continues		Huntly and  Ngaruawahia Press	true	false
+16737013	5016	64153	Continues		Te  Kauwhata Tatler	false	false
+16737140	60097	14242654	Is Masthead Of		Weekly News	true	false
+16737142	70188	1014	Continues		Weekly News (Levin)	true	false
+16862810	14332627	11770268	Succeeding	Absorbed By	Horowhenua Chronicle	false	false
+16862932	4022	68078	Continues		Kapiti Mail	false	false
+16864817	64072	13024	Is Edition Of		The Evening Star	false	false
+17701689	14014	11023	Continues		Timaru's the  Courier	false	false
+17780461	67178	68169	Succeeding	Merged Into	Westport Times and  Evening Star	false	false
+17780483	59046	11029	Continues		Te  Karere Maori	true	false
+17786890	14292637	59085	Has Masthead		Huntly Press and  District Gazette	true	false
+17786892	14292637	68073	Has Masthead		Huntly and  Ngaruawahia Press	true	false
+17786894	2004	65027	Continued By		Huntly and  Districts Press	true	false
+17787120	13003	72156	Continues		Waikato Independent	false	false
+17787140	14242654	1014	Has Masthead		Weekly News (Levin)	true	false
+17787142	70188	69196	Continued By		Weekly News -  Kapiti and  Horowhenua	true	false
+18601701	14342643	11023	Continues		Timaru's The Courier	false	false
+18680993	58082	14292641	Continued By		Argus	true	false
+18680994	14342635	58082	Has Masthead		Lyell Argus and  Matakitaki Advertiser	true	false
+18680995	14342635	14292641	Has Masthead		Argus	true	false
+18686905	14015	14292637	Is Edition Of		Huntly Press and District Gazette	false	false
+18687145	14242654	71119	Preceding	Formed by the Union	Otaki-Waikanae Weekly News	false	false
+18690456	10009	67138	Preceding	Absorbed	Putaruru Press	false	false
+18691000	70102	14292641	Continues		Argus	true	false
+18700457	62180	67178	Continued By		Westport Times	false	false
+18700706	69093	7043	Continued By		Far  North &  Doubtless Bay  Times	true	false
+18700999	14292641	58082	Continues		Lyell Argus and  Matakitaki Advertiser	true	false
+18706910	14292637	61073	Has Masthead		Huntly Press (1983)	true	false
+18706912	68073	2004	Continued By		Huntly Press	true	false
+18707156	14242654	60097	Has Masthead		News	true	false
+18707158	1014	70188	Continued By		Weekly News -  Horowhenua and  Kapiti	true	false
+18712140	14292637	62148	Preceding	Incorporates	Te  Kauwhata News Flash	false	false
+18872810	11770268	14332627	Preceding	Absorbed	Horowhenua & Kapiti News	false	false
+18874823	67142	14054	Is Masthead Of		New Zealand Public Opinion, Sportsman and Saturday Advertiser	true	false
+18874825	14054	69158	Has Masthead		Saturday Advertiser, Time-table, and  New  Zealand Public Opinion	true	false
+18882911	68065	66123	Succeeding	Merged into	Observer News Shopper	false	false
+18884770	64117	69158	Continues		Saturday Advertiser, Time-table, and  New  Zealand Public Opinion	true	false
+18884773	4010	13028	Succeeding	Merged into	The Star	false	false
+18884786	4010	13024	Preceding		Evening Star	false	false
+19750461	67138	10009	Continued By	Absorbed By	South Waikato News	false	false
+19756916	61073	59134	Continues		Press	true	false
+19756918	65027	14292637	Is Masthead Of		Huntly Press and District Gazette	true	false
+19757150	72156	13003	Continued By		Cambridge Independent	false	false
+19757151	70119	16002	Continued By		Cambridge Edition	false	false
+19757170	60097	71087	Continues		Levin-Otaki-Waikanae Weekly News	true	false
+19757172	69196	14242654	Is Masthead Of		Weekly News	true	false
+19760482	59046	37	Continued By		Karere News	true	false
+19767159	14242654	67102	Preceding	Formed by the Union	Levin Weekly News	false	false
+20680477	11029	59046	Continued By		Karere Maori News	true	false
+20686914	14292637	14015	Has Edition		Huntly Press Expressions	false	false
+20687160	67102	14242654	Succeeding	Merged Into	Weekly News	false	false
+20690456	67178	62180	Continues		Westport Daily Times and  Charleston Argus	false	false
+20690996	14342635	70102	Has Masthead		Lyell Argus	true	false
+20697004	64153	5016	Continued By		Community Tatler	false	false
+20792681	66132	14362625	Is Masthead Of		Patea Mail	true	false
+20794811	13024	64072	Has Edition		Evening Star 7  O'clock Edition	false	false
+21570450	10046	66078	Continued By		Foxton Herald	false	false
+21571003	14292641	70102	Continued By		Lyell Argus	true	false
+21576925	59134	14292637	Is Masthead Of		Huntly Press and District Gazette	true	false
+21576927	68073	61073	Continues		Huntly Press (1983)	true	false
+21577175	1014	60097	Continues		News	true	false
+21712688	14362625	61104	Has Masthead		Patea Daily Mail	true	false
+21712806	60163	14362628	Succeeding	Merged into	Patea and Waverley Press	false	false
+21712824	8038	14332627	Is Masthead Of		Horowhenua & Kapiti News	true	false
+21712936	2005	63145	Continued By		Times	false	false
+21713057	60180	66208	Has Masthead		D  Scene (Taieri Ed.)	false	false
+21713060	50	4036	Is Edition Of		New Zealand Herald	false	false
+21714809	14054	59108	Has Masthead		New  Zealand Saturday Advertiser, Time-table and  Literary Miscellany	true	false
+21714820	13024	4010	Succeeding		Dunedin Star Midweek	false	false
+21722787	14352614	14362628	Succeeding	Merged into	Patea and Waverley Press	false	false
+21722907	66123	4051	Continued By		Kapiti Observer News Shopper	false	false
+21723044	66208	60180	Is Edition Of		D  Scene	false	false
+21724801	69158	59108	Continues		New  Zealand Saturday Advertiser, Time-table and  Literary Miscellany	true	false
+21732645	14362625	66131	Has Masthead		Patea County Mail	true	false
+21732881	66123	68065	Preceding	Formed by the Union	Golden Coast News Shopper	false	false
+21734753	67142	59108	Continued By		New  Zealand Saturday Advertiser, Time-table and  Literary Miscellany	true	false
+21734755	13024	66073	Has Edition		Evening Star Sports Special	false	false
+21742650	66131	14362625	Is Masthead Of		Patea Mail	true	false
+21742651	14362625	58119	Has Masthead		Patea Mail (1882)	true	false
+21742902	68078	4022	Continued By		Horowhenua Mail	false	false
+21744765	59108	14054	Is Masthead Of		New Zealand Public Opinion, Sportsman and Saturday Advertiser	true	false
+21744766	59108	69158	Continued By		Saturday Advertiser, Time-table, and  New  Zealand Public Opinion	true	false
+21744783	65079	10008	Is Edition Of		Dunedin Star Weekender	false	false
+22882957	63145	2005	Continues		Kapiti News	false	false
+22884828	13024	10008	Succeeding		Dunedin Star Weekender	false	false
+22892796	14362628	60163	Preceding	Formed by the Union	Waverley Newsletter	false	false
+22892798	14362628	14352614	Preceding	Formed by the Union	The Patea Mail	false	false
+22892811	14332627	13046	Has Masthead		Kapiti-Horowhenua News	true	false
+22892812	14332627	6043	Has Masthead		Horowhenua News	true	false
+22892922	4051	66123	Continues		Observer News Shopper	false	false
+22894802	14054	67142	Has Masthead		Saturday Advertiser, Time-table, and  New  Zealand Literary Miscellany	true	false
+22902808	6043	14332627	Is Masthead Of		Horowhenua & Kapiti News	true	false
+22902912	8004	68065	Continues		Golden Coast News Shopper	false	false
+22904801	69158	14054	Is Masthead Of		New Zealand Public Opinion, Sportsman and Saturday Advertiser	true	false
+22912797	13046	14332627	Is Masthead Of		Horowhenua & Kapiti News	true	false
+22913042	4036	50	Has Edition		Herald on Sunday	false	false
+22914773	69158	64117	Continued By		New  Zealand Public Opinion, Sportsman and  Saturday Advertiser	true	false
+23752708	61104	14362625	Is Masthead Of		Patea Mail	true	false
+23752709	58119	14362625	Is Masthead Of		Patea Mail	true	false
+23754821	14054	64117	Has Masthead		New  Zealand Public Opinion, Sportsman and  Saturday Advertiser	true	false
+23754824	66073	13024	Is Edition Of		Evening Star	false	false
+23762679	14362625	66132	Has Masthead		Patea Mail [1875]	true	false
+23764798	59108	67142	Continues		Saturday Advertiser, Time-table, and  New  Zealand Literary Miscellany	true	false
+23764800	64117	14054	Is Masthead Of		New Zealand Public Opinion, Sportsman and Saturday Advertiser	true	false
+23764811	10008	13024	Preceding		Evening Star	false	false
+34250611	69115	4027	Succeeding	Absorbed by	Lake Wakatip Mail	false	false
+40620611	4027	69115	Preceding	Absorbed	Lake County Press	false	false
+40640611	71056	60043	Continued By		Charleston Herald	false	false
+41490606	60043	71056	Continues		Charleston Argus	false	false
+41490667	64076	67137	Continues		Pukekohe &  Waiuku Times	false	false
+41490668	68059	64076	Continues		Franklin &  Pukekohe Times	false	false
+42410664	67137	64076	Continued By		Franklin &  Pukekohe Times	false	false
+42410665	64076	68059	Continued By		Franklin Times	false	false
+68341763	66118	13002	Continues		New Zealand Times	false	false
+68371748	6005	61093	Continues		The  N.Z. Sunday Times	false	false
+71312282	13002	66031	Continues		Sunday Times	false	false
+72211756	6005	66031	Continued By		Sunday Times	false	false
+75091764	10034	66118	Continues		New Zealand Sunday Times	false	false
+76111990	471001	64055	Continued By		Bay of Plenty Press	false	false
+76112061	59159	68158	Continued By		Wairarapa Free Press	false	false
+76112063	66031	13002	Continued By		New Zealand Times	false	false
+76141745	61093	6005	Continued By		Dominion Sunday Times	false	false
+76641766	13002	66118	Continued By		New Zealand Sunday Times	false	false
+77511759	66118	10034	Continued By		Dominion SundayTimes	false	false
+77860168	64171	71154	Continued By		Valley Courier	false	false
+79431766	66031	6005	Continues		Dominion Sunday Times	false	false
+79900174	68042	65174	Continues		Wainuiomata &  Eastern Bays Courier	false	false
+79900176	59147	62147	Continues		Tawa Tatler	false	false
+79900178	61100	72112	Continues		Onslow News Pictorial	false	false
+80740173	519004	59100	Continues		Mount Maunganui Sun	false	false
+80740175	65066	68042	Continues		Courier News	false	false
+80750180	64171	65066	Continues		Courier	false	false
+80750183	62147	59147	Continued By		Tatler	false	false
+80760178	71154	64171	Continues		Weekly Courier	false	false
+81580171	65066	64171	Continued By		Weekly Courier	false	false
+82620177	68042	65066	Continued By		Courier	false	false
+82620179	65174	68042	Continued By		Courier News	false	false
+82620182	72112	61100	Continued By		Onslow Johnsonville News	false	false
+82630178	59100	519004	Continued By		Bay Sun	false	false
+85510180	13050	9042	Continued By		Citylife (South South & East ed.)	false	false
+88903016	378003	14039	Has Edition		Aucklander (Central Ed.)	true	false
+88903017	378003	8042	Has Edition		The  Aucklander Waitakere	true	false
+88903236	3060	8041	Continues		Franklin Life	false	false
+90181010	70171	69181	Continued By		Turangi and  Ruapehu Chronicle	false	false
+94470488	69181	70171	Continues		Turangi Chronicle [1960]	false	false
+94470497	69181	6012	Is Masthead Of		Turangi Chronicle	false	false
+94991703	69181	9001	Continued By		Turangi Chronicle [1989]	false	false
+94991778	69204	70062	Continued By		Coastline Flash	false	false
+96842283	1011	6012	Continues	Absorbed	Turangi Chronicle	false	false
+97820382	6012	1011	Continued By	Absorbed By	Taupo Weekender	false	false
+97830377	6012	9001	Has Masthead		Turangi Chronicle [1989]	false	false
+97850371	9001	69181	Continues		Turangi and  Ruapehu Chronicle	false	false
+98261857	378003	43	Has Edition		Aucklander (West Ed.)	true	false
+98261861	5060	378003	Is Edition Of		The Aucklander	true	false
+98291676	14039	378003	Is Edition Of		The Aucklander	true	false
+98291677	8042	378003	Is Edition Of		The Aucklander	true	false
+98720453	70062	8010	Continued By		Coastal News	false	false
+98730378	6012	70171	Has Masthead		Turangi Chronicle [1966]	false	false
+99231850	42	378003	Is Edition Of		The Aucklander	true	false
+99231852	378003	4062	Has Edition		Aucklander (Shore)	true	false
+99232056	8041	54	Continues		Franklin-Papakura Life Newspaper	true	false
+99241860	378003	68184	Has Masthead		Aucklander [2011]	false	false
+100191849	378003	42	Has Edition		Aucklander (City Ed.)	true	false
+100211845	11051	378003	Is Edition Of		The Aucklander	true	false
+100211848	378003	8045	Has Edition		The Aucklander. Central.	true	false
+100220600	3044	378003	Is Edition Of		The Aucklander	true	false
+100690450	70062	69204	Continues		Whangamata Flash	false	false
+101201863	68184	378003	Is Masthead Of		The Aucklander	false	false
+101211850	10071	378003	Is Edition Of		The Aucklander	true	false
+101211988	70121	4036	Is Edition Of		New Zealand Herald	false	false
+101231866	4069	378003	Is Edition Of		The Aucklander	true	false
+101231867	11056	378003	Is Edition Of		The Aucklander	true	false
+101231868	1054	378003	Is Edition Of		The Aucklander	true	false
+101231871	378003	5060	Has Edition		The Aucklander. South.	true	false
+101690383	6012	69181	Has Masthead		Turangi and  Ruapehu Chronicle	false	false
+101700381	9001	6012	Is Masthead Of		Turangi Chronicle	false	false
+102072101	5053	378003	Is Edition Of		The Aucklander	true	false
+102072102	378003	11051	Has Edition		Aucklander (Papakura Ed.)	true	false
+102210441	62138	4036	Is Edition Of		New Zealand Herald	true	false
+103191853	2055	378003	Is Edition Of		The Aucklander	true	false
+103191855	378003	4048	Has Edition		Aucklander (Shore Ed.)	true	false
+103191856	378003	10059	Has Edition		The  North Shore Aucklander	true	false
+103192069	13033	54	Continued By		Franklin-Papakura Life Newspaper	true	false
+103201857	378003	5053	Has Edition		Aucklander (Tamaki)	true	false
+103201862	10070	378003	Is Edition Of		The Aucklander	true	false
+103211849	378003	3044	Has Edition		Aucklander (South Ed.)	true	false
+103211850	4048	378003	Is Edition Of		The Aucklander	true	false
+103211851	10059	378003	Is Edition Of		The Aucklander	true	false
+103221861	378003	2060	Has Edition		The  Aucklander North Shore	true	false
+103221864	73055	378003	Is Masthead Of		The Aucklander	false	false
+103231854	4062	378003	Is Edition Of		The Aucklander	true	false
+103231855	378003	1054	Has Edition		Aucklander (Counties Ed.)	true	false
+103251840	378003	4069	Has Edition		The  Aucklander Manukau City	true	false
+103251841	378003	11056	Has Edition		The  Aucklander City	true	false
+103261685	6042	378003	Is Edition Of		The Aucklander	true	false
+103261689	378003	10071	Has Edition		The Aucklander. North.	true	false
+103550330	70171	6012	Is Masthead Of		Turangi Chronicle	false	false
+104071850	2060	378003	Is Edition Of		The Aucklander	true	false
+104080587	378003	73055	Has Masthead		The Aucklander [2011]	false	false
+104410448	8010	70062	Continues		Coastline Flash	false	false
+104970913	9014	5004	Continues		Hibiscus Coaster	false	false
+104971874	378003	2055	Has Edition		Aucklander (North Ed.)	true	false
+104972091	54	8041	Continued By		Franklin Life	true	false
+105901857	43	378003	Is Edition Of		The Aucklander	true	false
+106511995	4036	62138	Has Edition		Sunday Herald	true	false
+106521848	378003	6042	Has Edition		Aucklander (East Ed.)	true	false
+106521851	8045	378003	Is Edition Of		The Aucklander	true	false
+106522060	8041	3060	Continued By		Franklin Papakura Life	false	false
+106540457	378003	10070	Has Edition		The Aucklander. West.	true	false
+4785074604081152	70084	14044	Preceding	Continues	Northland Age	false	false
+4863277368606720	67063	58081	Succeeding	Continued by	Luminary	false	false
+5047308127305728	67063	71112	Preceding	Continues	Northern Luminary	false	false
+5132107961597952	60103	62087	Preceding	Continues	Mangonui County Times and  Northern Representative	false	false
+5144752345317376	60103	14044	Succeeding	Continued by	Northland Age	false	false
+5222955109842944	58081	67063	Preceding	Continues	Bay  of  Islands Luminary	false	false
+5302669702856704	71112	67063	Succeeding	Continued by	Bay  of  Islands Luminary	false	false
+5681726336532480	14044	70084	Succeeding	Continued by	Guardian	false	false
+5799236641751040	62087	60103	Succeeding	Continued by	North Auckland Age	false	false
+5812155903377408	14044	60103	Preceding	Continues	North Auckland Age	false	false
+5865619656278016	70084	14006	Succeeding	Continued by	Northland Age (1931)	false	false
+6310509548666880	58081	4045	Succeeding	Continued by	Northland Gazette	false	false
+6375105856798720	4045	58081	Preceding	Continues	Luminary	false	false
+
