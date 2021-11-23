@@ -101,6 +101,8 @@ function summarise(idList) {
     titleInfo.lists[newspaper.titleSection].push(record);
   });
 
+  titleInfo.stats.headings = Object.keys(titleInfo.lists).length;
+
   const titleInfoPath = path.join(nznShared.jsonDir, "titleInfo.json");
   nznShared.writeJsonDict(titleInfo, titleInfoPath);
 
