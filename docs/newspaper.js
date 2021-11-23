@@ -30,8 +30,8 @@ function appendLink(parent, url, text) {
  * Fill in the Newspaper Title and summary information.
  * @param {*} newspaper Data describing this newspaper.
  */
-function newspaperInfoBox(newspaper) {
-  var box = document.querySelector("#newspaper-info-box");
+function contentBox(newspaper) {
+  var box = document.querySelector("#titlebox");
 
   var heading2 = document.querySelector("#newspaper-title");
   heading2.innerHTML = newspaper.title;
@@ -54,13 +54,13 @@ function newspaperInfoBox(newspaper) {
   box.appendChild(para);
 }
 
-async function renderPaper() {
+async function render() {
   const newspaper = await getPaper();
   console.log("AAA newspaper");
   console.log(newspaper);
 
   document.title = newspaper.title + " - Newspapers of New Zealand";
-  newspaperInfoBox(newspaper);
+  contentBox(newspaper);
 }
 
-renderPaper();
+render();
