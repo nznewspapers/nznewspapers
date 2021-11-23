@@ -1,149 +1,143 @@
 body {
-	font-family: Times, serif;
-    background-color: white;
+  font-family: Times, serif;
+  background-color: white;
 }
 
 .mainbox {
-	border: 1px solid black;
-	background-color: #EFEFEF;
-	margin-left: auto;
-	margin-right: auto;
-	margin-top: 0;
-	width: 850px;	
-}
-
-.titlebox {
-    /* border: 1px solid green; */
-	font-variant:small-caps;
-	font-size: 150%;
-	text-align: center;
-}
-
-.bannerbox {
-	/* border: 1px dotted yellow; */
-	padding-bottom: 20px;
-	padding-top: 20px;
-	font-size: 300%;
-	text-align: center;
-}
-
-.menubox {
-	border-bottom: 2px solid black;
-	border-top: 2px solid black;
-}
-
-.menuitem {
-	/* border: 1px dotted yellow; */
-	font-variant:small-caps;
-    float: left;
-	min-height: 20px;
-	text-align: center;
-	width: 120px;	
-}
-
-a.menuitem {
-	color: black;	
-	text-decoration:none;
-}
-
-.contentbox {
-	/* border: 1px solid yellow; */
-	margin-left: auto;
-	margin-right: auto;
-	min-height: 500px;
-	padding-left: 5px;
-	padding-bottom: 4px;
-	padding-top: 4px;
+  border: 1px solid black;
+  background-color: #efefef;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 0;
+  width: 850px;
 }
 
 .mastheadbox {
-	/* border: 2px solid blue; */
-    margin-left: auto;
-    margin-right: auto;
-    width: 830px;
+  /* border: 1px solid green; */
+  font-variant: small-caps;
+  font-size: 150%;
+  text-align: center;
+}
+
+.bannerbox {
+  /* border: 1px dotted yellow; */
+  padding-bottom: 20px;
+  padding-top: 20px;
+  font-size: 120%;
+  text-align: center;
+}
+
+.menubox {
+  border-bottom: 2px solid black;
+  border-top: 2px solid black;
+}
+
+.menuitem {
+  /* border: 1px dotted yellow; */
+  font-variant: small-caps;
+  float: left;
+  min-height: 20px;
+  text-align: center;
+  width: 120px;
+}
+
+a.menuitem {
+  color: black;
+  text-decoration: none;
+}
+
+.contentbox {
+  /* border: 1px solid yellow; */
+  margin-left: auto;
+  margin-right: auto;
+  min-height: 500px;
+  padding-left: 5px;
+  padding-bottom: 4px;
+  padding-top: 4px;
+}
+
+.mastheadbox {
+  /* border: 2px solid blue; */
+  margin-left: auto;
+  margin-right: auto;
+  width: 830px;
 }
 
 .masthead {
-	/* border: 2px solid red; */
-	margin-left: auto;
-	margin-right: auto;
-	min-width: 500px;
+  /* border: 2px solid red; */
+  margin-left: auto;
+  margin-right: auto;
+  min-width: 500px;
 }
 
-
 .columnbox {
-	/* border: 1px solid red; */
-	border-left: 1px solid black;
-	border-right: 1px solid black;
-	float: left;
-	min-height: 200px;
-	padding: 4px;
-	width: 200px;	
+  /* border: 1px solid red; */
+  border-left: 1px solid black;
+  border-right: 1px solid black;
+  float: left;
+  min-height: 200px;
+  padding: 4px;
+  width: 200px;
 }
 
 .columnsection {
-	margin-top: 20px;
-	font-size: 200%;
-	font-variant:small-caps;
-	text-align: center;
+  margin-top: 20px;
+  font-size: 200%;
+  font-variant: small-caps;
+  text-align: center;
 }
 
 .columnheading {
-	/* border: 1px dotted yellow; */
-	margin-top: 20px;
-	font-size: 200%;
-	text-align: center;
+  /* border: 1px dotted yellow; */
+  margin-top: 20px;
+  font-size: 200%;
+  text-align: center;
 }
 
 .columnsubheading {
-	margin-top: 10px;
-	font-size: 120%;
-	font-weight: bold;
-	text-align: center;
+  margin-top: 10px;
+  font-size: 120%;
+  font-weight: bold;
+  text-align: center;
 }
 
 .columnitem {
-	/* border: 1px dotted yellow; */
-	/* width: 140px; */	
-	margin: 1px;
+  /* border: 1px dotted yellow; */
+  /* width: 140px; */
+  margin: 1px;
 }
 
 /* clear float after columns */
-br
-{
+br {
   clear: left;
 }
 
 .footerbox {
-	border-top: 2px solid black;
+  border-top: 2px solid black;
 }
 
 a {
-	color: black;	
-	/* text-decoration:none; */
+  color: black;
+  /* text-decoration:none; */
 }
 
-
-
 table.simpletable {
-	border-bottom: 2px solid black;
-	border-top: 2px solid black;
+  border-bottom: 2px solid black;
+  border-top: 2px solid black;
 }
 
 table.simpletable th {
-	border-bottom: 2px solid black;
+  border-bottom: 2px solid black;
 }
 
 table.simpletable td {
-	border-bottom: 1px dotted black;
+  border-bottom: 1px dotted black;
 }
 
-
-
 .debug5 {
-	border: 1px dotted orange;	
+  border: 1px dotted orange;
 }
 
 .debug6 {
-	border: 1px dotted brown;	
+  border: 1px dotted brown;
 }
