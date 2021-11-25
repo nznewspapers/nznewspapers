@@ -90,6 +90,7 @@ function summarise(idList) {
       titleInfo.lists[newspaper.titleSection] = [];
     }
     var record = {
+      id: newspaper.id,
       title: newspaper.title,
       firstYear: newspaper.firstYear,
       finalYear: newspaper.finalYear,
