@@ -26,6 +26,7 @@ function appendLink(parent, url, text) {
   link.textContent = text;
   parent.appendChild(link);
 }
+
 /**
  * Fill in the Newspaper Title and summary information.
  * @param {*} newspaper Data describing this newspaper.
@@ -33,7 +34,7 @@ function appendLink(parent, url, text) {
 function contentBox(newspaper) {
   var box = document.querySelector("#titlebox");
 
-  var heading2 = document.querySelector("#newspaper-title");
+  var heading2 = document.querySelector("#pagetitle");
   heading2.innerHTML = newspaper.title;
 
   var para = document.createElement("p");
