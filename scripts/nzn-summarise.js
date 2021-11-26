@@ -69,6 +69,7 @@ function summarise(idList) {
       homeInfo.lists[newspaper.region][newspaper.placename] += 1;
     }
   });
+  homeInfo.stats.regions = Object.keys(homeInfo.lists).length;
 
   const homeInfoPath = path.join(nznShared.jsonDir, "homeInfo.json");
   nznShared.writeJsonDict(homeInfo, homeInfoPath);
@@ -94,7 +95,8 @@ function summarise(idList) {
       title: newspaper.title,
       firstYear: newspaper.firstYear,
       finalYear: newspaper.finalYear,
-      placename: newspaper.region,
+      region: newspaper.region,
+      district: newspaper.district,
       placename: newspaper.placename,
       urlCurrent: newspaper.urlCurrent,
       urlDigitized: newspaper.urlDigitized,
