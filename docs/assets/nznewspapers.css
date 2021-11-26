@@ -23,7 +23,7 @@ body {
   /* border: 1px dotted yellow; */
   padding-bottom: 20px;
   padding-top: 20px;
-  font-size: 130%;
+  font-size: 150%;
   text-align: center;
 }
 
@@ -71,7 +71,7 @@ a.menuitem {
 }
 
 .columnbox {
-  /* border: 1px solid red; */
+  border: 1px solid red;
   border-left: 1px solid black;
   border-right: 1px solid black;
   float: left;
@@ -88,7 +88,7 @@ a.menuitem {
 }
 
 .columnheading {
-  /* border: 1px dotted yellow; */
+  border: 2px dotted blueviolet;
   margin-top: 20px;
   font-size: 200%;
   text-align: center;
@@ -102,7 +102,7 @@ a.menuitem {
 }
 
 .columnitem {
-  /* border: 1px dotted yellow; */
+  border: 2px dotted violet;
   /* width: 140px; */
   margin: 1px;
 }

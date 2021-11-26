@@ -1,5 +1,7 @@
-console.log("Whateverly ever after");
-
+/**
+ * Load the data for a single newspaper.
+ * @returns
+ */
 async function getPaper() {
   const urlParams = new URLSearchParams(window.location.search);
   const newspaperId = urlParams.get("id");
@@ -14,17 +16,14 @@ async function getPaper() {
   }
 }
 
-function appendText(parent, text) {
-  parent.appendChild(document.createTextNode(text));
-}
-
-function appendLink(parent, url, text) {
-  var link = document.createElement("a");
-  var href = document.createAttribute("href");
-  href.value = url;
-  link.setAttributeNode(href);
-  link.textContent = text;
-  parent.appendChild(link);
+/**
+ * Fill in the page title information.
+ * @param {*} data Data describing the page comtent.
+ */
+function bannerBox(newspaper) {
+  var box = document.querySelector(".bannerbox");
+  var heading2 = document.querySelector("#pagetitle");
+  heading2.innerHTML = newspaper.title;
 }
 
 /**
@@ -32,15 +31,13 @@ function appendLink(parent, url, text) {
  * @param {*} newspaper Data describing this newspaper.
  */
 function contentBox(newspaper) {
-  var box = document.querySelector("#titlebox");
+  var box = document.querySelector(".contentbox");
 
-  var heading2 = document.querySelector("#pagetitle");
-  heading2.innerHTML = newspaper.title;
-
+  var genreDiv = appendDiv(box, "genre");
   var para = document.createElement("p");
-  var genre = document.createElement("em");
-  genre.textContent = newspaper.genre;
-  para.appendChild(genre);
+  var aboutText = document.createElement("em");
+  aboutText.textContent = newspaper.genre;
+  para.appendChild(aboutText);
 
   if (newspaper.urlCurrent) {
     appendText(para, " - ");
@@ -51,17 +48,63 @@ function contentBox(newspaper) {
     appendText(para, " - ");
     appendLink(para, newspaper.urlDigitized, "Digitized Paper");
   }
+  genreDiv.appendChild(para);
 
-  box.appendChild(para);
+  // About this title
+  var aboutDiv = appendDiv(box, "about");
+  var aboutText = document.createElement("h3");
+  aboutText.textContent = "About this Title";
+
+  // Title has been published since 1938 in Opotiki (Opotiki District, Bay of Plenty). View online.
+  aboutDiv.appendChild(aboutText);
+  appendText(aboutDiv, newspaper.title);
+  if (newspaper.finalYear == 9999) {
+    appendText(aboutDiv, " has been published since " + newspaper.firstYear);
+  } else {
+    appendText(
+      aboutDiv,
+      " was published from " +
+        newspaper.firstYear +
+        " to " +
+        newspaper.finalYear
+    );
+  }
+  appendText(
+    aboutDiv,
+    " in " +
+      newspaper.placename +
+      " (" +
+      newspaper.district +
+      ", " +
+      newspaper.region +
+      ")."
+  );
+
+  if (newspaper.urlCurrent) {
+    appendLink(aboutDiv, newspaper.urlCurrent, " View Online");
+  }
+
+  /* );<h3>About this title</h3>
+
+      <p>
+        <em><span id="newspaper-title">Title</span></em>
+        has been published since <span class="first-year">1938</span> in
+        <a href="place?place=Opotiki">Opotiki</a>
+        (<a href="place?district=Opotiki District">Opotiki District</a>,
+        <a href="place?region=Bay of Plenty">Bay of Plenty</a>).
+
+        <a href="http://www.opotikinews.co.nz/">View online</a>.
+      </p> */
 }
 
 async function render() {
-  const newspaper = await getPaper();
+  const data = await getPaper();
   console.log("AAA newspaper");
-  console.log(newspaper);
+  console.log(data);
 
-  document.title = newspaper.title + " - Newspapers of New Zealand";
-  contentBox(newspaper);
+  document.title = data.title + " - Newspapers of New Zealand";
+  bannerBox(data);
+  contentBox(data);
 }
 
 render();
