@@ -1,0 +1,20 @@
+{
+  "id": 2104,
+  "title": "Daily Advertiser and Wellington Register",
+  "genre": "Newspaper",
+  "firstYear": "1870",
+  "finalYear": "1871",
+  "district": "Wellington City",
+  "frequency": "Daily",
+  "idMarcControlNumber": "8137767",
+  "idNZNewspapersV1": "69075",
+  "isCurrent": false,
+  "placecode": "09-08-wellington",
+  "placename": "Wellington",
+  "region": "Wellington",
+  "sources": {
+    "2013-04-02T08:58:38.000Z": "Extracted from the New Zealand National Bibliography (MARC record 8137767) downloaded March 2013.",
+    "2014-03-21T11:32:46.000Z": "Modified by DataBot"
+  },
+  "revision": 4
+}

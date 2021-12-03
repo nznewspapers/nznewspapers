@@ -1,0 +1,20 @@
+{
+  "id": 1194,
+  "title": "Bays' News",
+  "genre": "Newspaper",
+  "firstYear": "1981",
+  "finalYear": "1983",
+  "district": "Auckland",
+  "frequency": "Monthly",
+  "idMarcControlNumber": "8131922",
+  "idNZNewspapersV1": "68036",
+  "isCurrent": false,
+  "placecode": "02-01",
+  "placename": "Takapuna",
+  "region": "Auckland",
+  "sources": {
+    "2013-04-02T08:58:38.000Z": "Extracted from the New Zealand National Bibliography (MARC record 8131922) downloaded March 2013.",
+    "2014-05-07T09:01:16.000Z": "Modified by DataBot"
+  },
+  "revision": 4
+}

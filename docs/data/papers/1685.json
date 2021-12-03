@@ -1,0 +1,47 @@
+{
+  "id": 1685,
+  "title": "Kawerau Gazette",
+  "genre": "Newspaper",
+  "firstYear": "1960",
+  "finalYear": "1993",
+  "district": "Kawerau District",
+  "idNZNewspapersV1": "488001",
+  "isCurrent": false,
+  "placecode": "04-06",
+  "placename": "Kawerau",
+  "region": "Bay of Plenty",
+  "links": {
+    "1669": {
+      "direction": "Continued By",
+      "target-description": "Eastern Bay  News"
+    },
+    "1684": {
+      "direction": "Has Masthead",
+      "target-description": "Kawerau Gazette"
+    },
+    "1689": {
+      "direction": "Has Masthead",
+      "target-description": "Eastern Bay  of  Plenty Picture News and  Kawerau Gazette"
+    },
+    "1690": {
+      "direction": "Has Masthead",
+      "target-description": "Eastern Bay  of  Plenty News and  Kawerau Gazette"
+    },
+    "1691": {
+      "direction": "Has Masthead",
+      "target-description": "Eastern Bay  of  Plenty News Kawerau Gazette"
+    },
+    "1692": {
+      "direction": "Has Masthead",
+      "target-description": "Kawerau &  Eastern Bay  News Gazette"
+    },
+    "1693": {
+      "direction": "Has Masthead",
+      "target-description": "News Gazette"
+    }
+  },
+  "sources": {
+    "2013-09-13T08:40:49.000Z": "Modified by gordon.paynter"
+  },
+  "revision": 9
+}

@@ -1,0 +1,20 @@
+{
+  "id": 2356,
+  "title": "Malvern Record (1986)",
+  "genre": "Newspaper",
+  "firstYear": "1986",
+  "finalYear": "9999",
+  "district": "Selwyn District",
+  "frequency": "Weekly",
+  "idMarcControlNumber": "8129550",
+  "idNZNewspapersV1": "66048",
+  "isCurrent": true,
+  "placecode": "12-03",
+  "placename": "Darfield",
+  "region": "Canterbury",
+  "sources": {
+    "2013-04-02T08:58:38.000Z": "Extracted from the New Zealand National Bibliography (MARC record 8129550) downloaded March 2013.",
+    "2014-05-07T09:13:55.000Z": "Modified by DataBot"
+  },
+  "revision": 4
+}

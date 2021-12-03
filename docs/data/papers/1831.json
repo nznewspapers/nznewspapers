@@ -1,0 +1,26 @@
+{
+  "id": 1831,
+  "title": "Egmont Star",
+  "genre": "Weekly Edition",
+  "firstYear": "1885",
+  "finalYear": "1914",
+  "district": "South Taranaki District",
+  "frequency": "Weekly",
+  "idMarcControlNumber": "8138634",
+  "idNZNewspapersV1": "69087",
+  "isCurrent": false,
+  "placecode": "07-03",
+  "placename": "Hawera",
+  "region": "Taranaki",
+  "links": {
+    "1829": {
+      "direction": "Is Edition Of",
+      "target-description": "Hawera &  Normanby Star"
+    }
+  },
+  "sources": {
+    "2013-04-02T08:58:38.000Z": "Extracted from the New Zealand National Bibliography (MARC record 8138634) downloaded March 2013.",
+    "2014-05-15T04:30:46.000Z": "Modified by DataBot"
+  },
+  "revision": 5
+}

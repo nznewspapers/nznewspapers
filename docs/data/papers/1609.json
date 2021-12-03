@@ -1,0 +1,20 @@
+{
+  "id": 1609,
+  "title": "Patea County Press",
+  "genre": "Newspaper",
+  "firstYear": "1887",
+  "finalYear": "1914",
+  "district": "South Waikato District",
+  "frequency": "Three issues per week",
+  "idMarcControlNumber": "8177859",
+  "idNZNewspapersV1": "62119",
+  "isCurrent": false,
+  "placecode": "03-07",
+  "placename": "Patea",
+  "region": "Waikato",
+  "sources": {
+    "2013-04-02T08:58:38.000Z": "Extracted from the New Zealand National Bibliography (MARC record 8177859) downloaded March 2013.",
+    "2014-05-07T09:04:30.000Z": "Modified by DataBot"
+  },
+  "revision": 4
+}

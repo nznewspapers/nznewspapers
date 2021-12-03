@@ -1,0 +1,24 @@
+{
+  "id": 1285,
+  "title": "The New Zealander [Auckland]",
+  "genre": "Newspaper",
+  "firstYear": "1845",
+  "finalYear": "1866",
+  "district": "Auckland",
+  "finalIssueDate": "1866-05-02",
+  "firstIssueDate": "1845-06-07",
+  "frequency": "Daily",
+  "idMarcControlNumber": "3323873",
+  "idNZNewspapersV1": "12002",
+  "idPapersPastCode": "NZ",
+  "isCurrent": false,
+  "placecode": "02-01-auckland",
+  "placename": "Auckland",
+  "region": "Auckland",
+  "urlDigitized": "http://paperspast.natlib.govt.nz/cgi-bin/paperspast?a=d&cl=CL1.NZ",
+  "sources": {
+    "2013-04-02T08:58:38.000Z": "Extracted from the New Zealand National Bibliography (MARC record 3323873) downloaded March 2013.",
+    "2014-03-21T11:28:48.000Z": "Modified by DataBot"
+  },
+  "revision": 10
+}

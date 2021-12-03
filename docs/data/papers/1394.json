@@ -1,0 +1,20 @@
+{
+  "id": 1394,
+  "title": "Alternative News Service",
+  "genre": "Newspaper",
+  "firstYear": "1971",
+  "finalYear": "1972",
+  "district": "Auckland",
+  "frequency": "Weekly",
+  "idMarcControlNumber": "2604879",
+  "idNZNewspapersV1": "2003",
+  "isCurrent": false,
+  "placecode": "02-01-auckland",
+  "placename": "Auckland",
+  "region": "Auckland",
+  "sources": {
+    "2013-04-02T08:58:38.000Z": "Extracted from the New Zealand National Bibliography (MARC record 2604879) downloaded March 2013.",
+    "2014-05-07T09:10:22.000Z": "Modified by DataBot"
+  },
+  "revision": 4
+}

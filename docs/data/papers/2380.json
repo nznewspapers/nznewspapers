@@ -1,0 +1,26 @@
+{
+  "id": 2380,
+  "title": "The Akaroa Mail and Banks Peninsula Advertiser",
+  "genre": "Newspaper",
+  "firstYear": "1876",
+  "finalYear": "9999",
+  "district": "Christchurch City",
+  "firstIssueDate": "1876-07-21",
+  "frequency": "Two issues per week",
+  "idMarcControlNumber": "3531235",
+  "idNZNewspapersV1": "52001",
+  "idPapersPastCode": "AMBPA",
+  "isCurrent": true,
+  "placecode": "12-05",
+  "placename": "Akaroa",
+  "region": "Canterbury",
+  "urlDigitized": "http://paperspast.natlib.govt.nz/cgi-bin/paperspast?a=d&cl=CL1.AMBPA",
+  "notes": {
+    "108006": "Independent"
+  },
+  "sources": {
+    "2013-04-02T08:58:38.000Z": "Extracted from the New Zealand National Bibliography (MARC record 3531235) downloaded March 2013.",
+    "2014-08-21T20:25:14.000Z": "Modified by gordon.paynter"
+  },
+  "revision": 10
+}

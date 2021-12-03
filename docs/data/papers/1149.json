@@ -1,0 +1,20 @@
+{
+  "id": 1149,
+  "title": "News-echo Courier",
+  "genre": "Newspaper",
+  "firstYear": "1966",
+  "finalYear": "1966",
+  "district": "Auckland",
+  "frequency": "Weekly",
+  "idMarcControlNumber": "8173676",
+  "idNZNewspapersV1": "59114",
+  "isCurrent": false,
+  "placecode": "02-01",
+  "placename": "Panmure",
+  "region": "Auckland",
+  "sources": {
+    "2013-04-02T08:58:38.000Z": "Extracted from the New Zealand National Bibliography (MARC record 8173676) downloaded March 2013.",
+    "2014-05-07T09:18:24.000Z": "Modified by DataBot"
+  },
+  "revision": 4
+}

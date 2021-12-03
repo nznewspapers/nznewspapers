@@ -1,0 +1,28 @@
+{
+  "id": 1312,
+  "title": "Evening Bell",
+  "genre": "Newspaper",
+  "firstYear": "1885",
+  "finalYear": "1886",
+  "district": "Auckland",
+  "firstIssueDate": "1885-05-16",
+  "frequency": "Daily",
+  "idMarcControlNumber": "8141674",
+  "idNZNewspapersV1": "69089",
+  "isCurrent": false,
+  "placecode": "02-01-auckland",
+  "placename": "Auckland",
+  "region": "Auckland",
+  "links": {
+    "1315": {
+      "direction": "Succeeding",
+      "relationship": "Continued by",
+      "target-description": "Auckland Evening Bell"
+    }
+  },
+  "sources": {
+    "2013-04-02T08:58:38.000Z": "Extracted from the New Zealand National Bibliography (MARC record 8141674) downloaded March 2013.",
+    "2014-03-21T11:34:08.000Z": "Modified by DataBot"
+  },
+  "revision": 7
+}

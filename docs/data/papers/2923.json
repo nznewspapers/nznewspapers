@@ -1,0 +1,20 @@
+{
+  "id": 2923,
+  "title": "Christchurch North News",
+  "genre": "Periodical",
+  "firstYear": "19uu",
+  "finalYear": "1999",
+  "district": "Christchurch City",
+  "frequency": "Fortnightly",
+  "idMarcControlNumber": "4431891",
+  "idNZNewspapersV1": "13020",
+  "isCurrent": false,
+  "placecode": "12-05",
+  "placename": "Papanui",
+  "region": "Canterbury",
+  "sources": {
+    "2013-04-02T08:58:38.000Z": "Extracted from the New Zealand National Bibliography (MARC record 4431891) downloaded March 2013.",
+    "2014-05-07T08:56:03.000Z": "Modified by DataBot"
+  },
+  "revision": 4
+}

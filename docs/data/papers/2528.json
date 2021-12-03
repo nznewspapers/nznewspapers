@@ -1,0 +1,33 @@
+{
+  "id": 2528,
+  "title": "Timaru's the Courier",
+  "genre": "Newspaper",
+  "firstYear": "1991",
+  "finalYear": "1993",
+  "district": "Timaru District",
+  "frequency": "Weekly",
+  "idMarcControlNumber": "4836498",
+  "idNZNewspapersV1": "11023",
+  "isCurrent": false,
+  "placecode": "12-08",
+  "placename": "Timaru",
+  "price": "Gratis",
+  "region": "Canterbury",
+  "links": {
+    "2530": {
+      "direction": "Succeeding",
+      "relationship": "Continued by",
+      "target-description": "Courier (Timaru, N.Z.)"
+    },
+    "2951": {
+      "direction": "Preceding",
+      "relationship": "Continues",
+      "target-description": "South Canterbury community news"
+    }
+  },
+  "sources": {
+    "2013-04-02T08:58:38.000Z": "Extracted from the New Zealand National Bibliography (MARC record 4836498) downloaded March 2013.",
+    "2014-05-07T09:49:26.000Z": "Modified by DataBot"
+  },
+  "revision": 8
+}

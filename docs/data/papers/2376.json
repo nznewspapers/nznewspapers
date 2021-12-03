@@ -1,0 +1,19 @@
+{
+  "id": 2376,
+  "title": "The Kaiapoi Leader",
+  "genre": "Newspaper",
+  "firstYear": "1999",
+  "finalYear": "2004",
+  "district": "Waimakariri District",
+  "idMarcControlNumber": "5945646",
+  "idNZNewspapersV1": "14322628",
+  "isCurrent": false,
+  "placecode": "12-04",
+  "placename": "Rangiora",
+  "region": "Canterbury",
+  "sources": {
+    "2013-04-02T08:58:38.000Z": "Extracted from the New Zealand National Bibliography (MARC record 5945646) downloaded March 2013.",
+    "2014-04-23T10:12:37.000Z": "Modified by MarcLoaderBot"
+  },
+  "revision": 2
+}

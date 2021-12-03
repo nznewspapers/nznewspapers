@@ -1,0 +1,20 @@
+{
+  "id": 1833,
+  "title": "Opunake Times",
+  "genre": "Newspaper",
+  "firstYear": "1894",
+  "finalYear": "1949",
+  "district": "South Taranaki District",
+  "frequency": "Two issues per week",
+  "idMarcControlNumber": "8177733",
+  "idNZNewspapersV1": "58112",
+  "isCurrent": false,
+  "placecode": "07-03",
+  "placename": "Opunake",
+  "region": "Taranaki",
+  "sources": {
+    "2013-04-02T08:58:38.000Z": "Extracted from the New Zealand National Bibliography (MARC record 8177733) downloaded March 2013.",
+    "2014-05-07T09:07:00.000Z": "Modified by DataBot"
+  },
+  "revision": 4
+}

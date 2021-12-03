@@ -1,0 +1,20 @@
+{
+  "id": 2330,
+  "title": "Westland Observer",
+  "genre": "Newspaper",
+  "firstYear": "1868",
+  "finalYear": "uuuu",
+  "district": "Westland District",
+  "frequency": "Daily",
+  "idMarcControlNumber": "8187800",
+  "idNZNewspapersV1": "64175",
+  "isCurrent": false,
+  "placecode": "11-03",
+  "placename": "Hokitika",
+  "region": "West Coast",
+  "sources": {
+    "2013-04-02T08:58:38.000Z": "Extracted from the New Zealand National Bibliography (MARC record 8187800) downloaded March 2013.",
+    "2014-03-21T11:44:06.000Z": "Modified by DataBot"
+  },
+  "revision": 4
+}

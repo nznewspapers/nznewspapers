@@ -1,0 +1,21 @@
+{
+  "id": 1682,
+  "title": "Rotorua Review",
+  "genre": "Newspaper",
+  "firstYear": "1984",
+  "finalYear": "9999",
+  "district": "Rotorua District",
+  "frequency": "Weekly",
+  "idMarcControlNumber": "8130653",
+  "idNZNewspapersV1": "1044",
+  "isCurrent": true,
+  "placecode": "04-05",
+  "placename": "Rotorua",
+  "region": "Bay of Plenty",
+  "urlCurrent": "http://www.stuff.co.nz/waikato-times/rotorua-review",
+  "sources": {
+    "2013-04-02T08:58:38.000Z": "Extracted from the New Zealand National Bibliography (MARC record 8130653) downloaded March 2013.",
+    "2014-05-07T09:14:01.000Z": "Modified by DataBot"
+  },
+  "revision": 4
+}

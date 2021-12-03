@@ -1,0 +1,25 @@
+{
+  "id": 2566,
+  "title": "Mt. Benger Mail",
+  "genre": "Newspaper",
+  "firstYear": "1880",
+  "finalYear": "1941",
+  "district": "Central Otago District",
+  "frequency": "Weekly",
+  "idMarcControlNumber": "8169249",
+  "idNZNewspapersV1": "59101",
+  "idPapersPastCode": "MTBM",
+  "isCurrent": false,
+  "placecode": "13-02",
+  "placename": "Roxburgh",
+  "region": "Otago",
+  "urlDigitized": "http://paperspast.natlib.govt.nz/cgi-bin/paperspast?a=d&cl=CL1.MTBM",
+  "notes": {
+    "98013": "Also published in Lawrence."
+  },
+  "sources": {
+    "2013-04-02T08:58:38.000Z": "Extracted from the New Zealand National Bibliography (MARC record 8169249) downloaded March 2013.",
+    "2014-08-20T09:15:18.000Z": "Modified by gordon.paynter"
+  },
+  "revision": 8
+}

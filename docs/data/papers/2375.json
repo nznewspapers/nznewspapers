@@ -1,0 +1,20 @@
+{
+  "id": 2375,
+  "title": "Northern Outlook (1990)",
+  "genre": "Newspaper",
+  "firstYear": "1990",
+  "finalYear": "9999",
+  "district": "Waimakariri District",
+  "frequency": "Two issues per week",
+  "idMarcControlNumber": "8130452",
+  "idNZNewspapersV1": "59055",
+  "isCurrent": true,
+  "placecode": "12-04",
+  "placename": "Rangiora",
+  "region": "Canterbury",
+  "sources": {
+    "2013-04-02T08:58:38.000Z": "Extracted from the New Zealand National Bibliography (MARC record 8130452) downloaded March 2013.",
+    "2014-05-07T09:05:57.000Z": "Modified by DataBot"
+  },
+  "revision": 4
+}

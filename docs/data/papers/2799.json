@@ -1,0 +1,20 @@
+{
+  "id": 2799,
+  "title": "Rugby Review",
+  "genre": "Periodical",
+  "firstYear": "1978",
+  "finalYear": "1979",
+  "district": "Tauranga City",
+  "frequency": "Weekly",
+  "idMarcControlNumber": "8349724",
+  "idNZNewspapersV1": "3053",
+  "isCurrent": false,
+  "placecode": "04-02",
+  "placename": "Tauranga",
+  "region": "Bay of Plenty",
+  "sources": {
+    "2013-04-02T08:58:38.000Z": "Extracted from the New Zealand National Bibliography (MARC record 8349724) downloaded March 2013.",
+    "2014-11-19T08:26:01.000Z": "Modified by gordon.paynter"
+  },
+  "revision": 4
+}

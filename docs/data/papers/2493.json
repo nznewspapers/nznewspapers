@@ -1,0 +1,48 @@
+{
+  "id": 2493,
+  "title": "Star Community News (Western)",
+  "genre": "Newspaper",
+  "firstYear": "2006",
+  "finalYear": "2009",
+  "district": "Christchurch City",
+  "frequency": "Weekly",
+  "idMarcControlNumber": "10831298",
+  "idNZNewspapersV1": "2057",
+  "isCurrent": false,
+  "placecode": "12-05-christchur",
+  "placename": "Christchurch",
+  "price": "Gratis",
+  "region": "Canterbury",
+  "links": {
+    "2488": {
+      "direction": "Preceding",
+      "relationship": "Continues",
+      "target-description": "Star community (Western)"
+    },
+    "2490": {
+      "direction": "Succeeding",
+      "relationship": "Unrelated",
+      "target-description": "Star community news (Eastern)"
+    },
+    "2491": {
+      "direction": "Succeeding",
+      "relationship": "Unrelated",
+      "target-description": "Star community news (Northern)"
+    },
+    "2492": {
+      "direction": "Succeeding",
+      "relationship": "Unrelated",
+      "target-description": "Star community news (Southern)"
+    },
+    "2501": {
+      "direction": "Succeeding",
+      "relationship": "Continued by",
+      "target-description": "Western news (Christchurch, N.Z.)"
+    }
+  },
+  "sources": {
+    "2013-04-02T08:58:38.000Z": "Extracted from the New Zealand National Bibliography (MARC record 10831298) downloaded March 2013.",
+    "2014-05-07T09:46:16.000Z": "Modified by DataBot"
+  },
+  "revision": 11
+}

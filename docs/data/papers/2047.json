@@ -1,0 +1,20 @@
+{
+  "id": 2047,
+  "title": "Taita Resident",
+  "genre": "Newspaper",
+  "firstYear": "1948",
+  "finalYear": "uuuu",
+  "district": "Hutt City",
+  "frequency": "Monthly",
+  "idMarcControlNumber": "8183112",
+  "idNZNewspapersV1": "70163",
+  "isCurrent": false,
+  "placecode": "09-07",
+  "placename": "Lower Hutt",
+  "region": "Wellington",
+  "sources": {
+    "2013-04-02T08:58:38.000Z": "Extracted from the New Zealand National Bibliography (MARC record 8183112) downloaded March 2013.",
+    "2014-05-07T09:02:58.000Z": "Modified by DataBot"
+  },
+  "revision": 4
+}

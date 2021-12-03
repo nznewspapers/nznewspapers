@@ -1,0 +1,26 @@
+{
+  "id": 1758,
+  "title": "Hawke's Bay Times",
+  "genre": "Newspaper",
+  "firstYear": "1861",
+  "finalYear": "1874",
+  "district": "Napier City",
+  "frequency": "Daily",
+  "idMarcControlNumber": "4871233",
+  "idNZNewspapersV1": "4035",
+  "isCurrent": false,
+  "placecode": "06-03",
+  "placename": "Napier",
+  "region": "Hawke's Bay",
+  "links": {
+    "1760": {
+      "direction": "Has Edition",
+      "target-description": "The Hawke's Bay Weekly Times"
+    }
+  },
+  "sources": {
+    "2013-04-02T08:58:38.000Z": "Extracted from the New Zealand National Bibliography (MARC record 4871233) downloaded March 2013.",
+    "2014-04-10T10:28:24.000Z": "Modified by gordon.paynter"
+  },
+  "revision": 5
+}

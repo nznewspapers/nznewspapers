@@ -1,0 +1,31 @@
+{
+  "id": 2136,
+  "title": "The Maoriland Worker",
+  "genre": "Newspaper",
+  "firstYear": "1910",
+  "finalYear": "1924",
+  "district": "Wellington City",
+  "finalIssueDate": "1924-01-30",
+  "firstIssueDate": "1910-09-15",
+  "frequency": "Weekly",
+  "idMarcControlNumber": "4657960",
+  "idNZNewspapersV1": "14020",
+  "idPapersPastCode": "MW",
+  "isCurrent": false,
+  "placecode": "09-08-wellington",
+  "placename": "Wellington",
+  "region": "Wellington",
+  "urlDigitized": "http://paperspast.natlib.govt.nz/cgi-bin/paperspast?a=d&cl=CL1.MW",
+  "links": {
+    "2140": {
+      "direction": "Succeeding",
+      "relationship": "Continued by",
+      "target-description": "New  Zealand Worker"
+    }
+  },
+  "sources": {
+    "2013-04-02T08:58:38.000Z": "Extracted from the New Zealand National Bibliography (MARC record 4657960) downloaded March 2013.",
+    "2014-05-07T09:11:29.000Z": "Modified by DataBot"
+  },
+  "revision": 11
+}

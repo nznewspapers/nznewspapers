@@ -1,0 +1,26 @@
+{
+  "id": 1873,
+  "title": "District Monitor",
+  "genre": "Newspaper",
+  "firstYear": "1992",
+  "finalYear": "2004",
+  "district": "Rangitikei District",
+  "frequency": "Weekly",
+  "idMarcControlNumber": "8127723",
+  "idNZNewspapersV1": "9031",
+  "isCurrent": false,
+  "placecode": "08-02",
+  "placename": "Marton",
+  "region": "Manawatu-Wanganui",
+  "links": {
+    "1874": {
+      "direction": "Continued By",
+      "target-description": "Rangitikei District Monitor"
+    }
+  },
+  "sources": {
+    "2013-04-02T08:58:38.000Z": "Extracted from the New Zealand National Bibliography (MARC record 8127723) downloaded March 2013.",
+    "2014-05-07T09:13:52.000Z": "Modified by DataBot"
+  },
+  "revision": 5
+}

@@ -1,0 +1,20 @@
+{
+  "id": 2114,
+  "title": "Evening Press",
+  "genre": "Newspaper",
+  "firstYear": "1884",
+  "finalYear": "1894",
+  "district": "Wellington City",
+  "frequency": "Daily",
+  "idMarcControlNumber": "8141882",
+  "idNZNewspapersV1": "3045",
+  "isCurrent": false,
+  "placecode": "09-08-wellington",
+  "placename": "Wellington",
+  "region": "Wellington",
+  "sources": {
+    "2013-04-02T08:58:38.000Z": "Extracted from the New Zealand National Bibliography (MARC record 8141882) downloaded March 2013.",
+    "2014-03-21T11:35:01.000Z": "Modified by DataBot"
+  },
+  "revision": 4
+}

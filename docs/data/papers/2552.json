@@ -1,0 +1,19 @@
+{
+  "id": 2552,
+  "title": "The Mail Minor",
+  "genre": "Newspaper",
+  "firstYear": "1939",
+  "finalYear": "1942",
+  "district": "Waitaki District",
+  "idMarcControlNumber": "14075628",
+  "idNZNewspapersV1": "14322626",
+  "isCurrent": false,
+  "placecode": "12-10",
+  "placename": "Oamaru",
+  "region": "Canterbury",
+  "sources": {
+    "2013-04-02T08:58:38.000Z": "Extracted from the New Zealand National Bibliography (MARC record 14075628) downloaded March 2013.",
+    "2014-04-23T10:12:13.000Z": "Modified by MarcLoaderBot"
+  },
+  "revision": 2
+}

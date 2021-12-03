@@ -1,0 +1,33 @@
+{
+  "id": 2205,
+  "title": "NZ InfoTech",
+  "genre": "Newspaper",
+  "firstYear": "2001",
+  "finalYear": "2002",
+  "district": "Wellington City",
+  "frequency": "Weekly",
+  "idMarcControlNumber": "6279971",
+  "idNZNewspapersV1": "34",
+  "isCurrent": false,
+  "placecode": "09-08-wellington",
+  "placename": "Wellington",
+  "region": "Wellington",
+  "urlCurrent": "http://www.infotech.co.nz",
+  "links": {
+    "2206": {
+      "direction": "Succeeding",
+      "relationship": "Absorbed by",
+      "target-description": "Dominion post (Wellington, N.Z.)"
+    },
+    "undefined-unknown": {
+      "direction": "Preceding",
+      "relationship": "Continues",
+      "target-description": "New Zealand Infotech weekly"
+    }
+  },
+  "sources": {
+    "2013-04-02T08:58:38.000Z": "Extracted from the New Zealand National Bibliography (MARC record 6279971) downloaded March 2013.",
+    "2014-05-07T09:12:58.000Z": "Modified by DataBot"
+  },
+  "revision": 6
+}

@@ -1,0 +1,27 @@
+{
+  "id": 1513,
+  "title": "Paeroa Star",
+  "genre": "Newspaper",
+  "firstYear": "1981",
+  "finalYear": "1982",
+  "district": "Hauraki District",
+  "frequency": "Weekly",
+  "idMarcControlNumber": "8177829",
+  "idNZNewspapersV1": "60120",
+  "isCurrent": false,
+  "placecode": "03-02",
+  "placename": "Paeroa",
+  "region": "Waikato",
+  "links": {
+    "1483": {
+      "direction": "Succeeding",
+      "relationship": "Absorbed By",
+      "target-description": "Thames Star"
+    }
+  },
+  "sources": {
+    "2013-04-02T08:58:38.000Z": "Extracted from the New Zealand National Bibliography (MARC record 8177829) downloaded March 2013.",
+    "2014-05-07T09:19:24.000Z": "Modified by DataBot"
+  },
+  "revision": 5
+}

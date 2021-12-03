@@ -1,0 +1,20 @@
+{
+  "id": 1558,
+  "title": "Matamata County Mail",
+  "genre": "Newspaper",
+  "firstYear": "193u",
+  "finalYear": "1975",
+  "district": "Matamata-Piako District",
+  "frequency": "Weekly",
+  "idMarcControlNumber": "8167589",
+  "idNZNewspapersV1": "67108",
+  "isCurrent": false,
+  "placecode": "03-04",
+  "placename": "Matamata",
+  "region": "Waikato",
+  "sources": {
+    "2013-04-02T08:58:38.000Z": "Extracted from the New Zealand National Bibliography (MARC record 8167589) downloaded March 2013.",
+    "2014-05-07T09:17:31.000Z": "Modified by DataBot"
+  },
+  "revision": 4
+}

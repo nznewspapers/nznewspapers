@@ -1,0 +1,27 @@
+{
+  "id": 1614,
+  "title": "Waverley Newsletter",
+  "genre": "Newspaper",
+  "firstYear": "1998",
+  "finalYear": "1999",
+  "district": "South Waikato District",
+  "frequency": "Monthly",
+  "idMarcControlNumber": "8185531",
+  "idNZNewspapersV1": "60163",
+  "isCurrent": false,
+  "placecode": "03-07",
+  "placename": "Patea",
+  "region": "Waikato",
+  "links": {
+    "1615": {
+      "direction": "Succeeding",
+      "relationship": "Merged into",
+      "target-description": "Patea and Waverley Press"
+    }
+  },
+  "sources": {
+    "2013-04-02T08:58:38.000Z": "Extracted from the New Zealand National Bibliography (MARC record 8185531) downloaded March 2013.",
+    "2014-05-31T09:18:45.000Z": "Modified by gordon.paynter"
+  },
+  "revision": 5
+}

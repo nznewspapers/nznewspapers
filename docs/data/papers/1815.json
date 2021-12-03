@@ -1,0 +1,20 @@
+{
+  "id": 1815,
+  "title": "New Plymouth Star",
+  "genre": "Newspaper",
+  "firstYear": "1982",
+  "finalYear": "1985",
+  "district": "New Plymouth District",
+  "frequency": "Weekly",
+  "idMarcControlNumber": "8171145",
+  "idNZNewspapersV1": "61089",
+  "isCurrent": false,
+  "placecode": "07-01",
+  "placename": "New Plymouth",
+  "region": "Taranaki",
+  "sources": {
+    "2013-04-02T08:58:38.000Z": "Extracted from the New Zealand National Bibliography (MARC record 8171145) downloaded March 2013.",
+    "2014-05-07T09:17:55.000Z": "Modified by DataBot"
+  },
+  "revision": 4
+}

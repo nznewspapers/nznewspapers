@@ -1,0 +1,20 @@
+{
+  "id": 2601,
+  "title": "Taieri Advocate",
+  "genre": "Newspaper",
+  "firstYear": "1881",
+  "finalYear": "1916",
+  "district": "Dunedin City",
+  "frequency": "Two issues per week",
+  "idMarcControlNumber": "8183018",
+  "idNZNewspapersV1": "71147",
+  "isCurrent": false,
+  "placecode": "13-03",
+  "placename": "Mosgiel",
+  "region": "Otago",
+  "sources": {
+    "2013-04-02T08:58:38.000Z": "Extracted from the New Zealand National Bibliography (MARC record 8183018) downloaded March 2013.",
+    "2014-05-07T09:07:24.000Z": "Modified by DataBot"
+  },
+  "revision": 4
+}

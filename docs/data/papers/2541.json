@@ -1,0 +1,34 @@
+{
+  "id": 2541,
+  "title": "The Waimate Advertiser",
+  "genre": "Masthead",
+  "firstYear": "1898",
+  "finalYear": "1916",
+  "district": "Waimate District",
+  "firstIssueDate": "1898-05-28",
+  "frequency": "Daily",
+  "idMarcControlNumber": "6310961",
+  "idNZNewspapersV1": "14032",
+  "idPapersPastCode": "WDA",
+  "isCurrent": false,
+  "placecode": "12-09",
+  "placename": "Waimate",
+  "region": "Canterbury",
+  "urlDigitized": "http://paperspast.natlib.govt.nz/cgi-bin/paperspast?a=d&cl=CL1&sp=WDA",
+  "links": {
+    "2542": {
+      "direction": "Is Masthead Of",
+      "target-description": "The Waimate Daily Advertiser"
+    },
+    "2543": {
+      "direction": "Succeeding",
+      "relationship": "Continued by",
+      "target-description": "Waimate Daily Advertiser"
+    }
+  },
+  "sources": {
+    "2013-04-02T08:58:38.000Z": "Extracted from the New Zealand National Bibliography (MARC record 6310961) downloaded March 2013.",
+    "2014-04-12T12:23:40.000Z": "Modified by DataBot"
+  },
+  "revision": 10
+}

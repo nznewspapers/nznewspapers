@@ -1,0 +1,23 @@
+{
+  "id": 2563,
+  "title": "Mount Ida Chronicle",
+  "genre": "Newspaper",
+  "firstYear": "1869",
+  "finalYear": "1926",
+  "district": "Central Otago District",
+  "firstIssueDate": "1869-01-25",
+  "frequency": "Weekly",
+  "idMarcControlNumber": "8169177",
+  "idNZNewspapersV1": "72091",
+  "idPapersPastCode": "MIC",
+  "isCurrent": false,
+  "placecode": "13-02",
+  "placename": "Naseby",
+  "region": "Otago",
+  "urlDigitized": "http://paperspast.natlib.govt.nz/cgi-bin/paperspast?a=d&cl=CL1.MIC",
+  "sources": {
+    "2013-04-02T08:58:38.000Z": "Extracted from the New Zealand National Bibliography (MARC record 8169177) downloaded March 2013.",
+    "2014-05-07T09:17:37.000Z": "Modified by DataBot"
+  },
+  "revision": 8
+}

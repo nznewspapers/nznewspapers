@@ -1,0 +1,20 @@
+{
+  "id": 1850,
+  "title": "Ohura Valley Gazette",
+  "genre": "Newspaper",
+  "firstYear": "1936",
+  "finalYear": "1942",
+  "district": "Ruapehu District",
+  "frequency": "Weekly",
+  "idMarcControlNumber": "8177427",
+  "idNZNewspapersV1": "70132",
+  "isCurrent": false,
+  "placecode": "08-01",
+  "placename": "Taumarunui",
+  "region": "Manawatu-Wanganui",
+  "sources": {
+    "2013-04-02T08:58:38.000Z": "Extracted from the New Zealand National Bibliography (MARC record 8177427) downloaded March 2013.",
+    "2014-05-07T09:19:10.000Z": "Modified by DataBot"
+  },
+  "revision": 4
+}

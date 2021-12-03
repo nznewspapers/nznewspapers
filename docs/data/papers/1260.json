@@ -1,0 +1,31 @@
+{
+  "id": 1260,
+  "title": "Franklin-Papakura Life Newspaper",
+  "genre": "Newspaper",
+  "firstYear": "2006",
+  "finalYear": "2007",
+  "district": "Auckland",
+  "frequency": "Weekly",
+  "idMarcControlNumber": "11117674",
+  "idNZNewspapersV1": "54",
+  "isCurrent": false,
+  "placecode": "02-01",
+  "placename": "Pukekohe",
+  "price": "Gratis",
+  "region": "Auckland",
+  "links": {
+    "1236": {
+      "direction": "Continues",
+      "target-description": "Franklin Life Newspaper"
+    },
+    "1263": {
+      "direction": "Continued By",
+      "target-description": "Franklin Life"
+    }
+  },
+  "sources": {
+    "2013-04-02T08:58:38.000Z": "Extracted from the New Zealand National Bibliography (MARC record 11117674) downloaded March 2013.",
+    "2015-01-21T10:50:39.000Z": "Modified by gordon.paynter"
+  },
+  "revision": 8
+}

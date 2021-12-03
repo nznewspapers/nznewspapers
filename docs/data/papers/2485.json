@@ -1,0 +1,48 @@
+{
+  "id": 2485,
+  "title": "Star Community (Eastern)",
+  "genre": "Newspaper",
+  "firstYear": "2005",
+  "finalYear": "2006",
+  "district": "Christchurch City",
+  "frequency": "Weekly",
+  "idMarcControlNumber": "10487329",
+  "idNZNewspapersV1": "4061",
+  "isCurrent": false,
+  "placecode": "12-05-christchur",
+  "placename": "Christchurch",
+  "price": "Gratis",
+  "region": "Canterbury",
+  "links": {
+    "2468": {
+      "direction": "Preceding",
+      "relationship": "Continues",
+      "target-description": "Pegasus post (1996)"
+    },
+    "2486": {
+      "direction": "Succeeding",
+      "relationship": "Unrelated",
+      "target-description": "Star community (Northern)"
+    },
+    "2487": {
+      "direction": "Succeeding",
+      "relationship": "Unrelated",
+      "target-description": "Star community (Southern)"
+    },
+    "2488": {
+      "direction": "Succeeding",
+      "relationship": "Unrelated",
+      "target-description": "Star community (Western)"
+    },
+    "2490": {
+      "direction": "Succeeding",
+      "relationship": "Continued by",
+      "target-description": "Star community news (Eastern)"
+    }
+  },
+  "sources": {
+    "2013-04-02T08:58:38.000Z": "Extracted from the New Zealand National Bibliography (MARC record 10487329) downloaded March 2013.",
+    "2014-05-07T09:46:04.000Z": "Modified by DataBot"
+  },
+  "revision": 11
+}

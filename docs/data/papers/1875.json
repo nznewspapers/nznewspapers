@@ -1,0 +1,20 @@
+{
+  "id": 1875,
+  "title": "Hunterville Express",
+  "genre": "Newspaper",
+  "firstYear": "uuuu",
+  "finalYear": "1950",
+  "district": "Rangitikei District",
+  "frequency": "Weekly",
+  "idMarcControlNumber": "8157124",
+  "idNZNewspapersV1": "62076",
+  "isCurrent": false,
+  "placecode": "08-02",
+  "placename": "Hunterville",
+  "region": "Manawatu-Wanganui",
+  "sources": {
+    "2013-04-02T08:58:38.000Z": "Extracted from the New Zealand National Bibliography (MARC record 8157124) downloaded March 2013.",
+    "2014-05-07T09:16:13.000Z": "Modified by DataBot"
+  },
+  "revision": 4
+}

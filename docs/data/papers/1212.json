@@ -1,0 +1,27 @@
+{
+  "id": 1212,
+  "title": "Coast to Coast Courier",
+  "genre": "Newspaper",
+  "firstYear": "1988",
+  "finalYear": "2001",
+  "district": "Auckland",
+  "frequency": "Weekly",
+  "idMarcControlNumber": "3877536",
+  "idNZNewspapersV1": "11013",
+  "isCurrent": false,
+  "placecode": "02-01",
+  "placename": "Wellsford",
+  "region": "Auckland",
+  "links": {
+    "undefined-unknown": {
+      "direction": "Preceding",
+      "relationship": "Continues",
+      "target-description": "Coast to coast weekly"
+    }
+  },
+  "sources": {
+    "2013-04-02T08:58:38.000Z": "Extracted from the New Zealand National Bibliography (MARC record 3877536) downloaded March 2013.",
+    "2014-05-07T09:11:08.000Z": "Modified by DataBot"
+  },
+  "revision": 5
+}

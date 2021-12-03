@@ -1,0 +1,26 @@
+{
+  "id": 1537,
+  "title": "New Edition",
+  "genre": "Newspaper",
+  "firstYear": "1981",
+  "finalYear": "1983",
+  "district": "Waikato District",
+  "frequency": "Weekly",
+  "idMarcControlNumber": "8171131",
+  "idNZNewspapersV1": "70119",
+  "isCurrent": false,
+  "placecode": "03-03",
+  "placename": "Cambridge",
+  "region": "Waikato",
+  "links": {
+    "1540": {
+      "direction": "Continued By",
+      "target-description": "Cambridge Edition"
+    }
+  },
+  "sources": {
+    "2013-04-02T08:58:38.000Z": "Extracted from the New Zealand National Bibliography (MARC record 8171131) downloaded March 2013.",
+    "2014-05-18T11:55:06.000Z": "Modified by gordon.paynter"
+  },
+  "revision": 5
+}

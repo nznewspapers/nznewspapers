@@ -1,0 +1,20 @@
+{
+  "id": 2768,
+  "title": "Manukau Times",
+  "genre": "Periodical",
+  "firstYear": "2006",
+  "finalYear": "2006",
+  "district": "Auckland",
+  "frequency": "Monthly",
+  "idMarcControlNumber": "10752981",
+  "idNZNewspapersV1": "2056",
+  "isCurrent": false,
+  "placecode": "02-01-auckland",
+  "placename": "Auckland",
+  "region": "Auckland",
+  "sources": {
+    "2013-04-02T08:58:38.000Z": "Extracted from the New Zealand National Bibliography (MARC record 10752981) downloaded March 2013.",
+    "2014-05-07T08:59:32.000Z": "Modified by DataBot"
+  },
+  "revision": 4
+}

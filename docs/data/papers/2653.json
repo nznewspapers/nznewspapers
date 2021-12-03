@@ -1,0 +1,20 @@
+{
+  "id": 2653,
+  "title": "Waitaki Beacon",
+  "genre": "Newspaper",
+  "firstYear": "1970",
+  "finalYear": "1971",
+  "district": "Waitaki District",
+  "frequency": "Weekly",
+  "idMarcControlNumber": "8185488",
+  "idNZNewspapersV1": "63164",
+  "isCurrent": false,
+  "placecode": "13-99",
+  "placename": "Kurow",
+  "region": "Otago",
+  "sources": {
+    "2013-04-02T08:58:38.000Z": "Extracted from the New Zealand National Bibliography (MARC record 8185488) downloaded March 2013.",
+    "2014-05-07T09:22:13.000Z": "Modified by DataBot"
+  },
+  "revision": 4
+}

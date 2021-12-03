@@ -1,0 +1,20 @@
+{
+  "id": 1305,
+  "title": "The New Zealand Freeman's Journal",
+  "genre": "Newspaper",
+  "firstYear": "1879",
+  "finalYear": "1887",
+  "district": "Auckland",
+  "frequency": "Weekly",
+  "idMarcControlNumber": "7671118",
+  "idNZNewspapersV1": "6041",
+  "isCurrent": false,
+  "placecode": "02-01-auckland",
+  "placename": "Auckland",
+  "region": "Auckland",
+  "sources": {
+    "2013-04-02T08:58:38.000Z": "Extracted from the New Zealand National Bibliography (MARC record 7671118) downloaded March 2013.",
+    "2014-05-07T09:13:36.000Z": "Modified by DataBot"
+  },
+  "revision": 4
+}

@@ -1,0 +1,25 @@
+{
+  "id": 2470,
+  "title": "News Advertiser",
+  "genre": "Newspaper",
+  "firstYear": "1996",
+  "finalYear": "9999",
+  "district": "Christchurch City",
+  "idMarcControlNumber": "2583968",
+  "idNZNewspapersV1": "2001",
+  "isCurrent": true,
+  "placecode": "12-05-christchur",
+  "placename": "Christchurch",
+  "region": "Canterbury",
+  "links": {
+    "2459": {
+      "direction": "Preceding",
+      "relationship": "Continues",
+      "target-description": "Community news (Advertiser ed.)"
+    }
+  },
+  "sources": {
+    "2013-04-02T08:58:38.000Z": "Extracted from the New Zealand National Bibliography (MARC record 2583968) downloaded March 2013."
+  },
+  "revision": 3
+}

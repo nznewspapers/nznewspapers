@@ -1,0 +1,25 @@
+{
+  "id": 1443,
+  "title": "The New Zealand Times",
+  "genre": "Newspaper",
+  "firstYear": "19uu",
+  "finalYear": "9999",
+  "district": "Auckland",
+  "frequency": "Weekly",
+  "idMarcControlNumber": "5365902",
+  "idNZNewspapersV1": "59037",
+  "isCurrent": true,
+  "placecode": "02-01-auckland",
+  "placename": "Auckland",
+  "price": "Gratis",
+  "region": "Auckland",
+  "urlCurrent": "http://www.koreatimes.co.nz/",
+  "notes": {
+    "98290721": "Korean Text"
+  },
+  "sources": {
+    "2013-04-02T08:58:38.000Z": "Extracted from the New Zealand National Bibliography (MARC record 5365902) downloaded March 2013.",
+    "2015-01-20T09:20:56.000Z": "Modified by gordon.paynter"
+  },
+  "revision": 8
+}

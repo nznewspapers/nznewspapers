@@ -1,0 +1,27 @@
+{
+  "id": 1105,
+  "title": "The Howick District News : an Independent Non-party Weekly",
+  "genre": "Newspaper",
+  "firstYear": "1947",
+  "finalYear": "1952",
+  "district": "Auckland",
+  "frequency": "Weekly",
+  "idMarcControlNumber": "7123233",
+  "idNZNewspapersV1": "11035",
+  "isCurrent": false,
+  "placecode": "02-01",
+  "placename": "Howick",
+  "region": "Auckland",
+  "links": {
+    "undefined-unknown": {
+      "direction": "Succeeding",
+      "relationship": "Continued by",
+      "target-description": "Howick post"
+    }
+  },
+  "sources": {
+    "2013-04-02T08:58:38.000Z": "Extracted from the New Zealand National Bibliography (MARC record 7123233) downloaded March 2013.",
+    "2014-05-07T09:13:18.000Z": "Modified by DataBot"
+  },
+  "revision": 5
+}

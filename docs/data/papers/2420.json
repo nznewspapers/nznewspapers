@@ -1,0 +1,20 @@
+{
+  "id": 2420,
+  "title": "Weekly Advertiser",
+  "genre": "Newspaper",
+  "firstYear": "1882",
+  "finalYear": "1886",
+  "district": "Christchurch City",
+  "frequency": "Weekly",
+  "idMarcControlNumber": "8187313",
+  "idNZNewspapersV1": "63166",
+  "isCurrent": false,
+  "placecode": "12-05-christchur",
+  "placename": "Christchurch",
+  "region": "Canterbury",
+  "sources": {
+    "2013-04-02T08:58:38.000Z": "Extracted from the New Zealand National Bibliography (MARC record 8187313) downloaded March 2013.",
+    "2014-05-07T09:22:26.000Z": "Modified by DataBot"
+  },
+  "revision": 4
+}

@@ -1,0 +1,20 @@
+{
+  "id": 1293,
+  "title": "General Advertiser",
+  "genre": "Newspaper",
+  "firstYear": "1862",
+  "finalYear": "uuuu",
+  "district": "Auckland",
+  "frequency": "Weekly",
+  "idMarcControlNumber": "8142244",
+  "idNZNewspapersV1": "67086",
+  "isCurrent": false,
+  "placecode": "02-01-auckland",
+  "placename": "Auckland",
+  "region": "Auckland",
+  "sources": {
+    "2013-04-02T08:58:38.000Z": "Extracted from the New Zealand National Bibliography (MARC record 8142244) downloaded March 2013.",
+    "2014-05-07T09:07:56.000Z": "Modified by DataBot"
+  },
+  "revision": 4
+}

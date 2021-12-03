@@ -1,0 +1,21 @@
+{
+  "id": 2209,
+  "title": "Feng Chao bao",
+  "genre": "Newspaper",
+  "firstYear": "2004",
+  "finalYear": "2004",
+  "district": "Wellington City",
+  "frequency": "Weekly",
+  "idMarcControlNumber": "8382853",
+  "idNZNewspapersV1": "12039",
+  "isCurrent": false,
+  "placecode": "09-08-wellington",
+  "placename": "Wellington",
+  "price": "Gratis",
+  "region": "Wellington",
+  "sources": {
+    "2013-04-02T08:58:38.000Z": "Extracted from the New Zealand National Bibliography (MARC record 8382853) downloaded March 2013.",
+    "2014-05-07T09:50:39.000Z": "Modified by DataBot"
+  },
+  "revision": 6
+}

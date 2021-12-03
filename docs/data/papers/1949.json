@@ -1,0 +1,31 @@
+{
+  "id": 1949,
+  "title": "Manawatu Farmer and Horowhenua County Chronicle",
+  "genre": "Masthead",
+  "firstYear": "1893",
+  "finalYear": "1909",
+  "district": "Horowhenua District",
+  "frequency": "Three issues per week",
+  "idMarcControlNumber": "8164678",
+  "idNZNewspapersV1": "58086",
+  "isCurrent": false,
+  "placecode": "08-07",
+  "placename": "Levin",
+  "region": "Manawatu-Wanganui",
+  "links": {
+    "1950": {
+      "direction": "Is Masthead Of",
+      "target-description": "Horowhenua Chronicle"
+    },
+    "1952": {
+      "direction": "Succeeding",
+      "relationship": "Continued by",
+      "target-description": "Horowhenua Chronicle"
+    }
+  },
+  "sources": {
+    "2013-04-02T08:58:38.000Z": "Extracted from the New Zealand National Bibliography (MARC record 8164678) downloaded March 2013.",
+    "2014-05-07T09:04:20.000Z": "Modified by DataBot"
+  },
+  "revision": 6
+}

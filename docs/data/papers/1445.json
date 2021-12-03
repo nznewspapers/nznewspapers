@@ -1,0 +1,27 @@
+{
+  "id": 1445,
+  "title": "Xin hua Qiao si bao",
+  "genre": "Newspaper",
+  "firstYear": "2001",
+  "finalYear": "2003",
+  "district": "Auckland",
+  "frequency": "Weekly",
+  "idMarcControlNumber": "7310607",
+  "idNZNewspapersV1": "14036",
+  "isCurrent": false,
+  "placecode": "02-01-auckland",
+  "placename": "Auckland",
+  "region": "Auckland",
+  "links": {
+    "1451": {
+      "direction": "Succeeding",
+      "relationship": "Continued by",
+      "target-description": "Yi zhou tong"
+    }
+  },
+  "sources": {
+    "2013-04-02T08:58:38.000Z": "Extracted from the New Zealand National Bibliography (MARC record 7310607) downloaded March 2013.",
+    "2014-05-07T09:13:22.000Z": "Modified by DataBot"
+  },
+  "revision": 5
+}

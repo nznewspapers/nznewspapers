@@ -1,0 +1,37 @@
+{
+  "id": 2527,
+  "title": "High Country Herald",
+  "genre": "Newspaper",
+  "firstYear": "1984",
+  "finalYear": "2001",
+  "district": "Timaru District",
+  "idMarcControlNumber": "2600515",
+  "idNZNewspapersV1": "2002",
+  "isCurrent": false,
+  "placecode": "12-08",
+  "placename": "Timaru",
+  "price": "Gratis",
+  "region": "Canterbury",
+  "links": {
+    "2532": {
+      "direction": "Succeeding",
+      "relationship": "Split",
+      "target-description": "Community high country herald (Mid Canterbury)"
+    },
+    "2533": {
+      "direction": "Succeeding",
+      "relationship": "Split",
+      "target-description": "Community high country herald (North Otago)"
+    },
+    "2534": {
+      "direction": "Succeeding",
+      "relationship": "Split",
+      "target-description": "Community high country herald (South Canterbury)"
+    }
+  },
+  "sources": {
+    "2013-04-02T08:58:38.000Z": "Extracted from the New Zealand National Bibliography (MARC record 2600515) downloaded March 2013.",
+    "2014-05-07T09:46:56.000Z": "Modified by DataBot"
+  },
+  "revision": 7
+}

@@ -1,0 +1,20 @@
+{
+  "id": 1442,
+  "title": "Asian Times",
+  "genre": "Newspaper",
+  "firstYear": "19uu",
+  "finalYear": "2003",
+  "district": "Auckland",
+  "frequency": "Weekly",
+  "idMarcControlNumber": "3800637",
+  "idNZNewspapersV1": "4018",
+  "isCurrent": false,
+  "placecode": "02-01-auckland",
+  "placename": "Auckland",
+  "region": "Auckland",
+  "sources": {
+    "2013-04-02T08:58:38.000Z": "Extracted from the New Zealand National Bibliography (MARC record 3800637) downloaded March 2013.",
+    "2014-05-07T09:11:06.000Z": "Modified by DataBot"
+  },
+  "revision": 4
+}

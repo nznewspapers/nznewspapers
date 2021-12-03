@@ -1,0 +1,26 @@
+{
+  "id": 2804,
+  "title": "Te Korimako Hou",
+  "genre": "Periodical",
+  "firstYear": "1889",
+  "finalYear": "1890",
+  "district": "Opotiki District",
+  "idMarcControlNumber": "4190532",
+  "idNZNewspapersV1": "8012",
+  "isCurrent": false,
+  "placecode": "04-03",
+  "placename": "Opotiki",
+  "region": "Bay of Plenty",
+  "urlCurrent": "http://nzdl.org/cgi-bin/library?gg=_cgiarggg_&e=d-00000-00---0niupepa--00-0--0-10-0---0---0prompt-10---4-------0-1l--11-en-50---20-about---00-0-1-00-11-1-0utfZz-8-00&a=d&c=niupepa&cl=CL1.19",
+  "links": {
+    "undefined-unknown": {
+      "direction": "Preceding",
+      "relationship": "Continues",
+      "target-description": "Korimako."
+    }
+  },
+  "sources": {
+    "2013-04-02T08:58:38.000Z": "Extracted from the New Zealand National Bibliography (MARC record 4190532) downloaded March 2013."
+  },
+  "revision": 3
+}

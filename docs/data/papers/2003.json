@@ -1,0 +1,31 @@
+{
+  "id": 2003,
+  "title": "Kapiti Observer News Shopper",
+  "genre": "Newspaper",
+  "firstYear": "1974",
+  "finalYear": "1979",
+  "district": "Kapiti Coast District",
+  "frequency": "Weekly",
+  "idMarcControlNumber": "8160102",
+  "idNZNewspapersV1": "4051",
+  "isCurrent": false,
+  "placecode": "09-02",
+  "placename": "Paraparaumu",
+  "region": "Wellington",
+  "links": {
+    "2002": {
+      "direction": "Continues",
+      "target-description": "Observer News Shopper"
+    },
+    "2004": {
+      "direction": "Succeeding",
+      "relationship": "Continued by",
+      "target-description": "Kapiti observer"
+    }
+  },
+  "sources": {
+    "2013-04-02T08:58:38.000Z": "Extracted from the New Zealand National Bibliography (MARC record 8160102) downloaded March 2013.",
+    "2014-05-31T09:41:17.000Z": "Modified by gordon.paynter"
+  },
+  "revision": 6
+}

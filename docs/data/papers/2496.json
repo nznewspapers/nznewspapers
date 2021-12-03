@@ -1,0 +1,28 @@
+{
+  "id": 2496,
+  "title": "Christchurch Mail (Southern Ed.)",
+  "genre": "Newspaper",
+  "firstYear": "2008",
+  "finalYear": "9999",
+  "district": "Christchurch City",
+  "frequency": "Weekly",
+  "idMarcControlNumber": "12374190",
+  "idNZNewspapersV1": "9043",
+  "isCurrent": true,
+  "placecode": "12-05-christchur",
+  "placename": "Christchurch",
+  "price": "Gratis",
+  "region": "Canterbury",
+  "links": {
+    "2483": {
+      "direction": "Preceding",
+      "relationship": "Continues",
+      "target-description": "Christchurch mail (Wigram, Spreydon, Heathcote, Ferrymead)"
+    }
+  },
+  "sources": {
+    "2013-04-02T08:58:38.000Z": "Extracted from the New Zealand National Bibliography (MARC record 12374190) downloaded March 2013.",
+    "2014-05-07T09:46:42.000Z": "Modified by DataBot"
+  },
+  "revision": 7
+}

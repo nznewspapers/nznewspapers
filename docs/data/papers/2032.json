@@ -1,0 +1,20 @@
+{
+  "id": 2032,
+  "title": "Upper Hutt Times",
+  "genre": "Newspaper",
+  "firstYear": "1949",
+  "finalYear": "1953",
+  "district": "Upper Hutt City",
+  "frequency": "Weekly",
+  "idMarcControlNumber": "8184381",
+  "idNZNewspapersV1": "66168",
+  "isCurrent": false,
+  "placecode": "09-05",
+  "placename": "Upper Hutt",
+  "region": "Wellington",
+  "sources": {
+    "2013-04-02T08:58:38.000Z": "Extracted from the New Zealand National Bibliography (MARC record 8184381) downloaded March 2013.",
+    "2014-05-07T09:21:40.000Z": "Modified by DataBot"
+  },
+  "revision": 4
+}

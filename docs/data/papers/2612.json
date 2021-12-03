@@ -1,0 +1,18 @@
+{
+  "id": 2612,
+  "title": "Magnet",
+  "genre": "Newspaper",
+  "firstYear": "1893",
+  "finalYear": "uuuu",
+  "district": "Dunedin City",
+  "idMarcControlNumber": "8164634",
+  "idNZNewspapersV1": "59094",
+  "isCurrent": false,
+  "placecode": "13-03",
+  "placename": "Dunedin",
+  "region": "Otago",
+  "sources": {
+    "2013-04-02T08:58:38.000Z": "Extracted from the New Zealand National Bibliography (MARC record 8164634) downloaded March 2013."
+  },
+  "revision": 2
+}

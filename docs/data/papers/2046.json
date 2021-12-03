@@ -1,0 +1,35 @@
+{
+  "id": 2046,
+  "title": "Hutt News",
+  "genre": "Newspaper",
+  "firstYear": "1927",
+  "finalYear": "9999",
+  "district": "Hutt City",
+  "firstIssueDate": "1927-04-01",
+  "frequency": "Weekly",
+  "idMarcControlNumber": "3531224",
+  "idNZNewspapersV1": "14005",
+  "idPapersPastCode": "HN",
+  "isCurrent": true,
+  "placecode": "09-07",
+  "placename": "Lower Hutt",
+  "price": "Gratis",
+  "region": "Wellington",
+  "urlCurrent": "http://www.stuff.co.nz/dominion-post/news/local-papers/hutt-news",
+  "urlDigitized": "http://paperspast.natlib.govt.nz/cgi-bin/paperspast?a=d&cl=CL1.HN",
+  "notes": {
+    "149007": "Digital Edition: fairfaxmedia.newspaperdirect.com/epaper/viewer.aspx?cid=1829"
+  },
+  "links": {
+    "undefined-unknown": {
+      "direction": "Preceding",
+      "relationship": "Continues",
+      "target-description": "Hutt news (1927)"
+    }
+  },
+  "sources": {
+    "2013-04-02T08:58:38.000Z": "Extracted from the New Zealand National Bibliography (MARC record 3531224) downloaded March 2013.",
+    "2014-05-07T09:47:28.000Z": "Modified by DataBot"
+  },
+  "revision": 14
+}

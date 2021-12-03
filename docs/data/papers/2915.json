@@ -1,0 +1,27 @@
+{
+  "id": 2915,
+  "title": "Plains Express",
+  "genre": "Periodical",
+  "firstYear": "1988",
+  "finalYear": "1996",
+  "district": "Selwyn District",
+  "frequency": "Fortnightly",
+  "idMarcControlNumber": "4512093",
+  "idNZNewspapersV1": "3026",
+  "isCurrent": false,
+  "placecode": "12-03",
+  "placename": "Leeston",
+  "region": "Canterbury",
+  "links": {
+    "2917": {
+      "direction": "Succeeding",
+      "relationship": "Absorbed by",
+      "target-description": "Countryman (Leeston, N.Z.)"
+    }
+  },
+  "sources": {
+    "2013-04-02T08:58:38.000Z": "Extracted from the New Zealand National Bibliography (MARC record 4512093) downloaded March 2013.",
+    "2014-05-07T08:56:04.000Z": "Modified by DataBot"
+  },
+  "revision": 5
+}

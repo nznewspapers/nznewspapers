@@ -1,0 +1,21 @@
+{
+  "id": 3024,
+  "title": "North Otago Times",
+  "genre": "Other",
+  "firstYear": "1872",
+  "finalYear": "1932",
+  "description": "Record for a microfilm copy.",
+  "district": "Wellington City",
+  "frequency": "Daily",
+  "idMarcControlNumber": "6941476",
+  "idNZNewspapersV1": "63034",
+  "isCurrent": false,
+  "placecode": "09-08-wellington",
+  "placename": "Wellington",
+  "region": "Wellington",
+  "sources": {
+    "2013-04-02T08:58:38.000Z": "Extracted from the New Zealand National Bibliography (MARC record 6941476) downloaded March 2013.",
+    "2014-05-07T08:52:16.000Z": "Modified by DataBot"
+  },
+  "revision": 6
+}

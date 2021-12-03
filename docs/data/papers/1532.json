@@ -1,0 +1,20 @@
+{
+  "id": 1532,
+  "title": "Tuakau Argus",
+  "genre": "Newspaper",
+  "firstYear": "1954",
+  "finalYear": "1955",
+  "district": "Waikato District",
+  "frequency": "Weekly",
+  "idMarcControlNumber": "8184104",
+  "idNZNewspapersV1": "72150",
+  "isCurrent": false,
+  "placecode": "03-03",
+  "placename": "Tuakau",
+  "region": "Waikato",
+  "sources": {
+    "2013-04-02T08:58:38.000Z": "Extracted from the New Zealand National Bibliography (MARC record 8184104) downloaded March 2013.",
+    "2014-05-07T09:21:28.000Z": "Modified by DataBot"
+  },
+  "revision": 4
+}

@@ -1,0 +1,33 @@
+{
+  "id": 2216,
+  "title": "Citylife (Wainuiomata Ed.)",
+  "genre": "Newspaper",
+  "firstYear": "2006",
+  "finalYear": "2009",
+  "district": "Wellington City",
+  "frequency": "Weekly",
+  "idMarcControlNumber": "10906049",
+  "idNZNewspapersV1": "12044",
+  "isCurrent": false,
+  "placecode": "09-08-wellington",
+  "placename": "Wellington",
+  "price": "Gratis",
+  "region": "Wellington",
+  "links": {
+    "2062": {
+      "direction": "Preceding",
+      "relationship": "Continues",
+      "target-description": "Wainuiomata news"
+    },
+    "2066": {
+      "direction": "Succeeding",
+      "relationship": "Continued by",
+      "target-description": "Citylife Wainuiomata news"
+    }
+  },
+  "sources": {
+    "2013-04-02T08:58:38.000Z": "Extracted from the New Zealand National Bibliography (MARC record 10906049) downloaded March 2013.",
+    "2014-05-07T09:46:23.000Z": "Modified by DataBot"
+  },
+  "revision": 8
+}

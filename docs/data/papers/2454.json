@@ -1,0 +1,27 @@
+{
+  "id": 2454,
+  "title": "Christchurch Mid-week Mail",
+  "genre": "Newspaper",
+  "firstYear": "1985",
+  "finalYear": "1990",
+  "district": "Christchurch City",
+  "idMarcControlNumber": "3601357",
+  "idNZNewspapersV1": "3017",
+  "isCurrent": false,
+  "placecode": "12-05-christchur",
+  "placename": "Christchurch",
+  "price": "Gratis",
+  "region": "Canterbury",
+  "links": {
+    "2495": {
+      "direction": "Succeeding",
+      "relationship": "Continued by",
+      "target-description": "Christchurch mail"
+    }
+  },
+  "sources": {
+    "2013-04-02T08:58:38.000Z": "Extracted from the New Zealand National Bibliography (MARC record 3601357) downloaded March 2013.",
+    "2014-05-07T09:47:50.000Z": "Modified by DataBot"
+  },
+  "revision": 5
+}

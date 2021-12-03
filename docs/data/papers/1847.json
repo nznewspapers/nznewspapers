@@ -1,0 +1,20 @@
+{
+  "id": 1847,
+  "title": "Waimarino County Call",
+  "genre": "Newspaper",
+  "firstYear": "1908",
+  "finalYear": "1948",
+  "district": "Ruapehu District",
+  "frequency": "Two issues per week",
+  "idMarcControlNumber": "8185224",
+  "idNZNewspapersV1": "63156",
+  "isCurrent": false,
+  "placecode": "08-01",
+  "placename": "Raetihi",
+  "region": "Manawatu-Wanganui",
+  "sources": {
+    "2013-04-02T08:58:38.000Z": "Extracted from the New Zealand National Bibliography (MARC record 8185224) downloaded March 2013.",
+    "2014-05-07T09:07:29.000Z": "Modified by DataBot"
+  },
+  "revision": 4
+}

@@ -1,0 +1,27 @@
+{
+  "id": 2321,
+  "title": "Evening Star",
+  "genre": "Newspaper",
+  "firstYear": "1865",
+  "finalYear": "1884",
+  "district": "Westland District",
+  "frequency": "Daily",
+  "idMarcControlNumber": "8141948",
+  "idNZNewspapersV1": "63064",
+  "isCurrent": false,
+  "placecode": "11-03",
+  "placename": "Hokitika",
+  "region": "West Coast",
+  "links": {
+    "2337": {
+      "direction": "Succeeding",
+      "relationship": "Absorbed by",
+      "target-description": "Hokitika Guardian"
+    }
+  },
+  "sources": {
+    "2013-04-02T08:58:38.000Z": "Extracted from the New Zealand National Bibliography (MARC record 8141948) downloaded March 2013.",
+    "2014-03-21T11:35:25.000Z": "Modified by DataBot"
+  },
+  "revision": 5
+}

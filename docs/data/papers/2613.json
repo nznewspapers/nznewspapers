@@ -1,0 +1,20 @@
+{
+  "id": 2613,
+  "title": "Sketch",
+  "genre": "Newspaper",
+  "firstYear": "1898",
+  "finalYear": "uuuu",
+  "district": "Dunedin City",
+  "frequency": "Weekly",
+  "idMarcControlNumber": "8181770",
+  "idNZNewspapersV1": "72133",
+  "isCurrent": false,
+  "placecode": "13-03",
+  "placename": "Dunedin",
+  "region": "Otago",
+  "sources": {
+    "2013-04-02T08:58:38.000Z": "Extracted from the New Zealand National Bibliography (MARC record 8181770) downloaded March 2013.",
+    "2014-05-07T09:20:08.000Z": "Modified by DataBot"
+  },
+  "revision": 4
+}

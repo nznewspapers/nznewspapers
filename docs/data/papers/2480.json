@@ -1,0 +1,21 @@
+{
+  "id": 2480,
+  "title": "Radio Korea",
+  "genre": "Newspaper",
+  "firstYear": "2002",
+  "finalYear": "2010",
+  "district": "Christchurch City",
+  "frequency": "Weekly",
+  "idMarcControlNumber": "10774415",
+  "idNZNewspapersV1": "60175",
+  "isCurrent": false,
+  "placecode": "12-05-christchur",
+  "placename": "Christchurch",
+  "price": "Gratis",
+  "region": "Canterbury",
+  "sources": {
+    "2013-04-02T08:58:38.000Z": "Extracted from the New Zealand National Bibliography (MARC record 10774415) downloaded March 2013.",
+    "2014-05-07T09:46:13.000Z": "Modified by DataBot"
+  },
+  "revision": 6
+}

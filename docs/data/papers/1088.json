@@ -1,0 +1,30 @@
+{
+  "id": 1088,
+  "title": "Pukekohe & Waiuku Times",
+  "genre": "Newspaper",
+  "firstYear": "1912",
+  "finalYear": "1919",
+  "district": "Auckland",
+  "finalIssueDate": "1919-08-29",
+  "firstIssueDate": "1912-03-08",
+  "frequency": "Two issues per week",
+  "idMarcControlNumber": "8181344",
+  "idNZNewspapersV1": "67137",
+  "idPapersPastCode": "PWT",
+  "isCurrent": false,
+  "placecode": "02-01",
+  "placename": "Pukekohe",
+  "region": "Auckland",
+  "urlDigitized": "http://paperspast.natlib.govt.nz/cgi-bin/paperspast?a=d&cl=CL1.PWT",
+  "links": {
+    "1092": {
+      "direction": "Continued By",
+      "target-description": "Franklin &  Pukekohe Times"
+    }
+  },
+  "sources": {
+    "2013-04-02T08:58:38.000Z": "Extracted from the New Zealand National Bibliography (MARC record 8181344) downloaded March 2013.",
+    "2014-08-20T09:24:08.000Z": "Modified by gordon.paynter"
+  },
+  "revision": 11
+}

@@ -1,0 +1,23 @@
+{
+  "id": 2853,
+  "title": "Tiki Times",
+  "genre": "Periodical",
+  "firstYear": "1966",
+  "finalYear": "1966",
+  "district": "Upper Hutt City",
+  "frequency": "Daily",
+  "idMarcControlNumber": "8183980",
+  "idNZNewspapersV1": "67159",
+  "isCurrent": false,
+  "placecode": "09-05",
+  "placename": "Upper Hutt",
+  "region": "Wellington",
+  "notes": {
+    "11800288": "Scout Jamboree camp newspaper."
+  },
+  "sources": {
+    "2013-04-02T08:58:38.000Z": "Extracted from the New Zealand National Bibliography (MARC record 8183980) downloaded March 2013.",
+    "2014-04-10T12:13:08.000Z": "Modified by gordon.paynter"
+  },
+  "revision": 6
+}

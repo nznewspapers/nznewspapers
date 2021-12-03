@@ -1,0 +1,28 @@
+{
+  "id": 1270,
+  "title": "Post",
+  "genre": "Newspaper",
+  "firstYear": "200u",
+  "finalYear": "9999",
+  "district": "Auckland",
+  "frequency": "Weekly",
+  "idMarcControlNumber": "10752982",
+  "idNZNewspapersV1": "10057",
+  "isCurrent": true,
+  "placecode": "02-01",
+  "placename": "Waiuku",
+  "price": "Gratis",
+  "region": "Auckland",
+  "links": {
+    "1221": {
+      "direction": "Preceding",
+      "relationship": "Continues",
+      "target-description": "Waiuku & districts post"
+    }
+  },
+  "sources": {
+    "2013-04-02T08:58:38.000Z": "Extracted from the New Zealand National Bibliography (MARC record 10752982) downloaded March 2013.",
+    "2014-05-07T09:46:11.000Z": "Modified by DataBot"
+  },
+  "revision": 7
+}

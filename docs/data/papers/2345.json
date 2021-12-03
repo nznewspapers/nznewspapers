@@ -1,0 +1,21 @@
+{
+  "id": 2345,
+  "title": "Kaikoura Star",
+  "genre": "Newspaper",
+  "firstYear": "1880",
+  "finalYear": "9999",
+  "district": "Kaikoura District",
+  "frequency": "Two issues per week",
+  "idMarcControlNumber": "3531208",
+  "idNZNewspapersV1": "4009",
+  "isCurrent": true,
+  "placecode": "12-01",
+  "placename": "Kaikoura",
+  "price": "Gratis",
+  "region": "Canterbury",
+  "sources": {
+    "2013-04-02T08:58:38.000Z": "Extracted from the New Zealand National Bibliography (MARC record 3531208) downloaded March 2013.",
+    "2014-05-07T09:47:17.000Z": "Modified by DataBot"
+  },
+  "revision": 6
+}

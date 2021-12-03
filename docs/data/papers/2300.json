@@ -1,0 +1,22 @@
+{
+  "id": 2300,
+  "title": "Lyell Times and Central Buller Gazette",
+  "genre": "Newspaper",
+  "firstYear": "1881",
+  "finalYear": "1898",
+  "district": "Buller District",
+  "frequency": "Weekly",
+  "idMarcControlNumber": "8164628",
+  "idNZNewspapersV1": "65104",
+  "idPapersPastCode": "LTCBG",
+  "isCurrent": false,
+  "placecode": "11-01",
+  "placename": "Lyell",
+  "region": "West Coast",
+  "urlDigitized": "http://paperspast.natlib.govt.nz/cgi-bin/paperspast?a=d&cl=CL1.LTCBG",
+  "sources": {
+    "2013-04-02T08:58:38.000Z": "Extracted from the New Zealand National Bibliography (MARC record 8164628) downloaded March 2013.",
+    "2014-08-20T09:11:13.000Z": "Modified by gordon.paynter"
+  },
+  "revision": 6
+}

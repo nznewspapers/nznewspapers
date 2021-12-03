@@ -1,0 +1,27 @@
+{
+  "id": 2295,
+  "title": "Buller News",
+  "genre": "Masthead",
+  "firstYear": "1874",
+  "finalYear": "1882",
+  "district": "Buller District",
+  "idNZNewspapersV1": "63047",
+  "isCurrent": false,
+  "placecode": "11-01",
+  "placename": "Westport",
+  "region": "West Coast",
+  "links": {
+    "2290": {
+      "direction": "Is Masthead Of",
+      "target-description": "The Westport News"
+    },
+    "2302": {
+      "direction": "Continued By",
+      "target-description": "Westport News [1882]"
+    }
+  },
+  "sources": {
+    "2014-02-04T10:15:51.000Z": "Modified by TestMonster"
+  },
+  "revision": 4
+}

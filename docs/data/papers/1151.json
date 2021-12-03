@@ -1,0 +1,20 @@
+{
+  "id": 1151,
+  "title": "Courier (Eastern Suburbs Ed.)",
+  "genre": "Newspaper",
+  "firstYear": "1966",
+  "finalYear": "1972",
+  "district": "Auckland",
+  "frequency": "Weekly",
+  "idMarcControlNumber": "8137273",
+  "idNZNewspapersV1": "60046",
+  "isCurrent": false,
+  "placecode": "02-01",
+  "placename": "Panmure",
+  "region": "Auckland",
+  "sources": {
+    "2013-04-02T08:58:38.000Z": "Extracted from the New Zealand National Bibliography (MARC record 8137273) downloaded March 2013.",
+    "2014-05-07T09:14:43.000Z": "Modified by DataBot"
+  },
+  "revision": 4
+}

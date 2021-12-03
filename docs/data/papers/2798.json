@@ -1,0 +1,20 @@
+{
+  "id": 2798,
+  "title": "Korero of Kati Kati",
+  "genre": "Periodical",
+  "firstYear": "1951",
+  "finalYear": "1968",
+  "district": "Western Bay of Plenty District",
+  "frequency": "Monthly",
+  "idMarcControlNumber": "6776871",
+  "idNZNewspapersV1": "35",
+  "isCurrent": false,
+  "placecode": "04-01",
+  "placename": "Kati Kati",
+  "region": "Bay of Plenty",
+  "sources": {
+    "2013-04-02T08:58:38.000Z": "Extracted from the New Zealand National Bibliography (MARC record 6776871) downloaded March 2013.",
+    "2014-05-07T09:00:58.000Z": "Modified by DataBot"
+  },
+  "revision": 4
+}

@@ -1,0 +1,20 @@
+{
+  "id": 2436,
+  "title": "Woolston News",
+  "genre": "Newspaper",
+  "firstYear": "1956",
+  "finalYear": "1967",
+  "district": "Christchurch City",
+  "frequency": "Monthly",
+  "idMarcControlNumber": "8188074",
+  "idNZNewspapersV1": "63172",
+  "isCurrent": false,
+  "placecode": "12-05-christchur",
+  "placename": "Christchurch",
+  "region": "Canterbury",
+  "sources": {
+    "2013-04-02T08:58:38.000Z": "Extracted from the New Zealand National Bibliography (MARC record 8188074) downloaded March 2013.",
+    "2014-05-07T09:03:23.000Z": "Modified by DataBot"
+  },
+  "revision": 4
+}

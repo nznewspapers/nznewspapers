@@ -1,0 +1,27 @@
+{
+  "id": 2001,
+  "title": "Golden Coast News Shopper",
+  "genre": "Newspaper",
+  "firstYear": "1969",
+  "finalYear": "1972",
+  "district": "Kapiti Coast District",
+  "frequency": "Weekly",
+  "idMarcControlNumber": "8142290",
+  "idNZNewspapersV1": "68065",
+  "isCurrent": false,
+  "placecode": "09-02",
+  "placename": "Paraparaumu",
+  "region": "Wellington",
+  "links": {
+    "2002": {
+      "direction": "Succeeding",
+      "relationship": "Merged into",
+      "target-description": "Observer News Shopper"
+    }
+  },
+  "sources": {
+    "2013-04-02T08:58:38.000Z": "Extracted from the New Zealand National Bibliography (MARC record 8142290) downloaded March 2013.",
+    "2014-05-31T09:47:01.000Z": "Modified by gordon.paynter"
+  },
+  "revision": 5
+}

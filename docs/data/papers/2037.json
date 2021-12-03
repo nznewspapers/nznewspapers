@@ -1,0 +1,32 @@
+{
+  "id": 2037,
+  "title": "Te Awa-Iti",
+  "genre": "Newspaper",
+  "firstYear": "1982",
+  "finalYear": "1993",
+  "district": "Porirua City",
+  "frequency": "Irregular",
+  "idMarcControlNumber": "3450032",
+  "idNZNewspapersV1": "19001",
+  "isCurrent": false,
+  "placecode": "09-06",
+  "placename": "Porirua",
+  "region": "Wellington",
+  "links": {
+    "2038": {
+      "direction": "Preceding",
+      "relationship": "Absorbed",
+      "target-description": "Nga Paripari"
+    },
+    "2039": {
+      "direction": "Succeeding",
+      "relationship": "Continued by",
+      "target-description": "Porirua news"
+    }
+  },
+  "sources": {
+    "2013-04-02T08:58:38.000Z": "Extracted from the New Zealand National Bibliography (MARC record 3450032) downloaded March 2013.",
+    "2014-05-07T08:58:47.000Z": "Modified by DataBot"
+  },
+  "revision": 6
+}

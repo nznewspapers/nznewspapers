@@ -1,0 +1,35 @@
+{
+  "id": 1007,
+  "title": "North Auckland Age",
+  "genre": "Newspaper",
+  "firstYear": "1906",
+  "finalYear": "1918",
+  "district": "Far North District",
+  "frequency": "Weekly",
+  "idMarcControlNumber": "8173703",
+  "idNZNewspapersV1": "60103",
+  "isCurrent": false,
+  "placecode": "01-01",
+  "placename": "Mangonui",
+  "region": "Northland",
+  "notes": {
+    "5342114682503168": "Place of publication moved to Kaitaia by July 1916."
+  },
+  "links": {
+    "1004": {
+      "direction": "Preceding",
+      "relationship": "Continues",
+      "target-description": "Mangonui County Times and  Northern Representative"
+    },
+    "1011": {
+      "direction": "Succeeding",
+      "relationship": "Continued by",
+      "target-description": "Northland Age"
+    }
+  },
+  "sources": {
+    "2013-04-02T08:58:38.000Z": "Extracted from the New Zealand National Bibliography (MARC record 8173703) downloaded March 2013.",
+    "2014-05-07T09:18:29.000Z": "Modified by DataBot"
+  },
+  "revision": 8
+}

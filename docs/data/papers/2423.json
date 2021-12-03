@@ -1,0 +1,27 @@
+{
+  "id": 2423,
+  "title": "The Prohibitionist and Direct Veto Advocate",
+  "genre": "Newspaper",
+  "firstYear": "1893",
+  "finalYear": "1906",
+  "district": "Christchurch City",
+  "frequency": "Fortnightly",
+  "idMarcControlNumber": "4180096",
+  "idNZNewspapersV1": "7020",
+  "isCurrent": false,
+  "placecode": "12-05-christchur",
+  "placename": "Christchurch",
+  "region": "Canterbury",
+  "links": {
+    "2928": {
+      "direction": "Preceding",
+      "relationship": "Continues",
+      "target-description": "Prohibitionist (Christchurch, N.Z.)"
+    }
+  },
+  "sources": {
+    "2013-04-02T08:58:38.000Z": "Extracted from the New Zealand National Bibliography (MARC record 4180096) downloaded March 2013.",
+    "2014-05-07T08:55:58.000Z": "Modified by DataBot"
+  },
+  "revision": 5
+}

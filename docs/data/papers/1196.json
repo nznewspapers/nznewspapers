@@ -1,0 +1,20 @@
+{
+  "id": 1196,
+  "title": "River Valley News",
+  "genre": "Newspaper",
+  "firstYear": "1981",
+  "finalYear": "1987",
+  "district": "Auckland",
+  "frequency": "Fortnightly",
+  "idMarcControlNumber": "8181452",
+  "idNZNewspapersV1": "64138",
+  "isCurrent": false,
+  "placecode": "02-01",
+  "placename": "Helensville",
+  "region": "Auckland",
+  "sources": {
+    "2013-04-02T08:58:38.000Z": "Extracted from the New Zealand National Bibliography (MARC record 8181452) downloaded March 2013.",
+    "2014-05-07T08:57:42.000Z": "Modified by DataBot"
+  },
+  "revision": 4
+}

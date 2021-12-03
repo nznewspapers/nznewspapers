@@ -1,0 +1,21 @@
+{
+  "id": 2190,
+  "title": "Fakamaneke",
+  "genre": "Newspaper",
+  "firstYear": "1987",
+  "finalYear": "9999",
+  "district": "Wellington City",
+  "frequency": "Irregular",
+  "idMarcControlNumber": "3831005",
+  "idNZNewspapersV1": "7015",
+  "isCurrent": true,
+  "placecode": "09-08-wellington",
+  "placename": "Wellington",
+  "price": "Gratis",
+  "region": "Wellington",
+  "sources": {
+    "2013-04-02T08:58:38.000Z": "Extracted from the New Zealand National Bibliography (MARC record 3831005) downloaded March 2013.",
+    "2014-05-07T09:48:09.000Z": "Modified by DataBot"
+  },
+  "revision": 6
+}

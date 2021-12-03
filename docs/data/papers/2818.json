@@ -1,0 +1,20 @@
+{
+  "id": 2818,
+  "title": "Hawke's Bay Farmer",
+  "genre": "Periodical",
+  "firstYear": "1980",
+  "finalYear": "198u",
+  "district": "Hastings District",
+  "frequency": "Monthly",
+  "idMarcControlNumber": "9166100",
+  "idNZNewspapersV1": "52",
+  "isCurrent": false,
+  "placecode": "06-02",
+  "placename": "Hastings",
+  "region": "Hawke's Bay",
+  "sources": {
+    "2013-04-02T08:58:38.000Z": "Extracted from the New Zealand National Bibliography (MARC record 9166100) downloaded March 2013.",
+    "2014-05-07T09:03:36.000Z": "Modified by DataBot"
+  },
+  "revision": 4
+}

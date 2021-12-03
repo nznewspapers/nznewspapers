@@ -1,0 +1,31 @@
+{
+  "id": 2366,
+  "title": "Oxford Observer",
+  "genre": "Newspaper",
+  "firstYear": "1889",
+  "finalYear": "1901",
+  "district": "Waimakariri District",
+  "finalIssueDate": "1901-08-31",
+  "firstIssueDate": "1889-08-17",
+  "idNZNewspapersV1": "521007",
+  "idPapersPastCode": "OO",
+  "isCurrent": false,
+  "placecode": "12-04",
+  "placename": "East Oxford",
+  "region": "Canterbury",
+  "urlDigitized": "http://paperspast.natlib.govt.nz/cgi-bin/paperspast?a=d&cl=CL1.OO",
+  "links": {
+    "2365": {
+      "direction": "Has Masthead",
+      "target-description": "The  Oxford and  Cust Observer and  Canterbury Liberal"
+    },
+    "2367": {
+      "direction": "Has Masthead",
+      "target-description": "The Oxford Observer and Canterbury Democrat"
+    }
+  },
+  "sources": {
+    "2013-09-21T11:15:28.000Z": "Modified by gordon.paynter"
+  },
+  "revision": 10
+}

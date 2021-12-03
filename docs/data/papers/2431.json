@@ -1,0 +1,41 @@
+{
+  "id": 2431,
+  "title": "Christchurch Star-Sun",
+  "genre": "Newspaper",
+  "firstYear": "1935",
+  "finalYear": "1958",
+  "district": "Christchurch City",
+  "frequency": "Daily",
+  "idMarcControlNumber": "8134935",
+  "idNZNewspapersV1": "5042",
+  "isCurrent": false,
+  "placecode": "12-05-christchur",
+  "placename": "Christchurch",
+  "region": "Canterbury",
+  "links": {
+    "2383": {
+      "direction": "Preceding",
+      "relationship": "Formed by union",
+      "target-description": "Sun"
+    },
+    "2385": {
+      "direction": "Preceding",
+      "relationship": "Formed by union",
+      "target-description": "The Christchurch Times"
+    },
+    "2387": {
+      "direction": "Continued By",
+      "target-description": "Christchurch Star"
+    },
+    "2415": {
+      "direction": "Preceding",
+      "relationship": "Formed by union",
+      "target-description": "The Star"
+    }
+  },
+  "sources": {
+    "2013-04-02T08:58:38.000Z": "Extracted from the New Zealand National Bibliography (MARC record 8134935) downloaded March 2013.",
+    "2014-04-12T12:07:38.000Z": "Modified by gordon.paynter"
+  },
+  "revision": 8
+}

@@ -1,0 +1,37 @@
+{
+  "id": 2337,
+  "title": "Hokitika Guardian [1881]",
+  "genre": "Newspaper",
+  "firstYear": "1881",
+  "finalYear": "1988",
+  "district": "Westland District",
+  "finalIssueDate": "1988-04-29",
+  "frequency": "Daily",
+  "idMarcControlNumber": "8157016",
+  "idNZNewspapersV1": "64090",
+  "isCurrent": false,
+  "placecode": "11-03",
+  "placename": "Hokitika",
+  "region": "West Coast",
+  "links": {
+    "2321": {
+      "direction": "Preceding",
+      "relationship": "Absorbed",
+      "target-description": "Evening Star"
+    },
+    "2323": {
+      "direction": "Preceding",
+      "relationship": "Absorbed",
+      "target-description": "West Coast Times [1865]"
+    },
+    "2342": {
+      "direction": "Continued By",
+      "target-description": "West Coast Times [1988]"
+    }
+  },
+  "sources": {
+    "2013-04-02T08:58:38.000Z": "Extracted from the New Zealand National Bibliography (MARC record 8157016) downloaded March 2013.",
+    "2014-04-12T11:45:53.000Z": "Modified by gordon.paynter"
+  },
+  "revision": 9
+}

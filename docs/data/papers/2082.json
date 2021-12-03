@@ -1,0 +1,20 @@
+{
+  "id": 2082,
+  "title": "Karori and Western Suburbs News",
+  "genre": "Newspaper",
+  "firstYear": "1962",
+  "finalYear": "1989",
+  "district": "Wellington City",
+  "frequency": "Weekly",
+  "idMarcControlNumber": "8160280",
+  "idNZNewspapersV1": "72075",
+  "isCurrent": false,
+  "placecode": "09-08",
+  "placename": "Karori",
+  "region": "Wellington",
+  "sources": {
+    "2013-04-02T08:58:38.000Z": "Extracted from the New Zealand National Bibliography (MARC record 8160280) downloaded March 2013.",
+    "2014-05-07T09:16:36.000Z": "Modified by DataBot"
+  },
+  "revision": 4
+}

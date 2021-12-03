@@ -1,0 +1,26 @@
+{
+  "id": 1844,
+  "title": "Post",
+  "genre": "Newspaper",
+  "firstYear": "1994",
+  "finalYear": "9999",
+  "district": "South Taranaki District",
+  "frequency": "Fortnightly",
+  "idMarcControlNumber": "8181021",
+  "idNZNewspapersV1": "59132",
+  "isCurrent": true,
+  "placecode": "07-03",
+  "placename": "Hawera",
+  "region": "Taranaki",
+  "links": {
+    "1842": {
+      "direction": "Continues",
+      "target-description": "South Taranaki Post"
+    }
+  },
+  "sources": {
+    "2013-04-02T08:58:38.000Z": "Extracted from the New Zealand National Bibliography (MARC record 8181021) downloaded March 2013.",
+    "2014-05-07T08:57:40.000Z": "Modified by DataBot"
+  },
+  "revision": 5
+}

@@ -1,0 +1,18 @@
+{
+  "id": 2341,
+  "title": "Jackson Bay Chronicle",
+  "genre": "Newspaper",
+  "firstYear": "1938",
+  "finalYear": "1940",
+  "district": "Westland District",
+  "idMarcControlNumber": "6665730",
+  "idNZNewspapersV1": "2043",
+  "isCurrent": false,
+  "placecode": "11-03",
+  "placename": "South Westland",
+  "region": "West Coast",
+  "sources": {
+    "2013-04-02T08:58:38.000Z": "Extracted from the New Zealand National Bibliography (MARC record 6665730) downloaded March 2013."
+  },
+  "revision": 2
+}

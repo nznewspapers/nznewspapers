@@ -1,0 +1,26 @@
+{
+  "id": 1214,
+  "title": "The Examiner",
+  "genre": "Newspaper",
+  "firstYear": "1990",
+  "finalYear": "1991",
+  "district": "Auckland",
+  "idMarcControlNumber": "4685274",
+  "idNZNewspapersV1": "1027",
+  "isCurrent": false,
+  "placecode": "02-01",
+  "placename": "Auckland",
+  "region": "Auckland",
+  "links": {
+    "2083": {
+      "direction": "Succeeding",
+      "relationship": "Absorbed by",
+      "target-description": "National Business Review"
+    }
+  },
+  "sources": {
+    "2013-04-02T08:58:38.000Z": "Extracted from the New Zealand National Bibliography (MARC record 4685274) downloaded March 2013.",
+    "2014-05-31T10:34:45.000Z": "Modified by gordon.paynter"
+  },
+  "revision": 3
+}

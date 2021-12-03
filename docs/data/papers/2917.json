@@ -1,0 +1,25 @@
+{
+  "id": 2917,
+  "title": "Countryman",
+  "genre": "Periodical",
+  "firstYear": "1996",
+  "finalYear": "1997",
+  "district": "Selwyn District",
+  "idMarcControlNumber": "4681025",
+  "idNZNewspapersV1": "14021",
+  "isCurrent": false,
+  "placecode": "12-03",
+  "placename": "Leeston",
+  "region": "Canterbury",
+  "links": {
+    "2915": {
+      "direction": "Preceding",
+      "relationship": "Absorbed",
+      "target-description": "Plains express"
+    }
+  },
+  "sources": {
+    "2013-04-02T08:58:38.000Z": "Extracted from the New Zealand National Bibliography (MARC record 4681025) downloaded March 2013."
+  },
+  "revision": 3
+}

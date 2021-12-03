@@ -1,0 +1,27 @@
+{
+  "id": 1296,
+  "title": "Weekly Herald",
+  "genre": "Newspaper",
+  "firstYear": "1866",
+  "finalYear": "1876",
+  "district": "Auckland",
+  "frequency": "Weekly",
+  "idMarcControlNumber": "8187323",
+  "idNZNewspapersV1": "59162",
+  "isCurrent": false,
+  "placecode": "02-01-auckland",
+  "placename": "Auckland",
+  "region": "Auckland",
+  "links": {
+    "1302": {
+      "direction": "Succeeding",
+      "relationship": "Merged into",
+      "target-description": "Weekly News and  Weekly Herald"
+    }
+  },
+  "sources": {
+    "2013-04-02T08:58:38.000Z": "Extracted from the New Zealand National Bibliography (MARC record 8187323) downloaded March 2013.",
+    "2014-05-07T09:22:33.000Z": "Modified by DataBot"
+  },
+  "revision": 5
+}

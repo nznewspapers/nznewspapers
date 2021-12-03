@@ -1,0 +1,36 @@
+{
+  "id": 2016,
+  "title": "Wairarapa News & The Chronicle",
+  "genre": "Newspaper",
+  "firstYear": "1992",
+  "finalYear": "1994",
+  "district": "Carterton District",
+  "idMarcControlNumber": "4076140",
+  "idNZNewspapersV1": "7016",
+  "isCurrent": false,
+  "placecode": "09-03",
+  "placename": "Carterton",
+  "price": "Gratis",
+  "region": "Wellington",
+  "links": {
+    "1994": {
+      "direction": "Continued By",
+      "target-description": "Wairarapa News"
+    },
+    "2014": {
+      "direction": "Preceding",
+      "relationship": "Formed by the union",
+      "target-description": "Wairarapa News"
+    },
+    "2023": {
+      "direction": "Preceding",
+      "relationship": "Formed by the union",
+      "target-description": "Chronicle"
+    }
+  },
+  "sources": {
+    "2013-04-02T08:58:38.000Z": "Extracted from the New Zealand National Bibliography (MARC record 4076140) downloaded March 2013.",
+    "2014-05-07T09:48:20.000Z": "Modified by DataBot"
+  },
+  "revision": 7
+}

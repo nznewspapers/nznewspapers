@@ -1,0 +1,27 @@
+{
+  "id": 1671,
+  "title": "Whakatane News",
+  "genre": "Newspaper",
+  "firstYear": "2011",
+  "finalYear": "9999",
+  "district": "Whakatane District",
+  "frequency": "Weekly",
+  "idMarcControlNumber": "13878989",
+  "idNZNewspapersV1": "59186",
+  "isCurrent": true,
+  "placecode": "04-04",
+  "placename": "Whakatane",
+  "region": "Bay of Plenty",
+  "links": {
+    "1669": {
+      "direction": "Preceding",
+      "relationship": "Continues",
+      "target-description": "Eastern Bay  News"
+    }
+  },
+  "sources": {
+    "2013-04-02T08:58:38.000Z": "Extracted from the New Zealand National Bibliography (MARC record 13878989) downloaded March 2013.",
+    "2014-05-07T09:09:54.000Z": "Modified by DataBot"
+  },
+  "revision": 5
+}

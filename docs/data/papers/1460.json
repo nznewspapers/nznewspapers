@@ -1,0 +1,20 @@
+{
+  "id": 1460,
+  "title": "Fu bao",
+  "genre": "Newspaper",
+  "firstYear": "2009",
+  "finalYear": "2009",
+  "district": "Auckland",
+  "frequency": "Weekly",
+  "idMarcControlNumber": "13162722",
+  "idNZNewspapersV1": "63",
+  "isCurrent": false,
+  "placecode": "02-01-auckland",
+  "placename": "Auckland",
+  "region": "Auckland",
+  "sources": {
+    "2013-04-02T08:58:38.000Z": "Extracted from the New Zealand National Bibliography (MARC record 13162722) downloaded March 2013.",
+    "2014-05-07T09:09:34.000Z": "Modified by DataBot"
+  },
+  "revision": 4
+}

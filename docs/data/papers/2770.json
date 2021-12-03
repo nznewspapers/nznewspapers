@@ -1,0 +1,28 @@
+{
+  "id": 2770,
+  "title": "Filipino Migrant News",
+  "genre": "Periodical",
+  "firstYear": "2008",
+  "finalYear": "9999",
+  "district": "Auckland",
+  "frequency": "Every two months",
+  "idMarcControlNumber": "12482889",
+  "idNZNewspapersV1": "9044",
+  "isCurrent": true,
+  "placecode": "02-01-auckland",
+  "placename": "Auckland",
+  "region": "Auckland",
+  "urlCurrent": "http://pinoy.net.nz/online-copy-viewer/",
+  "links": {
+    "2722": {
+      "direction": "Preceding",
+      "relationship": "Continues",
+      "target-description": "Pinoy.net.nz."
+    }
+  },
+  "sources": {
+    "2013-04-02T08:58:38.000Z": "Extracted from the New Zealand National Bibliography (MARC record 12482889) downloaded March 2013.",
+    "2014-05-07T08:48:41.000Z": "Modified by DataBot"
+  },
+  "revision": 5
+}

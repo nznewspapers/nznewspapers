@@ -1,0 +1,26 @@
+{
+  "id": 1494,
+  "title": "Coastal News",
+  "genre": "Newspaper",
+  "firstYear": "1988",
+  "finalYear": "9999",
+  "district": "Thames-Coromandel District",
+  "idMarcControlNumber": "3889252",
+  "idNZNewspapersV1": "8010",
+  "isCurrent": true,
+  "placecode": "03-01",
+  "placename": "Whangamata",
+  "price": "Gratis",
+  "region": "Waikato",
+  "links": {
+    "1492": {
+      "direction": "Continues",
+      "target-description": "Coastline Flash"
+    }
+  },
+  "sources": {
+    "2013-04-02T08:58:38.000Z": "Extracted from the New Zealand National Bibliography (MARC record 3889252) downloaded March 2013.",
+    "2015-01-06T09:42:15.000Z": "Modified by gordon.paynter"
+  },
+  "revision": 5
+}

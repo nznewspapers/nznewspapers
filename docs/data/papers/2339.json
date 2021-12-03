@@ -1,0 +1,20 @@
+{
+  "id": 2339,
+  "title": "Otira Mail",
+  "genre": "Newspaper",
+  "firstYear": "1901",
+  "finalYear": "uuuu",
+  "district": "Westland District",
+  "frequency": "Irregular",
+  "idMarcControlNumber": "8177779",
+  "idNZNewspapersV1": "71120",
+  "isCurrent": false,
+  "placecode": "11-03",
+  "placename": "Otira",
+  "region": "West Coast",
+  "sources": {
+    "2013-04-02T08:58:38.000Z": "Extracted from the New Zealand National Bibliography (MARC record 8177779) downloaded March 2013.",
+    "2014-05-07T08:58:38.000Z": "Modified by DataBot"
+  },
+  "revision": 4
+}

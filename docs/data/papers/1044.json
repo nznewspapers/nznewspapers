@@ -1,0 +1,20 @@
+{
+  "id": 1044,
+  "title": "Whangarei Daily News",
+  "genre": "Newspaper",
+  "firstYear": "1927",
+  "finalYear": "1927",
+  "district": "Whangarei District",
+  "frequency": "Daily",
+  "idMarcControlNumber": "8187825",
+  "idNZNewspapersV1": "66191",
+  "isCurrent": false,
+  "placecode": "01-02",
+  "placename": "Whangarei",
+  "region": "Northland",
+  "sources": {
+    "2013-04-02T08:58:38.000Z": "Extracted from the New Zealand National Bibliography (MARC record 8187825) downloaded March 2013.",
+    "2014-03-21T11:45:11.000Z": "Modified by DataBot"
+  },
+  "revision": 4
+}

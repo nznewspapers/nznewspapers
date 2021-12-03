@@ -1,0 +1,26 @@
+{
+  "id": 2175,
+  "title": "Onslow Johnsonville News",
+  "genre": "Newspaper",
+  "firstYear": "1973",
+  "finalYear": "1976",
+  "district": "Wellington City",
+  "frequency": "Weekly",
+  "idMarcControlNumber": "8177720",
+  "idNZNewspapersV1": "61100",
+  "isCurrent": false,
+  "placecode": "09-08-wellington",
+  "placename": "Wellington",
+  "region": "Wellington",
+  "links": {
+    "2084": {
+      "direction": "Continues",
+      "target-description": "Onslow News Pictorial"
+    }
+  },
+  "sources": {
+    "2013-04-02T08:58:38.000Z": "Extracted from the New Zealand National Bibliography (MARC record 8177720) downloaded March 2013.",
+    "2014-11-19T09:02:50.000Z": "Modified by gordon.paynter"
+  },
+  "revision": 5
+}

@@ -1,0 +1,20 @@
+{
+  "id": 2021,
+  "title": "Featherston Independent",
+  "genre": "Newspaper",
+  "firstYear": "1930",
+  "finalYear": "uuuu",
+  "district": "South Wairarapa District",
+  "frequency": "Weekly",
+  "idMarcControlNumber": "8142090",
+  "idNZNewspapersV1": "60055",
+  "isCurrent": false,
+  "placecode": "09-04",
+  "placename": "Featherston",
+  "region": "Wellington",
+  "sources": {
+    "2013-04-02T08:58:38.000Z": "Extracted from the New Zealand National Bibliography (MARC record 8142090) downloaded March 2013.",
+    "2014-05-07T09:15:27.000Z": "Modified by DataBot"
+  },
+  "revision": 4
+}

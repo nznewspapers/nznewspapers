@@ -1,0 +1,31 @@
+{
+  "id": 2288,
+  "title": "Charleston Herald",
+  "genre": "Newspaper",
+  "firstYear": "1868",
+  "finalYear": "1911",
+  "alternateTitle": {
+    "34820602": "Charleston Herald and Brighton Times [1870-1871]",
+    "35890608": "Brighton Times and Croninville Reporter [1877]",
+    "41480606": "Charleston Herald and Mining Reporter"
+  },
+  "district": "Buller District",
+  "frequency": "Two issues per week",
+  "idMarcControlNumber": "8134659",
+  "idNZNewspapersV1": "60043",
+  "isCurrent": false,
+  "placecode": "11-01",
+  "placename": "Charleston",
+  "region": "West Coast",
+  "links": {
+    "2285": {
+      "direction": "Continues",
+      "target-description": "Charleston Argus"
+    }
+  },
+  "sources": {
+    "2013-04-02T08:58:38.000Z": "Extracted from the New Zealand National Bibliography (MARC record 8134659) downloaded March 2013.",
+    "2014-08-20T08:56:43.000Z": "Modified by gordon.paynter"
+  },
+  "revision": 11
+}

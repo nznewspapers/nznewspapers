@@ -1,0 +1,24 @@
+{
+  "id": 3029,
+  "title": "The Waimate Advertiser",
+  "genre": "Other",
+  "firstYear": "1898",
+  "finalYear": "1916",
+  "district": "Waimate District",
+  "frequency": "Daily",
+  "idMarcControlNumber": "8185245",
+  "idNZNewspapersV1": "12038",
+  "isCurrent": false,
+  "placecode": "12-09",
+  "placename": "Waimate",
+  "region": "Canterbury",
+  "urlDigitized": "http://paperspast.natlib.govt.nz/cgi-bin/paperspast?a=d&cl=CL1.WDA&e=-------10--1----0--",
+  "notes": {
+    "341002": "Duplicate record"
+  },
+  "sources": {
+    "2013-04-02T08:58:38.000Z": "Extracted from the New Zealand National Bibliography (MARC record 8185245) downloaded March 2013.",
+    "2014-03-21T11:43:20.000Z": "Modified by DataBot"
+  },
+  "revision": 6
+}

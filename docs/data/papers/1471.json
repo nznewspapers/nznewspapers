@@ -1,0 +1,26 @@
+{
+  "id": 1471,
+  "title": "The Evening Star",
+  "genre": "Newspaper",
+  "firstYear": "1867",
+  "finalYear": "1893",
+  "district": "Thames-Coromandel District",
+  "finalIssueDate": "1893-07-14",
+  "idNZNewspapersV1": "259004",
+  "idPapersPastCode": "THS",
+  "isCurrent": false,
+  "placecode": "03-01",
+  "placename": "Thames",
+  "region": "Waikato",
+  "links": {
+    "1483": {
+      "direction": "Succeeding",
+      "relationship": "Continued by",
+      "target-description": "Thames Star"
+    }
+  },
+  "sources": {
+    "2014-04-10T09:06:32.000Z": "Modified by gordon.paynter"
+  },
+  "revision": 7
+}

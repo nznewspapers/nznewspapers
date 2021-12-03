@@ -1,0 +1,28 @@
+{
+  "id": 2513,
+  "title": "Mid Canterbury Herald",
+  "genre": "Newspaper",
+  "firstYear": "2007",
+  "finalYear": "9999",
+  "district": "Ashburton District",
+  "frequency": "Weekly",
+  "idMarcControlNumber": "11547742",
+  "idNZNewspapersV1": "6053",
+  "isCurrent": true,
+  "placecode": "12-06",
+  "placename": "Ashburton",
+  "price": "Gratis",
+  "region": "Canterbury",
+  "links": {
+    "2532": {
+      "direction": "Preceding",
+      "relationship": "Continues",
+      "target-description": "Community high country herald (Mid Canterbury)"
+    }
+  },
+  "sources": {
+    "2013-04-02T08:58:38.000Z": "Extracted from the New Zealand National Bibliography (MARC record 11547742) downloaded March 2013.",
+    "2014-05-07T09:46:37.000Z": "Modified by DataBot"
+  },
+  "revision": 7
+}

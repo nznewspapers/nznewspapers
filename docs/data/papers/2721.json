@@ -1,0 +1,38 @@
+{
+  "id": 2721,
+  "title": "Local Matters (Wellsford, Kaiwaka, Mangawhai)",
+  "genre": "Periodical",
+  "firstYear": "200u",
+  "finalYear": "2007",
+  "district": "Auckland",
+  "frequency": "Monthly",
+  "idMarcControlNumber": "8251649",
+  "idNZNewspapersV1": "3050",
+  "isCurrent": false,
+  "placecode": "02-01",
+  "placename": "Warkworth",
+  "price": "Gratis",
+  "region": "Auckland",
+  "links": {
+    "2715": {
+      "direction": "Preceding",
+      "relationship": "Continues",
+      "target-description": "Wellsford matters"
+    },
+    "2720": {
+      "direction": "Succeeding",
+      "relationship": "Unrelated",
+      "target-description": "Local matters (Mahurangi, Matakana)"
+    },
+    "undefined-unknown": {
+      "direction": "Succeeding",
+      "relationship": "Continued by",
+      "target-description": "Northern matters"
+    }
+  },
+  "sources": {
+    "2013-04-02T08:58:38.000Z": "Extracted from the New Zealand National Bibliography (MARC record 8251649) downloaded March 2013.",
+    "2014-05-07T09:50:20.000Z": "Modified by DataBot"
+  },
+  "revision": 9
+}

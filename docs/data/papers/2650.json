@@ -1,0 +1,25 @@
+{
+  "id": 2650,
+  "title": "Southern Gazette",
+  "genre": "Newspaper",
+  "firstYear": "1993",
+  "finalYear": "1995",
+  "district": "Clutha District",
+  "idMarcControlNumber": "4275494",
+  "idNZNewspapersV1": "4023",
+  "isCurrent": false,
+  "placecode": "13-04",
+  "placename": "Balclutha",
+  "region": "Otago",
+  "links": {
+    "2649": {
+      "direction": "Preceding",
+      "relationship": "Absorbed",
+      "target-description": "Milton gazette"
+    }
+  },
+  "sources": {
+    "2013-04-02T08:58:38.000Z": "Extracted from the New Zealand National Bibliography (MARC record 4275494) downloaded March 2013."
+  },
+  "revision": 3
+}

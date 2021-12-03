@@ -1,0 +1,34 @@
+{
+  "id": 1788,
+  "title": "Mail",
+  "genre": "Newspaper",
+  "firstYear": "1980",
+  "finalYear": "1988",
+  "district": "Central Hawke's Bay District",
+  "frequency": "Weekly",
+  "idMarcControlNumber": "8164644",
+  "idNZNewspapersV1": "58084",
+  "isCurrent": false,
+  "placecode": "06-04",
+  "placename": "Waipukurau",
+  "region": "Hawke's Bay",
+  "links": {
+    "1786": {
+      "direction": "Continues",
+      "target-description": "Central Hawke's Bay  Press"
+    },
+    "1789": {
+      "direction": "Has Edition",
+      "target-description": "Mail Weekender"
+    },
+    "1790": {
+      "direction": "Continued By",
+      "target-description": "CHB  Mail"
+    }
+  },
+  "sources": {
+    "2013-04-02T08:58:38.000Z": "Extracted from the New Zealand National Bibliography (MARC record 8164644) downloaded March 2013.",
+    "2014-05-07T09:16:59.000Z": "Modified by DataBot"
+  },
+  "revision": 7
+}

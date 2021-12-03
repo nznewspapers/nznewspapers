@@ -1,0 +1,27 @@
+{
+  "id": 1755,
+  "title": "The Hastings & Havelock North Mail",
+  "genre": "Newspaper",
+  "firstYear": "2009",
+  "finalYear": "9999",
+  "district": "Hastings District",
+  "frequency": "Weekly",
+  "idMarcControlNumber": "12853729",
+  "idNZNewspapersV1": "2063",
+  "isCurrent": true,
+  "placecode": "06-02",
+  "placename": "Hastings",
+  "price": "Gratis",
+  "region": "Hawke's Bay",
+  "links": {
+    "1756": {
+      "direction": "Continues",
+      "target-description": "The Hastings Mail"
+    }
+  },
+  "sources": {
+    "2013-04-02T08:58:38.000Z": "Extracted from the New Zealand National Bibliography (MARC record 12853729) downloaded March 2013.",
+    "2014-05-07T09:46:48.000Z": "Modified by DataBot"
+  },
+  "revision": 7
+}

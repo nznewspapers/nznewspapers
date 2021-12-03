@@ -1,0 +1,26 @@
+{
+  "id": 2007,
+  "title": "Kapiti Mail",
+  "genre": "Newspaper",
+  "firstYear": "1988",
+  "finalYear": "1993",
+  "district": "Kapiti Coast District",
+  "frequency": "Weekly",
+  "idMarcControlNumber": "8160091",
+  "idNZNewspapersV1": "68078",
+  "isCurrent": false,
+  "placecode": "09-02",
+  "placename": "Paraparaumu",
+  "region": "Wellington",
+  "links": {
+    "2008": {
+      "direction": "Continued By",
+      "target-description": "Horowhenua Mail"
+    }
+  },
+  "sources": {
+    "2013-04-02T08:58:38.000Z": "Extracted from the New Zealand National Bibliography (MARC record 8160091) downloaded March 2013.",
+    "2014-05-31T10:02:26.000Z": "Modified by gordon.paynter"
+  },
+  "revision": 5
+}

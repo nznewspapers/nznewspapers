@@ -1,0 +1,28 @@
+{
+  "id": 2857,
+  "title": "Valley News (Wainuiomata)",
+  "genre": "Periodical",
+  "firstYear": "1950",
+  "finalYear": "1990",
+  "district": "Hutt City",
+  "frequency": "Monthly (except January)",
+  "idMarcControlNumber": "3480609",
+  "idNZNewspapersV1": "8002",
+  "isCurrent": false,
+  "placecode": "09-07",
+  "placename": "Wainuiomata",
+  "price": "Gratis",
+  "region": "Wellington",
+  "links": {
+    "undefined-unknown": {
+      "direction": "Preceding",
+      "relationship": "Continues",
+      "target-description": "Homedale tatler"
+    }
+  },
+  "sources": {
+    "2013-04-02T08:58:38.000Z": "Extracted from the New Zealand National Bibliography (MARC record 3480609) downloaded March 2013.",
+    "2014-05-07T09:47:06.000Z": "Modified by DataBot"
+  },
+  "revision": 7
+}

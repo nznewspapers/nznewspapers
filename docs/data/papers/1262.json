@@ -1,0 +1,19 @@
+{
+  "id": 1262,
+  "title": "Hibiscus Matters",
+  "genre": "Newspaper",
+  "firstYear": "2007",
+  "finalYear": "9999",
+  "district": "Auckland",
+  "idMarcControlNumber": "11510609",
+  "idNZNewspapersV1": "14242660",
+  "isCurrent": true,
+  "placecode": "02-01",
+  "placename": "Auckland",
+  "region": "Auckland",
+  "sources": {
+    "2013-04-02T08:58:38.000Z": "Extracted from the New Zealand National Bibliography (MARC record 11510609) downloaded March 2013.",
+    "2014-04-23T10:13:29.000Z": "Modified by MarcLoaderBot"
+  },
+  "revision": 2
+}

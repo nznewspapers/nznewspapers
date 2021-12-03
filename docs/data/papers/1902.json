@@ -1,0 +1,28 @@
+{
+  "id": 1902,
+  "title": "Rangitikei Mail (2005)",
+  "genre": "Newspaper",
+  "firstYear": "2005",
+  "finalYear": "9999",
+  "district": "Manawatu District",
+  "frequency": "Weekly",
+  "idMarcControlNumber": "9185048",
+  "idNZNewspapersV1": "14049",
+  "isCurrent": true,
+  "placecode": "08-04",
+  "placename": "Feilding",
+  "price": "Gratis",
+  "region": "Manawatu-Wanganui",
+  "links": {
+    "1900": {
+      "direction": "Preceding",
+      "relationship": "Continues",
+      "target-description": "Feilding herald Rangitikei mail"
+    }
+  },
+  "sources": {
+    "2013-04-02T08:58:38.000Z": "Extracted from the New Zealand National Bibliography (MARC record 9185048) downloaded March 2013.",
+    "2014-05-07T09:51:20.000Z": "Modified by DataBot"
+  },
+  "revision": 7
+}

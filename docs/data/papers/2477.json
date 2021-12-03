@@ -1,0 +1,32 @@
+{
+  "id": 2477,
+  "title": "Eastern Mail",
+  "genre": "Newspaper",
+  "firstYear": "2001",
+  "finalYear": "2003",
+  "district": "Christchurch City",
+  "frequency": "Weekly",
+  "idMarcControlNumber": "6830284",
+  "idNZNewspapersV1": "9025",
+  "isCurrent": false,
+  "placecode": "12-05-christchur",
+  "placename": "Christchurch",
+  "region": "Canterbury",
+  "links": {
+    "2481": {
+      "direction": "Succeeding",
+      "relationship": "Continued by",
+      "target-description": "Christchurch mail (Shirley, Burwood, Pegasus, Hagley)"
+    },
+    "2495": {
+      "direction": "Preceding",
+      "relationship": "Continues in part",
+      "target-description": "Christchurch mail"
+    }
+  },
+  "sources": {
+    "2013-04-02T08:58:38.000Z": "Extracted from the New Zealand National Bibliography (MARC record 6830284) downloaded March 2013.",
+    "2014-05-07T09:13:09.000Z": "Modified by DataBot"
+  },
+  "revision": 6
+}

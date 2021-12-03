@@ -1,0 +1,34 @@
+{
+  "id": 1648,
+  "title": "Bay Sun",
+  "genre": "Newspaper",
+  "firstYear": "1976",
+  "finalYear": "1988",
+  "district": "Tauranga City",
+  "idNZNewspapersV1": "519004",
+  "isCurrent": false,
+  "placecode": "04-02",
+  "placename": "Tauranga",
+  "region": "Bay of Plenty",
+  "notes": {
+    "506004": "Source of dates: http://econtent.tauranga.govt.nz/data/libraries/files/genealogists_resources.pdf"
+  },
+  "links": {
+    "1632": {
+      "direction": "Has Edition",
+      "target-description": "Bay Sun (Te Puke Edition)"
+    },
+    "1647": {
+      "direction": "Continues",
+      "target-description": "Mount Maunganui Sun"
+    },
+    "1653": {
+      "direction": "Has Edition",
+      "target-description": "Spree"
+    }
+  },
+  "sources": {
+    "2014-11-19T08:37:30.000Z": "Modified by gordon.paynter"
+  },
+  "revision": 7
+}

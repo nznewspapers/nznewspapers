@@ -1,0 +1,20 @@
+{
+  "id": 1206,
+  "title": "Mid-Shore and Albany News",
+  "genre": "Newspaper",
+  "firstYear": "1986",
+  "finalYear": "1988",
+  "district": "Auckland",
+  "frequency": "Monthly",
+  "idMarcControlNumber": "8167765",
+  "idNZNewspapersV1": "67111",
+  "isCurrent": false,
+  "placecode": "02-01",
+  "placename": "Albany",
+  "region": "Auckland",
+  "sources": {
+    "2013-04-02T08:58:38.000Z": "Extracted from the New Zealand National Bibliography (MARC record 8167765) downloaded March 2013.",
+    "2014-05-07T09:02:12.000Z": "Modified by DataBot"
+  },
+  "revision": 4
+}

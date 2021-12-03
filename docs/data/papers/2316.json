@@ -1,0 +1,20 @@
+{
+  "id": 2316,
+  "title": "Brunner News, Blackball Courier and Grey Valley Advertiser",
+  "genre": "Newspaper",
+  "firstYear": "1889",
+  "finalYear": "1901",
+  "district": "Grey District",
+  "frequency": "Weekly",
+  "idMarcControlNumber": "8131985",
+  "idNZNewspapersV1": "64056",
+  "isCurrent": false,
+  "placecode": "11-02",
+  "placename": "Brunner",
+  "region": "West Coast",
+  "sources": {
+    "2013-04-02T08:58:38.000Z": "Extracted from the New Zealand National Bibliography (MARC record 8131985) downloaded March 2013.",
+    "2014-05-07T09:07:53.000Z": "Modified by DataBot"
+  },
+  "revision": 4
+}

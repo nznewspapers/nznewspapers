@@ -1,0 +1,20 @@
+{
+  "id": 2784,
+  "title": "Community Comment (Hamilton)",
+  "genre": "Periodical",
+  "firstYear": "1980",
+  "finalYear": "1992",
+  "district": "Hamilton City",
+  "frequency": "Irregular",
+  "idMarcControlNumber": "3699371",
+  "idNZNewspapersV1": "10014",
+  "isCurrent": false,
+  "placecode": "03-05",
+  "placename": "Hamilton",
+  "region": "Waikato",
+  "sources": {
+    "2013-04-02T08:58:38.000Z": "Extracted from the New Zealand National Bibliography (MARC record 3699371) downloaded March 2013.",
+    "2014-05-07T08:59:17.000Z": "Modified by DataBot"
+  },
+  "revision": 4
+}

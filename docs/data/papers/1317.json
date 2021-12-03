@@ -1,0 +1,18 @@
+{
+  "id": 1317,
+  "title": "Ponsonby Sentinel",
+  "genre": "Newspaper",
+  "firstYear": "188u",
+  "finalYear": "189u",
+  "district": "Auckland",
+  "idMarcControlNumber": "8180990",
+  "idNZNewspapersV1": "67133",
+  "isCurrent": false,
+  "placecode": "02-01-auckland",
+  "placename": "Auckland",
+  "region": "Auckland",
+  "sources": {
+    "2013-04-02T08:58:38.000Z": "Extracted from the New Zealand National Bibliography (MARC record 8180990) downloaded March 2013."
+  },
+  "revision": 2
+}

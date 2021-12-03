@@ -1,0 +1,19 @@
+{
+  "id": 2409,
+  "title": "Selwyn View",
+  "genre": "Newspaper",
+  "firstYear": "2012",
+  "finalYear": "2013",
+  "district": "Christchurch City",
+  "idMarcControlNumber": "14160888",
+  "idNZNewspapersV1": "14242651",
+  "isCurrent": false,
+  "placecode": "12-05",
+  "placename": "Christchurch",
+  "region": "Canterbury",
+  "sources": {
+    "2013-04-02T08:58:38.000Z": "Extracted from the New Zealand National Bibliography (MARC record 14160888) downloaded March 2013.",
+    "2014-04-23T10:10:49.000Z": "Modified by MarcLoaderBot"
+  },
+  "revision": 2
+}

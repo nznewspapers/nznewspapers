@@ -1,0 +1,21 @@
+{
+  "id": 1631,
+  "title": "Katikati Advertiser",
+  "genre": "Newspaper",
+  "firstYear": "1969",
+  "finalYear": "9999",
+  "district": "Western Bay of Plenty District",
+  "frequency": "Weekly",
+  "idMarcControlNumber": "3531209",
+  "idNZNewspapersV1": "10006",
+  "isCurrent": true,
+  "placecode": "04-01",
+  "placename": "Katikati",
+  "price": "Gratis",
+  "region": "Bay of Plenty",
+  "sources": {
+    "2013-04-02T08:58:38.000Z": "Extracted from the New Zealand National Bibliography (MARC record 3531209) downloaded March 2013.",
+    "2014-05-07T09:47:18.000Z": "Modified by DataBot"
+  },
+  "revision": 6
+}

@@ -1,0 +1,24 @@
+{
+  "id": 2028,
+  "title": "Upper Hutt Weekly Review",
+  "genre": "Newspaper",
+  "firstYear": "1935",
+  "finalYear": "1939",
+  "district": "Upper Hutt City",
+  "finalIssueDate": "1939-02-17",
+  "firstIssueDate": "1935-12-11",
+  "frequency": "Weekly",
+  "idMarcControlNumber": "8184383",
+  "idNZNewspapersV1": "72153",
+  "idPapersPastCode": "UHWR",
+  "isCurrent": false,
+  "placecode": "09-05",
+  "placename": "Upper Hutt",
+  "region": "Wellington",
+  "urlDigitized": "http://paperspast.natlib.govt.nz/cgi-bin/paperspast?a=d&cl=CL1.UHWR",
+  "sources": {
+    "2013-04-02T08:58:38.000Z": "Extracted from the New Zealand National Bibliography (MARC record 8184383) downloaded March 2013.",
+    "2014-05-07T09:21:41.000Z": "Modified by DataBot"
+  },
+  "revision": 10
+}

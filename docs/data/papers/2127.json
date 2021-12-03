@@ -1,0 +1,18 @@
+{
+  "id": 2127,
+  "title": "The Lowry Bay Buster",
+  "genre": "Newspaper",
+  "firstYear": "1899",
+  "finalYear": "1899",
+  "district": "Wellington City",
+  "idMarcControlNumber": "6736847",
+  "idNZNewspapersV1": "12031",
+  "isCurrent": false,
+  "placecode": "09-08-wellington",
+  "placename": "Wellington",
+  "region": "Wellington",
+  "sources": {
+    "2013-04-02T08:58:38.000Z": "Extracted from the New Zealand National Bibliography (MARC record 6736847) downloaded March 2013."
+  },
+  "revision": 2
+}

@@ -1,0 +1,20 @@
+{
+  "id": 2322,
+  "title": "Leader",
+  "genre": "Newspaper",
+  "firstYear": "1865",
+  "finalYear": "1908",
+  "district": "Westland District",
+  "frequency": "Weekly",
+  "idMarcControlNumber": "8164470",
+  "idNZNewspapersV1": "67101",
+  "isCurrent": false,
+  "placecode": "11-03",
+  "placename": "Hokitika",
+  "region": "West Coast",
+  "sources": {
+    "2013-04-02T08:58:38.000Z": "Extracted from the New Zealand National Bibliography (MARC record 8164470) downloaded March 2013.",
+    "2014-05-07T09:16:45.000Z": "Modified by DataBot"
+  },
+  "revision": 4
+}

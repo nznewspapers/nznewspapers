@@ -1,0 +1,30 @@
+{
+  "id": 2936,
+  "title": "Heathcote County News",
+  "genre": "Periodical",
+  "firstYear": "198u",
+  "finalYear": "1989",
+  "district": "Christchurch City",
+  "idMarcControlNumber": "3525418",
+  "idNZNewspapersV1": "12003",
+  "isCurrent": false,
+  "placecode": "12-05-christchur",
+  "placename": "Christchurch",
+  "region": "Canterbury",
+  "links": {
+    "2935": {
+      "direction": "Succeeding",
+      "relationship": "Continued by",
+      "target-description": "Heathcote-Ferrymead news"
+    },
+    "undefined-unknown": {
+      "direction": "Preceding",
+      "relationship": "Continues",
+      "target-description": "Heathcote news"
+    }
+  },
+  "sources": {
+    "2013-04-02T08:58:38.000Z": "Extracted from the New Zealand National Bibliography (MARC record 3525418) downloaded March 2013."
+  },
+  "revision": 4
+}

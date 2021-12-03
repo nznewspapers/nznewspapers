@@ -1,0 +1,19 @@
+{
+  "id": 2382,
+  "title": "Prohibitionist",
+  "genre": "Newspaper",
+  "firstYear": "1890",
+  "finalYear": "1893",
+  "district": "Christchurch City",
+  "idMarcControlNumber": "8070430",
+  "idNZNewspapersV1": "14262616",
+  "isCurrent": false,
+  "placecode": "12-05",
+  "placename": "Christchurch",
+  "region": "Canterbury",
+  "sources": {
+    "2013-04-02T08:58:38.000Z": "Extracted from the New Zealand National Bibliography (MARC record 8070430) downloaded March 2013.",
+    "2014-04-23T10:11:07.000Z": "Modified by MarcLoaderBot"
+  },
+  "revision": 2
+}

@@ -1,0 +1,20 @@
+{
+  "id": 2256,
+  "title": "The Tribune",
+  "genre": "Newspaper",
+  "firstYear": "1983",
+  "finalYear": "1985",
+  "district": "Nelson City",
+  "frequency": "Weekly",
+  "idMarcControlNumber": "8184079",
+  "idNZNewspapersV1": "59151",
+  "isCurrent": false,
+  "placecode": "10-02",
+  "placename": "Nelson",
+  "region": "Top of the South",
+  "sources": {
+    "2013-04-02T08:58:38.000Z": "Extracted from the New Zealand National Bibliography (MARC record 8184079) downloaded March 2013.",
+    "2014-05-07T09:21:24.000Z": "Modified by DataBot"
+  },
+  "revision": 4
+}

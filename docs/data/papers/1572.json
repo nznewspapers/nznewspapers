@@ -1,0 +1,20 @@
+{
+  "id": 1572,
+  "title": "Sunday Morning Post",
+  "genre": "Newspaper",
+  "firstYear": "1955",
+  "finalYear": "1957",
+  "district": "Hamilton City",
+  "frequency": "Weekly",
+  "idMarcControlNumber": "8182241",
+  "idNZNewspapersV1": "70161",
+  "isCurrent": false,
+  "placecode": "03-05",
+  "placename": "Hamilton",
+  "region": "Waikato",
+  "sources": {
+    "2013-04-02T08:58:38.000Z": "Extracted from the New Zealand National Bibliography (MARC record 8182241) downloaded March 2013.",
+    "2014-05-07T09:20:48.000Z": "Modified by DataBot"
+  },
+  "revision": 4
+}

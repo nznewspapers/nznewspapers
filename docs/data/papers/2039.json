@@ -1,0 +1,30 @@
+{
+  "id": 2039,
+  "title": "Porirua News",
+  "genre": "Newspaper",
+  "firstYear": "1993",
+  "finalYear": "2001",
+  "district": "Porirua City",
+  "frequency": "Weekly",
+  "idMarcControlNumber": "2926115",
+  "idNZNewspapersV1": "3004",
+  "isCurrent": false,
+  "placecode": "09-06",
+  "placename": "Porirua",
+  "region": "Wellington",
+  "links": {
+    "2037": {
+      "direction": "Continues",
+      "target-description": "Te  Awa-Iti"
+    },
+    "2040": {
+      "direction": "Continued By",
+      "target-description": "Porirua City news"
+    }
+  },
+  "sources": {
+    "2013-04-02T08:58:38.000Z": "Extracted from the New Zealand National Bibliography (MARC record 2926115) downloaded March 2013.",
+    "2014-05-07T09:10:32.000Z": "Modified by DataBot"
+  },
+  "revision": 6
+}

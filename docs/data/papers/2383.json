@@ -1,0 +1,29 @@
+{
+  "id": 2383,
+  "title": "Sun",
+  "genre": "Newspaper",
+  "firstYear": "1914",
+  "finalYear": "1935",
+  "district": "Christchurch City",
+  "frequency": "Daily",
+  "idMarcControlNumber": "8182163",
+  "idNZNewspapersV1": "67147",
+  "idPapersPastCode": "SUNCH",
+  "isCurrent": false,
+  "placecode": "12-05",
+  "placename": "Christchurch",
+  "region": "Canterbury",
+  "urlDigitized": "http://paperspast.natlib.govt.nz/cgi-bin/paperspast?a=d&cl=CL1.SUNCH",
+  "links": {
+    "2431": {
+      "direction": "Succeeding",
+      "relationship": "Merged into",
+      "target-description": "Christchurch Star-Sun"
+    }
+  },
+  "sources": {
+    "2013-04-02T08:58:38.000Z": "Extracted from the New Zealand National Bibliography (MARC record 8182163) downloaded March 2013.",
+    "2014-08-20T09:32:00.000Z": "Modified by gordon.paynter"
+  },
+  "revision": 7
+}

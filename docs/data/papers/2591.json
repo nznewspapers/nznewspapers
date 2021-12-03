@@ -1,0 +1,27 @@
+{
+  "id": 2591,
+  "title": "Otago Guardian",
+  "genre": "Newspaper",
+  "firstYear": "1873",
+  "finalYear": "1877",
+  "district": "Dunedin City",
+  "frequency": "Daily",
+  "idMarcControlNumber": "8177745",
+  "idNZNewspapersV1": "67128",
+  "isCurrent": false,
+  "placecode": "13-03",
+  "placename": "Dunedin",
+  "region": "Otago",
+  "links": {
+    "2573": {
+      "direction": "Succeeding",
+      "relationship": "Incorporated By",
+      "target-description": "Otago Daily Times"
+    }
+  },
+  "sources": {
+    "2013-04-02T08:58:38.000Z": "Extracted from the New Zealand National Bibliography (MARC record 8177745) downloaded March 2013.",
+    "2014-04-12T12:38:30.000Z": "Modified by gordon.paynter"
+  },
+  "revision": 5
+}

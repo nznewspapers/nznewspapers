@@ -1,0 +1,23 @@
+{
+  "id": 2253,
+  "title": "Golden Bay Press",
+  "genre": "Newspaper",
+  "firstYear": "1964",
+  "finalYear": "1966",
+  "district": "Nelson City",
+  "frequency": "Weekly",
+  "idMarcControlNumber": "8142287",
+  "idNZNewspapersV1": "72063",
+  "isCurrent": false,
+  "placecode": "10-02",
+  "placename": "Nelson",
+  "region": "Top of the South",
+  "notes": {
+    "552005": "Final year assumed from Nelson Museum holdings."
+  },
+  "sources": {
+    "2013-04-02T08:58:38.000Z": "Extracted from the New Zealand National Bibliography (MARC record 8142287) downloaded March 2013.",
+    "2014-05-07T09:15:42.000Z": "Modified by DataBot"
+  },
+  "revision": 6
+}

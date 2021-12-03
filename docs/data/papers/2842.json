@@ -1,0 +1,21 @@
+{
+  "id": 2842,
+  "title": "Feilding and Districts Guardian",
+  "genre": "Periodical",
+  "firstYear": "2003",
+  "finalYear": "2004",
+  "district": "Palmerston North City",
+  "frequency": "Every two months",
+  "idMarcControlNumber": "7639556",
+  "idNZNewspapersV1": "11039",
+  "isCurrent": false,
+  "placecode": "08-05",
+  "placename": "Palmerston North",
+  "price": "Gratis",
+  "region": "Manawatu-Wanganui",
+  "sources": {
+    "2013-04-02T08:58:38.000Z": "Extracted from the New Zealand National Bibliography (MARC record 7639556) downloaded March 2013.",
+    "2014-05-07T09:50:03.000Z": "Modified by DataBot"
+  },
+  "revision": 6
+}

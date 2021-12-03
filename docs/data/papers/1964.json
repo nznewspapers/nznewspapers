@@ -1,0 +1,54 @@
+{
+  "id": 1964,
+  "title": "Weekly News",
+  "genre": "Newspaper",
+  "firstYear": "1968",
+  "finalYear": "9999",
+  "district": "Horowhenua District",
+  "idMarcControlNumber": "12536627",
+  "idNZNewspapersV1": "14242654",
+  "isCurrent": true,
+  "placecode": "08-07",
+  "placename": "Levin",
+  "region": "Manawatu-Wanganui",
+  "notes": {
+    "15750501": "I think this title might now be called the Kapiti News (kapitinews.co.nz) but I am not really sure."
+  },
+  "links": {
+    "1958": {
+      "direction": "Preceding",
+      "relationship": "Formed by the Union",
+      "target-description": "Levin Weekly News"
+    },
+    "1960": {
+      "direction": "Preceding",
+      "relationship": "Formed by the Union",
+      "target-description": "Otaki-Waikanae Weekly News"
+    },
+    "1962": {
+      "direction": "Has Masthead",
+      "target-description": "Levin-Otaki-Waikanae Weekly News"
+    },
+    "1963": {
+      "direction": "Has Masthead",
+      "target-description": "News"
+    },
+    "1965": {
+      "direction": "Has Masthead",
+      "target-description": "Weekly News (Levin)"
+    },
+    "1966": {
+      "direction": "Has Masthead",
+      "target-description": "Weekly News -  Horowhenua and  Kapiti"
+    },
+    "1968": {
+      "direction": "Has Masthead",
+      "target-description": "Weekly News -  Kapiti and  Horowhenua"
+    }
+  },
+  "sources": {
+    "2013-04-02T08:58:38.000Z": "Extracted from the New Zealand National Bibliography (MARC record 12536627) downloaded March 2013.",
+    "2014-05-18T12:22:36.000Z": "Modified by gordon.paynter"
+  },
+  "revision": 11
+}

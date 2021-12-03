@@ -1,0 +1,25 @@
+{
+  "id": 1220,
+  "title": "Waitakere News (Western Ed.)",
+  "genre": "Newspaper",
+  "firstYear": "1992",
+  "finalYear": "1993",
+  "district": "Auckland",
+  "idMarcControlNumber": "4141569",
+  "idNZNewspapersV1": "7018",
+  "isCurrent": false,
+  "placecode": "02-01",
+  "placename": "Henderson",
+  "region": "Auckland",
+  "links": {
+    "undefined-unknown": {
+      "direction": "Succeeding",
+      "relationship": "Continued by",
+      "target-description": "Waitakere week west"
+    }
+  },
+  "sources": {
+    "2013-04-02T08:58:38.000Z": "Extracted from the New Zealand National Bibliography (MARC record 4141569) downloaded March 2013."
+  },
+  "revision": 3
+}

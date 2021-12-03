@@ -1,0 +1,20 @@
+{
+  "id": 2579,
+  "title": "Otago Mail",
+  "genre": "Newspaper",
+  "firstYear": "1864",
+  "finalYear": "1868",
+  "district": "Dunedin City",
+  "frequency": "Daily",
+  "idMarcControlNumber": "8177749",
+  "idNZNewspapersV1": "68114",
+  "isCurrent": false,
+  "placecode": "13-03",
+  "placename": "Dunedin",
+  "region": "Otago",
+  "sources": {
+    "2013-04-02T08:58:38.000Z": "Extracted from the New Zealand National Bibliography (MARC record 8177749) downloaded March 2013.",
+    "2014-03-21T11:39:37.000Z": "Modified by DataBot"
+  },
+  "revision": 4
+}

@@ -1,0 +1,32 @@
+{
+  "id": 1495,
+  "title": "Thames Valley Gazette [1998]",
+  "genre": "Newspaper",
+  "firstYear": "1998",
+  "finalYear": "1999",
+  "district": "Thames-Coromandel District",
+  "frequency": "Weekly",
+  "idMarcControlNumber": "4899261",
+  "idNZNewspapersV1": "2034",
+  "isCurrent": false,
+  "placecode": "03-01",
+  "placename": "Thames",
+  "region": "Waikato",
+  "links": {
+    "1483": {
+      "direction": "Preceding",
+      "relationship": "Formed by union",
+      "target-description": "Thames Star"
+    },
+    "1515": {
+      "direction": "Preceding",
+      "relationship": "Formed by union",
+      "target-description": "Paeroa Gazette"
+    }
+  },
+  "sources": {
+    "2013-04-02T08:58:38.000Z": "Extracted from the New Zealand National Bibliography (MARC record 4899261) downloaded March 2013.",
+    "2014-05-07T09:12:14.000Z": "Modified by DataBot"
+  },
+  "revision": 6
+}

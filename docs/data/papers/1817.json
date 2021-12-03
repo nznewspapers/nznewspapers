@@ -1,0 +1,20 @@
+{
+  "id": 1817,
+  "title": "North Taranaki Weekender",
+  "genre": "Newspaper",
+  "firstYear": "1989",
+  "finalYear": "1996",
+  "district": "New Plymouth District",
+  "frequency": "Weekly",
+  "idMarcControlNumber": "8173726",
+  "idNZNewspapersV1": "61098",
+  "isCurrent": false,
+  "placecode": "07-01",
+  "placename": "New Plymouth",
+  "region": "Taranaki",
+  "sources": {
+    "2013-04-02T08:58:38.000Z": "Extracted from the New Zealand National Bibliography (MARC record 8173726) downloaded March 2013.",
+    "2014-05-07T09:18:44.000Z": "Modified by DataBot"
+  },
+  "revision": 4
+}

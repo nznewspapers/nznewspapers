@@ -1,0 +1,20 @@
+{
+  "id": 1561,
+  "title": "Tirau Advertiser",
+  "genre": "Newspaper",
+  "firstYear": "1960",
+  "finalYear": "uuuu",
+  "district": "Matamata-Piako District",
+  "frequency": "Monthly",
+  "idMarcControlNumber": "8184029",
+  "idNZNewspapersV1": "73019",
+  "isCurrent": false,
+  "placecode": "03-04",
+  "placename": "Matamata",
+  "region": "Waikato",
+  "sources": {
+    "2013-04-02T08:58:38.000Z": "Extracted from the New Zealand National Bibliography (MARC record 8184029) downloaded March 2013.",
+    "2014-05-07T09:03:10.000Z": "Modified by DataBot"
+  },
+  "revision": 4
+}

@@ -1,0 +1,30 @@
+{
+  "id": 2107,
+  "title": "Evening Argus",
+  "genre": "Newspaper",
+  "firstYear": "1875",
+  "finalYear": "1878",
+  "district": "Wellington City",
+  "frequency": "Daily",
+  "idMarcControlNumber": "8141640",
+  "idNZNewspapersV1": "65077",
+  "isCurrent": false,
+  "placecode": "09-08-wellington",
+  "placename": "Wellington",
+  "region": "Wellington",
+  "links": {
+    "2105": {
+      "direction": "Continues",
+      "target-description": "Tribune"
+    },
+    "2109": {
+      "direction": "Continued By",
+      "target-description": "Evening Chronicle"
+    }
+  },
+  "sources": {
+    "2013-04-02T08:58:38.000Z": "Extracted from the New Zealand National Bibliography (MARC record 8141640) downloaded March 2013.",
+    "2014-04-12T10:40:57.000Z": "Modified by DataBot"
+  },
+  "revision": 6
+}

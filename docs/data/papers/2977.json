@@ -1,0 +1,20 @@
+{
+  "id": 2977,
+  "title": "Stokes Valley Spartan",
+  "genre": "Periodical",
+  "firstYear": "1978",
+  "finalYear": "1991",
+  "district": "Unknown District",
+  "idMarcControlNumber": "3531252",
+  "idNZNewspapersV1": "7008",
+  "isCurrent": false,
+  "placecode": "unknown",
+  "placename": "Stokes Valley",
+  "price": "Gratis",
+  "region": "Unknown Region",
+  "sources": {
+    "2013-04-02T08:58:38.000Z": "Extracted from the New Zealand National Bibliography (MARC record 3531252) downloaded March 2013.",
+    "2014-05-07T09:47:41.000Z": "Modified by DataBot"
+  },
+  "revision": 4
+}

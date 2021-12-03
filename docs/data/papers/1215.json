@@ -1,0 +1,30 @@
+{
+  "id": 1215,
+  "title": "Bays and Remuera Times",
+  "genre": "Newspaper",
+  "firstYear": "1991",
+  "finalYear": "1993",
+  "district": "Auckland",
+  "idMarcControlNumber": "4076138",
+  "idNZNewspapersV1": "12013",
+  "isCurrent": false,
+  "placecode": "02-01",
+  "placename": "Howick",
+  "region": "Auckland",
+  "links": {
+    "1409": {
+      "direction": "Preceding",
+      "relationship": "Continues",
+      "target-description": "Remuera times"
+    },
+    "undefined-unknown": {
+      "direction": "Succeeding",
+      "relationship": "Continued by",
+      "target-description": "Times midweek (Auckland, N.Z.)"
+    }
+  },
+  "sources": {
+    "2013-04-02T08:58:38.000Z": "Extracted from the New Zealand National Bibliography (MARC record 4076138) downloaded March 2013."
+  },
+  "revision": 4
+}

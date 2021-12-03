@@ -1,0 +1,20 @@
+{
+  "id": 1785,
+  "title": "Central Hawke's Bay Review",
+  "genre": "Newspaper",
+  "firstYear": "1936",
+  "finalYear": "1939",
+  "district": "Central Hawke's Bay District",
+  "frequency": "Monthly",
+  "idMarcControlNumber": "8134368",
+  "idNZNewspapersV1": "61047",
+  "isCurrent": false,
+  "placecode": "06-04",
+  "placename": "Waipukurau",
+  "region": "Hawke's Bay",
+  "sources": {
+    "2013-04-02T08:58:38.000Z": "Extracted from the New Zealand National Bibliography (MARC record 8134368) downloaded March 2013.",
+    "2014-05-07T09:01:20.000Z": "Modified by DataBot"
+  },
+  "revision": 4
+}

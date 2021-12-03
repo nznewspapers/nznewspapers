@@ -1,0 +1,19 @@
+{
+  "id": 2986,
+  "title": "Far North Times",
+  "genre": "Duplicate",
+  "firstYear": "1994",
+  "finalYear": "2002",
+  "district": "Far North District",
+  "idMarcControlNumber": "8142085",
+  "idNZNewspapersV1": "14232649",
+  "isCurrent": false,
+  "placecode": "01-01",
+  "placename": "Kaitaia",
+  "region": "Northland",
+  "sources": {
+    "2013-04-02T08:58:38.000Z": "Extracted from the New Zealand National Bibliography (MARC record 8142085) downloaded March 2013.",
+    "2014-05-15T04:16:28.000Z": "Modified by DataBot"
+  },
+  "revision": 2
+}

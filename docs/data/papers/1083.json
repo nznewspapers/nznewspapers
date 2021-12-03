@@ -1,0 +1,20 @@
+{
+  "id": 1083,
+  "title": "Weekly Onehunga Independent and Districts Advertiser",
+  "genre": "Newspaper",
+  "firstYear": "1898",
+  "finalYear": "1903",
+  "district": "Auckland",
+  "frequency": "Weekly",
+  "idMarcControlNumber": "8187385",
+  "idNZNewspapersV1": "71167",
+  "isCurrent": false,
+  "placecode": "02-01",
+  "placename": "Onehunga",
+  "region": "Auckland",
+  "sources": {
+    "2013-04-02T08:58:38.000Z": "Extracted from the New Zealand National Bibliography (MARC record 8187385) downloaded March 2013.",
+    "2014-05-07T09:22:46.000Z": "Modified by DataBot"
+  },
+  "revision": 4
+}

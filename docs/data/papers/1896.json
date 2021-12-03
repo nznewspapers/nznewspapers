@@ -1,0 +1,31 @@
+{
+  "id": 1896,
+  "title": "Feilding Star",
+  "genre": "Newspaper",
+  "firstYear": "1882",
+  "finalYear": "1939",
+  "district": "Manawatu District",
+  "finalIssueDate": "1939-10-14",
+  "firstIssueDate": "1882-06-17",
+  "frequency": "Daily",
+  "idMarcControlNumber": "5094733",
+  "idNZNewspapersV1": "13030",
+  "idPapersPastCode": "FS",
+  "isCurrent": false,
+  "placecode": "08-04",
+  "placename": "Feilding",
+  "region": "Manawatu-Wanganui",
+  "urlDigitized": "http://paperspast.natlib.govt.nz/cgi-bin/paperspast?a=d&cl=CL1.FS",
+  "links": {
+    "1895": {
+      "direction": "Preceding",
+      "relationship": "Continues",
+      "target-description": "Feilding Guardian"
+    }
+  },
+  "sources": {
+    "2013-04-02T08:58:38.000Z": "Extracted from the New Zealand National Bibliography (MARC record 5094733) downloaded March 2013.",
+    "2014-03-21T11:30:39.000Z": "Modified by DataBot"
+  },
+  "revision": 11
+}

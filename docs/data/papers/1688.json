@@ -1,0 +1,27 @@
+{
+  "id": 1688,
+  "title": "Sun",
+  "genre": "Newspaper",
+  "firstYear": "1966",
+  "finalYear": "1966",
+  "district": "Kawerau District",
+  "idNZNewspapersV1": "493004",
+  "isCurrent": false,
+  "placecode": "04-06",
+  "placename": "Kawerau",
+  "region": "Bay of Plenty",
+  "links": {
+    "1686": {
+      "direction": "Has Masthead",
+      "target-description": "Half sun"
+    },
+    "1687": {
+      "direction": "Has Masthead",
+      "target-description": "Sun"
+    }
+  },
+  "sources": {
+    "2013-09-13T08:45:18.000Z": "Modified by gordon.paynter"
+  },
+  "revision": 4
+}

@@ -1,0 +1,28 @@
+{
+  "id": 2536,
+  "title": "High Country Herald (2007)",
+  "genre": "Newspaper",
+  "firstYear": "2007",
+  "finalYear": "2011",
+  "district": "Timaru District",
+  "frequency": "Weekly",
+  "idMarcControlNumber": "11547743",
+  "idNZNewspapersV1": "7057",
+  "isCurrent": false,
+  "placecode": "12-08",
+  "placename": "Timaru",
+  "price": "Gratis",
+  "region": "Canterbury",
+  "links": {
+    "2534": {
+      "direction": "Preceding",
+      "relationship": "Continues",
+      "target-description": "Community high country herald (South Canterbury)"
+    }
+  },
+  "sources": {
+    "2013-04-02T08:58:38.000Z": "Extracted from the New Zealand National Bibliography (MARC record 11547743) downloaded March 2013.",
+    "2014-05-07T09:46:38.000Z": "Modified by DataBot"
+  },
+  "revision": 7
+}

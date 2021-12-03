@@ -1,0 +1,20 @@
+{
+  "id": 1954,
+  "title": "Shannon News",
+  "genre": "Newspaper",
+  "firstYear": "1920",
+  "finalYear": "1940",
+  "district": "Horowhenua District",
+  "frequency": "Two issues per week",
+  "idMarcControlNumber": "8181723",
+  "idNZNewspapersV1": "58131",
+  "isCurrent": false,
+  "placecode": "08-07",
+  "placename": "Levin",
+  "region": "Manawatu-Wanganui",
+  "sources": {
+    "2013-04-02T08:58:38.000Z": "Extracted from the New Zealand National Bibliography (MARC record 8181723) downloaded March 2013.",
+    "2014-05-19T08:47:34.000Z": "Modified by gordon.paynter"
+  },
+  "revision": 4
+}

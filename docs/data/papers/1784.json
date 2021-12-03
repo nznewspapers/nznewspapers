@@ -1,0 +1,26 @@
+{
+  "id": 1784,
+  "title": "Waipukurau Press",
+  "genre": "Newspaper",
+  "firstYear": "1905",
+  "finalYear": "1936",
+  "district": "Central Hawke's Bay District",
+  "frequency": "Three issues per week",
+  "idMarcControlNumber": "8185362",
+  "idNZNewspapersV1": "64166",
+  "isCurrent": false,
+  "placecode": "06-04",
+  "placename": "Waipukurau",
+  "region": "Hawke's Bay",
+  "links": {
+    "1786": {
+      "direction": "Continued By",
+      "target-description": "Central Hawke's Bay  Press"
+    }
+  },
+  "sources": {
+    "2013-04-02T08:58:38.000Z": "Extracted from the New Zealand National Bibliography (MARC record 8185362) downloaded March 2013.",
+    "2014-05-07T09:04:54.000Z": "Modified by DataBot"
+  },
+  "revision": 5
+}

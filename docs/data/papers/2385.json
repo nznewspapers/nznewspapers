@@ -1,0 +1,31 @@
+{
+  "id": 2385,
+  "title": "The Christchurch Times",
+  "genre": "Newspaper",
+  "firstYear": "1929",
+  "finalYear": "1935",
+  "district": "Christchurch City",
+  "idMarcControlNumber": "4867896",
+  "idNZNewspapersV1": "4033",
+  "isCurrent": false,
+  "placecode": "12-05",
+  "placename": "Lyttelton",
+  "region": "Canterbury",
+  "links": {
+    "2378": {
+      "direction": "Preceding",
+      "relationship": "Continues",
+      "target-description": "The  Lyttelton Times"
+    },
+    "2431": {
+      "direction": "Succeeding",
+      "relationship": "Merged into",
+      "target-description": "Christchurch Star-Sun"
+    }
+  },
+  "sources": {
+    "2013-04-02T08:58:38.000Z": "Extracted from the New Zealand National Bibliography (MARC record 4867896) downloaded March 2013.",
+    "2013-05-25T09:50:23.000Z": "Modified by gordon.paynter"
+  },
+  "revision": 4
+}

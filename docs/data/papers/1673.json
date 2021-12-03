@@ -1,0 +1,26 @@
+{
+  "id": 1673,
+  "title": "Hot Lakes Weekly Chronicle",
+  "genre": "Weekly Edition",
+  "firstYear": "1889",
+  "finalYear": "uuuu",
+  "district": "Rotorua District",
+  "frequency": "Weekly",
+  "idMarcControlNumber": "8157063",
+  "idNZNewspapersV1": "64092",
+  "isCurrent": false,
+  "placecode": "04-05",
+  "placename": "Rotorua",
+  "region": "Bay of Plenty",
+  "links": {
+    "1672": {
+      "direction": "Is Edition Of",
+      "target-description": "Hot Lakes Chronicle"
+    }
+  },
+  "sources": {
+    "2013-04-02T08:58:38.000Z": "Extracted from the New Zealand National Bibliography (MARC record 8157063) downloaded March 2013.",
+    "2014-05-15T04:29:08.000Z": "Modified by DataBot"
+  },
+  "revision": 5
+}

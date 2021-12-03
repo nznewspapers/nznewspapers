@@ -1,0 +1,20 @@
+{
+  "id": 3010,
+  "title": "Te Waka Maori o Aotearoa",
+  "genre": "Duplicate",
+  "firstYear": "1884",
+  "finalYear": "1884",
+  "district": "Gisborne District",
+  "idMarcControlNumber": "4847132",
+  "idNZNewspapersV1": "14262621",
+  "isCurrent": false,
+  "placecode": "05-01",
+  "placename": "Gisborne",
+  "region": "Gisborne",
+  "urlCurrent": "http://nzdl.org/cgi-bin/library?gg=_cgiarggg_&e=d-00000-00---0niupepa--00-0--0-10-0---0---0prompt-10---4-------0-1l--11-en-50---20-about---00-0-1-00-11-1-0utfZz-8-00&a=d&c=niupepa&cl=CL1.21",
+  "sources": {
+    "2013-04-02T08:58:38.000Z": "Extracted from the New Zealand National Bibliography (MARC record 4847132) downloaded March 2013.",
+    "2014-06-01T08:38:14.000Z": "Modified by gordon.paynter"
+  },
+  "revision": 2
+}

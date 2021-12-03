@@ -1,0 +1,27 @@
+{
+  "id": 2307,
+  "title": "Buller Times",
+  "genre": "Newspaper",
+  "firstYear": "1937",
+  "finalYear": "1941",
+  "district": "Buller District",
+  "frequency": "Daily",
+  "idMarcControlNumber": "8133341",
+  "idNZNewspapersV1": "70053",
+  "isCurrent": false,
+  "placecode": "11-01",
+  "placename": "Westport",
+  "region": "West Coast",
+  "links": {
+    "2305": {
+      "direction": "Preceding",
+      "relationship": "Continues",
+      "target-description": "Westport Times &  Star"
+    }
+  },
+  "sources": {
+    "2013-04-02T08:58:38.000Z": "Extracted from the New Zealand National Bibliography (MARC record 8133341) downloaded March 2013.",
+    "2014-03-21T11:32:05.000Z": "Modified by DataBot"
+  },
+  "revision": 5
+}

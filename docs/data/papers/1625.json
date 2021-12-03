@@ -1,0 +1,41 @@
+{
+  "id": 1625,
+  "title": "Turangi Chronicle",
+  "genre": "Newspaper",
+  "firstYear": "1966",
+  "finalYear": "2012",
+  "district": "Taupo District",
+  "idMarcControlNumber": "3561175",
+  "idNZNewspapersV1": "6012",
+  "isCurrent": false,
+  "placecode": "03-10",
+  "placename": "Turangi",
+  "region": "Waikato",
+  "notes": {
+    "101690382": "Since 2012 the Turangi Chronicle has been published weekly as part of the Taupo Weekender."
+  },
+  "links": {
+    "1624": {
+      "direction": "Has Masthead",
+      "target-description": "Turangi Chronicle [1966]"
+    },
+    "1626": {
+      "direction": "Has Masthead",
+      "target-description": "Turangi and  Ruapehu Chronicle"
+    },
+    "1627": {
+      "direction": "Continued By",
+      "relationship": "Absorbed By",
+      "target-description": "Taupo Weekender"
+    },
+    "1629": {
+      "direction": "Has Masthead",
+      "target-description": "Turangi Chronicle [1989]"
+    }
+  },
+  "sources": {
+    "2013-04-02T08:58:38.000Z": "Extracted from the New Zealand National Bibliography (MARC record 3561175) downloaded March 2013.",
+    "2015-01-06T09:25:18.000Z": "Modified by gordon.paynter"
+  },
+  "revision": 8
+}

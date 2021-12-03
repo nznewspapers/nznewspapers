@@ -1,0 +1,18 @@
+{
+  "id": 2797,
+  "title": "Kia Hiwa ra",
+  "genre": "Periodical",
+  "firstYear": "1991",
+  "finalYear": "1998",
+  "district": "Waitomo District",
+  "idMarcControlNumber": "5089403",
+  "idNZNewspapersV1": "9023",
+  "isCurrent": false,
+  "placecode": "03-09",
+  "placename": "Te Kuiti",
+  "region": "Waikato",
+  "sources": {
+    "2013-04-02T08:58:38.000Z": "Extracted from the New Zealand National Bibliography (MARC record 5089403) downloaded March 2013."
+  },
+  "revision": 2
+}

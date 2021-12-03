@@ -1,0 +1,20 @@
+{
+  "id": 1920,
+  "title": "Manawatu Farmer",
+  "genre": "Newspaper",
+  "firstYear": "1970",
+  "finalYear": "uuuu",
+  "district": "Palmerston North City",
+  "frequency": "Weekly",
+  "idMarcControlNumber": "8164665",
+  "idNZNewspapersV1": "58085",
+  "isCurrent": false,
+  "placecode": "08-05",
+  "placename": "Palmerston North",
+  "region": "Manawatu-Wanganui",
+  "sources": {
+    "2013-04-02T08:58:38.000Z": "Extracted from the New Zealand National Bibliography (MARC record 8164665) downloaded March 2013.",
+    "2014-05-07T09:17:01.000Z": "Modified by DataBot"
+  },
+  "revision": 4
+}

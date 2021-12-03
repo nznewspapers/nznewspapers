@@ -1,0 +1,21 @@
+{
+  "id": 2978,
+  "title": "Whitby News Brief",
+  "genre": "Periodical",
+  "firstYear": "1981",
+  "finalYear": "9999",
+  "district": "Unknown District",
+  "frequency": "Monthly",
+  "idMarcControlNumber": "4650401",
+  "idNZNewspapersV1": "8016",
+  "isCurrent": true,
+  "placecode": "unknown",
+  "placename": "Whitby",
+  "price": "Gratis",
+  "region": "Unknown Region",
+  "sources": {
+    "2013-04-02T08:58:38.000Z": "Extracted from the New Zealand National Bibliography (MARC record 4650401) downloaded March 2013.",
+    "2014-05-07T09:48:50.000Z": "Modified by DataBot"
+  },
+  "revision": 6
+}

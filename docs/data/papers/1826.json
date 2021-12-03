@@ -1,0 +1,20 @@
+{
+  "id": 1826,
+  "title": "Mountain Town News",
+  "genre": "Newspaper",
+  "firstYear": "1958",
+  "finalYear": "1959",
+  "district": "Stratford District",
+  "frequency": "Weekly",
+  "idMarcControlNumber": "8169216",
+  "idNZNewspapersV1": "71099",
+  "isCurrent": false,
+  "placecode": "07-02",
+  "placename": "Stratford",
+  "region": "Taranaki",
+  "sources": {
+    "2013-04-02T08:58:38.000Z": "Extracted from the New Zealand National Bibliography (MARC record 8169216) downloaded March 2013.",
+    "2014-05-07T09:17:40.000Z": "Modified by DataBot"
+  },
+  "revision": 4
+}

@@ -1,0 +1,21 @@
+{
+  "id": 2261,
+  "title": "Leader (Richmond-Waimea Edition)",
+  "genre": "Newspaper",
+  "firstYear": "2001",
+  "finalYear": "9999",
+  "district": "Nelson City",
+  "frequency": "Weekly",
+  "idMarcControlNumber": "6830304",
+  "idNZNewspapersV1": "13034",
+  "isCurrent": true,
+  "placecode": "10-02",
+  "placename": "Nelson",
+  "region": "Top of the South",
+  "urlCurrent": "http://tasmanleader.realviewdigital.com/",
+  "sources": {
+    "2013-04-02T08:58:38.000Z": "Extracted from the New Zealand National Bibliography (MARC record 6830304) downloaded March 2013.",
+    "2014-05-07T09:13:14.000Z": "Modified by DataBot"
+  },
+  "revision": 4
+}

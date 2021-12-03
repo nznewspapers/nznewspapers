@@ -1,0 +1,39 @@
+{
+  "id": 1904,
+  "title": "Manawatu Times",
+  "genre": "Newspaper",
+  "firstYear": "1875",
+  "finalYear": "1963",
+  "district": "Palmerston North City",
+  "finalIssueDate": "1963-04-20",
+  "firstIssueDate": "1882-10-23",
+  "idNZNewspapersV1": "518007",
+  "idPapersPastCode": "MT",
+  "isCurrent": false,
+  "placecode": "08-05",
+  "placename": "Palmerston North",
+  "region": "Manawatu-Wanganui",
+  "urlDigitized": "http://paperspast.natlib.govt.nz/cgi-bin/paperspast?a=d&cl=CL1.MT",
+  "links": {
+    "1903": {
+      "direction": "Has Masthead",
+      "target-description": "Manawatu Times [1875-1882]"
+    },
+    "1908": {
+      "direction": "Has Masthead",
+      "target-description": "Manawatu Daily Times"
+    },
+    "1910": {
+      "direction": "Has Edition",
+      "target-description": "Manawatu Times Weekly Edition"
+    },
+    "1913": {
+      "direction": "Has Masthead",
+      "target-description": "Times"
+    }
+  },
+  "sources": {
+    "2013-09-22T05:16:31.000Z": "Modified by gordon.paynter"
+  },
+  "revision": 12
+}

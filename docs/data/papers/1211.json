@@ -1,0 +1,20 @@
+{
+  "id": 1211,
+  "title": "River Valley Newsbrief",
+  "genre": "Newspaper",
+  "firstYear": "1987",
+  "finalYear": "1988",
+  "district": "Auckland",
+  "frequency": "Monthly",
+  "idMarcControlNumber": "8181453",
+  "idNZNewspapersV1": "63133",
+  "isCurrent": false,
+  "placecode": "02-01",
+  "placename": "Kumeu",
+  "region": "Auckland",
+  "sources": {
+    "2013-04-02T08:58:38.000Z": "Extracted from the New Zealand National Bibliography (MARC record 8181453) downloaded March 2013.",
+    "2014-05-07T09:02:49.000Z": "Modified by DataBot"
+  },
+  "revision": 4
+}

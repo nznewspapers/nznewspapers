@@ -1,0 +1,18 @@
+{
+  "id": 1478,
+  "title": "Coromandel News",
+  "genre": "Newspaper",
+  "firstYear": "1874",
+  "finalYear": "uuuu",
+  "district": "Thames-Coromandel District",
+  "idMarcControlNumber": "8136919",
+  "idNZNewspapersV1": "66056",
+  "isCurrent": false,
+  "placecode": "03-01",
+  "placename": "Coromandel",
+  "region": "Waikato",
+  "sources": {
+    "2013-04-02T08:58:38.000Z": "Extracted from the New Zealand National Bibliography (MARC record 8136919) downloaded March 2013."
+  },
+  "revision": 2
+}

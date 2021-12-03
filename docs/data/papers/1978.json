@@ -1,0 +1,27 @@
+{
+  "id": 1978,
+  "title": "News Letter",
+  "genre": "Newspaper",
+  "firstYear": "1876",
+  "finalYear": "1877",
+  "district": "Masterton District",
+  "frequency": "Three issues per week",
+  "idMarcControlNumber": "8173667",
+  "idNZNewspapersV1": "68098",
+  "isCurrent": false,
+  "placecode": "09-01",
+  "placename": "Masterton",
+  "region": "Wellington",
+  "links": {
+    "1979": {
+      "direction": "Succeeding",
+      "relationship": "Merged to form",
+      "target-description": "Wairarapa Register"
+    }
+  },
+  "sources": {
+    "2013-04-02T08:58:38.000Z": "Extracted from the New Zealand National Bibliography (MARC record 8173667) downloaded March 2013.",
+    "2014-05-07T09:04:23.000Z": "Modified by DataBot"
+  },
+  "revision": 5
+}

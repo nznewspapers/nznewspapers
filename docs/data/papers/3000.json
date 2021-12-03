@@ -1,0 +1,19 @@
+{
+  "id": 3000,
+  "title": "Town Crier",
+  "genre": "Duplicate",
+  "firstYear": "19uu",
+  "finalYear": "19uu",
+  "district": "Auckland",
+  "idMarcControlNumber": "8212665",
+  "idNZNewspapersV1": "14272645",
+  "isCurrent": false,
+  "placecode": "02-01",
+  "placename": "Maraetai",
+  "region": "Auckland",
+  "sources": {
+    "2013-04-02T08:58:38.000Z": "Extracted from the New Zealand National Bibliography (MARC record 8212665) downloaded March 2013.",
+    "2014-05-15T04:18:12.000Z": "Modified by DataBot"
+  },
+  "revision": 2
+}

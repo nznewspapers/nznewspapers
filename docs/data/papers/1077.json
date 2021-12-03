@@ -1,0 +1,20 @@
+{
+  "id": 1077,
+  "title": "Manukau Gazette",
+  "genre": "Newspaper",
+  "firstYear": "1885",
+  "finalYear": "1954",
+  "district": "Auckland",
+  "frequency": "Weekly",
+  "idMarcControlNumber": "8167198",
+  "idNZNewspapersV1": "58089",
+  "isCurrent": false,
+  "placecode": "02-01",
+  "placename": "Onehunga",
+  "region": "Auckland",
+  "sources": {
+    "2013-04-02T08:58:38.000Z": "Extracted from the New Zealand National Bibliography (MARC record 8167198) downloaded March 2013.",
+    "2014-05-07T09:17:24.000Z": "Modified by DataBot"
+  },
+  "revision": 4
+}

@@ -1,0 +1,27 @@
+{
+  "id": 2320,
+  "title": "Greymouth Star",
+  "genre": "Newspaper",
+  "firstYear": "2006",
+  "finalYear": "9999",
+  "district": "Grey District",
+  "frequency": "Daily (except Sunday)",
+  "idMarcControlNumber": "10738391",
+  "idNZNewspapersV1": "53",
+  "isCurrent": true,
+  "placecode": "11-02",
+  "placename": "Greymouth",
+  "region": "West Coast",
+  "urlCurrent": "http://www.greystar.co.nz/",
+  "links": {
+    "2313": {
+      "direction": "Continues",
+      "target-description": "Greymouth Evening Star"
+    }
+  },
+  "sources": {
+    "2013-04-02T08:58:38.000Z": "Extracted from the New Zealand National Bibliography (MARC record 10738391) downloaded March 2013.",
+    "2014-04-12T11:38:08.000Z": "Modified by gordon.paynter"
+  },
+  "revision": 5
+}

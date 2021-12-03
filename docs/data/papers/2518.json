@@ -1,0 +1,24 @@
+{
+  "id": 2518,
+  "title": "Timaru Herald",
+  "genre": "Newspaper",
+  "firstYear": "1864",
+  "finalYear": "9999",
+  "district": "Timaru District",
+  "firstIssueDate": "1864-06-11",
+  "frequency": "Daily (except Sunday)",
+  "idMarcControlNumber": "4476174",
+  "idNZNewspapersV1": "13021",
+  "idPapersPastCode": "THD",
+  "isCurrent": true,
+  "placecode": "12-08",
+  "placename": "Timaru",
+  "region": "Canterbury",
+  "urlCurrent": "http://www.stuff.co.nz/stuff/timaruherald/",
+  "urlDigitized": "http://paperspast.natlib.govt.nz/cgi-bin/paperspast?a=d&cl=CL1.THD",
+  "sources": {
+    "2013-04-02T08:58:38.000Z": "Extracted from the New Zealand National Bibliography (MARC record 4476174) downloaded March 2013.",
+    "2014-03-21T11:49:47.000Z": "Modified by DataBot"
+  },
+  "revision": 8
+}

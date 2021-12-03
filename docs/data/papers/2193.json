@@ -1,0 +1,18 @@
+{
+  "id": 2193,
+  "title": "Malvern Record",
+  "genre": "Newspaper",
+  "firstYear": "1989",
+  "finalYear": "9999",
+  "district": "Wellington City",
+  "idMarcControlNumber": "3281003",
+  "idNZNewspapersV1": "12001",
+  "isCurrent": true,
+  "placecode": "09-08-wellington",
+  "placename": "Wellington",
+  "region": "Wellington",
+  "sources": {
+    "2013-04-02T08:58:38.000Z": "Extracted from the New Zealand National Bibliography (MARC record 3281003) downloaded March 2013."
+  },
+  "revision": 2
+}

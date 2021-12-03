@@ -1,0 +1,20 @@
+{
+  "id": 1729,
+  "title": "East Coast Mail and Wairoa Gazette",
+  "genre": "Newspaper",
+  "firstYear": "1907",
+  "finalYear": "1909",
+  "district": "Wairoa District",
+  "frequency": "Three issues per week",
+  "idMarcControlNumber": "8138573",
+  "idNZNewspapersV1": "65072",
+  "isCurrent": false,
+  "placecode": "06-01",
+  "placename": "Wairoa",
+  "region": "Hawke's Bay",
+  "sources": {
+    "2013-04-02T08:58:38.000Z": "Extracted from the New Zealand National Bibliography (MARC record 8138573) downloaded March 2013.",
+    "2014-05-07T09:04:06.000Z": "Modified by DataBot"
+  },
+  "revision": 4
+}

@@ -1,0 +1,29 @@
+{
+  "id": 1926,
+  "title": "Manawatu Guardian",
+  "genre": "Newspaper",
+  "firstYear": "2010",
+  "finalYear": "9999",
+  "district": "Palmerston North City",
+  "frequency": "Weekly",
+  "idMarcControlNumber": "13465800",
+  "idNZNewspapersV1": "14059",
+  "isCurrent": true,
+  "placecode": "08-05",
+  "placename": "Palmerston North",
+  "price": "Gratis",
+  "region": "Manawatu-Wanganui",
+  "urlCurrent": "http://manawatuguardian.apn.co.nz/",
+  "links": {
+    "1921": {
+      "direction": "Preceding",
+      "relationship": "Continues",
+      "target-description": "Guardian (Palmerston North, N.Z.)"
+    }
+  },
+  "sources": {
+    "2013-04-02T08:58:38.000Z": "Extracted from the New Zealand National Bibliography (MARC record 13465800) downloaded March 2013.",
+    "2014-05-07T09:46:51.000Z": "Modified by DataBot"
+  },
+  "revision": 7
+}

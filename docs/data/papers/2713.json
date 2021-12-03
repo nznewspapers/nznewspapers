@@ -1,0 +1,25 @@
+{
+  "id": 2713,
+  "title": "Nor'west Newsbrief",
+  "genre": "Periodical",
+  "firstYear": "1988",
+  "finalYear": "2004",
+  "district": "Auckland",
+  "idMarcControlNumber": "4608094",
+  "idNZNewspapersV1": "1025",
+  "isCurrent": false,
+  "placecode": "02-01",
+  "placename": "Kumeu",
+  "region": "Auckland",
+  "links": {
+    "undefined-unknown": {
+      "direction": "Succeeding",
+      "relationship": "Continued by",
+      "target-description": "Nor-west news"
+    }
+  },
+  "sources": {
+    "2013-04-02T08:58:38.000Z": "Extracted from the New Zealand National Bibliography (MARC record 4608094) downloaded March 2013."
+  },
+  "revision": 4
+}

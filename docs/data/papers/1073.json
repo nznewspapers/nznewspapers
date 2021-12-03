@@ -1,0 +1,39 @@
+{
+  "id": 1073,
+  "title": "New Zealand Herald",
+  "genre": "Newspaper",
+  "firstYear": "1863",
+  "finalYear": "9999",
+  "district": "Auckland",
+  "firstIssueDate": "1863-11-13",
+  "frequency": "Daily (except Sunday)",
+  "idMarcControlNumber": "4875932",
+  "idNZNewspapersV1": "4036",
+  "idPapersPastCode": "NZH",
+  "isCurrent": true,
+  "placecode": "02-01",
+  "placename": "Auckland",
+  "region": "Auckland",
+  "urlCurrent": "http://www.nzherald.co.nz/",
+  "urlDigitized": "http://paperspast.natlib.govt.nz/cgi-bin/paperspast?a=d&cl=CL1.NZH",
+  "links": {
+    "1166": {
+      "direction": "Has Edition",
+      "target-description": "Sunday Herald"
+    },
+    "1292": {
+      "direction": "Preceding",
+      "relationship": "Absorbed",
+      "target-description": "Daily Southern Cross"
+    },
+    "1455": {
+      "direction": "Has Edition",
+      "target-description": "Herald on Sunday"
+    }
+  },
+  "sources": {
+    "2013-04-02T08:58:38.000Z": "Extracted from the New Zealand National Bibliography (MARC record 4875932) downloaded March 2013.",
+    "2015-01-21T10:39:14.000Z": "Modified by gordon.paynter"
+  },
+  "revision": 11
+}

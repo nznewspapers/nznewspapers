@@ -1,0 +1,20 @@
+{
+  "id": 2948,
+  "title": "Hua xia Feng",
+  "genre": "Periodical",
+  "firstYear": "2004",
+  "finalYear": "2008",
+  "district": "Christchurch City",
+  "frequency": "Monthly",
+  "idMarcControlNumber": "8864595",
+  "idNZNewspapersV1": "8037",
+  "isCurrent": false,
+  "placecode": "12-05-christchur",
+  "placename": "Christchurch",
+  "region": "Canterbury",
+  "sources": {
+    "2013-04-02T08:58:38.000Z": "Extracted from the New Zealand National Bibliography (MARC record 8864595) downloaded March 2013.",
+    "2014-05-07T09:03:34.000Z": "Modified by DataBot"
+  },
+  "revision": 4
+}

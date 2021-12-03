@@ -1,0 +1,35 @@
+{
+  "id": 1736,
+  "title": "Hawke's Bay Herald-Tribune",
+  "genre": "Newspaper",
+  "firstYear": "1937",
+  "finalYear": "1999",
+  "district": "Hastings District",
+  "frequency": "Daily (except Sunday)",
+  "idMarcControlNumber": "3531188",
+  "idNZNewspapersV1": "8003",
+  "isCurrent": false,
+  "placecode": "06-02",
+  "placename": "Hastings",
+  "region": "Hawke's Bay",
+  "links": {
+    "1735": {
+      "direction": "Succeeding"
+    },
+    "1751": {
+      "direction": "Succeeding",
+      "relationship": "Merged to form",
+      "target-description": "Hawke's Bay Today"
+    },
+    "1757": {
+      "direction": "Preceding",
+      "relationship": "Formed by the union",
+      "target-description": "The Hawke's Bay Herald"
+    }
+  },
+  "sources": {
+    "2013-04-02T08:58:38.000Z": "Extracted from the New Zealand National Bibliography (MARC record 3531188) downloaded March 2013.",
+    "2014-04-10T10:18:06.000Z": "Modified by gordon.paynter"
+  },
+  "revision": 8
+}

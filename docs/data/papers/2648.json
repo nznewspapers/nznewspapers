@@ -1,0 +1,20 @@
+{
+  "id": 2648,
+  "title": "Owaka News",
+  "genre": "Newspaper",
+  "firstYear": "1932",
+  "finalYear": "1936",
+  "district": "Clutha District",
+  "frequency": "Weekly",
+  "idMarcControlNumber": "8177792",
+  "idNZNewspapersV1": "61102",
+  "isCurrent": false,
+  "placecode": "13-04",
+  "placename": "Owaka",
+  "region": "Otago",
+  "sources": {
+    "2013-04-02T08:58:38.000Z": "Extracted from the New Zealand National Bibliography (MARC record 8177792) downloaded March 2013.",
+    "2014-05-07T09:19:20.000Z": "Modified by DataBot"
+  },
+  "revision": 4
+}

@@ -1,0 +1,18 @@
+{
+  "id": 1663,
+  "title": "Whakatane Times and Opouriao Advocate",
+  "genre": "Newspaper",
+  "firstYear": "1899",
+  "finalYear": "1899",
+  "district": "Whakatane District",
+  "idMarcControlNumber": "8187818",
+  "idNZNewspapersV1": "69203",
+  "isCurrent": false,
+  "placecode": "04-04",
+  "placename": "Whakatane",
+  "region": "Bay of Plenty",
+  "sources": {
+    "2013-04-02T08:58:38.000Z": "Extracted from the New Zealand National Bibliography (MARC record 8187818) downloaded March 2013."
+  },
+  "revision": 2
+}

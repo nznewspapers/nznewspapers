@@ -1,0 +1,32 @@
+{
+  "id": 1243,
+  "title": "Aucklander (Shore Ed.)",
+  "genre": "Alternate Edition",
+  "firstYear": "2003",
+  "finalYear": "2003",
+  "district": "Auckland",
+  "frequency": "Weekly",
+  "idMarcControlNumber": "7974142",
+  "idNZNewspapersV1": "4048",
+  "isCurrent": false,
+  "placecode": "02-01",
+  "placename": "Auckland",
+  "price": "Gratis",
+  "region": "Auckland",
+  "links": {
+    "1249": {
+      "direction": "Is Edition Of",
+      "target-description": "The Aucklander"
+    },
+    "1421": {
+      "direction": "Preceding",
+      "relationship": "Continues",
+      "target-description": "Shore news (Auckland, N.Z. : 1994)"
+    }
+  },
+  "sources": {
+    "2013-04-02T08:58:38.000Z": "Extracted from the New Zealand National Bibliography (MARC record 7974142) downloaded March 2013.",
+    "2015-01-21T10:26:56.000Z": "Modified by gordon.paynter"
+  },
+  "revision": 8
+}

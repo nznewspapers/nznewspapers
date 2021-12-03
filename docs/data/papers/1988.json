@@ -1,0 +1,20 @@
+{
+  "id": 1988,
+  "title": "Wairarapa Weekly",
+  "genre": "Newspaper",
+  "firstYear": "1937",
+  "finalYear": "1938",
+  "district": "Masterton District",
+  "frequency": "Weekly",
+  "idMarcControlNumber": "8185420",
+  "idNZNewspapersV1": "59160",
+  "isCurrent": false,
+  "placecode": "09-01",
+  "placename": "Masterton",
+  "region": "Wellington",
+  "sources": {
+    "2013-04-02T08:58:38.000Z": "Extracted from the New Zealand National Bibliography (MARC record 8185420) downloaded March 2013.",
+    "2014-05-07T09:22:05.000Z": "Modified by DataBot"
+  },
+  "revision": 4
+}

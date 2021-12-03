@@ -1,0 +1,26 @@
+{
+  "id": 1935,
+  "title": "Daily Press",
+  "genre": "Newspaper",
+  "firstYear": "1901",
+  "finalYear": "1909",
+  "district": "Tararua District",
+  "frequency": "Daily",
+  "idMarcControlNumber": "8137842",
+  "idNZNewspapersV1": "62054",
+  "isCurrent": false,
+  "placecode": "08-06",
+  "placename": "Dannevirke",
+  "region": "Manawatu-Wanganui",
+  "links": {
+    "1938": {
+      "direction": "Continued By",
+      "target-description": "Dannevirke Evening News"
+    }
+  },
+  "sources": {
+    "2013-04-02T08:58:38.000Z": "Extracted from the New Zealand National Bibliography (MARC record 8137842) downloaded March 2013.",
+    "2014-04-10T11:49:49.000Z": "Modified by gordon.paynter"
+  },
+  "revision": 5
+}

@@ -1,0 +1,30 @@
+{
+  "id": 1725,
+  "title": "Gisborne Herald Weekly Outlook",
+  "genre": "Weekly Edition",
+  "firstYear": "1996",
+  "finalYear": "9999",
+  "district": "Gisborne District",
+  "frequency": "Weekly",
+  "idMarcControlNumber": "8142272",
+  "idNZNewspapersV1": "68062",
+  "isCurrent": true,
+  "placecode": "05-01",
+  "placename": "Gisborne",
+  "region": "Gisborne",
+  "links": {
+    "1720": {
+      "direction": "Is Edition Of",
+      "target-description": "Gisborne Herald"
+    },
+    "1724": {
+      "direction": "Continues",
+      "target-description": "Gisborne Herald Midweek Extra"
+    }
+  },
+  "sources": {
+    "2013-04-02T08:58:38.000Z": "Extracted from the New Zealand National Bibliography (MARC record 8142272) downloaded March 2013.",
+    "2014-05-15T04:30:00.000Z": "Modified by DataBot"
+  },
+  "revision": 6
+}

@@ -1,0 +1,20 @@
+{
+  "id": 2700,
+  "title": "Aotearoa",
+  "genre": "Periodical",
+  "firstYear": "193u",
+  "finalYear": "194u",
+  "district": "Far North District",
+  "frequency": "Monthly",
+  "idMarcControlNumber": "5573879",
+  "idNZNewspapersV1": "63029",
+  "isCurrent": false,
+  "placecode": "01-01",
+  "placename": "Kaikohe",
+  "region": "Northland",
+  "sources": {
+    "2013-04-02T08:58:38.000Z": "Extracted from the New Zealand National Bibliography (MARC record 5573879) downloaded March 2013.",
+    "2014-05-07T08:59:29.000Z": "Modified by DataBot"
+  },
+  "revision": 4
+}

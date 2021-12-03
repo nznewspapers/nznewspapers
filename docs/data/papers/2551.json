@@ -1,0 +1,34 @@
+{
+  "id": 2551,
+  "title": "Oamaru Mail",
+  "genre": "Newspaper",
+  "firstYear": "1879",
+  "finalYear": "9999",
+  "district": "Waitaki District",
+  "firstIssueDate": "1879-03-03",
+  "frequency": "Daily (except Sunday)",
+  "idMarcControlNumber": "4871236",
+  "idNZNewspapersV1": "13025",
+  "idPapersPastCode": "OAM",
+  "isCurrent": true,
+  "placecode": "12-10",
+  "placename": "Oamaru",
+  "region": "Canterbury",
+  "urlCurrent": "http://www.oamarumail.co.nz/",
+  "urlDigitized": "http://paperspast.natlib.govt.nz/cgi-bin/paperspast?a=d&cl=CL1.OAM",
+  "links": {
+    "2549": {
+      "direction": "Continues",
+      "target-description": "Evening Mail"
+    },
+    "2554": {
+      "direction": "Has Edition",
+      "target-description": "Oamaru Mail Extra [1984-1988]"
+    }
+  },
+  "sources": {
+    "2013-04-02T08:58:38.000Z": "Extracted from the New Zealand National Bibliography (MARC record 4871236) downloaded March 2013.",
+    "2014-03-21T11:48:07.000Z": "Modified by DataBot"
+  },
+  "revision": 10
+}

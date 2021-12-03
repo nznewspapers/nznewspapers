@@ -1,0 +1,22 @@
+{
+  "id": 1070,
+  "title": "Dargaville & Districts News",
+  "genre": "Newspaper",
+  "firstYear": "1992",
+  "finalYear": "9999",
+  "district": "Kaipara District",
+  "frequency": "Weekly",
+  "idMarcControlNumber": "4148107",
+  "idNZNewspapersV1": "6019",
+  "isCurrent": true,
+  "placecode": "01-03",
+  "placename": "Dargaville",
+  "price": "Free",
+  "region": "Northland",
+  "urlCurrent": "http://www.stuff.co.nz/auckland/local-news/northland/dargaville-districts",
+  "sources": {
+    "2013-04-02T08:58:38.000Z": "Extracted from the New Zealand National Bibliography (MARC record 4148107) downloaded March 2013.",
+    "2014-05-07T09:11:12.000Z": "Modified by DataBot"
+  },
+  "revision": 6
+}

@@ -1,0 +1,20 @@
+{
+  "id": 1022,
+  "title": "Kerikeri Chronicle",
+  "genre": "Newspaper",
+  "firstYear": "1974",
+  "finalYear": "1986",
+  "district": "Far North District",
+  "frequency": "Fortnightly",
+  "idMarcControlNumber": "8162921",
+  "idNZNewspapersV1": "60077",
+  "isCurrent": false,
+  "placecode": "01-01",
+  "placename": "Kerikeri",
+  "region": "Northland",
+  "sources": {
+    "2013-04-02T08:58:38.000Z": "Extracted from the New Zealand National Bibliography (MARC record 8162921) downloaded March 2013.",
+    "2014-05-07T08:57:11.000Z": "Modified by DataBot"
+  },
+  "revision": 4
+}

@@ -1,0 +1,20 @@
+{
+  "id": 1835,
+  "title": "Kaponga Mail and District Advertiser",
+  "genre": "Newspaper",
+  "firstYear": "1904",
+  "finalYear": "1904",
+  "district": "South Taranaki District",
+  "frequency": "Three issues per week",
+  "idMarcControlNumber": "8160180",
+  "idNZNewspapersV1": "71083",
+  "isCurrent": false,
+  "placecode": "07-03",
+  "placename": "Kaponga",
+  "region": "Taranaki",
+  "sources": {
+    "2013-04-02T08:58:38.000Z": "Extracted from the New Zealand National Bibliography (MARC record 8160180) downloaded March 2013.",
+    "2014-05-07T09:04:17.000Z": "Modified by DataBot"
+  },
+  "revision": 4
+}

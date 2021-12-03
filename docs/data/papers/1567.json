@@ -1,0 +1,30 @@
+{
+  "id": 1567,
+  "title": "The New Tatler",
+  "genre": "Newspaper",
+  "firstYear": "1993",
+  "finalYear": "1995",
+  "district": "Matamata-Piako District",
+  "frequency": "Weekly",
+  "idMarcControlNumber": "8171150",
+  "idNZNewspapersV1": "3048",
+  "isCurrent": false,
+  "placecode": "03-04",
+  "placename": "Morrinsville",
+  "region": "Waikato",
+  "links": {
+    "1546": {
+      "direction": "Continued By",
+      "target-description": "North Waikato Tatler"
+    },
+    "2779": {
+      "direction": "Continues",
+      "target-description": "Community Tatler"
+    }
+  },
+  "sources": {
+    "2013-04-02T08:58:38.000Z": "Extracted from the New Zealand National Bibliography (MARC record 8171150) downloaded March 2013.",
+    "2014-05-18T11:46:57.000Z": "Modified by gordon.paynter"
+  },
+  "revision": 6
+}

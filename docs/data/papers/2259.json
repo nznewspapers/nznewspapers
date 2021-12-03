@@ -1,0 +1,28 @@
+{
+  "id": 2259,
+  "title": "Nelson Mail",
+  "genre": "Newspaper",
+  "firstYear": "1995",
+  "finalYear": "9999",
+  "district": "Nelson City",
+  "frequency": "Daily (except Sunday)",
+  "idMarcControlNumber": "4835380",
+  "idNZNewspapersV1": "8022",
+  "isCurrent": true,
+  "placecode": "10-02",
+  "placename": "Nelson",
+  "region": "Top of the South",
+  "urlCurrent": "http://www.nelsonmail.co.nz/",
+  "links": {
+    "2241": {
+      "direction": "Preceding",
+      "relationship": "Continues",
+      "target-description": "Nelson Evening Mail"
+    }
+  },
+  "sources": {
+    "2013-04-02T08:58:38.000Z": "Extracted from the New Zealand National Bibliography (MARC record 4835380) downloaded March 2013.",
+    "2014-03-21T11:47:55.000Z": "Modified by DataBot"
+  },
+  "revision": 5
+}

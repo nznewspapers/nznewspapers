@@ -1,0 +1,20 @@
+{
+  "id": 2825,
+  "title": "Western Districts Farmer",
+  "genre": "Periodical",
+  "firstYear": "1976",
+  "finalYear": "19uu",
+  "district": "New Plymouth District",
+  "frequency": "Fortnightly",
+  "idMarcControlNumber": "13494322",
+  "idNZNewspapersV1": "1060",
+  "isCurrent": false,
+  "placecode": "07-01",
+  "placename": "Inglewood",
+  "region": "Taranaki",
+  "sources": {
+    "2013-04-02T08:58:38.000Z": "Extracted from the New Zealand National Bibliography (MARC record 13494322) downloaded March 2013.",
+    "2014-05-07T08:55:39.000Z": "Modified by DataBot"
+  },
+  "revision": 4
+}

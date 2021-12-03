@@ -1,0 +1,20 @@
+{
+  "id": 2170,
+  "title": "Payday",
+  "genre": "Newspaper",
+  "firstYear": "1970",
+  "finalYear": "1971",
+  "district": "Wellington City",
+  "frequency": "Weekly",
+  "idMarcControlNumber": "8036605",
+  "idNZNewspapersV1": "13037",
+  "isCurrent": false,
+  "placecode": "09-08-wellington",
+  "placename": "Wellington",
+  "region": "Wellington",
+  "sources": {
+    "2013-04-02T08:58:38.000Z": "Extracted from the New Zealand National Bibliography (MARC record 8036605) downloaded March 2013.",
+    "2014-04-27T23:27:25.000Z": "Modified by DataBot"
+  },
+  "revision": 4
+}

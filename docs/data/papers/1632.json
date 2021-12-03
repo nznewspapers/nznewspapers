@@ -1,0 +1,33 @@
+{
+  "id": 1632,
+  "title": "Bay Sun (Te Puke Edition)",
+  "genre": "Newspaper",
+  "firstYear": "1980",
+  "finalYear": "1981",
+  "district": "Western Bay of Plenty District",
+  "idNZNewspapersV1": "150002",
+  "isCurrent": false,
+  "placecode": "04-01",
+  "placename": "Te Puke",
+  "region": "Bay of Plenty",
+  "links": {
+    "1630": {
+      "direction": "Preceding",
+      "relationship": "Continues",
+      "target-description": "Te  Puke Times"
+    },
+    "1633": {
+      "direction": "Succeeding",
+      "relationship": "Continued by",
+      "target-description": "Te  Puke Times (1981)"
+    },
+    "1648": {
+      "direction": "Is Edition Of",
+      "target-description": "Bay Sun"
+    }
+  },
+  "sources": {
+    "2013-09-18T10:56:17.000Z": "Modified by gordon.paynter"
+  },
+  "revision": 5
+}

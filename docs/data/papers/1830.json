@@ -1,0 +1,19 @@
+{
+  "id": 1830,
+  "title": "Egmont Courier and Waimate Plains Advocate",
+  "genre": "Newspaper",
+  "firstYear": "1883",
+  "finalYear": "uuuu",
+  "district": "South Taranaki District",
+  "idMarcControlNumber": "8138630",
+  "idNZNewspapersV1": "71064",
+  "isCurrent": false,
+  "placecode": "07-03",
+  "placename": "Opunake",
+  "region": "Taranaki",
+  "sources": {
+    "2013-04-02T08:58:38.000Z": "Extracted from the New Zealand National Bibliography (MARC record 8138630) downloaded March 2013.",
+    "2013-04-10T11:56:21.000Z": "Modified by gordon.paynter"
+  },
+  "revision": 2
+}

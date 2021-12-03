@@ -1,0 +1,27 @@
+{
+  "id": 2789,
+  "title": "Community Review (Hamilton)",
+  "genre": "Periodical",
+  "firstYear": "1993",
+  "finalYear": "1997",
+  "district": "Hamilton City",
+  "frequency": "Monthly",
+  "idMarcControlNumber": "4666295",
+  "idNZNewspapersV1": "5023",
+  "isCurrent": false,
+  "placecode": "03-05",
+  "placename": "Hamilton",
+  "region": "Waikato",
+  "links": {
+    "2786": {
+      "direction": "Preceding",
+      "relationship": "Continues",
+      "target-description": "Tamahere crier"
+    }
+  },
+  "sources": {
+    "2013-04-02T08:58:38.000Z": "Extracted from the New Zealand National Bibliography (MARC record 4666295) downloaded March 2013.",
+    "2014-05-07T09:00:22.000Z": "Modified by DataBot"
+  },
+  "revision": 5
+}

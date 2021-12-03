@@ -1,0 +1,40 @@
+{
+  "id": 1568,
+  "title": "The Waikato Times",
+  "genre": "Newspaper",
+  "firstYear": "1872",
+  "finalYear": "9999",
+  "district": "Hamilton City",
+  "firstIssueDate": "1872-05-02",
+  "idNZNewspapersV1": "11487384",
+  "idPapersPastCode": "WT",
+  "isCurrent": true,
+  "placecode": "03-05",
+  "placename": "Hamilton",
+  "region": "Waikato",
+  "urlCurrent": "http://www.stuff.co.nz/waikato-times",
+  "urlDigitized": "http://paperspast.natlib.govt.nz/cgi-bin/paperspast?a=d&cl=CL1.WT",
+  "links": {
+    "1518": {
+      "direction": "Has Masthead",
+      "target-description": "The Waikato Times [Ngaruawahia]"
+    },
+    "1569": {
+      "direction": "Preceding",
+      "relationship": "Incorporates",
+      "target-description": "Waikato Argus"
+    },
+    "1577": {
+      "direction": "Has Masthead",
+      "target-description": "Times"
+    },
+    "1582": {
+      "direction": "Has Masthead",
+      "target-description": "The Waikato Times"
+    }
+  },
+  "sources": {
+    "2014-04-10T09:37:32.000Z": "Modified by gordon.paynter"
+  },
+  "revision": 10
+}

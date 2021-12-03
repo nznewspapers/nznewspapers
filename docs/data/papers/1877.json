@@ -1,0 +1,24 @@
+{
+  "id": 1877,
+  "title": "Wanganui Chronicle",
+  "genre": "Newspaper",
+  "firstYear": "1856",
+  "finalYear": "9999",
+  "district": "Wanganui District",
+  "firstIssueDate": "1856-09-18",
+  "frequency": "Daily (except Sunday)",
+  "idMarcControlNumber": "3531184",
+  "idNZNewspapersV1": "10005",
+  "idPapersPastCode": "WC",
+  "isCurrent": true,
+  "placecode": "08-03",
+  "placename": "Wanganui",
+  "region": "Manawatu-Wanganui",
+  "urlCurrent": "http://www.wanganuichronicle.co.nz/",
+  "urlDigitized": "http://paperspast.natlib.govt.nz/cgi-bin/paperspast?a=d&cl=CL1.WC",
+  "sources": {
+    "2013-04-02T08:58:38.000Z": "Extracted from the New Zealand National Bibliography (MARC record 3531184) downloaded March 2013.",
+    "2014-08-08T10:20:05.000Z": "Modified by gordon.paynter"
+  },
+  "revision": 8
+}

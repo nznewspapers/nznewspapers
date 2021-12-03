@@ -1,0 +1,27 @@
+{
+  "id": 1436,
+  "title": "Mandarin Pages Weekly",
+  "genre": "Newspaper",
+  "firstYear": "199u",
+  "finalYear": "1996",
+  "district": "Auckland",
+  "frequency": "Weekly",
+  "idMarcControlNumber": "4687201",
+  "idNZNewspapersV1": "64026",
+  "isCurrent": false,
+  "placecode": "02-01-auckland",
+  "placename": "Auckland",
+  "price": "Gratis",
+  "region": "Auckland",
+  "links": {
+    "1428": {
+      "direction": "Continued By",
+      "target-description": "Mandarin Times"
+    }
+  },
+  "sources": {
+    "2013-04-02T08:58:38.000Z": "Extracted from the New Zealand National Bibliography (MARC record 4687201) downloaded March 2013.",
+    "2014-05-07T09:48:54.000Z": "Modified by DataBot"
+  },
+  "revision": 7
+}

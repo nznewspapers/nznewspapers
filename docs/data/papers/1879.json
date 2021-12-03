@@ -1,0 +1,30 @@
+{
+  "id": 1879,
+  "title": "Evening Herald",
+  "genre": "Newspaper",
+  "firstYear": "1867",
+  "finalYear": "1876",
+  "district": "Wanganui District",
+  "finalIssueDate": "1876-03-23",
+  "firstIssueDate": "1867-06-03",
+  "frequency": "Daily",
+  "idMarcControlNumber": "6314427",
+  "idNZNewspapersV1": "7039",
+  "idPapersPastCode": "WH",
+  "isCurrent": false,
+  "placecode": "08-03",
+  "placename": "Wanganui",
+  "region": "Manawatu-Wanganui",
+  "urlDigitized": "http://paperspast.natlib.govt.nz/cgi-bin/paperspast?a=d&cl=CL1.WH",
+  "links": {
+    "1881": {
+      "direction": "Continued By",
+      "target-description": "The Wanganui Herald"
+    }
+  },
+  "sources": {
+    "2013-04-02T08:58:38.000Z": "Extracted from the New Zealand National Bibliography (MARC record 6314427) downloaded March 2013.",
+    "2014-04-10T11:47:45.000Z": "Modified by gordon.paynter"
+  },
+  "revision": 11
+}

@@ -1,0 +1,28 @@
+{
+  "id": 1449,
+  "title": "New Zealand Truth",
+  "genre": "Newspaper",
+  "firstYear": "2002",
+  "finalYear": "9999",
+  "district": "Auckland",
+  "frequency": "Weekly",
+  "idMarcControlNumber": "8187265",
+  "idNZNewspapersV1": "7048",
+  "isCurrent": true,
+  "placecode": "02-01-auckland",
+  "placename": "Auckland",
+  "region": "Auckland",
+  "urlCurrent": "http://truth.co.nz/",
+  "links": {
+    "1430": {
+      "direction": "Preceding",
+      "relationship": "Continues",
+      "target-description": "New Zealand Truth & TV Extra"
+    }
+  },
+  "sources": {
+    "2013-04-02T08:58:38.000Z": "Extracted from the New Zealand National Bibliography (MARC record 8187265) downloaded March 2013.",
+    "2014-05-07T09:22:23.000Z": "Modified by DataBot"
+  },
+  "revision": 5
+}

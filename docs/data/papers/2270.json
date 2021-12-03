@@ -1,0 +1,31 @@
+{
+  "id": 2270,
+  "title": "Marlborough Daily Times",
+  "genre": "Newspaper",
+  "firstYear": "1882",
+  "finalYear": "1905",
+  "district": "Marlborough District",
+  "frequency": "Daily",
+  "idMarcControlNumber": "8167472",
+  "idNZNewspapersV1": "71093",
+  "isCurrent": false,
+  "placecode": "10-03",
+  "placename": "Blenheim",
+  "region": "Top of the South",
+  "links": {
+    "2266": {
+      "direction": "Succeeding",
+      "relationship": "Incorporated By",
+      "target-description": "Marlborough Express"
+    },
+    "2268": {
+      "direction": "Continues",
+      "target-description": "Marlborough Times"
+    }
+  },
+  "sources": {
+    "2013-04-02T08:58:38.000Z": "Extracted from the New Zealand National Bibliography (MARC record 8167472) downloaded March 2013.",
+    "2014-04-12T11:14:17.000Z": "Modified by DataBot"
+  },
+  "revision": 6
+}

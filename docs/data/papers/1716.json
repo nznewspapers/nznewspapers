@@ -1,0 +1,20 @@
+{
+  "id": 1716,
+  "title": "Te Rau Weekly Press",
+  "genre": "Newspaper",
+  "firstYear": "1924",
+  "finalYear": "1955",
+  "district": "Gisborne District",
+  "frequency": "Weekly",
+  "idMarcControlNumber": "8183927",
+  "idNZNewspapersV1": "69174",
+  "isCurrent": false,
+  "placecode": "05-01",
+  "placename": "Gisborne",
+  "region": "Gisborne",
+  "sources": {
+    "2013-04-02T08:58:38.000Z": "Extracted from the New Zealand National Bibliography (MARC record 8183927) downloaded March 2013.",
+    "2014-05-07T09:21:10.000Z": "Modified by DataBot"
+  },
+  "revision": 4
+}

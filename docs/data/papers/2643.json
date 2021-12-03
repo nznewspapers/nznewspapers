@@ -1,0 +1,18 @@
+{
+  "id": 2643,
+  "title": "Popotunoa Chronicle",
+  "genre": "Newspaper",
+  "firstYear": "1881",
+  "finalYear": "1887",
+  "district": "Clutha District",
+  "idMarcControlNumber": "8180992",
+  "idNZNewspapersV1": "69147",
+  "isCurrent": false,
+  "placecode": "13-04",
+  "placename": "Clinton",
+  "region": "Otago",
+  "sources": {
+    "2013-04-02T08:58:38.000Z": "Extracted from the New Zealand National Bibliography (MARC record 8180992) downloaded March 2013."
+  },
+  "revision": 2
+}

@@ -1,0 +1,20 @@
+{
+  "id": 1644,
+  "title": "Otumoetai Reporter",
+  "genre": "Newspaper",
+  "firstYear": "1966",
+  "finalYear": "uuuu",
+  "district": "Tauranga City",
+  "frequency": "Monthly",
+  "idMarcControlNumber": "8177785",
+  "idNZNewspapersV1": "66128",
+  "isCurrent": false,
+  "placecode": "04-02",
+  "placename": "Tauranga",
+  "region": "Bay of Plenty",
+  "sources": {
+    "2013-04-02T08:58:38.000Z": "Extracted from the New Zealand National Bibliography (MARC record 8177785) downloaded March 2013.",
+    "2014-05-07T09:02:32.000Z": "Modified by DataBot"
+  },
+  "revision": 4
+}

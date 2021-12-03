@@ -1,0 +1,18 @@
+{
+  "id": 2464,
+  "title": "Christchurch Mail Weekender",
+  "genre": "Newspaper",
+  "firstYear": "1990",
+  "finalYear": "9999",
+  "district": "Christchurch City",
+  "idMarcControlNumber": "3678324",
+  "idNZNewspapersV1": "5012",
+  "isCurrent": true,
+  "placecode": "12-05-christchur",
+  "placename": "Christchurch",
+  "region": "Canterbury",
+  "sources": {
+    "2013-04-02T08:58:38.000Z": "Extracted from the New Zealand National Bibliography (MARC record 3678324) downloaded March 2013."
+  },
+  "revision": 2
+}

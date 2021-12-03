@@ -1,0 +1,28 @@
+{
+  "id": 1827,
+  "title": "Stratford Press",
+  "genre": "Newspaper",
+  "firstYear": "1960",
+  "finalYear": "9999",
+  "district": "Stratford District",
+  "idMarcControlNumber": "3531253",
+  "idNZNewspapersV1": "9008",
+  "isCurrent": true,
+  "placecode": "07-02",
+  "placename": "Stratford",
+  "price": "Gratis",
+  "region": "Taranaki",
+  "urlCurrent": "http://www.stratfordpress.co.nz/",
+  "links": {
+    "undefined-unknown": {
+      "direction": "Preceding",
+      "relationship": "Absorbed",
+      "target-description": "Town & country crier"
+    }
+  },
+  "sources": {
+    "2013-04-02T08:58:38.000Z": "Extracted from the New Zealand National Bibliography (MARC record 3531253) downloaded March 2013.",
+    "2014-05-07T09:47:42.000Z": "Modified by DataBot"
+  },
+  "revision": 5
+}

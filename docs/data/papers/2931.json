@@ -1,0 +1,25 @@
+{
+  "id": 2931,
+  "title": "Pegasus Post",
+  "genre": "Periodical",
+  "firstYear": "1966",
+  "finalYear": "1989",
+  "district": "Christchurch City",
+  "idMarcControlNumber": "4074931",
+  "idNZNewspapersV1": "1021",
+  "isCurrent": false,
+  "placecode": "12-05-christchur",
+  "placename": "Christchurch",
+  "region": "Canterbury",
+  "links": {
+    "2461": {
+      "direction": "Succeeding",
+      "relationship": "Continued by",
+      "target-description": "Community news (Pegasus post ed.)"
+    }
+  },
+  "sources": {
+    "2013-04-02T08:58:38.000Z": "Extracted from the New Zealand National Bibliography (MARC record 4074931) downloaded March 2013."
+  },
+  "revision": 3
+}

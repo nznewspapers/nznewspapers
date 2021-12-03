@@ -1,0 +1,18 @@
+{
+  "id": 1654,
+  "title": "Greerton-Gate Pa Express",
+  "genre": "Newspaper",
+  "firstYear": "198u",
+  "finalYear": "uuuu",
+  "district": "Tauranga City",
+  "idMarcControlNumber": "8144679",
+  "idNZNewspapersV1": "69104",
+  "isCurrent": false,
+  "placecode": "04-02",
+  "placename": "Tauranga",
+  "region": "Bay of Plenty",
+  "sources": {
+    "2013-04-02T08:58:38.000Z": "Extracted from the New Zealand National Bibliography (MARC record 8144679) downloaded March 2013."
+  },
+  "revision": 2
+}

@@ -1,0 +1,20 @@
+{
+  "id": 1509,
+  "title": "Coromandel & Mercury Bay Gazette (1956)",
+  "genre": "Newspaper",
+  "firstYear": "1956",
+  "finalYear": "1973",
+  "district": "Hauraki District",
+  "frequency": "Weekly",
+  "idMarcControlNumber": "8136878",
+  "idNZNewspapersV1": "64061",
+  "isCurrent": false,
+  "placecode": "03-02",
+  "placename": "Paeroa",
+  "region": "Waikato",
+  "sources": {
+    "2013-04-02T08:58:38.000Z": "Extracted from the New Zealand National Bibliography (MARC record 8136878) downloaded March 2013.",
+    "2014-05-07T09:14:33.000Z": "Modified by DataBot"
+  },
+  "revision": 4
+}

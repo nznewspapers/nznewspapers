@@ -1,0 +1,27 @@
+{
+  "id": 1533,
+  "title": "Te Kauwhata News Flash",
+  "genre": "Newspaper",
+  "firstYear": "1954",
+  "finalYear": "1978",
+  "district": "Waikato District",
+  "frequency": "Fortnightly",
+  "idMarcControlNumber": "8183899",
+  "idNZNewspapersV1": "62148",
+  "isCurrent": false,
+  "placecode": "03-03",
+  "placename": "Te Kauwhata",
+  "region": "Waikato",
+  "links": {
+    "1529": {
+      "direction": "Succeeding",
+      "relationship": "Incorporated By",
+      "target-description": "Huntly Press and District Gazette"
+    }
+  },
+  "sources": {
+    "2013-04-02T08:58:38.000Z": "Extracted from the New Zealand National Bibliography (MARC record 8183899) downloaded March 2013.",
+    "2014-05-18T11:43:52.000Z": "Modified by gordon.paynter"
+  },
+  "revision": 5
+}

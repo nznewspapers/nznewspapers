@@ -1,0 +1,20 @@
+{
+  "id": 2925,
+  "title": "Little River Informer",
+  "genre": "Periodical",
+  "firstYear": "200u",
+  "finalYear": "9999",
+  "district": "Christchurch City",
+  "frequency": "Monthly",
+  "idMarcControlNumber": "11662633",
+  "idNZNewspapersV1": "11055",
+  "isCurrent": true,
+  "placecode": "12-05",
+  "placename": "Akaroa",
+  "region": "Canterbury",
+  "sources": {
+    "2013-04-02T08:58:38.000Z": "Extracted from the New Zealand National Bibliography (MARC record 11662633) downloaded March 2013.",
+    "2014-05-07T08:59:44.000Z": "Modified by DataBot"
+  },
+  "revision": 4
+}

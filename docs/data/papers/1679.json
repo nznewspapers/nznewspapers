@@ -1,0 +1,32 @@
+{
+  "id": 1679,
+  "title": "Daily Post",
+  "genre": "Newspaper",
+  "firstYear": "1960",
+  "finalYear": "9999",
+  "district": "Rotorua District",
+  "frequency": "Daily (except Sunday)",
+  "idMarcControlNumber": "4789176",
+  "idNZNewspapersV1": "10028",
+  "isCurrent": true,
+  "placecode": "04-05",
+  "placename": "Rotorua",
+  "region": "Bay of Plenty",
+  "urlCurrent": "http://www.rotoruadailypost.co.nz/",
+  "links": {
+    "1678": {
+      "direction": "Preceding",
+      "relationship": "Continues",
+      "target-description": "Rotorua Post"
+    },
+    "1683": {
+      "direction": "Has Edition",
+      "target-description": "Rotorua Weekender"
+    }
+  },
+  "sources": {
+    "2013-04-02T08:58:38.000Z": "Extracted from the New Zealand National Bibliography (MARC record 4789176) downloaded March 2013.",
+    "2014-03-21T11:47:43.000Z": "Modified by DataBot"
+  },
+  "revision": 6
+}

@@ -1,0 +1,25 @@
+{
+  "id": 2788,
+  "title": "Riversider (Hamilton)",
+  "genre": "Periodical",
+  "firstYear": "1990",
+  "finalYear": "1998",
+  "district": "Hamilton City",
+  "idMarcControlNumber": "3588306",
+  "idNZNewspapersV1": "7010",
+  "isCurrent": false,
+  "placecode": "03-05",
+  "placename": "Frankton",
+  "region": "Waikato",
+  "links": {
+    "undefined-unknown": {
+      "direction": "Preceding",
+      "relationship": "Continues in part",
+      "target-description": "Eastsider (Hamilton, N.Z.)"
+    }
+  },
+  "sources": {
+    "2013-04-02T08:58:38.000Z": "Extracted from the New Zealand National Bibliography (MARC record 3588306) downloaded March 2013."
+  },
+  "revision": 4
+}

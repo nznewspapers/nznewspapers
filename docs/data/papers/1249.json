@@ -1,0 +1,110 @@
+{
+  "id": 1249,
+  "title": "The Aucklander",
+  "genre": "Newspaper",
+  "firstYear": "2003",
+  "finalYear": "2012",
+  "district": "Auckland",
+  "idNZNewspapersV1": "378003",
+  "isCurrent": false,
+  "placecode": "02-01",
+  "placename": "Auckland",
+  "region": "Auckland",
+  "notes": {
+    "375011": "Numerous versions of The Aucklander were published for different parts of Auckland. These changed every few years."
+  },
+  "links": {
+    "1243": {
+      "direction": "Has Edition",
+      "target-description": "Aucklander (Shore Ed.)"
+    },
+    "1244": {
+      "direction": "Has Edition",
+      "target-description": "Aucklander (North Ed.)"
+    },
+    "1245": {
+      "direction": "Has Edition",
+      "target-description": "Aucklander (Central Ed.)"
+    },
+    "1246": {
+      "direction": "Has Edition",
+      "target-description": "Aucklander (City Ed.)"
+    },
+    "1247": {
+      "direction": "Has Edition",
+      "target-description": "Aucklander (East Ed.)"
+    },
+    "1248": {
+      "direction": "Has Edition",
+      "target-description": "Aucklander (South Ed.)"
+    },
+    "1250": {
+      "direction": "Has Edition",
+      "target-description": "Aucklander (West Ed.)"
+    },
+    "1257": {
+      "direction": "Has Edition",
+      "target-description": "Aucklander (Shore)"
+    },
+    "1258": {
+      "direction": "Has Edition",
+      "target-description": "Aucklander (Tamaki)"
+    },
+    "1259": {
+      "direction": "Has Edition",
+      "target-description": "Aucklander (Papakura Ed.)"
+    },
+    "1261": {
+      "direction": "Has Edition",
+      "target-description": "The  North Shore Aucklander"
+    },
+    "1265": {
+      "direction": "Has Edition",
+      "target-description": "The  Aucklander City"
+    },
+    "1266": {
+      "direction": "Has Edition",
+      "target-description": "The  Aucklander Manukau City"
+    },
+    "1267": {
+      "direction": "Has Edition",
+      "target-description": "The  Aucklander North Shore"
+    },
+    "1268": {
+      "direction": "Has Edition",
+      "target-description": "The  Aucklander Waitakere"
+    },
+    "1269": {
+      "direction": "Has Edition",
+      "target-description": "Aucklander (Counties Ed.)"
+    },
+    "1272": {
+      "direction": "Has Edition",
+      "target-description": "The Aucklander. Central."
+    },
+    "1273": {
+      "direction": "Has Edition",
+      "target-description": "The Aucklander. North."
+    },
+    "1274": {
+      "direction": "Has Edition",
+      "target-description": "The Aucklander. South."
+    },
+    "1275": {
+      "direction": "Has Edition",
+      "target-description": "The Aucklander. West."
+    },
+    "1276": {
+      "direction": "Has Masthead",
+      "target-description": "The Aucklander [2011]"
+    },
+    "1277": {
+      "direction": "Has Masthead",
+      "target-description": "Aucklander [2011]"
+    }
+  },
+  "sources": {
+    "2015-01-21T10:30:17.000Z": "Modified by gordon.paynter"
+  },
+  "revision": 26
+}

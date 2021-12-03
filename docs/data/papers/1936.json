@@ -1,0 +1,35 @@
+{
+  "id": 1936,
+  "title": "Dannevirke Advocate",
+  "genre": "Newspaper",
+  "firstYear": "1901",
+  "finalYear": "1912",
+  "district": "Tararua District",
+  "finalIssueDate": "1912-04-30",
+  "firstIssueDate": "1901-10-08",
+  "frequency": "Daily",
+  "idMarcControlNumber": "8137982",
+  "idNZNewspapersV1": "5043",
+  "idPapersPastCode": "BA",
+  "isCurrent": false,
+  "placecode": "08-06",
+  "placename": "Dannevirke",
+  "region": "Manawatu-Wanganui",
+  "urlDigitized": "http://paperspast.natlib.govt.nz/cgi-bin/paperspast?a=d&cl=CL1.BA",
+  "links": {
+    "1930": {
+      "direction": "Continues",
+      "target-description": "Bush Advocate"
+    },
+    "1938": {
+      "direction": "Succeeding",
+      "relationship": "Incorporated By",
+      "target-description": "Dannevirke Evening News"
+    }
+  },
+  "sources": {
+    "2013-04-02T08:58:38.000Z": "Extracted from the New Zealand National Bibliography (MARC record 8137982) downloaded March 2013.",
+    "2014-05-07T08:52:39.000Z": "Modified by DataBot"
+  },
+  "revision": 12
+}

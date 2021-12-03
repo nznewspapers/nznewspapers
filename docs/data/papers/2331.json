@@ -1,0 +1,20 @@
+{
+  "id": 2331,
+  "title": "Lantern",
+  "genre": "Newspaper",
+  "firstYear": "1870",
+  "finalYear": "1870",
+  "district": "Westland District",
+  "frequency": "Weekly",
+  "idMarcControlNumber": "8164421",
+  "idNZNewspapersV1": "72079",
+  "isCurrent": false,
+  "placecode": "11-03",
+  "placename": "Hokitika",
+  "region": "West Coast",
+  "sources": {
+    "2013-04-02T08:58:38.000Z": "Extracted from the New Zealand National Bibliography (MARC record 8164421) downloaded March 2013.",
+    "2014-05-07T09:16:44.000Z": "Modified by DataBot"
+  },
+  "revision": 4
+}

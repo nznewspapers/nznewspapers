@@ -1,0 +1,27 @@
+{
+  "id": 1034,
+  "title": "Whangarei Comet and Northern Advertiser",
+  "genre": "Newspaper",
+  "firstYear": "1875",
+  "finalYear": "1877",
+  "district": "Whangarei District",
+  "frequency": "Weekly",
+  "idMarcControlNumber": "8187824",
+  "idNZNewspapersV1": "60167",
+  "isCurrent": false,
+  "placecode": "01-02",
+  "placename": "Whangarei",
+  "region": "Northland",
+  "links": {
+    "1035": {
+      "direction": "Succeeding",
+      "relationship": "Continued by",
+      "target-description": "Northern Advocate"
+    }
+  },
+  "sources": {
+    "2013-04-02T08:58:38.000Z": "Extracted from the New Zealand National Bibliography (MARC record 8187824) downloaded March 2013.",
+    "2014-05-07T09:23:10.000Z": "Modified by DataBot"
+  },
+  "revision": 5
+}

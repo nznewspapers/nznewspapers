@@ -1,0 +1,34 @@
+{
+  "id": 1577,
+  "title": "Times",
+  "genre": "Masthead",
+  "firstYear": "1968",
+  "finalYear": "1976",
+  "district": "Hamilton City",
+  "frequency": "Daily",
+  "idMarcControlNumber": "8183992",
+  "idNZNewspapersV1": "61132",
+  "isCurrent": false,
+  "placecode": "03-05",
+  "placename": "Hamilton",
+  "region": "Waikato",
+  "links": {
+    "1518": {
+      "direction": "Continues",
+      "target-description": "The Waikato Times [Ngaruawahia]"
+    },
+    "1568": {
+      "direction": "Is Masthead Of",
+      "target-description": "The Waikato Times"
+    },
+    "1582": {
+      "direction": "Continued By",
+      "target-description": "The Waikato Times"
+    }
+  },
+  "sources": {
+    "2013-04-02T08:58:38.000Z": "Extracted from the New Zealand National Bibliography (MARC record 8183992) downloaded March 2013.",
+    "2014-04-10T09:31:44.000Z": "Modified by Linkerbot"
+  },
+  "revision": 7
+}

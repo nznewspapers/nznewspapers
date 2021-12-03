@@ -1,0 +1,20 @@
+{
+  "id": 2879,
+  "title": "Downtown",
+  "genre": "Periodical",
+  "firstYear": "1962",
+  "finalYear": "19uu",
+  "district": "Wellington City",
+  "frequency": "Monthly",
+  "idMarcControlNumber": "4872044",
+  "idNZNewspapersV1": "13026",
+  "isCurrent": false,
+  "placecode": "09-08-wellington",
+  "placename": "Wellington",
+  "region": "Wellington",
+  "sources": {
+    "2013-04-02T08:58:38.000Z": "Extracted from the New Zealand National Bibliography (MARC record 4872044) downloaded March 2013.",
+    "2014-05-07T09:00:37.000Z": "Modified by DataBot"
+  },
+  "revision": 4
+}

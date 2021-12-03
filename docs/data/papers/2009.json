@@ -1,0 +1,20 @@
+{
+  "id": 2009,
+  "title": "Wairarapa Valley Guardian",
+  "genre": "Newspaper",
+  "firstYear": "1878",
+  "finalYear": "1880",
+  "district": "Carterton District",
+  "frequency": "Three issues per week",
+  "idMarcControlNumber": "8185419",
+  "idNZNewspapersV1": "64167",
+  "isCurrent": false,
+  "placecode": "09-03",
+  "placename": "Carterton",
+  "region": "Wellington",
+  "sources": {
+    "2013-04-02T08:58:38.000Z": "Extracted from the New Zealand National Bibliography (MARC record 8185419) downloaded March 2013.",
+    "2014-05-07T09:05:01.000Z": "Modified by DataBot"
+  },
+  "revision": 4
+}

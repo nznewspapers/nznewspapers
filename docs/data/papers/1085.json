@@ -1,0 +1,27 @@
+{
+  "id": 1085,
+  "title": "The Kaipara Advertiser and Waitemata Chronicle",
+  "genre": "Newspaper",
+  "firstYear": "1905",
+  "finalYear": "1914",
+  "district": "Auckland",
+  "finalIssueDate": "1914-03-25",
+  "idNZNewspapersV1": "141010",
+  "idPapersPastCode": "KWE",
+  "isCurrent": false,
+  "placecode": "02-01",
+  "placename": "Helensville",
+  "region": "Auckland",
+  "urlDigitized": "http://paperspast.natlib.govt.nz/cgi-bin/paperspast?a=d&cl=CL1.KWE",
+  "links": {
+    "1089": {
+      "direction": "Succeeding",
+      "relationship": "Continued by",
+      "target-description": "The  Kaipara and  Waitemata Echo"
+    }
+  },
+  "sources": {
+    "2013-04-27T09:59:32.000Z": "Modified by gordon.paynter"
+  },
+  "revision": 7
+}

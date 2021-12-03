@@ -1,0 +1,21 @@
+{
+  "id": 1497,
+  "title": "Bay Beacon (Whitianga)",
+  "genre": "Newspaper",
+  "firstYear": "2003",
+  "finalYear": "9999",
+  "district": "Thames-Coromandel District",
+  "frequency": "Weekly",
+  "idMarcControlNumber": "8382851",
+  "idNZNewspapersV1": "7050",
+  "isCurrent": true,
+  "placecode": "03-01",
+  "placename": "Whitianga",
+  "price": "Gratis",
+  "region": "Waikato",
+  "sources": {
+    "2013-04-02T08:58:38.000Z": "Extracted from the New Zealand National Bibliography (MARC record 8382851) downloaded March 2013.",
+    "2014-05-07T09:50:38.000Z": "Modified by DataBot"
+  },
+  "revision": 6
+}

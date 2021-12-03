@@ -1,0 +1,20 @@
+{
+  "id": 1770,
+  "title": "Napier Suburban Star",
+  "genre": "Newspaper",
+  "firstYear": "1962",
+  "finalYear": "uuuu",
+  "district": "Napier City",
+  "frequency": "Monthly",
+  "idMarcControlNumber": "8169307",
+  "idNZNewspapersV1": "70117",
+  "isCurrent": false,
+  "placecode": "06-03",
+  "placename": "Napier",
+  "region": "Hawke's Bay",
+  "sources": {
+    "2013-04-02T08:58:38.000Z": "Extracted from the New Zealand National Bibliography (MARC record 8169307) downloaded March 2013.",
+    "2014-05-07T09:02:20.000Z": "Modified by DataBot"
+  },
+  "revision": 4
+}

@@ -1,0 +1,20 @@
+{
+  "id": 2231,
+  "title": "Guardian [Motueka]",
+  "genre": "Newspaper",
+  "firstYear": "1993",
+  "finalYear": "9999",
+  "district": "Tasman District",
+  "idMarcControlNumber": "4420090",
+  "idNZNewspapersV1": "7023",
+  "isCurrent": true,
+  "placecode": "10-01",
+  "placename": "Motueka",
+  "price": "Gratis",
+  "region": "Top of the South",
+  "sources": {
+    "2013-04-02T08:58:38.000Z": "Extracted from the New Zealand National Bibliography (MARC record 4420090) downloaded March 2013.",
+    "2014-05-07T09:48:45.000Z": "Modified by DataBot"
+  },
+  "revision": 4
+}

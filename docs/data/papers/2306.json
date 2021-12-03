@@ -1,0 +1,19 @@
+{
+  "id": 2306,
+  "title": "Taffytown and Glasseye Chronicle",
+  "genre": "Newspaper",
+  "firstYear": "1930",
+  "finalYear": "uuuu",
+  "district": "Buller District",
+  "idMarcControlNumber": "8183009",
+  "idNZNewspapersV1": "59144",
+  "isCurrent": false,
+  "placecode": "11-01",
+  "placename": "Westport",
+  "region": "West Coast",
+  "sources": {
+    "2013-04-02T08:58:38.000Z": "Extracted from the New Zealand National Bibliography (MARC record 8183009) downloaded March 2013.",
+    "2013-04-15T12:14:32.000Z": "Modified by gordon.paynter"
+  },
+  "revision": 2
+}

@@ -1,0 +1,27 @@
+{
+  "id": 1501,
+  "title": "Hauraki Tribune and County of Ohinemuri Advertiser",
+  "genre": "Newspaper",
+  "firstYear": "1881",
+  "finalYear": "1896",
+  "district": "Hauraki District",
+  "frequency": "Weekly",
+  "idMarcControlNumber": "8156597",
+  "idNZNewspapersV1": "72067",
+  "isCurrent": false,
+  "placecode": "03-02",
+  "placename": "Paeroa",
+  "region": "Waikato",
+  "links": {
+    "1502": {
+      "direction": "Succeeding",
+      "relationship": "Incorporated by",
+      "target-description": "Ohinemuri Gazette"
+    }
+  },
+  "sources": {
+    "2013-04-02T08:58:38.000Z": "Extracted from the New Zealand National Bibliography (MARC record 8156597) downloaded March 2013.",
+    "2014-05-07T09:15:56.000Z": "Modified by DataBot"
+  },
+  "revision": 5
+}

@@ -1,0 +1,23 @@
+{
+  "id": 1791,
+  "title": "Taranaki Herald",
+  "genre": "Newspaper",
+  "firstYear": "1852",
+  "finalYear": "1989",
+  "district": "New Plymouth District",
+  "firstIssueDate": "1852-08-04",
+  "frequency": "Daily (except Sunday)",
+  "idMarcControlNumber": "2807004",
+  "idNZNewspapersV1": "3003",
+  "idPapersPastCode": "TH",
+  "isCurrent": false,
+  "placecode": "07-01",
+  "placename": "New Plymouth",
+  "region": "Taranaki",
+  "urlDigitized": "http://paperspast.natlib.govt.nz/cgi-bin/paperspast?a=d&cl=CL1.TH",
+  "sources": {
+    "2013-04-02T08:58:38.000Z": "Extracted from the New Zealand National Bibliography (MARC record 2807004) downloaded March 2013.",
+    "2014-03-21T11:49:35.000Z": "Modified by DataBot"
+  },
+  "revision": 8
+}

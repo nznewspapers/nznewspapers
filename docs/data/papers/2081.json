@@ -1,0 +1,20 @@
+{
+  "id": 2081,
+  "title": "Times Herald",
+  "genre": "Newspaper",
+  "firstYear": "1962",
+  "finalYear": "1972",
+  "district": "Wellington City",
+  "frequency": "Monthly",
+  "idMarcControlNumber": "8184000",
+  "idNZNewspapersV1": "64157",
+  "isCurrent": false,
+  "placecode": "09-08",
+  "placename": "Johnsonville",
+  "region": "Wellington",
+  "sources": {
+    "2013-04-02T08:58:38.000Z": "Extracted from the New Zealand National Bibliography (MARC record 8184000) downloaded March 2013.",
+    "2014-05-07T09:03:09.000Z": "Modified by DataBot"
+  },
+  "revision": 4
+}

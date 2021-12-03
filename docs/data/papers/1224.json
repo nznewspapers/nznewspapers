@@ -1,0 +1,20 @@
+{
+  "id": 1224,
+  "title": "Times Midweek",
+  "genre": "Newspaper",
+  "firstYear": "1993",
+  "finalYear": "1994",
+  "district": "Auckland",
+  "frequency": "Weekly",
+  "idMarcControlNumber": "8184001",
+  "idNZNewspapersV1": "68146",
+  "isCurrent": false,
+  "placecode": "02-01",
+  "placename": "Newmarket",
+  "region": "Auckland",
+  "sources": {
+    "2013-04-02T08:58:38.000Z": "Extracted from the New Zealand National Bibliography (MARC record 8184001) downloaded March 2013.",
+    "2014-05-07T09:21:19.000Z": "Modified by DataBot"
+  },
+  "revision": 4
+}

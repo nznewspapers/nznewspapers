@@ -1,0 +1,29 @@
+{
+  "id": 1627,
+  "title": "Taupo Weekender",
+  "genre": "Newspaper",
+  "firstYear": "1983",
+  "finalYear": "9999",
+  "district": "Taupo District",
+  "frequency": "Weekly",
+  "idMarcControlNumber": "3531257",
+  "idNZNewspapersV1": "1011",
+  "isCurrent": true,
+  "placecode": "03-10",
+  "placename": "Taupo",
+  "price": "Gratis",
+  "region": "Waikato",
+  "urlCurrent": "http://www.facebook.com/pages/Taupo-Weekender/105073816244171",
+  "links": {
+    "1625": {
+      "direction": "Continues",
+      "relationship": "Absorbed",
+      "target-description": "Turangi Chronicle"
+    }
+  },
+  "sources": {
+    "2013-04-02T08:58:38.000Z": "Extracted from the New Zealand National Bibliography (MARC record 3531257) downloaded March 2013.",
+    "2015-01-06T09:24:58.000Z": "Modified by gordon.paynter"
+  },
+  "revision": 7
+}

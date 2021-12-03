@@ -1,0 +1,20 @@
+{
+  "id": 2970,
+  "title": "Chatham Islander",
+  "genre": "Periodical",
+  "firstYear": "1992",
+  "finalYear": "9999",
+  "district": "Chatham Islands Council",
+  "frequency": "Monthly",
+  "idMarcControlNumber": "4082336",
+  "idNZNewspapersV1": "7017",
+  "isCurrent": true,
+  "placecode": "19-01",
+  "placename": "Chatham Islands",
+  "region": "Chatham Islands",
+  "sources": {
+    "2013-04-02T08:58:38.000Z": "Extracted from the New Zealand National Bibliography (MARC record 4082336) downloaded March 2013.",
+    "2014-05-07T09:00:12.000Z": "Modified by DataBot"
+  },
+  "revision": 4
+}

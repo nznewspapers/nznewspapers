@@ -1,0 +1,20 @@
+{
+  "id": 2020,
+  "title": "Martinborough Star",
+  "genre": "Newspaper",
+  "firstYear": "1904",
+  "finalYear": "1962",
+  "district": "South Wairarapa District",
+  "frequency": "Three issues per week",
+  "idMarcControlNumber": "8167567",
+  "idNZNewspapersV1": "72086",
+  "isCurrent": false,
+  "placecode": "09-04",
+  "placename": "Martinborough",
+  "region": "Wellington",
+  "sources": {
+    "2013-04-02T08:58:38.000Z": "Extracted from the New Zealand National Bibliography (MARC record 8167567) downloaded March 2013.",
+    "2014-05-07T09:04:22.000Z": "Modified by DataBot"
+  },
+  "revision": 4
+}

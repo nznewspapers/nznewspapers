@@ -1,0 +1,31 @@
+{
+  "id": 1040,
+  "title": "Northern Mail",
+  "genre": "Newspaper",
+  "firstYear": "1908",
+  "finalYear": "1913",
+  "district": "Whangarei District",
+  "frequency": "Three issues per week",
+  "idMarcControlNumber": "8176578",
+  "idNZNewspapersV1": "72105",
+  "isCurrent": false,
+  "placecode": "01-02",
+  "placename": "Whangarei",
+  "region": "Northland",
+  "links": {
+    "1035": {
+      "direction": "Succeeding",
+      "relationship": "Incorporated by",
+      "target-description": "Northern Advocate"
+    },
+    "1041": {
+      "direction": "Has Edition",
+      "target-description": "Northern Mail Weekly"
+    }
+  },
+  "sources": {
+    "2013-04-02T08:58:38.000Z": "Extracted from the New Zealand National Bibliography (MARC record 8176578) downloaded March 2013.",
+    "2014-05-07T09:04:25.000Z": "Modified by DataBot"
+  },
+  "revision": 6
+}

@@ -1,0 +1,30 @@
+{
+  "id": 1264,
+  "title": "Franklin Papakura Life",
+  "genre": "Newspaper",
+  "firstYear": "2008",
+  "finalYear": "2010",
+  "alternateTitle": {
+    "98262068": "Franklin Papakura Life: Focusing on the Good in our Community"
+  },
+  "district": "Auckland",
+  "frequency": "Weekly",
+  "idMarcControlNumber": "12236345",
+  "idNZNewspapersV1": "3060",
+  "isCurrent": false,
+  "placecode": "02-01",
+  "placename": "Pukekohe",
+  "price": "Gratis",
+  "region": "Auckland",
+  "links": {
+    "1263": {
+      "direction": "Continues",
+      "target-description": "Franklin Life"
+    }
+  },
+  "sources": {
+    "2013-04-02T08:58:38.000Z": "Extracted from the New Zealand National Bibliography (MARC record 12236345) downloaded March 2013.",
+    "2015-01-21T10:56:05.000Z": "Modified by gordon.paynter"
+  },
+  "revision": 9
+}

@@ -1,0 +1,27 @@
+{
+  "id": 2294,
+  "title": "Reefton Courier and Inangahua Advertiser",
+  "genre": "Newspaper",
+  "firstYear": "1874",
+  "finalYear": "1874",
+  "district": "Buller District",
+  "frequency": "Daily",
+  "idMarcControlNumber": "8181423",
+  "idNZNewspapersV1": "58127",
+  "isCurrent": false,
+  "placecode": "11-01",
+  "placename": "Reefton",
+  "region": "West Coast",
+  "links": {
+    "2297": {
+      "direction": "Succeeding",
+      "relationship": "Continued by",
+      "target-description": "The  Inangahua Times"
+    }
+  },
+  "sources": {
+    "2013-04-02T08:58:38.000Z": "Extracted from the New Zealand National Bibliography (MARC record 8181423) downloaded March 2013.",
+    "2014-03-21T11:40:13.000Z": "Modified by DataBot"
+  },
+  "revision": 5
+}

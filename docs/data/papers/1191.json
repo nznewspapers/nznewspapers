@@ -1,0 +1,20 @@
+{
+  "id": 1191,
+  "title": "East City News Advertiser",
+  "genre": "Newspaper",
+  "firstYear": "1981",
+  "finalYear": "1981",
+  "district": "Auckland",
+  "frequency": "Weekly",
+  "idMarcControlNumber": "8138565",
+  "idNZNewspapersV1": "67075",
+  "isCurrent": false,
+  "placecode": "02-01",
+  "placename": "Howick",
+  "region": "Auckland",
+  "sources": {
+    "2013-04-02T08:58:38.000Z": "Extracted from the New Zealand National Bibliography (MARC record 8138565) downloaded March 2013.",
+    "2014-05-07T09:14:57.000Z": "Modified by DataBot"
+  },
+  "revision": 4
+}

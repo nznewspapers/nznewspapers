@@ -1,0 +1,43 @@
+{
+  "id": 2237,
+  "title": "The Nelson Examiner",
+  "genre": "Newspaper",
+  "firstYear": "1842",
+  "finalYear": "1874",
+  "district": "Nelson City",
+  "finalIssueDate": "1874-01-15",
+  "firstIssueDate": "1842-03-12",
+  "idNZNewspapersV1": "98002",
+  "idPapersPastCode": "NENZC",
+  "isCurrent": false,
+  "placecode": "10-02",
+  "placename": "Nelson",
+  "region": "Top of the South",
+  "urlDigitized": "http://paperspast.natlib.govt.nz/cgi-bin/paperspast?a=d&cl=CL1.NENZC",
+  "links": {
+    "2236": {
+      "direction": "Has Masthead",
+      "target-description": "The Nelson Examiner and New Zealand Chronicle"
+    },
+    "2238": {
+      "direction": "Has Masthead",
+      "target-description": "The Nelson Examiner [1855-1873]"
+    },
+    "2242": {
+      "direction": "Has Edition",
+      "target-description": "Illustrated Examiner"
+    },
+    "2243": {
+      "direction": "Has Masthead",
+      "target-description": "Nelson Daily Examiner"
+    },
+    "2244": {
+      "direction": "Has Edition",
+      "target-description": "Nelson Weekly Examiner"
+    }
+  },
+  "sources": {
+    "2013-10-01T23:18:33.000Z": "Modified by gordon.paynter"
+  },
+  "revision": 13
+}

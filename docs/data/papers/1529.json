@@ -1,0 +1,54 @@
+{
+  "id": 1529,
+  "title": "Huntly Press and District Gazette",
+  "genre": "Newspaper",
+  "firstYear": "1912",
+  "finalYear": "1995",
+  "district": "Waikato District",
+  "idMarcControlNumber": "13494322",
+  "idNZNewspapersV1": "14292637",
+  "isCurrent": false,
+  "placecode": "03-03",
+  "placename": "Huntly",
+  "region": "Waikato",
+  "links": {
+    "1528": {
+      "direction": "Has Masthead",
+      "target-description": "Huntly Press and  District Gazette"
+    },
+    "1533": {
+      "direction": "Preceding",
+      "relationship": "Incorporates",
+      "target-description": "Te  Kauwhata News Flash"
+    },
+    "1535": {
+      "direction": "Has Masthead",
+      "target-description": "Press"
+    },
+    "1538": {
+      "direction": "Has Masthead",
+      "target-description": "Huntly Press (1983)"
+    },
+    "1539": {
+      "direction": "Has Masthead",
+      "target-description": "Huntly and  Ngaruawahia Press"
+    },
+    "1541": {
+      "direction": "Has Masthead",
+      "target-description": "Huntly Press"
+    },
+    "1544": {
+      "direction": "Has Masthead",
+      "target-description": "Huntly and  Districts Press"
+    },
+    "1545": {
+      "direction": "Has Edition",
+      "target-description": "Huntly Press Expressions"
+    }
+  },
+  "sources": {
+    "2013-04-02T08:58:38.000Z": "Extracted from the New Zealand National Bibliography (MARC record 13494322) downloaded March 2013.",
+    "2014-05-18T11:44:20.000Z": "Modified by gordon.paynter"
+  },
+  "revision": 10
+}

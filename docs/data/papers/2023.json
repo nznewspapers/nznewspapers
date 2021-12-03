@@ -1,0 +1,31 @@
+{
+  "id": 2023,
+  "title": "Chronicle",
+  "genre": "Newspaper",
+  "firstYear": "1969",
+  "finalYear": "1992",
+  "district": "South Wairarapa District",
+  "frequency": "Weekly",
+  "idMarcControlNumber": "3531201",
+  "idNZNewspapersV1": "12004",
+  "isCurrent": false,
+  "placecode": "09-04",
+  "placename": "Featherston",
+  "region": "Wellington",
+  "links": {
+    "2016": {
+      "direction": "Succeeding",
+      "relationship": "Merged into",
+      "target-description": "Wairarapa News & The Chronicle"
+    },
+    "2022": {
+      "direction": "Continues",
+      "target-description": "Featherston Chronicle"
+    }
+  },
+  "sources": {
+    "2013-04-02T08:58:38.000Z": "Extracted from the New Zealand National Bibliography (MARC record 3531201) downloaded March 2013.",
+    "2014-05-07T09:10:37.000Z": "Modified by DataBot"
+  },
+  "revision": 6
+}

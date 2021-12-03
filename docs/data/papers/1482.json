@@ -1,0 +1,20 @@
+{
+  "id": 1482,
+  "title": "Coromandel County News",
+  "genre": "Newspaper",
+  "firstYear": "1890",
+  "finalYear": "1930",
+  "district": "Thames-Coromandel District",
+  "frequency": "Weekly",
+  "idMarcControlNumber": "8136901",
+  "idNZNewspapersV1": "67072",
+  "isCurrent": false,
+  "placecode": "03-01",
+  "placename": "Coromandel",
+  "region": "Waikato",
+  "sources": {
+    "2013-04-02T08:58:38.000Z": "Extracted from the New Zealand National Bibliography (MARC record 8136901) downloaded March 2013.",
+    "2014-05-07T09:14:34.000Z": "Modified by DataBot"
+  },
+  "revision": 4
+}

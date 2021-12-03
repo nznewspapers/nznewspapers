@@ -1,0 +1,20 @@
+{
+  "id": 1943,
+  "title": "Woodville Express",
+  "genre": "Newspaper",
+  "firstYear": "1960",
+  "finalYear": "1963",
+  "district": "Tararua District",
+  "frequency": "Weekly",
+  "idMarcControlNumber": "8188047",
+  "idNZNewspapersV1": "61162",
+  "isCurrent": false,
+  "placecode": "08-06",
+  "placename": "Pahiatua",
+  "region": "Manawatu-Wanganui",
+  "sources": {
+    "2013-04-02T08:58:38.000Z": "Extracted from the New Zealand National Bibliography (MARC record 8188047) downloaded March 2013.",
+    "2014-05-07T09:23:11.000Z": "Modified by DataBot"
+  },
+  "revision": 4
+}

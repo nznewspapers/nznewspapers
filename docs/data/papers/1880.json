@@ -1,0 +1,20 @@
+{
+  "id": 1880,
+  "title": "Weekly Herald",
+  "genre": "Newspaper",
+  "firstYear": "1869",
+  "finalYear": "1880",
+  "district": "Wanganui District",
+  "frequency": "Weekly",
+  "idMarcControlNumber": "8187326",
+  "idNZNewspapersV1": "71166",
+  "isCurrent": false,
+  "placecode": "08-03",
+  "placename": "Wanganui",
+  "region": "Manawatu-Wanganui",
+  "sources": {
+    "2013-04-02T08:58:38.000Z": "Extracted from the New Zealand National Bibliography (MARC record 8187326) downloaded March 2013.",
+    "2014-05-07T09:22:35.000Z": "Modified by DataBot"
+  },
+  "revision": 4
+}

@@ -1,0 +1,31 @@
+{
+  "id": 1275,
+  "title": "The Aucklander. West.",
+  "genre": "Alternate Edition",
+  "firstYear": "2010",
+  "finalYear": "2011",
+  "district": "Auckland",
+  "frequency": "Weekly",
+  "idMarcControlNumber": "13323448",
+  "idNZNewspapersV1": "10070",
+  "isCurrent": false,
+  "placecode": "02-01",
+  "placename": "Auckland",
+  "region": "Auckland",
+  "links": {
+    "1249": {
+      "direction": "Is Edition Of",
+      "target-description": "The Aucklander"
+    },
+    "1268": {
+      "direction": "Preceding",
+      "relationship": "Continues",
+      "target-description": "Aucklander Waitakere"
+    }
+  },
+  "sources": {
+    "2013-04-02T08:58:38.000Z": "Extracted from the New Zealand National Bibliography (MARC record 13323448) downloaded March 2013.",
+    "2015-01-21T10:27:56.000Z": "Modified by gordon.paynter"
+  },
+  "revision": 6
+}

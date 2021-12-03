@@ -1,0 +1,26 @@
+{
+  "id": 2615,
+  "title": "Evening Star Sports Special",
+  "genre": "Weekly Edition",
+  "firstYear": "1909",
+  "finalYear": "1941",
+  "district": "Dunedin City",
+  "frequency": "Weekly",
+  "idMarcControlNumber": "8141958",
+  "idNZNewspapersV1": "66073",
+  "isCurrent": false,
+  "placecode": "13-03",
+  "placename": "Dunedin",
+  "region": "Otago",
+  "links": {
+    "2578": {
+      "direction": "Is Edition Of",
+      "target-description": "Evening Star"
+    }
+  },
+  "sources": {
+    "2013-04-02T08:58:38.000Z": "Extracted from the New Zealand National Bibliography (MARC record 8141958) downloaded March 2013.",
+    "2014-06-01T09:09:11.000Z": "Modified by gordon.paynter"
+  },
+  "revision": 5
+}

@@ -1,0 +1,26 @@
+{
+  "id": 1789,
+  "title": "Mail Weekender",
+  "genre": "Weekend Edition",
+  "firstYear": "1984",
+  "finalYear": "1985",
+  "district": "Central Hawke's Bay District",
+  "frequency": "Weekly",
+  "idMarcControlNumber": "8164645",
+  "idNZNewspapersV1": "65105",
+  "isCurrent": false,
+  "placecode": "06-04",
+  "placename": "Waipukurau",
+  "region": "Hawke's Bay",
+  "links": {
+    "1788": {
+      "direction": "Is Edition Of",
+      "target-description": "Mail"
+    }
+  },
+  "sources": {
+    "2013-04-02T08:58:38.000Z": "Extracted from the New Zealand National Bibliography (MARC record 8164645) downloaded March 2013.",
+    "2014-05-07T09:17:00.000Z": "Modified by DataBot"
+  },
+  "revision": 5
+}

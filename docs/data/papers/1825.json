@@ -1,0 +1,20 @@
+{
+  "id": 1825,
+  "title": "Stratford Courier",
+  "genre": "Newspaper",
+  "firstYear": "1939",
+  "finalYear": "1940",
+  "district": "Stratford District",
+  "frequency": "Weekly",
+  "idMarcControlNumber": "8182085",
+  "idNZNewspapersV1": "71145",
+  "isCurrent": false,
+  "placecode": "07-02",
+  "placename": "Stratford",
+  "region": "Taranaki",
+  "sources": {
+    "2013-04-02T08:58:38.000Z": "Extracted from the New Zealand National Bibliography (MARC record 8182085) downloaded March 2013.",
+    "2014-05-07T09:20:38.000Z": "Modified by DataBot"
+  },
+  "revision": 4
+}

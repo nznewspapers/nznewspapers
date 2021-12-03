@@ -1,0 +1,20 @@
+{
+  "id": 2827,
+  "title": "Te Maunga Korero",
+  "genre": "Periodical",
+  "firstYear": "1992",
+  "finalYear": "1993",
+  "district": "New Plymouth District",
+  "idMarcControlNumber": "4205719",
+  "idNZNewspapersV1": "2023",
+  "isCurrent": false,
+  "placecode": "07-01",
+  "placename": "New Plymouth",
+  "price": "Gratis",
+  "region": "Taranaki",
+  "sources": {
+    "2013-04-02T08:58:38.000Z": "Extracted from the New Zealand National Bibliography (MARC record 4205719) downloaded March 2013.",
+    "2014-05-07T09:48:27.000Z": "Modified by DataBot"
+  },
+  "revision": 4
+}

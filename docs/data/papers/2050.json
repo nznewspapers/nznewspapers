@@ -1,0 +1,26 @@
+{
+  "id": 2050,
+  "title": "Wainuiomata & Eastern Bays Courier",
+  "genre": "Newspaper",
+  "firstYear": "1967",
+  "finalYear": "1973",
+  "district": "Hutt City",
+  "frequency": "Weekly",
+  "idMarcControlNumber": "8185289",
+  "idNZNewspapersV1": "65174",
+  "isCurrent": false,
+  "placecode": "09-07",
+  "placename": "Eastbourne",
+  "region": "Wellington",
+  "links": {
+    "2053": {
+      "direction": "Continued By",
+      "target-description": "Courier News"
+    }
+  },
+  "sources": {
+    "2013-04-02T08:58:38.000Z": "Extracted from the New Zealand National Bibliography (MARC record 8185289) downloaded March 2013.",
+    "2014-11-19T08:52:48.000Z": "Modified by gordon.paynter"
+  },
+  "revision": 5
+}

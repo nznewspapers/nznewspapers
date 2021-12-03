@@ -1,0 +1,33 @@
+{
+  "id": 2633,
+  "title": "The Star",
+  "genre": "Newspaper",
+  "firstYear": "1998",
+  "finalYear": "9999",
+  "district": "Dunedin City",
+  "frequency": "Weekly",
+  "idMarcControlNumber": "4883614",
+  "idNZNewspapersV1": "13028",
+  "isCurrent": true,
+  "placecode": "13-03",
+  "placename": "Dunedin",
+  "region": "Otago",
+  "urlCurrent": "http://thestar.co.nz/",
+  "links": {
+    "2629": {
+      "direction": "Preceding",
+      "relationship": "Formed by the Union",
+      "target-description": "Dunedin Star Midweek"
+    },
+    "2630": {
+      "direction": "Preceding",
+      "relationship": "Formed by the Union",
+      "target-description": "Dunedin Star Weekender"
+    }
+  },
+  "sources": {
+    "2013-04-02T08:58:38.000Z": "Extracted from the New Zealand National Bibliography (MARC record 4883614) downloaded March 2013.",
+    "2014-06-01T09:35:21.000Z": "Modified by gordon.paynter"
+  },
+  "revision": 6
+}

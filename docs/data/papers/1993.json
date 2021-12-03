@@ -1,0 +1,25 @@
+{
+  "id": 1993,
+  "title": "Wairarapa Times-Age Midweek Farm & Community",
+  "genre": "Weekly Edition",
+  "firstYear": "1988",
+  "finalYear": "9999",
+  "district": "Masterton District",
+  "idMarcControlNumber": "2858235",
+  "idNZNewspapersV1": "16001",
+  "isCurrent": true,
+  "placecode": "09-01",
+  "placename": "Masterton",
+  "region": "Wellington",
+  "links": {
+    "1989": {
+      "direction": "Is Edition Of",
+      "target-description": "Wairarapa Times-Age"
+    }
+  },
+  "sources": {
+    "2013-04-02T08:58:38.000Z": "Extracted from the New Zealand National Bibliography (MARC record 2858235) downloaded March 2013.",
+    "2014-05-15T04:30:11.000Z": "Modified by DataBot"
+  },
+  "revision": 3
+}

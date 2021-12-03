@@ -1,0 +1,36 @@
+{
+  "id": 1979,
+  "title": "Wairarapa Register",
+  "genre": "Newspaper",
+  "firstYear": "1877",
+  "finalYear": "1878",
+  "district": "Masterton District",
+  "frequency": "Three issues per week",
+  "idMarcControlNumber": "8185414",
+  "idNZNewspapersV1": "59159",
+  "isCurrent": false,
+  "placecode": "09-01",
+  "placename": "Masterton",
+  "region": "Wellington",
+  "links": {
+    "1977": {
+      "direction": "Preceding",
+      "relationship": "Formed by the union",
+      "target-description": "Wairarapa News and  Valley and  East Coast Advertiser"
+    },
+    "1978": {
+      "direction": "Preceding",
+      "relationship": "Formed by the union",
+      "target-description": "News Letter"
+    },
+    "1980": {
+      "direction": "Continued By",
+      "target-description": "Wairarapa Free Press"
+    }
+  },
+  "sources": {
+    "2013-04-02T08:58:38.000Z": "Extracted from the New Zealand National Bibliography (MARC record 8185414) downloaded March 2013.",
+    "2014-11-11T10:50:46.000Z": "Modified by gordon.paynter"
+  },
+  "revision": 7
+}

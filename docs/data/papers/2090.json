@@ -1,0 +1,19 @@
+{
+  "id": 2090,
+  "title": "Wellingtonian",
+  "genre": "Newspaper",
+  "firstYear": "199u",
+  "finalYear": "9999",
+  "district": "Wellington City",
+  "idMarcControlNumber": "5252214",
+  "idNZNewspapersV1": "14262622",
+  "isCurrent": true,
+  "placecode": "09-08",
+  "placename": "Wellington",
+  "region": "Wellington",
+  "sources": {
+    "2013-04-02T08:58:38.000Z": "Extracted from the New Zealand National Bibliography (MARC record 5252214) downloaded March 2013.",
+    "2014-04-23T10:13:18.000Z": "Modified by MarcLoaderBot"
+  },
+  "revision": 2
+}

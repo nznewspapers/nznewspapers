@@ -1,0 +1,26 @@
+{
+  "id": 1543,
+  "title": "Te Kauwhata Tatler",
+  "genre": "Newspaper",
+  "firstYear": "1990",
+  "finalYear": "1991",
+  "district": "Waikato District",
+  "frequency": "Fortnightly",
+  "idMarcControlNumber": "8183900",
+  "idNZNewspapersV1": "64153",
+  "isCurrent": false,
+  "placecode": "03-03",
+  "placename": "Te Kauwhata",
+  "region": "Waikato",
+  "links": {
+    "2779": {
+      "direction": "Continued By",
+      "target-description": "Community Tatler"
+    }
+  },
+  "sources": {
+    "2013-04-02T08:58:38.000Z": "Extracted from the New Zealand National Bibliography (MARC record 8183900) downloaded March 2013.",
+    "2014-05-18T11:38:51.000Z": "Modified by gordon.paynter"
+  },
+  "revision": 5
+}

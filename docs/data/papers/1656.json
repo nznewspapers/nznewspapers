@@ -1,0 +1,20 @@
+{
+  "id": 1656,
+  "title": "Mount and Papamoa Times",
+  "genre": "Newspaper",
+  "firstYear": "1994",
+  "finalYear": "2001",
+  "district": "Tauranga City",
+  "frequency": "Weekly",
+  "idMarcControlNumber": "6830306",
+  "idNZNewspapersV1": "7040",
+  "isCurrent": false,
+  "placecode": "04-02",
+  "placename": "Tauranga",
+  "region": "Bay of Plenty",
+  "sources": {
+    "2013-04-02T08:58:38.000Z": "Extracted from the New Zealand National Bibliography (MARC record 6830306) downloaded March 2013.",
+    "2014-05-07T09:13:15.000Z": "Modified by DataBot"
+  },
+  "revision": 4
+}

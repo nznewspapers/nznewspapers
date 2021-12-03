@@ -1,0 +1,18 @@
+{
+  "id": 2980,
+  "title": "Plains Profile",
+  "genre": "Periodical",
+  "firstYear": "1991",
+  "finalYear": "9999",
+  "district": "Unknown District",
+  "idMarcControlNumber": "3817011",
+  "idNZNewspapersV1": "13014",
+  "isCurrent": true,
+  "placecode": "unknown",
+  "placename": "Ngatea",
+  "region": "Unknown Region",
+  "sources": {
+    "2013-04-02T08:58:38.000Z": "Extracted from the New Zealand National Bibliography (MARC record 3817011) downloaded March 2013."
+  },
+  "revision": 2
+}

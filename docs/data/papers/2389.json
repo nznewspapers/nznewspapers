@@ -1,0 +1,19 @@
+{
+  "id": 2389,
+  "title": "Sumner News",
+  "genre": "Newspaper",
+  "firstYear": "1969",
+  "finalYear": "1971",
+  "district": "Christchurch City",
+  "idMarcControlNumber": "6434356",
+  "idNZNewspapersV1": "14342639",
+  "isCurrent": false,
+  "placecode": "12-05",
+  "placename": "Christchurch",
+  "region": "Canterbury",
+  "sources": {
+    "2013-04-02T08:58:38.000Z": "Extracted from the New Zealand National Bibliography (MARC record 6434356) downloaded March 2013.",
+    "2014-04-23T10:11:00.000Z": "Modified by MarcLoaderBot"
+  },
+  "revision": 2
+}

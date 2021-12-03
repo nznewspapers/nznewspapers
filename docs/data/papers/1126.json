@@ -1,0 +1,20 @@
+{
+  "id": 1126,
+  "title": "Helensville News (1958)",
+  "genre": "Newspaper",
+  "firstYear": "1958",
+  "finalYear": "uuuu",
+  "district": "Auckland",
+  "frequency": "Weekly",
+  "idMarcControlNumber": "8156635",
+  "idNZNewspapersV1": "60066",
+  "isCurrent": false,
+  "placecode": "02-01",
+  "placename": "Helensville",
+  "region": "Auckland",
+  "sources": {
+    "2013-04-02T08:58:38.000Z": "Extracted from the New Zealand National Bibliography (MARC record 8156635) downloaded March 2013.",
+    "2014-05-07T09:15:58.000Z": "Modified by DataBot"
+  },
+  "revision": 4
+}

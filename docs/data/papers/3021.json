@@ -1,0 +1,23 @@
+{
+  "id": 3021,
+  "title": "Daily News",
+  "genre": "Other",
+  "firstYear": "1875",
+  "finalYear": "1903",
+  "district": "Wellington City",
+  "frequency": "Daily",
+  "idMarcControlNumber": "13753541",
+  "idNZNewspapersV1": "59185",
+  "isCurrent": false,
+  "placecode": "09-08",
+  "placename": "Wellington",
+  "region": "Wellington",
+  "notes": {
+    "12011231": "This record is a for a microfilm reproduction of the Taranaki Daily News."
+  },
+  "sources": {
+    "2013-04-02T08:58:38.000Z": "Extracted from the New Zealand National Bibliography (MARC record 13753541) downloaded March 2013.",
+    "2014-04-12T10:37:45.000Z": "Modified by gordon.paynter"
+  },
+  "revision": 6
+}

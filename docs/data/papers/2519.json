@@ -1,0 +1,20 @@
+{
+  "id": 2519,
+  "title": "South Canterbury Times",
+  "genre": "Newspaper",
+  "firstYear": "1873",
+  "finalYear": "1901",
+  "district": "Timaru District",
+  "frequency": "Daily",
+  "idMarcControlNumber": "8181826",
+  "idNZNewspapersV1": "70151",
+  "isCurrent": false,
+  "placecode": "12-08",
+  "placename": "Timaru",
+  "region": "Canterbury",
+  "sources": {
+    "2013-04-02T08:58:38.000Z": "Extracted from the New Zealand National Bibliography (MARC record 8181826) downloaded March 2013.",
+    "2014-03-21T11:40:42.000Z": "Modified by DataBot"
+  },
+  "revision": 4
+}

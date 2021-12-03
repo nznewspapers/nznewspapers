@@ -1,0 +1,20 @@
+{
+  "id": 1122,
+  "title": "Local",
+  "genre": "Newspaper",
+  "firstYear": "1956",
+  "finalYear": "uuuu",
+  "district": "Auckland",
+  "frequency": "Weekly",
+  "idMarcControlNumber": "8164544",
+  "idNZNewspapersV1": "68081",
+  "isCurrent": false,
+  "placecode": "02-01",
+  "placename": "Papakura",
+  "region": "Auckland",
+  "sources": {
+    "2013-04-02T08:58:38.000Z": "Extracted from the New Zealand National Bibliography (MARC record 8164544) downloaded March 2013.",
+    "2014-05-07T09:16:51.000Z": "Modified by DataBot"
+  },
+  "revision": 4
+}

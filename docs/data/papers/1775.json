@@ -1,0 +1,27 @@
+{
+  "id": 1775,
+  "title": "Courier (Napier)",
+  "genre": "Newspaper",
+  "firstYear": "1990",
+  "finalYear": "1995",
+  "district": "Napier City",
+  "frequency": "Weekly",
+  "idMarcControlNumber": "3678321",
+  "idNZNewspapersV1": "11012",
+  "isCurrent": false,
+  "placecode": "06-03",
+  "placename": "Napier",
+  "region": "Hawke's Bay",
+  "links": {
+    "1779": {
+      "direction": "Succeeding",
+      "relationship": "Continued by",
+      "target-description": "Courier-leader (Napier ed.)"
+    }
+  },
+  "sources": {
+    "2013-04-02T08:58:38.000Z": "Extracted from the New Zealand National Bibliography (MARC record 3678321) downloaded March 2013.",
+    "2014-05-07T09:11:03.000Z": "Modified by DataBot"
+  },
+  "revision": 5
+}

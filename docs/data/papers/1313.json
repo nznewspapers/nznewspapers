@@ -1,0 +1,51 @@
+{
+  "id": 1313,
+  "title": "Observer and Free Lance",
+  "genre": "Newspaper",
+  "firstYear": "1885",
+  "finalYear": "1890",
+  "district": "Auckland",
+  "finalIssueDate": "1890-01-18",
+  "firstIssueDate": "1885-04-11",
+  "frequency": "Weekly",
+  "idMarcControlNumber": "8177273",
+  "idNZNewspapersV1": "11042",
+  "idPapersPastCode": "TO",
+  "isCurrent": false,
+  "placecode": "02-01-auckland",
+  "placename": "Auckland",
+  "region": "Auckland",
+  "urlDigitized": "http://paperspast.natlib.govt.nz/cgi-bin/paperspast?a=d&cl=CL1.TO",
+  "links": {
+    "1304": {
+      "direction": "Preceding",
+      "relationship": "Formed by union",
+      "target-description": "Auckland Free Lance"
+    },
+    "1308": {
+      "direction": "Preceding",
+      "relationship": "Formed by union",
+      "target-description": "Observer"
+    },
+    "1311": {
+      "direction": "Preceding",
+      "relationship": "Formed by union",
+      "target-description": "Evening Telephone"
+    },
+    "1315": {
+      "direction": "Preceding",
+      "relationship": "Incorporates",
+      "target-description": "Auckland Evening Bell"
+    },
+    "1319": {
+      "direction": "Succeeding",
+      "relationship": "Continued by",
+      "target-description": "The New  Zealand Observer and  Free Lance"
+    }
+  },
+  "sources": {
+    "2013-04-02T08:58:38.000Z": "Extracted from the New Zealand National Bibliography (MARC record 8177273) downloaded March 2013.",
+    "2014-05-07T09:19:04.000Z": "Modified by DataBot"
+  },
+  "revision": 15
+}

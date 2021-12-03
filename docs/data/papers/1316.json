@@ -1,0 +1,33 @@
+{
+  "id": 1316,
+  "title": "Auckland Star",
+  "genre": "Newspaper",
+  "firstYear": "1887",
+  "finalYear": "1991",
+  "district": "Auckland",
+  "frequency": "Daily (Monday to Friday)",
+  "idMarcControlNumber": "3531156",
+  "idNZNewspapersV1": "9003",
+  "idPapersPastCode": "AS",
+  "isCurrent": false,
+  "placecode": "02-01-auckland",
+  "placename": "Auckland",
+  "region": "Auckland",
+  "urlDigitized": "http://paperspast.natlib.govt.nz/cgi-bin/paperspast?a=d&cl=CL1.AS",
+  "links": {
+    "1299": {
+      "direction": "Continues",
+      "target-description": "Evening Star"
+    },
+    "1343": {
+      "direction": "Preceding",
+      "relationship": "Incorporates",
+      "target-description": "Sun"
+    }
+  },
+  "sources": {
+    "2013-04-02T08:58:38.000Z": "Extracted from the New Zealand National Bibliography (MARC record 3531156) downloaded March 2013.",
+    "2014-04-10T08:54:42.000Z": "Modified by gordon.paynter"
+  },
+  "revision": 8
+}

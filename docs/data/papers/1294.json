@@ -1,0 +1,18 @@
+{
+  "id": 1294,
+  "title": "News Letter",
+  "genre": "Newspaper",
+  "firstYear": "1862",
+  "finalYear": "uuuu",
+  "district": "Auckland",
+  "idMarcControlNumber": "8173666",
+  "idNZNewspapersV1": "60098",
+  "isCurrent": false,
+  "placecode": "02-01-auckland",
+  "placename": "Auckland",
+  "region": "Auckland",
+  "sources": {
+    "2013-04-02T08:58:38.000Z": "Extracted from the New Zealand National Bibliography (MARC record 8173666) downloaded March 2013."
+  },
+  "revision": 2
+}

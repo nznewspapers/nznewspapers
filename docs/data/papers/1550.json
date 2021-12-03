@@ -1,0 +1,31 @@
+{
+  "id": 1550,
+  "title": "Te Aroha News",
+  "genre": "Newspaper",
+  "firstYear": "1883",
+  "finalYear": "1885",
+  "district": "Matamata-Piako District",
+  "finalIssueDate": "1885-10-10",
+  "firstIssueDate": "1883-06-09",
+  "frequency": "Weekly",
+  "idMarcControlNumber": "6321538",
+  "idNZNewspapersV1": "8027",
+  "idPapersPastCode": "TAN",
+  "isCurrent": false,
+  "placecode": "03-04",
+  "placename": "Te Aroha",
+  "region": "Waikato",
+  "urlDigitized": "http://paperspast.natlib.govt.nz/cgi-bin/paperspast?a=d&cl=CL1.TAN",
+  "links": {
+    "1551": {
+      "direction": "Succeeding",
+      "relationship": "Continued by",
+      "target-description": "The Aroha & Ohinemuri News"
+    }
+  },
+  "sources": {
+    "2013-04-02T08:58:38.000Z": "Extracted from the New Zealand National Bibliography (MARC record 6321538) downloaded March 2013.",
+    "2014-05-07T09:13:01.000Z": "Modified by DataBot"
+  },
+  "revision": 11
+}

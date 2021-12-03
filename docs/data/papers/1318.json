@@ -1,0 +1,27 @@
+{
+  "id": 1318,
+  "title": "New Zealand Graphic",
+  "genre": "Newspaper",
+  "firstYear": "1890",
+  "finalYear": "1908",
+  "district": "Auckland",
+  "frequency": "Weekly",
+  "idMarcControlNumber": "8171659",
+  "idNZNewspapersV1": "1046",
+  "isCurrent": false,
+  "placecode": "02-01-auckland",
+  "placename": "Auckland",
+  "region": "Auckland",
+  "links": {
+    "undefined-unknown": {
+      "direction": "Succeeding",
+      "relationship": "Continued by",
+      "target-description": "Weekly graphic and New Zealand mail"
+    }
+  },
+  "sources": {
+    "2013-04-02T08:58:38.000Z": "Extracted from the New Zealand National Bibliography (MARC record 8171659) downloaded March 2013.",
+    "2014-05-07T09:18:02.000Z": "Modified by DataBot"
+  },
+  "revision": 5
+}

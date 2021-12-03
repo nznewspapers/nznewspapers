@@ -1,0 +1,20 @@
+{
+  "id": 2609,
+  "title": "N.Z. Life",
+  "genre": "Newspaper",
+  "firstYear": "1892",
+  "finalYear": "uuuu",
+  "district": "Dunedin City",
+  "frequency": "Weekly",
+  "idMarcControlNumber": "8169265",
+  "idNZNewspapersV1": "58099",
+  "isCurrent": false,
+  "placecode": "13-03",
+  "placename": "Dunedin",
+  "region": "Otago",
+  "sources": {
+    "2013-04-02T08:58:38.000Z": "Extracted from the New Zealand National Bibliography (MARC record 8169265) downloaded March 2013.",
+    "2014-05-07T09:17:42.000Z": "Modified by DataBot"
+  },
+  "revision": 4
+}

@@ -1,0 +1,20 @@
+{
+  "id": 1912,
+  "title": "New Zealand Sunday News",
+  "genre": "Newspaper",
+  "firstYear": "1933",
+  "finalYear": "1935",
+  "district": "Palmerston North City",
+  "frequency": "Weekly",
+  "idMarcControlNumber": "8172548",
+  "idNZNewspapersV1": "72096",
+  "isCurrent": false,
+  "placecode": "08-05",
+  "placename": "Palmerston North",
+  "region": "Manawatu-Wanganui",
+  "sources": {
+    "2013-04-02T08:58:38.000Z": "Extracted from the New Zealand National Bibliography (MARC record 8172548) downloaded March 2013.",
+    "2014-05-07T09:18:12.000Z": "Modified by DataBot"
+  },
+  "revision": 4
+}

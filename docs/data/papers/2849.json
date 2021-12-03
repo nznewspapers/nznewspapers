@@ -1,0 +1,28 @@
+{
+  "id": 2849,
+  "title": "Pacific Star",
+  "genre": "Periodical",
+  "firstYear": "1997",
+  "finalYear": "1999",
+  "district": "Kapiti Coast District",
+  "frequency": "Monthly",
+  "idMarcControlNumber": "4803375",
+  "idNZNewspapersV1": "2030",
+  "isCurrent": false,
+  "placecode": "09-02",
+  "placename": "Otaki",
+  "price": "Gratis",
+  "region": "Wellington",
+  "links": {
+    "2892": {
+      "direction": "Preceding",
+      "relationship": "Continues",
+      "target-description": "Pacific network newspaper"
+    }
+  },
+  "sources": {
+    "2013-04-02T08:58:38.000Z": "Extracted from the New Zealand National Bibliography (MARC record 4803375) downloaded March 2013.",
+    "2014-05-07T09:49:16.000Z": "Modified by DataBot"
+  },
+  "revision": 7
+}

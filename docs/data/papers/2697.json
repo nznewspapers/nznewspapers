@@ -1,0 +1,26 @@
+{
+  "id": 2697,
+  "title": "Gore Standard",
+  "genre": "Newspaper",
+  "firstYear": "1906",
+  "finalYear": "1910",
+  "district": "Gore District",
+  "frequency": "Daily",
+  "idMarcControlNumber": "8142293",
+  "idNZNewspapersV1": "69103",
+  "isCurrent": false,
+  "placecode": "14-02",
+  "placename": "Gore",
+  "region": "Southland",
+  "links": {
+    "2696": {
+      "direction": "Continues",
+      "target-description": "Southern Standard"
+    }
+  },
+  "sources": {
+    "2013-04-02T08:58:38.000Z": "Extracted from the New Zealand National Bibliography (MARC record 8142293) downloaded March 2013.",
+    "2014-04-12T12:58:21.000Z": "Modified by gordon.paynter"
+  },
+  "revision": 5
+}

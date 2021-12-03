@@ -1,0 +1,20 @@
+{
+  "id": 2392,
+  "title": "New Lyttelton Times",
+  "genre": "Newspaper",
+  "firstYear": "1983",
+  "finalYear": "1983",
+  "district": "Christchurch City",
+  "frequency": "Fortnightly",
+  "idMarcControlNumber": "8171144",
+  "idNZNewspapersV1": "66115",
+  "isCurrent": false,
+  "placecode": "12-05",
+  "placename": "Lyttelton",
+  "region": "Canterbury",
+  "sources": {
+    "2013-04-02T08:58:38.000Z": "Extracted from the New Zealand National Bibliography (MARC record 8171144) downloaded March 2013.",
+    "2014-05-07T08:57:24.000Z": "Modified by DataBot"
+  },
+  "revision": 4
+}

@@ -1,0 +1,32 @@
+{
+  "id": 2782,
+  "title": "Country",
+  "genre": "Periodical",
+  "firstYear": "2006",
+  "finalYear": "2007",
+  "district": "Matamata-Piako District",
+  "frequency": "Monthly",
+  "idMarcControlNumber": "10773828",
+  "idNZNewspapersV1": "11052",
+  "isCurrent": false,
+  "placecode": "03-04",
+  "placename": "Matamata",
+  "region": "Waikato",
+  "links": {
+    "2780": {
+      "direction": "Preceding",
+      "relationship": "Continues",
+      "target-description": "East Waikato country"
+    },
+    "undefined-unknown": {
+      "direction": "Succeeding",
+      "relationship": "Continued by",
+      "target-description": "Urban&Country"
+    }
+  },
+  "sources": {
+    "2013-04-02T08:58:38.000Z": "Extracted from the New Zealand National Bibliography (MARC record 10773828) downloaded March 2013.",
+    "2014-05-07T08:59:34.000Z": "Modified by DataBot"
+  },
+  "revision": 6
+}

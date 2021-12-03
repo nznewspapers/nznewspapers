@@ -1,0 +1,36 @@
+{
+  "id": 1292,
+  "title": "The Daily Southern Cross",
+  "genre": "Newspaper",
+  "firstYear": "1862",
+  "finalYear": "1876",
+  "description": "1876-12-30",
+  "district": "Auckland",
+  "firstIssueDate": "1862-05-20",
+  "frequency": "Daily",
+  "idMarcControlNumber": "4106106",
+  "idNZNewspapersV1": "6018",
+  "idPapersPastCode": "DSC",
+  "isCurrent": false,
+  "placecode": "02-01-auckland",
+  "placename": "Auckland",
+  "region": "Auckland",
+  "urlDigitized": "http://paperspast.natlib.govt.nz/cgi-bin/paperspast?a=d&cl=CL1.DSC",
+  "links": {
+    "1073": {
+      "direction": "Succeeding",
+      "relationship": "Absorbed by",
+      "target-description": "New  Zealand Herald"
+    },
+    "1284": {
+      "direction": "Preceding",
+      "relationship": "Continues",
+      "target-description": "Southern Cross"
+    }
+  },
+  "sources": {
+    "2013-04-02T08:58:38.000Z": "Extracted from the New Zealand National Bibliography (MARC record 4106106) downloaded March 2013.",
+    "2014-03-21T11:29:11.000Z": "Modified by DataBot"
+  },
+  "revision": 12
+}

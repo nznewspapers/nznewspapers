@@ -1,0 +1,20 @@
+{
+  "id": 1109,
+  "title": "Rodney and Otamatea Courier",
+  "genre": "Newspaper",
+  "firstYear": "1948",
+  "finalYear": "1964",
+  "district": "Auckland",
+  "frequency": "Weekly",
+  "idMarcControlNumber": "8181460",
+  "idNZNewspapersV1": "69156",
+  "isCurrent": false,
+  "placecode": "02-01",
+  "placename": "Warkworth",
+  "region": "Auckland",
+  "sources": {
+    "2013-04-02T08:58:38.000Z": "Extracted from the New Zealand National Bibliography (MARC record 8181460) downloaded March 2013.",
+    "2014-05-07T09:19:57.000Z": "Modified by DataBot"
+  },
+  "revision": 4
+}

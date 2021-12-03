@@ -1,0 +1,36 @@
+{
+  "id": 1762,
+  "title": "The Daily Telegraph",
+  "genre": "Newspaper",
+  "firstYear": "1871",
+  "finalYear": "1999",
+  "district": "Napier City",
+  "finalIssueDate": "1999-05-02",
+  "firstIssueDate": "1871-02-01",
+  "frequency": "Daily (except Sunday)",
+  "idMarcControlNumber": "3531190",
+  "idNZNewspapersV1": "6008",
+  "idPapersPastCode": "DTN",
+  "isCurrent": false,
+  "placecode": "06-03",
+  "placename": "Napier",
+  "region": "Hawke's Bay",
+  "urlDigitized": "http://paperspast.natlib.govt.nz/cgi-bin/paperspast?a=d&cl=CL1.DTN",
+  "links": {
+    "1751": {
+      "direction": "Succeeding",
+      "relationship": "Merged to form",
+      "target-description": "Hawke's Bay Today"
+    },
+    "1769": {
+      "direction": "Has Edition",
+      "relationship": "Special edition",
+      "target-description": "News Bulletin"
+    }
+  },
+  "sources": {
+    "2013-04-02T08:58:38.000Z": "Extracted from the New Zealand National Bibliography (MARC record 3531190) downloaded March 2013.",
+    "2014-04-10T10:45:23.000Z": "Modified by gordon.paynter"
+  },
+  "revision": 12
+}

@@ -1,0 +1,44 @@
+{
+  "id": 1035,
+  "title": "Northern Advocate",
+  "genre": "Newspaper",
+  "firstYear": "1877",
+  "finalYear": "9999",
+  "alternateTitle": {
+    "1250003": "Northern Advocate and General Advertiser",
+    "1260002": "Northern Advocate and Whangarei County Gazette"
+  },
+  "district": "Whangarei District",
+  "firstIssueDate": "1877-06-06",
+  "frequency": "Daily (except Sunday)",
+  "idMarcControlNumber": "3531186",
+  "idNZNewspapersV1": "4008",
+  "idPapersPastCode": "NA",
+  "isCurrent": true,
+  "placecode": "01-02",
+  "placename": "Whangarei",
+  "region": "Northland",
+  "urlCurrent": "http://www.northernadvocate.co.nz/",
+  "urlDigitized": "http://paperspast.natlib.govt.nz/cgi-bin/paperspast?a=d&cl=CL1.NA",
+  "links": {
+    "1034": {
+      "direction": "Preceding",
+      "relationship": "Continues",
+      "target-description": "Whangarei Comet and  Northern Advertiser"
+    },
+    "1040": {
+      "direction": "Preceding",
+      "relationship": "Incorporates",
+      "target-description": "Northern Mail"
+    },
+    "1042": {
+      "direction": "Has Edition",
+      "target-description": "Northern Advocate Weekly"
+    }
+  },
+  "sources": {
+    "2013-04-02T08:58:38.000Z": "Extracted from the New Zealand National Bibliography (MARC record 3531186) downloaded March 2013.",
+    "2014-03-21T11:49:41.000Z": "Modified by DataBot"
+  },
+  "revision": 15
+}

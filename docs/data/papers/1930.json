@@ -1,0 +1,32 @@
+{
+  "id": 1930,
+  "title": "The Bush Advocate",
+  "genre": "Newspaper",
+  "firstYear": "1888",
+  "finalYear": "1901",
+  "district": "Tararua District",
+  "finalIssueDate": "1901-10-07",
+  "firstIssueDate": "1888-05-08",
+  "frequency": "Three issues per week",
+  "idMarcControlNumber": "6310750",
+  "idNZNewspapersV1": "12030",
+  "idPapersPastCode": "BA",
+  "isCurrent": false,
+  "mastheadURL": "http://paperspast.natlib.govt.nz/custom/paperspast/images/mastheads/BA.gif",
+  "placecode": "08-06",
+  "placename": "Dannevirke",
+  "region": "Manawatu-Wanganui",
+  "urlDigitized": "http://paperspast.natlib.govt.nz/cgi-bin/paperspast?a=d&cl=CL1.BA",
+  "links": {
+    "1936": {
+      "direction": "Succeeding",
+      "relationship": "Continued by",
+      "target-description": "Dannevirke advocate"
+    }
+  },
+  "sources": {
+    "2013-04-02T08:58:38.000Z": "Extracted from the New Zealand National Bibliography (MARC record 6310750) downloaded March 2013.",
+    "2014-05-07T09:04:01.000Z": "Modified by DataBot"
+  },
+  "revision": 13
+}

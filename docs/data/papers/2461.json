@@ -1,0 +1,32 @@
+{
+  "id": 2461,
+  "title": "Community News (Pegasus Post Edition)",
+  "genre": "Newspaper",
+  "firstYear": "1989",
+  "finalYear": "1996",
+  "district": "Christchurch City",
+  "frequency": "Weekly",
+  "idMarcControlNumber": "3526809",
+  "idNZNewspapersV1": "4006",
+  "isCurrent": false,
+  "placecode": "12-05-christchur",
+  "placename": "Christchurch",
+  "region": "Canterbury",
+  "links": {
+    "2468": {
+      "direction": "Succeeding",
+      "relationship": "Continued by",
+      "target-description": "Pegasus post (1996)"
+    },
+    "2500": {
+      "direction": "Preceding",
+      "relationship": "Continues",
+      "target-description": "Pegasus post"
+    }
+  },
+  "sources": {
+    "2013-04-02T08:58:38.000Z": "Extracted from the New Zealand National Bibliography (MARC record 3526809) downloaded March 2013.",
+    "2014-05-07T09:10:36.000Z": "Modified by DataBot"
+  },
+  "revision": 6
+}

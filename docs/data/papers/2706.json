@@ -1,0 +1,20 @@
+{
+  "id": 2706,
+  "title": "Newmarket Suburban News",
+  "genre": "Periodical",
+  "firstYear": "1948",
+  "finalYear": "1953",
+  "district": "Auckland",
+  "frequency": "Fortnightly",
+  "idMarcControlNumber": "5586787",
+  "idNZNewspapersV1": "8026",
+  "isCurrent": false,
+  "placecode": "02-01",
+  "placename": "Newmarket",
+  "region": "Auckland",
+  "sources": {
+    "2013-04-02T08:58:38.000Z": "Extracted from the New Zealand National Bibliography (MARC record 5586787) downloaded March 2013.",
+    "2014-05-07T08:56:22.000Z": "Modified by DataBot"
+  },
+  "revision": 4
+}

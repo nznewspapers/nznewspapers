@@ -1,0 +1,26 @@
+{
+  "id": 2507,
+  "title": "Evening Echo",
+  "genre": "Newspaper",
+  "firstYear": "1878",
+  "finalYear": "1879",
+  "district": "Ashburton District",
+  "frequency": "Daily",
+  "idMarcControlNumber": "8141718",
+  "idNZNewspapersV1": "64069",
+  "isCurrent": false,
+  "placecode": "12-06",
+  "placename": "Ashburton",
+  "region": "Canterbury",
+  "links": {
+    "2508": {
+      "direction": "Continued By",
+      "target-description": "Ashburton Herald"
+    }
+  },
+  "sources": {
+    "2013-04-02T08:58:38.000Z": "Extracted from the New Zealand National Bibliography (MARC record 8141718) downloaded March 2013.",
+    "2014-03-27T11:04:11.000Z": "Modified by gordon.paynter"
+  },
+  "revision": 5
+}

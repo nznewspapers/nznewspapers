@@ -1,0 +1,18 @@
+{
+  "id": 1705,
+  "title": "Mosquito",
+  "genre": "Newspaper",
+  "firstYear": "1881",
+  "finalYear": "uuuu",
+  "district": "Gisborne District",
+  "idMarcControlNumber": "8168122",
+  "idNZNewspapersV1": "63098",
+  "isCurrent": false,
+  "placecode": "05-01",
+  "placename": "Gisborne",
+  "region": "Gisborne",
+  "sources": {
+    "2013-04-02T08:58:38.000Z": "Extracted from the New Zealand National Bibliography (MARC record 8168122) downloaded March 2013."
+  },
+  "revision": 2
+}

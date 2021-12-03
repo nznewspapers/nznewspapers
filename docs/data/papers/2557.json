@@ -1,0 +1,20 @@
+{
+  "id": 2557,
+  "title": "Lake County Mail",
+  "genre": "Newspaper",
+  "firstYear": "1947",
+  "finalYear": "1948",
+  "district": "Queenstown-Lakes District",
+  "frequency": "Weekly",
+  "idMarcControlNumber": "8164380",
+  "idNZNewspapersV1": "69114",
+  "isCurrent": false,
+  "placecode": "13-01",
+  "placename": "Queenstown",
+  "region": "Otago",
+  "sources": {
+    "2013-04-02T08:58:38.000Z": "Extracted from the New Zealand National Bibliography (MARC record 8164380) downloaded March 2013.",
+    "2014-05-07T09:16:42.000Z": "Modified by DataBot"
+  },
+  "revision": 4
+}

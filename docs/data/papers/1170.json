@@ -1,0 +1,20 @@
+{
+  "id": 1170,
+  "title": "South Auckland Courier (Central ed. : 1972)",
+  "genre": "Newspaper",
+  "firstYear": "1972",
+  "finalYear": "1976",
+  "district": "Auckland",
+  "frequency": "Two issues per week",
+  "idMarcControlNumber": "8181795",
+  "idNZNewspapersV1": "59139",
+  "isCurrent": false,
+  "placecode": "02-01",
+  "placename": "Otahuhu",
+  "region": "Auckland",
+  "sources": {
+    "2013-04-02T08:58:38.000Z": "Extracted from the New Zealand National Bibliography (MARC record 8181795) downloaded March 2013.",
+    "2014-05-07T09:07:15.000Z": "Modified by DataBot"
+  },
+  "revision": 4
+}

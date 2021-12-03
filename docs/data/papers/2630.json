@@ -1,0 +1,31 @@
+{
+  "id": 2630,
+  "title": "Dunedin Star Weekender",
+  "genre": "Newspaper",
+  "firstYear": "1979",
+  "finalYear": "1998",
+  "district": "Dunedin City",
+  "idMarcControlNumber": "3531222",
+  "idNZNewspapersV1": "10008",
+  "isCurrent": false,
+  "placecode": "13-03",
+  "placename": "Dunedin",
+  "price": "Gratis",
+  "region": "Otago",
+  "links": {
+    "2578": {
+      "direction": "Preceding",
+      "target-description": "Evening Star"
+    },
+    "2633": {
+      "direction": "Succeeding",
+      "relationship": "Merged into",
+      "target-description": "The Star"
+    }
+  },
+  "sources": {
+    "2013-04-02T08:58:38.000Z": "Extracted from the New Zealand National Bibliography (MARC record 3531222) downloaded March 2013.",
+    "2014-06-01T09:33:02.000Z": "Modified by gordon.paynter"
+  },
+  "revision": 6
+}

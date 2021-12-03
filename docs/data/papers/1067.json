@@ -1,0 +1,20 @@
+{
+  "id": 1067,
+  "title": "Dargaville News",
+  "genre": "Newspaper",
+  "firstYear": "1936",
+  "finalYear": "1938",
+  "district": "Kaipara District",
+  "frequency": "Weekly",
+  "idMarcControlNumber": "8138040",
+  "idNZNewspapersV1": "64063",
+  "isCurrent": false,
+  "placecode": "01-03",
+  "placename": "Dargaville",
+  "region": "Northland",
+  "sources": {
+    "2013-04-02T08:58:38.000Z": "Extracted from the New Zealand National Bibliography (MARC record 8138040) downloaded March 2013.",
+    "2014-05-07T09:14:48.000Z": "Modified by DataBot"
+  },
+  "revision": 4
+}

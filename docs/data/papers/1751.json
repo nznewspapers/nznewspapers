@@ -1,0 +1,37 @@
+{
+  "id": 1751,
+  "title": "Hawke's Bay Today",
+  "genre": "Newspaper",
+  "firstYear": "1999",
+  "finalYear": "9999",
+  "district": "Hastings District",
+  "frequency": "Daily (except Sunday)",
+  "idMarcControlNumber": "5107808",
+  "idNZNewspapersV1": "11028",
+  "isCurrent": true,
+  "placecode": "06-02",
+  "placename": "Hastings",
+  "region": "Hawke's Bay",
+  "urlCurrent": "http://www.hbtoday.co.nz/",
+  "notes": {
+    "575002": "Issued (in the Dannevirke and Tararua areas only) with Dannevirke News",
+    "578002": "Saturday issue called Hawke's Bay Weekend"
+  },
+  "links": {
+    "1736": {
+      "direction": "Preceding",
+      "relationship": "Formed by the union",
+      "target-description": "Hawke's Bay Herald-Tribune"
+    },
+    "1762": {
+      "direction": "Preceding",
+      "relationship": "Formed by the union",
+      "target-description": "The Daily Telegraph"
+    }
+  },
+  "sources": {
+    "2013-04-02T08:58:38.000Z": "Extracted from the New Zealand National Bibliography (MARC record 5107808) downloaded March 2013.",
+    "2014-03-27T10:12:58.000Z": "Modified by gordon.paynter"
+  },
+  "revision": 10
+}

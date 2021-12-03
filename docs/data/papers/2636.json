@@ -1,0 +1,20 @@
+{
+  "id": 2636,
+  "title": "Tuapeka Recorder",
+  "genre": "Newspaper",
+  "firstYear": "1865",
+  "finalYear": "1867",
+  "district": "Clutha District",
+  "frequency": "Weekly",
+  "idMarcControlNumber": "8184111",
+  "idNZNewspapersV1": "71153",
+  "isCurrent": false,
+  "placecode": "13-04",
+  "placename": "Lawrence",
+  "region": "Otago",
+  "sources": {
+    "2013-04-02T08:58:38.000Z": "Extracted from the New Zealand National Bibliography (MARC record 8184111) downloaded March 2013.",
+    "2014-05-07T09:21:31.000Z": "Modified by DataBot"
+  },
+  "revision": 4
+}

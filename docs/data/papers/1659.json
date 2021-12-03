@@ -1,0 +1,27 @@
+{
+  "id": 1659,
+  "title": "East Coast Gazette",
+  "genre": "Masthead",
+  "firstYear": "1883",
+  "finalYear": "uuuu",
+  "district": "Opotiki District",
+  "frequency": "Two issues per week",
+  "idMarcControlNumber": "8138570",
+  "idNZNewspapersV1": "72057",
+  "isCurrent": false,
+  "placecode": "04-03",
+  "placename": "Opotiki",
+  "region": "Bay of Plenty",
+  "links": {
+    "1658": {
+      "direction": "Preceding",
+      "relationship": "Main title",
+      "target-description": "Opotiki Herald"
+    }
+  },
+  "sources": {
+    "2013-04-02T08:58:38.000Z": "Extracted from the New Zealand National Bibliography (MARC record 8138570) downloaded March 2013.",
+    "2014-05-07T09:06:16.000Z": "Modified by DataBot"
+  },
+  "revision": 5
+}

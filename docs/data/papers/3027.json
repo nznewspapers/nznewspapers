@@ -1,0 +1,20 @@
+{
+  "id": 3027,
+  "title": "Times",
+  "genre": "Duplicate",
+  "firstYear": "1879",
+  "finalYear": "1899",
+  "district": "Buller District",
+  "frequency": "Weekly",
+  "idMarcControlNumber": "8183994",
+  "idNZNewspapersV1": "65166",
+  "isCurrent": false,
+  "placecode": "11-01",
+  "placename": "Lyell",
+  "region": "West Coast",
+  "sources": {
+    "2013-04-02T08:58:38.000Z": "Extracted from the New Zealand National Bibliography (MARC record 8183994) downloaded March 2013.",
+    "2014-05-16T04:17:27.000Z": "Modified by gordon.paynter"
+  },
+  "revision": 4
+}

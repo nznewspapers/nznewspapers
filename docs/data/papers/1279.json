@@ -1,0 +1,20 @@
+{
+  "id": 1279,
+  "title": "Hibiscus Coaster",
+  "genre": "Newspaper",
+  "firstYear": "uuuu",
+  "finalYear": "1982",
+  "district": "Auckland",
+  "frequency": "Weekly",
+  "idMarcControlNumber": "8156793",
+  "idNZNewspapersV1": "61071",
+  "isCurrent": false,
+  "placecode": "02-01",
+  "placename": "Silverdale",
+  "region": "Auckland",
+  "sources": {
+    "2013-04-02T08:58:38.000Z": "Extracted from the New Zealand National Bibliography (MARC record 8156793) downloaded March 2013.",
+    "2014-05-07T09:16:02.000Z": "Modified by DataBot"
+  },
+  "revision": 4
+}

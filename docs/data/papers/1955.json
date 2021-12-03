@@ -1,0 +1,20 @@
+{
+  "id": 1955,
+  "title": "Horowhenua Review",
+  "genre": "Newspaper",
+  "firstYear": "1923",
+  "finalYear": "1925",
+  "district": "Horowhenua District",
+  "frequency": "Monthly",
+  "idMarcControlNumber": "8157054",
+  "idNZNewspapersV1": "63075",
+  "isCurrent": false,
+  "placecode": "08-07",
+  "placename": "Levin",
+  "region": "Manawatu-Wanganui",
+  "sources": {
+    "2013-04-02T08:58:38.000Z": "Extracted from the New Zealand National Bibliography (MARC record 8157054) downloaded March 2013.",
+    "2014-05-07T09:01:52.000Z": "Modified by DataBot"
+  },
+  "revision": 4
+}

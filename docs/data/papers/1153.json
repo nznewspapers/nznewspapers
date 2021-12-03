@@ -1,0 +1,33 @@
+{
+  "id": 1153,
+  "title": "North Shore Times Advertiser",
+  "genre": "Newspaper",
+  "firstYear": "1966",
+  "finalYear": "2004",
+  "district": "Auckland",
+  "frequency": "Two issues per week",
+  "idMarcControlNumber": "3531212",
+  "idNZNewspapersV1": "10007",
+  "isCurrent": false,
+  "placecode": "02-01",
+  "placename": "Takapuna",
+  "price": "Gratis",
+  "region": "Auckland",
+  "links": {
+    "1256": {
+      "direction": "Succeeding",
+      "relationship": "Continued by",
+      "target-description": "North Shore times (Takapuna, N.Z.)"
+    },
+    "undefined-unknown": {
+      "direction": "Preceding",
+      "relationship": "Formed by the union",
+      "target-description": "North Shore advertiser"
+    }
+  },
+  "sources": {
+    "2013-04-02T08:58:38.000Z": "Extracted from the New Zealand National Bibliography (MARC record 3531212) downloaded March 2013.",
+    "2014-05-07T09:47:21.000Z": "Modified by DataBot"
+  },
+  "revision": 9
+}

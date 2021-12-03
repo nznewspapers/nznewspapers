@@ -1,0 +1,32 @@
+{
+  "id": 2889,
+  "title": "Art & Creativity : TLC ... Programme / Mindbiz",
+  "genre": "Periodical",
+  "firstYear": "1990",
+  "finalYear": "1991",
+  "district": "Wellington City",
+  "frequency": "Quarterly",
+  "idMarcControlNumber": "3814252",
+  "idNZNewspapersV1": "6016",
+  "isCurrent": false,
+  "placecode": "09-08-wellington",
+  "placename": "Wellington",
+  "region": "Wellington",
+  "links": {
+    "2196": {
+      "direction": "Succeeding",
+      "relationship": "Continued by",
+      "target-description": "Creativity network (Wellington, N.Z.)"
+    },
+    "undefined-unknown": {
+      "direction": "Preceding",
+      "relationship": "Continues",
+      "target-description": "TLC mindbiz"
+    }
+  },
+  "sources": {
+    "2013-04-02T08:58:38.000Z": "Extracted from the New Zealand National Bibliography (MARC record 3814252) downloaded March 2013.",
+    "2014-05-07T09:03:45.000Z": "Modified by DataBot"
+  },
+  "revision": 6
+}

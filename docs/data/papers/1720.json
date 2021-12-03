@@ -1,0 +1,44 @@
+{
+  "id": 1720,
+  "title": "Gisborne Herald",
+  "genre": "Newspaper",
+  "firstYear": "1939",
+  "finalYear": "9999",
+  "district": "Gisborne District",
+  "idNZNewspapersV1": "506001",
+  "isCurrent": true,
+  "placecode": "05-01",
+  "placename": "Gisborne",
+  "region": "Gisborne",
+  "urlCurrent": "http://www.gisborneherald.co.nz/",
+  "links": {
+    "1697": {
+      "direction": "Continues",
+      "target-description": "The Poverty Bay Herald"
+    },
+    "1719": {
+      "direction": "Has Masthead",
+      "target-description": "Gisborne Herald [1939]"
+    },
+    "1724": {
+      "direction": "Has Edition",
+      "target-description": "Gisborne Herald Midweek Extra"
+    },
+    "1725": {
+      "direction": "Has Edition",
+      "target-description": "Gisborne Herald Weekly Outlook"
+    },
+    "1726": {
+      "direction": "Has Masthead",
+      "target-description": "Herald"
+    },
+    "1727": {
+      "direction": "Has Masthead",
+      "target-description": "Gisborne Herald [2000]"
+    }
+  },
+  "sources": {
+    "2013-09-18T10:38:52.000Z": "Modified by gordon.paynter"
+  },
+  "revision": 8
+}

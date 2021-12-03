@@ -1,0 +1,33 @@
+{
+  "id": 1595,
+  "title": "This Week",
+  "genre": "Newspaper",
+  "firstYear": "2003",
+  "finalYear": "2004",
+  "district": "Hamilton City",
+  "frequency": "Weekly",
+  "idMarcControlNumber": "8180855",
+  "idNZNewspapersV1": "9036",
+  "isCurrent": false,
+  "placecode": "03-05",
+  "placename": "Hamilton",
+  "price": "Gratis",
+  "region": "Waikato",
+  "links": {
+    "1594": {
+      "direction": "Preceding",
+      "relationship": "Continues",
+      "target-description": "Waikato this week"
+    },
+    "undefined-unknown": {
+      "direction": "Succeeding",
+      "relationship": "Continued by",
+      "target-description": "Hamilton this week"
+    }
+  },
+  "sources": {
+    "2013-04-02T08:58:38.000Z": "Extracted from the New Zealand National Bibliography (MARC record 8180855) downloaded March 2013.",
+    "2014-05-07T09:50:15.000Z": "Modified by DataBot"
+  },
+  "revision": 8
+}

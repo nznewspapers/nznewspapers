@@ -1,0 +1,20 @@
+{
+  "id": 2437,
+  "title": "Merivale-St. Albans Gazette",
+  "genre": "Newspaper",
+  "firstYear": "1957",
+  "finalYear": "1960",
+  "district": "Christchurch City",
+  "frequency": "Monthly",
+  "idMarcControlNumber": "8167722",
+  "idNZNewspapersV1": "72087",
+  "isCurrent": false,
+  "placecode": "12-05-christchur",
+  "placename": "Christchurch",
+  "region": "Canterbury",
+  "sources": {
+    "2013-04-02T08:58:38.000Z": "Extracted from the New Zealand National Bibliography (MARC record 8167722) downloaded March 2013.",
+    "2014-05-07T09:02:11.000Z": "Modified by DataBot"
+  },
+  "revision": 4
+}

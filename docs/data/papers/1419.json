@@ -1,0 +1,20 @@
+{
+  "id": 1419,
+  "title": "East & Bays Courier",
+  "genre": "Newspaper",
+  "firstYear": "1993",
+  "finalYear": "9999",
+  "district": "Auckland",
+  "frequency": "Two issues per week",
+  "idMarcControlNumber": "4236173",
+  "idNZNewspapersV1": "3023",
+  "isCurrent": true,
+  "placecode": "02-01-auckland",
+  "placename": "Auckland",
+  "region": "Auckland",
+  "sources": {
+    "2013-04-02T08:58:38.000Z": "Extracted from the New Zealand National Bibliography (MARC record 4236173) downloaded March 2013.",
+    "2014-05-07T09:05:48.000Z": "Modified by DataBot"
+  },
+  "revision": 4
+}

@@ -1,0 +1,28 @@
+{
+  "id": 2373,
+  "title": "Northern Outlook",
+  "genre": "Newspaper",
+  "firstYear": "1982",
+  "finalYear": "1988",
+  "district": "Waimakariri District",
+  "frequency": "Weekly",
+  "idMarcControlNumber": "2750499",
+  "idNZNewspapersV1": "1003",
+  "isCurrent": false,
+  "placecode": "12-04",
+  "placename": "Rangiora",
+  "price": "Gratis",
+  "region": "Canterbury",
+  "links": {
+    "2918": {
+      "direction": "Succeeding",
+      "relationship": "Continued by",
+      "target-description": "North Canterbury outlook."
+    }
+  },
+  "sources": {
+    "2013-04-02T08:58:38.000Z": "Extracted from the New Zealand National Bibliography (MARC record 2750499) downloaded March 2013.",
+    "2014-05-07T09:46:57.000Z": "Modified by DataBot"
+  },
+  "revision": 7
+}

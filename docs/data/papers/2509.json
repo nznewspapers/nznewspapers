@@ -1,0 +1,38 @@
+{
+  "id": 2509,
+  "title": "Ashburton Guardian",
+  "genre": "Newspaper",
+  "firstYear": "1879",
+  "finalYear": "9999",
+  "district": "Ashburton District",
+  "firstIssueDate": "1887-01-01",
+  "frequency": "Daily (except Sunday)",
+  "idMarcControlNumber": "4725615",
+  "idNZNewspapersV1": "4028",
+  "idPapersPastCode": "AG",
+  "isCurrent": true,
+  "placecode": "12-06",
+  "placename": "Ashburton",
+  "region": "Canterbury",
+  "urlCurrent": "http://www.ashburtonguardian.co.nz/",
+  "urlDigitized": "http://paperspast.natlib.govt.nz/cgi-bin/paperspast?a=d&cl=CL1.AG",
+  "notes": {
+    "104004": "Independent"
+  },
+  "links": {
+    "2508": {
+      "direction": "Preceding",
+      "relationship": "Incorporates",
+      "target-description": "Ashburton Herald"
+    },
+    "2512": {
+      "direction": "Has Edition",
+      "target-description": "Guardian Today"
+    }
+  },
+  "sources": {
+    "2013-04-02T08:58:38.000Z": "Extracted from the New Zealand National Bibliography (MARC record 4725615) downloaded March 2013.",
+    "2014-03-27T11:05:40.000Z": "Modified by gordon.paynter"
+  },
+  "revision": 12
+}

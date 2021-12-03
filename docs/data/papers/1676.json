@@ -1,0 +1,34 @@
+{
+  "id": 1676,
+  "title": "Rotorua Chronicle",
+  "genre": "Newspaper",
+  "firstYear": "1916",
+  "finalYear": "1931",
+  "district": "Rotorua District",
+  "idNZNewspapersV1": "401001",
+  "isCurrent": false,
+  "placecode": "04-05",
+  "placename": "Rotorua",
+  "region": "Bay of Plenty",
+  "links": {
+    "1672": {
+      "direction": "Preceding",
+      "relationship": "Formed by merger",
+      "target-description": "Hot Lakes Chronicle"
+    },
+    "1675": {
+      "direction": "Preceding",
+      "relationship": "Formed by merger",
+      "target-description": "Rotorua Times"
+    },
+    "1677": {
+      "direction": "Succeeding",
+      "relationship": "Continued by",
+      "target-description": "Rotorua Morning Post"
+    }
+  },
+  "sources": {
+    "2014-04-10T09:46:07.000Z": "Modified by gordon.paynter"
+  },
+  "revision": 5
+}

@@ -1,0 +1,31 @@
+{
+  "id": 2311,
+  "title": "The Grey River Argus",
+  "genre": "Newspaper",
+  "firstYear": "1865",
+  "finalYear": "1966",
+  "district": "Grey District",
+  "finalIssueDate": "1966-02-23",
+  "firstIssueDate": "1865-11-14",
+  "frequency": "Daily",
+  "idMarcControlNumber": "4870377",
+  "idNZNewspapersV1": "9020",
+  "idPapersPastCode": "GRA",
+  "isCurrent": false,
+  "placecode": "11-02",
+  "placename": "Greymouth",
+  "region": "West Coast",
+  "urlDigitized": "http://paperspast.natlib.govt.nz/cgi-bin/paperspast?a=d&cl=CL1.GRA",
+  "links": {
+    "2317": {
+      "direction": "Succeeding",
+      "relationship": "Continued by",
+      "target-description": "Argus Leader"
+    }
+  },
+  "sources": {
+    "2013-04-02T08:58:38.000Z": "Extracted from the New Zealand National Bibliography (MARC record 4870377) downloaded March 2013.",
+    "2014-03-21T11:29:46.000Z": "Modified by DataBot"
+  },
+  "revision": 11
+}

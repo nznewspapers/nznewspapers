@@ -1,0 +1,20 @@
+{
+  "id": 2116,
+  "title": "Jubilee Herald",
+  "genre": "Newspaper",
+  "firstYear": "1887",
+  "finalYear": "1887",
+  "district": "Wellington City",
+  "frequency": "Weekly",
+  "idMarcControlNumber": "8159711",
+  "idNZNewspapersV1": "66094",
+  "isCurrent": false,
+  "placecode": "09-08-wellington",
+  "placename": "Wellington",
+  "region": "Wellington",
+  "sources": {
+    "2013-04-02T08:58:38.000Z": "Extracted from the New Zealand National Bibliography (MARC record 8159711) downloaded March 2013.",
+    "2014-05-07T09:16:28.000Z": "Modified by DataBot"
+  },
+  "revision": 4
+}

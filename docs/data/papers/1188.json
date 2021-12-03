@@ -1,0 +1,20 @@
+{
+  "id": 1188,
+  "title": "Northern Leader",
+  "genre": "Newspaper",
+  "firstYear": "197u",
+  "finalYear": "197u",
+  "district": "Auckland",
+  "frequency": "Two issues per week",
+  "idMarcControlNumber": "8176535",
+  "idNZNewspapersV1": "70128",
+  "isCurrent": false,
+  "placecode": "02-01",
+  "placename": "Auckland",
+  "region": "Auckland",
+  "sources": {
+    "2013-04-02T08:58:38.000Z": "Extracted from the New Zealand National Bibliography (MARC record 8176535) downloaded March 2013.",
+    "2015-01-21T10:33:25.000Z": "Modified by gordon.paynter"
+  },
+  "revision": 4
+}

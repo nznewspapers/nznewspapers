@@ -1,0 +1,20 @@
+{
+  "id": 1334,
+  "title": "Auckland Truth",
+  "genre": "Newspaper",
+  "firstYear": "1913",
+  "finalYear": "1928",
+  "district": "Auckland",
+  "frequency": "Weekly",
+  "idMarcControlNumber": "8131370",
+  "idNZNewspapersV1": "59056",
+  "isCurrent": false,
+  "placecode": "02-01-auckland",
+  "placename": "Auckland",
+  "region": "Auckland",
+  "sources": {
+    "2013-04-02T08:58:38.000Z": "Extracted from the New Zealand National Bibliography (MARC record 8131370) downloaded March 2013.",
+    "2014-05-07T09:14:06.000Z": "Modified by DataBot"
+  },
+  "revision": 4
+}

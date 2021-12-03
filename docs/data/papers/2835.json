@@ -1,0 +1,20 @@
+{
+  "id": 2835,
+  "title": "Mana Tangata",
+  "genre": "Periodical",
+  "firstYear": "1991",
+  "finalYear": "1993",
+  "district": "Wanganui District",
+  "frequency": "Monthly",
+  "idMarcControlNumber": "5077501",
+  "idNZNewspapersV1": "27",
+  "isCurrent": false,
+  "placecode": "08-03",
+  "placename": "Whanganui",
+  "region": "Manawatu-Wanganui",
+  "sources": {
+    "2013-04-02T08:58:38.000Z": "Extracted from the New Zealand National Bibliography (MARC record 5077501) downloaded March 2013.",
+    "2014-05-07T09:00:47.000Z": "Modified by DataBot"
+  },
+  "revision": 4
+}

@@ -1,0 +1,19 @@
+{
+  "id": 2089,
+  "title": "Tawa Times",
+  "genre": "Newspaper",
+  "firstYear": "1997",
+  "finalYear": "2001",
+  "district": "Wellington City",
+  "idMarcControlNumber": "4828979",
+  "idNZNewspapersV1": "14252637",
+  "isCurrent": false,
+  "placecode": "09-08",
+  "placename": "Tawa",
+  "region": "Wellington",
+  "sources": {
+    "2013-04-02T08:58:38.000Z": "Extracted from the New Zealand National Bibliography (MARC record 4828979) downloaded March 2013.",
+    "2014-04-23T10:12:50.000Z": "Modified by MarcLoaderBot"
+  },
+  "revision": 2
+}

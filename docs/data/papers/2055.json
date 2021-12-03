@@ -1,0 +1,30 @@
+{
+  "id": 2055,
+  "title": "Weekly Courier",
+  "genre": "Newspaper",
+  "firstYear": "1982",
+  "finalYear": "1983",
+  "district": "Hutt City",
+  "frequency": "Weekly",
+  "idMarcControlNumber": "8187320",
+  "idNZNewspapersV1": "64171",
+  "isCurrent": false,
+  "placecode": "09-07",
+  "placename": "Wainuiomata",
+  "region": "Wellington",
+  "links": {
+    "2054": {
+      "direction": "Continues",
+      "target-description": "Courier"
+    },
+    "2059": {
+      "direction": "Continued By",
+      "target-description": "Valley Courier"
+    }
+  },
+  "sources": {
+    "2013-04-02T08:58:38.000Z": "Extracted from the New Zealand National Bibliography (MARC record 8187320) downloaded March 2013.",
+    "2014-11-19T08:51:01.000Z": "Modified by gordon.paynter"
+  },
+  "revision": 6
+}

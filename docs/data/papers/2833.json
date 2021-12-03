@@ -1,0 +1,25 @@
+{
+  "id": 2833,
+  "title": "Opunake News",
+  "genre": "Periodical",
+  "firstYear": "1990",
+  "finalYear": "1992",
+  "district": "South Taranaki District",
+  "idMarcControlNumber": "5028100",
+  "idNZNewspapersV1": "11026",
+  "isCurrent": false,
+  "placecode": "07-03",
+  "placename": "Opunake",
+  "region": "Taranaki",
+  "links": {
+    "undefined-unknown": {
+      "direction": "Succeeding",
+      "relationship": "Continued by",
+      "target-description": "Opunake and coastal news"
+    }
+  },
+  "sources": {
+    "2013-04-02T08:58:38.000Z": "Extracted from the New Zealand National Bibliography (MARC record 5028100) downloaded March 2013."
+  },
+  "revision": 3
+}

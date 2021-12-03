@@ -1,0 +1,26 @@
+{
+  "id": 2038,
+  "title": "Nga Paripari",
+  "genre": "Newspaper",
+  "firstYear": "1983",
+  "finalYear": "1983",
+  "district": "Porirua City",
+  "idMarcControlNumber": "8035848",
+  "idNZNewspapersV1": "2047",
+  "isCurrent": false,
+  "placecode": "09-06",
+  "placename": "Porirua",
+  "region": "Wellington",
+  "links": {
+    "2037": {
+      "direction": "Succeeding",
+      "relationship": "Absorbed by",
+      "target-description": "Te  Awa-iti"
+    }
+  },
+  "sources": {
+    "2013-04-02T08:58:38.000Z": "Extracted from the New Zealand National Bibliography (MARC record 8035848) downloaded March 2013.",
+    "2014-01-03T04:30:40.000Z": "Modified by gordon.paynter"
+  },
+  "revision": 3
+}

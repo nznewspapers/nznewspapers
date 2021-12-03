@@ -1,0 +1,28 @@
+{
+  "id": 1454,
+  "title": "Midweek",
+  "genre": "Newspaper",
+  "firstYear": "2004",
+  "finalYear": "2008",
+  "district": "Auckland",
+  "frequency": "Weekly",
+  "idMarcControlNumber": "8705663",
+  "idNZNewspapersV1": "3056",
+  "isCurrent": false,
+  "placecode": "02-01-auckland",
+  "placename": "Auckland",
+  "price": "Gratis",
+  "region": "Auckland",
+  "links": {
+    "1215": {
+      "direction": "Preceding",
+      "relationship": "Continues",
+      "target-description": "Bays and Remuera times (Auckland, N.Z. : 1994)"
+    }
+  },
+  "sources": {
+    "2013-04-02T08:58:38.000Z": "Extracted from the New Zealand National Bibliography (MARC record 8705663) downloaded March 2013.",
+    "2014-05-07T09:51:09.000Z": "Modified by DataBot"
+  },
+  "revision": 7
+}

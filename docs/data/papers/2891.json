@@ -1,0 +1,18 @@
+{
+  "id": 2891,
+  "title": "Tawa Tribune",
+  "genre": "Periodical",
+  "firstYear": "1993",
+  "finalYear": "9999",
+  "district": "Wellington City",
+  "idMarcControlNumber": "4239204",
+  "idNZNewspapersV1": "7021",
+  "isCurrent": true,
+  "placecode": "09-08-wellington",
+  "placename": "Wellington",
+  "region": "Wellington",
+  "sources": {
+    "2013-04-02T08:58:38.000Z": "Extracted from the New Zealand National Bibliography (MARC record 4239204) downloaded March 2013."
+  },
+  "revision": 2
+}

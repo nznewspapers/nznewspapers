@@ -1,0 +1,31 @@
+{
+  "id": 2010,
+  "title": "Wairarapa Observer",
+  "genre": "Newspaper",
+  "firstYear": "1881",
+  "finalYear": "1906",
+  "district": "Carterton District",
+  "frequency": "Three issues per week",
+  "idMarcControlNumber": "8185411",
+  "idNZNewspapersV1": "67168",
+  "isCurrent": false,
+  "placecode": "09-03",
+  "placename": "Carterton",
+  "region": "Wellington",
+  "links": {
+    "2011": {
+      "direction": "Has Edition",
+      "target-description": "Wairarapa Weekly Observer and  East and  West Coast Advertiser"
+    },
+    "2013": {
+      "direction": "Succeeding",
+      "relationship": "Merged into",
+      "target-description": "Wairarapa Daily News"
+    }
+  },
+  "sources": {
+    "2013-04-02T08:58:38.000Z": "Extracted from the New Zealand National Bibliography (MARC record 8185411) downloaded March 2013.",
+    "2014-05-07T09:04:58.000Z": "Modified by DataBot"
+  },
+  "revision": 6
+}

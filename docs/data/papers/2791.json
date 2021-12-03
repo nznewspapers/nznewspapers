@@ -1,0 +1,21 @@
+{
+  "id": 2791,
+  "title": "Western Community News",
+  "genre": "Periodical",
+  "firstYear": "2002",
+  "finalYear": "9999",
+  "district": "Hamilton City",
+  "frequency": "Every two months",
+  "idMarcControlNumber": "9442403",
+  "idNZNewspapersV1": "4060",
+  "isCurrent": true,
+  "placecode": "03-05",
+  "placename": "Hamilton",
+  "price": "Gratis",
+  "region": "Waikato",
+  "sources": {
+    "2013-04-02T08:58:38.000Z": "Extracted from the New Zealand National Bibliography (MARC record 9442403) downloaded March 2013.",
+    "2014-05-07T09:51:21.000Z": "Modified by DataBot"
+  },
+  "revision": 6
+}

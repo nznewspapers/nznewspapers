@@ -1,0 +1,20 @@
+{
+  "id": 1813,
+  "title": "Fitzroy News",
+  "genre": "Newspaper",
+  "firstYear": "1971",
+  "finalYear": "1976",
+  "district": "New Plymouth District",
+  "frequency": "Monthly",
+  "idMarcControlNumber": "8142195",
+  "idNZNewspapersV1": "69095",
+  "isCurrent": false,
+  "placecode": "07-01",
+  "placename": "New Plymouth",
+  "region": "Taranaki",
+  "sources": {
+    "2013-04-02T08:58:38.000Z": "Extracted from the New Zealand National Bibliography (MARC record 8142195) downloaded March 2013.",
+    "2014-05-07T09:01:29.000Z": "Modified by DataBot"
+  },
+  "revision": 4
+}

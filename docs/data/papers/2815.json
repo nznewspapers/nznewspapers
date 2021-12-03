@@ -1,0 +1,27 @@
+{
+  "id": 2815,
+  "title": "Pi?pi?wharauroa (Gisborne)",
+  "genre": "Periodical",
+  "firstYear": "2003",
+  "finalYear": "9999",
+  "district": "Gisborne District",
+  "frequency": "Monthly",
+  "idMarcControlNumber": "7969212",
+  "idNZNewspapersV1": "14040",
+  "isCurrent": true,
+  "placecode": "05-01",
+  "placename": "Gisborne",
+  "region": "Gisborne",
+  "links": {
+    "2813": {
+      "direction": "Preceding",
+      "relationship": "Continues",
+      "target-description": "Tu?ranganui a? Kiwa pi?pi?wharauroa"
+    }
+  },
+  "sources": {
+    "2013-04-02T08:58:38.000Z": "Extracted from the New Zealand National Bibliography (MARC record 7969212) downloaded March 2013.",
+    "2014-05-07T09:01:08.000Z": "Modified by DataBot"
+  },
+  "revision": 5
+}

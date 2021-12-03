@@ -1,0 +1,26 @@
+{
+  "id": 2628,
+  "title": "Evening Star Dunedin Weekender",
+  "genre": "Alternate Edition",
+  "firstYear": "1979",
+  "finalYear": "1979",
+  "district": "Dunedin City",
+  "frequency": "Weekly",
+  "idMarcControlNumber": "8141957",
+  "idNZNewspapersV1": "65079",
+  "isCurrent": false,
+  "placecode": "13-03",
+  "placename": "Dunedin",
+  "region": "Otago",
+  "links": {
+    "2630": {
+      "direction": "Is Edition Of",
+      "target-description": "Dunedin Star Weekender"
+    }
+  },
+  "sources": {
+    "2013-04-02T08:58:38.000Z": "Extracted from the New Zealand National Bibliography (MARC record 8141957) downloaded March 2013.",
+    "2014-06-01T09:37:25.000Z": "Modified by gordon.paynter"
+  },
+  "revision": 5
+}

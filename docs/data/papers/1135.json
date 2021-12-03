@@ -1,0 +1,20 @@
+{
+  "id": 1135,
+  "title": "Lower North Weekly News",
+  "genre": "Newspaper",
+  "firstYear": "1962",
+  "finalYear": "1969",
+  "district": "Auckland",
+  "frequency": "Weekly",
+  "idMarcControlNumber": "8164623",
+  "idNZNewspapersV1": "60081",
+  "isCurrent": false,
+  "placecode": "02-01",
+  "placename": "Wellsford",
+  "region": "Auckland",
+  "sources": {
+    "2013-04-02T08:58:38.000Z": "Extracted from the New Zealand National Bibliography (MARC record 8164623) downloaded March 2013.",
+    "2014-05-07T09:16:54.000Z": "Modified by DataBot"
+  },
+  "revision": 4
+}

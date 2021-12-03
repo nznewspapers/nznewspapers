@@ -1,0 +1,20 @@
+{
+  "id": 1951,
+  "title": "Levin and Manakau Express and Horowhenua County Advertiser",
+  "genre": "Newspaper",
+  "firstYear": "1896",
+  "finalYear": "uuuu",
+  "district": "Horowhenua District",
+  "frequency": "Two issues per week",
+  "idMarcControlNumber": "8164497",
+  "idNZNewspapersV1": "70101",
+  "isCurrent": false,
+  "placecode": "08-07",
+  "placename": "Levin",
+  "region": "Manawatu-Wanganui",
+  "sources": {
+    "2013-04-02T08:58:38.000Z": "Extracted from the New Zealand National Bibliography (MARC record 8164497) downloaded March 2013.",
+    "2014-05-07T09:06:32.000Z": "Modified by DataBot"
+  },
+  "revision": 4
+}

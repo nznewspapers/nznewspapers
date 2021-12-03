@@ -1,0 +1,18 @@
+{
+  "id": 1640,
+  "title": "Konga-peke-e-maha",
+  "genre": "Newspaper",
+  "firstYear": "1916",
+  "finalYear": "uuuu",
+  "district": "Tauranga City",
+  "idMarcControlNumber": "8163603",
+  "idNZNewspapersV1": "62082",
+  "isCurrent": false,
+  "placecode": "04-02",
+  "placename": "Tauranga",
+  "region": "Bay of Plenty",
+  "sources": {
+    "2013-04-02T08:58:38.000Z": "Extracted from the New Zealand National Bibliography (MARC record 8163603) downloaded March 2013."
+  },
+  "revision": 2
+}

@@ -1,0 +1,22 @@
+{
+  "id": 1458,
+  "title": "Tamaki and Districts Times",
+  "genre": "Newspaper",
+  "firstYear": "2006",
+  "finalYear": "2006",
+  "district": "Auckland",
+  "frequency": "Weekly",
+  "idMarcControlNumber": "10974700",
+  "idNZNewspapersV1": "10058",
+  "isCurrent": false,
+  "placecode": "02-01-auckland",
+  "placename": "Auckland",
+  "price": "Gratis",
+  "region": "Auckland",
+  "urlCurrent": "http://www.times.co.nz/",
+  "sources": {
+    "2013-04-02T08:58:38.000Z": "Extracted from the New Zealand National Bibliography (MARC record 10974700) downloaded March 2013.",
+    "2014-05-07T09:46:28.000Z": "Modified by DataBot"
+  },
+  "revision": 6
+}

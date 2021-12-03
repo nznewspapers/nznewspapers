@@ -1,0 +1,20 @@
+{
+  "id": 2439,
+  "title": "Herald-gazette",
+  "genre": "Newspaper",
+  "firstYear": "1960",
+  "finalYear": "1962",
+  "district": "Christchurch City",
+  "frequency": "Monthly",
+  "idMarcControlNumber": "8156788",
+  "idNZNewspapersV1": "72069",
+  "isCurrent": false,
+  "placecode": "12-05-christchur",
+  "placename": "Christchurch",
+  "region": "Canterbury",
+  "sources": {
+    "2013-04-02T08:58:38.000Z": "Extracted from the New Zealand National Bibliography (MARC record 8156788) downloaded March 2013.",
+    "2014-05-07T09:01:48.000Z": "Modified by DataBot"
+  },
+  "revision": 4
+}

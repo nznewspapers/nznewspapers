@@ -1,0 +1,28 @@
+{
+  "id": 2285,
+  "title": "Charleston Argus",
+  "genre": "Newspaper",
+  "firstYear": "1867",
+  "finalYear": "1867",
+  "district": "Buller District",
+  "firstIssueDate": "1867-03-02",
+  "frequency": "Two issues per week",
+  "idMarcControlNumber": "8134583",
+  "idNZNewspapersV1": "71056",
+  "isCurrent": false,
+  "placecode": "11-01",
+  "placename": "Charleston",
+  "region": "West Coast",
+  "urlDigitized": "http://paperspast.natlib.govt.nz/cgi-bin/paperspast?a=d&cl=CL1.CHARG",
+  "links": {
+    "2288": {
+      "direction": "Continued By",
+      "target-description": "Charleston Herald"
+    }
+  },
+  "sources": {
+    "2013-04-02T08:58:38.000Z": "Extracted from the New Zealand National Bibliography (MARC record 8134583) downloaded March 2013.",
+    "2014-08-20T09:00:25.000Z": "Modified by gordon.paynter"
+  },
+  "revision": 7
+}

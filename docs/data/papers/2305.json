@@ -1,0 +1,32 @@
+{
+  "id": 2305,
+  "title": "Westport Times & Star",
+  "genre": "Newspaper",
+  "firstYear": "1898",
+  "finalYear": "1937",
+  "district": "Buller District",
+  "frequency": "Daily",
+  "idMarcControlNumber": "8187809",
+  "idNZNewspapersV1": "67179",
+  "isCurrent": false,
+  "placecode": "11-01",
+  "placename": "Westport",
+  "region": "West Coast",
+  "links": {
+    "2304": {
+      "direction": "Preceding",
+      "relationship": "Continues",
+      "target-description": "Westport Times and  Evening Star"
+    },
+    "2307": {
+      "direction": "Succeeding",
+      "relationship": "Continued by",
+      "target-description": "Buller Times"
+    }
+  },
+  "sources": {
+    "2013-04-02T08:58:38.000Z": "Extracted from the New Zealand National Bibliography (MARC record 8187809) downloaded March 2013.",
+    "2014-03-21T11:44:36.000Z": "Modified by DataBot"
+  },
+  "revision": 6
+}

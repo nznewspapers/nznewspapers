@@ -1,0 +1,19 @@
+{
+  "id": 2034,
+  "title": "Upper Hutt News & More",
+  "genre": "Newspaper",
+  "firstYear": "2004",
+  "finalYear": "9999",
+  "district": "Upper Hutt City",
+  "idMarcControlNumber": "8651489",
+  "idNZNewspapersV1": "14222631",
+  "isCurrent": true,
+  "placecode": "09-05",
+  "placename": "Upper Hutt",
+  "region": "Wellington",
+  "sources": {
+    "2013-04-02T08:58:38.000Z": "Extracted from the New Zealand National Bibliography (MARC record 8651489) downloaded March 2013.",
+    "2014-04-23T10:13:05.000Z": "Modified by MarcLoaderBot"
+  },
+  "revision": 2
+}

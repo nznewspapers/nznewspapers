@@ -1,0 +1,20 @@
+{
+  "id": 1848,
+  "title": "Ohakune Times, Rangataua Advocate and Waimarino Gazette",
+  "genre": "Newspaper",
+  "firstYear": "1909",
+  "finalYear": "1948",
+  "district": "Ruapehu District",
+  "frequency": "Two issues per week",
+  "idMarcControlNumber": "8177351",
+  "idNZNewspapersV1": "70131",
+  "isCurrent": false,
+  "placecode": "08-01",
+  "placename": "Ohakune",
+  "region": "Manawatu-Wanganui",
+  "sources": {
+    "2013-04-02T08:58:38.000Z": "Extracted from the New Zealand National Bibliography (MARC record 8177351) downloaded March 2013.",
+    "2014-05-07T09:06:58.000Z": "Modified by DataBot"
+  },
+  "revision": 4
+}

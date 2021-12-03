@@ -1,0 +1,23 @@
+{
+  "id": 2247,
+  "title": "Nelson Weekly News",
+  "genre": "Newspaper",
+  "firstYear": "1886",
+  "finalYear": "1888",
+  "alternateTitle": {
+    "554005": "Nelson Weekly News: agricultural and family journal"
+  },
+  "district": "Nelson City",
+  "frequency": "Weekly",
+  "idMarcControlNumber": "8171124",
+  "idNZNewspapersV1": "60092",
+  "isCurrent": false,
+  "placecode": "10-02",
+  "placename": "Nelson",
+  "region": "Top of the South",
+  "sources": {
+    "2013-04-02T08:58:38.000Z": "Extracted from the New Zealand National Bibliography (MARC record 8171124) downloaded March 2013.",
+    "2014-05-07T09:17:51.000Z": "Modified by DataBot"
+  },
+  "revision": 6
+}

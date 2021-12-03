@@ -1,0 +1,20 @@
+{
+  "id": 2606,
+  "title": "Otago Workman",
+  "genre": "Newspaper",
+  "firstYear": "1887",
+  "finalYear": "1899",
+  "district": "Dunedin City",
+  "frequency": "Weekly",
+  "idMarcControlNumber": "8177762",
+  "idNZNewspapersV1": "69140",
+  "isCurrent": false,
+  "placecode": "13-03",
+  "placename": "Dunedin",
+  "region": "Otago",
+  "sources": {
+    "2013-04-02T08:58:38.000Z": "Extracted from the New Zealand National Bibliography (MARC record 8177762) downloaded March 2013.",
+    "2014-05-07T09:19:13.000Z": "Modified by DataBot"
+  },
+  "revision": 4
+}

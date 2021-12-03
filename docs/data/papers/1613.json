@@ -1,0 +1,27 @@
+{
+  "id": 1613,
+  "title": "The Patea Mail",
+  "genre": "Newspaper",
+  "firstYear": "1975",
+  "finalYear": "1999",
+  "district": "South Waikato District",
+  "firstIssueDate": "1975-04-16",
+  "idMarcControlNumber": "3531248",
+  "idNZNewspapersV1": "14352614",
+  "isCurrent": false,
+  "placecode": "03-07",
+  "placename": "Patea",
+  "region": "Waikato",
+  "links": {
+    "1615": {
+      "direction": "Succeeding",
+      "relationship": "Merged into",
+      "target-description": "Patea and Waverley Press"
+    }
+  },
+  "sources": {
+    "2013-04-02T08:58:38.000Z": "Extracted from the New Zealand National Bibliography (MARC record 3531248) downloaded March 2013.",
+    "2014-05-31T09:22:36.000Z": "Modified by gordon.paynter"
+  },
+  "revision": 5
+}

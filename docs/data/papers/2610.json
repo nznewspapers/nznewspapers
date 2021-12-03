@@ -1,0 +1,20 @@
+{
+  "id": 2610,
+  "title": "People's Journal of New Zealand",
+  "genre": "Newspaper",
+  "firstYear": "1893",
+  "finalYear": "1894",
+  "district": "Dunedin City",
+  "frequency": "Weekly",
+  "idMarcControlNumber": "8177882",
+  "idNZNewspapersV1": "67132",
+  "isCurrent": false,
+  "placecode": "13-03",
+  "placename": "Dunedin",
+  "region": "Otago",
+  "sources": {
+    "2013-04-02T08:58:38.000Z": "Extracted from the New Zealand National Bibliography (MARC record 8177882) downloaded March 2013.",
+    "2014-05-07T09:19:36.000Z": "Modified by DataBot"
+  },
+  "revision": 4
+}

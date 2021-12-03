@@ -1,0 +1,39 @@
+{
+  "id": 2266,
+  "title": "Marlborough Express",
+  "genre": "Newspaper",
+  "firstYear": "1866",
+  "finalYear": "9999",
+  "district": "Marlborough District",
+  "firstIssueDate": "1866-04-21",
+  "frequency": "Daily (Monday to Friday)",
+  "idMarcControlNumber": "3531187",
+  "idNZNewspapersV1": "5005",
+  "idPapersPastCode": "MEX",
+  "isCurrent": true,
+  "placecode": "10-03",
+  "placename": "Blenheim",
+  "price": "Gratis",
+  "region": "Top of the South",
+  "urlCurrent": "http://www.marlboroughexpress.co.nz/",
+  "urlDigitized": "http://paperspast.natlib.govt.nz/cgi-bin/paperspast?a=d&cl=CL1.MEX",
+  "notes": {
+    "179002": "Saturday Edition is called 'Saturday Express'."
+  },
+  "links": {
+    "2270": {
+      "direction": "Preceding",
+      "relationship": "Incorporates",
+      "target-description": "Marlborough Daily Times"
+    },
+    "2282": {
+      "direction": "Has Edition",
+      "target-description": "Marlborough Midweek"
+    }
+  },
+  "sources": {
+    "2013-04-02T08:58:38.000Z": "Extracted from the New Zealand National Bibliography (MARC record 3531187) downloaded March 2013.",
+    "2014-05-07T09:47:09.000Z": "Modified by DataBot"
+  },
+  "revision": 14
+}

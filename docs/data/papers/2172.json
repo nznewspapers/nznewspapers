@@ -1,0 +1,20 @@
+{
+  "id": 2172,
+  "title": "County News",
+  "genre": "Newspaper",
+  "firstYear": "1971",
+  "finalYear": "197u",
+  "district": "Wellington City",
+  "frequency": "Weekly",
+  "idMarcControlNumber": "8137141",
+  "idNZNewspapersV1": "9033",
+  "isCurrent": false,
+  "placecode": "09-08-wellington",
+  "placename": "Wellington",
+  "region": "Wellington",
+  "sources": {
+    "2013-04-02T08:58:38.000Z": "Extracted from the New Zealand National Bibliography (MARC record 8137141) downloaded March 2013.",
+    "2014-05-07T09:14:36.000Z": "Modified by DataBot"
+  },
+  "revision": 4
+}

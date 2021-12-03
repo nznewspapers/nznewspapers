@@ -1,0 +1,20 @@
+{
+  "id": 2658,
+  "title": "Weekly News",
+  "genre": "Newspaper",
+  "firstYear": "1862",
+  "finalYear": "uuuu",
+  "district": "Southland District",
+  "frequency": "Weekly",
+  "idMarcControlNumber": "8187377",
+  "idNZNewspapersV1": "61153",
+  "isCurrent": false,
+  "placecode": "14-01",
+  "placename": "Invercargill",
+  "region": "Southland",
+  "sources": {
+    "2013-04-02T08:58:38.000Z": "Extracted from the New Zealand National Bibliography (MARC record 8187377) downloaded March 2013.",
+    "2014-05-07T09:22:44.000Z": "Modified by DataBot"
+  },
+  "revision": 4
+}

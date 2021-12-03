@@ -1,0 +1,26 @@
+{
+  "id": 1647,
+  "title": "Mount Maunganui Sun",
+  "genre": "Newspaper",
+  "firstYear": "1975",
+  "finalYear": "1976",
+  "district": "Tauranga City",
+  "frequency": "Weekly",
+  "idMarcControlNumber": "8169191",
+  "idNZNewspapersV1": "59100",
+  "isCurrent": false,
+  "placecode": "04-02",
+  "placename": "Tauranga",
+  "region": "Bay of Plenty",
+  "links": {
+    "1648": {
+      "direction": "Continued By",
+      "target-description": "Bay Sun"
+    }
+  },
+  "sources": {
+    "2013-04-02T08:58:38.000Z": "Extracted from the New Zealand National Bibliography (MARC record 8169191) downloaded March 2013.",
+    "2014-11-19T08:37:39.000Z": "Modified by gordon.paynter"
+  },
+  "revision": 5
+}

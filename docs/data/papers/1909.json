@@ -1,0 +1,39 @@
+{
+  "id": 1909,
+  "title": "Manawatu Daily Standard",
+  "genre": "Masthead",
+  "firstYear": "1886",
+  "finalYear": "1897",
+  "alternateTitle": {
+    "512010": "Manawatu Daily Standard, Pohangia County Advertiser and West Coast Gazette",
+    "519021": "Manawatu Daily Standard, Rangitikei Advertiser, and West Coast Gazette"
+  },
+  "district": "Palmerston North City",
+  "frequency": "Daily",
+  "idMarcControlNumber": "13623682",
+  "idNZNewspapersV1": "61179",
+  "isCurrent": false,
+  "placecode": "08-05",
+  "placename": "Palmerston North",
+  "region": "Manawatu-Wanganui",
+  "urlDigitized": "http://paperspast.natlib.govt.nz/cgi-bin/paperspast?a=d&cl=CL1.MS&e=-------10--1----0--",
+  "links": {
+    "1906": {
+      "direction": "Continues",
+      "target-description": "Manawatu Standard [1880-1886]"
+    },
+    "1907": {
+      "direction": "Is Masthead Of",
+      "target-description": "Manawatu Standard"
+    },
+    "1911": {
+      "direction": "Continued By",
+      "target-description": "Manawatu Evening Standard"
+    }
+  },
+  "sources": {
+    "2013-04-02T08:58:38.000Z": "Extracted from the New Zealand National Bibliography (MARC record 13623682) downloaded March 2013.",
+    "2014-03-21T11:17:08.000Z": "Modified by DataBot"
+  },
+  "revision": 11
+}

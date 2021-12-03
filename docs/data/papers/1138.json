@@ -1,0 +1,20 @@
+{
+  "id": 1138,
+  "title": "Tatler",
+  "genre": "Newspaper",
+  "firstYear": "1962",
+  "finalYear": "uuuu",
+  "district": "Auckland",
+  "frequency": "Fortnightly",
+  "idMarcControlNumber": "8183844",
+  "idNZNewspapersV1": "60148",
+  "isCurrent": false,
+  "placecode": "02-01",
+  "placename": "Remuera",
+  "region": "Auckland",
+  "sources": {
+    "2013-04-02T08:58:38.000Z": "Extracted from the New Zealand National Bibliography (MARC record 8183844) downloaded March 2013.",
+    "2014-05-07T08:57:57.000Z": "Modified by DataBot"
+  },
+  "revision": 4
+}

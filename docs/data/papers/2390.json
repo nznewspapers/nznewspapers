@@ -1,0 +1,26 @@
+{
+  "id": 2390,
+  "title": "Star (Dunedin Edition)",
+  "genre": "Minor Edition",
+  "firstYear": "1980",
+  "finalYear": "1980",
+  "district": "Christchurch City",
+  "frequency": "Daily",
+  "idMarcControlNumber": "8181999",
+  "idNZNewspapersV1": "66147",
+  "isCurrent": false,
+  "placecode": "12-05",
+  "placename": "Christchurch",
+  "region": "Canterbury",
+  "links": {
+    "2387": {
+      "direction": "Is Edition Of",
+      "target-description": "Christchurch Star"
+    }
+  },
+  "sources": {
+    "2013-04-02T08:58:38.000Z": "Extracted from the New Zealand National Bibliography (MARC record 8181999) downloaded March 2013.",
+    "2014-04-12T12:04:59.000Z": "Modified by Linkerbot"
+  },
+  "revision": 5
+}

@@ -1,0 +1,20 @@
+{
+  "id": 1082,
+  "title": "Newton Sun",
+  "genre": "Newspaper",
+  "firstYear": "1898",
+  "finalYear": "1898",
+  "district": "Auckland",
+  "frequency": "Fortnightly",
+  "idMarcControlNumber": "8173683",
+  "idNZNewspapersV1": "58107",
+  "isCurrent": false,
+  "placecode": "02-01",
+  "placename": "Newton",
+  "region": "Auckland",
+  "sources": {
+    "2013-04-02T08:58:38.000Z": "Extracted from the New Zealand National Bibliography (MARC record 8173683) downloaded March 2013.",
+    "2014-05-07T08:57:30.000Z": "Modified by DataBot"
+  },
+  "revision": 4
+}

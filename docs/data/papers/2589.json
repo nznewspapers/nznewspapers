@@ -1,0 +1,26 @@
+{
+  "id": 2589,
+  "title": "Southern League and Daily Advertiser",
+  "genre": "Newspaper",
+  "firstYear": "1871",
+  "finalYear": "1871",
+  "district": "Dunedin City",
+  "frequency": "Daily",
+  "idMarcControlNumber": "8181859",
+  "idNZNewspapersV1": "59141",
+  "isCurrent": false,
+  "placecode": "13-03",
+  "placename": "Dunedin",
+  "region": "Otago",
+  "links": {
+    "2588": {
+      "direction": "Has Masthead",
+      "target-description": "Daily Advertiser and  Southern League"
+    }
+  },
+  "sources": {
+    "2013-04-02T08:58:38.000Z": "Extracted from the New Zealand National Bibliography (MARC record 8181859) downloaded March 2013.",
+    "2014-04-12T12:35:01.000Z": "Modified by gordon.paynter"
+  },
+  "revision": 5
+}

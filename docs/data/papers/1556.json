@@ -1,0 +1,20 @@
+{
+  "id": 1556,
+  "title": "Review",
+  "genre": "Newspaper",
+  "firstYear": "1934",
+  "finalYear": "1935",
+  "district": "Matamata-Piako District",
+  "frequency": "Weekly",
+  "idMarcControlNumber": "8181442",
+  "idNZNewspapersV1": "68124",
+  "isCurrent": false,
+  "placecode": "03-04",
+  "placename": "Matamata",
+  "region": "Waikato",
+  "sources": {
+    "2013-04-02T08:58:38.000Z": "Extracted from the New Zealand National Bibliography (MARC record 8181442) downloaded March 2013.",
+    "2014-05-07T09:19:51.000Z": "Modified by DataBot"
+  },
+  "revision": 4
+}

@@ -1,0 +1,27 @@
+{
+  "id": 2303,
+  "title": "Reefton Guardian",
+  "genre": "Newspaper",
+  "firstYear": "1888",
+  "finalYear": "1894",
+  "district": "Buller District",
+  "frequency": "Daily",
+  "idMarcControlNumber": "8181425",
+  "idNZNewspapersV1": "69153",
+  "isCurrent": false,
+  "placecode": "11-01",
+  "placename": "Reefton",
+  "region": "West Coast",
+  "links": {
+    "2297": {
+      "direction": "Succeeding",
+      "relationship": "Absorbed by",
+      "target-description": "The  Inangahua Times"
+    }
+  },
+  "sources": {
+    "2013-04-02T08:58:38.000Z": "Extracted from the New Zealand National Bibliography (MARC record 8181425) downloaded March 2013.",
+    "2014-03-21T11:40:18.000Z": "Modified by DataBot"
+  },
+  "revision": 5
+}

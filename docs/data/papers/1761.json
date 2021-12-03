@@ -1,0 +1,20 @@
+{
+  "id": 1761,
+  "title": "Telegraph",
+  "genre": "Newspaper",
+  "firstYear": "1871",
+  "finalYear": "1873",
+  "district": "Napier City",
+  "frequency": "Weekly",
+  "idMarcControlNumber": "8183938",
+  "idNZNewspapersV1": "69175",
+  "isCurrent": false,
+  "placecode": "06-03",
+  "placename": "Napier",
+  "region": "Hawke's Bay",
+  "sources": {
+    "2013-04-02T08:58:38.000Z": "Extracted from the New Zealand National Bibliography (MARC record 8183938) downloaded March 2013.",
+    "2014-05-07T09:21:11.000Z": "Modified by DataBot"
+  },
+  "revision": 4
+}

@@ -1,0 +1,38 @@
+{
+  "id": 1796,
+  "title": "Taranaki Daily News",
+  "genre": "Newspaper",
+  "firstYear": "1875",
+  "finalYear": "9999",
+  "district": "New Plymouth District",
+  "idNZNewspapersV1": "10812250",
+  "idPapersPastCode": "TDN",
+  "isCurrent": true,
+  "placecode": "07-01",
+  "placename": "New Plymouth",
+  "region": "Taranaki",
+  "urlCurrent": "http://www.stuff.co.nz/taranaki-daily-news",
+  "urlDigitized": "http://paperspast.natlib.govt.nz/cgi-bin/paperspast?a=d&cl=CL1.TDN",
+  "links": {
+    "1800": {
+      "direction": "Has Masthead",
+      "target-description": "Taranaki Daily News"
+    },
+    "1803": {
+      "direction": "Has Edition",
+      "target-description": "Taranaki Daily News (Overseas Edition)"
+    },
+    "1807": {
+      "direction": "Has Masthead",
+      "target-description": "Daily News"
+    },
+    "1821": {
+      "direction": "Has Masthead",
+      "target-description": "Taranaki Daily News"
+    }
+  },
+  "sources": {
+    "2014-06-01T09:42:04.000Z": "Modified by gordon.paynter"
+  },
+  "revision": 8
+}

@@ -1,0 +1,48 @@
+{
+  "id": 1248,
+  "title": "Aucklander (South Ed.)",
+  "genre": "Alternate Edition",
+  "firstYear": "2003",
+  "finalYear": "2008",
+  "district": "Auckland",
+  "frequency": "Weekly",
+  "idMarcControlNumber": "7978050",
+  "idNZNewspapersV1": "3044",
+  "isCurrent": false,
+  "placecode": "02-01",
+  "placename": "Auckland",
+  "price": "Gratis",
+  "region": "Auckland",
+  "urlCurrent": "http://www.theaucklander.co.nz/",
+  "links": {
+    "1231": {
+      "direction": "Preceding",
+      "relationship": "Formed by the union",
+      "target-description": "Papatoetoe & Otahuhu week"
+    },
+    "1232": {
+      "direction": "Preceding",
+      "relationship": "Formed by the union",
+      "target-description": "Our town Papakura"
+    },
+    "1249": {
+      "direction": "Is Edition Of",
+      "target-description": "The Aucklander"
+    },
+    "1266": {
+      "direction": "Succeeding",
+      "relationship": "Continued by",
+      "target-description": "The Aucklander Manukau City"
+    },
+    "1418": {
+      "direction": "Preceding",
+      "relationship": "Formed by the union",
+      "target-description": "Manurewa week"
+    }
+  },
+  "sources": {
+    "2013-04-02T08:58:38.000Z": "Extracted from the New Zealand National Bibliography (MARC record 7978050) downloaded March 2013.",
+    "2015-01-21T10:27:10.000Z": "Modified by gordon.paynter"
+  },
+  "revision": 11
+}

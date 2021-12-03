@@ -1,0 +1,20 @@
+{
+  "id": 2901,
+  "title": "Our Japan!",
+  "genre": "Periodical",
+  "firstYear": "2007",
+  "finalYear": "2008",
+  "district": "Wellington City",
+  "frequency": "Monthly",
+  "idMarcControlNumber": "11274853",
+  "idNZNewspapersV1": "7056",
+  "isCurrent": false,
+  "placecode": "09-08-wellington",
+  "placename": "Wellington",
+  "region": "Wellington",
+  "sources": {
+    "2013-04-02T08:58:38.000Z": "Extracted from the New Zealand National Bibliography (MARC record 11274853) downloaded March 2013.",
+    "2014-05-07T08:59:36.000Z": "Modified by DataBot"
+  },
+  "revision": 4
+}

@@ -1,0 +1,33 @@
+{
+  "id": 1778,
+  "title": "The Napier Courier",
+  "genre": "Newspaper",
+  "firstYear": "1996",
+  "finalYear": "9999",
+  "district": "Napier City",
+  "frequency": "Weekly",
+  "idMarcControlNumber": "4781820",
+  "idNZNewspapersV1": "6028",
+  "isCurrent": true,
+  "placecode": "06-03",
+  "placename": "Napier",
+  "price": "Gratis",
+  "region": "Hawke's Bay",
+  "links": {
+    "1779": {
+      "direction": "Preceding",
+      "relationship": "Continues",
+      "target-description": "Courier-leader (Napier ed.)"
+    },
+    "2824": {
+      "direction": "Succeeding",
+      "relationship": "Continued in part by",
+      "target-description": "Taradale observer (Taradale, N.Z.)"
+    }
+  },
+  "sources": {
+    "2013-04-02T08:58:38.000Z": "Extracted from the New Zealand National Bibliography (MARC record 4781820) downloaded March 2013.",
+    "2014-05-07T09:49:10.000Z": "Modified by DataBot"
+  },
+  "revision": 9
+}

@@ -1,0 +1,36 @@
+{
+  "id": 1726,
+  "title": "Herald",
+  "genre": "Masthead",
+  "firstYear": "1999",
+  "finalYear": "2000",
+  "district": "Gisborne District",
+  "frequency": "Daily (except Sunday)",
+  "idMarcControlNumber": "4813216",
+  "idNZNewspapersV1": "4030",
+  "isCurrent": false,
+  "placecode": "05-01",
+  "placename": "Gisborne",
+  "region": "Gisborne",
+  "links": {
+    "1719": {
+      "direction": "Preceding",
+      "relationship": "Continues",
+      "target-description": "Gisborne Herald [1939]"
+    },
+    "1720": {
+      "direction": "Is Masthead Of",
+      "target-description": "Gisborne Herald"
+    },
+    "1727": {
+      "direction": "Succeeding",
+      "relationship": "Continued by",
+      "target-description": "Gisborne Herald [2000]"
+    }
+  },
+  "sources": {
+    "2013-04-02T08:58:38.000Z": "Extracted from the New Zealand National Bibliography (MARC record 4813216) downloaded March 2013.",
+    "2014-03-21T11:47:49.000Z": "Modified by DataBot"
+  },
+  "revision": 7
+}

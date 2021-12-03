@@ -1,0 +1,20 @@
+{
+  "id": 1787,
+  "title": "Mail",
+  "genre": "Newspaper",
+  "firstYear": "1975",
+  "finalYear": "1980",
+  "district": "Central Hawke's Bay District",
+  "frequency": "Weekly",
+  "idMarcControlNumber": "8164642",
+  "idNZNewspapersV1": "60082",
+  "isCurrent": false,
+  "placecode": "06-04",
+  "placename": "Waipawa",
+  "region": "Hawke's Bay",
+  "sources": {
+    "2013-04-02T08:58:38.000Z": "Extracted from the New Zealand National Bibliography (MARC record 8164642) downloaded March 2013.",
+    "2014-05-07T09:16:58.000Z": "Modified by DataBot"
+  },
+  "revision": 4
+}

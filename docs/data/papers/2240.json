@@ -1,0 +1,20 @@
+{
+  "id": 2240,
+  "title": "The Nelson Advertiser and Family Paper",
+  "genre": "Newspaper",
+  "firstYear": "1860",
+  "finalYear": "1861",
+  "district": "Nelson City",
+  "frequency": "Weekly",
+  "idMarcControlNumber": "7618228",
+  "idNZNewspapersV1": "4047",
+  "isCurrent": false,
+  "placecode": "10-02",
+  "placename": "Nelson",
+  "region": "Top of the South",
+  "sources": {
+    "2013-04-02T08:58:38.000Z": "Extracted from the New Zealand National Bibliography (MARC record 7618228) downloaded March 2013.",
+    "2014-05-07T09:13:33.000Z": "Modified by DataBot"
+  },
+  "revision": 4
+}

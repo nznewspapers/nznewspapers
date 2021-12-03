@@ -1,0 +1,27 @@
+{
+  "id": 2360,
+  "title": "Selwyn Times",
+  "genre": "Newspaper",
+  "firstYear": "2007",
+  "finalYear": "9999",
+  "district": "Selwyn District",
+  "frequency": "Weekly",
+  "idMarcControlNumber": "11498401",
+  "idNZNewspapersV1": "11054",
+  "isCurrent": true,
+  "placecode": "12-03",
+  "placename": "Rolleston",
+  "region": "Canterbury",
+  "links": {
+    "2469": {
+      "direction": "Preceding",
+      "relationship": "Continues",
+      "target-description": "Canterbury times (1996)"
+    }
+  },
+  "sources": {
+    "2013-04-02T08:58:38.000Z": "Extracted from the New Zealand National Bibliography (MARC record 11498401) downloaded March 2013.",
+    "2014-05-07T09:08:52.000Z": "Modified by DataBot"
+  },
+  "revision": 5
+}

@@ -1,0 +1,21 @@
+{
+  "id": 1426,
+  "title": "Te Maori News (1996)",
+  "genre": "Newspaper",
+  "firstYear": "1996",
+  "finalYear": "1997",
+  "district": "Auckland",
+  "frequency": "Weekly",
+  "idMarcControlNumber": "4730872",
+  "idNZNewspapersV1": "66026",
+  "isCurrent": false,
+  "placecode": "02-01-auckland",
+  "placename": "Auckland",
+  "price": "Gratis",
+  "region": "Auckland",
+  "sources": {
+    "2013-04-02T08:58:38.000Z": "Extracted from the New Zealand National Bibliography (MARC record 4730872) downloaded March 2013.",
+    "2014-05-07T09:48:57.000Z": "Modified by DataBot"
+  },
+  "revision": 6
+}

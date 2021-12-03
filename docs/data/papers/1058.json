@@ -1,0 +1,35 @@
+{
+  "id": 1058,
+  "title": "Whangarei's First Report",
+  "genre": "Masthead",
+  "firstYear": "1995",
+  "finalYear": "1997",
+  "district": "Whangarei District",
+  "idMarcControlNumber": "4772945",
+  "idNZNewspapersV1": "3028",
+  "isCurrent": false,
+  "placecode": "01-02",
+  "placename": "Whangarei",
+  "region": "Northland",
+  "links": {
+    "1054": {
+      "direction": "Is Masthead Of",
+      "target-description": "Whangarei Report"
+    },
+    "1056": {
+      "direction": "Continues",
+      "relationship": "Continues",
+      "target-description": "Whangarei Report [1988]"
+    },
+    "1059": {
+      "direction": "Continued By",
+      "relationship": "Continued by",
+      "target-description": "Whangarei Report [1997]"
+    }
+  },
+  "sources": {
+    "2013-04-02T08:58:38.000Z": "Extracted from the New Zealand National Bibliography (MARC record 4772945) downloaded March 2013.",
+    "2013-11-08T09:05:39.000Z": "Modified by gordon.paynter"
+  },
+  "revision": 5
+}

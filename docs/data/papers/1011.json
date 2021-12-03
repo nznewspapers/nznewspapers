@@ -1,0 +1,32 @@
+{
+  "id": 1011,
+  "title": "Northland Age",
+  "genre": "Newspaper",
+  "firstYear": "1918",
+  "finalYear": "1928",
+  "district": "Far North District",
+  "frequency": "Weekly",
+  "idMarcControlNumber": "8176671",
+  "idNZNewspapersV1": "14044",
+  "isCurrent": false,
+  "placecode": "01-01",
+  "placename": "Kaitaia",
+  "region": "Northland",
+  "links": {
+    "1007": {
+      "direction": "Preceding",
+      "relationship": "Continues",
+      "target-description": "North Auckland Age"
+    },
+    "1016": {
+      "direction": "Succeeding",
+      "relationship": "Continued by",
+      "target-description": "Guardian"
+    }
+  },
+  "sources": {
+    "2013-04-02T08:58:38.000Z": "Extracted from the New Zealand National Bibliography (MARC record 8176671) downloaded March 2013.",
+    "2014-05-07T09:18:56.000Z": "Modified by DataBot"
+  },
+  "revision": 6
+}

@@ -1,0 +1,27 @@
+{
+  "id": 2198,
+  "title": "This is the Drum",
+  "genre": "Newspaper",
+  "firstYear": "1993",
+  "finalYear": "1993",
+  "district": "Wellington City",
+  "frequency": "Irregular",
+  "idMarcControlNumber": "4425127",
+  "idNZNewspapersV1": "11017",
+  "isCurrent": false,
+  "placecode": "09-08-wellington",
+  "placename": "Wellington",
+  "region": "Wellington",
+  "links": {
+    "undefined-unknown": {
+      "direction": "Preceding",
+      "relationship": "Continues",
+      "target-description": "Here's the drum"
+    }
+  },
+  "sources": {
+    "2013-04-02T08:58:38.000Z": "Extracted from the New Zealand National Bibliography (MARC record 4425127) downloaded March 2013.",
+    "2014-05-07T08:58:56.000Z": "Modified by DataBot"
+  },
+  "revision": 5
+}

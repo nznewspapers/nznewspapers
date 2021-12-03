@@ -1,0 +1,27 @@
+{
+  "id": 1047,
+  "title": "Whangarei and District Argus",
+  "genre": "Newspaper",
+  "firstYear": "1930",
+  "finalYear": "1931",
+  "district": "Whangarei District",
+  "frequency": "Weekly",
+  "idMarcControlNumber": "8187822",
+  "idNZNewspapersV1": "64177",
+  "isCurrent": false,
+  "placecode": "01-02",
+  "placename": "Whangarei",
+  "region": "Northland",
+  "links": {
+    "1048": {
+      "direction": "Succeeding",
+      "relationship": "Incorporated by",
+      "target-description": "Mirror"
+    }
+  },
+  "sources": {
+    "2013-04-02T08:58:38.000Z": "Extracted from the New Zealand National Bibliography (MARC record 8187822) downloaded March 2013.",
+    "2014-05-07T09:23:07.000Z": "Modified by DataBot"
+  },
+  "revision": 5
+}

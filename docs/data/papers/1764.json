@@ -1,0 +1,20 @@
+{
+  "id": 1764,
+  "title": "Weekly Mercury and Hawke's Bay Advertiser",
+  "genre": "Newspaper",
+  "firstYear": "1875",
+  "finalYear": "1882",
+  "district": "Napier City",
+  "frequency": "Weekly",
+  "idMarcControlNumber": "8187346",
+  "idNZNewspapersV1": "60164",
+  "isCurrent": false,
+  "placecode": "06-03",
+  "placename": "Napier",
+  "region": "Hawke's Bay",
+  "sources": {
+    "2013-04-02T08:58:38.000Z": "Extracted from the New Zealand National Bibliography (MARC record 8187346) downloaded March 2013.",
+    "2014-05-07T09:22:39.000Z": "Modified by DataBot"
+  },
+  "revision": 4
+}

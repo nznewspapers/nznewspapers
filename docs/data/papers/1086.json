@@ -1,0 +1,20 @@
+{
+  "id": 1086,
+  "title": "N. Z. Sun",
+  "genre": "Newspaper",
+  "firstYear": "1905",
+  "finalYear": "1955",
+  "district": "Auckland",
+  "frequency": "Weekly",
+  "idMarcControlNumber": "8169269",
+  "idNZNewspapersV1": "68093",
+  "isCurrent": false,
+  "placecode": "02-01",
+  "placename": "Onehunga",
+  "region": "Auckland",
+  "sources": {
+    "2013-04-02T08:58:38.000Z": "Extracted from the New Zealand National Bibliography (MARC record 8169269) downloaded March 2013.",
+    "2014-05-07T09:17:44.000Z": "Modified by DataBot"
+  },
+  "revision": 4
+}

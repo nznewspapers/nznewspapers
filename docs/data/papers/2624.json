@@ -1,0 +1,21 @@
+{
+  "id": 2624,
+  "title": "Taieri Herald",
+  "genre": "Newspaper",
+  "firstYear": "1962",
+  "finalYear": "2012",
+  "district": "Dunedin City",
+  "frequency": "Weekly",
+  "idMarcControlNumber": "3531255",
+  "idNZNewspapersV1": "20001",
+  "isCurrent": false,
+  "placecode": "13-03",
+  "placename": "Mosgiel",
+  "price": "Gratis",
+  "region": "Otago",
+  "sources": {
+    "2013-04-02T08:58:38.000Z": "Extracted from the New Zealand National Bibliography (MARC record 3531255) downloaded March 2013.",
+    "2014-05-07T09:47:43.000Z": "Modified by DataBot"
+  },
+  "revision": 6
+}

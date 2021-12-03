@@ -1,0 +1,20 @@
+{
+  "id": 2219,
+  "title": "Golden Bay Argus",
+  "genre": "Newspaper",
+  "firstYear": "1883",
+  "finalYear": "1915",
+  "district": "Tasman District",
+  "frequency": "Weekly",
+  "idMarcControlNumber": "8142283",
+  "idNZNewspapersV1": "62066",
+  "isCurrent": false,
+  "placecode": "10-01",
+  "placename": "Collingwood",
+  "region": "Top of the South",
+  "sources": {
+    "2013-04-02T08:58:38.000Z": "Extracted from the New Zealand National Bibliography (MARC record 8142283) downloaded March 2013.",
+    "2014-05-07T09:15:40.000Z": "Modified by DataBot"
+  },
+  "revision": 4
+}

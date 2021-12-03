@@ -1,0 +1,25 @@
+{
+  "id": 2711,
+  "title": "Kawau Island new Kookaburra",
+  "genre": "Periodical",
+  "firstYear": "1979",
+  "finalYear": "1992",
+  "district": "Auckland",
+  "idMarcControlNumber": "3383885",
+  "idNZNewspapersV1": "13001",
+  "isCurrent": false,
+  "placecode": "02-01",
+  "placename": "Kawau Island",
+  "region": "Auckland",
+  "links": {
+    "undefined-unknown": {
+      "direction": "Succeeding",
+      "relationship": "Continued by",
+      "target-description": "Kookaburra (Kawau Island, N.Z.)"
+    }
+  },
+  "sources": {
+    "2013-04-02T08:58:38.000Z": "Extracted from the New Zealand National Bibliography (MARC record 3383885) downloaded March 2013."
+  },
+  "revision": 4
+}

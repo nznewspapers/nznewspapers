@@ -1,0 +1,20 @@
+{
+  "id": 1510,
+  "title": "Chat",
+  "genre": "Newspaper",
+  "firstYear": "1964",
+  "finalYear": "1966",
+  "district": "Hauraki District",
+  "frequency": "Weekly",
+  "idMarcControlNumber": "8134680",
+  "idNZNewspapersV1": "70057",
+  "isCurrent": false,
+  "placecode": "03-02",
+  "placename": "Paeroa",
+  "region": "Waikato",
+  "sources": {
+    "2013-04-02T08:58:38.000Z": "Extracted from the New Zealand National Bibliography (MARC record 8134680) downloaded March 2013.",
+    "2014-05-07T09:14:23.000Z": "Modified by DataBot"
+  },
+  "revision": 4
+}

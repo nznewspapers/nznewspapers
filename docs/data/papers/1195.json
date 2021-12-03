@@ -1,0 +1,20 @@
+{
+  "id": 1195,
+  "title": "Manukau Courier (Central ed. : 1981)",
+  "genre": "Newspaper",
+  "firstYear": "1981",
+  "finalYear": "1984",
+  "district": "Auckland",
+  "frequency": "Two issues per week",
+  "idMarcControlNumber": "8164698",
+  "idNZNewspapersV1": "63093",
+  "isCurrent": false,
+  "placecode": "02-01",
+  "placename": "Otahuhu",
+  "region": "Auckland",
+  "sources": {
+    "2013-04-02T08:58:38.000Z": "Extracted from the New Zealand National Bibliography (MARC record 8164698) downloaded March 2013.",
+    "2014-05-07T09:06:40.000Z": "Modified by DataBot"
+  },
+  "revision": 4
+}

@@ -1,0 +1,28 @@
+{
+  "id": 2277,
+  "title": "Picton Paper",
+  "genre": "Newspaper",
+  "firstYear": "1977",
+  "finalYear": "1994",
+  "district": "Marlborough District",
+  "frequency": "Weekly",
+  "idMarcControlNumber": "3604373",
+  "idNZNewspapersV1": "17002",
+  "isCurrent": false,
+  "placecode": "10-03",
+  "placename": "Picton",
+  "price": "Gratis",
+  "region": "Top of the South",
+  "links": {
+    "2258": {
+      "direction": "Succeeding",
+      "relationship": "Absorbed by",
+      "target-description": "Marlborough times (Nelson, N.Z.)"
+    }
+  },
+  "sources": {
+    "2013-04-02T08:58:38.000Z": "Extracted from the New Zealand National Bibliography (MARC record 3604373) downloaded March 2013.",
+    "2014-05-07T09:48:01.000Z": "Modified by DataBot"
+  },
+  "revision": 7
+}

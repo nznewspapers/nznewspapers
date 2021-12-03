@@ -1,0 +1,31 @@
+{
+  "id": 1411,
+  "title": "New Truth & TV Extra",
+  "genre": "Newspaper",
+  "firstYear": "1988",
+  "finalYear": "1997",
+  "district": "Auckland",
+  "idMarcControlNumber": "3516014",
+  "idNZNewspapersV1": "3006",
+  "isCurrent": false,
+  "placecode": "02-01-auckland",
+  "placename": "Auckland",
+  "region": "Auckland",
+  "links": {
+    "1430": {
+      "direction": "Succeeding",
+      "relationship": "Continued by",
+      "target-description": "New  Zealand Truth &  TV  Extra"
+    },
+    "2130": {
+      "direction": "Preceding",
+      "relationship": "Continues",
+      "target-description": "N.Z. Truth"
+    }
+  },
+  "sources": {
+    "2013-04-02T08:58:38.000Z": "Extracted from the New Zealand National Bibliography (MARC record 3516014) downloaded March 2013.",
+    "2013-05-17T10:27:27.000Z": "Modified by gordon.paynter"
+  },
+  "revision": 4
+}

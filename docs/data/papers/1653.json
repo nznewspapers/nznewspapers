@@ -1,0 +1,29 @@
+{
+  "id": 1653,
+  "title": "Spree",
+  "genre": "Weekly Edition",
+  "firstYear": "1985",
+  "finalYear": "1988",
+  "district": "Tauranga City",
+  "frequency": "Weekly",
+  "idMarcControlNumber": "8181976",
+  "idNZNewspapersV1": "68134",
+  "isCurrent": false,
+  "placecode": "04-02",
+  "placename": "Tauranga",
+  "region": "Bay of Plenty",
+  "notes": {
+    "520001": "Final year uncertain (assumed 1988 based on Bay Sun)."
+  },
+  "links": {
+    "1648": {
+      "direction": "Is Edition Of",
+      "target-description": "Bay Sun"
+    }
+  },
+  "sources": {
+    "2013-04-02T08:58:38.000Z": "Extracted from the New Zealand National Bibliography (MARC record 8181976) downloaded March 2013.",
+    "2014-05-15T04:30:29.000Z": "Modified by DataBot"
+  },
+  "revision": 7
+}

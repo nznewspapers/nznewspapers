@@ -1,0 +1,28 @@
+{
+  "id": 2855,
+  "title": "Norwester",
+  "genre": "Periodical",
+  "firstYear": "2006",
+  "finalYear": "2008",
+  "district": "Porirua City",
+  "frequency": "Fortnightly",
+  "idMarcControlNumber": "11059780",
+  "idNZNewspapersV1": "6050",
+  "isCurrent": false,
+  "placecode": "09-06",
+  "placename": "Porirua",
+  "price": "Gratis",
+  "region": "Wellington",
+  "links": {
+    "2212": {
+      "direction": "Preceding",
+      "relationship": "Separted from",
+      "target-description": "Wellingtonian (Wellington, N.Z. : 2004)"
+    }
+  },
+  "sources": {
+    "2013-04-02T08:58:38.000Z": "Extracted from the New Zealand National Bibliography (MARC record 11059780) downloaded March 2013.",
+    "2014-05-07T09:46:29.000Z": "Modified by DataBot"
+  },
+  "revision": 7
+}

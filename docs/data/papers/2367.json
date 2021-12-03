@@ -1,0 +1,34 @@
+{
+  "id": 2367,
+  "title": "The Oxford Observer and Canterbury Democrat",
+  "genre": "Masthead",
+  "firstYear": "1889",
+  "finalYear": "1901",
+  "district": "Waimakariri District",
+  "firstIssueDate": "1889-08-17",
+  "frequency": "Weekly",
+  "idMarcControlNumber": "8177797",
+  "idNZNewspapersV1": "10048",
+  "idPapersPastCode": "OO",
+  "isCurrent": false,
+  "placecode": "12-04",
+  "placename": "East Oxford",
+  "region": "Canterbury",
+  "urlDigitized": "http://paperspast.natlib.govt.nz/cgi-bin/paperspast?a=d&cl=CL1.OO",
+  "links": {
+    "2365": {
+      "direction": "Continues",
+      "relationship": "Continues",
+      "target-description": "Oxford and Cust Observer and Canterbury Liberal"
+    },
+    "2366": {
+      "direction": "Is Masthead Of",
+      "target-description": "Oxford Observer"
+    }
+  },
+  "sources": {
+    "2013-04-02T08:58:38.000Z": "Extracted from the New Zealand National Bibliography (MARC record 8177797) downloaded March 2013.",
+    "2014-05-07T09:19:22.000Z": "Modified by DataBot"
+  },
+  "revision": 10
+}

@@ -1,0 +1,24 @@
+{
+  "id": 1713,
+  "title": "Gisborne Times",
+  "genre": "Newspaper",
+  "firstYear": "1896",
+  "finalYear": "1938",
+  "district": "Gisborne District",
+  "idNZNewspapersV1": "269002",
+  "isCurrent": false,
+  "placecode": "05-01",
+  "placename": "Gisborne",
+  "region": "Gisborne",
+  "links": {
+    "1697": {
+      "direction": "Succeeding",
+      "relationship": "Absorbed by",
+      "target-description": "The Poverty Bay Herald"
+    }
+  },
+  "sources": {
+    "2013-08-22T10:34:56.000Z": "Modified by gordon.paynter"
+  },
+  "revision": 3
+}

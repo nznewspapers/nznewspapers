@@ -1,0 +1,28 @@
+{
+  "id": 1754,
+  "title": "Hastings Leader",
+  "genre": "Newspaper",
+  "firstYear": "2006",
+  "finalYear": "9999",
+  "district": "Hastings District",
+  "frequency": "Weekly",
+  "idMarcControlNumber": "10773839",
+  "idNZNewspapersV1": "7055",
+  "isCurrent": true,
+  "placecode": "06-02",
+  "placename": "Hastings",
+  "price": "Gratis",
+  "region": "Hawke's Bay",
+  "links": {
+    "1753": {
+      "direction": "Preceding",
+      "relationship": "Continues",
+      "target-description": "Leader (Hastings, N.Z. : 2004)"
+    }
+  },
+  "sources": {
+    "2013-04-02T08:58:38.000Z": "Extracted from the New Zealand National Bibliography (MARC record 10773839) downloaded March 2013.",
+    "2014-05-07T09:46:12.000Z": "Modified by DataBot"
+  },
+  "revision": 7
+}

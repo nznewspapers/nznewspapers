@@ -1,0 +1,20 @@
+{
+  "id": 1819,
+  "title": "Waitara Angle",
+  "genre": "Newspaper",
+  "firstYear": "1990",
+  "finalYear": "2012",
+  "district": "New Plymouth District",
+  "frequency": "Weekly",
+  "idMarcControlNumber": "2753719",
+  "idNZNewspapersV1": "3002",
+  "isCurrent": false,
+  "placecode": "07-01",
+  "placename": "Waitara",
+  "region": "Taranaki",
+  "sources": {
+    "2013-04-02T08:58:38.000Z": "Extracted from the New Zealand National Bibliography (MARC record 2753719) downloaded March 2013.",
+    "2014-05-07T09:10:26.000Z": "Modified by DataBot"
+  },
+  "revision": 4
+}

@@ -1,0 +1,27 @@
+{
+  "id": 1855,
+  "title": "Waimarino Bulletin",
+  "genre": "Newspaper",
+  "firstYear": "1983",
+  "finalYear": "1989",
+  "district": "Ruapehu District",
+  "frequency": "Weekly",
+  "idMarcControlNumber": "8185222",
+  "idNZNewspapersV1": "61138",
+  "isCurrent": false,
+  "placecode": "08-01",
+  "placename": "Ohakune",
+  "region": "Manawatu-Wanganui",
+  "links": {
+    "1856": {
+      "direction": "Succeeding",
+      "relationship": "Continued by",
+      "target-description": "Ruapehu Bulletin"
+    }
+  },
+  "sources": {
+    "2013-04-02T08:58:38.000Z": "Extracted from the New Zealand National Bibliography (MARC record 8185222) downloaded March 2013.",
+    "2014-05-07T09:21:55.000Z": "Modified by DataBot"
+  },
+  "revision": 5
+}

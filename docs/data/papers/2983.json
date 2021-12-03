@@ -1,0 +1,20 @@
+{
+  "id": 2983,
+  "title": "The Rongotea Times",
+  "genre": "Periodical",
+  "firstYear": "199u",
+  "finalYear": "199u",
+  "district": "Unknown District",
+  "frequency": "Monthly",
+  "idMarcControlNumber": "11550023",
+  "idNZNewspapersV1": "8040",
+  "isCurrent": false,
+  "placecode": "unknown",
+  "placename": "Rongotea",
+  "region": "Unknown Region",
+  "sources": {
+    "2013-04-02T08:58:38.000Z": "Extracted from the New Zealand National Bibliography (MARC record 11550023) downloaded March 2013.",
+    "2014-05-07T08:59:42.000Z": "Modified by DataBot"
+  },
+  "revision": 4
+}

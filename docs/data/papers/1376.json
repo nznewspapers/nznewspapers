@@ -1,0 +1,20 @@
+{
+  "id": 1376,
+  "title": "Mt. Eden News",
+  "genre": "Newspaper",
+  "firstYear": "1959",
+  "finalYear": "1960",
+  "district": "Auckland",
+  "frequency": "Monthly",
+  "idMarcControlNumber": "8169258",
+  "idNZNewspapersV1": "66110",
+  "isCurrent": false,
+  "placecode": "02-01-auckland",
+  "placename": "Auckland",
+  "region": "Auckland",
+  "sources": {
+    "2013-04-02T08:58:38.000Z": "Extracted from the New Zealand National Bibliography (MARC record 8169258) downloaded March 2013.",
+    "2014-05-07T09:02:15.000Z": "Modified by DataBot"
+  },
+  "revision": 4
+}

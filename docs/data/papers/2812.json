@@ -1,0 +1,27 @@
+{
+  "id": 2812,
+  "title": "Te Kopara",
+  "genre": "Periodical",
+  "firstYear": "1913",
+  "finalYear": "1921",
+  "district": "Gisborne District",
+  "frequency": "Monthly",
+  "idMarcControlNumber": "4766365",
+  "idNZNewspapersV1": "5027",
+  "isCurrent": false,
+  "placecode": "05-01",
+  "placename": "Gisborne",
+  "region": "Gisborne",
+  "links": {
+    "undefined-unknown": {
+      "direction": "Preceding",
+      "relationship": "Continues",
+      "target-description": "Pipiwharauroa"
+    }
+  },
+  "sources": {
+    "2013-04-02T08:58:38.000Z": "Extracted from the New Zealand National Bibliography (MARC record 4766365) downloaded March 2013.",
+    "2014-05-07T09:00:26.000Z": "Modified by DataBot"
+  },
+  "revision": 6
+}

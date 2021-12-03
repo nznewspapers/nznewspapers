@@ -1,0 +1,20 @@
+{
+  "id": 2412,
+  "title": "Evening Mail",
+  "genre": "Newspaper",
+  "firstYear": "1864",
+  "finalYear": "1868",
+  "district": "Christchurch City",
+  "frequency": "Daily",
+  "idMarcControlNumber": "8141794",
+  "idNZNewspapersV1": "64070",
+  "isCurrent": false,
+  "placecode": "12-05-christchur",
+  "placename": "Christchurch",
+  "region": "Canterbury",
+  "sources": {
+    "2013-04-02T08:58:38.000Z": "Extracted from the New Zealand National Bibliography (MARC record 8141794) downloaded March 2013.",
+    "2014-03-21T11:34:26.000Z": "Modified by DataBot"
+  },
+  "revision": 4
+}

@@ -1,0 +1,33 @@
+{
+  "id": 1871,
+  "title": "Central District Times",
+  "genre": "Newspaper",
+  "firstYear": "1959",
+  "finalYear": "9999",
+  "district": "Rangitikei District",
+  "frequency": "Two issues per week",
+  "idMarcControlNumber": "3531218",
+  "idNZNewspapersV1": "11006",
+  "isCurrent": true,
+  "placecode": "08-02",
+  "placename": "Taihape",
+  "price": "Gratis",
+  "region": "Manawatu-Wanganui",
+  "links": {
+    "1868": {
+      "direction": "Preceding",
+      "relationship": "Formed by the union",
+      "target-description": "Taihape Times"
+    },
+    "1870": {
+      "direction": "Preceding",
+      "relationship": "Formed by the union",
+      "target-description": "Waimarino News"
+    }
+  },
+  "sources": {
+    "2013-04-02T08:58:38.000Z": "Extracted from the New Zealand National Bibliography (MARC record 3531218) downloaded March 2013.",
+    "2014-05-07T09:47:23.000Z": "Modified by DataBot"
+  },
+  "revision": 8
+}

@@ -1,0 +1,27 @@
+{
+  "id": 1470,
+  "title": "New Zealand Herald (Auckland Ed.)",
+  "genre": "Minor Edition",
+  "firstYear": "uuuu",
+  "finalYear": "9999",
+  "district": "Auckland",
+  "frequency": "Daily (except Sunday)",
+  "idMarcControlNumber": "12878482",
+  "idNZNewspapersV1": "13053",
+  "isCurrent": true,
+  "placecode": "02-01-auckland",
+  "placename": "Auckland",
+  "region": "Auckland",
+  "links": {
+    "1073": {
+      "direction": "Preceding",
+      "relationship": "Main edition",
+      "target-description": "New  Zealand Herald"
+    }
+  },
+  "sources": {
+    "2013-04-02T08:58:38.000Z": "Extracted from the New Zealand National Bibliography (MARC record 12878482) downloaded March 2013.",
+    "2014-03-21T11:45:29.000Z": "Modified by DataBot"
+  },
+  "revision": 5
+}

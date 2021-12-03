@@ -1,0 +1,26 @@
+{
+  "id": 1277,
+  "title": "Aucklander [2011]",
+  "genre": "Masthead",
+  "firstYear": "2011",
+  "finalYear": "2012",
+  "district": "Auckland",
+  "frequency": "Weekly",
+  "idMarcControlNumber": "13727665",
+  "idNZNewspapersV1": "68184",
+  "isCurrent": false,
+  "placecode": "02-01",
+  "placename": "Auckland",
+  "region": "Auckland",
+  "links": {
+    "1249": {
+      "direction": "Is Masthead Of",
+      "target-description": "The Aucklander"
+    }
+  },
+  "sources": {
+    "2013-04-02T08:58:38.000Z": "Extracted from the New Zealand National Bibliography (MARC record 13727665) downloaded March 2013.",
+    "2015-01-21T10:29:52.000Z": "Modified by gordon.paynter"
+  },
+  "revision": 5
+}

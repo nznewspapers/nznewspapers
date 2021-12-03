@@ -1,0 +1,27 @@
+{
+  "id": 1683,
+  "title": "Rotorua Weekender",
+  "genre": "Weekend Edition",
+  "firstYear": "199u",
+  "finalYear": "9999",
+  "district": "Rotorua District",
+  "frequency": "Weekly",
+  "idMarcControlNumber": "2659112",
+  "idNZNewspapersV1": "1002",
+  "isCurrent": true,
+  "placecode": "04-05",
+  "placename": "Rotorua",
+  "region": "Bay of Plenty",
+  "urlCurrent": "http://www.rotoruadailypost.co.nz/topic/rotorua-weekender/",
+  "links": {
+    "1679": {
+      "direction": "Is Edition Of",
+      "target-description": "Daily Post"
+    }
+  },
+  "sources": {
+    "2013-04-02T08:58:38.000Z": "Extracted from the New Zealand National Bibliography (MARC record 2659112) downloaded March 2013.",
+    "2014-05-07T09:10:24.000Z": "Modified by DataBot"
+  },
+  "revision": 5
+}

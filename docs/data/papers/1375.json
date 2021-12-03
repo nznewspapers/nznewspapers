@@ -1,0 +1,20 @@
+{
+  "id": 1375,
+  "title": "Glenn Innes Gazette",
+  "genre": "Newspaper",
+  "firstYear": "1959",
+  "finalYear": "1960",
+  "district": "Auckland",
+  "frequency": "Fortnightly",
+  "idMarcControlNumber": "8142276",
+  "idNZNewspapersV1": "71073",
+  "isCurrent": false,
+  "placecode": "02-01-auckland",
+  "placename": "Auckland",
+  "region": "Auckland",
+  "sources": {
+    "2013-04-02T08:58:38.000Z": "Extracted from the New Zealand National Bibliography (MARC record 8142276) downloaded March 2013.",
+    "2014-05-07T08:56:58.000Z": "Modified by DataBot"
+  },
+  "revision": 4
+}

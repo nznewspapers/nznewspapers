@@ -1,0 +1,20 @@
+{
+  "id": 2428,
+  "title": "Critic",
+  "genre": "Newspaper",
+  "firstYear": "1896",
+  "finalYear": "uuuu",
+  "district": "Christchurch City",
+  "frequency": "Weekly",
+  "idMarcControlNumber": "8137357",
+  "idNZNewspapersV1": "59067",
+  "isCurrent": false,
+  "placecode": "12-05-christchur",
+  "placename": "Christchurch",
+  "region": "Canterbury",
+  "sources": {
+    "2013-04-02T08:58:38.000Z": "Extracted from the New Zealand National Bibliography (MARC record 8137357) downloaded March 2013.",
+    "2014-05-07T09:14:45.000Z": "Modified by DataBot"
+  },
+  "revision": 4
+}

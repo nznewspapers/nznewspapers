@@ -1,0 +1,26 @@
+{
+  "id": 1794,
+  "title": "Budget",
+  "genre": "Newspaper",
+  "firstYear": "1875",
+  "finalYear": "1877",
+  "district": "New Plymouth District",
+  "frequency": "Daily",
+  "idMarcControlNumber": "8131992",
+  "idNZNewspapersV1": "58045",
+  "isCurrent": false,
+  "placecode": "07-01",
+  "placename": "New Plymouth",
+  "region": "Taranaki",
+  "links": {
+    "1797": {
+      "direction": "Continued By",
+      "target-description": "Budget and  Taranaki Weekly Herald"
+    }
+  },
+  "sources": {
+    "2013-04-02T08:58:38.000Z": "Extracted from the New Zealand National Bibliography (MARC record 8131992) downloaded March 2013.",
+    "2014-04-10T11:02:04.000Z": "Modified by DataBot"
+  },
+  "revision": 5
+}

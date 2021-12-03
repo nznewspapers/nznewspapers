@@ -1,0 +1,28 @@
+{
+  "id": 2906,
+  "title": "He Kupu Whakamarama",
+  "genre": "Periodical",
+  "firstYear": "1898",
+  "finalYear": "1899",
+  "district": "Nelson City",
+  "frequency": "Monthly",
+  "idMarcControlNumber": "3512540",
+  "idNZNewspapersV1": "4004",
+  "isCurrent": false,
+  "placecode": "10-02",
+  "placename": "Nelson",
+  "region": "Top of the South",
+  "urlCurrent": "http://nzdl.org/cgi-bin/library?gg=_cgiarggg_&e=d-00000-00---0niupepa--00-0--0-10-0---0---0prompt-10---4-------0-1l--11-en-50---20-about---00-0-1-00-11-1-0utfZz-8-00&a=d&c=niupepa&cl=CL1.29",
+  "links": {
+    "undefined-unknown": {
+      "direction": "Succeeding",
+      "relationship": "Continued by",
+      "target-description": "Pipiwharauroa"
+    }
+  },
+  "sources": {
+    "2013-04-02T08:58:38.000Z": "Extracted from the New Zealand National Bibliography (MARC record 3512540) downloaded March 2013.",
+    "2014-05-07T08:59:58.000Z": "Modified by DataBot"
+  },
+  "revision": 5
+}

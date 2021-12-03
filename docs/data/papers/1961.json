@@ -1,0 +1,28 @@
+{
+  "id": 1961,
+  "title": "Manawatu Herald [1961]",
+  "genre": "Newspaper",
+  "firstYear": "1961",
+  "finalYear": "1997",
+  "district": "Horowhenua District",
+  "frequency": "Three issues per week",
+  "idMarcControlNumber": "3531227",
+  "idNZNewspapersV1": "9006",
+  "isCurrent": false,
+  "placecode": "08-07",
+  "placename": "Foxton",
+  "price": "Gratis",
+  "region": "Manawatu-Wanganui",
+  "links": {
+    "1959": {
+      "direction": "Preceding",
+      "relationship": "Continues",
+      "target-description": "Foxton Herald"
+    }
+  },
+  "sources": {
+    "2013-04-02T08:58:38.000Z": "Extracted from the New Zealand National Bibliography (MARC record 3531227) downloaded March 2013.",
+    "2014-05-07T09:47:31.000Z": "Modified by DataBot"
+  },
+  "revision": 7
+}

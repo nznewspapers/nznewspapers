@@ -1,0 +1,23 @@
+{
+  "id": 2229,
+  "title": "Motueka Press",
+  "genre": "Newspaper",
+  "firstYear": "1964",
+  "finalYear": "uuuu",
+  "district": "Tasman District",
+  "frequency": "Weekly",
+  "idMarcControlNumber": "8168136",
+  "idNZNewspapersV1": "60091",
+  "isCurrent": false,
+  "placecode": "10-01",
+  "placename": "Motueka",
+  "region": "Top of the South",
+  "notes": {
+    "558006": "Final year assumed from Nelson Provincial Museum holdings."
+  },
+  "sources": {
+    "2013-04-02T08:58:38.000Z": "Extracted from the New Zealand National Bibliography (MARC record 8168136) downloaded March 2013.",
+    "2014-05-07T09:17:36.000Z": "Modified by DataBot"
+  },
+  "revision": 6
+}

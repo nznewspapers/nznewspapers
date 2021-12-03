@@ -1,0 +1,29 @@
+{
+  "id": 2040,
+  "title": "Porirua City News",
+  "genre": "Newspaper",
+  "firstYear": "2001",
+  "finalYear": "9999",
+  "district": "Porirua City",
+  "frequency": "Weekly",
+  "idMarcControlNumber": "8212695",
+  "idNZNewspapersV1": "13039",
+  "isCurrent": true,
+  "placecode": "09-06",
+  "placename": "Porirua",
+  "price": "Gratis",
+  "region": "Wellington",
+  "urlCurrent": "http://www.poriruacity.com/porirua_city_news.mv",
+  "links": {
+    "2039": {
+      "direction": "Preceding",
+      "relationship": "Continues",
+      "target-description": "Porirua news"
+    }
+  },
+  "sources": {
+    "2013-04-02T08:58:38.000Z": "Extracted from the New Zealand National Bibliography (MARC record 8212695) downloaded March 2013.",
+    "2014-05-07T09:50:16.000Z": "Modified by DataBot"
+  },
+  "revision": 7
+}

@@ -1,0 +1,21 @@
+{
+  "id": 1309,
+  "title": "Matariki : ko ia he Taringa ona hei Whakaronga me Whakarongo",
+  "genre": "Newspaper",
+  "firstYear": "1881",
+  "finalYear": "1881",
+  "district": "Auckland",
+  "frequency": "Irregular",
+  "idMarcControlNumber": "3871352",
+  "idNZNewspapersV1": "14010",
+  "isCurrent": false,
+  "placecode": "02-01-auckland",
+  "placename": "Auckland",
+  "region": "Auckland",
+  "urlCurrent": "http://nzdl.org/cgi-bin/library?gg=_cgiarggg_&e=d-00000-00---0niupepa--00-0--0-10-0---0---0prompt-10---4-------0-1l--11-en-50---20-about---00-0-1-00-11-1-0utfZz-8-00&a=d&c=niupepa&cl=CL1.18",
+  "sources": {
+    "2013-04-02T08:58:38.000Z": "Extracted from the New Zealand National Bibliography (MARC record 3871352) downloaded March 2013.",
+    "2014-05-07T08:58:51.000Z": "Modified by DataBot"
+  },
+  "revision": 4
+}

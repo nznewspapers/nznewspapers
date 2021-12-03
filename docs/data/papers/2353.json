@@ -1,0 +1,20 @@
+{
+  "id": 2353,
+  "title": "Hilton News",
+  "genre": "Newspaper",
+  "firstYear": "1980",
+  "finalYear": "1982",
+  "district": "Selwyn District",
+  "frequency": "Monthly",
+  "idMarcControlNumber": "8156801",
+  "idNZNewspapersV1": "65094",
+  "isCurrent": false,
+  "placecode": "12-03",
+  "placename": "Lincoln",
+  "region": "Canterbury",
+  "sources": {
+    "2013-04-02T08:58:38.000Z": "Extracted from the New Zealand National Bibliography (MARC record 8156801) downloaded March 2013.",
+    "2014-05-07T09:01:49.000Z": "Modified by DataBot"
+  },
+  "revision": 4
+}

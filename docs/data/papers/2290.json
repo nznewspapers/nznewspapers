@@ -1,0 +1,32 @@
+{
+  "id": 2290,
+  "title": "The Westport News",
+  "genre": "Newspaper",
+  "firstYear": "1871",
+  "finalYear": "9999",
+  "district": "Buller District",
+  "idNZNewspapersV1": "1660123",
+  "isCurrent": true,
+  "placecode": "11-01",
+  "placename": "Westport",
+  "region": "West Coast",
+  "urlCurrent": "http://www.westportnews.co.nz/",
+  "links": {
+    "2295": {
+      "direction": "Has Masthead",
+      "target-description": "Buller News"
+    },
+    "2302": {
+      "direction": "Has Masthead",
+      "target-description": "Westport News [1882]"
+    },
+    "2310": {
+      "direction": "Has Masthead",
+      "target-description": "The Westport News [1971]"
+    }
+  },
+  "sources": {
+    "2014-02-04T10:14:12.000Z": "Modified by TestMonster"
+  },
+  "revision": 5
+}

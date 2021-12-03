@@ -1,0 +1,21 @@
+{
+  "id": 1891,
+  "title": "River City Press",
+  "genre": "Newspaper",
+  "firstYear": "1985",
+  "finalYear": "9999",
+  "district": "Wanganui District",
+  "frequency": "Weekly",
+  "idMarcControlNumber": "3601380",
+  "idNZNewspapersV1": "11009",
+  "isCurrent": true,
+  "placecode": "08-03",
+  "placename": "Wanganui",
+  "price": "Gratis",
+  "region": "Manawatu-Wanganui",
+  "sources": {
+    "2013-04-02T08:58:38.000Z": "Extracted from the New Zealand National Bibliography (MARC record 3601380) downloaded March 2013.",
+    "2014-05-07T09:47:54.000Z": "Modified by DataBot"
+  },
+  "revision": 6
+}

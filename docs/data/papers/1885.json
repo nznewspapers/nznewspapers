@@ -1,0 +1,21 @@
+{
+  "id": 1885,
+  "title": "The Jubilee",
+  "genre": "Newspaper",
+  "firstYear": "1898",
+  "finalYear": "1900",
+  "district": "Wanganui District",
+  "frequency": "Fortnightly",
+  "idMarcControlNumber": "4916709",
+  "idNZNewspapersV1": "2035",
+  "isCurrent": false,
+  "placecode": "08-03",
+  "placename": "Wanganui",
+  "region": "Manawatu-Wanganui",
+  "urlCurrent": "http://nzdl.org/cgi-bin/library?gg=_cgiarggg_&e=d-00000-00---0niupepa--00-0--0-10-0---0---0prompt-10---4-------0-1l--11-en-50---20-about---00-0-1-00-11-1-0utfZz-8-00&a=d&c=niupepa&cl=CL1.30",
+  "sources": {
+    "2013-04-02T08:58:38.000Z": "Extracted from the New Zealand National Bibliography (MARC record 4916709) downloaded March 2013.",
+    "2014-05-07T08:59:06.000Z": "Modified by DataBot"
+  },
+  "revision": 4
+}

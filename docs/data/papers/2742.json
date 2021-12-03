@@ -1,0 +1,27 @@
+{
+  "id": 2742,
+  "title": "Food Industry (Auckland)",
+  "genre": "Periodical",
+  "firstYear": "1980",
+  "finalYear": "1987",
+  "district": "Auckland",
+  "frequency": "Monthly",
+  "idMarcControlNumber": "3172799",
+  "idNZNewspapersV1": "9002",
+  "isCurrent": false,
+  "placecode": "02-01-auckland",
+  "placename": "Auckland",
+  "region": "Auckland",
+  "links": {
+    "undefined-unknown": {
+      "direction": "Preceding",
+      "relationship": "Absorbed",
+      "target-description": "4 quarter"
+    }
+  },
+  "sources": {
+    "2013-04-02T08:58:38.000Z": "Extracted from the New Zealand National Bibliography (MARC record 3172799) downloaded March 2013.",
+    "2014-05-07T08:59:57.000Z": "Modified by DataBot"
+  },
+  "revision": 6
+}

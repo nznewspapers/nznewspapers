@@ -1,0 +1,27 @@
+{
+  "id": 2501,
+  "title": "Western News",
+  "genre": "Newspaper",
+  "firstYear": "2009",
+  "finalYear": "9999",
+  "district": "Christchurch City",
+  "frequency": "Weekly",
+  "idMarcControlNumber": "12847177",
+  "idNZNewspapersV1": "3061",
+  "isCurrent": true,
+  "placecode": "12-05-christchur",
+  "placename": "Christchurch",
+  "region": "Canterbury",
+  "links": {
+    "2493": {
+      "direction": "Preceding",
+      "relationship": "Continues",
+      "target-description": "Star community news (Western)"
+    }
+  },
+  "sources": {
+    "2013-04-02T08:58:38.000Z": "Extracted from the New Zealand National Bibliography (MARC record 12847177) downloaded March 2013.",
+    "2014-05-07T09:09:22.000Z": "Modified by DataBot"
+  },
+  "revision": 5
+}

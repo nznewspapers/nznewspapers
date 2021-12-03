@@ -1,0 +1,20 @@
+{
+  "id": 1152,
+  "title": "Takapuna Tatler",
+  "genre": "Newspaper",
+  "firstYear": "1966",
+  "finalYear": "19uu",
+  "district": "Auckland",
+  "frequency": "Irregular",
+  "idMarcControlNumber": "6080615",
+  "idNZNewspapersV1": "33",
+  "isCurrent": false,
+  "placecode": "02-01",
+  "placename": "Mt Roskill",
+  "region": "Auckland",
+  "sources": {
+    "2013-04-02T08:58:38.000Z": "Extracted from the New Zealand National Bibliography (MARC record 6080615) downloaded March 2013.",
+    "2014-05-07T08:59:11.000Z": "Modified by DataBot"
+  },
+  "revision": 4
+}

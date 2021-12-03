@@ -1,0 +1,26 @@
+{
+  "id": 2576,
+  "title": "Daily Telegraph",
+  "genre": "Newspaper",
+  "firstYear": "1863",
+  "finalYear": "1864",
+  "district": "Dunedin City",
+  "frequency": "Daily",
+  "idMarcControlNumber": "8137920",
+  "idNZNewspapersV1": "62055",
+  "isCurrent": false,
+  "placecode": "13-03",
+  "placename": "Dunedin",
+  "region": "Otago",
+  "links": {
+    "2574": {
+      "direction": "Continues",
+      "target-description": "Colonist"
+    }
+  },
+  "sources": {
+    "2013-04-02T08:58:38.000Z": "Extracted from the New Zealand National Bibliography (MARC record 8137920) downloaded March 2013.",
+    "2014-04-12T12:31:01.000Z": "Modified by gordon.paynter"
+  },
+  "revision": 5
+}

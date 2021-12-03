@@ -1,0 +1,19 @@
+{
+  "id": 2401,
+  "title": "iBall: Bridging the Cultures",
+  "genre": "Newspaper",
+  "firstYear": "2003",
+  "finalYear": "2007",
+  "district": "Christchurch City",
+  "idMarcControlNumber": "10106566",
+  "idNZNewspapersV1": "14342638",
+  "isCurrent": false,
+  "placecode": "12-05",
+  "placename": "Christchurch",
+  "region": "Canterbury",
+  "sources": {
+    "2013-04-02T08:58:38.000Z": "Extracted from the New Zealand National Bibliography (MARC record 10106566) downloaded March 2013.",
+    "2014-04-23T10:10:41.000Z": "Modified by MarcLoaderBot"
+  },
+  "revision": 2
+}

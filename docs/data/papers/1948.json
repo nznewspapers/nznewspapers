@@ -1,0 +1,29 @@
+{
+  "id": 1948,
+  "title": "Manawatu Herald",
+  "genre": "Newspaper",
+  "firstYear": "1878",
+  "finalYear": "1955",
+  "district": "Horowhenua District",
+  "firstIssueDate": "1878-08-27",
+  "frequency": "Three issues per week",
+  "idMarcControlNumber": "7665175",
+  "idNZNewspapersV1": "10046",
+  "idPapersPastCode": "MH",
+  "isCurrent": false,
+  "placecode": "08-07",
+  "placename": "Foxton",
+  "region": "Manawatu-Wanganui",
+  "urlDigitized": "http://paperspast.natlib.govt.nz/cgi-bin/paperspast?a=d&cl=CL1.MH",
+  "links": {
+    "1959": {
+      "direction": "Continued By",
+      "target-description": "Foxton Herald"
+    }
+  },
+  "sources": {
+    "2013-04-02T08:58:38.000Z": "Extracted from the New Zealand National Bibliography (MARC record 7665175) downloaded March 2013.",
+    "2014-05-16T02:21:25.000Z": "Modified by gordon.paynter"
+  },
+  "revision": 9
+}

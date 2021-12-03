@@ -1,0 +1,18 @@
+{
+  "id": 2828,
+  "title": "Inside Inglewood",
+  "genre": "Periodical",
+  "firstYear": "1992",
+  "finalYear": "2002",
+  "district": "New Plymouth District",
+  "idMarcControlNumber": "4232914",
+  "idNZNewspapersV1": "13019",
+  "isCurrent": false,
+  "placecode": "07-01",
+  "placename": "Inglewood",
+  "region": "Taranaki",
+  "sources": {
+    "2013-04-02T08:58:38.000Z": "Extracted from the New Zealand National Bibliography (MARC record 4232914) downloaded March 2013."
+  },
+  "revision": 2
+}

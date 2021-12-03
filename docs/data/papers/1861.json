@@ -1,0 +1,20 @@
+{
+  "id": 1861,
+  "title": "Mercury",
+  "genre": "Newspaper",
+  "firstYear": "1891",
+  "finalYear": "1896",
+  "district": "Rangitikei District",
+  "frequency": "Daily",
+  "idMarcControlNumber": "8167719",
+  "idNZNewspapersV1": "70110",
+  "isCurrent": false,
+  "placecode": "08-02",
+  "placename": "Marton",
+  "region": "Manawatu-Wanganui",
+  "sources": {
+    "2013-04-02T08:58:38.000Z": "Extracted from the New Zealand National Bibliography (MARC record 8167719) downloaded March 2013.",
+    "2014-03-21T11:37:51.000Z": "Modified by DataBot"
+  },
+  "revision": 4
+}

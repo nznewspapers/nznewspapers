@@ -1,0 +1,20 @@
+{
+  "id": 2438,
+  "title": "Star Sports",
+  "genre": "Newspaper",
+  "firstYear": "1958",
+  "finalYear": "1976",
+  "district": "Christchurch City",
+  "frequency": "Weekly",
+  "idMarcControlNumber": "8182006",
+  "idNZNewspapersV1": "73004",
+  "isCurrent": false,
+  "placecode": "12-05-christchur",
+  "placename": "Christchurch",
+  "region": "Canterbury",
+  "sources": {
+    "2013-04-02T08:58:38.000Z": "Extracted from the New Zealand National Bibliography (MARC record 8182006) downloaded March 2013.",
+    "2014-05-07T09:20:34.000Z": "Modified by DataBot"
+  },
+  "revision": 4
+}

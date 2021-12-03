@@ -1,0 +1,29 @@
+{
+  "id": 2604,
+  "title": "Evening Herald",
+  "genre": "Newspaper",
+  "firstYear": "1884",
+  "finalYear": "1890",
+  "district": "Dunedin City",
+  "frequency": "Daily",
+  "idMarcControlNumber": "3321882",
+  "idNZNewspapersV1": "4003",
+  "isCurrent": false,
+  "placecode": "13-03",
+  "placename": "Dunedin",
+  "region": "Otago",
+  "notes": {
+    "12170169": "Conitnued by a publication called 'Globe'."
+  },
+  "links": {
+    "2598": {
+      "direction": "Continues",
+      "target-description": "Morning Herald"
+    }
+  },
+  "sources": {
+    "2013-04-02T08:58:38.000Z": "Extracted from the New Zealand National Bibliography (MARC record 3321882) downloaded March 2013.",
+    "2014-04-12T12:43:53.000Z": "Modified by gordon.paynter"
+  },
+  "revision": 7
+}

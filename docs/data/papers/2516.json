@@ -1,0 +1,27 @@
+{
+  "id": 2516,
+  "title": "Twizel Chronicle",
+  "genre": "Newspaper",
+  "firstYear": "1971",
+  "finalYear": "1984",
+  "district": "Mackenzie District",
+  "frequency": "Fortnightly",
+  "idMarcControlNumber": "4634423",
+  "idNZNewspapersV1": "9017",
+  "isCurrent": false,
+  "placecode": "12-07",
+  "placename": "Twizel",
+  "region": "Canterbury",
+  "links": {
+    "undefined-unknown": {
+      "direction": "Preceding",
+      "relationship": "Continues",
+      "target-description": "Twizel newsletter"
+    }
+  },
+  "sources": {
+    "2013-04-02T08:58:38.000Z": "Extracted from the New Zealand National Bibliography (MARC record 4634423) downloaded March 2013.",
+    "2014-05-07T08:56:05.000Z": "Modified by DataBot"
+  },
+  "revision": 5
+}

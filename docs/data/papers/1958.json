@@ -1,0 +1,27 @@
+{
+  "id": 1958,
+  "title": "Levin Weekly News",
+  "genre": "Newspaper",
+  "firstYear": "1953",
+  "finalYear": "1968",
+  "district": "Horowhenua District",
+  "frequency": "Weekly",
+  "idMarcControlNumber": "8164522",
+  "idNZNewspapersV1": "67102",
+  "isCurrent": false,
+  "placecode": "08-07",
+  "placename": "Levin",
+  "region": "Manawatu-Wanganui",
+  "links": {
+    "1964": {
+      "direction": "Succeeding",
+      "relationship": "Merged Into",
+      "target-description": "Weekly News"
+    }
+  },
+  "sources": {
+    "2013-04-02T08:58:38.000Z": "Extracted from the New Zealand National Bibliography (MARC record 8164522) downloaded March 2013.",
+    "2014-05-18T12:21:04.000Z": "Modified by gordon.paynter"
+  },
+  "revision": 5
+}

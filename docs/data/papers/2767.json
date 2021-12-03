@@ -1,0 +1,20 @@
+{
+  "id": 2767,
+  "title": "Kuk Hindi Samachar",
+  "genre": "Periodical",
+  "firstYear": "2005",
+  "finalYear": "2008",
+  "district": "Auckland",
+  "frequency": "Fortnightly",
+  "idMarcControlNumber": "9279222",
+  "idNZNewspapersV1": "11049",
+  "isCurrent": false,
+  "placecode": "02-01-auckland",
+  "placename": "Auckland",
+  "region": "Auckland",
+  "sources": {
+    "2013-04-02T08:58:38.000Z": "Extracted from the New Zealand National Bibliography (MARC record 9279222) downloaded March 2013.",
+    "2014-05-07T08:58:27.000Z": "Modified by DataBot"
+  },
+  "revision": 4
+}

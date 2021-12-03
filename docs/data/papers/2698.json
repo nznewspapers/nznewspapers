@@ -1,0 +1,28 @@
+{
+  "id": 2698,
+  "title": "The Ensign",
+  "genre": "Newspaper",
+  "firstYear": "1973",
+  "finalYear": "9999",
+  "district": "Gore District",
+  "frequency": "Daily",
+  "idMarcControlNumber": "3531189",
+  "idNZNewspapersV1": "9004",
+  "isCurrent": true,
+  "placecode": "14-02",
+  "placename": "Gore",
+  "region": "Southland",
+  "urlCurrent": "http://www.theensign.co.nz",
+  "links": {
+    "2695": {
+      "direction": "Preceding",
+      "relationship": "Continues",
+      "target-description": "Mataura Ensign"
+    }
+  },
+  "sources": {
+    "2013-04-02T08:58:38.000Z": "Extracted from the New Zealand National Bibliography (MARC record 3531189) downloaded March 2013.",
+    "2014-05-07T08:49:02.000Z": "Modified by DataBot"
+  },
+  "revision": 5
+}

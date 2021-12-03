@@ -1,0 +1,21 @@
+{
+  "id": 2971,
+  "title": "Te Waka o te iwi",
+  "genre": "Periodical",
+  "firstYear": "1857",
+  "finalYear": "1857",
+  "district": "Unknown District",
+  "frequency": "Every two months",
+  "idMarcControlNumber": "4916698",
+  "idNZNewspapersV1": "67037",
+  "isCurrent": false,
+  "placecode": "unknown",
+  "placename": "Akarana [i.e. Auckland",
+  "region": "Unknown Region",
+  "urlCurrent": "http://nzdl.org/cgi-bin/library?gg=_cgiarggg_&e=d-00000-00---0niupepa--00-0--0-10-0---0---0prompt-10---4-------0-1lpp--11-en-50---20-about-waka+o+te+iwi--00-0-1-00-11-0-0utfZz-8-00&a=d&c=niupepa&cl=CL1.5",
+  "sources": {
+    "2013-04-02T08:58:38.000Z": "Extracted from the New Zealand National Bibliography (MARC record 4916698) downloaded March 2013.",
+    "2014-05-07T08:48:50.000Z": "Modified by DataBot"
+  },
+  "revision": 4
+}

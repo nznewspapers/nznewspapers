@@ -1,0 +1,20 @@
+{
+  "id": 1177,
+  "title": "Manukau Courier (Manukau ed. : 1977)",
+  "genre": "Newspaper",
+  "firstYear": "1977",
+  "finalYear": "1978",
+  "district": "Auckland",
+  "frequency": "Weekly",
+  "idMarcControlNumber": "8164700",
+  "idNZNewspapersV1": "59096",
+  "isCurrent": false,
+  "placecode": "02-01",
+  "placename": "Otahuhu",
+  "region": "Auckland",
+  "sources": {
+    "2013-04-02T08:58:38.000Z": "Extracted from the New Zealand National Bibliography (MARC record 8164700) downloaded March 2013.",
+    "2014-05-07T09:17:19.000Z": "Modified by DataBot"
+  },
+  "revision": 4
+}

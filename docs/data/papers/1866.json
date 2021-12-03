@@ -1,0 +1,30 @@
+{
+  "id": 1866,
+  "title": "Taihape & Waimarino News",
+  "genre": "Newspaper",
+  "firstYear": "1905",
+  "finalYear": "1906",
+  "district": "Rangitikei District",
+  "frequency": "Three issues per week",
+  "idMarcControlNumber": "8183048",
+  "idNZNewspapersV1": "62140",
+  "isCurrent": false,
+  "placecode": "08-02",
+  "placename": "Taihape",
+  "region": "Manawatu-Wanganui",
+  "links": {
+    "1865": {
+      "direction": "Continues",
+      "target-description": "Taihape &  Mangaweka News"
+    },
+    "1867": {
+      "direction": "Continued By",
+      "target-description": "Taihape Daily Times"
+    }
+  },
+  "sources": {
+    "2013-04-02T08:58:38.000Z": "Extracted from the New Zealand National Bibliography (MARC record 8183048) downloaded March 2013.",
+    "2014-05-07T09:04:44.000Z": "Modified by DataBot"
+  },
+  "revision": 6
+}

@@ -1,0 +1,20 @@
+{
+  "id": 2134,
+  "title": "Weekly Herald",
+  "genre": "Newspaper",
+  "firstYear": "1909",
+  "finalYear": "1912",
+  "district": "Wellington City",
+  "frequency": "Weekly",
+  "idMarcControlNumber": "8187340",
+  "idNZNewspapersV1": "67174",
+  "isCurrent": false,
+  "placecode": "09-08-wellington",
+  "placename": "Wellington",
+  "region": "Wellington",
+  "sources": {
+    "2013-04-02T08:58:38.000Z": "Extracted from the New Zealand National Bibliography (MARC record 8187340) downloaded March 2013.",
+    "2014-05-07T09:22:37.000Z": "Modified by DataBot"
+  },
+  "revision": 4
+}

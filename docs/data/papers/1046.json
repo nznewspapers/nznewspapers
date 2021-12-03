@@ -1,0 +1,26 @@
+{
+  "id": 1046,
+  "title": "North Auckland Advertiser",
+  "genre": "Newspaper",
+  "firstYear": "1928",
+  "finalYear": "19uu",
+  "district": "Whangarei District",
+  "frequency": "Monthly",
+  "idMarcControlNumber": "8173702",
+  "idNZNewspapersV1": "63108",
+  "isCurrent": false,
+  "placecode": "01-02",
+  "placename": "Whangarei",
+  "region": "Northland",
+  "links": {
+    "1045": {
+      "direction": "Continues",
+      "target-description": "Whangarei Wild-Cat"
+    }
+  },
+  "sources": {
+    "2013-04-02T08:58:38.000Z": "Extracted from the New Zealand National Bibliography (MARC record 8173702) downloaded March 2013.",
+    "2014-05-07T08:59:21.000Z": "Modified by DataBot"
+  },
+  "revision": 5
+}

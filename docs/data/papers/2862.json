@@ -1,0 +1,20 @@
+{
+  "id": 2862,
+  "title": "'Silver Pine' News & Views",
+  "genre": "Periodical",
+  "firstYear": "1991",
+  "finalYear": "1992",
+  "district": "Hutt City",
+  "idMarcControlNumber": "3888218",
+  "idNZNewspapersV1": "8009",
+  "isCurrent": false,
+  "placecode": "09-07",
+  "placename": "Lower Hutt",
+  "price": "Gratis",
+  "region": "Wellington",
+  "sources": {
+    "2013-04-02T08:58:38.000Z": "Extracted from the New Zealand National Bibliography (MARC record 3888218) downloaded March 2013.",
+    "2014-05-07T09:48:10.000Z": "Modified by DataBot"
+  },
+  "revision": 4
+}

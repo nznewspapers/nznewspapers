@@ -1,0 +1,31 @@
+{
+  "id": 2417,
+  "title": "Telegraph",
+  "genre": "Newspaper",
+  "firstYear": "1880",
+  "finalYear": "1893",
+  "district": "Christchurch City",
+  "frequency": "Daily",
+  "idMarcControlNumber": "8183933",
+  "idNZNewspapersV1": "62149",
+  "isCurrent": false,
+  "placecode": "12-05-christchur",
+  "placename": "Christchurch",
+  "region": "Canterbury",
+  "links": {
+    "2416": {
+      "direction": "Preceding",
+      "relationship": "Incorporated By",
+      "target-description": "Globe"
+    },
+    "2424": {
+      "direction": "Continued By",
+      "target-description": "Truth"
+    }
+  },
+  "sources": {
+    "2013-04-02T08:58:38.000Z": "Extracted from the New Zealand National Bibliography (MARC record 8183933) downloaded March 2013.",
+    "2014-04-12T12:10:44.000Z": "Modified by DataBot"
+  },
+  "revision": 6
+}

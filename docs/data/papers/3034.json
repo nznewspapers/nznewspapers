@@ -1,0 +1,19 @@
+{
+  "id": 3034,
+  "title": "Coromandel Town Chronicle",
+  "genre": "Other",
+  "firstYear": "1997",
+  "finalYear": "9999",
+  "district": "Thames-Coromandel District",
+  "idMarcControlNumber": "13100181",
+  "idNZNewspapersV1": "5059",
+  "isCurrent": true,
+  "placecode": "unknown",
+  "placename": "Coromandel",
+  "region": "Waikato",
+  "urlCurrent": "http://www.coromandeltownchronicle.co.nz/",
+  "sources": {
+    "2013-04-02T08:58:38.000Z": "Extracted from the New Zealand National Bibliography (MARC record 13100181) downloaded March 2013."
+  },
+  "revision": 2
+}

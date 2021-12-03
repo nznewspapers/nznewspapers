@@ -1,0 +1,27 @@
+{
+  "id": 1960,
+  "title": "Otaki-Waikanae Weekly News",
+  "genre": "Newspaper",
+  "firstYear": "1955",
+  "finalYear": "1968",
+  "district": "Horowhenua District",
+  "frequency": "Weekly",
+  "idMarcControlNumber": "8177766",
+  "idNZNewspapersV1": "71119",
+  "isCurrent": false,
+  "placecode": "08-07",
+  "placename": "Levin",
+  "region": "Manawatu-Wanganui",
+  "links": {
+    "1964": {
+      "direction": "Succeeding",
+      "relationship": "Merged into",
+      "target-description": "Weekly News"
+    }
+  },
+  "sources": {
+    "2013-04-02T08:58:38.000Z": "Extracted from the New Zealand National Bibliography (MARC record 8177766) downloaded March 2013.",
+    "2014-05-18T12:21:27.000Z": "Modified by gordon.paynter"
+  },
+  "revision": 5
+}

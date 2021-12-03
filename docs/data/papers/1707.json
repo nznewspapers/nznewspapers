@@ -1,0 +1,18 @@
+{
+  "id": 1707,
+  "title": "Takitimu",
+  "genre": "Newspaper",
+  "firstYear": "1883",
+  "finalYear": "1883",
+  "district": "Gisborne District",
+  "idMarcControlNumber": "4189294",
+  "idNZNewspapersV1": "63013",
+  "isCurrent": false,
+  "placecode": "05-01",
+  "placename": "Gisborne",
+  "region": "Gisborne",
+  "sources": {
+    "2013-04-02T08:58:38.000Z": "Extracted from the New Zealand National Bibliography (MARC record 4189294) downloaded March 2013."
+  },
+  "revision": 2
+}

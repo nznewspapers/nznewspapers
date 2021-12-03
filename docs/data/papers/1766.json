@@ -1,0 +1,20 @@
+{
+  "id": 1766,
+  "title": "Napier Evening Star",
+  "genre": "Newspaper",
+  "firstYear": "1879",
+  "finalYear": "uuuu",
+  "district": "Napier City",
+  "frequency": "Daily",
+  "idMarcControlNumber": "8169300",
+  "idNZNewspapersV1": "71102",
+  "isCurrent": false,
+  "placecode": "06-03",
+  "placename": "Napier",
+  "region": "Hawke's Bay",
+  "sources": {
+    "2013-04-02T08:58:38.000Z": "Extracted from the New Zealand National Bibliography (MARC record 8169300) downloaded March 2013.",
+    "2014-03-21T11:38:27.000Z": "Modified by DataBot"
+  },
+  "revision": 4
+}

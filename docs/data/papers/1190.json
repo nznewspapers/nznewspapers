@@ -1,0 +1,20 @@
+{
+  "id": 1190,
+  "title": "Devonport & Areas News Advertiser",
+  "genre": "Newspaper",
+  "firstYear": "1981",
+  "finalYear": "1981",
+  "district": "Auckland",
+  "frequency": "Monthly",
+  "idMarcControlNumber": "8138180",
+  "idNZNewspapersV1": "69079",
+  "isCurrent": false,
+  "placecode": "02-01",
+  "placename": "Devonport",
+  "region": "Auckland",
+  "sources": {
+    "2013-04-02T08:58:38.000Z": "Extracted from the New Zealand National Bibliography (MARC record 8138180) downloaded March 2013.",
+    "2014-05-07T09:01:23.000Z": "Modified by DataBot"
+  },
+  "revision": 4
+}

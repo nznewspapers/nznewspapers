@@ -1,0 +1,20 @@
+{
+  "id": 2308,
+  "title": "Reefton Weekly",
+  "genre": "Newspaper",
+  "firstYear": "1942",
+  "finalYear": "uuuu",
+  "district": "Buller District",
+  "frequency": "Weekly",
+  "idMarcControlNumber": "8181427",
+  "idNZNewspapersV1": "65140",
+  "isCurrent": false,
+  "placecode": "11-01",
+  "placename": "Reefton",
+  "region": "West Coast",
+  "sources": {
+    "2013-04-02T08:58:38.000Z": "Extracted from the New Zealand National Bibliography (MARC record 8181427) downloaded March 2013.",
+    "2014-05-07T09:19:49.000Z": "Modified by DataBot"
+  },
+  "revision": 4
+}

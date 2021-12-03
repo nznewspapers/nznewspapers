@@ -1,0 +1,26 @@
+{
+  "id": 1932,
+  "title": "Pahiatua Herald",
+  "genre": "Newspaper",
+  "firstYear": "1893",
+  "finalYear": "1943",
+  "district": "Tararua District",
+  "frequency": "Daily",
+  "idMarcControlNumber": "8177834",
+  "idNZNewspapersV1": "71122",
+  "isCurrent": false,
+  "placecode": "08-06",
+  "placename": "Pahiatua",
+  "region": "Manawatu-Wanganui",
+  "links": {
+    "1941": {
+      "direction": "Continued By",
+      "target-description": "North Wairarapa Herald"
+    }
+  },
+  "sources": {
+    "2013-04-02T08:58:38.000Z": "Extracted from the New Zealand National Bibliography (MARC record 8177834) downloaded March 2013.",
+    "2014-04-10T11:52:35.000Z": "Modified by DataBot"
+  },
+  "revision": 5
+}

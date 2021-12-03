@@ -1,0 +1,36 @@
+{
+  "id": 1757,
+  "title": "The Hawke's Bay Herald",
+  "genre": "Newspaper",
+  "firstYear": "1857",
+  "finalYear": "1937",
+  "district": "Napier City",
+  "finalIssueDate": "1937-01-15",
+  "firstIssueDate": "1857-09-24",
+  "frequency": "Daily",
+  "idMarcControlNumber": "3184030",
+  "idNZNewspapersV1": "4002",
+  "idPapersPastCode": "HBH",
+  "isCurrent": false,
+  "placecode": "06-03",
+  "placename": "Napier",
+  "region": "Hawke's Bay",
+  "urlDigitized": "http://paperspast.natlib.govt.nz/cgi-bin/paperspast?a=d&cl=CL1.HBH",
+  "links": {
+    "1736": {
+      "direction": "Succeeding",
+      "relationship": "Merged to form",
+      "target-description": "Hawke's Bay Herald-Tribune"
+    },
+    "1769": {
+      "direction": "Has Edition",
+      "relationship": "Special edition",
+      "target-description": "News Bulletin"
+    }
+  },
+  "sources": {
+    "2013-04-02T08:58:38.000Z": "Extracted from the New Zealand National Bibliography (MARC record 3184030) downloaded March 2013.",
+    "2014-04-10T10:44:27.000Z": "Modified by gordon.paynter"
+  },
+  "revision": 12
+}

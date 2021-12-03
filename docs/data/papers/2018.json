@@ -1,0 +1,20 @@
+{
+  "id": 2018,
+  "title": "Wairarapa Journal",
+  "genre": "Newspaper",
+  "firstYear": "1868",
+  "finalYear": "1868",
+  "district": "South Wairarapa District",
+  "frequency": "Two issues per week",
+  "idMarcControlNumber": "8185389",
+  "idNZNewspapersV1": "73026",
+  "isCurrent": false,
+  "placecode": "09-04",
+  "placename": "Greytown",
+  "region": "Wellington",
+  "sources": {
+    "2013-04-02T08:58:38.000Z": "Extracted from the New Zealand National Bibliography (MARC record 8185389) downloaded March 2013.",
+    "2014-05-07T09:07:32.000Z": "Modified by DataBot"
+  },
+  "revision": 4
+}

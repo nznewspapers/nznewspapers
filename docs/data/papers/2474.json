@@ -1,0 +1,18 @@
+{
+  "id": 2474,
+  "title": "Christchurch Strike Bulletin",
+  "genre": "Newspaper",
+  "firstYear": "19uu",
+  "finalYear": "19uu",
+  "district": "Christchurch City",
+  "idMarcControlNumber": "8170640",
+  "idNZNewspapersV1": "6044",
+  "isCurrent": false,
+  "placecode": "12-05-christchur",
+  "placename": "Christchurch",
+  "region": "Canterbury",
+  "sources": {
+    "2013-04-02T08:58:38.000Z": "Extracted from the New Zealand National Bibliography (MARC record 8170640) downloaded March 2013."
+  },
+  "revision": 2
+}

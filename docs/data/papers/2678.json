@@ -1,0 +1,24 @@
+{
+  "id": 2678,
+  "title": "Otautau Standard and Wallace County Chronicle",
+  "genre": "Newspaper",
+  "firstYear": "1905",
+  "finalYear": "1946",
+  "district": "Southland District",
+  "finalIssueDate": "1946-05-07",
+  "firstIssueDate": "1905-05-03",
+  "frequency": "Weekly",
+  "idMarcControlNumber": "8177773",
+  "idNZNewspapersV1": "62114",
+  "idPapersPastCode": "OSWCC",
+  "isCurrent": false,
+  "placecode": "14-01",
+  "placename": "Otautau",
+  "region": "Southland",
+  "urlDigitized": "http://paperspast.natlib.govt.nz/cgi-bin/paperspast?a=d&cl=CL1.OSWCC",
+  "sources": {
+    "2013-04-02T08:58:38.000Z": "Extracted from the New Zealand National Bibliography (MARC record 8177773) downloaded March 2013.",
+    "2014-05-07T09:19:18.000Z": "Modified by DataBot"
+  },
+  "revision": 10
+}

@@ -1,0 +1,20 @@
+{
+  "id": 1999,
+  "title": "Pukerua Bay Gazette",
+  "genre": "Newspaper",
+  "firstYear": "1963",
+  "finalYear": "1965",
+  "district": "Kapiti Coast District",
+  "frequency": "Monthly",
+  "idMarcControlNumber": "8181379",
+  "idNZNewspapersV1": "66140",
+  "isCurrent": false,
+  "placecode": "09-02",
+  "placename": "Pukerua Bay",
+  "region": "Wellington",
+  "sources": {
+    "2013-04-02T08:58:38.000Z": "Extracted from the New Zealand National Bibliography (MARC record 8181379) downloaded March 2013.",
+    "2014-05-07T09:02:45.000Z": "Modified by DataBot"
+  },
+  "revision": 4
+}

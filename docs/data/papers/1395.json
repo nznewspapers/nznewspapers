@@ -1,0 +1,20 @@
+{
+  "id": 1395,
+  "title": "Courier Times Advertiser (Central Ed.)",
+  "genre": "Newspaper",
+  "firstYear": "1972",
+  "finalYear": "1972",
+  "district": "Auckland",
+  "frequency": "Two issues per week",
+  "idMarcControlNumber": "8137248",
+  "idNZNewspapersV1": "59066",
+  "isCurrent": false,
+  "placecode": "02-01-auckland",
+  "placename": "Auckland",
+  "region": "Auckland",
+  "sources": {
+    "2013-04-02T08:58:38.000Z": "Extracted from the New Zealand National Bibliography (MARC record 8137248) downloaded March 2013.",
+    "2014-05-07T09:06:15.000Z": "Modified by DataBot"
+  },
+  "revision": 4
+}

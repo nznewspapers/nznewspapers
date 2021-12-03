@@ -1,0 +1,20 @@
+{
+  "id": 2408,
+  "title": "Korako",
+  "genre": "Newspaper",
+  "firstYear": "2008",
+  "finalYear": "9999",
+  "district": "Christchurch City",
+  "idMarcControlNumber": "11672697",
+  "idNZNewspapersV1": "58",
+  "isCurrent": true,
+  "placecode": "12-05",
+  "placename": "Christchurch",
+  "region": "Canterbury",
+  "urlCurrent": "http://www.tekorako.maori.nz/",
+  "sources": {
+    "2013-04-02T08:58:38.000Z": "Extracted from the New Zealand National Bibliography (MARC record 11672697) downloaded March 2013.",
+    "2014-05-16T03:59:11.000Z": "Modified by gordon.paynter"
+  },
+  "revision": 2
+}

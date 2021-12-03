@@ -1,0 +1,27 @@
+{
+  "id": 1752,
+  "title": "Sentinel",
+  "genre": "Newspaper",
+  "firstYear": "2002",
+  "finalYear": "2005",
+  "district": "Hastings District",
+  "frequency": "Irregular",
+  "idMarcControlNumber": "10718170",
+  "idNZNewspapersV1": "12043",
+  "isCurrent": false,
+  "placecode": "06-02",
+  "placename": "Havelock North",
+  "region": "Hawke's Bay",
+  "links": {
+    "undefined-unknown": {
+      "direction": "Preceding",
+      "relationship": "Continues",
+      "target-description": "College Sentinel"
+    }
+  },
+  "sources": {
+    "2013-04-02T08:58:38.000Z": "Extracted from the New Zealand National Bibliography (MARC record 10718170) downloaded March 2013.",
+    "2014-05-07T08:58:40.000Z": "Modified by DataBot"
+  },
+  "revision": 5
+}

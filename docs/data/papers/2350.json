@@ -1,0 +1,31 @@
+{
+  "id": 2350,
+  "title": "Ellesmere Guardian",
+  "genre": "Newspaper",
+  "firstYear": "1880",
+  "finalYear": "1981",
+  "district": "Selwyn District",
+  "finalIssueDate": "1981-04-29",
+  "firstIssueDate": "1880-07-23",
+  "frequency": "Weekly",
+  "idMarcControlNumber": "8141368",
+  "idNZNewspapersV1": "66067",
+  "idPapersPastCode": "EG",
+  "isCurrent": false,
+  "placecode": "12-03",
+  "placename": "Leeston",
+  "region": "Canterbury",
+  "urlDigitized": "http://paperspast.natlib.govt.nz/cgi-bin/paperspast?a=d&cl=CL1.EG",
+  "links": {
+    "2354": {
+      "direction": "Succeeding",
+      "relationship": "Continued by",
+      "target-description": "Guardian"
+    }
+  },
+  "sources": {
+    "2013-04-02T08:58:38.000Z": "Extracted from the New Zealand National Bibliography (MARC record 8141368) downloaded March 2013.",
+    "2014-05-07T09:15:14.000Z": "Modified by DataBot"
+  },
+  "revision": 11
+}

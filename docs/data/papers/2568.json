@@ -1,0 +1,27 @@
+{
+  "id": 2568,
+  "title": "Central Otago News",
+  "genre": "Newspaper",
+  "firstYear": "1948",
+  "finalYear": "1999",
+  "district": "Central Otago District",
+  "frequency": "Two issues per week",
+  "idMarcControlNumber": "3531219",
+  "idNZNewspapersV1": "1007",
+  "isCurrent": false,
+  "placecode": "13-02",
+  "placename": "Alexandra",
+  "region": "Otago",
+  "links": {
+    "undefined-unknown": {
+      "direction": "Preceding",
+      "relationship": "Formed by the union",
+      "target-description": "Lake County mail"
+    }
+  },
+  "sources": {
+    "2013-04-02T08:58:38.000Z": "Extracted from the New Zealand National Bibliography (MARC record 3531219) downloaded March 2013.",
+    "2014-05-07T09:05:37.000Z": "Modified by DataBot"
+  },
+  "revision": 8
+}

@@ -1,0 +1,18 @@
+{
+  "id": 2956,
+  "title": "Lakesider (Wanaka)",
+  "genre": "Periodical",
+  "firstYear": "1991",
+  "finalYear": "2001",
+  "district": "Queenstown-Lakes District",
+  "idMarcControlNumber": "3983944",
+  "idNZNewspapersV1": "14012",
+  "isCurrent": false,
+  "placecode": "13-01",
+  "placename": "Wanaka",
+  "region": "Otago",
+  "sources": {
+    "2013-04-02T08:58:38.000Z": "Extracted from the New Zealand National Bibliography (MARC record 3983944) downloaded March 2013."
+  },
+  "revision": 2
+}

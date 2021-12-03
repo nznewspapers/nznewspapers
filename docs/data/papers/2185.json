@@ -1,0 +1,18 @@
+{
+  "id": 2185,
+  "title": "Upper Hutt Citizen",
+  "genre": "Newspaper",
+  "firstYear": "1982",
+  "finalYear": "9999",
+  "district": "Wellington City",
+  "idMarcControlNumber": "8184363",
+  "idNZNewspapersV1": "72152",
+  "isCurrent": true,
+  "placecode": "09-08-wellington",
+  "placename": "Wellington",
+  "region": "Wellington",
+  "sources": {
+    "2013-04-02T08:58:38.000Z": "Extracted from the New Zealand National Bibliography (MARC record 8184363) downloaded March 2013."
+  },
+  "revision": 2
+}

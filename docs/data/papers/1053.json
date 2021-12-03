@@ -1,0 +1,30 @@
+{
+  "id": 1053,
+  "title": "Weekend Report",
+  "genre": "Masthead",
+  "firstYear": "1982",
+  "finalYear": "1987",
+  "district": "Whangarei District",
+  "frequency": "Weekly",
+  "idMarcControlNumber": "8185538",
+  "idNZNewspapersV1": "62168",
+  "isCurrent": false,
+  "placecode": "01-02",
+  "placename": "Whangarei",
+  "region": "Northland",
+  "links": {
+    "1054": {
+      "direction": "Is Masthead Of",
+      "target-description": "Whangarei Report"
+    },
+    "1056": {
+      "direction": "Continued By",
+      "target-description": "Whangarei Report [1988]"
+    }
+  },
+  "sources": {
+    "2013-04-02T08:58:38.000Z": "Extracted from the New Zealand National Bibliography (MARC record 8185538) downloaded March 2013.",
+    "2014-05-07T09:22:22.000Z": "Modified by DataBot"
+  },
+  "revision": 6
+}

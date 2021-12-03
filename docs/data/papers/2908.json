@@ -1,0 +1,37 @@
+{
+  "id": 2908,
+  "title": "Community Leader",
+  "genre": "Periodical",
+  "firstYear": "1992",
+  "finalYear": "1993",
+  "district": "Nelson City",
+  "idMarcControlNumber": "4151138",
+  "idNZNewspapersV1": "1022",
+  "isCurrent": false,
+  "placecode": "10-02",
+  "placename": "Nelson",
+  "price": "Gratis",
+  "region": "Top of the South",
+  "links": {
+    "2257": {
+      "direction": "Succeeding",
+      "relationship": "Merged",
+      "target-description": "Leader (Nelson, N.Z.)"
+    },
+    "2904": {
+      "direction": "Succeeding",
+      "relationship": "Merged",
+      "target-description": "Motueka sun"
+    },
+    "undefined-unknown": {
+      "direction": "Preceding",
+      "relationship": "Continues",
+      "target-description": "Richmond leader"
+    }
+  },
+  "sources": {
+    "2013-04-02T08:58:38.000Z": "Extracted from the New Zealand National Bibliography (MARC record 4151138) downloaded March 2013.",
+    "2014-05-07T09:48:25.000Z": "Modified by DataBot"
+  },
+  "revision": 7
+}

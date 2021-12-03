@@ -1,0 +1,26 @@
+{
+  "id": 1094,
+  "title": "Franklin Times",
+  "genre": "Newspaper",
+  "firstYear": "1921",
+  "finalYear": "1971",
+  "district": "Auckland",
+  "frequency": "Two issues per week",
+  "idMarcControlNumber": "8142208",
+  "idNZNewspapersV1": "68059",
+  "isCurrent": false,
+  "placecode": "02-01",
+  "placename": "Pukekohe",
+  "region": "Auckland",
+  "links": {
+    "1092": {
+      "direction": "Continues",
+      "target-description": "Franklin &  Pukekohe Times"
+    }
+  },
+  "sources": {
+    "2013-04-02T08:58:38.000Z": "Extracted from the New Zealand National Bibliography (MARC record 8142208) downloaded March 2013.",
+    "2014-08-20T09:21:29.000Z": "Modified by gordon.paynter"
+  },
+  "revision": 5
+}

@@ -1,0 +1,20 @@
+{
+  "id": 2972,
+  "title": "The Squidg",
+  "genre": "Periodical",
+  "firstYear": "1909",
+  "finalYear": "191u",
+  "district": "Unknown District",
+  "frequency": "Monthly",
+  "idMarcControlNumber": "6625544",
+  "idNZNewspapersV1": "11034",
+  "isCurrent": false,
+  "placecode": "unknown",
+  "placename": "Tuparoa",
+  "region": "Unknown Region",
+  "sources": {
+    "2013-04-02T08:58:38.000Z": "Extracted from the New Zealand National Bibliography (MARC record 6625544) downloaded March 2013.",
+    "2014-05-07T09:00:57.000Z": "Modified by DataBot"
+  },
+  "revision": 4
+}

@@ -1,0 +1,28 @@
+{
+  "id": 1514,
+  "title": "Waihi Leader",
+  "genre": "Newspaper",
+  "firstYear": "1981",
+  "finalYear": "1996",
+  "district": "Hauraki District",
+  "frequency": "Weekly",
+  "idMarcControlNumber": "3604372",
+  "idNZNewspapersV1": "3019",
+  "isCurrent": false,
+  "placecode": "03-02",
+  "placename": "Waihi",
+  "price": "Gratis",
+  "region": "Waikato",
+  "links": {
+    "1516": {
+      "direction": "Succeeding",
+      "relationship": "Continued by",
+      "target-description": "Leader (Waihi, N.Z.)"
+    }
+  },
+  "sources": {
+    "2013-04-02T08:58:38.000Z": "Extracted from the New Zealand National Bibliography (MARC record 3604372) downloaded March 2013.",
+    "2014-05-07T09:48:00.000Z": "Modified by DataBot"
+  },
+  "revision": 7
+}

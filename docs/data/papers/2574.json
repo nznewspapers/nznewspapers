@@ -1,0 +1,31 @@
+{
+  "id": 2574,
+  "title": "Colonist",
+  "genre": "Newspaper",
+  "firstYear": "1862",
+  "finalYear": "1863",
+  "district": "Dunedin City",
+  "frequency": "Daily",
+  "idMarcControlNumber": "4869508",
+  "idNZNewspapersV1": "5033",
+  "isCurrent": false,
+  "placecode": "13-03",
+  "placename": "Dunedin",
+  "region": "Otago",
+  "links": {
+    "2572": {
+      "direction": "Preceding",
+      "relationship": "Continues",
+      "target-description": "Otago Colonist"
+    },
+    "2576": {
+      "direction": "Continued By",
+      "target-description": "Daily Telegraph"
+    }
+  },
+  "sources": {
+    "2013-04-02T08:58:38.000Z": "Extracted from the New Zealand National Bibliography (MARC record 4869508) downloaded March 2013.",
+    "2014-04-12T12:32:09.000Z": "Modified by gordon.paynter"
+  },
+  "revision": 6
+}

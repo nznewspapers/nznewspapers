@@ -1,0 +1,19 @@
+{
+  "id": 1782,
+  "title": "Taradale Observer",
+  "genre": "Newspaper",
+  "firstYear": "2003",
+  "finalYear": "2006",
+  "district": "Napier City",
+  "idMarcControlNumber": "9019730",
+  "idNZNewspapersV1": "14232651",
+  "isCurrent": false,
+  "placecode": "06-03",
+  "placename": "Taradale",
+  "region": "Hawke's Bay",
+  "sources": {
+    "2013-04-02T08:58:38.000Z": "Extracted from the New Zealand National Bibliography (MARC record 9019730) downloaded March 2013.",
+    "2014-04-23T10:12:47.000Z": "Modified by MarcLoaderBot"
+  },
+  "revision": 2
+}

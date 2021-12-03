@@ -1,0 +1,25 @@
+{
+  "id": 1783,
+  "title": "The Waipawa Mail, Waipukurau, Kaikora and Harpenden Advertiser",
+  "genre": "Newspaper",
+  "firstYear": "1878",
+  "finalYear": "1974",
+  "district": "Central Hawke's Bay District",
+  "idMarcControlNumber": "4110552",
+  "idNZNewspapersV1": "12014",
+  "isCurrent": false,
+  "placecode": "06-04",
+  "placename": "Waipawa",
+  "region": "Hawke's Bay",
+  "links": {
+    "undefined-unknown": {
+      "direction": "Succeeding",
+      "relationship": "Continued by",
+      "target-description": "Mail (Waipawa, N.Z.)"
+    }
+  },
+  "sources": {
+    "2013-04-02T08:58:38.000Z": "Extracted from the New Zealand National Bibliography (MARC record 4110552) downloaded March 2013."
+  },
+  "revision": 3
+}

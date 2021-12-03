@@ -1,0 +1,20 @@
+{
+  "id": 2347,
+  "title": "Cheviot News",
+  "genre": "Newspaper",
+  "firstYear": "1898",
+  "finalYear": "1924",
+  "district": "Hurunui District",
+  "frequency": "Two issues per week",
+  "idMarcControlNumber": "8134731",
+  "idNZNewspapersV1": "63050",
+  "isCurrent": false,
+  "placecode": "12-02",
+  "placename": "Cheviot",
+  "region": "Canterbury",
+  "sources": {
+    "2013-04-02T08:58:38.000Z": "Extracted from the New Zealand National Bibliography (MARC record 8134731) downloaded March 2013.",
+    "2014-05-07T09:06:11.000Z": "Modified by DataBot"
+  },
+  "revision": 4
+}

@@ -1,0 +1,20 @@
+{
+  "id": 2159,
+  "title": "Carillon",
+  "genre": "Newspaper",
+  "firstYear": "1958",
+  "finalYear": "1958",
+  "district": "Wellington City",
+  "frequency": "Monthly",
+  "idMarcControlNumber": "8134357",
+  "idNZNewspapersV1": "67069",
+  "isCurrent": false,
+  "placecode": "09-08-wellington",
+  "placename": "Wellington",
+  "region": "Wellington",
+  "sources": {
+    "2013-04-02T08:58:38.000Z": "Extracted from the New Zealand National Bibliography (MARC record 8134357) downloaded March 2013.",
+    "2014-05-07T09:01:18.000Z": "Modified by DataBot"
+  },
+  "revision": 4
+}

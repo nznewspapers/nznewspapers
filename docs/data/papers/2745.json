@@ -1,0 +1,18 @@
+{
+  "id": 2745,
+  "title": "Basketball Times",
+  "genre": "Periodical",
+  "firstYear": "1983",
+  "finalYear": "1988",
+  "district": "Auckland",
+  "idMarcControlNumber": "4705122",
+  "idNZNewspapersV1": "15003",
+  "isCurrent": false,
+  "placecode": "02-01-auckland",
+  "placename": "Auckland",
+  "region": "Auckland",
+  "sources": {
+    "2013-04-02T08:58:38.000Z": "Extracted from the New Zealand National Bibliography (MARC record 4705122) downloaded March 2013."
+  },
+  "revision": 2
+}

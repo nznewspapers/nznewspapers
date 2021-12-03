@@ -1,0 +1,32 @@
+{
+  "id": 2864,
+  "title": "Petone Herald",
+  "genre": "Periodical",
+  "firstYear": "1991",
+  "finalYear": "1996",
+  "district": "Hutt City",
+  "frequency": "Monthly",
+  "idMarcControlNumber": "5037346",
+  "idNZNewspapersV1": "11027",
+  "isCurrent": false,
+  "placecode": "09-07",
+  "placename": "Eastbourne",
+  "region": "Wellington",
+  "links": {
+    "2861": {
+      "direction": "Preceding",
+      "relationship": "Continues",
+      "target-description": "Petone chronicle"
+    },
+    "2893": {
+      "direction": "Succeeding",
+      "relationship": "Continued by",
+      "target-description": "Petone and Harbour Ward herald"
+    }
+  },
+  "sources": {
+    "2013-04-02T08:58:38.000Z": "Extracted from the New Zealand National Bibliography (MARC record 5037346) downloaded March 2013.",
+    "2014-05-07T09:00:42.000Z": "Modified by DataBot"
+  },
+  "revision": 6
+}

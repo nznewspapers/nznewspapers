@@ -1,0 +1,31 @@
+{
+  "id": 1800,
+  "title": "Taranaki Daily News",
+  "genre": "Masthead",
+  "firstYear": "1903",
+  "finalYear": "1960",
+  "district": "New Plymouth District",
+  "frequency": "Daily",
+  "idMarcControlNumber": "8183569",
+  "idNZNewspapersV1": "44",
+  "isCurrent": false,
+  "placecode": "07-01",
+  "placename": "New Plymouth",
+  "region": "Taranaki",
+  "links": {
+    "1796": {
+      "direction": "Is Masthead Of",
+      "target-description": "Taranaki Daily News"
+    },
+    "1807": {
+      "direction": "Succeeding",
+      "relationship": "Continued by",
+      "target-description": "Daily News"
+    }
+  },
+  "sources": {
+    "2013-04-02T08:58:38.000Z": "Extracted from the New Zealand National Bibliography (MARC record 8183569) downloaded March 2013.",
+    "2014-03-27T10:42:23.000Z": "Modified by gordon.paynter"
+  },
+  "revision": 6
+}

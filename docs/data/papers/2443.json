@@ -1,0 +1,20 @@
+{
+  "id": 2443,
+  "title": "Leader",
+  "genre": "Newspaper",
+  "firstYear": "1967",
+  "finalYear": "197u",
+  "district": "Christchurch City",
+  "frequency": "Monthly",
+  "idMarcControlNumber": "8164452",
+  "idNZNewspapersV1": "72080",
+  "isCurrent": false,
+  "placecode": "12-05-christchur",
+  "placename": "Christchurch",
+  "region": "Canterbury",
+  "sources": {
+    "2013-04-02T08:58:38.000Z": "Extracted from the New Zealand National Bibliography (MARC record 8164452) downloaded March 2013.",
+    "2014-05-07T09:02:04.000Z": "Modified by DataBot"
+  },
+  "revision": 4
+}

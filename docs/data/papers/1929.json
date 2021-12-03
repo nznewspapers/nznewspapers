@@ -1,0 +1,20 @@
+{
+  "id": 1929,
+  "title": "Pahiatua Star and Eketahuna Advertiser",
+  "genre": "Newspaper",
+  "firstYear": "1886",
+  "finalYear": "1893",
+  "district": "Tararua District",
+  "frequency": "Two issues per week",
+  "idMarcControlNumber": "8177835",
+  "idNZNewspapersV1": "59128",
+  "isCurrent": false,
+  "placecode": "08-06",
+  "placename": "Pahiatua",
+  "region": "Manawatu-Wanganui",
+  "sources": {
+    "2013-04-02T08:58:38.000Z": "Extracted from the New Zealand National Bibliography (MARC record 8177835) downloaded March 2013.",
+    "2014-05-07T09:07:04.000Z": "Modified by DataBot"
+  },
+  "revision": 4
+}

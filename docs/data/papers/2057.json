@@ -1,0 +1,20 @@
+{
+  "id": 2057,
+  "title": "Naenae-Taita Advertiser",
+  "genre": "Newspaper",
+  "firstYear": "1983",
+  "finalYear": "1983",
+  "district": "Hutt City",
+  "frequency": "Weekly",
+  "idMarcControlNumber": "8169299",
+  "idNZNewspapersV1": "71101",
+  "isCurrent": false,
+  "placecode": "09-07",
+  "placename": "Naenae",
+  "region": "Wellington",
+  "sources": {
+    "2013-04-02T08:58:38.000Z": "Extracted from the New Zealand National Bibliography (MARC record 8169299) downloaded March 2013.",
+    "2014-05-07T09:17:48.000Z": "Modified by DataBot"
+  },
+  "revision": 4
+}

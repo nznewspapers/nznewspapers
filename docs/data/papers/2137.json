@@ -1,0 +1,20 @@
+{
+  "id": 2137,
+  "title": "Greater Wellington Chronicle",
+  "genre": "Newspaper",
+  "firstYear": "1917",
+  "finalYear": "uuuu",
+  "district": "Wellington City",
+  "frequency": "Monthly",
+  "idMarcControlNumber": "8143975",
+  "idNZNewspapersV1": "58065",
+  "isCurrent": false,
+  "placecode": "09-08-wellington",
+  "placename": "Wellington",
+  "region": "Wellington",
+  "sources": {
+    "2013-04-02T08:58:38.000Z": "Extracted from the New Zealand National Bibliography (MARC record 8143975) downloaded March 2013.",
+    "2014-05-07T09:01:37.000Z": "Modified by DataBot"
+  },
+  "revision": 4
+}

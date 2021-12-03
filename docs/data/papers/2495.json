@@ -1,0 +1,28 @@
+{
+  "id": 2495,
+  "title": "Christchurch Mail (North-western Ed.)",
+  "genre": "Newspaper",
+  "firstYear": "2008",
+  "finalYear": "9999",
+  "district": "Christchurch City",
+  "frequency": "Weekly",
+  "idMarcControlNumber": "12374192",
+  "idNZNewspapersV1": "6055",
+  "isCurrent": true,
+  "placecode": "12-05-christchur",
+  "placename": "Christchurch",
+  "price": "Gratis",
+  "region": "Canterbury",
+  "links": {
+    "2482": {
+      "direction": "Preceding",
+      "relationship": "Continues",
+      "target-description": "Christchurch mail (Waimairi, Papanui, Riccarton, Fendalton)"
+    }
+  },
+  "sources": {
+    "2013-04-02T08:58:38.000Z": "Extracted from the New Zealand National Bibliography (MARC record 12374192) downloaded March 2013.",
+    "2014-05-07T09:46:44.000Z": "Modified by DataBot"
+  },
+  "revision": 7
+}

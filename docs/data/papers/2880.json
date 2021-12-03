@@ -1,0 +1,27 @@
+{
+  "id": 2880,
+  "title": "Newlands-Paparangi Times",
+  "genre": "Periodical",
+  "firstYear": "1966",
+  "finalYear": "1976",
+  "district": "Wellington City",
+  "frequency": "Monthly",
+  "idMarcControlNumber": "5586788",
+  "idNZNewspapersV1": "4043",
+  "isCurrent": false,
+  "placecode": "09-08-wellington",
+  "placename": "Wellington",
+  "region": "Wellington",
+  "links": {
+    "undefined-unknown": {
+      "direction": "Preceding",
+      "relationship": "Continues",
+      "target-description": "Newlands-Paparangi monthly times"
+    }
+  },
+  "sources": {
+    "2013-04-02T08:58:38.000Z": "Extracted from the New Zealand National Bibliography (MARC record 5586788) downloaded March 2013.",
+    "2014-05-07T09:03:37.000Z": "Modified by DataBot"
+  },
+  "revision": 5
+}

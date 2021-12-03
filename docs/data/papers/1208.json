@@ -1,0 +1,21 @@
+{
+  "id": 1208,
+  "title": "Counties Courier",
+  "genre": "Newspaper",
+  "firstYear": "1986",
+  "finalYear": "1991",
+  "district": "Auckland",
+  "frequency": "Weekly",
+  "idMarcControlNumber": "3601377",
+  "idNZNewspapersV1": "3018",
+  "isCurrent": false,
+  "placecode": "02-01",
+  "placename": "Papakura",
+  "price": "Gratis",
+  "region": "Auckland",
+  "sources": {
+    "2013-04-02T08:58:38.000Z": "Extracted from the New Zealand National Bibliography (MARC record 3601377) downloaded March 2013.",
+    "2014-05-07T09:47:51.000Z": "Modified by DataBot"
+  },
+  "revision": 6
+}

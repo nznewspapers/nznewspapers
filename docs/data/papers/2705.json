@@ -1,0 +1,20 @@
+{
+  "id": 2705,
+  "title": "Monthly Record : a Summary of New Zealand News for Home Readers",
+  "genre": "Periodical",
+  "firstYear": "1865",
+  "finalYear": "uuuu",
+  "district": "Auckland",
+  "frequency": "Monthly",
+  "idMarcControlNumber": "8167896",
+  "idNZNewspapersV1": "60090",
+  "isCurrent": false,
+  "placecode": "02-01",
+  "placename": "Auckland",
+  "region": "Auckland",
+  "sources": {
+    "2013-04-02T08:58:38.000Z": "Extracted from the New Zealand National Bibliography (MARC record 8167896) downloaded March 2013.",
+    "2014-06-01T08:52:45.000Z": "Modified by gordon.paynter"
+  },
+  "revision": 4
+}

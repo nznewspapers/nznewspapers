@@ -1,0 +1,21 @@
+{
+  "id": 2974,
+  "title": "Bream Bay News",
+  "genre": "Periodical",
+  "firstYear": "1961",
+  "finalYear": "9999",
+  "district": "Unknown District",
+  "frequency": "Two issues per month",
+  "idMarcControlNumber": "5170646",
+  "idNZNewspapersV1": "60032",
+  "isCurrent": true,
+  "placecode": "unknown",
+  "placename": "Waipu",
+  "price": "Gratis",
+  "region": "Unknown Region",
+  "sources": {
+    "2013-04-02T08:58:38.000Z": "Extracted from the New Zealand National Bibliography (MARC record 5170646) downloaded March 2013.",
+    "2014-05-07T09:49:41.000Z": "Modified by DataBot"
+  },
+  "revision": 6
+}

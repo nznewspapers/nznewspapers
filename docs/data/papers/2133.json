@@ -1,0 +1,36 @@
+{
+  "id": 2133,
+  "title": "The Dominion",
+  "genre": "Newspaper",
+  "firstYear": "1907",
+  "finalYear": "2002",
+  "district": "Wellington City",
+  "finalIssueDate": "2002-07-06",
+  "firstIssueDate": "1907-09-26",
+  "frequency": "Daily (except Sunday)",
+  "idMarcControlNumber": "4928119",
+  "idNZNewspapersV1": "3032",
+  "idPapersPastCode": "DOM",
+  "isCurrent": false,
+  "placecode": "09-08-wellington",
+  "placename": "Wellington",
+  "region": "Wellington",
+  "urlDigitized": "http://paperspast.natlib.govt.nz/cgi-bin/paperspast?a=d&cl=CL1.DOM",
+  "links": {
+    "2106": {
+      "direction": "Preceding",
+      "relationship": "Absorbed",
+      "target-description": "New  Zealand Times"
+    },
+    "2206": {
+      "direction": "Succeeding",
+      "relationship": "Merged into",
+      "target-description": "The Dominion Post"
+    }
+  },
+  "sources": {
+    "2013-04-02T08:58:38.000Z": "Extracted from the New Zealand National Bibliography (MARC record 4928119) downloaded March 2013.",
+    "2014-03-21T11:48:24.000Z": "Modified by DataBot"
+  },
+  "revision": 12
+}

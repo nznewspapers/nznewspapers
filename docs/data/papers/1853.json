@@ -1,0 +1,20 @@
+{
+  "id": 1853,
+  "title": "Waimarino Weekly",
+  "genre": "Newspaper",
+  "firstYear": "1977",
+  "finalYear": "1982",
+  "district": "Ruapehu District",
+  "frequency": "Weekly",
+  "idMarcControlNumber": "8185238",
+  "idNZNewspapersV1": "65172",
+  "isCurrent": false,
+  "placecode": "08-01",
+  "placename": "Raetihi",
+  "region": "Manawatu-Wanganui",
+  "sources": {
+    "2013-04-02T08:58:38.000Z": "Extracted from the New Zealand National Bibliography (MARC record 8185238) downloaded March 2013.",
+    "2014-05-07T09:21:57.000Z": "Modified by DataBot"
+  },
+  "revision": 4
+}

@@ -1,0 +1,27 @@
+{
+  "id": 2213,
+  "title": "Citylife (South Ed.)",
+  "genre": "Newspaper",
+  "firstYear": "2006",
+  "finalYear": "2007",
+  "district": "Wellington City",
+  "frequency": "Weekly",
+  "idMarcControlNumber": "10906053",
+  "idNZNewspapersV1": "13050",
+  "isCurrent": false,
+  "placecode": "09-08-wellington",
+  "placename": "Wellington",
+  "price": "Gratis",
+  "region": "Wellington",
+  "links": {
+    "2093": {
+      "direction": "Continued By",
+      "target-description": "Citylife (South South & East ed.)"
+    }
+  },
+  "sources": {
+    "2013-04-02T08:58:38.000Z": "Extracted from the New Zealand National Bibliography (MARC record 10906053) downloaded March 2013.",
+    "2014-11-19T09:12:17.000Z": "Modified by gordon.paynter"
+  },
+  "revision": 7
+}

@@ -1,0 +1,18 @@
+{
+  "id": 2748,
+  "title": "Broadway (Auckland)",
+  "genre": "Periodical",
+  "firstYear": "1988",
+  "finalYear": "1990",
+  "district": "Auckland",
+  "idMarcControlNumber": "3601355",
+  "idNZNewspapersV1": "10011",
+  "isCurrent": false,
+  "placecode": "02-01-auckland",
+  "placename": "Auckland",
+  "region": "Auckland",
+  "sources": {
+    "2013-04-02T08:58:38.000Z": "Extracted from the New Zealand National Bibliography (MARC record 3601355) downloaded March 2013."
+  },
+  "revision": 2
+}

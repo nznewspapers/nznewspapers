@@ -1,0 +1,20 @@
+{
+  "id": 1801,
+  "title": "Inglewood Times and County Chronicle",
+  "genre": "Newspaper",
+  "firstYear": "1930",
+  "finalYear": "1937",
+  "district": "New Plymouth District",
+  "frequency": "Two issues per week",
+  "idMarcControlNumber": "8159335",
+  "idNZNewspapersV1": "68074",
+  "isCurrent": false,
+  "placecode": "07-01",
+  "placename": "Inglewood",
+  "region": "Taranaki",
+  "sources": {
+    "2013-04-02T08:58:38.000Z": "Extracted from the New Zealand National Bibliography (MARC record 8159335) downloaded March 2013.",
+    "2014-05-07T09:06:30.000Z": "Modified by DataBot"
+  },
+  "revision": 4
+}

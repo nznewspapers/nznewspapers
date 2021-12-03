@@ -1,0 +1,31 @@
+{
+  "id": 2378,
+  "title": "The Lyttelton Times",
+  "genre": "Newspaper",
+  "firstYear": "1851",
+  "finalYear": "1929",
+  "district": "Christchurch City",
+  "finalIssueDate": "1929-07-31",
+  "firstIssueDate": "1851-01-11",
+  "frequency": "Weekly",
+  "idMarcControlNumber": "2766479",
+  "idNZNewspapersV1": "6003",
+  "idPapersPastCode": "LT",
+  "isCurrent": false,
+  "placecode": "12-05",
+  "placename": "Lyttelton",
+  "region": "Canterbury",
+  "urlDigitized": "http://paperspast.natlib.govt.nz/cgi-bin/paperspast?a=d&cl=CL1.LT",
+  "links": {
+    "2385": {
+      "direction": "Succeeding",
+      "relationship": "Continued by",
+      "target-description": "Christchurch Times"
+    }
+  },
+  "sources": {
+    "2013-04-02T08:58:38.000Z": "Extracted from the New Zealand National Bibliography (MARC record 2766479) downloaded March 2013.",
+    "2014-05-07T08:58:32.000Z": "Modified by DataBot"
+  },
+  "revision": 11
+}

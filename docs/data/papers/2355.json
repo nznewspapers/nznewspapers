@@ -1,0 +1,37 @@
+{
+  "id": 2355,
+  "title": "Central Canterbury News",
+  "genre": "Newspaper",
+  "firstYear": "1983",
+  "finalYear": "1989",
+  "district": "Selwyn District",
+  "idMarcControlNumber": "3531200",
+  "idNZNewspapersV1": "13004",
+  "isCurrent": false,
+  "placecode": "12-03",
+  "placename": "Darfield",
+  "price": "Gratis",
+  "region": "Canterbury",
+  "links": {
+    "2193": {
+      "direction": "Preceding",
+      "relationship": "Formed by the union",
+      "target-description": "Malvern record"
+    },
+    "2231": {
+      "direction": "Preceding",
+      "relationship": "Formed by the union",
+      "target-description": "Guardian (Leeston, N.Z.)"
+    },
+    "2457": {
+      "direction": "Succeeding",
+      "relationship": "Continued by",
+      "target-description": "NewsPlus"
+    }
+  },
+  "sources": {
+    "2013-04-02T08:58:38.000Z": "Extracted from the New Zealand National Bibliography (MARC record 3531200) downloaded March 2013.",
+    "2014-05-07T09:47:12.000Z": "Modified by DataBot"
+  },
+  "revision": 7
+}

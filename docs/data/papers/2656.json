@@ -1,0 +1,31 @@
+{
+  "id": 2656,
+  "title": "Invercargill Times",
+  "genre": "Newspaper",
+  "firstYear": "1862",
+  "finalYear": "1864",
+  "description": "1862-11-02",
+  "district": "Southland District",
+  "finalIssueDate": "1864-03-07",
+  "frequency": "Three issues per week",
+  "idMarcControlNumber": "8159352",
+  "idNZNewspapersV1": "5044",
+  "idPapersPastCode": "ST",
+  "isCurrent": false,
+  "placecode": "14-01",
+  "placename": "Invercargill",
+  "region": "Southland",
+  "urlDigitized": "http://paperspast.natlib.govt.nz/cgi-bin/paperspast?a=d&cl=CL1.ST",
+  "links": {
+    "2663": {
+      "direction": "Succeeding",
+      "relationship": "Continued by",
+      "target-description": "Southland Times"
+    }
+  },
+  "sources": {
+    "2013-04-02T08:58:38.000Z": "Extracted from the New Zealand National Bibliography (MARC record 8159352) downloaded March 2013.",
+    "2014-08-21T20:23:41.000Z": "Modified by gordon.paynter"
+  },
+  "revision": 11
+}

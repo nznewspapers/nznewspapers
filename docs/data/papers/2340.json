@@ -1,0 +1,26 @@
+{
+  "id": 2340,
+  "title": "Westland Chronicle",
+  "genre": "Newspaper",
+  "firstYear": "1917",
+  "finalYear": "1918",
+  "district": "Westland District",
+  "frequency": "Weekly",
+  "idMarcControlNumber": "8187799",
+  "idNZNewspapersV1": "1048",
+  "isCurrent": false,
+  "placecode": "11-03",
+  "placename": "Hokitika",
+  "region": "West Coast",
+  "links": {
+    "2335": {
+      "direction": "Continues",
+      "target-description": "Kumara Times"
+    }
+  },
+  "sources": {
+    "2013-04-02T08:58:38.000Z": "Extracted from the New Zealand National Bibliography (MARC record 8187799) downloaded March 2013.",
+    "2014-05-07T09:23:04.000Z": "Modified by DataBot"
+  },
+  "revision": 5
+}

@@ -1,0 +1,32 @@
+{
+  "id": 1924,
+  "title": "Manawatu Standard [2002]",
+  "genre": "Masthead",
+  "firstYear": "2002",
+  "finalYear": "9999",
+  "district": "Palmerston North City",
+  "frequency": "Daily (except Sunday)",
+  "idMarcControlNumber": "7830928",
+  "idNZNewspapersV1": "40",
+  "isCurrent": true,
+  "placecode": "08-05",
+  "placename": "Palmerston North",
+  "region": "Manawatu-Wanganui",
+  "urlCurrent": "http://www.manawatustandard.co.nz/",
+  "links": {
+    "1907": {
+      "direction": "Is Masthead Of",
+      "target-description": "Manawatu Standard"
+    },
+    "1919": {
+      "direction": "Continues",
+      "relationship": "Continues",
+      "target-description": "Evening Standard"
+    }
+  },
+  "sources": {
+    "2013-04-02T08:58:38.000Z": "Extracted from the New Zealand National Bibliography (MARC record 7830928) downloaded March 2013.",
+    "2014-03-21T11:49:11.000Z": "Modified by DataBot"
+  },
+  "revision": 6
+}

@@ -1,0 +1,20 @@
+{
+  "id": 2781,
+  "title": "Rural Delivery (Matamata)",
+  "genre": "Periodical",
+  "firstYear": "199u",
+  "finalYear": "9999",
+  "district": "Matamata-Piako District",
+  "frequency": "Three issues per week",
+  "idMarcControlNumber": "5261392",
+  "idNZNewspapersV1": "3036",
+  "isCurrent": true,
+  "placecode": "03-04",
+  "placename": "Matamata",
+  "region": "Waikato",
+  "sources": {
+    "2013-04-02T08:58:38.000Z": "Extracted from the New Zealand National Bibliography (MARC record 5261392) downloaded March 2013.",
+    "2014-05-07T09:04:00.000Z": "Modified by DataBot"
+  },
+  "revision": 4
+}

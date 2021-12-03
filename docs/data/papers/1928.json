@@ -1,0 +1,27 @@
+{
+  "id": 1928,
+  "title": "Woodville Examiner",
+  "genre": "Newspaper",
+  "firstYear": "1883",
+  "finalYear": "1891",
+  "district": "Tararua District",
+  "frequency": "Three issues per week",
+  "idMarcControlNumber": "8188044",
+  "idNZNewspapersV1": "62182",
+  "isCurrent": false,
+  "placecode": "08-06",
+  "placename": "Woodville",
+  "region": "Manawatu-Wanganui",
+  "links": {
+    "1931": {
+      "direction": "Succeeding",
+      "relationship": "Continued by",
+      "target-description": "Examiner"
+    }
+  },
+  "sources": {
+    "2013-04-02T08:58:38.000Z": "Extracted from the New Zealand National Bibliography (MARC record 8188044) downloaded March 2013.",
+    "2014-05-07T09:05:07.000Z": "Modified by DataBot"
+  },
+  "revision": 5
+}

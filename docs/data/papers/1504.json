@@ -1,0 +1,35 @@
+{
+  "id": 1504,
+  "title": "Waihi Daily Telegraph",
+  "genre": "Newspaper",
+  "firstYear": "1901",
+  "finalYear": "1908",
+  "district": "Hauraki District",
+  "finalIssueDate": "1908-10-31",
+  "frequency": "Daily",
+  "idMarcControlNumber": "8185144",
+  "idNZNewspapersV1": "63155",
+  "idPapersPastCode": "WHDT",
+  "isCurrent": false,
+  "placecode": "03-02",
+  "placename": "Waihi",
+  "region": "Waikato",
+  "urlDigitized": "http://paperspast.natlib.govt.nz/cgi-bin/paperspast?a=d&cl=CL1.WHDT",
+  "links": {
+    "1503": {
+      "direction": "Preceding",
+      "relationship": "Continues",
+      "target-description": "Waihi Miner and  Hauraki Goldfield Gazette"
+    },
+    "1505": {
+      "direction": "Succeeding",
+      "relationship": "Continued by",
+      "target-description": "Daily Telegraph"
+    }
+  },
+  "sources": {
+    "2013-04-02T08:58:38.000Z": "Extracted from the New Zealand National Bibliography (MARC record 8185144) downloaded March 2013.",
+    "2014-03-21T11:43:08.000Z": "Modified by DataBot"
+  },
+  "revision": 10
+}

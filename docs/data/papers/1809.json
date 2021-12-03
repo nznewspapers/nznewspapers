@@ -1,0 +1,20 @@
+{
+  "id": 1809,
+  "title": "Inglewood Record",
+  "genre": "Newspaper",
+  "firstYear": "1964",
+  "finalYear": "1969",
+  "district": "New Plymouth District",
+  "frequency": "Weekly",
+  "idMarcControlNumber": "8159298",
+  "idNZNewspapersV1": "66093",
+  "isCurrent": false,
+  "placecode": "07-01",
+  "placename": "Inglewood",
+  "region": "Taranaki",
+  "sources": {
+    "2013-04-02T08:58:38.000Z": "Extracted from the New Zealand National Bibliography (MARC record 8159298) downloaded March 2013.",
+    "2014-05-07T09:16:24.000Z": "Modified by DataBot"
+  },
+  "revision": 4
+}

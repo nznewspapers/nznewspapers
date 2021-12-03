@@ -1,0 +1,29 @@
+{
+  "id": 2146,
+  "title": "Evening Post Sports Post",
+  "genre": "Weekly Edition",
+  "firstYear": "1936",
+  "finalYear": "1948",
+  "alternateTitle": {
+    "500001": "Evening Post Sports Edition"
+  },
+  "district": "Wellington City",
+  "frequency": "Weekly",
+  "idMarcControlNumber": "8141880",
+  "idNZNewspapersV1": "68052",
+  "isCurrent": false,
+  "placecode": "09-08-wellington",
+  "placename": "Wellington",
+  "region": "Wellington",
+  "links": {
+    "2101": {
+      "direction": "Is Edition Of",
+      "target-description": "The Evening Post"
+    }
+  },
+  "sources": {
+    "2013-04-02T08:58:38.000Z": "Extracted from the New Zealand National Bibliography (MARC record 8141880) downloaded March 2013.",
+    "2014-05-15T04:29:19.000Z": "Modified by DataBot"
+  },
+  "revision": 7
+}

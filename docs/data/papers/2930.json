@@ -1,0 +1,27 @@
+{
+  "id": 2930,
+  "title": "Hilton Press",
+  "genre": "Periodical",
+  "firstYear": "1964",
+  "finalYear": "1979",
+  "district": "Christchurch City",
+  "frequency": "Monthly",
+  "idMarcControlNumber": "7201527",
+  "idNZNewspapersV1": "11037",
+  "isCurrent": false,
+  "placecode": "12-05-christchur",
+  "placename": "Christchurch",
+  "region": "Canterbury",
+  "links": {
+    "undefined-unknown": {
+      "direction": "Succeeding",
+      "relationship": "Continued by",
+      "target-description": "Hilton news."
+    }
+  },
+  "sources": {
+    "2013-04-02T08:58:38.000Z": "Extracted from the New Zealand National Bibliography (MARC record 7201527) downloaded March 2013.",
+    "2014-05-07T09:01:01.000Z": "Modified by DataBot"
+  },
+  "revision": 5
+}

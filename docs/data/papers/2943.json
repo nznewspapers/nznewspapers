@@ -1,0 +1,21 @@
+{
+  "id": 2943,
+  "title": "Viva Korea",
+  "genre": "Periodical",
+  "firstYear": "2000",
+  "finalYear": "2011",
+  "district": "Christchurch City",
+  "frequency": "Two issues per month",
+  "idMarcControlNumber": "7843409",
+  "idNZNewspapersV1": "9030",
+  "isCurrent": false,
+  "placecode": "12-05-christchur",
+  "placename": "Christchurch",
+  "price": "Gratis",
+  "region": "Canterbury",
+  "sources": {
+    "2013-04-02T08:58:38.000Z": "Extracted from the New Zealand National Bibliography (MARC record 7843409) downloaded March 2013.",
+    "2014-05-07T09:50:05.000Z": "Modified by DataBot"
+  },
+  "revision": 6
+}

@@ -1,0 +1,27 @@
+{
+  "id": 2497,
+  "title": "Shore View : Star Community News",
+  "genre": "Newspaper",
+  "firstYear": "2009",
+  "finalYear": "2011",
+  "district": "Christchurch City",
+  "frequency": "Weekly",
+  "idMarcControlNumber": "12878855",
+  "idNZNewspapersV1": "4071",
+  "isCurrent": false,
+  "placecode": "12-05-christchur",
+  "placename": "Christchurch",
+  "region": "Canterbury",
+  "links": {
+    "2499": {
+      "direction": "Preceding",
+      "relationship": "Separted from",
+      "target-description": "Observer (Christchurch, N.Z. : 2009)"
+    }
+  },
+  "sources": {
+    "2013-04-02T08:58:38.000Z": "Extracted from the New Zealand National Bibliography (MARC record 12878855) downloaded March 2013.",
+    "2014-05-07T09:09:28.000Z": "Modified by DataBot"
+  },
+  "revision": 5
+}

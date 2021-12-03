@@ -1,0 +1,19 @@
+{
+  "id": 2981,
+  "title": "Ohope Drift",
+  "genre": "Periodical",
+  "firstYear": "1992",
+  "finalYear": "9999",
+  "district": "Unknown District",
+  "idMarcControlNumber": "8177390",
+  "idNZNewspapersV1": "72110",
+  "isCurrent": true,
+  "placecode": "unknown",
+  "placename": "Ohope",
+  "region": "Unknown Region",
+  "sources": {
+    "2013-04-02T08:58:38.000Z": "Extracted from the New Zealand National Bibliography (MARC record 8177390) downloaded March 2013.",
+    "2013-04-17T11:19:38.000Z": "Modified by gordon.paynter"
+  },
+  "revision": 2
+}

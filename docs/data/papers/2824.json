@@ -1,0 +1,27 @@
+{
+  "id": 2824,
+  "title": "Taradale Observer",
+  "genre": "Periodical",
+  "firstYear": "200u",
+  "finalYear": "2009",
+  "district": "Napier City",
+  "frequency": "Monthly",
+  "idMarcControlNumber": "12858284",
+  "idNZNewspapersV1": "62",
+  "isCurrent": false,
+  "placecode": "06-03",
+  "placename": "Taradale",
+  "region": "Hawke's Bay",
+  "links": {
+    "1778": {
+      "direction": "Preceding",
+      "relationship": "Separted from",
+      "target-description": "Napier courier"
+    }
+  },
+  "sources": {
+    "2013-04-02T08:58:38.000Z": "Extracted from the New Zealand National Bibliography (MARC record 12858284) downloaded March 2013.",
+    "2014-05-07T08:59:48.000Z": "Modified by DataBot"
+  },
+  "revision": 5
+}

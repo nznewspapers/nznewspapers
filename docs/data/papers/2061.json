@@ -1,0 +1,21 @@
+{
+  "id": 2061,
+  "title": "Stokes Valley Chronicle",
+  "genre": "Newspaper",
+  "firstYear": "1992",
+  "finalYear": "1993",
+  "district": "Hutt City",
+  "frequency": "Monthly (except January)",
+  "idMarcControlNumber": "4017520",
+  "idNZNewspapersV1": "25001",
+  "isCurrent": false,
+  "placecode": "09-07",
+  "placename": "Lower Hutt",
+  "price": "Gratis",
+  "region": "Wellington",
+  "sources": {
+    "2013-04-02T08:58:38.000Z": "Extracted from the New Zealand National Bibliography (MARC record 4017520) downloaded March 2013.",
+    "2014-05-07T09:48:17.000Z": "Modified by DataBot"
+  },
+  "revision": 6
+}

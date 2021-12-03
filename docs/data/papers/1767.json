@@ -1,0 +1,20 @@
+{
+  "id": 1767,
+  "title": "Evening News and Hawke's Bay Advertiser",
+  "genre": "Newspaper",
+  "firstYear": "1885",
+  "finalYear": "1897",
+  "district": "Napier City",
+  "frequency": "Daily",
+  "idMarcControlNumber": "8141843",
+  "idNZNewspapersV1": "67082",
+  "isCurrent": false,
+  "placecode": "06-03",
+  "placename": "Napier",
+  "region": "Hawke's Bay",
+  "sources": {
+    "2013-04-02T08:58:38.000Z": "Extracted from the New Zealand National Bibliography (MARC record 8141843) downloaded March 2013.",
+    "2014-03-27T10:18:36.000Z": "Modified by gordon.paynter"
+  },
+  "revision": 4
+}

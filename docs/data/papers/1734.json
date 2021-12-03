@@ -1,0 +1,26 @@
+{
+  "id": 1734,
+  "title": "Hastings Standard",
+  "genre": "Newspaper",
+  "firstYear": "1896",
+  "finalYear": "1910",
+  "district": "Hastings District",
+  "frequency": "Daily",
+  "idMarcControlNumber": "8156593",
+  "idNZNewspapersV1": "64082",
+  "isCurrent": false,
+  "placecode": "06-02",
+  "placename": "Hastings",
+  "region": "Hawke's Bay",
+  "links": {
+    "1735": {
+      "direction": "Continued By",
+      "target-description": "Hawke's Bay Tribune"
+    }
+  },
+  "sources": {
+    "2013-04-02T08:58:38.000Z": "Extracted from the New Zealand National Bibliography (MARC record 8156593) downloaded March 2013.",
+    "2014-04-10T10:05:13.000Z": "Modified by DataBot"
+  },
+  "revision": 5
+}

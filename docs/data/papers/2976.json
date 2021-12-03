@@ -1,0 +1,18 @@
+{
+  "id": 2976,
+  "title": "Chatham Islands News & Views",
+  "genre": "Periodical",
+  "firstYear": "1976",
+  "finalYear": "199u",
+  "district": "Unknown District",
+  "idMarcControlNumber": "4103443",
+  "idNZNewspapersV1": "26001",
+  "isCurrent": false,
+  "placecode": "unknown",
+  "placename": "Waitangi, Chatham Islands",
+  "region": "Unknown Region",
+  "sources": {
+    "2013-04-02T08:58:38.000Z": "Extracted from the New Zealand National Bibliography (MARC record 4103443) downloaded March 2013."
+  },
+  "revision": 2
+}

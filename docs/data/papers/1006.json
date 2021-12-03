@@ -1,0 +1,36 @@
+{
+  "id": 1006,
+  "title": "Hokianga Times",
+  "genre": "Newspaper",
+  "firstYear": "1905",
+  "finalYear": "1936",
+  "district": "Far North District",
+  "idNZNewspapersV1": "1020002",
+  "isCurrent": false,
+  "placecode": "01-01",
+  "placename": "Kohukohu",
+  "region": "Northland",
+  "links": {
+    "1005": {
+      "direction": "Has Masthead",
+      "target-description": "Hokianga County Times and North-Western Representative"
+    },
+    "1008": {
+      "direction": "Has Masthead",
+      "target-description": "Hokianga Times and North-Western Representative"
+    },
+    "1014": {
+      "direction": "Succeeding",
+      "relationship": "Incorporated by",
+      "target-description": "Hokianga Star"
+    },
+    "1015": {
+      "direction": "Has Masthead",
+      "target-description": "Hokianga Times"
+    }
+  },
+  "sources": {
+    "2013-11-06T10:37:57.000Z": "Modified by gordon.paynter"
+  },
+  "revision": 6
+}

@@ -1,0 +1,29 @@
+{
+  "id": 2033,
+  "title": "Upper Hutt Leader [1970-]",
+  "genre": "Masthead",
+  "firstYear": "1970",
+  "finalYear": "9999",
+  "district": "Upper Hutt City",
+  "firstIssueDate": "1970-12-02",
+  "idNZNewspapersV1": "511004",
+  "isCurrent": true,
+  "placecode": "09-05",
+  "placename": "Upper Hutt",
+  "region": "Wellington",
+  "urlCurrent": "http://upperhuttleader.co.nz",
+  "links": {
+    "2030": {
+      "direction": "Continues",
+      "target-description": "Leader [1939-1970]"
+    },
+    "2031": {
+      "direction": "Is Masthead Of",
+      "target-description": "Upper Hutt Leader"
+    }
+  },
+  "sources": {
+    "2013-09-21T10:50:25.000Z": "Modified by gordon.paynter"
+  },
+  "revision": 6
+}

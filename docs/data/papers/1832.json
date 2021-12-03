@@ -1,0 +1,20 @@
+{
+  "id": 1832,
+  "title": "Waimate Witness",
+  "genre": "Newspaper",
+  "firstYear": "1888",
+  "finalYear": "1928",
+  "district": "South Taranaki District",
+  "frequency": "Two issues per week",
+  "idMarcControlNumber": "8185262",
+  "idNZNewspapersV1": "64165",
+  "isCurrent": false,
+  "placecode": "07-03",
+  "placename": "Manaia",
+  "region": "Taranaki",
+  "sources": {
+    "2013-04-02T08:58:38.000Z": "Extracted from the New Zealand National Bibliography (MARC record 8185262) downloaded March 2013.",
+    "2014-05-07T09:07:30.000Z": "Modified by DataBot"
+  },
+  "revision": 4
+}

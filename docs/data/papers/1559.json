@@ -1,0 +1,20 @@
+{
+  "id": 1559,
+  "title": "Te Aroha District News for Overseas",
+  "genre": "Newspaper",
+  "firstYear": "1941",
+  "finalYear": "1945",
+  "district": "Matamata-Piako District",
+  "frequency": "Monthly",
+  "idMarcControlNumber": "8183885",
+  "idNZNewspapersV1": "73013",
+  "isCurrent": false,
+  "placecode": "03-04",
+  "placename": "Te Aroha",
+  "region": "Waikato",
+  "sources": {
+    "2013-04-02T08:58:38.000Z": "Extracted from the New Zealand National Bibliography (MARC record 8183885) downloaded March 2013.",
+    "2014-05-07T09:03:07.000Z": "Modified by DataBot"
+  },
+  "revision": 4
+}

@@ -1,0 +1,27 @@
+{
+  "id": 2451,
+  "title": "Christchurch Shopping Guide",
+  "genre": "Newspaper",
+  "firstYear": "1981",
+  "finalYear": "1985",
+  "district": "Christchurch City",
+  "frequency": "Weekly",
+  "idMarcControlNumber": "8134896",
+  "idNZNewspapersV1": "9032",
+  "isCurrent": false,
+  "placecode": "12-05-christchur",
+  "placename": "Christchurch",
+  "region": "Canterbury",
+  "links": {
+    "undefined-unknown": {
+      "direction": "Succeeding",
+      "relationship": "Continued by",
+      "target-description": "Christchurch shopping & TV guide"
+    }
+  },
+  "sources": {
+    "2013-04-02T08:58:38.000Z": "Extracted from the New Zealand National Bibliography (MARC record 8134896) downloaded March 2013.",
+    "2014-05-07T09:14:24.000Z": "Modified by DataBot"
+  },
+  "revision": 6
+}

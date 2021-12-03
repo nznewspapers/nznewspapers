@@ -1,0 +1,27 @@
+{
+  "id": 2649,
+  "title": "Milton Gazette",
+  "genre": "Newspaper",
+  "firstYear": "1971",
+  "finalYear": "1993",
+  "district": "Clutha District",
+  "idMarcControlNumber": "3531244",
+  "idNZNewspapersV1": "1010",
+  "isCurrent": false,
+  "placecode": "13-04",
+  "placename": "Balclutha",
+  "price": "Gratis",
+  "region": "Otago",
+  "links": {
+    "2650": {
+      "direction": "Succeeding",
+      "relationship": "Absorbed by",
+      "target-description": "Southern gazette (Balclutha, N.Z.)"
+    }
+  },
+  "sources": {
+    "2013-04-02T08:58:38.000Z": "Extracted from the New Zealand National Bibliography (MARC record 3531244) downloaded March 2013.",
+    "2014-05-07T09:47:36.000Z": "Modified by DataBot"
+  },
+  "revision": 5
+}

@@ -1,0 +1,20 @@
+{
+  "id": 2874,
+  "title": "The Industrial Unionist",
+  "genre": "Periodical",
+  "firstYear": "1913",
+  "finalYear": "19uu",
+  "district": "Wellington City",
+  "frequency": "Monthly",
+  "idMarcControlNumber": "12882599",
+  "idNZNewspapersV1": "12046",
+  "isCurrent": false,
+  "placecode": "09-08-wellington",
+  "placename": "Wellington",
+  "region": "Wellington",
+  "sources": {
+    "2013-04-02T08:58:38.000Z": "Extracted from the New Zealand National Bibliography (MARC record 12882599) downloaded March 2013.",
+    "2014-05-07T08:59:49.000Z": "Modified by DataBot"
+  },
+  "revision": 4
+}

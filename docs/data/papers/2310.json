@@ -1,0 +1,27 @@
+{
+  "id": 2310,
+  "title": "The Westport News [1971]",
+  "genre": "Masthead",
+  "firstYear": "1971",
+  "finalYear": "9999",
+  "district": "Buller District",
+  "frequency": "Daily (except Sunday)",
+  "idMarcControlNumber": "3827815",
+  "idNZNewspapersV1": "9011",
+  "isCurrent": true,
+  "placecode": "11-01",
+  "placename": "Westport",
+  "region": "West Coast",
+  "urlCurrent": "http://www.westportnews.co.nz/",
+  "links": {
+    "2290": {
+      "direction": "Is Masthead Of",
+      "target-description": "The Westport News"
+    }
+  },
+  "sources": {
+    "2013-04-02T08:58:38.000Z": "Extracted from the New Zealand National Bibliography (MARC record 3827815) downloaded March 2013.",
+    "2014-03-21T11:47:08.000Z": "Modified by DataBot"
+  },
+  "revision": 5
+}

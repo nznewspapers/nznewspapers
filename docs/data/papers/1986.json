@@ -1,0 +1,20 @@
+{
+  "id": 1986,
+  "title": "Matuhi",
+  "genre": "Newspaper",
+  "firstYear": "1903",
+  "finalYear": "1906",
+  "district": "Masterton District",
+  "frequency": "Weekly",
+  "idMarcControlNumber": "4671729",
+  "idNZNewspapersV1": "6024",
+  "isCurrent": false,
+  "placecode": "09-01",
+  "placename": "Masterton",
+  "region": "Wellington",
+  "sources": {
+    "2013-04-02T08:58:38.000Z": "Extracted from the New Zealand National Bibliography (MARC record 4671729) downloaded March 2013.",
+    "2014-05-07T09:11:30.000Z": "Modified by DataBot"
+  },
+  "revision": 4
+}

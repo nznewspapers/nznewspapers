@@ -1,0 +1,20 @@
+{
+  "id": 2245,
+  "title": "Nelson Daily Times",
+  "genre": "Newspaper",
+  "firstYear": "1875",
+  "finalYear": "1877",
+  "district": "Nelson City",
+  "frequency": "Daily",
+  "idMarcControlNumber": "8169315",
+  "idNZNewspapersV1": "65119",
+  "isCurrent": false,
+  "placecode": "10-02",
+  "placename": "Nelson",
+  "region": "Top of the South",
+  "sources": {
+    "2013-04-02T08:58:38.000Z": "Extracted from the New Zealand National Bibliography (MARC record 8169315) downloaded March 2013.",
+    "2014-03-21T11:38:44.000Z": "Modified by DataBot"
+  },
+  "revision": 4
+}

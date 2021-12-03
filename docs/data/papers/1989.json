@@ -1,0 +1,45 @@
+{
+  "id": 1989,
+  "title": "Wairarapa Times-Age",
+  "genre": "Newspaper",
+  "firstYear": "1938",
+  "finalYear": "9999",
+  "district": "Masterton District",
+  "frequency": "Daily (except Sunday)",
+  "idMarcControlNumber": "3531185",
+  "idNZNewspapersV1": "3009",
+  "isCurrent": true,
+  "placecode": "09-01",
+  "placename": "Masterton",
+  "region": "Wellington",
+  "urlCurrent": "http://times-age.co.nz/",
+  "links": {
+    "1984": {
+      "direction": "Preceding",
+      "relationship": "Formed by union",
+      "target-description": "Wairarapa Daily Times"
+    },
+    "1985": {
+      "direction": "Preceding",
+      "relationship": "Formed by union",
+      "target-description": "Wairarapa Age"
+    },
+    "1992": {
+      "direction": "Has Edition",
+      "target-description": "Times-Age Topix"
+    },
+    "1993": {
+      "direction": "Has Edition",
+      "target-description": "Wairarapa Times-Age Midweek Farm & Community"
+    },
+    "1995": {
+      "direction": "Has Edition",
+      "target-description": "Wairarapa Midweek"
+    }
+  },
+  "sources": {
+    "2013-04-02T08:58:38.000Z": "Extracted from the New Zealand National Bibliography (MARC record 3531185) downloaded March 2013.",
+    "2014-04-11T09:26:46.000Z": "Modified by gordon.paynter"
+  },
+  "revision": 9
+}

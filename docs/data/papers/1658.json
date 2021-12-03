@@ -1,0 +1,23 @@
+{
+  "id": 1658,
+  "title": "Opotiki Herald",
+  "genre": "Newspaper",
+  "firstYear": "1883",
+  "finalYear": "1937",
+  "alternateTitle": {
+    "458001": "East Coast Gazette"
+  },
+  "district": "Opotiki District",
+  "frequency": "Two issues per week",
+  "idMarcControlNumber": "8177728",
+  "idNZNewspapersV1": "66125",
+  "isCurrent": false,
+  "placecode": "04-03",
+  "placename": "Opotiki",
+  "region": "Bay of Plenty",
+  "sources": {
+    "2013-04-02T08:58:38.000Z": "Extracted from the New Zealand National Bibliography (MARC record 8177728) downloaded March 2013.",
+    "2014-05-07T09:06:59.000Z": "Modified by DataBot"
+  },
+  "revision": 6
+}

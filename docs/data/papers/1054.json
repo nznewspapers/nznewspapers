@@ -1,0 +1,44 @@
+{
+  "id": 1054,
+  "title": "Whangarei Report",
+  "genre": "Newspaper",
+  "firstYear": "1982",
+  "finalYear": "9999",
+  "district": "Whangarei District",
+  "idNZNewspapersV1": "1190003",
+  "isCurrent": true,
+  "placecode": "01-02",
+  "placename": "Whangarei",
+  "region": "Northland",
+  "urlCurrent": "https://www.facebook.com/TheWhangareiReport",
+  "links": {
+    "1053": {
+      "direction": "Has Masthead",
+      "target-description": "Weekend Report"
+    },
+    "1056": {
+      "direction": "Has Masthead",
+      "target-description": "Whangarei Report [1988]"
+    },
+    "1058": {
+      "direction": "Has Masthead",
+      "target-description": "Whangarei's First Report"
+    },
+    "1059": {
+      "direction": "Has Masthead",
+      "target-description": "Whangarei Report [1997]"
+    },
+    "1060": {
+      "direction": "Has Masthead",
+      "target-description": "Report"
+    },
+    "1061": {
+      "direction": "Has Masthead",
+      "target-description": "Whangarei Report [2006]"
+    }
+  },
+  "sources": {
+    "2013-11-08T09:13:28.000Z": "Modified by gordon.paynter"
+  },
+  "revision": 8
+}

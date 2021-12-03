@@ -1,0 +1,48 @@
+{
+  "id": 2492,
+  "title": "Star Community News (Southern)",
+  "genre": "Newspaper",
+  "firstYear": "2006",
+  "finalYear": "2009",
+  "district": "Christchurch City",
+  "frequency": "Weekly",
+  "idMarcControlNumber": "10831297",
+  "idNZNewspapersV1": "11053",
+  "isCurrent": false,
+  "placecode": "12-05-christchur",
+  "placename": "Christchurch",
+  "price": "Gratis",
+  "region": "Canterbury",
+  "links": {
+    "2487": {
+      "direction": "Preceding",
+      "relationship": "Continues",
+      "target-description": "Star community (Southern)"
+    },
+    "2490": {
+      "direction": "Succeeding",
+      "relationship": "Unrelated",
+      "target-description": "Star community news (Eastern)"
+    },
+    "2491": {
+      "direction": "Succeeding",
+      "relationship": "Unrelated",
+      "target-description": "Star community news (Northern)"
+    },
+    "2493": {
+      "direction": "Succeeding",
+      "relationship": "Unrelated",
+      "target-description": "Star community news (Western)"
+    },
+    "2499": {
+      "direction": "Succeeding",
+      "relationship": "Continued by",
+      "target-description": "Observer (Christchurch, N.Z. : 2009)"
+    }
+  },
+  "sources": {
+    "2013-04-02T08:58:38.000Z": "Extracted from the New Zealand National Bibliography (MARC record 10831297) downloaded March 2013.",
+    "2014-05-07T09:46:15.000Z": "Modified by DataBot"
+  },
+  "revision": 11
+}

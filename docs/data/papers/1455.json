@@ -1,0 +1,26 @@
+{
+  "id": 1455,
+  "title": "Herald on Sunday",
+  "genre": "Newspaper",
+  "firstYear": "2004",
+  "finalYear": "9999",
+  "district": "Auckland",
+  "frequency": "Weekly",
+  "idMarcControlNumber": "8948358",
+  "idNZNewspapersV1": "50",
+  "isCurrent": true,
+  "placecode": "02-01-auckland",
+  "placename": "Auckland",
+  "region": "Auckland",
+  "links": {
+    "1073": {
+      "direction": "Is Edition Of",
+      "target-description": "New Zealand Herald"
+    }
+  },
+  "sources": {
+    "2013-04-02T08:58:38.000Z": "Extracted from the New Zealand National Bibliography (MARC record 8948358) downloaded March 2013.",
+    "2014-05-31T10:31:41.000Z": "Modified by gordon.paynter"
+  },
+  "revision": 5
+}

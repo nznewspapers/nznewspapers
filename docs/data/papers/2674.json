@@ -1,0 +1,20 @@
+{
+  "id": 2674,
+  "title": "Wyndham Herald",
+  "genre": "Newspaper",
+  "firstYear": "1895",
+  "finalYear": "1940",
+  "district": "Southland District",
+  "frequency": "Two issues per week",
+  "idMarcControlNumber": "8188083",
+  "idNZNewspapersV1": "63173",
+  "isCurrent": false,
+  "placecode": "14-01",
+  "placename": "Wyndham",
+  "region": "Southland",
+  "sources": {
+    "2013-04-02T08:58:38.000Z": "Extracted from the New Zealand National Bibliography (MARC record 8188083) downloaded March 2013.",
+    "2014-05-07T09:07:46.000Z": "Modified by DataBot"
+  },
+  "revision": 4
+}
