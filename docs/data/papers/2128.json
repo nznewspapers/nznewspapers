@@ -1,0 +1,31 @@
+{
+  "id": 2128,
+  "title": "Free Lance",
+  "genre": "Newspaper",
+  "firstYear": "1900",
+  "finalYear": "1960",
+  "district": "Wellington City",
+  "finalIssueDate": "1960-11-02",
+  "firstIssueDate": "1900-07-07",
+  "frequency": "Weekly",
+  "idMarcControlNumber": "8171579",
+  "idNZNewspapersV1": "1045",
+  "idPapersPastCode": "NZFL",
+  "isCurrent": false,
+  "placecode": "09-08-wellington",
+  "placename": "Wellington",
+  "region": "Wellington",
+  "urlDigitized": "http://paperspast.natlib.govt.nz/cgi-bin/paperspast?a=d&cl=CL1.NZFL",
+  "links": {
+    "1319": {
+      "direction": "Preceding",
+      "relationship": "Spun off from",
+      "target-description": "The  New  Zealand Observer and  Free Lance"
+    }
+  },
+  "sources": {
+    "2013-04-02T08:58:38.000Z": "Extracted from the New Zealand National Bibliography (MARC record 8171579) downloaded March 2013.",
+    "2014-05-07T09:18:01.000Z": "Modified by DataBot"
+  },
+  "revision": 11
+}

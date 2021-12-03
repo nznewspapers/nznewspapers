@@ -1,0 +1,33 @@
+{
+  "id": 2215,
+  "title": "Citylife (West Ed.)",
+  "genre": "Newspaper",
+  "firstYear": "2006",
+  "finalYear": "2008",
+  "district": "Wellington City",
+  "frequency": "Weekly",
+  "idMarcControlNumber": "10906048",
+  "idNZNewspapersV1": "9039",
+  "isCurrent": false,
+  "placecode": "09-08-wellington",
+  "placename": "Wellington",
+  "price": "Gratis",
+  "region": "Wellington",
+  "links": {
+    "2194": {
+      "direction": "Preceding",
+      "relationship": "Continues",
+      "target-description": "Western news (Wellington, N.Z.)"
+    },
+    "undefined-unknown": {
+      "direction": "Succeeding",
+      "relationship": "Merged",
+      "target-description": "West & north citylife"
+    }
+  },
+  "sources": {
+    "2013-04-02T08:58:38.000Z": "Extracted from the New Zealand National Bibliography (MARC record 10906048) downloaded March 2013.",
+    "2014-05-07T09:46:22.000Z": "Modified by DataBot"
+  },
+  "revision": 8
+}

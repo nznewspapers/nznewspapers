@@ -1,0 +1,18 @@
+{
+  "id": 2732,
+  "title": "The Auckland Star Exhibition Number",
+  "genre": "Periodical",
+  "firstYear": "18uu",
+  "finalYear": "19uu",
+  "district": "Auckland",
+  "idMarcControlNumber": "11609946",
+  "idNZNewspapersV1": "57",
+  "isCurrent": false,
+  "placecode": "02-01-auckland",
+  "placename": "Auckland",
+  "region": "Auckland",
+  "sources": {
+    "2013-04-02T08:58:38.000Z": "Extracted from the New Zealand National Bibliography (MARC record 11609946) downloaded March 2013."
+  },
+  "revision": 2
+}

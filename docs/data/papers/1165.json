@@ -1,0 +1,20 @@
+{
+  "id": 1165,
+  "title": "North Shore Gazette (1971)",
+  "genre": "Newspaper",
+  "firstYear": "1971",
+  "finalYear": "1975",
+  "district": "Auckland",
+  "frequency": "Weekly",
+  "idMarcControlNumber": "8173721",
+  "idNZNewspapersV1": "62103",
+  "isCurrent": false,
+  "placecode": "02-01",
+  "placename": "Takapuna",
+  "region": "Auckland",
+  "sources": {
+    "2013-04-02T08:58:38.000Z": "Extracted from the New Zealand National Bibliography (MARC record 8173721) downloaded March 2013.",
+    "2014-05-07T09:18:38.000Z": "Modified by DataBot"
+  },
+  "revision": 4
+}

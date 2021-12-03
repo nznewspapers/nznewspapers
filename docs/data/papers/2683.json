@@ -1,0 +1,30 @@
+{
+  "id": 2683,
+  "title": "Southland News (1967)",
+  "genre": "Masthead",
+  "firstYear": "1967",
+  "finalYear": "1968",
+  "district": "Southland District",
+  "frequency": "Daily",
+  "idMarcControlNumber": "8181887",
+  "idNZNewspapersV1": "70152",
+  "isCurrent": false,
+  "placecode": "14-01",
+  "placename": "Invercargill",
+  "region": "Southland",
+  "links": {
+    "2655": {
+      "direction": "Is Masthead Of",
+      "target-description": "Southland Daily News"
+    },
+    "2669": {
+      "direction": "Continues",
+      "target-description": "Southland Daily News"
+    }
+  },
+  "sources": {
+    "2013-04-02T08:58:38.000Z": "Extracted from the New Zealand National Bibliography (MARC record 8181887) downloaded March 2013.",
+    "2014-04-12T12:56:19.000Z": "Modified by DataBot"
+  },
+  "revision": 6
+}

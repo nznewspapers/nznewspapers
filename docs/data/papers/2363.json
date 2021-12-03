@@ -1,0 +1,20 @@
+{
+  "id": 2363,
+  "title": "Standard and North Canterbury Guardian",
+  "genre": "Newspaper",
+  "firstYear": "1876",
+  "finalYear": "1936",
+  "district": "Waimakariri District",
+  "frequency": "Weekly",
+  "idMarcControlNumber": "8181989",
+  "idNZNewspapersV1": "60138",
+  "isCurrent": false,
+  "placecode": "12-04",
+  "placename": "Rangiora",
+  "region": "Canterbury",
+  "sources": {
+    "2013-04-02T08:58:38.000Z": "Extracted from the New Zealand National Bibliography (MARC record 8181989) downloaded March 2013.",
+    "2014-05-07T09:08:05.000Z": "Modified by DataBot"
+  },
+  "revision": 4
+}

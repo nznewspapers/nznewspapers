@@ -1,0 +1,31 @@
+{
+  "id": 1868,
+  "title": "Taihape Times",
+  "genre": "Newspaper",
+  "firstYear": "1930",
+  "finalYear": "1959",
+  "district": "Rangitikei District",
+  "frequency": "Three issues per week",
+  "idMarcControlNumber": "8183080",
+  "idNZNewspapersV1": "72141",
+  "isCurrent": false,
+  "placecode": "08-02",
+  "placename": "Taihape",
+  "region": "Manawatu-Wanganui",
+  "links": {
+    "1867": {
+      "direction": "Continues",
+      "target-description": "Taihape Daily Times"
+    },
+    "1871": {
+      "direction": "Succeeding",
+      "relationship": "Merged into",
+      "target-description": "Central District Times"
+    }
+  },
+  "sources": {
+    "2013-04-02T08:58:38.000Z": "Extracted from the New Zealand National Bibliography (MARC record 8183080) downloaded March 2013.",
+    "2014-05-07T09:04:45.000Z": "Modified by DataBot"
+  },
+  "revision": 6
+}

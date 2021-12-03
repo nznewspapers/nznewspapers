@@ -1,0 +1,34 @@
+{
+  "id": 2508,
+  "title": "Ashburton Herald",
+  "genre": "Newspaper",
+  "firstYear": "1879",
+  "finalYear": "1880",
+  "alternateTitle": {
+    "10792394": "Ashburton Herald: Borough and County Advertiser"
+  },
+  "district": "Ashburton District",
+  "frequency": "Daily",
+  "idMarcControlNumber": "8123617",
+  "idNZNewspapersV1": "59053",
+  "isCurrent": false,
+  "placecode": "12-06",
+  "placename": "Ashburton",
+  "region": "Canterbury",
+  "links": {
+    "2507": {
+      "direction": "Continues",
+      "target-description": "Evening Echo"
+    },
+    "2509": {
+      "direction": "Succeeding",
+      "relationship": "Incorporated by",
+      "target-description": "Ashburton Guardian"
+    }
+  },
+  "sources": {
+    "2013-04-02T08:58:38.000Z": "Extracted from the New Zealand National Bibliography (MARC record 8123617) downloaded March 2013.",
+    "2014-03-27T11:04:28.000Z": "Modified by gordon.paynter"
+  },
+  "revision": 8
+}

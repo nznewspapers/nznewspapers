@@ -1,0 +1,20 @@
+{
+  "id": 2248,
+  "title": "Te Rauparaha, With Which is Incorporated the Nelson Times",
+  "genre": "Newspaper",
+  "firstYear": "1906",
+  "finalYear": "uuuu",
+  "district": "Nelson City",
+  "frequency": "Monthly",
+  "idMarcControlNumber": "8183928",
+  "idNZNewspapersV1": "64155",
+  "isCurrent": false,
+  "placecode": "10-02",
+  "placename": "Nelson",
+  "region": "Top of the South",
+  "sources": {
+    "2013-04-02T08:58:38.000Z": "Extracted from the New Zealand National Bibliography (MARC record 8183928) downloaded March 2013.",
+    "2014-05-07T08:59:25.000Z": "Modified by DataBot"
+  },
+  "revision": 4
+}

@@ -1,0 +1,27 @@
+{
+  "id": 2004,
+  "title": "Kapiti Observer",
+  "genre": "Newspaper",
+  "firstYear": "1979",
+  "finalYear": "9999",
+  "district": "Kapiti Coast District",
+  "idMarcControlNumber": "3531226",
+  "idNZNewspapersV1": "8004",
+  "isCurrent": true,
+  "placecode": "09-02",
+  "placename": "Paraparaumu",
+  "price": "Gratis",
+  "region": "Wellington",
+  "urlCurrent": "http://www.stuff.co.nz/dominion-post/news/local-papers/kapiti-observer/",
+  "links": {
+    "2001": {
+      "direction": "Continues",
+      "target-description": "Golden Coast News Shopper"
+    }
+  },
+  "sources": {
+    "2013-04-02T08:58:38.000Z": "Extracted from the New Zealand National Bibliography (MARC record 3531226) downloaded March 2013.",
+    "2014-05-31T09:49:09.000Z": "Modified by gordon.paynter"
+  },
+  "revision": 5
+}

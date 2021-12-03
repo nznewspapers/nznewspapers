@@ -1,0 +1,31 @@
+{
+  "id": 1669,
+  "title": "Eastern Bay News",
+  "genre": "Newspaper",
+  "firstYear": "1993",
+  "finalYear": "2011",
+  "district": "Whakatane District",
+  "frequency": "Weekly",
+  "idMarcControlNumber": "4415724",
+  "idNZNewspapersV1": "3024",
+  "isCurrent": false,
+  "placecode": "04-04",
+  "placename": "Whakatane",
+  "region": "Bay of Plenty",
+  "links": {
+    "1671": {
+      "direction": "Succeeding",
+      "relationship": "Continued by",
+      "target-description": "Whakatane News"
+    },
+    "1685": {
+      "direction": "Continues",
+      "target-description": "Kawerau Gazette"
+    }
+  },
+  "sources": {
+    "2013-04-02T08:58:38.000Z": "Extracted from the New Zealand National Bibliography (MARC record 4415724) downloaded March 2013.",
+    "2014-05-07T09:11:18.000Z": "Modified by DataBot"
+  },
+  "revision": 6
+}

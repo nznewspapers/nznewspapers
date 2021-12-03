@@ -1,0 +1,20 @@
+{
+  "id": 1743,
+  "title": "Te Mata Times",
+  "genre": "Newspaper",
+  "firstYear": "1975",
+  "finalYear": "1984",
+  "district": "Hastings District",
+  "frequency": "Fortnightly",
+  "idMarcControlNumber": "8183906",
+  "idNZNewspapersV1": "64154",
+  "isCurrent": false,
+  "placecode": "06-02",
+  "placename": "Havelock North",
+  "region": "Hawke's Bay",
+  "sources": {
+    "2013-04-02T08:58:38.000Z": "Extracted from the New Zealand National Bibliography (MARC record 8183906) downloaded March 2013.",
+    "2014-05-07T08:58:01.000Z": "Modified by DataBot"
+  },
+  "revision": 4
+}

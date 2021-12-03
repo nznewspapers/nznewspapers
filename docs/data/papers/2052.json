@@ -1,0 +1,20 @@
+{
+  "id": 2052,
+  "title": "Now",
+  "genre": "Newspaper",
+  "firstYear": "1971",
+  "finalYear": "uuuu",
+  "district": "Hutt City",
+  "frequency": "Fortnightly",
+  "idMarcControlNumber": "8176903",
+  "idNZNewspapersV1": "62108",
+  "isCurrent": false,
+  "placecode": "09-07",
+  "placename": "Eastbourne",
+  "region": "Wellington",
+  "sources": {
+    "2013-04-02T08:58:38.000Z": "Extracted from the New Zealand National Bibliography (MARC record 8176903) downloaded March 2013.",
+    "2014-05-07T08:57:32.000Z": "Modified by DataBot"
+  },
+  "revision": 4
+}

@@ -1,0 +1,20 @@
+{
+  "id": 2381,
+  "title": "Port Lyttelton Herald and New Zealand Shipping Gazette",
+  "genre": "Newspaper",
+  "firstYear": "1878",
+  "finalYear": "1879",
+  "district": "Christchurch City",
+  "frequency": "Three issues per week",
+  "idMarcControlNumber": "8181006",
+  "idNZNewspapersV1": "70141",
+  "isCurrent": false,
+  "placecode": "12-05",
+  "placename": "Lyttelton",
+  "region": "Canterbury",
+  "sources": {
+    "2013-04-02T08:58:38.000Z": "Extracted from the New Zealand National Bibliography (MARC record 8181006) downloaded March 2013.",
+    "2014-05-07T09:04:32.000Z": "Modified by DataBot"
+  },
+  "revision": 4
+}

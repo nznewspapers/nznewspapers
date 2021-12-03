@@ -1,0 +1,20 @@
+{
+  "id": 2338,
+  "title": "Ross Mercury and Westland Miner",
+  "genre": "Newspaper",
+  "firstYear": "1883",
+  "finalYear": "188u",
+  "district": "Westland District",
+  "frequency": "Three issues per week",
+  "idMarcControlNumber": "8181558",
+  "idNZNewspapersV1": "68126",
+  "isCurrent": false,
+  "placecode": "11-03",
+  "placename": "Ross",
+  "region": "West Coast",
+  "sources": {
+    "2013-04-02T08:58:38.000Z": "Extracted from the New Zealand National Bibliography (MARC record 8181558) downloaded March 2013.",
+    "2014-05-07T09:04:38.000Z": "Modified by DataBot"
+  },
+  "revision": 4
+}

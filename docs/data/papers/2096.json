@@ -1,0 +1,25 @@
+{
+  "id": 2096,
+  "title": "Victoria Times",
+  "genre": "Newspaper",
+  "firstYear": "1841",
+  "finalYear": "1841",
+  "district": "Wellington City",
+  "finalIssueDate": "1841-09-15",
+  "firstIssueDate": "1841-09-15",
+  "frequency": "Weekly",
+  "idMarcControlNumber": "8184603",
+  "idNZNewspapersV1": "68151",
+  "idPapersPastCode": "VT",
+  "isCurrent": false,
+  "placecode": "09-08-wellington",
+  "placename": "Wellington",
+  "region": "Wellington",
+  "urlCurrent": "http://ndhadeliver.natlib.govt.nz/content-aggregator/getIEs?system=ilsdb&id=932905",
+  "urlDigitized": "http://paperspast.natlib.govt.nz/cgi-bin/paperspast?a=d&cl=CL1.VT",
+  "sources": {
+    "2013-04-02T08:58:38.000Z": "Extracted from the New Zealand National Bibliography (MARC record 8184603) downloaded March 2013.",
+    "2014-05-07T09:21:45.000Z": "Modified by DataBot"
+  },
+  "revision": 10
+}

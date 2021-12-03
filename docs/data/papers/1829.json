@@ -1,0 +1,34 @@
+{
+  "id": 1829,
+  "title": "Hawera & Normanby Star",
+  "genre": "Newspaper",
+  "firstYear": "1880",
+  "finalYear": "1924",
+  "district": "South Taranaki District",
+  "finalIssueDate": "1924-06-10",
+  "firstIssueDate": "1880-04-10",
+  "frequency": "Daily",
+  "idMarcControlNumber": "8156602",
+  "idNZNewspapersV1": "8032",
+  "idPapersPastCode": "HNS",
+  "isCurrent": false,
+  "placecode": "07-03",
+  "placename": "Hawera",
+  "region": "Taranaki",
+  "urlDigitized": "http://paperspast.natlib.govt.nz/cgi-bin/paperspast?a=d&cl=CL1.HNS",
+  "links": {
+    "1831": {
+      "direction": "Has Edition",
+      "target-description": "Egmont Star"
+    },
+    "1836": {
+      "direction": "Continued By",
+      "target-description": "Hawera Star"
+    }
+  },
+  "sources": {
+    "2013-04-02T08:58:38.000Z": "Extracted from the New Zealand National Bibliography (MARC record 8156602) downloaded March 2013.",
+    "2014-04-10T11:31:38.000Z": "Modified by gordon.paynter"
+  },
+  "revision": 12
+}

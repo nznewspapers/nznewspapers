@@ -1,0 +1,20 @@
+{
+  "id": 1643,
+  "title": "Greerton Reporter",
+  "genre": "Newspaper",
+  "firstYear": "1966",
+  "finalYear": "1970",
+  "district": "Tauranga City",
+  "frequency": "Monthly",
+  "idMarcControlNumber": "8144678",
+  "idNZNewspapersV1": "67089",
+  "isCurrent": false,
+  "placecode": "04-02",
+  "placename": "Tauranga",
+  "region": "Bay of Plenty",
+  "sources": {
+    "2013-04-02T08:58:38.000Z": "Extracted from the New Zealand National Bibliography (MARC record 8144678) downloaded March 2013.",
+    "2014-05-07T09:01:39.000Z": "Modified by DataBot"
+  },
+  "revision": 4
+}

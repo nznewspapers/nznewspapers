@@ -1,0 +1,20 @@
+{
+  "id": 1589,
+  "title": "Northeast Link",
+  "genre": "Newspaper",
+  "firstYear": "1987",
+  "finalYear": "uuuu",
+  "district": "Hamilton City",
+  "frequency": "Monthly",
+  "idMarcControlNumber": "8176407",
+  "idNZNewspapersV1": "58110",
+  "isCurrent": false,
+  "placecode": "03-05",
+  "placename": "Hamilton",
+  "region": "Waikato",
+  "sources": {
+    "2013-04-02T08:58:38.000Z": "Extracted from the New Zealand National Bibliography (MARC record 8176407) downloaded March 2013.",
+    "2014-05-07T08:59:22.000Z": "Modified by DataBot"
+  },
+  "revision": 4
+}

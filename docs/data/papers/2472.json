@@ -1,0 +1,18 @@
+{
+  "id": 2472,
+  "title": "Central Today",
+  "genre": "Newspaper",
+  "firstYear": "1999",
+  "finalYear": "9999",
+  "district": "Christchurch City",
+  "idMarcControlNumber": "5107819",
+  "idNZNewspapersV1": "29",
+  "isCurrent": true,
+  "placecode": "12-05-christchur",
+  "placename": "Christchurch",
+  "region": "Canterbury",
+  "sources": {
+    "2013-04-02T08:58:38.000Z": "Extracted from the New Zealand National Bibliography (MARC record 5107819) downloaded March 2013."
+  },
+  "revision": 2
+}

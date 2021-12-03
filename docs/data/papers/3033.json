@@ -1,0 +1,19 @@
+{
+  "id": 3033,
+  "title": "Ruapehu Bulletin",
+  "genre": "Other",
+  "firstYear": "1989",
+  "finalYear": "9999",
+  "district": "Ruapehu District",
+  "idMarcControlNumber": "11656703",
+  "idNZNewspapersV1": "10064",
+  "isCurrent": true,
+  "placecode": "unknown",
+  "placename": "Ohakune",
+  "region": "Manawatu-Wanganui",
+  "urlCurrent": "http://www.ohakune.info/",
+  "sources": {
+    "2013-04-02T08:58:38.000Z": "Extracted from the New Zealand National Bibliography (MARC record 11656703) downloaded March 2013."
+  },
+  "revision": 2
+}

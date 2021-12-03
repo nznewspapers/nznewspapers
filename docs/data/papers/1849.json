@@ -1,0 +1,20 @@
+{
+  "id": 1849,
+  "title": "Ohura Advocate",
+  "genre": "Newspaper",
+  "firstYear": "1911",
+  "finalYear": "1917",
+  "district": "Ruapehu District",
+  "frequency": "Weekly",
+  "idMarcControlNumber": "8177404",
+  "idNZNewspapersV1": "66124",
+  "isCurrent": false,
+  "placecode": "08-01",
+  "placename": "Ohura",
+  "region": "Manawatu-Wanganui",
+  "sources": {
+    "2013-04-02T08:58:38.000Z": "Extracted from the New Zealand National Bibliography (MARC record 8177404) downloaded March 2013.",
+    "2014-05-07T09:19:08.000Z": "Modified by DataBot"
+  },
+  "revision": 4
+}

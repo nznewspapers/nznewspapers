@@ -1,0 +1,20 @@
+{
+  "id": 2333,
+  "title": "Ross News",
+  "genre": "Newspaper",
+  "firstYear": "1871",
+  "finalYear": "1873",
+  "district": "Westland District",
+  "frequency": "Daily",
+  "idMarcControlNumber": "8181560",
+  "idNZNewspapersV1": "70147",
+  "isCurrent": false,
+  "placecode": "11-03",
+  "placename": "Ross",
+  "region": "West Coast",
+  "sources": {
+    "2013-04-02T08:58:38.000Z": "Extracted from the New Zealand National Bibliography (MARC record 8181560) downloaded March 2013.",
+    "2014-03-21T11:40:24.000Z": "Modified by DataBot"
+  },
+  "revision": 4
+}

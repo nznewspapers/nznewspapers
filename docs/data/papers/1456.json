@@ -1,0 +1,29 @@
+{
+  "id": 1456,
+  "title": "Epoch Times (Auckland)",
+  "genre": "Newspaper",
+  "firstYear": "2005",
+  "finalYear": "2012",
+  "district": "Auckland",
+  "frequency": "Weekly",
+  "idMarcControlNumber": "10512037",
+  "idNZNewspapersV1": "9038",
+  "isCurrent": false,
+  "placecode": "02-01-auckland",
+  "placename": "Auckland",
+  "price": "Gratis",
+  "region": "Auckland",
+  "urlCurrent": "http://www.theepochtimes.com/",
+  "links": {
+    "1456": {
+      "direction": "Succeeding",
+      "relationship": "Unrelated",
+      "target-description": "Da ji yuan shi bao (Auckland, N.Z.)"
+    }
+  },
+  "sources": {
+    "2013-04-02T08:58:38.000Z": "Extracted from the New Zealand National Bibliography (MARC record 10512037) downloaded March 2013.",
+    "2014-05-07T09:46:07.000Z": "Modified by DataBot"
+  },
+  "revision": 7
+}

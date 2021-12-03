@@ -1,0 +1,20 @@
+{
+  "id": 1574,
+  "title": "Hamilton City Advertiser",
+  "genre": "Newspaper",
+  "firstYear": "1966",
+  "finalYear": "1966",
+  "district": "Hamilton City",
+  "frequency": "Weekly",
+  "idMarcControlNumber": "8156587",
+  "idNZNewspapersV1": "65091",
+  "isCurrent": false,
+  "placecode": "03-05",
+  "placename": "Hamilton",
+  "region": "Waikato",
+  "sources": {
+    "2013-04-02T08:58:38.000Z": "Extracted from the New Zealand National Bibliography (MARC record 8156587) downloaded March 2013.",
+    "2014-05-07T09:15:51.000Z": "Modified by DataBot"
+  },
+  "revision": 4
+}

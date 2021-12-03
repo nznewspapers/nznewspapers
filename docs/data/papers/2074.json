@@ -1,0 +1,20 @@
+{
+  "id": 2074,
+  "title": "Waka Maori o Niu Tirani",
+  "genre": "Newspaper",
+  "firstYear": "1871",
+  "finalYear": "1877",
+  "district": "Wellington City",
+  "idMarcControlNumber": "3953417",
+  "idNZNewspapersV1": "14282645",
+  "isCurrent": false,
+  "placecode": "09-08",
+  "placename": "Wellington",
+  "region": "Wellington",
+  "urlCurrent": "http://nzdl.org/cgi-bin/library?gg=_cgiarggg_&e=d-00000-00---0niupepa--00-0--0-10-0---0---0prompt-10---4-------0-1l--11-en-50---20-about---00-0-1-00-11-1-0utfZz-8-00&a=d&c=niupepa&cl=CL1.15",
+  "sources": {
+    "2013-04-02T08:58:38.000Z": "Extracted from the New Zealand National Bibliography (MARC record 3953417) downloaded March 2013.",
+    "2014-04-23T10:13:16.000Z": "Modified by MarcLoaderBot"
+  },
+  "revision": 2
+}

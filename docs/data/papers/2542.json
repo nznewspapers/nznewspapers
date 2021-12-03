@@ -1,0 +1,44 @@
+{
+  "id": 2542,
+  "title": "The Waimate Daily Advertiser",
+  "genre": "Newspaper",
+  "firstYear": "1898",
+  "finalYear": "1980",
+  "district": "Waimate District",
+  "finalIssueDate": "2012-07-25",
+  "firstIssueDate": "1898-05-28",
+  "frequency": "Daily",
+  "idNZNewspapersV1": "12190026",
+  "idPapersPastCode": "WDA",
+  "isCurrent": false,
+  "placecode": "12-09",
+  "placename": "Waimate",
+  "region": "Canterbury",
+  "urlDigitized": "http://paperspast.natlib.govt.nz/cgi-bin/paperspast?a=d&cl=CL1&sp=WDA",
+  "links": {
+    "2541": {
+      "direction": "Has Masthead",
+      "target-description": "The  Waimate Advertiser"
+    },
+    "2543": {
+      "direction": "Has Masthead",
+      "target-description": "Waimate Daily Advertiser"
+    },
+    "2544": {
+      "direction": "Has Masthead",
+      "target-description": "Daily Advertiser"
+    },
+    "2545": {
+      "direction": "Has Masthead",
+      "target-description": "Waimate Daily Advertiser [1972]"
+    },
+    "2546": {
+      "direction": "Has Masthead",
+      "target-description": "Waimate Advertiser [1980]"
+    }
+  },
+  "sources": {
+    "2014-04-12T12:28:31.000Z": "Modified by gordon.paynter"
+  },
+  "revision": 15
+}

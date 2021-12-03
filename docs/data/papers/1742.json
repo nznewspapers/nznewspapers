@@ -1,0 +1,20 @@
+{
+  "id": 1742,
+  "title": "Havelock North News",
+  "genre": "Newspaper",
+  "firstYear": "1962",
+  "finalYear": "1970",
+  "district": "Hastings District",
+  "frequency": "Monthly",
+  "idMarcControlNumber": "8156599",
+  "idNZNewspapersV1": "60064",
+  "isCurrent": false,
+  "placecode": "06-02",
+  "placename": "Havelock North",
+  "region": "Hawke's Bay",
+  "sources": {
+    "2013-04-02T08:58:38.000Z": "Extracted from the New Zealand National Bibliography (MARC record 8156599) downloaded March 2013.",
+    "2014-05-07T09:01:44.000Z": "Modified by DataBot"
+  },
+  "revision": 4
+}

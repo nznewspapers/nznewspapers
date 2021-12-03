@@ -1,0 +1,20 @@
+{
+  "id": 1113,
+  "title": "North Shore Times",
+  "genre": "Newspaper",
+  "firstYear": "1949",
+  "finalYear": "1966",
+  "district": "Auckland",
+  "frequency": "Weekly",
+  "idMarcControlNumber": "8173724",
+  "idNZNewspapersV1": "63113",
+  "isCurrent": false,
+  "placecode": "02-01",
+  "placename": "Takapuna",
+  "region": "Auckland",
+  "sources": {
+    "2013-04-02T08:58:38.000Z": "Extracted from the New Zealand National Bibliography (MARC record 8173724) downloaded March 2013.",
+    "2014-05-07T09:18:41.000Z": "Modified by DataBot"
+  },
+  "revision": 4
+}

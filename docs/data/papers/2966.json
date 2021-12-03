@@ -1,0 +1,21 @@
+{
+  "id": 2966,
+  "title": "Review (Palmerston)",
+  "genre": "Periodical",
+  "firstYear": "2000",
+  "finalYear": "9999",
+  "district": "Waitaki District",
+  "frequency": "Monthly",
+  "idMarcControlNumber": "8261095",
+  "idNZNewspapersV1": "3051",
+  "isCurrent": true,
+  "placecode": "13-99",
+  "placename": "Palmerston",
+  "price": "Gratis",
+  "region": "Otago",
+  "sources": {
+    "2013-04-02T08:58:38.000Z": "Extracted from the New Zealand National Bibliography (MARC record 8261095) downloaded March 2013.",
+    "2014-05-07T09:50:25.000Z": "Modified by DataBot"
+  },
+  "revision": 6
+}

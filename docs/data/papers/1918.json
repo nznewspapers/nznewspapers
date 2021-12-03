@@ -1,0 +1,20 @@
+{
+  "id": 1918,
+  "title": "Weekender",
+  "genre": "Newspaper",
+  "firstYear": "1970",
+  "finalYear": "1970",
+  "district": "Palmerston North City",
+  "frequency": "Weekly",
+  "idMarcControlNumber": "8187309",
+  "idNZNewspapersV1": "69194",
+  "isCurrent": false,
+  "placecode": "08-05",
+  "placename": "Palmerston North",
+  "region": "Manawatu-Wanganui",
+  "sources": {
+    "2013-04-02T08:58:38.000Z": "Extracted from the New Zealand National Bibliography (MARC record 8187309) downloaded March 2013.",
+    "2014-05-07T09:22:25.000Z": "Modified by DataBot"
+  },
+  "revision": 4
+}

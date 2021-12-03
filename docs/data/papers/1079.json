@@ -1,0 +1,20 @@
+{
+  "id": 1079,
+  "title": "Waitemata Messenger",
+  "genre": "Newspaper",
+  "firstYear": "1885",
+  "finalYear": "uuuu",
+  "district": "Auckland",
+  "frequency": "Weekly",
+  "idMarcControlNumber": "8185496",
+  "idNZNewspapersV1": "69192",
+  "isCurrent": false,
+  "placecode": "02-01",
+  "placename": "Devonport",
+  "region": "Auckland",
+  "sources": {
+    "2013-04-02T08:58:38.000Z": "Extracted from the New Zealand National Bibliography (MARC record 8185496) downloaded March 2013.",
+    "2014-05-07T09:22:16.000Z": "Modified by DataBot"
+  },
+  "revision": 4
+}

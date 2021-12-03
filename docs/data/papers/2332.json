@@ -1,0 +1,23 @@
+{
+  "id": 2332,
+  "title": "Evening Times and Advertiser",
+  "genre": "Newspaper",
+  "firstYear": "1870",
+  "finalYear": "uuuu",
+  "alternateTitle": {
+    "11911380": "Ross Evening News"
+  },
+  "district": "Westland District",
+  "frequency": "Daily",
+  "idMarcControlNumber": "8141982",
+  "idNZNewspapersV1": "71068",
+  "isCurrent": false,
+  "placecode": "11-03",
+  "placename": "Ross",
+  "region": "West Coast",
+  "sources": {
+    "2013-04-02T08:58:38.000Z": "Extracted from the New Zealand National Bibliography (MARC record 8141982) downloaded March 2013.",
+    "2014-04-12T11:53:10.000Z": "Modified by gordon.paynter"
+  },
+  "revision": 6
+}

@@ -1,0 +1,26 @@
+{
+  "id": 1234,
+  "title": "Daily News",
+  "genre": "Newspaper",
+  "firstYear": "1999",
+  "finalYear": "1999",
+  "district": "Auckland",
+  "frequency": "Daily (Monday to Friday)",
+  "idMarcControlNumber": "4935572",
+  "idNZNewspapersV1": "5034",
+  "isCurrent": false,
+  "placecode": "02-01",
+  "placename": "Auckland",
+  "region": "Auckland",
+  "links": {
+    "1432": {
+      "direction": "Continues",
+      "target-description": "Manukau Daily News"
+    }
+  },
+  "sources": {
+    "2013-04-02T08:58:38.000Z": "Extracted from the New Zealand National Bibliography (MARC record 4935572) downloaded March 2013.",
+    "2014-04-10T08:56:16.000Z": "Modified by gordon.paynter"
+  },
+  "revision": 5
+}

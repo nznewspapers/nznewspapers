@@ -1,0 +1,27 @@
+{
+  "id": 2416,
+  "title": "Globe",
+  "genre": "Newspaper",
+  "firstYear": "1874",
+  "finalYear": "1883",
+  "district": "Christchurch City",
+  "frequency": "Daily",
+  "idMarcControlNumber": "8142278",
+  "idNZNewspapersV1": "58063",
+  "isCurrent": false,
+  "placecode": "12-05-christchur",
+  "placename": "Christchurch",
+  "region": "Canterbury",
+  "links": {
+    "2417": {
+      "direction": "Succeeding",
+      "relationship": "Incorporated By",
+      "target-description": "Telegraph"
+    }
+  },
+  "sources": {
+    "2013-04-02T08:58:38.000Z": "Extracted from the New Zealand National Bibliography (MARC record 8142278) downloaded March 2013.",
+    "2014-04-12T12:10:40.000Z": "Modified by DataBot"
+  },
+  "revision": 5
+}

@@ -1,0 +1,27 @@
+{
+  "id": 2928,
+  "title": "Prohibitionist",
+  "genre": "Periodical",
+  "firstYear": "1890",
+  "finalYear": "1893",
+  "district": "Christchurch City",
+  "frequency": "Fortnightly",
+  "idMarcControlNumber": "8070430",
+  "idNZNewspapersV1": "12033",
+  "isCurrent": false,
+  "placecode": "12-05-christchur",
+  "placename": "Christchurch",
+  "region": "Canterbury",
+  "links": {
+    "2423": {
+      "direction": "Succeeding",
+      "relationship": "Continued by",
+      "target-description": "Prohibitionist and direct veto advocate"
+    }
+  },
+  "sources": {
+    "2013-04-02T08:58:38.000Z": "Extracted from the New Zealand National Bibliography (MARC record 8070430) downloaded March 2013.",
+    "2014-05-07T08:56:40.000Z": "Modified by DataBot"
+  },
+  "revision": 5
+}

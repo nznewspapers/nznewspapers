@@ -1,0 +1,20 @@
+{
+  "id": 2112,
+  "title": "Era",
+  "genre": "Newspaper",
+  "firstYear": "1881",
+  "finalYear": "18uu",
+  "district": "Wellington City",
+  "frequency": "Weekly",
+  "idMarcControlNumber": "2864353",
+  "idNZNewspapersV1": "1005",
+  "isCurrent": false,
+  "placecode": "09-08-wellington",
+  "placename": "Wellington",
+  "region": "Wellington",
+  "sources": {
+    "2013-04-02T08:58:38.000Z": "Extracted from the New Zealand National Bibliography (MARC record 2864353) downloaded March 2013.",
+    "2014-05-07T09:10:29.000Z": "Modified by DataBot"
+  },
+  "revision": 4
+}

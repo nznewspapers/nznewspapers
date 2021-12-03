@@ -1,0 +1,44 @@
+{
+  "id": 2297,
+  "title": "The Inangahua Times",
+  "genre": "Newspaper",
+  "firstYear": "1875",
+  "finalYear": "1942",
+  "district": "Buller District",
+  "frequency": "Daily (except Sunday)",
+  "idMarcControlNumber": "6963040",
+  "idNZNewspapersV1": "3041",
+  "idPapersPastCode": "IT",
+  "isCurrent": false,
+  "placecode": "11-01",
+  "placename": "Reefton",
+  "region": "West Coast",
+  "urlDigitized": "http://paperspast.natlib.govt.nz/cgi-bin/paperspast?a=d&cl=CL1.IT",
+  "links": {
+    "2291": {
+      "direction": "Preceding",
+      "relationship": "Absorbed",
+      "target-description": "Inangahua Herald"
+    },
+    "2294": {
+      "direction": "Preceding",
+      "relationship": "Continues",
+      "target-description": "Reefton Courier and  Inangahua Advertiser"
+    },
+    "2303": {
+      "direction": "Preceding",
+      "relationship": "Absorbed",
+      "target-description": "Reefton Guardian"
+    },
+    "2309": {
+      "direction": "Succeeding",
+      "relationship": "Continued by",
+      "target-description": "Inangahua-Murchison Times"
+    }
+  },
+  "sources": {
+    "2013-04-02T08:58:38.000Z": "Extracted from the New Zealand National Bibliography (MARC record 6963040) downloaded March 2013.",
+    "2014-03-21T11:49:53.000Z": "Modified by DataBot"
+  },
+  "revision": 10
+}

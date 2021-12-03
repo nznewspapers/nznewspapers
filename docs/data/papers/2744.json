@@ -1,0 +1,20 @@
+{
+  "id": 2744,
+  "title": "Lifestyle",
+  "genre": "Periodical",
+  "firstYear": "1982",
+  "finalYear": "1982",
+  "district": "Auckland",
+  "frequency": "Irregular",
+  "idMarcControlNumber": "2593258",
+  "idNZNewspapersV1": "5001",
+  "isCurrent": false,
+  "placecode": "02-01-auckland",
+  "placename": "Auckland",
+  "region": "Auckland",
+  "sources": {
+    "2013-04-02T08:58:38.000Z": "Extracted from the New Zealand National Bibliography (MARC record 2593258) downloaded March 2013.",
+    "2014-05-07T08:58:43.000Z": "Modified by DataBot"
+  },
+  "revision": 4
+}

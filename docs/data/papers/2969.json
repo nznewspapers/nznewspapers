@@ -1,0 +1,27 @@
+{
+  "id": 2969,
+  "title": "Record",
+  "genre": "Periodical",
+  "firstYear": "2008",
+  "finalYear": "9999",
+  "district": "Southland District",
+  "frequency": "Monthly",
+  "idMarcControlNumber": "12065522",
+  "idNZNewspapersV1": "3059",
+  "isCurrent": true,
+  "placecode": "14-01",
+  "placename": "Winton",
+  "region": "Southland",
+  "links": {
+    "2676": {
+      "direction": "Preceding",
+      "relationship": "Continues",
+      "target-description": "Winton record"
+    }
+  },
+  "sources": {
+    "2013-04-02T08:58:38.000Z": "Extracted from the New Zealand National Bibliography (MARC record 12065522) downloaded March 2013.",
+    "2014-05-07T08:59:46.000Z": "Modified by DataBot"
+  },
+  "revision": 5
+}

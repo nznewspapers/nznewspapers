@@ -1,0 +1,26 @@
+{
+  "id": 1490,
+  "title": "Whangamata Flash",
+  "genre": "Newspaper",
+  "firstYear": "1979",
+  "finalYear": "1983",
+  "district": "Thames-Coromandel District",
+  "frequency": "Weekly",
+  "idMarcControlNumber": "8187819",
+  "idNZNewspapersV1": "69204",
+  "isCurrent": false,
+  "placecode": "03-01",
+  "placename": "Whangamata",
+  "region": "Waikato",
+  "links": {
+    "1492": {
+      "direction": "Continued By",
+      "target-description": "Coastline Flash"
+    }
+  },
+  "sources": {
+    "2013-04-02T08:58:38.000Z": "Extracted from the New Zealand National Bibliography (MARC record 8187819) downloaded March 2013.",
+    "2015-01-06T09:42:30.000Z": "Modified by gordon.paynter"
+  },
+  "revision": 5
+}

@@ -1,0 +1,20 @@
+{
+  "id": 2124,
+  "title": "Echo",
+  "genre": "Newspaper",
+  "firstYear": "1896",
+  "finalYear": "uuuu",
+  "district": "Wellington City",
+  "frequency": "Daily",
+  "idMarcControlNumber": "8138622",
+  "idNZNewspapersV1": "69085",
+  "isCurrent": false,
+  "placecode": "09-08-wellington",
+  "placename": "Wellington",
+  "region": "Wellington",
+  "sources": {
+    "2013-04-02T08:58:38.000Z": "Extracted from the New Zealand National Bibliography (MARC record 8138622) downloaded March 2013.",
+    "2014-03-21T11:33:56.000Z": "Modified by DataBot"
+  },
+  "revision": 4
+}

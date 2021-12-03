@@ -1,0 +1,22 @@
+{
+  "id": 3008,
+  "title": "News Gazette (Kawarau)",
+  "genre": "Other",
+  "firstYear": "1986",
+  "finalYear": "9999",
+  "district": "Kawerau District",
+  "idMarcControlNumber": "3889255",
+  "idNZNewspapersV1": "2015",
+  "isCurrent": true,
+  "placecode": "04-06",
+  "placename": "Kawarau",
+  "region": "Bay of Plenty",
+  "notes": {
+    "462002": "old record, duplicate record exists"
+  },
+  "sources": {
+    "2013-04-02T08:58:38.000Z": "Extracted from the New Zealand National Bibliography (MARC record 3889255) downloaded March 2013.",
+    "2013-08-30T10:01:44.000Z": "Modified by gordon.paynter"
+  },
+  "revision": 4
+}

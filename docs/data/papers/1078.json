@@ -1,0 +1,20 @@
+{
+  "id": 1078,
+  "title": "Newton Bulletin",
+  "genre": "Newspaper",
+  "firstYear": "1885",
+  "finalYear": "uuuu",
+  "district": "Auckland",
+  "frequency": "Weekly",
+  "idMarcControlNumber": "8173681",
+  "idNZNewspapersV1": "68101",
+  "isCurrent": false,
+  "placecode": "02-01",
+  "placename": "Newton",
+  "region": "Auckland",
+  "sources": {
+    "2013-04-02T08:58:38.000Z": "Extracted from the New Zealand National Bibliography (MARC record 8173681) downloaded March 2013.",
+    "2014-05-07T09:08:00.000Z": "Modified by DataBot"
+  },
+  "revision": 4
+}

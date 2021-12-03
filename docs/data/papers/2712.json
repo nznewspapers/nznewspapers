@@ -1,0 +1,18 @@
+{
+  "id": 2712,
+  "title": "Aotea News",
+  "genre": "Periodical",
+  "firstYear": "1986",
+  "finalYear": "1994",
+  "district": "Auckland",
+  "idMarcControlNumber": "3889251",
+  "idNZNewspapersV1": "13016",
+  "isCurrent": false,
+  "placecode": "02-01",
+  "placename": "Great Barrier Island",
+  "region": "Auckland",
+  "sources": {
+    "2013-04-02T08:58:38.000Z": "Extracted from the New Zealand National Bibliography (MARC record 3889251) downloaded March 2013."
+  },
+  "revision": 2
+}

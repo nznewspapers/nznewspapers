@@ -1,0 +1,21 @@
+{
+  "id": 2817,
+  "title": "Toa Takitini (1929)",
+  "genre": "Periodical",
+  "firstYear": "1929",
+  "finalYear": "1932",
+  "district": "Hastings District",
+  "frequency": "Monthly",
+  "idMarcControlNumber": "3924835",
+  "idNZNewspapersV1": "68011",
+  "isCurrent": false,
+  "placecode": "06-02",
+  "placename": "Hastings",
+  "region": "Hawke's Bay",
+  "urlCurrent": "http://www.nzdl.org/gsdlmod?gg=full&e=d-00000-00---0niupepa--niupepa-0--0-10-0---0--0-0prompt-10--0-4---direct----0-1l-4-11-en-50---20-about---00-0-1100-11-1-0utfZz-8-00-20-home---00-3-1-00-0-0-11-1-0utfZz-8-00-0-0-11-10-0utfZz-8-00&a=d&c=niupepa&cl=CL1.34",
+  "sources": {
+    "2013-04-02T08:58:38.000Z": "Extracted from the New Zealand National Bibliography (MARC record 3924835) downloaded March 2013.",
+    "2014-05-07T09:00:07.000Z": "Modified by DataBot"
+  },
+  "revision": 4
+}

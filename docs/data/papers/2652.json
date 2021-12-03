@@ -1,0 +1,20 @@
+{
+  "id": 2652,
+  "title": "Hampden Herald",
+  "genre": "Newspaper",
+  "firstYear": "1964",
+  "finalYear": "1967",
+  "district": "Waitaki District",
+  "frequency": "Monthly",
+  "idMarcControlNumber": "8156591",
+  "idNZNewspapersV1": "69105",
+  "isCurrent": false,
+  "placecode": "13-99",
+  "placename": "Hampden",
+  "region": "Otago",
+  "sources": {
+    "2013-04-02T08:58:38.000Z": "Extracted from the New Zealand National Bibliography (MARC record 8156591) downloaded March 2013.",
+    "2014-05-07T09:01:42.000Z": "Modified by DataBot"
+  },
+  "revision": 4
+}

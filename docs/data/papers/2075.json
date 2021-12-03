@@ -1,0 +1,20 @@
+{
+  "id": 2075,
+  "title": "Karori and Northland Mail",
+  "genre": "Newspaper",
+  "firstYear": "1933",
+  "finalYear": "1934",
+  "district": "Wellington City",
+  "frequency": "Fortnightly",
+  "idMarcControlNumber": "8160250",
+  "idNZNewspapersV1": "63083",
+  "isCurrent": false,
+  "placecode": "09-08",
+  "placename": "Karori",
+  "region": "Wellington",
+  "sources": {
+    "2013-04-02T08:58:38.000Z": "Extracted from the New Zealand National Bibliography (MARC record 8160250) downloaded March 2013.",
+    "2014-05-07T08:57:10.000Z": "Modified by DataBot"
+  },
+  "revision": 4
+}

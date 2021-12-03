@@ -1,0 +1,20 @@
+{
+  "id": 2115,
+  "title": "Wellington Citizen",
+  "genre": "Newspaper",
+  "firstYear": "1884",
+  "finalYear": "uuuu",
+  "district": "Wellington City",
+  "frequency": "Weekly",
+  "idMarcControlNumber": "8187407",
+  "idNZNewspapersV1": "70189",
+  "isCurrent": false,
+  "placecode": "09-08-wellington",
+  "placename": "Wellington",
+  "region": "Wellington",
+  "sources": {
+    "2013-04-02T08:58:38.000Z": "Extracted from the New Zealand National Bibliography (MARC record 8187407) downloaded March 2013.",
+    "2014-05-07T09:22:53.000Z": "Modified by DataBot"
+  },
+  "revision": 4
+}

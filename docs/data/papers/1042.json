@@ -1,0 +1,26 @@
+{
+  "id": 1042,
+  "title": "Northern Advocate Weekly",
+  "genre": "Weekly Edition",
+  "firstYear": "1908",
+  "finalYear": "1914",
+  "district": "Whangarei District",
+  "frequency": "Weekly",
+  "idMarcControlNumber": "8176418",
+  "idNZNewspapersV1": "64124",
+  "isCurrent": false,
+  "placecode": "01-02",
+  "placename": "Whangarei",
+  "region": "Northland",
+  "links": {
+    "1035": {
+      "direction": "Is Edition Of",
+      "target-description": "Northern Advocate"
+    }
+  },
+  "sources": {
+    "2013-04-02T08:58:38.000Z": "Extracted from the New Zealand National Bibliography (MARC record 8176418) downloaded March 2013.",
+    "2014-05-15T04:30:17.000Z": "Modified by DataBot"
+  },
+  "revision": 5
+}

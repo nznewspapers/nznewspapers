@@ -1,0 +1,28 @@
+{
+  "id": 1555,
+  "title": "Te Aroha News (1917)",
+  "genre": "Newspaper",
+  "firstYear": "1917",
+  "finalYear": "1986",
+  "district": "Matamata-Piako District",
+  "firstIssueDate": "1917-04-30",
+  "frequency": "Three issues per week",
+  "idMarcControlNumber": "8183887",
+  "idNZNewspapersV1": "59148",
+  "isCurrent": false,
+  "placecode": "03-04",
+  "placename": "Te Aroha",
+  "region": "Waikato",
+  "links": {
+    "1551": {
+      "direction": "Preceding",
+      "relationship": "Continues",
+      "target-description": "The Aroha & Ohinemuri News"
+    }
+  },
+  "sources": {
+    "2013-04-02T08:58:38.000Z": "Extracted from the New Zealand National Bibliography (MARC record 8183887) downloaded March 2013.",
+    "2014-05-07T09:04:46.000Z": "Modified by DataBot"
+  },
+  "revision": 7
+}

@@ -1,0 +1,43 @@
+{
+  "id": 1907,
+  "title": "Manawatu Standard",
+  "genre": "Newspaper",
+  "firstYear": "1880",
+  "finalYear": "9999",
+  "district": "Palmerston North City",
+  "firstIssueDate": "1880-11-29",
+  "idNZNewspapersV1": "510012",
+  "idPapersPastCode": "MS",
+  "isCurrent": true,
+  "placecode": "08-05",
+  "placename": "Palmerston North",
+  "region": "Manawatu-Wanganui",
+  "urlCurrent": "http://www.manawatustandard.co.nz/",
+  "urlDigitized": "http://paperspast.natlib.govt.nz/cgi-bin/paperspast?a=d&cl=CL1.MS",
+  "links": {
+    "1906": {
+      "direction": "Has Masthead",
+      "target-description": "Manawatu Standard [1880-1886]"
+    },
+    "1909": {
+      "direction": "Has Masthead",
+      "target-description": "Manawatu Daily Standard"
+    },
+    "1911": {
+      "direction": "Has Masthead",
+      "target-description": "Manawatu Evening Standard"
+    },
+    "1919": {
+      "direction": "Has Masthead",
+      "target-description": "Evening Standard"
+    },
+    "1924": {
+      "direction": "Has Masthead",
+      "target-description": "Manawatu Standard [2002-]"
+    }
+  },
+  "sources": {
+    "2013-09-22T09:49:28.000Z": "Modified by gordon.paynter"
+  },
+  "revision": 11
+}

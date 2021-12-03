@@ -1,0 +1,20 @@
+{
+  "id": 1143,
+  "title": "Te Atatu Times",
+  "genre": "Newspaper",
+  "firstYear": "1963",
+  "finalYear": "uuuu",
+  "district": "Auckland",
+  "frequency": "Monthly",
+  "idMarcControlNumber": "8183893",
+  "idNZNewspapersV1": "66159",
+  "isCurrent": false,
+  "placecode": "02-01",
+  "placename": "Te Atatu",
+  "region": "Auckland",
+  "sources": {
+    "2013-04-02T08:58:38.000Z": "Extracted from the New Zealand National Bibliography (MARC record 8183893) downloaded March 2013.",
+    "2014-05-07T09:03:08.000Z": "Modified by DataBot"
+  },
+  "revision": 4
+}

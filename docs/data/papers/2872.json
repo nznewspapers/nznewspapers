@@ -1,0 +1,21 @@
+{
+  "id": 2872,
+  "title": "Fair Play",
+  "genre": "Periodical",
+  "firstYear": "1893",
+  "finalYear": "1884",
+  "district": "Wellington City",
+  "frequency": "Monthly",
+  "idMarcControlNumber": "3971562",
+  "idNZNewspapersV1": "9013",
+  "isCurrent": false,
+  "placecode": "09-08-wellington",
+  "placename": "Wellington",
+  "region": "Wellington",
+  "urlDigitized": "http://paperspast.natlib.govt.nz/cgi-bin/paperspast?a=d&cl=CL1.FP&e=-------10--1----0--",
+  "sources": {
+    "2013-04-02T08:58:38.000Z": "Extracted from the New Zealand National Bibliography (MARC record 3971562) downloaded March 2013.",
+    "2014-05-07T09:00:10.000Z": "Modified by DataBot"
+  },
+  "revision": 4
+}

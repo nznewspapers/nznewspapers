@@ -1,0 +1,30 @@
+{
+  "id": 2415,
+  "title": "The Star",
+  "genre": "Newspaper",
+  "firstYear": "1868",
+  "finalYear": "1935",
+  "district": "Christchurch City",
+  "firstIssueDate": "1868-05-14",
+  "frequency": "Daily (except Sunday)",
+  "idMarcControlNumber": "6963014",
+  "idNZNewspapersV1": "13035",
+  "idPapersPastCode": "TS",
+  "isCurrent": false,
+  "placecode": "12-05-christchur",
+  "placename": "Christchurch",
+  "region": "Canterbury",
+  "urlDigitized": "http://paperspast.natlib.govt.nz/cgi-bin/paperspast?a=d&cl=CL1.TS",
+  "links": {
+    "2431": {
+      "direction": "Succeeding",
+      "relationship": "Merged into",
+      "target-description": "Christchurch Star-Sun"
+    }
+  },
+  "sources": {
+    "2013-04-02T08:58:38.000Z": "Extracted from the New Zealand National Bibliography (MARC record 6963014) downloaded March 2013.",
+    "2014-03-21T11:48:54.000Z": "Modified by DataBot"
+  },
+  "revision": 9
+}

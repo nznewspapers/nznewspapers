@@ -1,0 +1,31 @@
+{
+  "id": 2072,
+  "title": "The Wellington Independent",
+  "genre": "Newspaper",
+  "firstYear": "1845",
+  "finalYear": "1874",
+  "district": "Wellington City",
+  "finalIssueDate": "1874-05-30",
+  "firstIssueDate": "1845-04-02",
+  "frequency": "Daily",
+  "idMarcControlNumber": "4869489",
+  "idNZNewspapersV1": "8023",
+  "idPapersPastCode": "WI",
+  "isCurrent": false,
+  "placecode": "09-08",
+  "placename": "Wellington",
+  "region": "Wellington",
+  "urlDigitized": "http://paperspast.natlib.govt.nz/cgi-bin/paperspast?a=d&cl=CL1.WI",
+  "links": {
+    "2106": {
+      "direction": "Succeeding",
+      "relationship": "Continued by",
+      "target-description": "New  Zealand Times"
+    }
+  },
+  "sources": {
+    "2013-04-02T08:58:38.000Z": "Extracted from the New Zealand National Bibliography (MARC record 4869489) downloaded March 2013.",
+    "2014-04-10T12:12:23.000Z": "Modified by gordon.paynter"
+  },
+  "revision": 11
+}

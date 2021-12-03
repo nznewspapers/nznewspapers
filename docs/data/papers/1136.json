@@ -1,0 +1,19 @@
+{
+  "id": 1136,
+  "title": "Eastern Suburbs Echo",
+  "genre": "Newspaper",
+  "firstYear": "1962",
+  "finalYear": "19uu",
+  "district": "Auckland",
+  "idMarcControlNumber": "7477727",
+  "idNZNewspapersV1": "14302628",
+  "isCurrent": false,
+  "placecode": "02-01",
+  "placename": "Takapuna",
+  "region": "Auckland",
+  "sources": {
+    "2013-04-02T08:58:38.000Z": "Extracted from the New Zealand National Bibliography (MARC record 7477727) downloaded March 2013.",
+    "2014-04-23T10:12:45.000Z": "Modified by MarcLoaderBot"
+  },
+  "revision": 2
+}

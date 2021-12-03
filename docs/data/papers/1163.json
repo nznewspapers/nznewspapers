@@ -1,0 +1,20 @@
+{
+  "id": 1163,
+  "title": "Waiheke Settler",
+  "genre": "Newspaper",
+  "firstYear": "1970",
+  "finalYear": "uuuu",
+  "district": "Auckland",
+  "frequency": "Fortnightly",
+  "idMarcControlNumber": "8185063",
+  "idNZNewspapersV1": "64162",
+  "isCurrent": false,
+  "placecode": "02-01",
+  "placename": "Waiheke Island",
+  "region": "Auckland",
+  "sources": {
+    "2013-04-02T08:58:38.000Z": "Extracted from the New Zealand National Bibliography (MARC record 8185063) downloaded March 2013.",
+    "2014-05-07T08:58:06.000Z": "Modified by DataBot"
+  },
+  "revision": 4
+}

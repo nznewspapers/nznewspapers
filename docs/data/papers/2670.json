@@ -1,0 +1,20 @@
+{
+  "id": 2670,
+  "title": "Waikaia Herald",
+  "genre": "Newspaper",
+  "firstYear": "1882",
+  "finalYear": "1883",
+  "district": "Southland District",
+  "frequency": "Weekly",
+  "idMarcControlNumber": "8185169",
+  "idNZNewspapersV1": "65171",
+  "isCurrent": false,
+  "placecode": "14-01",
+  "placename": "Waikaia",
+  "region": "Southland",
+  "sources": {
+    "2013-04-02T08:58:38.000Z": "Extracted from the New Zealand National Bibliography (MARC record 8185169) downloaded March 2013.",
+    "2014-05-07T09:21:49.000Z": "Modified by DataBot"
+  },
+  "revision": 4
+}

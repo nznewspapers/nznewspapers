@@ -1,0 +1,20 @@
+{
+  "id": 1996,
+  "title": "West Coast Mail",
+  "genre": "Newspaper",
+  "firstYear": "1893",
+  "finalYear": "1896",
+  "district": "Kapiti Coast District",
+  "frequency": "Fortnightly",
+  "idMarcControlNumber": "8187767",
+  "idNZNewspapersV1": "71168",
+  "isCurrent": false,
+  "placecode": "09-02",
+  "placename": "Otaki",
+  "region": "Wellington",
+  "sources": {
+    "2013-04-02T08:58:38.000Z": "Extracted from the New Zealand National Bibliography (MARC record 8187767) downloaded March 2013.",
+    "2014-05-07T08:58:09.000Z": "Modified by DataBot"
+  },
+  "revision": 4
+}

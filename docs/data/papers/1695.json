@@ -1,0 +1,55 @@
+{
+  "id": 1695,
+  "title": "Poverty Bay Standard",
+  "genre": "Newspaper",
+  "firstYear": "1872",
+  "finalYear": "1883",
+  "district": "Gisborne District",
+  "idNZNewspapersV1": "441001",
+  "isCurrent": false,
+  "placecode": "05-01",
+  "placename": "Gisborne",
+  "region": "Gisborne",
+  "links": {
+    "1694": {
+      "direction": "Has Masthead",
+      "target-description": "Poverty Bay Standard [1872]"
+    },
+    "1696": {
+      "direction": "Has Masthead",
+      "target-description": "Standard [1873]"
+    },
+    "1699": {
+      "direction": "Has Masthead",
+      "target-description": "Poverty Bay Standard [1879]"
+    },
+    "1700": {
+      "direction": "Has Masthead",
+      "target-description": "Standard [1880]"
+    },
+    "1701": {
+      "direction": "Has Masthead",
+      "target-description": "P.B. Standard"
+    },
+    "1702": {
+      "direction": "Has Masthead",
+      "target-description": "Poverty Bay  Standard [1881-04-06]"
+    },
+    "1703": {
+      "direction": "Has Masthead",
+      "target-description": "Standard [1881]"
+    },
+    "1704": {
+      "direction": "Has Masthead",
+      "target-description": "Poverty Bay  Standard [1881-11-15]"
+    },
+    "1708": {
+      "direction": "Continued By",
+      "target-description": "Telephone"
+    }
+  },
+  "sources": {
+    "2013-09-03T09:49:54.000Z": "Modified by gordon.paynter"
+  },
+  "revision": 11
+}

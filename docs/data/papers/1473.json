@@ -1,0 +1,31 @@
+{
+  "id": 1473,
+  "title": "Thames Advertiser",
+  "genre": "Newspaper",
+  "firstYear": "1868",
+  "finalYear": "1912",
+  "district": "Thames-Coromandel District",
+  "finalIssueDate": "1912-11-25",
+  "firstIssueDate": "1868-04-11",
+  "frequency": "Daily",
+  "idMarcControlNumber": "8183951",
+  "idNZNewspapersV1": "67158",
+  "idPapersPastCode": "THA",
+  "isCurrent": false,
+  "placecode": "03-01",
+  "placename": "Thames",
+  "region": "Waikato",
+  "urlDigitized": "http://paperspast.natlib.govt.nz/cgi-bin/paperspast?a=d&cl=CL1.THA",
+  "links": {
+    "1483": {
+      "direction": "Succeeding",
+      "relationship": "Absorbed into",
+      "target-description": "Thames Star"
+    }
+  },
+  "sources": {
+    "2013-04-02T08:58:38.000Z": "Extracted from the New Zealand National Bibliography (MARC record 8183951) downloaded March 2013.",
+    "2014-03-21T11:42:16.000Z": "Modified by DataBot"
+  },
+  "revision": 11
+}

@@ -1,0 +1,20 @@
+{
+  "id": 1386,
+  "title": "The Irish Reporter",
+  "genre": "Newspaper",
+  "firstYear": "1966",
+  "finalYear": "1969",
+  "district": "Auckland",
+  "frequency": "Irregular",
+  "idMarcControlNumber": "8159382",
+  "idNZNewspapersV1": "67099",
+  "isCurrent": false,
+  "placecode": "02-01-auckland",
+  "placename": "Auckland",
+  "region": "Auckland",
+  "sources": {
+    "2013-04-02T08:58:38.000Z": "Extracted from the New Zealand National Bibliography (MARC record 8159382) downloaded March 2013.",
+    "2014-05-07T08:58:34.000Z": "Modified by DataBot"
+  },
+  "revision": 4
+}

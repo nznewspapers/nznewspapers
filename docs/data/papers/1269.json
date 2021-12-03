@@ -1,0 +1,27 @@
+{
+  "id": 1269,
+  "title": "Aucklander (Counties Ed.)",
+  "genre": "Alternate Edition",
+  "firstYear": "200u",
+  "finalYear": "2005",
+  "district": "Auckland",
+  "frequency": "Weekly",
+  "idMarcControlNumber": "9784989",
+  "idNZNewspapersV1": "1054",
+  "isCurrent": false,
+  "placecode": "02-01",
+  "placename": "Auckland",
+  "price": "Gratis",
+  "region": "Auckland",
+  "links": {
+    "1249": {
+      "direction": "Is Edition Of",
+      "target-description": "The Aucklander"
+    }
+  },
+  "sources": {
+    "2013-04-02T08:58:38.000Z": "Extracted from the New Zealand National Bibliography (MARC record 9784989) downloaded March 2013.",
+    "2015-01-21T10:27:21.000Z": "Modified by gordon.paynter"
+  },
+  "revision": 7
+}

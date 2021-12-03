@@ -1,0 +1,20 @@
+{
+  "id": 1402,
+  "title": "Gazette",
+  "genre": "Newspaper",
+  "firstYear": "1981",
+  "finalYear": "1986",
+  "district": "Auckland",
+  "frequency": "Monthly",
+  "idMarcControlNumber": "8142240",
+  "idNZNewspapersV1": "64078",
+  "isCurrent": false,
+  "placecode": "02-01-auckland",
+  "placename": "Auckland",
+  "region": "Auckland",
+  "sources": {
+    "2013-04-02T08:58:38.000Z": "Extracted from the New Zealand National Bibliography (MARC record 8142240) downloaded March 2013.",
+    "2014-05-07T09:01:33.000Z": "Modified by DataBot"
+  },
+  "revision": 4
+}

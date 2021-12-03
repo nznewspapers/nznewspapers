@@ -1,0 +1,20 @@
+{
+  "id": 2672,
+  "title": "Waimea Plains Review and Market Report",
+  "genre": "Newspaper",
+  "firstYear": "1892",
+  "finalYear": "1896",
+  "district": "Southland District",
+  "frequency": "Weekly",
+  "idMarcControlNumber": "8185272",
+  "idNZNewspapersV1": "70178",
+  "isCurrent": false,
+  "placecode": "14-01",
+  "placename": "Riversdale",
+  "region": "Southland",
+  "sources": {
+    "2013-04-02T08:58:38.000Z": "Extracted from the New Zealand National Bibliography (MARC record 8185272) downloaded March 2013.",
+    "2014-05-07T09:21:58.000Z": "Modified by DataBot"
+  },
+  "revision": 4
+}

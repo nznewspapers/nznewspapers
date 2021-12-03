@@ -1,0 +1,31 @@
+{
+  "id": 1546,
+  "title": "North Waikato Tatler",
+  "genre": "Newspaper",
+  "firstYear": "1995",
+  "finalYear": "2000",
+  "district": "Waikato District",
+  "frequency": "Weekly",
+  "idMarcControlNumber": "4788313",
+  "idNZNewspapersV1": "10027",
+  "isCurrent": false,
+  "placecode": "03-03",
+  "placename": "Huntly",
+  "price": "Gratis",
+  "region": "Waikato",
+  "links": {
+    "1547": {
+      "direction": "Continued By",
+      "target-description": "North Waikato News"
+    },
+    "1567": {
+      "direction": "Continues",
+      "target-description": "New Tatler"
+    }
+  },
+  "sources": {
+    "2013-04-02T08:58:38.000Z": "Extracted from the New Zealand National Bibliography (MARC record 4788313) downloaded March 2013.",
+    "2014-05-18T11:47:39.000Z": "Modified by gordon.paynter"
+  },
+  "revision": 8
+}

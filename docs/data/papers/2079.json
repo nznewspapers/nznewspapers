@@ -1,0 +1,20 @@
+{
+  "id": 2079,
+  "title": "Johnsonville Herald",
+  "genre": "Newspaper",
+  "firstYear": "1960",
+  "finalYear": "uuuu",
+  "district": "Wellington City",
+  "frequency": "Monthly",
+  "idMarcControlNumber": "8159609",
+  "idNZNewspapersV1": "65098",
+  "isCurrent": false,
+  "placecode": "09-08",
+  "placename": "Johnsonville",
+  "region": "Wellington",
+  "sources": {
+    "2013-04-02T08:58:38.000Z": "Extracted from the New Zealand National Bibliography (MARC record 8159609) downloaded March 2013.",
+    "2014-05-07T09:01:59.000Z": "Modified by DataBot"
+  },
+  "revision": 4
+}

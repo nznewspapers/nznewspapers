@@ -1,0 +1,27 @@
+{
+  "id": 1341,
+  "title": "N.Z. Pictorial News",
+  "genre": "Newspaper",
+  "firstYear": "1924",
+  "finalYear": "1930",
+  "district": "Auckland",
+  "frequency": "Weekly",
+  "idMarcControlNumber": "5196289",
+  "idNZNewspapersV1": "12028",
+  "isCurrent": false,
+  "placecode": "02-01-auckland",
+  "placename": "Auckland",
+  "region": "Auckland",
+  "links": {
+    "1345": {
+      "direction": "Succeeding",
+      "relationship": "Continued by",
+      "target-description": "N.Z. home pictorial"
+    }
+  },
+  "sources": {
+    "2013-04-02T08:58:38.000Z": "Extracted from the New Zealand National Bibliography (MARC record 5196289) downloaded March 2013.",
+    "2014-05-07T09:12:42.000Z": "Modified by DataBot"
+  },
+  "revision": 5
+}

@@ -1,0 +1,20 @@
+{
+  "id": 2132,
+  "title": "Searchlight",
+  "genre": "Newspaper",
+  "firstYear": "1907",
+  "finalYear": "1909",
+  "district": "Wellington City",
+  "frequency": "Weekly",
+  "idMarcControlNumber": "8181646",
+  "idNZNewspapersV1": "58130",
+  "isCurrent": false,
+  "placecode": "09-08-wellington",
+  "placename": "Wellington",
+  "region": "Wellington",
+  "sources": {
+    "2013-04-02T08:58:38.000Z": "Extracted from the New Zealand National Bibliography (MARC record 8181646) downloaded March 2013.",
+    "2014-05-07T09:20:04.000Z": "Modified by DataBot"
+  },
+  "revision": 4
+}

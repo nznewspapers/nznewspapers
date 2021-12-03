@@ -1,0 +1,20 @@
+{
+  "id": 1578,
+  "title": "Hamilton City East-west News",
+  "genre": "Newspaper",
+  "firstYear": "1973",
+  "finalYear": "1973",
+  "district": "Hamilton City",
+  "frequency": "Weekly",
+  "idMarcControlNumber": "8156588",
+  "idNZNewspapersV1": "63069",
+  "isCurrent": false,
+  "placecode": "03-05",
+  "placename": "Hamilton",
+  "region": "Waikato",
+  "sources": {
+    "2013-04-02T08:58:38.000Z": "Extracted from the New Zealand National Bibliography (MARC record 8156588) downloaded March 2013.",
+    "2014-05-07T09:15:53.000Z": "Modified by DataBot"
+  },
+  "revision": 4
+}

@@ -1,0 +1,20 @@
+{
+  "id": 1415,
+  "title": "Streetwise (Auckland)",
+  "genre": "Newspaper",
+  "firstYear": "1990",
+  "finalYear": "1990",
+  "district": "Auckland",
+  "frequency": "Weekly",
+  "idMarcControlNumber": "3678353",
+  "idNZNewspapersV1": "24002",
+  "isCurrent": false,
+  "placecode": "02-01-auckland",
+  "placename": "Auckland",
+  "region": "Auckland",
+  "sources": {
+    "2013-04-02T08:58:38.000Z": "Extracted from the New Zealand National Bibliography (MARC record 3678353) downloaded March 2013.",
+    "2014-05-07T09:11:04.000Z": "Modified by DataBot"
+  },
+  "revision": 4
+}

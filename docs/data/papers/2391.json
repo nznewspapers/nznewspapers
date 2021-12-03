@@ -1,0 +1,26 @@
+{
+  "id": 2391,
+  "title": "Star",
+  "genre": "Masthead",
+  "firstYear": "1980",
+  "finalYear": "1988",
+  "district": "Christchurch City",
+  "frequency": "Daily",
+  "idMarcControlNumber": "8181998",
+  "idNZNewspapersV1": "69164",
+  "isCurrent": false,
+  "placecode": "12-05",
+  "placename": "Christchurch",
+  "region": "Canterbury",
+  "links": {
+    "2387": {
+      "direction": "Is Masthead Of",
+      "target-description": "Christchurch Star"
+    }
+  },
+  "sources": {
+    "2013-04-02T08:58:38.000Z": "Extracted from the New Zealand National Bibliography (MARC record 8181998) downloaded March 2013.",
+    "2014-04-12T12:05:06.000Z": "Modified by Linkerbot"
+  },
+  "revision": 5
+}

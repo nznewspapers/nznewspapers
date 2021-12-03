@@ -1,0 +1,31 @@
+{
+  "id": 1033,
+  "title": "Far North & Doubtless Bay Times",
+  "genre": "Newspaper",
+  "firstYear": "200u",
+  "finalYear": "2002",
+  "district": "Far North District",
+  "frequency": "Fortnightly",
+  "idMarcControlNumber": "7650528",
+  "idNZNewspapersV1": "7043",
+  "isCurrent": false,
+  "placecode": "01-01",
+  "placename": "Kaitaia",
+  "price": "Gratis",
+  "region": "Northland",
+  "links": {
+    "1029": {
+      "direction": "Continues",
+      "target-description": "Far  North Times"
+    },
+    "1030": {
+      "direction": "Continued By",
+      "target-description": "Doubtless Bay  Times"
+    }
+  },
+  "sources": {
+    "2013-04-02T08:58:38.000Z": "Extracted from the New Zealand National Bibliography (MARC record 7650528) downloaded March 2013.",
+    "2014-05-16T03:48:07.000Z": "Modified by gordon.paynter"
+  },
+  "revision": 8
+}

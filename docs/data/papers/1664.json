@@ -1,0 +1,20 @@
+{
+  "id": 1664,
+  "title": "Whakatane County Press",
+  "genre": "Newspaper",
+  "firstYear": "1907",
+  "finalYear": "1915",
+  "district": "Whakatane District",
+  "frequency": "Three issues per week",
+  "idMarcControlNumber": "8187816",
+  "idNZNewspapersV1": "73038",
+  "isCurrent": false,
+  "placecode": "04-04",
+  "placename": "Whakatane",
+  "region": "Bay of Plenty",
+  "sources": {
+    "2013-04-02T08:58:38.000Z": "Extracted from the New Zealand National Bibliography (MARC record 8187816) downloaded March 2013.",
+    "2014-05-07T09:05:06.000Z": "Modified by DataBot"
+  },
+  "revision": 4
+}

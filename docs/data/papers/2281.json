@@ -1,0 +1,21 @@
+{
+  "id": 2281,
+  "title": "Blenheim sun (2002)",
+  "genre": "Newspaper",
+  "firstYear": "2002",
+  "finalYear": "9999",
+  "district": "Marlborough District",
+  "frequency": "Weekly",
+  "idMarcControlNumber": "8440289",
+  "idNZNewspapersV1": "10053",
+  "isCurrent": true,
+  "placecode": "10-03",
+  "placename": "Blenheim",
+  "price": "Gratis",
+  "region": "Top of the South",
+  "sources": {
+    "2013-04-02T08:58:38.000Z": "Extracted from the New Zealand National Bibliography (MARC record 8440289) downloaded March 2013.",
+    "2014-05-07T09:50:56.000Z": "Modified by DataBot"
+  },
+  "revision": 6
+}

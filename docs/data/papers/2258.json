@@ -1,0 +1,28 @@
+{
+  "id": 2258,
+  "title": "Marlborough Times",
+  "genre": "Newspaper",
+  "firstYear": "1994",
+  "finalYear": "1997",
+  "district": "Nelson City",
+  "frequency": "Weekly",
+  "idMarcControlNumber": "4798193",
+  "idNZNewspapersV1": "10029",
+  "isCurrent": false,
+  "placecode": "10-02",
+  "placename": "Nelson",
+  "price": "Gratis",
+  "region": "Top of the South",
+  "links": {
+    "2277": {
+      "direction": "Preceding",
+      "relationship": "Continues",
+      "target-description": "Picton paper"
+    }
+  },
+  "sources": {
+    "2013-04-02T08:58:38.000Z": "Extracted from the New Zealand National Bibliography (MARC record 4798193) downloaded March 2013.",
+    "2014-05-07T09:49:15.000Z": "Modified by DataBot"
+  },
+  "revision": 7
+}

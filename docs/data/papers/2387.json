@@ -1,0 +1,39 @@
+{
+  "id": 2387,
+  "title": "Christchurch Star",
+  "genre": "Newspaper",
+  "firstYear": "1958",
+  "finalYear": "2005",
+  "district": "Christchurch City",
+  "idNZNewspapersV1": "12200005",
+  "isCurrent": false,
+  "placecode": "12-05",
+  "placename": "Christchurch",
+  "region": "Canterbury",
+  "links": {
+    "2390": {
+      "direction": "Has Edition",
+      "target-description": "Star (Dunedin Edition)"
+    },
+    "2391": {
+      "direction": "Has Masthead",
+      "target-description": "Star"
+    },
+    "2393": {
+      "direction": "Has Masthead",
+      "target-description": "Christchurch Star (1988)"
+    },
+    "2431": {
+      "direction": "Continues",
+      "target-description": "Christchurch Star-Sun"
+    },
+    "2489": {
+      "direction": "Continued By",
+      "target-description": "The Star"
+    }
+  },
+  "sources": {
+    "2014-04-12T12:05:06.000Z": "Modified by Linkerbot"
+  },
+  "revision": 7
+}

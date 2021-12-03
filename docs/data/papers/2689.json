@@ -1,0 +1,21 @@
+{
+  "id": 2689,
+  "title": "Mirror (Queenstown-Lakes Ed.)",
+  "genre": "Newspaper",
+  "firstYear": "1993",
+  "finalYear": "9999",
+  "district": "Southland District",
+  "frequency": "Weekly",
+  "idMarcControlNumber": "8129731",
+  "idNZNewspapersV1": "62041",
+  "isCurrent": true,
+  "placecode": "14-01",
+  "placename": "Invercargill",
+  "region": "Southland",
+  "urlCurrent": "http://fairfaxmedia.newspaperdirect.com/epaper/viewer.aspx",
+  "sources": {
+    "2013-04-02T08:58:38.000Z": "Extracted from the New Zealand National Bibliography (MARC record 8129731) downloaded March 2013.",
+    "2014-05-07T09:13:58.000Z": "Modified by DataBot"
+  },
+  "revision": 4
+}

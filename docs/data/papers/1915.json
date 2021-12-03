@@ -1,0 +1,20 @@
+{
+  "id": 1915,
+  "title": "Central Counties Press",
+  "genre": "Newspaper",
+  "firstYear": "1967",
+  "finalYear": "1967",
+  "district": "Palmerston North City",
+  "frequency": "Two issues per week",
+  "idMarcControlNumber": "8134360",
+  "idNZNewspapersV1": "68038",
+  "isCurrent": false,
+  "placecode": "08-05",
+  "placename": "Palmerston North",
+  "region": "Manawatu-Wanganui",
+  "sources": {
+    "2013-04-02T08:58:38.000Z": "Extracted from the New Zealand National Bibliography (MARC record 8134360) downloaded March 2013.",
+    "2014-05-07T09:06:04.000Z": "Modified by DataBot"
+  },
+  "revision": 4
+}

@@ -1,0 +1,20 @@
+{
+  "id": 1157,
+  "title": "Western Ranger",
+  "genre": "Newspaper",
+  "firstYear": "1968",
+  "finalYear": "uuuu",
+  "district": "Auckland",
+  "frequency": "Fortnightly",
+  "idMarcControlNumber": "8187792",
+  "idNZNewspapersV1": "61159",
+  "isCurrent": false,
+  "placecode": "02-01",
+  "placename": "Glen Eden",
+  "region": "Auckland",
+  "sources": {
+    "2013-04-02T08:58:38.000Z": "Extracted from the New Zealand National Bibliography (MARC record 8187792) downloaded March 2013.",
+    "2014-05-07T08:58:12.000Z": "Modified by DataBot"
+  },
+  "revision": 4
+}

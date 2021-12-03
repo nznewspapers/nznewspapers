@@ -1,0 +1,20 @@
+{
+  "id": 2349,
+  "title": "Hanmer Springs Village News : the Pinkie Since the 1930s",
+  "genre": "Newspaper",
+  "firstYear": "200u",
+  "finalYear": "9999",
+  "district": "Hurunui District",
+  "frequency": "Weekly",
+  "idMarcControlNumber": "13203047",
+  "idNZNewspapersV1": "9048",
+  "isCurrent": true,
+  "placecode": "12-02",
+  "placename": "Hanmer Springs",
+  "region": "Canterbury",
+  "sources": {
+    "2013-04-02T08:58:38.000Z": "Extracted from the New Zealand National Bibliography (MARC record 13203047) downloaded March 2013.",
+    "2014-05-07T09:09:35.000Z": "Modified by DataBot"
+  },
+  "revision": 4
+}

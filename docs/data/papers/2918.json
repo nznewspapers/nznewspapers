@@ -1,0 +1,27 @@
+{
+  "id": 2918,
+  "title": "North Canterbury Outlook",
+  "genre": "Periodical",
+  "firstYear": "1988",
+  "finalYear": "1990",
+  "district": "Waimakariri District",
+  "frequency": "Fortnightly",
+  "idMarcControlNumber": "3534513",
+  "idNZNewspapersV1": "18002",
+  "isCurrent": false,
+  "placecode": "12-04",
+  "placename": "Rangiora",
+  "region": "Canterbury",
+  "links": {
+    "undefined-unknown": {
+      "direction": "Preceding",
+      "relationship": "Continues",
+      "target-description": "Northern outlook (1990)"
+    }
+  },
+  "sources": {
+    "2013-04-02T08:58:38.000Z": "Extracted from the New Zealand National Bibliography (MARC record 3534513) downloaded March 2013.",
+    "2014-05-07T08:55:44.000Z": "Modified by DataBot"
+  },
+  "revision": 5
+}

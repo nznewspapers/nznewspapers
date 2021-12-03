@@ -1,0 +1,37 @@
+{
+  "id": 1748,
+  "title": "Leader (Hastings)",
+  "genre": "Newspaper",
+  "firstYear": "1985",
+  "finalYear": "1995",
+  "district": "Hastings District",
+  "idMarcControlNumber": "3526940",
+  "idNZNewspapersV1": "11003",
+  "isCurrent": false,
+  "placecode": "06-02",
+  "placename": "Hastings",
+  "price": "Gratis",
+  "region": "Hawke's Bay",
+  "links": {
+    "1390": {
+      "direction": "Preceding",
+      "relationship": "Formed by the union",
+      "target-description": "Western leader (Hastings, N.Z.)"
+    },
+    "1780": {
+      "direction": "Succeeding",
+      "relationship": "Continued by",
+      "target-description": "Courier-leader (Hastings ed.)"
+    },
+    "undefined-unknown": {
+      "direction": "Preceding",
+      "relationship": "Formed by the union",
+      "target-description": "Te Mata leader"
+    }
+  },
+  "sources": {
+    "2013-04-02T08:58:38.000Z": "Extracted from the New Zealand National Bibliography (MARC record 3526940) downloaded March 2013.",
+    "2014-05-07T09:47:07.000Z": "Modified by DataBot"
+  },
+  "revision": 8
+}

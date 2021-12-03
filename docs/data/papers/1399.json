@@ -1,0 +1,20 @@
+{
+  "id": 1399,
+  "title": "Summer Rugby News",
+  "genre": "Newspaper",
+  "firstYear": "1980",
+  "finalYear": "1981",
+  "district": "Auckland",
+  "frequency": "Weekly",
+  "idMarcControlNumber": "8541348",
+  "idNZNewspapersV1": "3055",
+  "isCurrent": false,
+  "placecode": "02-01-auckland",
+  "placename": "Auckland",
+  "region": "Auckland",
+  "sources": {
+    "2013-04-02T08:58:38.000Z": "Extracted from the New Zealand National Bibliography (MARC record 8541348) downloaded March 2013.",
+    "2014-05-07T09:23:36.000Z": "Modified by DataBot"
+  },
+  "revision": 4
+}

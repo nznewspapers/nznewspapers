@@ -1,0 +1,25 @@
+{
+  "id": 2786,
+  "title": "Tamahere Crier",
+  "genre": "Periodical",
+  "firstYear": "1984",
+  "finalYear": "1992",
+  "district": "Hamilton City",
+  "idMarcControlNumber": "3526936",
+  "idNZNewspapersV1": "4007",
+  "isCurrent": false,
+  "placecode": "03-05",
+  "placename": "Hamilton",
+  "region": "Waikato",
+  "links": {
+    "2789": {
+      "direction": "Succeeding",
+      "relationship": "Continued by",
+      "target-description": "Community review (Hamilton, N.Z.)"
+    }
+  },
+  "sources": {
+    "2013-04-02T08:58:38.000Z": "Extracted from the New Zealand National Bibliography (MARC record 3526936) downloaded March 2013."
+  },
+  "revision": 3
+}

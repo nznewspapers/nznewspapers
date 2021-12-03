@@ -1,0 +1,18 @@
+{
+  "id": 1242,
+  "title": "Jin bao",
+  "genre": "Newspaper",
+  "firstYear": "2002",
+  "finalYear": "200u",
+  "district": "Auckland",
+  "idMarcControlNumber": "11246302",
+  "idNZNewspapersV1": "4065",
+  "isCurrent": false,
+  "placecode": "02-01",
+  "placename": "Otahuhu",
+  "region": "Auckland",
+  "sources": {
+    "2013-04-02T08:58:38.000Z": "Extracted from the New Zealand National Bibliography (MARC record 11246302) downloaded March 2013."
+  },
+  "revision": 2
+}

@@ -1,0 +1,20 @@
+{
+  "id": 1452,
+  "title": "Goodday New Zealand",
+  "genre": "Newspaper",
+  "firstYear": "2003",
+  "finalYear": "9999",
+  "district": "Auckland",
+  "frequency": "Weekly",
+  "idMarcControlNumber": "12685704",
+  "idNZNewspapersV1": "65194",
+  "isCurrent": true,
+  "placecode": "02-01-auckland",
+  "placename": "Auckland",
+  "region": "Auckland",
+  "sources": {
+    "2013-04-02T08:58:38.000Z": "Extracted from the New Zealand National Bibliography (MARC record 12685704) downloaded March 2013.",
+    "2014-05-07T09:09:14.000Z": "Modified by DataBot"
+  },
+  "revision": 4
+}

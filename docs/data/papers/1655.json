@@ -1,0 +1,20 @@
+{
+  "id": 1655,
+  "title": "Bay City Weekend",
+  "genre": "Newspaper",
+  "firstYear": "1992",
+  "finalYear": "1994",
+  "district": "Tauranga City",
+  "idMarcControlNumber": "4212503",
+  "idNZNewspapersV1": "5018",
+  "isCurrent": false,
+  "placecode": "04-02",
+  "placename": "Tauranga",
+  "price": "Gratis",
+  "region": "Bay of Plenty",
+  "sources": {
+    "2013-04-02T08:58:38.000Z": "Extracted from the New Zealand National Bibliography (MARC record 4212503) downloaded March 2013.",
+    "2014-05-07T09:48:31.000Z": "Modified by DataBot"
+  },
+  "revision": 4
+}

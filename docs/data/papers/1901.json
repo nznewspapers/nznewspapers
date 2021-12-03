@@ -1,0 +1,20 @@
+{
+  "id": 1901,
+  "title": "New Zealand Farmers Weekly",
+  "genre": "Newspaper",
+  "firstYear": "2003",
+  "finalYear": "9999",
+  "district": "Manawatu District",
+  "frequency": "Weekly",
+  "idMarcControlNumber": "7965523",
+  "idNZNewspapersV1": "11041",
+  "isCurrent": true,
+  "placecode": "08-04",
+  "placename": "Feilding",
+  "region": "Manawatu-Wanganui",
+  "sources": {
+    "2013-04-02T08:58:38.000Z": "Extracted from the New Zealand National Bibliography (MARC record 7965523) downloaded March 2013.",
+    "2014-05-07T09:13:38.000Z": "Modified by DataBot"
+  },
+  "revision": 4
+}

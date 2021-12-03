@@ -1,0 +1,30 @@
+{
+  "id": 2298,
+  "title": "Lyell Argus",
+  "genre": "Masthead",
+  "firstYear": "1877",
+  "finalYear": "1882",
+  "district": "Buller District",
+  "frequency": "Two issues per week",
+  "idMarcControlNumber": "8164626",
+  "idNZNewspapersV1": "70102",
+  "isCurrent": false,
+  "placecode": "11-01",
+  "placename": "Lyell",
+  "region": "West Coast",
+  "links": {
+    "2293": {
+      "direction": "Is Masthead Of",
+      "target-description": "Lyell Argus"
+    },
+    "2296": {
+      "direction": "Continues",
+      "target-description": "Argus"
+    }
+  },
+  "sources": {
+    "2013-04-02T08:58:38.000Z": "Extracted from the New Zealand National Bibliography (MARC record 8164626) downloaded March 2013.",
+    "2014-05-16T04:13:27.000Z": "Modified by gordon.paynter"
+  },
+  "revision": 6
+}

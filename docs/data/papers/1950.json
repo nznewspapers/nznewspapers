@@ -1,0 +1,57 @@
+{
+  "id": 1950,
+  "title": "Horowhenua Chronicle",
+  "genre": "Newspaper",
+  "firstYear": "1893",
+  "finalYear": "9999",
+  "district": "Horowhenua District",
+  "idNZNewspapersV1": "11770268",
+  "isCurrent": true,
+  "placecode": "08-07",
+  "placename": "Levin",
+  "region": "Manawatu-Wanganui",
+  "urlCurrent": "http://horowhenuachronicle.apn.co.nz/",
+  "links": {
+    "1949": {
+      "direction": "Has Masthead",
+      "target-description": "Manawatu Farmer and  Horowhenua County Chronicle"
+    },
+    "1952": {
+      "direction": "Has Masthead",
+      "target-description": "Horowhenua Chronicle"
+    },
+    "1953": {
+      "direction": "Has Masthead",
+      "target-description": "Levin Chronicle"
+    },
+    "1956": {
+      "direction": "Has Masthead",
+      "target-description": "Levin Daily Chronicle"
+    },
+    "1957": {
+      "direction": "Has Masthead",
+      "target-description": "Chronicle"
+    },
+    "1969": {
+      "direction": "Has Masthead",
+      "target-description": "Horowhenua-Kapiti Chronicle"
+    },
+    "1971": {
+      "direction": "Preceding",
+      "relationship": "Absorbed",
+      "target-description": "Horowhenua & Kapiti News"
+    },
+    "1974": {
+      "direction": "Has Masthead",
+      "target-description": "Daily Chronicle"
+    },
+    "1975": {
+      "direction": "Has Masthead",
+      "target-description": "Chronicle"
+    }
+  },
+  "sources": {
+    "2014-05-31T09:32:38.000Z": "Modified by gordon.paynter"
+  },
+  "revision": 11
+}

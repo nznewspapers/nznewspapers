@@ -1,0 +1,27 @@
+{
+  "id": 1462,
+  "title": "Dong Fang Zhou kan",
+  "genre": "Newspaper",
+  "firstYear": "2009",
+  "finalYear": "9999",
+  "district": "Auckland",
+  "frequency": "Weekly",
+  "idMarcControlNumber": "13082287",
+  "idNZNewspapersV1": "13054",
+  "isCurrent": true,
+  "placecode": "02-01-auckland",
+  "placename": "Auckland",
+  "region": "Auckland",
+  "links": {
+    "1448": {
+      "direction": "Preceding",
+      "relationship": "Continues",
+      "target-description": "Dong fang shi bao"
+    }
+  },
+  "sources": {
+    "2013-04-02T08:58:38.000Z": "Extracted from the New Zealand National Bibliography (MARC record 13082287) downloaded March 2013.",
+    "2014-05-07T09:09:31.000Z": "Modified by DataBot"
+  },
+  "revision": 5
+}

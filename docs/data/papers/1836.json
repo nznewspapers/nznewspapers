@@ -1,0 +1,32 @@
+{
+  "id": 1836,
+  "title": "Hawera Star",
+  "genre": "Newspaper",
+  "firstYear": "1924",
+  "finalYear": "1984",
+  "district": "South Taranaki District",
+  "frequency": "Daily",
+  "idNZNewspapersV1": "11810254",
+  "isCurrent": false,
+  "placecode": "07-03",
+  "placename": "Hawera",
+  "region": "Taranaki",
+  "links": {
+    "1829": {
+      "direction": "Continues",
+      "target-description": "Hawera &  Normanby Star"
+    },
+    "1839": {
+      "direction": "Has Edition",
+      "target-description": "Star Weekender"
+    },
+    "1841": {
+      "direction": "Continued By",
+      "target-description": "Star"
+    }
+  },
+  "sources": {
+    "2014-04-10T11:38:06.000Z": "Modified by gordon.paynter"
+  },
+  "revision": 7
+}

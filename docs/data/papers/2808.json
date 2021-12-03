@@ -1,0 +1,27 @@
+{
+  "id": 2808,
+  "title": "The Rotorua Reader Magazine",
+  "genre": "Periodical",
+  "firstYear": "1979",
+  "finalYear": "1980",
+  "district": "Rotorua District",
+  "frequency": "Weekly",
+  "idMarcControlNumber": "6760765",
+  "idNZNewspapersV1": "4044",
+  "isCurrent": false,
+  "placecode": "04-05",
+  "placename": "Rotorua",
+  "region": "Bay of Plenty",
+  "links": {
+    "2806": {
+      "direction": "Preceding",
+      "relationship": "Continues",
+      "target-description": "Weekend Reader Magazine"
+    }
+  },
+  "sources": {
+    "2013-04-02T08:58:38.000Z": "Extracted from the New Zealand National Bibliography (MARC record 6760765) downloaded March 2013.",
+    "2014-05-07T09:13:07.000Z": "Modified by DataBot"
+  },
+  "revision": 5
+}

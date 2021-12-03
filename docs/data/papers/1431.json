@@ -1,0 +1,27 @@
+{
+  "id": 1431,
+  "title": "New Times Weekly",
+  "genre": "Newspaper",
+  "firstYear": "1997",
+  "finalYear": "2009",
+  "district": "Auckland",
+  "frequency": "Weekly",
+  "idMarcControlNumber": "4938751",
+  "idNZNewspapersV1": "12026",
+  "isCurrent": false,
+  "placecode": "02-01-auckland",
+  "placename": "Auckland",
+  "region": "Auckland",
+  "links": {
+    "undefined-unknown": {
+      "direction": "Preceding",
+      "relationship": "Continues",
+      "target-description": "New times (Auckland, N.Z.)"
+    }
+  },
+  "sources": {
+    "2013-04-02T08:58:38.000Z": "Extracted from the New Zealand National Bibliography (MARC record 4938751) downloaded March 2013.",
+    "2014-05-07T09:12:21.000Z": "Modified by DataBot"
+  },
+  "revision": 5
+}

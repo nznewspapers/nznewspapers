@@ -1,0 +1,19 @@
+{
+  "id": 1925,
+  "title": "Hua Kan",
+  "genre": "Newspaper",
+  "firstYear": "200u",
+  "finalYear": "200u",
+  "district": "Palmerston North City",
+  "idMarcControlNumber": "11246303",
+  "idNZNewspapersV1": "14272646",
+  "isCurrent": false,
+  "placecode": "08-05",
+  "placename": "Palmerston North",
+  "region": "Manawatu-Wanganui",
+  "sources": {
+    "2013-04-02T08:58:38.000Z": "Extracted from the New Zealand National Bibliography (MARC record 11246303) downloaded March 2013.",
+    "2014-04-23T10:12:21.000Z": "Modified by MarcLoaderBot"
+  },
+  "revision": 2
+}

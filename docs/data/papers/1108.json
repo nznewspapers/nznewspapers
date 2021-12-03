@@ -1,0 +1,20 @@
+{
+  "id": 1108,
+  "title": "Ribbon",
+  "genre": "Newspaper",
+  "firstYear": "1948",
+  "finalYear": "1956",
+  "district": "Auckland",
+  "frequency": "Weekly",
+  "idMarcControlNumber": "8181444",
+  "idNZNewspapersV1": "62125",
+  "isCurrent": false,
+  "placecode": "02-01",
+  "placename": "Papakura",
+  "region": "Auckland",
+  "sources": {
+    "2013-04-02T08:58:38.000Z": "Extracted from the New Zealand National Bibliography (MARC record 8181444) downloaded March 2013.",
+    "2014-05-07T09:19:52.000Z": "Modified by DataBot"
+  },
+  "revision": 4
+}

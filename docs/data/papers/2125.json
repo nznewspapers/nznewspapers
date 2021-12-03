@@ -1,0 +1,18 @@
+{
+  "id": 2125,
+  "title": "New Zealand's European Mail News",
+  "genre": "Newspaper",
+  "firstYear": "1896",
+  "finalYear": "uuuu",
+  "district": "Wellington City",
+  "idMarcControlNumber": "8172859",
+  "idNZNewspapersV1": "65122",
+  "isCurrent": false,
+  "placecode": "09-08-wellington",
+  "placename": "Wellington",
+  "region": "Wellington",
+  "sources": {
+    "2013-04-02T08:58:38.000Z": "Extracted from the New Zealand National Bibliography (MARC record 8172859) downloaded March 2013."
+  },
+  "revision": 2
+}

@@ -1,0 +1,19 @@
+{
+  "id": 2377,
+  "title": "The Kaiapoi Advocate",
+  "genre": "Newspaper",
+  "firstYear": "2006",
+  "finalYear": "9999",
+  "district": "Waimakariri District",
+  "idMarcControlNumber": "11163594",
+  "idNZNewspapersV1": "14302624",
+  "isCurrent": true,
+  "placecode": "12-04",
+  "placename": "Kaiapoi",
+  "region": "Canterbury",
+  "sources": {
+    "2013-04-02T08:58:38.000Z": "Extracted from the New Zealand National Bibliography (MARC record 11163594) downloaded March 2013.",
+    "2014-04-23T10:11:41.000Z": "Modified by MarcLoaderBot"
+  },
+  "revision": 2
+}

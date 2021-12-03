@@ -1,0 +1,31 @@
+{
+  "id": 2067,
+  "title": "Cook Strait News",
+  "genre": "Newspaper",
+  "firstYear": "2009",
+  "finalYear": "9999",
+  "alternateTitle": {
+    "81580222": "Citylife Cook Strait News"
+  },
+  "district": "Hutt City",
+  "frequency": "Weekly",
+  "idMarcControlNumber": "12846472",
+  "idNZNewspapersV1": "61",
+  "isCurrent": true,
+  "placecode": "09-07",
+  "placename": "Petone",
+  "region": "Wellington",
+  "urlCurrent": "http://cookstraitnews.co.nz/",
+  "links": {
+    "2093": {
+      "direction": "Preceding",
+      "relationship": "Continues",
+      "target-description": "Citylife (Wellington, N.Z. : South & East)"
+    }
+  },
+  "sources": {
+    "2013-04-02T08:58:38.000Z": "Extracted from the New Zealand National Bibliography (MARC record 12846472) downloaded March 2013.",
+    "2014-11-19T09:11:42.000Z": "Modified by gordon.paynter"
+  },
+  "revision": 7
+}

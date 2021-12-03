@@ -1,0 +1,20 @@
+{
+  "id": 1641,
+  "title": "Mount News",
+  "genre": "Newspaper",
+  "firstYear": "1948",
+  "finalYear": "1990",
+  "district": "Tauranga City",
+  "idMarcControlNumber": "3531211",
+  "idNZNewspapersV1": "13006",
+  "isCurrent": false,
+  "placecode": "04-02",
+  "placename": "Mount Maunganui",
+  "price": "Gratis",
+  "region": "Bay of Plenty",
+  "sources": {
+    "2013-04-02T08:58:38.000Z": "Extracted from the New Zealand National Bibliography (MARC record 3531211) downloaded March 2013.",
+    "2014-05-07T09:47:19.000Z": "Modified by DataBot"
+  },
+  "revision": 4
+}

@@ -1,0 +1,18 @@
+{
+  "id": 1887,
+  "title": "Te Reo o te Ao",
+  "genre": "Newspaper",
+  "firstYear": "1930",
+  "finalYear": "1930",
+  "district": "Wanganui District",
+  "idMarcControlNumber": "3871353",
+  "idNZNewspapersV1": "8008",
+  "isCurrent": false,
+  "placecode": "08-03",
+  "placename": "Whanganui",
+  "region": "Manawatu-Wanganui",
+  "sources": {
+    "2013-04-02T08:58:38.000Z": "Extracted from the New Zealand National Bibliography (MARC record 3871353) downloaded March 2013."
+  },
+  "revision": 2
+}

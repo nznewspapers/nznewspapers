@@ -1,0 +1,20 @@
+{
+  "id": 1366,
+  "title": "Mt. Albert Enterprise",
+  "genre": "Newspaper",
+  "firstYear": "1955",
+  "finalYear": "1962",
+  "district": "Auckland",
+  "frequency": "Monthly",
+  "idMarcControlNumber": "8169236",
+  "idNZNewspapersV1": "68092",
+  "isCurrent": false,
+  "placecode": "02-01-auckland",
+  "placename": "Auckland",
+  "region": "Auckland",
+  "sources": {
+    "2013-04-02T08:58:38.000Z": "Extracted from the New Zealand National Bibliography (MARC record 8169236) downloaded March 2013.",
+    "2014-05-07T09:02:14.000Z": "Modified by DataBot"
+  },
+  "revision": 4
+}

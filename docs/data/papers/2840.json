@@ -1,0 +1,18 @@
+{
+  "id": 2840,
+  "title": "Gorge Gazette",
+  "genre": "Periodical",
+  "firstYear": "1987",
+  "finalYear": "1994",
+  "district": "Palmerston North City",
+  "idMarcControlNumber": "3134045",
+  "idNZNewspapersV1": "10002",
+  "isCurrent": false,
+  "placecode": "08-05",
+  "placename": "Ashhurst",
+  "region": "Manawatu-Wanganui",
+  "sources": {
+    "2013-04-02T08:58:38.000Z": "Extracted from the New Zealand National Bibliography (MARC record 3134045) downloaded March 2013."
+  },
+  "revision": 2
+}

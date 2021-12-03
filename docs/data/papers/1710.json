@@ -1,0 +1,20 @@
+{
+  "id": 1710,
+  "title": "Poverty Bay Independent",
+  "genre": "Newspaper",
+  "firstYear": "1885",
+  "finalYear": "1888",
+  "district": "Gisborne District",
+  "frequency": "Three issues per week",
+  "idMarcControlNumber": "8181046",
+  "idNZNewspapersV1": "65137",
+  "isCurrent": false,
+  "placecode": "05-01",
+  "placename": "Gisborne",
+  "region": "Gisborne",
+  "sources": {
+    "2013-04-02T08:58:38.000Z": "Extracted from the New Zealand National Bibliography (MARC record 8181046) downloaded March 2013.",
+    "2014-05-07T09:04:33.000Z": "Modified by DataBot"
+  },
+  "revision": 4
+}

@@ -1,0 +1,21 @@
+{
+  "id": 2278,
+  "title": "Saturday Express (Blenheim)",
+  "genre": "Weekend Edition",
+  "firstYear": "1985",
+  "finalYear": "9999",
+  "district": "Marlborough District",
+  "frequency": "Weekly",
+  "idMarcControlNumber": "3534515",
+  "idNZNewspapersV1": "3015",
+  "isCurrent": true,
+  "placecode": "10-03",
+  "placename": "Blenheim",
+  "price": "Gratis",
+  "region": "Top of the South",
+  "sources": {
+    "2013-04-02T08:58:38.000Z": "Extracted from the New Zealand National Bibliography (MARC record 3534515) downloaded March 2013.",
+    "2014-05-15T04:29:02.000Z": "Modified by DataBot"
+  },
+  "revision": 6
+}

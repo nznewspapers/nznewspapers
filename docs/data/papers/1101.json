@@ -1,0 +1,20 @@
+{
+  "id": 1101,
+  "title": "South Auckland Courier (1939)",
+  "genre": "Newspaper",
+  "firstYear": "1939",
+  "finalYear": "1942",
+  "district": "Auckland",
+  "frequency": "Weekly",
+  "idMarcControlNumber": "8181791",
+  "idNZNewspapersV1": "70148",
+  "isCurrent": false,
+  "placecode": "02-01",
+  "placename": "Otahuhu",
+  "region": "Auckland",
+  "sources": {
+    "2013-04-02T08:58:38.000Z": "Extracted from the New Zealand National Bibliography (MARC record 8181791) downloaded March 2013.",
+    "2014-05-07T09:20:13.000Z": "Modified by DataBot"
+  },
+  "revision": 4
+}

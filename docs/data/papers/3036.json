@@ -1,0 +1,20 @@
+{
+  "id": 3036,
+  "title": "Napier Mail (Online)",
+  "genre": "Other",
+  "firstYear": "2000",
+  "finalYear": "9999",
+  "district": "Napier City",
+  "idMarcControlNumber": "9146740",
+  "idNZNewspapersV1": "5052",
+  "isCurrent": true,
+  "placecode": "unknown",
+  "placename": "Napier",
+  "region": "Hawke's Bay",
+  "urlCurrent": "http://www.napiermail.co.nz/",
+  "sources": {
+    "2013-04-02T08:58:38.000Z": "Extracted from the New Zealand National Bibliography (MARC record 9146740) downloaded March 2013.",
+    "2014-05-15T04:29:37.000Z": "Modified by DataBot"
+  },
+  "revision": 2
+}

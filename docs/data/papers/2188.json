@@ -1,0 +1,30 @@
+{
+  "id": 2188,
+  "title": "New Zealand Sunday Times (1986)",
+  "genre": "Newspaper",
+  "firstYear": "1986",
+  "finalYear": "1987",
+  "district": "Wellington City",
+  "frequency": "Weekly",
+  "idMarcControlNumber": "8172555",
+  "idNZNewspapersV1": "66118",
+  "isCurrent": false,
+  "placecode": "09-08-wellington",
+  "placename": "Wellington",
+  "region": "Wellington",
+  "links": {
+    "2085": {
+      "direction": "Continues",
+      "target-description": "New Zealand Times"
+    },
+    "2189": {
+      "direction": "Continued By",
+      "target-description": "Dominion SundayTimes"
+    }
+  },
+  "sources": {
+    "2013-04-02T08:58:38.000Z": "Extracted from the New Zealand National Bibliography (MARC record 8172555) downloaded March 2013.",
+    "2014-11-11T11:08:42.000Z": "Modified by gordon.paynter"
+  },
+  "revision": 6
+}

@@ -1,0 +1,23 @@
+{
+  "id": 2809,
+  "title": "Horizons",
+  "genre": "Periodical",
+  "firstYear": "1985",
+  "finalYear": "1986",
+  "district": "Kawerau District",
+  "frequency": "Monthly",
+  "idMarcControlNumber": "8157022",
+  "idNZNewspapersV1": "70091",
+  "isCurrent": false,
+  "placecode": "04-06",
+  "placename": "Kawerau",
+  "region": "Bay of Plenty",
+  "notes": {
+    "464004": "Monthly"
+  },
+  "sources": {
+    "2013-04-02T08:58:38.000Z": "Extracted from the New Zealand National Bibliography (MARC record 8157022) downloaded March 2013.",
+    "2014-05-07T09:01:51.000Z": "Modified by DataBot"
+  },
+  "revision": 6
+}

@@ -1,0 +1,19 @@
+{
+  "id": 2374,
+  "title": "North Canterbury Outlook",
+  "genre": "Newspaper",
+  "firstYear": "1988",
+  "finalYear": "1990",
+  "district": "Waimakariri District",
+  "idMarcControlNumber": "3534513",
+  "idNZNewspapersV1": "14302627",
+  "isCurrent": false,
+  "placecode": "12-04",
+  "placename": "Rangiora",
+  "region": "Canterbury",
+  "sources": {
+    "2013-04-02T08:58:38.000Z": "Extracted from the New Zealand National Bibliography (MARC record 3534513) downloaded March 2013.",
+    "2014-04-23T10:12:34.000Z": "Modified by MarcLoaderBot"
+  },
+  "revision": 2
+}

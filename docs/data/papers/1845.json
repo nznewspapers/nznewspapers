@@ -1,0 +1,28 @@
+{
+  "id": 1845,
+  "title": "South Taranaki Star",
+  "genre": "Newspaper",
+  "firstYear": "2004",
+  "finalYear": "9999",
+  "district": "South Taranaki District",
+  "frequency": "Weekly",
+  "idMarcControlNumber": "8730051",
+  "idNZNewspapersV1": "49",
+  "isCurrent": true,
+  "placecode": "07-03",
+  "placename": "Hawera",
+  "price": "Gratis",
+  "region": "Taranaki",
+  "urlCurrent": "http://www.fairfaxmedia.co.nz/ad-centre/newspaper-details.dot?id=14751",
+  "links": {
+    "1841": {
+      "direction": "Continues",
+      "target-description": "Star"
+    }
+  },
+  "sources": {
+    "2013-04-02T08:58:38.000Z": "Extracted from the New Zealand National Bibliography (MARC record 8730051) downloaded March 2013.",
+    "2014-05-07T09:51:10.000Z": "Modified by DataBot"
+  },
+  "revision": 7
+}

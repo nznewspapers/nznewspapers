@@ -1,0 +1,20 @@
+{
+  "id": 2644,
+  "title": "Tuapeka Press",
+  "genre": "Newspaper",
+  "firstYear": "1883",
+  "finalYear": "uuuu",
+  "district": "Clutha District",
+  "frequency": "Two issues per week",
+  "idMarcControlNumber": "8184106",
+  "idNZNewspapersV1": "66167",
+  "isCurrent": false,
+  "placecode": "13-04",
+  "placename": "Lawrence",
+  "region": "Otago",
+  "sources": {
+    "2013-04-02T08:58:38.000Z": "Extracted from the New Zealand National Bibliography (MARC record 8184106) downloaded March 2013.",
+    "2014-05-07T09:07:25.000Z": "Modified by DataBot"
+  },
+  "revision": 4
+}

@@ -1,0 +1,27 @@
+{
+  "id": 1995,
+  "title": "Wairarapa Midweek",
+  "genre": "Weekly Edition",
+  "firstYear": "19uu",
+  "finalYear": "9999",
+  "district": "Masterton District",
+  "frequency": "Weekly",
+  "idMarcControlNumber": "9130759",
+  "idNZNewspapersV1": "14048",
+  "isCurrent": true,
+  "placecode": "09-01",
+  "placename": "Masterton",
+  "price": "Gratis",
+  "region": "Wellington",
+  "links": {
+    "1989": {
+      "direction": "Is Edition Of",
+      "target-description": "Wairarapa Times-Age"
+    }
+  },
+  "sources": {
+    "2013-04-02T08:58:38.000Z": "Extracted from the New Zealand National Bibliography (MARC record 9130759) downloaded March 2013.",
+    "2014-05-15T04:30:06.000Z": "Modified by DataBot"
+  },
+  "revision": 7
+}

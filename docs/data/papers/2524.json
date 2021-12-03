@@ -1,0 +1,26 @@
+{
+  "id": 2524,
+  "title": "Timaru Post",
+  "genre": "Newspaper",
+  "firstYear": "1901",
+  "finalYear": "1939",
+  "district": "Timaru District",
+  "frequency": "Daily",
+  "idMarcControlNumber": "8183984",
+  "idNZNewspapersV1": "61131",
+  "isCurrent": false,
+  "placecode": "12-08",
+  "placename": "Timaru",
+  "region": "Canterbury",
+  "links": {
+    "2523": {
+      "direction": "Continues",
+      "target-description": "Morning Post"
+    }
+  },
+  "sources": {
+    "2013-04-02T08:58:38.000Z": "Extracted from the New Zealand National Bibliography (MARC record 8183984) downloaded March 2013.",
+    "2014-04-12T12:18:26.000Z": "Modified by gordon.paynter"
+  },
+  "revision": 5
+}

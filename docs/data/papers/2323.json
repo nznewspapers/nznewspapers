@@ -1,0 +1,31 @@
+{
+  "id": 2323,
+  "title": "West Coast Times [1865]",
+  "genre": "Newspaper",
+  "firstYear": "1865",
+  "finalYear": "1917",
+  "district": "Westland District",
+  "finalIssueDate": "1917-06-02",
+  "firstIssueDate": "1865-05-03",
+  "frequency": "Daily",
+  "idMarcControlNumber": "8187777",
+  "idNZNewspapersV1": "14046",
+  "idPapersPastCode": "WCT",
+  "isCurrent": false,
+  "placecode": "11-03",
+  "placename": "Hokitika",
+  "region": "West Coast",
+  "urlDigitized": "http://paperspast.natlib.govt.nz/cgi-bin/paperspast?a=d&cl=CL1.WCT",
+  "links": {
+    "2337": {
+      "direction": "Succeeding",
+      "relationship": "Absorbed by",
+      "target-description": "Hokitika Guardian"
+    }
+  },
+  "sources": {
+    "2013-04-02T08:58:38.000Z": "Extracted from the New Zealand National Bibliography (MARC record 8187777) downloaded March 2013.",
+    "2014-04-12T11:41:23.000Z": "Modified by gordon.paynter"
+  },
+  "revision": 11
+}

@@ -1,0 +1,27 @@
+{
+  "id": 2710,
+  "title": "New Zealand Herald (South Auckland Ed.)",
+  "genre": "Periodical",
+  "firstYear": "1976",
+  "finalYear": "1977",
+  "description": "Inset in New Zealand Herald.",
+  "district": "Auckland",
+  "frequency": "Weekly",
+  "idMarcControlNumber": "8172386",
+  "idNZNewspapersV1": "70121",
+  "isCurrent": false,
+  "placecode": "02-01",
+  "placename": "Auckland",
+  "region": "Auckland",
+  "links": {
+    "1073": {
+      "direction": "Is Edition Of",
+      "target-description": "New Zealand Herald"
+    }
+  },
+  "sources": {
+    "2013-04-02T08:58:38.000Z": "Extracted from the New Zealand National Bibliography (MARC record 8172386) downloaded March 2013.",
+    "2015-01-21T10:36:02.000Z": "Modified by gordon.paynter"
+  },
+  "revision": 7
+}

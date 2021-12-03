@@ -1,0 +1,30 @@
+{
+  "id": 1980,
+  "title": "Wairarapa Free Press",
+  "genre": "Newspaper",
+  "firstYear": "1878",
+  "finalYear": "1878",
+  "district": "Masterton District",
+  "frequency": "Three issues per week",
+  "idMarcControlNumber": "8185378",
+  "idNZNewspapersV1": "68158",
+  "isCurrent": false,
+  "placecode": "09-01",
+  "placename": "Masterton",
+  "region": "Wellington",
+  "links": {
+    "1979": {
+      "direction": "Continues",
+      "target-description": "Wairarapa Register"
+    },
+    "1981": {
+      "direction": "Continued By",
+      "target-description": "Wairarapa Daily"
+    }
+  },
+  "sources": {
+    "2013-04-02T08:58:38.000Z": "Extracted from the New Zealand National Bibliography (MARC record 8185378) downloaded March 2013.",
+    "2014-05-07T09:04:56.000Z": "Modified by DataBot"
+  },
+  "revision": 6
+}

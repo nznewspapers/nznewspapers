@@ -1,0 +1,26 @@
+{
+  "id": 2078,
+  "title": "Tatler",
+  "genre": "Newspaper",
+  "firstYear": "1949",
+  "finalYear": "uuuu",
+  "district": "Wellington City",
+  "frequency": "Monthly",
+  "idMarcControlNumber": "8183830",
+  "idNZNewspapersV1": "59147",
+  "isCurrent": false,
+  "placecode": "09-08",
+  "placename": "Tawa",
+  "region": "Wellington",
+  "links": {
+    "2077": {
+      "direction": "Continues",
+      "target-description": "Tawa Tatler"
+    }
+  },
+  "sources": {
+    "2013-04-02T08:58:38.000Z": "Extracted from the New Zealand National Bibliography (MARC record 8183830) downloaded March 2013.",
+    "2014-11-19T09:00:39.000Z": "Modified by gordon.paynter"
+  },
+  "revision": 5
+}

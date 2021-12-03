@@ -1,0 +1,37 @@
+{
+  "id": 1059,
+  "title": "Whangarei Report [1997]",
+  "genre": "Masthead",
+  "firstYear": "1997",
+  "finalYear": "2003",
+  "district": "Whangarei District",
+  "frequency": "Weekly",
+  "idMarcControlNumber": "4776331",
+  "idNZNewspapersV1": "5028",
+  "isCurrent": false,
+  "placecode": "01-02",
+  "placename": "Whangarei",
+  "price": "Gratis",
+  "region": "Northland",
+  "links": {
+    "1054": {
+      "direction": "Is Masthead Of",
+      "target-description": "Whangarei Report"
+    },
+    "1058": {
+      "direction": "Continues",
+      "relationship": "Continues",
+      "target-description": "Whangarei's First Report"
+    },
+    "1060": {
+      "direction": "Continued By",
+      "relationship": "Continued by",
+      "target-description": "Report"
+    }
+  },
+  "sources": {
+    "2013-04-02T08:58:38.000Z": "Extracted from the New Zealand National Bibliography (MARC record 4776331) downloaded March 2013.",
+    "2014-05-07T09:49:04.000Z": "Modified by DataBot"
+  },
+  "revision": 9
+}

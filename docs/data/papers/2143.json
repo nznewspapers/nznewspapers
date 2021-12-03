@@ -1,0 +1,18 @@
+{
+  "id": 2143,
+  "title": "Workers' Weekly",
+  "genre": "Newspaper",
+  "firstYear": "1931",
+  "finalYear": "1939",
+  "district": "Wellington City",
+  "idMarcControlNumber": "4752699",
+  "idNZNewspapersV1": "64028",
+  "isCurrent": false,
+  "placecode": "09-08-wellington",
+  "placename": "Wellington",
+  "region": "Wellington",
+  "sources": {
+    "2013-04-02T08:58:38.000Z": "Extracted from the New Zealand National Bibliography (MARC record 4752699) downloaded March 2013."
+  },
+  "revision": 2
+}

@@ -1,0 +1,20 @@
+{
+  "id": 2701,
+  "title": "Russell Lights",
+  "genre": "Periodical",
+  "firstYear": "1998",
+  "finalYear": "9999",
+  "district": "Far North District",
+  "frequency": "Fortnightly",
+  "idMarcControlNumber": "4856867",
+  "idNZNewspapersV1": "7026",
+  "isCurrent": true,
+  "placecode": "01-01",
+  "placename": "Russell",
+  "region": "Northland",
+  "sources": {
+    "2013-04-02T08:58:38.000Z": "Extracted from the New Zealand National Bibliography (MARC record 4856867) downloaded March 2013.",
+    "2014-05-07T08:56:13.000Z": "Modified by DataBot"
+  },
+  "revision": 4
+}

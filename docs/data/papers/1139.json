@@ -1,0 +1,20 @@
+{
+  "id": 1139,
+  "title": "Bays News",
+  "genre": "Newspaper",
+  "firstYear": "1963",
+  "finalYear": "1967",
+  "district": "Auckland",
+  "frequency": "Weekly",
+  "idMarcControlNumber": "8131916",
+  "idNZNewspapersV1": "62045",
+  "isCurrent": false,
+  "placecode": "02-01",
+  "placename": "Brown's Bay",
+  "region": "Auckland",
+  "sources": {
+    "2013-04-02T08:58:38.000Z": "Extracted from the New Zealand National Bibliography (MARC record 8131916) downloaded March 2013.",
+    "2014-05-07T09:14:10.000Z": "Modified by DataBot"
+  },
+  "revision": 4
+}

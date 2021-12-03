@@ -1,0 +1,30 @@
+{
+  "id": 1973,
+  "title": "Horowhenua & Kapiti News",
+  "genre": "Masthead",
+  "firstYear": "2001",
+  "finalYear": "2007",
+  "district": "Horowhenua District",
+  "frequency": "Weekly",
+  "idMarcControlNumber": "8946183",
+  "idNZNewspapersV1": "8038",
+  "isCurrent": false,
+  "placecode": "08-07",
+  "placename": "Levin",
+  "region": "Manawatu-Wanganui",
+  "links": {
+    "1971": {
+      "direction": "Is Masthead Of",
+      "target-description": "Horowhenua & Kapiti News"
+    },
+    "1972": {
+      "direction": "Continues",
+      "target-description": "Horowhenua News"
+    }
+  },
+  "sources": {
+    "2013-04-02T08:58:38.000Z": "Extracted from the New Zealand National Bibliography (MARC record 8946183) downloaded March 2013.",
+    "2014-05-31T09:33:30.000Z": "Modified by gordon.paynter"
+  },
+  "revision": 6
+}

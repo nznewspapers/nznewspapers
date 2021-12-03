@@ -1,0 +1,27 @@
+{
+  "id": 2838,
+  "title": "Central Districts Farmer",
+  "genre": "Periodical",
+  "firstYear": "1982",
+  "finalYear": "9999",
+  "district": "Palmerston North City",
+  "frequency": "Monthly",
+  "idMarcControlNumber": "4025531",
+  "idNZNewspapersV1": "1020",
+  "isCurrent": true,
+  "placecode": "08-05",
+  "placename": "Palmerston North",
+  "region": "Manawatu-Wanganui",
+  "links": {
+    "undefined-unknown": {
+      "direction": "Preceding",
+      "relationship": "Absorbed",
+      "target-description": "Manawatu farmer"
+    }
+  },
+  "sources": {
+    "2013-04-02T08:58:38.000Z": "Extracted from the New Zealand National Bibliography (MARC record 4025531) downloaded March 2013.",
+    "2014-05-07T09:00:11.000Z": "Modified by DataBot"
+  },
+  "revision": 6
+}

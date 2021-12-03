@@ -1,0 +1,24 @@
+{
+  "id": 1621,
+  "title": "Taupo Times",
+  "genre": "Newspaper",
+  "firstYear": "1952",
+  "finalYear": "9999",
+  "district": "Taupo District",
+  "frequency": "Four issues per week",
+  "idMarcControlNumber": "4542522",
+  "idNZNewspapersV1": "11020",
+  "isCurrent": true,
+  "placecode": "03-10",
+  "placename": "Taupo",
+  "region": "Waikato",
+  "urlCurrent": "http://www.stuff.co.nz/waikato-times/taupo-times",
+  "notes": {
+    "142001": "Digitial edition: http://fairfaxmedia.newspaperdirect.com/epaper/viewer.aspx?cid=1746"
+  },
+  "sources": {
+    "2013-04-02T08:58:38.000Z": "Extracted from the New Zealand National Bibliography (MARC record 4542522) downloaded March 2013.",
+    "2014-05-07T08:58:30.000Z": "Modified by DataBot"
+  },
+  "revision": 6
+}

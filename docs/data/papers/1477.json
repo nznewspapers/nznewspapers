@@ -1,0 +1,20 @@
+{
+  "id": 1477,
+  "title": "Coromandel Mail",
+  "genre": "Newspaper",
+  "firstYear": "1872",
+  "finalYear": "1882",
+  "district": "Thames-Coromandel District",
+  "frequency": "Weekly",
+  "idMarcControlNumber": "8136914",
+  "idNZNewspapersV1": "58049",
+  "isCurrent": false,
+  "placecode": "03-01",
+  "placename": "Coromandel",
+  "region": "Waikato",
+  "sources": {
+    "2013-04-02T08:58:38.000Z": "Extracted from the New Zealand National Bibliography (MARC record 8136914) downloaded March 2013.",
+    "2014-05-07T09:07:54.000Z": "Modified by DataBot"
+  },
+  "revision": 4
+}

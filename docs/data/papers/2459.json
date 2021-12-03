@@ -1,0 +1,30 @@
+{
+  "id": 2459,
+  "title": "Community News (Advertiser Edition)",
+  "genre": "Newspaper",
+  "firstYear": "1989",
+  "finalYear": "1996",
+  "district": "Christchurch City",
+  "idMarcControlNumber": "3526807",
+  "idNZNewspapersV1": "4005",
+  "isCurrent": false,
+  "placecode": "12-05-christchur",
+  "placename": "Christchurch",
+  "region": "Canterbury",
+  "links": {
+    "2470": {
+      "direction": "Succeeding",
+      "relationship": "Continued by",
+      "target-description": "News advertiser (Christchurch, N.Z. : 1996)"
+    },
+    "2498": {
+      "direction": "Preceding",
+      "relationship": "Continues",
+      "target-description": "News advertiser (Christchurch, N.Z.)"
+    }
+  },
+  "sources": {
+    "2013-04-02T08:58:38.000Z": "Extracted from the New Zealand National Bibliography (MARC record 3526807) downloaded March 2013."
+  },
+  "revision": 4
+}

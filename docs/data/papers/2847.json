@@ -1,0 +1,20 @@
+{
+  "id": 2847,
+  "title": "Kapiti Magazine",
+  "genre": "Periodical",
+  "firstYear": "1993",
+  "finalYear": "1995",
+  "district": "Kapiti Coast District",
+  "idMarcControlNumber": "4271758",
+  "idNZNewspapersV1": "5019",
+  "isCurrent": false,
+  "placecode": "09-02",
+  "placename": "Paraparaumu",
+  "price": "Gratis",
+  "region": "Wellington",
+  "sources": {
+    "2013-04-02T08:58:38.000Z": "Extracted from the New Zealand National Bibliography (MARC record 4271758) downloaded March 2013.",
+    "2014-05-07T09:48:36.000Z": "Modified by DataBot"
+  },
+  "revision": 4
+}

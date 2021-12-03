@@ -1,0 +1,34 @@
+{
+  "id": 2548,
+  "title": "North Otago Times",
+  "genre": "Newspaper",
+  "firstYear": "1872",
+  "finalYear": "1932",
+  "district": "Waitaki District",
+  "firstIssueDate": "1872-12-03",
+  "frequency": "Daily",
+  "idMarcControlNumber": "6963047",
+  "idNZNewspapersV1": "13036",
+  "idPapersPastCode": "NOT",
+  "isCurrent": false,
+  "placecode": "12-10",
+  "placename": "Oamaru",
+  "region": "Canterbury",
+  "urlDigitized": "http://paperspast.natlib.govt.nz/cgi-bin/paperspast?a=d&cl=CL1.NOT",
+  "links": {
+    "2547": {
+      "direction": "Preceding",
+      "relationship": "Continues",
+      "target-description": "Oamaru Times and Waitaki Reporter"
+    },
+    "2550": {
+      "direction": "Has Edition",
+      "target-description": "North Otago Standard"
+    }
+  },
+  "sources": {
+    "2013-04-02T08:58:38.000Z": "Extracted from the New Zealand National Bibliography (MARC record 6963047) downloaded March 2013.",
+    "2014-03-21T11:44:54.000Z": "Modified by DataBot"
+  },
+  "revision": 10
+}

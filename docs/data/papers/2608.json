@@ -1,0 +1,20 @@
+{
+  "id": 2608,
+  "title": "North East Valley Weekly Advertiser",
+  "genre": "Newspaper",
+  "firstYear": "188u",
+  "finalYear": "uuuu",
+  "district": "Dunedin City",
+  "frequency": "Weekly",
+  "idMarcControlNumber": "8173715",
+  "idNZNewspapersV1": "58108",
+  "isCurrent": false,
+  "placecode": "13-03",
+  "placename": "Dunedin",
+  "region": "Otago",
+  "sources": {
+    "2013-04-02T08:58:38.000Z": "Extracted from the New Zealand National Bibliography (MARC record 8173715) downloaded March 2013.",
+    "2014-05-07T09:18:32.000Z": "Modified by DataBot"
+  },
+  "revision": 4
+}

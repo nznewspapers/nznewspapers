@@ -1,0 +1,20 @@
+{
+  "id": 1179,
+  "title": "South Auckland Times",
+  "genre": "Newspaper",
+  "firstYear": "1978",
+  "finalYear": "1978",
+  "district": "Auckland",
+  "frequency": "Weekly",
+  "idMarcControlNumber": "8181816",
+  "idNZNewspapersV1": "69161",
+  "isCurrent": false,
+  "placecode": "02-01",
+  "placename": "Manukau City",
+  "region": "Auckland",
+  "sources": {
+    "2013-04-02T08:58:38.000Z": "Extracted from the New Zealand National Bibliography (MARC record 8181816) downloaded March 2013.",
+    "2014-05-07T09:20:21.000Z": "Modified by DataBot"
+  },
+  "revision": 4
+}

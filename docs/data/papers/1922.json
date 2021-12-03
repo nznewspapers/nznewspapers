@@ -1,0 +1,20 @@
+{
+  "id": 1922,
+  "title": "New Zealand Large Print Weekly",
+  "genre": "Newspaper",
+  "firstYear": "1980",
+  "finalYear": "1980",
+  "district": "Palmerston North City",
+  "frequency": "Weekly",
+  "idMarcControlNumber": "8172451",
+  "idNZNewspapersV1": "66117",
+  "isCurrent": false,
+  "placecode": "08-05",
+  "placename": "Palmerston North",
+  "region": "Manawatu-Wanganui",
+  "sources": {
+    "2013-04-02T08:58:38.000Z": "Extracted from the New Zealand National Bibliography (MARC record 8172451) downloaded March 2013.",
+    "2014-05-07T09:18:05.000Z": "Modified by DataBot"
+  },
+  "revision": 4
+}

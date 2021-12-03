@@ -1,0 +1,22 @@
+{
+  "id": 2687,
+  "title": "Southland Express",
+  "genre": "Newspaper",
+  "firstYear": "1992",
+  "finalYear": "9999",
+  "district": "Southland District",
+  "frequency": "Weekly",
+  "idMarcControlNumber": "4809599",
+  "idNZNewspapersV1": "2031",
+  "isCurrent": true,
+  "placecode": "14-01",
+  "placename": "Invercargill",
+  "price": "Gratis",
+  "region": "Southland",
+  "urlCurrent": "http://www.odt.co.nz/news/sources/southland-express",
+  "sources": {
+    "2013-04-02T08:58:38.000Z": "Extracted from the New Zealand National Bibliography (MARC record 4809599) downloaded March 2013.",
+    "2014-05-07T09:52:05.000Z": "Modified by gordon.paynter"
+  },
+  "revision": 6
+}

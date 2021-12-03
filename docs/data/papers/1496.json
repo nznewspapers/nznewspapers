@@ -1,0 +1,20 @@
+{
+  "id": 1496,
+  "title": "CPN : Covering the Coromandel Peninsula and Hauraki Plains",
+  "genre": "Newspaper",
+  "firstYear": "19uu",
+  "finalYear": "1998",
+  "district": "Thames-Coromandel District",
+  "frequency": "Weekly",
+  "idMarcControlNumber": "4897581",
+  "idNZNewspapersV1": "7027",
+  "isCurrent": false,
+  "placecode": "03-01",
+  "placename": "Thames",
+  "region": "Waikato",
+  "sources": {
+    "2013-04-02T08:58:38.000Z": "Extracted from the New Zealand National Bibliography (MARC record 4897581) downloaded March 2013.",
+    "2014-05-07T09:12:12.000Z": "Modified by DataBot"
+  },
+  "revision": 4
+}

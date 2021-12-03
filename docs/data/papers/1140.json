@@ -1,0 +1,20 @@
+{
+  "id": 1140,
+  "title": "Roskill and Onehunga News",
+  "genre": "Newspaper",
+  "firstYear": "1963",
+  "finalYear": "1970",
+  "district": "Auckland",
+  "frequency": "Weekly",
+  "idMarcControlNumber": "8181548",
+  "idNZNewspapersV1": "60129",
+  "isCurrent": false,
+  "placecode": "02-01",
+  "placename": "Mount Roskill",
+  "region": "Auckland",
+  "sources": {
+    "2013-04-02T08:58:38.000Z": "Extracted from the New Zealand National Bibliography (MARC record 8181548) downloaded March 2013.",
+    "2014-05-07T09:20:00.000Z": "Modified by DataBot"
+  },
+  "revision": 4
+}

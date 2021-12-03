@@ -1,0 +1,20 @@
+{
+  "id": 1281,
+  "title": "The Auckland Chronicle and New Zealand Colonist",
+  "genre": "Newspaper",
+  "firstYear": "1841",
+  "finalYear": "1845",
+  "district": "Auckland",
+  "firstIssueDate": "1841-11-08",
+  "idMarcControlNumber": "4870364",
+  "idNZNewspapersV1": "64034",
+  "isCurrent": false,
+  "placecode": "02-01-auckland",
+  "placename": "Auckland",
+  "region": "Auckland",
+  "sources": {
+    "2013-04-02T08:58:38.000Z": "Extracted from the New Zealand National Bibliography (MARC record 4870364) downloaded March 2013.",
+    "2013-10-27T18:57:23.000Z": "Modified by gordon.paynter"
+  },
+  "revision": 4
+}

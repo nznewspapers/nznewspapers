@@ -1,0 +1,18 @@
+{
+  "id": 2927,
+  "title": "Illustrated Press",
+  "genre": "Periodical",
+  "firstYear": "1868",
+  "finalYear": "1883",
+  "district": "Christchurch City",
+  "idMarcControlNumber": "4725522",
+  "idNZNewspapersV1": "72020",
+  "isCurrent": false,
+  "placecode": "12-05-christchur",
+  "placename": "Christchurch",
+  "region": "Canterbury",
+  "sources": {
+    "2013-04-02T08:58:38.000Z": "Extracted from the New Zealand National Bibliography (MARC record 4725522) downloaded March 2013."
+  },
+  "revision": 2
+}

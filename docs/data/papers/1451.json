@@ -1,0 +1,28 @@
+{
+  "id": 1451,
+  "title": "Yi Zhou Tong",
+  "genre": "Newspaper",
+  "firstYear": "2003",
+  "finalYear": "2007",
+  "district": "Auckland",
+  "frequency": "Weekly",
+  "idMarcControlNumber": "8328647",
+  "idNZNewspapersV1": "2051",
+  "isCurrent": false,
+  "placecode": "02-01-auckland",
+  "placename": "Auckland",
+  "price": "Gratis",
+  "region": "Auckland",
+  "links": {
+    "1445": {
+      "direction": "Preceding",
+      "relationship": "Continues",
+      "target-description": "Xin hua qiao si bao"
+    }
+  },
+  "sources": {
+    "2013-04-02T08:58:38.000Z": "Extracted from the New Zealand National Bibliography (MARC record 8328647) downloaded March 2013.",
+    "2014-05-07T09:50:32.000Z": "Modified by DataBot"
+  },
+  "revision": 7
+}

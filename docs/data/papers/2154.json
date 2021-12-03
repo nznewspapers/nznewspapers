@@ -1,0 +1,20 @@
+{
+  "id": 2154,
+  "title": "Naenae and Taita News Record",
+  "genre": "Newspaper",
+  "firstYear": "1956",
+  "finalYear": "1957",
+  "district": "Wellington City",
+  "frequency": "Fortnightly",
+  "idMarcControlNumber": "8169277",
+  "idNZNewspapersV1": "64112",
+  "isCurrent": false,
+  "placecode": "09-08-wellington",
+  "placename": "Wellington",
+  "region": "Wellington",
+  "sources": {
+    "2013-04-02T08:58:38.000Z": "Extracted from the New Zealand National Bibliography (MARC record 8169277) downloaded March 2013.",
+    "2014-05-07T08:57:20.000Z": "Modified by DataBot"
+  },
+  "revision": 4
+}

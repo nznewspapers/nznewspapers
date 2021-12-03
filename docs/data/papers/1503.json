@@ -1,0 +1,27 @@
+{
+  "id": 1503,
+  "title": "Waihi Miner and Hauraki Goldfield Gazette",
+  "genre": "Newspaper",
+  "firstYear": "1895",
+  "finalYear": "1901",
+  "district": "Hauraki District",
+  "frequency": "Two issues per week",
+  "idMarcControlNumber": "8185165",
+  "idNZNewspapersV1": "73024",
+  "isCurrent": false,
+  "placecode": "03-02",
+  "placename": "Waihi",
+  "region": "Waikato",
+  "links": {
+    "1504": {
+      "direction": "Succeeding",
+      "relationship": "Continued by",
+      "target-description": "Waihi Daily Telegraph"
+    }
+  },
+  "sources": {
+    "2013-04-02T08:58:38.000Z": "Extracted from the New Zealand National Bibliography (MARC record 8185165) downloaded March 2013.",
+    "2014-05-07T09:07:28.000Z": "Modified by DataBot"
+  },
+  "revision": 5
+}

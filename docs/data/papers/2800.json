@@ -1,0 +1,30 @@
+{
+  "id": 2800,
+  "title": "The Social Credit Guardian : the Official Journal of the New Zealand Social Credit Political League Inc",
+  "genre": "Periodical",
+  "firstYear": "1982",
+  "finalYear": "1985",
+  "district": "Tauranga City",
+  "idMarcControlNumber": "4698240",
+  "idNZNewspapersV1": "8018",
+  "isCurrent": false,
+  "placecode": "04-02",
+  "placename": "Tauranga",
+  "region": "Bay of Plenty",
+  "links": {
+    "2231": {
+      "direction": "Succeeding",
+      "relationship": "Continued by",
+      "target-description": "Guardian (Normanby, N.Z.)"
+    },
+    "undefined-unknown": {
+      "direction": "Preceding",
+      "relationship": "Continues",
+      "target-description": "SC guardian"
+    }
+  },
+  "sources": {
+    "2013-04-02T08:58:38.000Z": "Extracted from the New Zealand National Bibliography (MARC record 4698240) downloaded March 2013."
+  },
+  "revision": 4
+}

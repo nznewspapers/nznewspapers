@@ -1,0 +1,27 @@
+{
+  "id": 2440,
+  "title": "Papanui Herald",
+  "genre": "Newspaper",
+  "firstYear": "1962",
+  "finalYear": "1991",
+  "district": "Christchurch City",
+  "idMarcControlNumber": "3601379",
+  "idNZNewspapersV1": "5011",
+  "isCurrent": false,
+  "placecode": "12-05-christchur",
+  "placename": "Christchurch",
+  "price": "Gratis",
+  "region": "Canterbury",
+  "links": {
+    "undefined-unknown": {
+      "direction": "Preceding",
+      "relationship": "Continues",
+      "target-description": "Herald-gazette (Christchurch, N.Z.)"
+    }
+  },
+  "sources": {
+    "2013-04-02T08:58:38.000Z": "Extracted from the New Zealand National Bibliography (MARC record 3601379) downloaded March 2013.",
+    "2014-05-07T09:47:52.000Z": "Modified by DataBot"
+  },
+  "revision": 5
+}

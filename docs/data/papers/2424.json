@@ -1,0 +1,30 @@
+{
+  "id": 2424,
+  "title": "Truth",
+  "genre": "Newspaper",
+  "firstYear": "1893",
+  "finalYear": "1909",
+  "district": "Christchurch City",
+  "frequency": "Daily",
+  "idMarcControlNumber": "8184095",
+  "idNZNewspapersV1": "72149",
+  "isCurrent": false,
+  "placecode": "12-05-christchur",
+  "placename": "Christchurch",
+  "region": "Canterbury",
+  "links": {
+    "2417": {
+      "direction": "Continues",
+      "target-description": "Telegraph"
+    },
+    "2429": {
+      "direction": "Continued By",
+      "target-description": "Evening News"
+    }
+  },
+  "sources": {
+    "2013-04-02T08:58:38.000Z": "Extracted from the New Zealand National Bibliography (MARC record 8184095) downloaded March 2013.",
+    "2014-04-12T12:10:48.000Z": "Modified by DataBot"
+  },
+  "revision": 6
+}

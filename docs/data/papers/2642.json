@@ -1,0 +1,20 @@
+{
+  "id": 2642,
+  "title": "Tapanui Courier and Central Districts Gazette",
+  "genre": "Newspaper",
+  "firstYear": "1879",
+  "finalYear": "1998",
+  "district": "Clutha District",
+  "idMarcControlNumber": "4789177",
+  "idNZNewspapersV1": "7025",
+  "isCurrent": false,
+  "placecode": "13-04",
+  "placename": "Tapanui",
+  "price": "Gratis",
+  "region": "Otago",
+  "sources": {
+    "2013-04-02T08:58:38.000Z": "Extracted from the New Zealand National Bibliography (MARC record 4789177) downloaded March 2013.",
+    "2014-05-07T09:49:14.000Z": "Modified by DataBot"
+  },
+  "revision": 4
+}

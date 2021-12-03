@@ -1,0 +1,25 @@
+{
+  "id": 2813,
+  "title": "Turanganui a Kiwa Pipiwharauroa",
+  "genre": "Periodical",
+  "firstYear": "1993",
+  "finalYear": "2003",
+  "district": "Gisborne District",
+  "idMarcControlNumber": "4607047",
+  "idNZNewspapersV1": "10021",
+  "isCurrent": false,
+  "placecode": "05-01",
+  "placename": "Gisborne",
+  "region": "Gisborne",
+  "links": {
+    "2815": {
+      "direction": "Succeeding",
+      "relationship": "Continued by",
+      "target-description": "Pi?pi?wharauroa (Gisborne, N.Z.)"
+    }
+  },
+  "sources": {
+    "2013-04-02T08:58:38.000Z": "Extracted from the New Zealand National Bibliography (MARC record 4607047) downloaded March 2013."
+  },
+  "revision": 3
+}

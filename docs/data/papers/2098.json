@@ -1,0 +1,21 @@
+{
+  "id": 2098,
+  "title": "The New Zealand Spectator and Cook's Strait Guardian",
+  "genre": "Newspaper",
+  "firstYear": "1844",
+  "finalYear": "1865",
+  "district": "Wellington City",
+  "idMarcControlNumber": "4870004",
+  "idNZNewspapersV1": "4034",
+  "idPapersPastCode": "NZSCSG",
+  "isCurrent": false,
+  "placecode": "09-08-wellington",
+  "placename": "Wellington",
+  "region": "Wellington",
+  "urlDigitized": "http://paperspast.natlib.govt.nz/cgi-bin/paperspast?a=d&cl=CL1.NZSCSG&e=-------10--1----0--",
+  "sources": {
+    "2013-04-02T08:58:38.000Z": "Extracted from the New Zealand National Bibliography (MARC record 4870004) downloaded March 2013.",
+    "2013-09-21T11:27:56.000Z": "Modified by gordon.paynter"
+  },
+  "revision": 4
+}

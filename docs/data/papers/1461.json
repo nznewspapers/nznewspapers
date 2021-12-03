@@ -1,0 +1,27 @@
+{
+  "id": 1461,
+  "title": "Truth Weekender",
+  "genre": "Newspaper",
+  "firstYear": "2009",
+  "finalYear": "2012",
+  "district": "Auckland",
+  "frequency": "Weekly",
+  "idMarcControlNumber": "13064904",
+  "idNZNewspapersV1": "2064",
+  "isCurrent": false,
+  "placecode": "02-01-auckland",
+  "placename": "Auckland",
+  "region": "Auckland",
+  "links": {
+    "undefined-unknown": {
+      "direction": "Preceding",
+      "relationship": "Continues",
+      "target-description": "New Zealand truth weekly"
+    }
+  },
+  "sources": {
+    "2013-04-02T08:58:38.000Z": "Extracted from the New Zealand National Bibliography (MARC record 13064904) downloaded March 2013.",
+    "2014-05-07T09:09:30.000Z": "Modified by DataBot"
+  },
+  "revision": 5
+}

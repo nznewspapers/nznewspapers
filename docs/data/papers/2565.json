@@ -1,0 +1,27 @@
+{
+  "id": 2565,
+  "title": "Wairoa Free Press",
+  "genre": "Newspaper",
+  "firstYear": "1877",
+  "finalYear": "1880",
+  "district": "Central Otago District",
+  "frequency": "Two issues per week",
+  "idMarcControlNumber": "8417856",
+  "idNZNewspapersV1": "13043",
+  "isCurrent": false,
+  "placecode": "13-02",
+  "placename": "Clyde",
+  "region": "Otago",
+  "links": {
+    "undefined-unknown": {
+      "direction": "Succeeding",
+      "relationship": "Continued by",
+      "target-description": "Wairoa guardian"
+    }
+  },
+  "sources": {
+    "2013-04-02T08:58:38.000Z": "Extracted from the New Zealand National Bibliography (MARC record 8417856) downloaded March 2013.",
+    "2014-05-07T09:07:49.000Z": "Modified by DataBot"
+  },
+  "revision": 5
+}

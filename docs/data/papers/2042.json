@@ -1,0 +1,32 @@
+{
+  "id": 2042,
+  "title": "Citylife (Porirua Ed.)",
+  "genre": "Newspaper",
+  "firstYear": "2006",
+  "finalYear": "2009",
+  "district": "Porirua City",
+  "frequency": "Weekly",
+  "idMarcControlNumber": "10906056",
+  "idNZNewspapersV1": "14053",
+  "isCurrent": false,
+  "placecode": "09-06",
+  "placename": "Porirua",
+  "price": "Gratis",
+  "region": "Wellington",
+  "urlCurrent": "http://www.poriruacity.com/go.mv?city_life_porirua",
+  "links": {
+    "2040": {
+      "direction": "Continues",
+      "target-description": "Porirua City News"
+    },
+    "2043": {
+      "direction": "Continued By",
+      "target-description": "Citylife Porirua News"
+    }
+  },
+  "sources": {
+    "2013-04-02T08:58:38.000Z": "Extracted from the New Zealand National Bibliography (MARC record 10906056) downloaded March 2013.",
+    "2014-11-19T09:16:05.000Z": "Modified by gordon.paynter"
+  },
+  "revision": 8
+}

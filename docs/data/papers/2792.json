@@ -1,0 +1,27 @@
+{
+  "id": 2792,
+  "title": "Eastside Community News : Delivered to Homes Throughout Hamilton's Eastern Suburbs",
+  "genre": "Periodical",
+  "firstYear": "2005",
+  "finalYear": "2008",
+  "district": "Hamilton City",
+  "frequency": "Every two months",
+  "idMarcControlNumber": "12835594",
+  "idNZNewspapersV1": "10067",
+  "isCurrent": false,
+  "placecode": "03-05",
+  "placename": "Hamilton",
+  "region": "Waikato",
+  "links": {
+    "undefined-unknown": {
+      "direction": "Succeeding",
+      "relationship": "Continued by",
+      "target-description": "Eastsider"
+    }
+  },
+  "sources": {
+    "2013-04-02T08:58:38.000Z": "Extracted from the New Zealand National Bibliography (MARC record 12835594) downloaded March 2013.",
+    "2014-05-07T08:48:43.000Z": "Modified by DataBot"
+  },
+  "revision": 5
+}

@@ -1,0 +1,20 @@
+{
+  "id": 1792,
+  "title": "Taranaki News",
+  "genre": "Newspaper",
+  "firstYear": "1857",
+  "finalYear": "1875",
+  "district": "New Plymouth District",
+  "frequency": "Weekly",
+  "idMarcControlNumber": "8183670",
+  "idNZNewspapersV1": "61127",
+  "isCurrent": false,
+  "placecode": "07-01",
+  "placename": "New Plymouth",
+  "region": "Taranaki",
+  "sources": {
+    "2013-04-02T08:58:38.000Z": "Extracted from the New Zealand National Bibliography (MARC record 8183670) downloaded March 2013.",
+    "2014-05-07T09:20:59.000Z": "Modified by DataBot"
+  },
+  "revision": 4
+}

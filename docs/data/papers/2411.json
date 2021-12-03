@@ -1,0 +1,31 @@
+{
+  "id": 2411,
+  "title": "The Press",
+  "genre": "Newspaper",
+  "firstYear": "1861",
+  "finalYear": "9999",
+  "district": "Christchurch City",
+  "firstIssueDate": "1861-05-25",
+  "frequency": "Daily (except Sunday)",
+  "idMarcControlNumber": "3531175",
+  "idNZNewspapersV1": "3008",
+  "idPapersPastCode": "CHP",
+  "isCurrent": true,
+  "placecode": "12-05-christchur",
+  "placename": "Christchurch",
+  "region": "Canterbury",
+  "urlCurrent": "http://www.thepress.co.nz/",
+  "urlDigitized": "http://paperspast.natlib.govt.nz/cgi-bin/paperspast?a=d&cl=CL1.CHP",
+  "links": {
+    "2506": {
+      "direction": "Succeeding",
+      "relationship": "Unrelated",
+      "target-description": "Press (Christchurch, N.Z. : South Island ed.)"
+    }
+  },
+  "sources": {
+    "2013-04-02T08:58:38.000Z": "Extracted from the New Zealand National Bibliography (MARC record 3531175) downloaded March 2013.",
+    "2014-03-21T11:46:04.000Z": "Modified by DataBot"
+  },
+  "revision": 9
+}

@@ -1,0 +1,27 @@
+{
+  "id": 2522,
+  "title": "Geraldine Guardian",
+  "genre": "Newspaper",
+  "firstYear": "1883",
+  "finalYear": "1931",
+  "district": "Timaru District",
+  "frequency": "Three issues per week",
+  "idMarcControlNumber": "8142247",
+  "idNZNewspapersV1": "69101",
+  "isCurrent": false,
+  "placecode": "12-08",
+  "placename": "Geraldine",
+  "region": "Canterbury",
+  "links": {
+    "2520": {
+      "direction": "Succeeding",
+      "relationship": "Incoporated by",
+      "target-description": "Temuka Leader"
+    }
+  },
+  "sources": {
+    "2013-04-02T08:58:38.000Z": "Extracted from the New Zealand National Bibliography (MARC record 8142247) downloaded March 2013.",
+    "2014-05-07T09:04:13.000Z": "Modified by DataBot"
+  },
+  "revision": 5
+}

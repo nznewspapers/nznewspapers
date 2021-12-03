@@ -1,0 +1,36 @@
+{
+  "id": 1505,
+  "title": "Daily Telegraph",
+  "genre": "Newspaper",
+  "firstYear": "1908",
+  "finalYear": "1923",
+  "district": "Hauraki District",
+  "finalIssueDate": "1923-06-07",
+  "firstIssueDate": "1908-11-02",
+  "frequency": "Daily",
+  "idMarcControlNumber": "8137932",
+  "idNZNewspapersV1": "70065",
+  "idPapersPastCode": "WHDT",
+  "isCurrent": false,
+  "placecode": "03-02",
+  "placename": "Waihi",
+  "region": "Waikato",
+  "urlDigitized": "http://paperspast.natlib.govt.nz/cgi-bin/paperspast?a=d&cl=CL1.WHDT",
+  "links": {
+    "1504": {
+      "direction": "Preceding",
+      "relationship": "Continues",
+      "target-description": "Waihi Daily Telegraph"
+    },
+    "1507": {
+      "direction": "Succeeding",
+      "relationship": "Continued by",
+      "target-description": "Waihi Telegraph"
+    }
+  },
+  "sources": {
+    "2013-04-02T08:58:38.000Z": "Extracted from the New Zealand National Bibliography (MARC record 8137932) downloaded March 2013.",
+    "2014-03-21T11:33:33.000Z": "Modified by DataBot"
+  },
+  "revision": 12
+}

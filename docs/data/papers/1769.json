@@ -1,0 +1,35 @@
+{
+  "id": 1769,
+  "title": "News Bulletin",
+  "genre": "Newspaper",
+  "firstYear": "1931",
+  "finalYear": "1931",
+  "district": "Napier City",
+  "finalIssueDate": "1931-02-13",
+  "firstIssueDate": "1931-02-04",
+  "frequency": "Daily",
+  "idMarcControlNumber": "8173105",
+  "idNZNewspapersV1": "72097",
+  "isCurrent": false,
+  "placecode": "06-03",
+  "placename": "Napier",
+  "region": "Hawke's Bay",
+  "notes": {
+    "11750121": "Published for less than two weeks following the 1931 earthquake by the Hawke's Bay Herald and Daily Telegraph."
+  },
+  "links": {
+    "1757": {
+      "direction": "Is Edition Of",
+      "target-description": "The Hawke's Bay Herald"
+    },
+    "1762": {
+      "direction": "Is Edition Of",
+      "target-description": "The Daily Telegraph"
+    }
+  },
+  "sources": {
+    "2013-04-02T08:58:38.000Z": "Extracted from the New Zealand National Bibliography (MARC record 8173105) downloaded March 2013.",
+    "2014-04-10T10:46:37.000Z": "Modified by gordon.paynter"
+  },
+  "revision": 12
+}

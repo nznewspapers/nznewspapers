@@ -1,0 +1,20 @@
+{
+  "id": 1846,
+  "title": "Taumarunui Press",
+  "genre": "Newspaper",
+  "firstYear": "1906",
+  "finalYear": "1971",
+  "district": "Ruapehu District",
+  "frequency": "Weekly",
+  "idMarcControlNumber": "8183855",
+  "idNZNewspapersV1": "68141",
+  "isCurrent": false,
+  "placecode": "08-01",
+  "placename": "Taumarunui",
+  "region": "Manawatu-Wanganui",
+  "sources": {
+    "2013-04-02T08:58:38.000Z": "Extracted from the New Zealand National Bibliography (MARC record 8183855) downloaded March 2013.",
+    "2014-05-07T09:08:06.000Z": "Modified by DataBot"
+  },
+  "revision": 4
+}

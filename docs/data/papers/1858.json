@@ -1,0 +1,20 @@
+{
+  "id": 1858,
+  "title": "Press Weekend",
+  "genre": "Newspaper",
+  "firstYear": "1993",
+  "finalYear": "1993",
+  "district": "Ruapehu District",
+  "frequency": "Weekly",
+  "idMarcControlNumber": "4510712",
+  "idNZNewspapersV1": "8014",
+  "isCurrent": false,
+  "placecode": "08-01",
+  "placename": "Taumarunui",
+  "region": "Manawatu-Wanganui",
+  "sources": {
+    "2013-04-02T08:58:38.000Z": "Extracted from the New Zealand National Bibliography (MARC record 4510712) downloaded March 2013.",
+    "2014-05-07T09:11:24.000Z": "Modified by DataBot"
+  },
+  "revision": 4
+}

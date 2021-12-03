@@ -1,0 +1,20 @@
+{
+  "id": 2856,
+  "title": "Naenae Community News",
+  "genre": "Periodical",
+  "firstYear": "1949",
+  "finalYear": "19uu",
+  "district": "Hutt City",
+  "frequency": "Monthly",
+  "idMarcControlNumber": "8169278",
+  "idNZNewspapersV1": "10047",
+  "isCurrent": false,
+  "placecode": "09-07",
+  "placename": "Naenae",
+  "region": "Wellington",
+  "sources": {
+    "2013-04-02T08:58:38.000Z": "Extracted from the New Zealand National Bibliography (MARC record 8169278) downloaded March 2013.",
+    "2014-05-07T09:02:19.000Z": "Modified by DataBot"
+  },
+  "revision": 4
+}

@@ -1,0 +1,20 @@
+{
+  "id": 2152,
+  "title": "Sports Post",
+  "genre": "Newspaper",
+  "firstYear": "1948",
+  "finalYear": "1975",
+  "district": "Wellington City",
+  "frequency": "Weekly",
+  "idMarcControlNumber": "8181970",
+  "idNZNewspapersV1": "61121",
+  "isCurrent": false,
+  "placecode": "09-08-wellington",
+  "placename": "Wellington",
+  "region": "Wellington",
+  "sources": {
+    "2013-04-02T08:58:38.000Z": "Extracted from the New Zealand National Bibliography (MARC record 8181970) downloaded March 2013.",
+    "2014-05-07T09:20:32.000Z": "Modified by DataBot"
+  },
+  "revision": 4
+}

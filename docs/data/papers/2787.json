@@ -1,0 +1,20 @@
+{
+  "id": 2787,
+  "title": "Eastside Story",
+  "genre": "Periodical",
+  "firstYear": "1985",
+  "finalYear": "1986",
+  "district": "Hamilton City",
+  "frequency": "Every two months",
+  "idMarcControlNumber": "8138613",
+  "idNZNewspapersV1": "66066",
+  "isCurrent": false,
+  "placecode": "03-05",
+  "placename": "Hamilton",
+  "region": "Waikato",
+  "sources": {
+    "2013-04-02T08:58:38.000Z": "Extracted from the New Zealand National Bibliography (MARC record 8138613) downloaded March 2013.",
+    "2014-05-07T08:48:54.000Z": "Modified by DataBot"
+  },
+  "revision": 4
+}

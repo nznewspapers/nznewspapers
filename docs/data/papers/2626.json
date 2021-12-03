@@ -1,0 +1,20 @@
+{
+  "id": 2626,
+  "title": "Green Island Gazette",
+  "genre": "Newspaper",
+  "firstYear": "1975",
+  "finalYear": "1985",
+  "district": "Dunedin City",
+  "frequency": "Monthly",
+  "idMarcControlNumber": "8143976",
+  "idNZNewspapersV1": "70083",
+  "isCurrent": false,
+  "placecode": "13-03",
+  "placename": "Dunedin",
+  "region": "Otago",
+  "sources": {
+    "2013-04-02T08:58:38.000Z": "Extracted from the New Zealand National Bibliography (MARC record 8143976) downloaded March 2013.",
+    "2014-05-07T09:01:38.000Z": "Modified by DataBot"
+  },
+  "revision": 4
+}

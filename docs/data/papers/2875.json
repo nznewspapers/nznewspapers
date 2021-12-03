@@ -1,0 +1,20 @@
+{
+  "id": 2875,
+  "title": "John Bull's Register",
+  "genre": "Periodical",
+  "firstYear": "1917",
+  "finalYear": "1922",
+  "district": "Wellington City",
+  "frequency": "Monthly",
+  "idMarcControlNumber": "7208373",
+  "idNZNewspapersV1": "2045",
+  "isCurrent": false,
+  "placecode": "09-08-wellington",
+  "placename": "Wellington",
+  "region": "Wellington",
+  "sources": {
+    "2013-04-02T08:58:38.000Z": "Extracted from the New Zealand National Bibliography (MARC record 7208373) downloaded March 2013.",
+    "2014-05-07T09:01:02.000Z": "Modified by DataBot"
+  },
+  "revision": 4
+}

@@ -1,0 +1,33 @@
+{
+  "id": 2257,
+  "title": "Leader (Nelson Edition)",
+  "genre": "Newspaper",
+  "firstYear": "1993",
+  "finalYear": "9999",
+  "district": "Nelson City",
+  "idMarcControlNumber": "5058995",
+  "idNZNewspapersV1": "3035",
+  "isCurrent": true,
+  "placecode": "10-02",
+  "placename": "Nelson",
+  "price": "Gratis",
+  "region": "Top of the South",
+  "urlCurrent": "nelsonleader.realviewdigital.com/",
+  "links": {
+    "2904": {
+      "direction": "Preceding",
+      "relationship": "Formed by the union",
+      "target-description": "Motueka sun"
+    },
+    "2908": {
+      "direction": "Preceding",
+      "relationship": "Formed by the union",
+      "target-description": "Community leader (Nelson, N.Z.)"
+    }
+  },
+  "sources": {
+    "2013-04-02T08:58:38.000Z": "Extracted from the New Zealand National Bibliography (MARC record 5058995) downloaded March 2013.",
+    "2014-05-07T09:49:40.000Z": "Modified by DataBot"
+  },
+  "revision": 6
+}

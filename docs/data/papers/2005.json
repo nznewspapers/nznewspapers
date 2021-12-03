@@ -1,0 +1,25 @@
+{
+  "id": 2005,
+  "title": "Kapiti News",
+  "genre": "Newspaper",
+  "firstYear": "1981",
+  "finalYear": "1981",
+  "district": "Kapiti Coast District",
+  "idMarcControlNumber": "3429093",
+  "idNZNewspapersV1": "2005",
+  "isCurrent": false,
+  "placecode": "09-02",
+  "placename": "Paraparaumu",
+  "region": "Wellington",
+  "links": {
+    "2006": {
+      "direction": "Continued By",
+      "target-description": "Times"
+    }
+  },
+  "sources": {
+    "2013-04-02T08:58:38.000Z": "Extracted from the New Zealand National Bibliography (MARC record 3429093) downloaded March 2013.",
+    "2014-05-31T09:50:15.000Z": "Modified by gordon.paynter"
+  },
+  "revision": 3
+}

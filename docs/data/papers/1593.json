@@ -1,0 +1,20 @@
+{
+  "id": 1593,
+  "title": "Positive Times",
+  "genre": "Newspaper",
+  "firstYear": "199u",
+  "finalYear": "9999",
+  "district": "Hamilton City",
+  "idMarcControlNumber": "5807946",
+  "idNZNewspapersV1": "6036",
+  "isCurrent": true,
+  "placecode": "03-05",
+  "placename": "Hamilton",
+  "price": "Gratis",
+  "region": "Waikato",
+  "sources": {
+    "2013-04-02T08:58:38.000Z": "Extracted from the New Zealand National Bibliography (MARC record 5807946) downloaded March 2013.",
+    "2014-05-07T09:49:48.000Z": "Modified by DataBot"
+  },
+  "revision": 4
+}

@@ -1,0 +1,26 @@
+{
+  "id": 1041,
+  "title": "Northern Mail Weekly",
+  "genre": "Weekly Edition",
+  "firstYear": "1908",
+  "finalYear": "1913",
+  "district": "Whangarei District",
+  "frequency": "Weekly",
+  "idMarcControlNumber": "8176584",
+  "idNZNewspapersV1": "72106",
+  "isCurrent": false,
+  "placecode": "01-02",
+  "placename": "Whangarei",
+  "region": "Northland",
+  "links": {
+    "1040": {
+      "direction": "Is Edition Of",
+      "target-description": "Northern Mail"
+    }
+  },
+  "sources": {
+    "2013-04-02T08:58:38.000Z": "Extracted from the New Zealand National Bibliography (MARC record 8176584) downloaded March 2013.",
+    "2014-05-15T04:30:23.000Z": "Modified by DataBot"
+  },
+  "revision": 5
+}

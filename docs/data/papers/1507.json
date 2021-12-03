@@ -1,0 +1,32 @@
+{
+  "id": 1507,
+  "title": "Waihi Telegraph",
+  "genre": "Newspaper",
+  "firstYear": "1923",
+  "finalYear": "1951",
+  "district": "Hauraki District",
+  "frequency": "Weekly",
+  "idMarcControlNumber": "8185166",
+  "idNZNewspapersV1": "68153",
+  "isCurrent": false,
+  "placecode": "03-02",
+  "placename": "Waihi",
+  "region": "Waikato",
+  "links": {
+    "1505": {
+      "direction": "Preceding",
+      "relationship": "Continues",
+      "target-description": "Daily Telegraph"
+    },
+    "1508": {
+      "direction": "Succeeding",
+      "relationship": "Continued by",
+      "target-description": "Waihi Gazette"
+    }
+  },
+  "sources": {
+    "2013-04-02T08:58:38.000Z": "Extracted from the New Zealand National Bibliography (MARC record 8185166) downloaded March 2013.",
+    "2014-05-07T09:21:48.000Z": "Modified by DataBot"
+  },
+  "revision": 6
+}

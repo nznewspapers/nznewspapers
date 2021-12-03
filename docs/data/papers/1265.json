@@ -1,0 +1,51 @@
+{
+  "id": 1265,
+  "title": "The Aucklander City",
+  "genre": "Alternate Edition",
+  "firstYear": "2008",
+  "finalYear": "2010",
+  "district": "Auckland",
+  "frequency": "Weekly",
+  "idMarcControlNumber": "12391085",
+  "idNZNewspapersV1": "11056",
+  "isCurrent": false,
+  "placecode": "02-01",
+  "placename": "Auckland",
+  "region": "Auckland",
+  "links": {
+    "1245": {
+      "direction": "Preceding",
+      "relationship": "Formed by the union",
+      "target-description": "Aucklander (Central ed.)"
+    },
+    "1246": {
+      "direction": "Preceding",
+      "relationship": "Formed by the union",
+      "target-description": "Aucklander (City ed.)"
+    },
+    "1247": {
+      "direction": "Preceding",
+      "relationship": "Formed by the union",
+      "target-description": "Aucklander (East ed.)"
+    },
+    "1249": {
+      "direction": "Is Edition Of",
+      "target-description": "The Aucklander"
+    },
+    "1258": {
+      "direction": "Preceding",
+      "relationship": "Formed by the union",
+      "target-description": "Aucklander (Tamaki)"
+    },
+    "undefined-unknown": {
+      "direction": "Succeeding",
+      "relationship": "Continued by",
+      "target-description": "Aucklander.  Central"
+    }
+  },
+  "sources": {
+    "2013-04-02T08:58:38.000Z": "Extracted from the New Zealand National Bibliography (MARC record 12391085) downloaded March 2013.",
+    "2015-01-21T10:27:31.000Z": "Modified by gordon.paynter"
+  },
+  "revision": 10
+}

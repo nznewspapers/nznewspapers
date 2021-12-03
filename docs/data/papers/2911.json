@@ -1,0 +1,20 @@
+{
+  "id": 2911,
+  "title": "Westview",
+  "genre": "Periodical",
+  "firstYear": "1979",
+  "finalYear": "1979",
+  "district": "Grey District",
+  "frequency": "Monthly",
+  "idMarcControlNumber": "8946652",
+  "idNZNewspapersV1": "12040",
+  "isCurrent": false,
+  "placecode": "11-02",
+  "placename": "Greymouth",
+  "region": "West Coast",
+  "sources": {
+    "2013-04-02T08:58:38.000Z": "Extracted from the New Zealand National Bibliography (MARC record 8946652) downloaded March 2013.",
+    "2014-05-07T09:03:35.000Z": "Modified by DataBot"
+  },
+  "revision": 4
+}

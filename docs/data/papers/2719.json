@@ -1,0 +1,33 @@
+{
+  "id": 2719,
+  "title": "Mahurangi Matters : Your Local Community Newspaper",
+  "genre": "Periodical",
+  "firstYear": "2007",
+  "finalYear": "9999",
+  "district": "Auckland",
+  "frequency": "Two issues per month",
+  "idMarcControlNumber": "11496968",
+  "idNZNewspapersV1": "14056",
+  "isCurrent": true,
+  "placecode": "02-01",
+  "placename": "Warkworth",
+  "price": "Gratis",
+  "region": "Auckland",
+  "links": {
+    "2720": {
+      "direction": "Preceding",
+      "relationship": "Continues",
+      "target-description": "Local matters (Mahurangi, Matakana)"
+    },
+    "undefined-unknown": {
+      "direction": "Preceding",
+      "relationship": "Absorbed",
+      "target-description": "Northern matters"
+    }
+  },
+  "sources": {
+    "2013-04-02T08:58:38.000Z": "Extracted from the New Zealand National Bibliography (MARC record 11496968) downloaded March 2013.",
+    "2014-05-07T09:46:32.000Z": "Modified by DataBot"
+  },
+  "revision": 8
+}

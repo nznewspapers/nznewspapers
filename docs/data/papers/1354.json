@@ -1,0 +1,32 @@
+{
+  "id": 1354,
+  "title": "In Print",
+  "genre": "Newspaper",
+  "firstYear": "1941",
+  "finalYear": "1943",
+  "district": "Auckland",
+  "frequency": "Weekly",
+  "idMarcControlNumber": "4737133",
+  "idNZNewspapersV1": "2029",
+  "isCurrent": false,
+  "placecode": "02-01-auckland",
+  "placename": "Auckland",
+  "region": "Auckland",
+  "links": {
+    "1353": {
+      "direction": "Succeeding",
+      "relationship": "Absorbed by",
+      "target-description": "People's voice (Auckland, N.Z. : 1939)"
+    },
+    "undefined-unknown": {
+      "direction": "Preceding",
+      "relationship": "Absorbed",
+      "target-description": "Unity (Wellington, N.Z. : 1941)"
+    }
+  },
+  "sources": {
+    "2013-04-02T08:58:38.000Z": "Extracted from the New Zealand National Bibliography (MARC record 4737133) downloaded March 2013.",
+    "2014-05-07T09:11:39.000Z": "Modified by DataBot"
+  },
+  "revision": 6
+}

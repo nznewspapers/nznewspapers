@@ -1,0 +1,18 @@
+{
+  "id": 2851,
+  "title": "Te Ma?reikura",
+  "genre": "Periodical",
+  "firstYear": "1911",
+  "finalYear": "1913",
+  "district": "South Wairarapa District",
+  "idMarcControlNumber": "3105992",
+  "idNZNewspapersV1": "11001",
+  "isCurrent": false,
+  "placecode": "09-04",
+  "placename": "Greytown",
+  "region": "Wellington",
+  "sources": {
+    "2013-04-02T08:58:38.000Z": "Extracted from the New Zealand National Bibliography (MARC record 3105992) downloaded March 2013."
+  },
+  "revision": 2
+}

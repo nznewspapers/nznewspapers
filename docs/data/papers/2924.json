@@ -1,0 +1,21 @@
+{
+  "id": 2924,
+  "title": "iBall",
+  "genre": "Periodical",
+  "firstYear": "2003",
+  "finalYear": "2007",
+  "district": "Christchurch City",
+  "frequency": "Fortnightly",
+  "idMarcControlNumber": "10106566",
+  "idNZNewspapersV1": "8039",
+  "isCurrent": false,
+  "placecode": "12-05",
+  "placename": "Christchurch",
+  "price": "Gratis",
+  "region": "Canterbury",
+  "sources": {
+    "2013-04-02T08:58:38.000Z": "Extracted from the New Zealand National Bibliography (MARC record 10106566) downloaded March 2013.",
+    "2014-05-07T09:45:48.000Z": "Modified by gordon.paynter"
+  },
+  "revision": 6
+}

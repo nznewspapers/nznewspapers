@@ -1,0 +1,18 @@
+{
+  "id": 2462,
+  "title": "Christchurch Star Sunday",
+  "genre": "Newspaper",
+  "firstYear": "1990",
+  "finalYear": "1991",
+  "district": "Christchurch City",
+  "idMarcControlNumber": "8134909",
+  "idNZNewspapersV1": "66055",
+  "isCurrent": false,
+  "placecode": "12-05-christchur",
+  "placename": "Christchurch",
+  "region": "Canterbury",
+  "sources": {
+    "2013-04-02T08:58:38.000Z": "Extracted from the New Zealand National Bibliography (MARC record 8134909) downloaded March 2013."
+  },
+  "revision": 2
+}

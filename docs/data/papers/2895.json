@@ -1,0 +1,33 @@
+{
+  "id": 2895,
+  "title": "Tawa Times",
+  "genre": "Periodical",
+  "firstYear": "1997",
+  "finalYear": "2001",
+  "district": "Wellington City",
+  "frequency": "Fortnightly",
+  "idMarcControlNumber": "4828979",
+  "idNZNewspapersV1": "23",
+  "isCurrent": false,
+  "placecode": "09-08-wellington",
+  "placename": "Wellington",
+  "price": "Gratis",
+  "region": "Wellington",
+  "links": {
+    "2897": {
+      "direction": "Succeeding",
+      "relationship": "Merged",
+      "target-description": "Newlands/Paparangi post"
+    },
+    "2898": {
+      "direction": "Succeeding",
+      "relationship": "Merged",
+      "target-description": "Northern courier (Wellington, N.Z.)"
+    }
+  },
+  "sources": {
+    "2013-04-02T08:58:38.000Z": "Extracted from the New Zealand National Bibliography (MARC record 4828979) downloaded March 2013.",
+    "2014-05-07T09:49:24.000Z": "Modified by DataBot"
+  },
+  "revision": 8
+}

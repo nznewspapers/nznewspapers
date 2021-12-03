@@ -1,0 +1,27 @@
+{
+  "id": 1617,
+  "title": "Otorohanga Times",
+  "genre": "Newspaper",
+  "firstYear": "1912",
+  "finalYear": "1980",
+  "district": "Otorohanga District",
+  "frequency": "Weekly",
+  "idMarcControlNumber": "8177781",
+  "idNZNewspapersV1": "59126",
+  "isCurrent": false,
+  "placecode": "03-08",
+  "placename": "Otorohanga",
+  "region": "Waikato",
+  "links": {
+    "1620": {
+      "direction": "Succeeding",
+      "relationship": "Merged into",
+      "target-description": "Waitomo News"
+    }
+  },
+  "sources": {
+    "2013-04-02T08:58:38.000Z": "Extracted from the New Zealand National Bibliography (MARC record 8177781) downloaded March 2013.",
+    "2014-05-07T09:19:19.000Z": "Modified by DataBot"
+  },
+  "revision": 5
+}

@@ -1,0 +1,25 @@
+{
+  "id": 1894,
+  "title": "Wanganui Midweek",
+  "genre": "Newspaper",
+  "firstYear": "1988",
+  "finalYear": "9999",
+  "district": "Wanganui District",
+  "idMarcControlNumber": "3561163",
+  "idNZNewspapersV1": "1012",
+  "isCurrent": true,
+  "placecode": "08-03",
+  "placename": "Wanganui",
+  "region": "Manawatu-Wanganui",
+  "links": {
+    "undefined-unknown": {
+      "direction": "Preceding",
+      "relationship": "Formed by the union",
+      "target-description": "Herald Midweek"
+    }
+  },
+  "sources": {
+    "2013-04-02T08:58:38.000Z": "Extracted from the New Zealand National Bibliography (MARC record 3561163) downloaded March 2013."
+  },
+  "revision": 4
+}

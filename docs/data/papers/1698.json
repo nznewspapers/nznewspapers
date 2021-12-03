@@ -1,0 +1,33 @@
+{
+  "id": 1698,
+  "title": "Waka Maori o Niu Tirani",
+  "genre": "Newspaper",
+  "firstYear": "1878",
+  "finalYear": "1879",
+  "district": "Gisborne District",
+  "frequency": "Weekly",
+  "idMarcControlNumber": "4872878",
+  "idNZNewspapersV1": "2033",
+  "isCurrent": false,
+  "placecode": "05-01",
+  "placename": "Gisborne",
+  "region": "Gisborne",
+  "urlCurrent": "http://nzdl.org/cgi-bin/library?gg=_cgiarggg_&e=d-00000-00---0niupepa--00-0--0-10-0---0---0prompt-10---4-------0-1l--11-en-50---20-about---00-0-1-00-11-1-0utfZz-8-00&a=d&c=niupepa&cl=CL1.17",
+  "links": {
+    "2871": {
+      "direction": "Preceding",
+      "relationship": "Continues",
+      "target-description": "Waka Maori o Niu Tirani (Wellington, N.Z.)"
+    },
+    "undefined-unknown": {
+      "direction": "Succeeding",
+      "relationship": "Continued by",
+      "target-description": "Waka Maori o Aotearoa"
+    }
+  },
+  "sources": {
+    "2013-04-02T08:58:38.000Z": "Extracted from the New Zealand National Bibliography (MARC record 4872878) downloaded March 2013.",
+    "2014-05-07T09:12:09.000Z": "Modified by DataBot"
+  },
+  "revision": 6
+}

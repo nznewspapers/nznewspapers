@@ -1,0 +1,22 @@
+{
+  "id": 1286,
+  "title": "The Anglo-Maori Warder",
+  "genre": "Newspaper",
+  "firstYear": "1848",
+  "finalYear": "1848",
+  "district": "Auckland",
+  "firstIssueDate": "1848-04-25",
+  "frequency": "Weekly",
+  "idMarcControlNumber": "3716344",
+  "idNZNewspapersV1": "9010",
+  "isCurrent": false,
+  "placecode": "02-01-auckland",
+  "placename": "Auckland",
+  "region": "Auckland",
+  "urlCurrent": "http://nzdl.org/cgi-bin/library?gg=_cgiarggg_&e=d-00000-00---off-0niupepa--00-0--0-10-0---0---0prompt-10---4-------0-1l--11-en-50---20-about---00-0-1-00-0-0-11-1-0utfZz-8-00&a=d&c=niupepa&cl=CL1.2",
+  "sources": {
+    "2013-04-02T08:58:38.000Z": "Extracted from the New Zealand National Bibliography (MARC record 3716344) downloaded March 2013.",
+    "2014-05-07T09:11:05.000Z": "Modified by DataBot"
+  },
+  "revision": 6
+}

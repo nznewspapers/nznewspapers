@@ -1,0 +1,20 @@
+{
+  "id": 1103,
+  "title": "Manukau Progress",
+  "genre": "Newspaper",
+  "firstYear": "1946",
+  "finalYear": "1965",
+  "district": "Auckland",
+  "frequency": "Fortnightly",
+  "idMarcControlNumber": "8167241",
+  "idNZNewspapersV1": "68089",
+  "isCurrent": false,
+  "placecode": "02-01",
+  "placename": "Manukau City",
+  "region": "Auckland",
+  "sources": {
+    "2013-04-02T08:58:38.000Z": "Extracted from the New Zealand National Bibliography (MARC record 8167241) downloaded March 2013.",
+    "2014-05-07T08:57:15.000Z": "Modified by DataBot"
+  },
+  "revision": 4
+}

@@ -1,0 +1,31 @@
+{
+  "id": 1686,
+  "title": "Half sun",
+  "genre": "Masthead",
+  "firstYear": "1966",
+  "finalYear": "1966",
+  "district": "Kawerau District",
+  "frequency": "Weekly",
+  "idMarcControlNumber": "8156585",
+  "idNZNewspapersV1": "61069",
+  "isCurrent": false,
+  "placecode": "04-06",
+  "placename": "Kawerau",
+  "region": "Bay of Plenty",
+  "links": {
+    "1687": {
+      "direction": "Succeeding",
+      "relationship": "Continued by",
+      "target-description": "Sun"
+    },
+    "1688": {
+      "direction": "Is Masthead Of",
+      "target-description": "Sun"
+    }
+  },
+  "sources": {
+    "2013-04-02T08:58:38.000Z": "Extracted from the New Zealand National Bibliography (MARC record 8156585) downloaded March 2013.",
+    "2014-05-07T09:15:50.000Z": "Modified by DataBot"
+  },
+  "revision": 6
+}

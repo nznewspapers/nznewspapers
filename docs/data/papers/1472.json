@@ -1,0 +1,20 @@
+{
+  "id": 1472,
+  "title": "Times and Thames Miners' Advocate",
+  "genre": "Newspaper",
+  "firstYear": "1868",
+  "finalYear": "1870",
+  "district": "Thames-Coromandel District",
+  "frequency": "Daily",
+  "idMarcControlNumber": "8183999",
+  "idNZNewspapersV1": "73018",
+  "isCurrent": false,
+  "placecode": "03-01",
+  "placename": "Thames",
+  "region": "Waikato",
+  "sources": {
+    "2013-04-02T08:58:38.000Z": "Extracted from the New Zealand National Bibliography (MARC record 8183999) downloaded March 2013.",
+    "2014-03-27T09:58:22.000Z": "Modified by gordon.paynter"
+  },
+  "revision": 4
+}

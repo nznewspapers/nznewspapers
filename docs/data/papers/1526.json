@@ -1,0 +1,26 @@
+{
+  "id": 1526,
+  "title": "Waikato Independent",
+  "genre": "Newspaper",
+  "firstYear": "1904",
+  "finalYear": "1966",
+  "district": "Waikato District",
+  "frequency": "Three issues per week",
+  "idMarcControlNumber": "8185187",
+  "idNZNewspapersV1": "72156",
+  "isCurrent": false,
+  "placecode": "03-03",
+  "placename": "Cambridge",
+  "region": "Waikato",
+  "links": {
+    "1534": {
+      "direction": "Continued By",
+      "target-description": "Cambridge Independent"
+    }
+  },
+  "sources": {
+    "2013-04-02T08:58:38.000Z": "Extracted from the New Zealand National Bibliography (MARC record 8185187) downloaded March 2013.",
+    "2014-05-18T11:53:25.000Z": "Modified by gordon.paynter"
+  },
+  "revision": 5
+}

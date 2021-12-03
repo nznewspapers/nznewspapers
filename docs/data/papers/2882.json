@@ -1,0 +1,27 @@
+{
+  "id": 2882,
+  "title": "Northern Farm Review Incorporating Farming World : the Official Organ of Federated Farmers, Auckland Province",
+  "genre": "Periodical",
+  "firstYear": "1970",
+  "finalYear": "1970",
+  "district": "Wellington City",
+  "frequency": "Monthly",
+  "idMarcControlNumber": "13250693",
+  "idNZNewspapersV1": "8044",
+  "isCurrent": false,
+  "placecode": "09-08-wellington",
+  "placename": "Wellington",
+  "region": "Wellington",
+  "links": {
+    "2881": {
+      "direction": "Preceding",
+      "relationship": "Continues",
+      "target-description": "South Auckland farm review"
+    }
+  },
+  "sources": {
+    "2013-04-02T08:58:38.000Z": "Extracted from the New Zealand National Bibliography (MARC record 13250693) downloaded March 2013.",
+    "2014-05-07T08:59:52.000Z": "Modified by DataBot"
+  },
+  "revision": 5
+}

@@ -1,0 +1,26 @@
+{
+  "id": 1910,
+  "title": "Manawatu Times Weekly Edition",
+  "genre": "Weekly Edition",
+  "firstYear": "1889",
+  "finalYear": "1890",
+  "district": "Palmerston North City",
+  "frequency": "Weekly",
+  "idMarcControlNumber": "8164687",
+  "idNZNewspapersV1": "63092",
+  "isCurrent": false,
+  "placecode": "08-05",
+  "placename": "Palmerston North",
+  "region": "Manawatu-Wanganui",
+  "links": {
+    "1904": {
+      "direction": "Is Edition Of",
+      "target-description": "Manawatu Times"
+    }
+  },
+  "sources": {
+    "2013-04-02T08:58:38.000Z": "Extracted from the New Zealand National Bibliography (MARC record 8164687) downloaded March 2013.",
+    "2014-05-15T04:29:14.000Z": "Modified by DataBot"
+  },
+  "revision": 5
+}

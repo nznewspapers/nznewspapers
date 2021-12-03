@@ -1,0 +1,20 @@
+{
+  "id": 2620,
+  "title": "Southern News",
+  "genre": "Newspaper",
+  "firstYear": "1956",
+  "finalYear": "1956",
+  "district": "Dunedin City",
+  "frequency": "Fortnightly",
+  "idMarcControlNumber": "8181861",
+  "idNZNewspapersV1": "67144",
+  "isCurrent": false,
+  "placecode": "13-03",
+  "placename": "Dunedin",
+  "region": "Otago",
+  "sources": {
+    "2013-04-02T08:58:38.000Z": "Extracted from the New Zealand National Bibliography (MARC record 8181861) downloaded March 2013.",
+    "2014-05-07T08:57:52.000Z": "Modified by DataBot"
+  },
+  "revision": 4
+}

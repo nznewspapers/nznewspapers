@@ -1,0 +1,20 @@
+{
+  "id": 1099,
+  "title": "North Shore News",
+  "genre": "Newspaper",
+  "firstYear": "1933",
+  "finalYear": "1939",
+  "district": "Auckland",
+  "frequency": "Weekly",
+  "idMarcControlNumber": "8173723",
+  "idNZNewspapersV1": "72103",
+  "isCurrent": false,
+  "placecode": "02-01",
+  "placename": "Takapuna",
+  "region": "Auckland",
+  "sources": {
+    "2013-04-02T08:58:38.000Z": "Extracted from the New Zealand National Bibliography (MARC record 8173723) downloaded March 2013.",
+    "2014-05-07T09:18:40.000Z": "Modified by DataBot"
+  },
+  "revision": 4
+}

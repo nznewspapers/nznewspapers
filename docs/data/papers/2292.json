@@ -1,0 +1,30 @@
+{
+  "id": 2292,
+  "title": "Lyell Argus and Matakitaki Advertiser",
+  "genre": "Masthead",
+  "firstYear": "1873",
+  "finalYear": "1875",
+  "district": "Buller District",
+  "frequency": "Weekly",
+  "idMarcControlNumber": "8164627",
+  "idNZNewspapersV1": "58082",
+  "isCurrent": false,
+  "placecode": "11-01",
+  "placename": "Lyell",
+  "region": "West Coast",
+  "links": {
+    "2293": {
+      "direction": "Is Masthead Of",
+      "target-description": "Lyell Argus"
+    },
+    "2296": {
+      "direction": "Continued By",
+      "target-description": "Argus"
+    }
+  },
+  "sources": {
+    "2013-04-02T08:58:38.000Z": "Extracted from the New Zealand National Bibliography (MARC record 8164627) downloaded March 2013.",
+    "2014-05-16T04:13:32.000Z": "Modified by gordon.paynter"
+  },
+  "revision": 6
+}

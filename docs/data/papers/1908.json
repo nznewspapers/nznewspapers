@@ -1,0 +1,40 @@
+{
+  "id": 1908,
+  "title": "Manawatu Daily Times",
+  "genre": "Masthead",
+  "firstYear": "1882",
+  "finalYear": "1937",
+  "district": "Palmerston North City",
+  "finalIssueDate": "1937-01-22",
+  "firstIssueDate": "1882-10-24",
+  "frequency": "Daily",
+  "idMarcControlNumber": "8164662",
+  "idNZNewspapersV1": "60084",
+  "idPapersPastCode": "MT",
+  "isCurrent": false,
+  "placecode": "08-05",
+  "placename": "Palmerston North",
+  "region": "Manawatu-Wanganui",
+  "urlDigitized": "http://paperspast.natlib.govt.nz/cgi-bin/paperspast?a=d&cl=CL1.MT",
+  "links": {
+    "1903": {
+      "direction": "Preceding",
+      "relationship": "Continues",
+      "target-description": "Manawatu Times"
+    },
+    "1904": {
+      "direction": "Is Masthead Of",
+      "target-description": "Manawatu Times"
+    },
+    "1913": {
+      "direction": "Succeeding",
+      "relationship": "Continued by",
+      "target-description": "Times"
+    }
+  },
+  "sources": {
+    "2013-04-02T08:58:38.000Z": "Extracted from the New Zealand National Bibliography (MARC record 8164662) downloaded March 2013.",
+    "2014-03-21T11:37:22.000Z": "Modified by DataBot"
+  },
+  "revision": 13
+}

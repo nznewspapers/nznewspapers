@@ -1,0 +1,29 @@
+{
+  "id": 2242,
+  "title": "Illustrated Examiner",
+  "genre": "Minor Edition",
+  "firstYear": "1869",
+  "finalYear": "1869",
+  "alternateTitle": {
+    "550004": "Illustrated examiner: Summary for England"
+  },
+  "district": "Nelson City",
+  "frequency": "Monthly",
+  "idMarcControlNumber": "8158580",
+  "idNZNewspapersV1": "62077",
+  "isCurrent": false,
+  "placecode": "10-02",
+  "placename": "Nelson",
+  "region": "Top of the South",
+  "links": {
+    "2237": {
+      "direction": "Is Edition Of",
+      "target-description": "The Nelson Examiner"
+    }
+  },
+  "sources": {
+    "2013-04-02T08:58:38.000Z": "Extracted from the New Zealand National Bibliography (MARC record 8158580) downloaded March 2013.",
+    "2014-05-07T09:01:54.000Z": "Modified by DataBot"
+  },
+  "revision": 7
+}

@@ -1,0 +1,28 @@
+{
+  "id": 2319,
+  "title": "Coaster",
+  "genre": "Newspaper",
+  "firstYear": "2000",
+  "finalYear": "2001",
+  "district": "Grey District",
+  "frequency": "Weekly",
+  "idMarcControlNumber": "5524912",
+  "idNZNewspapersV1": "10040",
+  "isCurrent": false,
+  "placecode": "11-02",
+  "placename": "Greymouth",
+  "price": "Gratis",
+  "region": "West Coast",
+  "links": {
+    "2318": {
+      "direction": "Succeeding",
+      "relationship": "Absorbed by",
+      "target-description": "West Coast messenger"
+    }
+  },
+  "sources": {
+    "2013-04-02T08:58:38.000Z": "Extracted from the New Zealand National Bibliography (MARC record 5524912) downloaded March 2013.",
+    "2014-05-07T09:49:46.000Z": "Modified by DataBot"
+  },
+  "revision": 7
+}

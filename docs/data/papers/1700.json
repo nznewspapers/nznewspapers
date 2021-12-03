@@ -1,0 +1,26 @@
+{
+  "id": 1700,
+  "title": "Standard",
+  "genre": "Masthead",
+  "firstYear": "1880",
+  "finalYear": "1881",
+  "district": "Gisborne District",
+  "frequency": "Two issues per week",
+  "idMarcControlNumber": "8181981",
+  "idNZNewspapersV1": "61122",
+  "isCurrent": false,
+  "placecode": "05-01",
+  "placename": "Gisborne",
+  "region": "Gisborne",
+  "links": {
+    "1695": {
+      "direction": "Is Masthead Of",
+      "target-description": "Poverty Bay Standard"
+    }
+  },
+  "sources": {
+    "2013-04-02T08:58:38.000Z": "Extracted from the New Zealand National Bibliography (MARC record 8181981) downloaded March 2013.",
+    "2014-05-07T09:07:23.000Z": "Modified by DataBot"
+  },
+  "revision": 5
+}

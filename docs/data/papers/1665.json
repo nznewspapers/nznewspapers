@@ -1,0 +1,23 @@
+{
+  "id": 1665,
+  "title": "Whakatane Press",
+  "genre": "Newspaper",
+  "firstYear": "1915",
+  "finalYear": "1935",
+  "district": "Whakatane District",
+  "idNZNewspapersV1": "471001",
+  "isCurrent": false,
+  "placecode": "04-04",
+  "placename": "Whakatane",
+  "region": "Bay of Plenty",
+  "links": {
+    "1666": {
+      "direction": "Continued By",
+      "target-description": "Bay of Plenty Press"
+    }
+  },
+  "sources": {
+    "2014-11-11T10:13:38.000Z": "Modified by gordon.paynter"
+  },
+  "revision": 3
+}

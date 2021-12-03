@@ -1,0 +1,30 @@
+{
+  "id": 2654,
+  "title": "Southern News and Foveaux Straits' Herald",
+  "genre": "Masthead",
+  "firstYear": "1861",
+  "finalYear": "1862",
+  "district": "Southland District",
+  "frequency": "Weekly",
+  "idMarcControlNumber": "8181864",
+  "idNZNewspapersV1": "66146",
+  "isCurrent": false,
+  "placecode": "14-01",
+  "placename": "Invercargill",
+  "region": "Southland",
+  "links": {
+    "2655": {
+      "direction": "Is Masthead Of",
+      "target-description": "Southland Daily News"
+    },
+    "2657": {
+      "direction": "Continued By",
+      "target-description": "Southland News"
+    }
+  },
+  "sources": {
+    "2013-04-02T08:58:38.000Z": "Extracted from the New Zealand National Bibliography (MARC record 8181864) downloaded March 2013.",
+    "2014-05-07T09:20:26.000Z": "Modified by DataBot"
+  },
+  "revision": 6
+}

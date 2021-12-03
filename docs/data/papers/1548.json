@@ -1,0 +1,21 @@
+{
+  "id": 1548,
+  "title": "Raglan Chronicle",
+  "genre": "Newspaper",
+  "firstYear": "2004",
+  "finalYear": "9999",
+  "district": "Waikato District",
+  "frequency": "Weekly",
+  "idMarcControlNumber": "8417657",
+  "idNZNewspapersV1": "66193",
+  "isCurrent": true,
+  "placecode": "03-03",
+  "placename": "Raglan",
+  "price": "Gratis",
+  "region": "Waikato",
+  "sources": {
+    "2013-04-02T08:58:38.000Z": "Extracted from the New Zealand National Bibliography (MARC record 8417657) downloaded March 2013.",
+    "2014-05-07T09:50:40.000Z": "Modified by DataBot"
+  },
+  "revision": 6
+}

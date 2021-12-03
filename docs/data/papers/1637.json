@@ -1,0 +1,20 @@
+{
+  "id": 1637,
+  "title": "Evening News and East Coast Business Advertiser",
+  "genre": "Newspaper",
+  "firstYear": "1885",
+  "finalYear": "1887",
+  "district": "Tauranga City",
+  "frequency": "Three issues per week",
+  "idMarcControlNumber": "8141837",
+  "idNZNewspapersV1": "59074",
+  "isCurrent": false,
+  "placecode": "04-02",
+  "placename": "Tauranga",
+  "region": "Bay of Plenty",
+  "sources": {
+    "2013-04-02T08:58:38.000Z": "Extracted from the New Zealand National Bibliography (MARC record 8141837) downloaded March 2013.",
+    "2014-05-07T09:04:09.000Z": "Modified by DataBot"
+  },
+  "revision": 4
+}

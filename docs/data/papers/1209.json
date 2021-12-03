@@ -1,0 +1,27 @@
+{
+  "id": 1209,
+  "title": "Manukau Courier",
+  "genre": "Newspaper",
+  "firstYear": "1986",
+  "finalYear": "9999",
+  "district": "Auckland",
+  "frequency": "Two issues per week",
+  "idMarcControlNumber": "3562101",
+  "idNZNewspapersV1": "7009",
+  "isCurrent": true,
+  "placecode": "02-01",
+  "placename": "Manukau City",
+  "region": "Auckland",
+  "links": {
+    "undefined-unknown": {
+      "direction": "Preceding",
+      "relationship": "Formed by the union",
+      "target-description": "Courier (Manukau & Franklin ed.)"
+    }
+  },
+  "sources": {
+    "2013-04-02T08:58:38.000Z": "Extracted from the New Zealand National Bibliography (MARC record 3562101) downloaded March 2013.",
+    "2014-05-07T09:05:45.000Z": "Modified by DataBot"
+  },
+  "revision": 6
+}

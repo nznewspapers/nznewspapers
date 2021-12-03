@@ -1,0 +1,35 @@
+{
+  "id": 1518,
+  "title": "The Waikato Times [Ngaruawahia]",
+  "genre": "Masthead",
+  "firstYear": "1872",
+  "finalYear": "1968",
+  "district": "Waikato District",
+  "finalIssueDate": "1968-09-22",
+  "firstIssueDate": "1872-05-02",
+  "frequency": "Daily (except Sunday)",
+  "idMarcControlNumber": "6316581",
+  "idNZNewspapersV1": "5038",
+  "idPapersPastCode": "WT",
+  "isCurrent": false,
+  "placecode": "03-03",
+  "placename": "Ngaruawahia",
+  "region": "Waikato",
+  "urlDigitized": "http://paperspast.natlib.govt.nz/cgi-bin/paperspast?a=d&cl=CL1.WT",
+  "links": {
+    "1568": {
+      "direction": "Is Masthead Of",
+      "target-description": "The Waikato Times"
+    },
+    "1577": {
+      "direction": "Succeeding",
+      "relationship": "Continued by",
+      "target-description": "Times"
+    }
+  },
+  "sources": {
+    "2013-04-02T08:58:38.000Z": "Extracted from the New Zealand National Bibliography (MARC record 6316581) downloaded March 2013.",
+    "2014-04-10T09:31:38.000Z": "Modified by Linkerbot"
+  },
+  "revision": 12
+}

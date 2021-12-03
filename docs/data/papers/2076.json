@@ -1,0 +1,19 @@
+{
+  "id": 2076,
+  "title": "Unemployed Leader",
+  "genre": "Newspaper",
+  "firstYear": "1935",
+  "finalYear": "19uu",
+  "district": "Wellington City",
+  "idMarcControlNumber": "9594245",
+  "idNZNewspapersV1": "14312626",
+  "isCurrent": false,
+  "placecode": "09-08",
+  "placename": "Wellington",
+  "region": "Wellington",
+  "sources": {
+    "2013-04-02T08:58:38.000Z": "Extracted from the New Zealand National Bibliography (MARC record 9594245) downloaded March 2013.",
+    "2014-04-23T10:13:26.000Z": "Modified by MarcLoaderBot"
+  },
+  "revision": 2
+}

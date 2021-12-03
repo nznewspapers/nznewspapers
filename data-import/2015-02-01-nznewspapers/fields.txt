@@ -1,0 +1,2327 @@
+Id	Newspaper Id	Field	Value	Is Auto	Is Modified
+33004	8017	First Issue Date	1861-11-15	false	false
+41003	13036	Papers Past Code	NOT	false	false
+43001	2007	First Issue Date	21 Feb 1938	false	false
+43002	13036	First Issue Date	1872-12-03	false	false
+46001	8017	Papers Past Code	ODT	false	false
+49001	4036	Papers Past Code	NZH	false	false
+50001	4036	First Issue Date	1863-11-13	false	false
+53001	52001	First Issue Date	1876-07-21	false	false
+54001	52001	Papers Past Code	AMBPA	false	false
+57001	6018	Papers Past Code	DSC	false	false
+79001	10043	Papers Past Code	NOT	false	false
+79002	6040	Papers Past Code	NZABIG	false	false
+80002	10043	First Issue Date	1864-02-25	false	false
+82001	10043	Final Issue Date	1872-11-29	false	false
+96004	9003	Papers Past Code	AS	false	false
+96005	69065	Papers Past Code	BPB	false	false
+97005	68053	Papers Past Code	AS	false	false
+97009	1026	Papers Past Code	BOPT	false	false
+98011	3041	Papers Past Code	IT	false	false
+98013	59101	Note	Also published in Lawrence.	false	false
+98018	8027	Papers Past Code	TAN	false	false
+100005	12006	First Issue Date	1966-04-04	false	false
+100007	12030	Papers Past Code	BA	false	false
+101007	4028	Papers Past Code	AG	false	false
+101018	5039	Papers Past Code	TAN	false	false
+102015	2048	Note	Place Tokomairiro until 1907.	false	false
+103005	2048	Papers Past Code	BH	false	false
+103006	2048	First Issue Date	1864-04-14	false	false
+104003	4028	First Issue Date	1887-01-01 	false	false
+104004	4028	Note	Independent	false	false
+104008	1026	First Issue Date	1872-09-04	false	false
+107010	13009	Note	Record for microfilm edition.	false	false
+108004	68053	First Issue Date	1870-01-08	false	false
+108006	52001	Note	Independent	false	false
+108007	2048	Final Issue Date	1971-10-07	false	false
+110005	68053	Final Issue Date	1887-04-12	false	false
+110008	12030	First Issue Date	1888-05-08	false	false
+114001	12030	Final Issue Date	1901-10-07	false	false
+115002	5043	Papers Past Code	BA	false	false
+118001	5043	First Issue Date	1901-10-08	false	false
+119002	5043	Final Issue Date	1912-04-30	false	false
+121004	6018	First Issue Date	1862-05-20	false	false
+121005	6018	Description	1876-12-30	false	false
+121006	3032	First Issue Date	1907-09-26	false	false
+122001	6009	Papers Past Code	CL	false	false
+122003	6008	Papers Past Code	DTN	false	false
+122004	6008	Final Issue Date	1999-05-02	false	false
+122008	13030	Final Issue Date	1939-10-14	false	false
+123015	4002	Papers Past Code	HBH	false	false
+124001	6009	First Issue Date	1874-07-09	false	false
+124003	1035	Papers Past Code	NEM	false	false
+124006	6008	First Issue Date	1871-02-01	false	false
+124007	10023	First Issue Date	1865-02-08	false	false
+125008	66067	Papers Past Code	EG	false	false
+125009	66067	First Issue Date	1880-07-23	false	false
+125013	8032	Papers Past Code	HNS	false	false
+126001	14043	Papers Past Code	TC	false	false
+126003	4032	First Issue Date	1843-04-22	false	false
+126006	66067	Final Issue Date	1981-04-29	false	false
+127002	14043	First Issue Date	1857-10-23	false	false
+127003	1035	Final Issue Date	1995-06-10	false	false
+127005	4032	Final Issue Date	1862-05-16	false	false
+127013	9020	First Issue Date	1865-11-14	false	false
+128001	14043	Final Issue Date	1920-05-01	false	false
+128004	3032	Final Issue Date	2002-07-06	false	false
+128007	13030	Papers Past Code	FS	false	false
+129001	1035	First Issue Date	1866-03-05	false	false
+129011	9020	Papers Past Code	GRA	false	false
+130003	3032	Papers Past Code	DOM	false	false
+130006	1045	First Issue Date	1900-07-07	false	false
+131004	13030	First Issue Date	1882-06-17	false	false
+131006	8032	First Issue Date	1880-04-10	false	false
+132003	4032	Papers Past Code	DSC	false	false
+132005	1041	First Issue Date	2002-07-08	false	false
+133003	10023	Papers Past Code	EP	false	false
+134013	1045	Papers Past Code	NZFL	false	false
+134014	1045	Final Issue Date	1960-11-02	false	false
+135003	10023	Final Issue Date	2002-07-06	false	false
+136004	8032	Final Issue Date	1924-06-10	false	false
+136005	4002	Final Issue Date	1937-01-15	false	false
+137007	68024	Final Issue Date	1952-03-12	false	false
+137008	6003	Papers Past Code	LT	false	false
+138001	9020	Final Issue Date	1966-02-23	false	false
+139001	4002	First Issue Date	1857-09-24	false	false
+141003	8006	Note	Digital edition: http://www.pressdisplay.com/pressdisplay/viewer.aspx?cid=1862	false	false
+141004	2042	First Issue Date	1865-02-06	false	false
+141007	58078	First Issue Date	1917-01-20	false	false
+141009	14005	Papers Past Code	HN	false	false
+141011	141010	Papers Past Code	KWE	false	false
+142001	11020	Note	Digitial edition: http://fairfaxmedia.newspaperdirect.com/epaper/viewer.aspx?cid=1746	false	false
+142006	68024	Papers Past Code	KWE	false	false
+145002	8006	Note	Some issues accompanied by Central South Island Farmer (quarterly).	false	false
+145007	70092	Final Issue Date	1917-01-18	false	false
+146006	14005	First Issue Date	1927-04-01	false	false
+146008	141012	Papers Past Code	MH	false	false
+148004	2042	Description	1868-12-28	false	false
+148008	141012	First Issue Date	1878-08-27	false	false
+149007	14005	Note	Digital Edition: fairfaxmedia.newspaperdirect.com/epaper/viewer.aspx?cid=1829	false	false
+149010	66104	First Issue Date	1880-11-29	false	false
+152003	2042	Papers Past Code	HBWT	false	false
+152006	6003	First Issue Date	1851-01-11	false	false
+152007	6003	Final Issue Date	1929-07-31	false	false
+153005	141010	Final Issue Date	1914-03-25	false	false
+153008	66104	Papers Past Code	MS	false	false
+154002	70092	Papers Past Code	HC	false	false
+154003	58078	Papers Past Code	HC	false	false
+155002	68024	First Issue Date	1914-04-03	false	false
+155004	66104	Final Issue Date	1886-05-03	false	false
+156016	62114	Papers Past Code	OSWCC	false	false
+156017	62114	First Issue Date	1905-05-03	false	false
+158015	62114	Final Issue Date	1946-05-07	false	false
+159011	68151	Papers Past Code	VT	false	false
+160010	68151	Final Issue Date	1841-09-15	false	false
+164015	68151	First Issue Date	1841-09-15	false	false
+171018	14020	Papers Past Code	MW	false	false
+171019	14020	Final Issue Date	1924-01-30	false	false
+173001	69185	Final Issue Date	1875-09-29	false	false
+173003	1029	Papers Past Code	ME	false	false
+174003	5022	First Issue Date	1842-03-12	false	false
+174004	5022	Final Issue Date	1855-03-28	false	false
+175001	14020	First Issue Date	1910-09-15	false	false
+177001	5005	Papers Past Code	MEX	false	false
+178002	5005	First Issue Date	1866-04-21	false	false
+179002	5005	Note	Saturday Edition is called 'Saturday Express'.	false	false
+179003	1029	First Issue Date	1878-05-10	false	false
+179004	5022	Papers Past Code	NENZC	false	false
+202002	1034	Papers Past Code	NZGWS	false	false
+203002	201002	Papers Past Code	NZABIG	false	false
+204003	2027	First Issue Date	1840-08-22	false	false
+206002	201002	Final Issue Date	1843-08-01	false	false
+206003	3027	First Issue Date	1839-08-21	false	false
+207005	2027	Final Issue Date	1840-11-21	false	false
+208001	201002	First Issue Date	1842-08-02	false	false
+210003	3027	Final Issue Date	1840-08-15	false	false
+211001	3027	Papers Past Code	NZGWS	false	false
+211002	2027	Papers Past Code	NZGWS	false	false
+214002	1034	First Issue Date	1840-11-28	false	false
+214003	1034	Final Issue Date	1844-09-25	false	false
+215002	64119	First Issue Date	1878-04-29	false	false
+217001	64119	Final Issue Date	1880-02-17	false	false
+218002	63034	Description	Record for a microfilm copy.	false	false
+219001	12002	Papers Past Code	NZ	false	false
+219002	12002	First Issue Date	1845-06-07	false	false
+221001	12002	Final Issue Date	1866-05-02	false	false
+223002	4008	Papers Past Code	NA	false	false
+225003	70116	Papers Past Code	NZTR	false	false
+227001	4008	First Issue Date	1877-06-06	false	false
+228002	14034	Papers Past Code	TO	false	false
+229002	14034	Final Issue Date	1954-11-10	false	false
+230001	14034	First Issue Date	1890-01-25	false	false
+232001	11042	Papers Past Code	TO	false	false
+233002	13032	Final Issue Date	1885-04-04	false	false
+235001	11042	First Issue Date	1885-04-11	false	false
+236002	13032	First Issue Date	1880-09-18	false	false
+237001	11042	Final Issue Date	1890-01-18	false	false
+237002	13032	Papers Past Code	TO	false	false
+244002	65044	Final Issue Date	1888-05-12	false	false
+245002	60054	First Issue Date	1884-07-03	false	false
+252001	69089	First Issue Date	1885-05-16	false	false
+255001	4052	Papers Past Code	OG	false	false
+256004	259004	Papers Past Code	THS	false	false
+257001	4052	First Issue Date	1891-12-19	false	false
+258001	4052	Final Issue Date	1921-07-29	false	false
+258003	4012	Final Issue Date	1998-08-25	false	false
+258005	67158	Final Issue Date	1912-11-25	false	false
+259003	4012	First Issue Date	1893-07-15	false	false
+264005	67158	Papers Past Code	THA	false	false
+266004	259004	Final Issue Date	1893-07-14	false	false
+266006	67158	First Issue Date	1868-04-11	false	false
+268001	4012	Papers Past Code	THS	false	false
+270001	19002	Papers Past Code	OW	false	false
+271002	19002	First Issue Date	1851-02-08	false	false
+271004	10048	Papers Past Code	OO	false	false
+271005	6037	First Issue Date	1874-01-05	false	false
+273001	19002	Final Issue Date	1932-06-28	false	false
+275001	10048	First Issue Date	1889-08-17	false	false
+278001	6037	Papers Past Code	PBH	false	false
+280007	5046	Papers Past Code	TT	false	false
+286001	7013	Description	Friday supplement to Gisborne Herald	false	false
+286002	11011	Description	Supplement to Gisborne Herald	false	false
+293001	3008	Papers Past Code	CHP	false	false
+293002	3008	First Issue Date	1861-05-25	false	false
+295001	10049	Papers Past Code	ROTWKG	false	false
+295002	10049	First Issue Date	1901-03-29	false	false
+298003	3030	Papers Past Code	ST	false	false
+299001	10049	Description	1964-01-29	false	false
+302002	5044	Description	1862-11-02	false	false
+302004	13035	First Issue Date	1868-05-14	false	false
+304001	3030	First Issue Date	1864-06-02	false	false
+304002	5044	Papers Past Code	ST	false	false
+304003	13035	Papers Past Code	TS	false	false
+307001	5044	Final Issue Date	1864-03-07	false	false
+310002	5046	First Issue Date	1868-02-15	false	false
+311002	3003	Papers Past Code	TH	false	false
+312002	13021	First Issue Date	1864-06-11	false	false
+313001	3003	First Issue Date	1852-08-04	false	false
+313003	8027	First Issue Date	1883-06-09	false	false
+313004	5039	Final Issue Date	1917-04-27	false	false
+313005	5046	Final Issue Date	1941-11-26	false	false
+315002	11044	Papers Past Code	TPT	false	false
+316001	8027	Final Issue Date	1885-10-10	false	false
+316002	13021	Papers Past Code	THD	false	false
+317002	5039	First Issue Date	1885-10-17	false	false
+317003	11044	First Issue Date	1911-02-06	false	false
+323002	59148	First Issue Date	1917-04-30	false	false
+332001	72153	Papers Past Code	UHWR	false	false
+334001	72153	First Issue Date	1935-12-11	false	false
+334002	5038	Final Issue Date	1968-09-22	false	false
+335002	5038	First Issue Date	1872-05-02	false	false
+336001	72153	Final Issue Date	1939-02-17	false	false
+339001	5038	Papers Past Code	WT	false	false
+341002	12038	Note	Duplicate record	false	false
+346003	61140	Final Issue Date	1892-03-14	false	false
+346004	4053	Final Issue Date	1938-03-31	false	false
+348006	4053	Papers Past Code	WDT	false	false
+350002	14032	First Issue Date	1898-05-28	false	false
+351008	63155	Papers Past Code	WHDT	false	false
+353002	14032	Papers Past Code	WDA	false	false
+353003	13007	First Issue Date	1980-01-16	false	false
+354003	61140	Papers Past Code	WDT	false	false
+355002	13007	Final Issue Date	2012-07-25	false	false
+355004	63155	Final Issue Date	1908-10-31	false	false
+357001	61140	First Issue Date	1878-11-04	false	false
+357003	4053	First Issue Date	1892-03-15	false	false
+360001	10005	Papers Past Code	WC	false	false
+360002	10005	First Issue Date	1856-09-18	false	false
+360003	7039	Final Issue Date	1876-03-23	false	false
+363001	7039	Papers Past Code	WH	false	false
+365001	7039	First Issue Date	1867-06-03	false	false
+369001	14033	Papers Past Code	WH	false	false
+370001	14033	First Issue Date	1876-03-24	false	false
+373001	8023	Papers Past Code	WI	false	false
+373002	5025	First Issue Date	1874-06-01	false	false
+374002	8023	Final Issue Date	1874-05-30	false	false
+374004	14046	First Issue Date	1865-05-03	false	false
+374009	68086	Final Issue Date	1882-10-23	false	false
+375002	5025	Papers Past Code	WI	false	false
+375011	378003	Note	Numerous versions of The Aucklander were published for different parts of Auckland. These changed every few years.	false	false
+376001	8023	First Issue Date	1845-04-02	false	false
+380007	60084	Final Issue Date	1937-01-22	false	false
+381002	14046	Papers Past Code	WCT	false	false
+381007	66090	Papers Past Code	HVI	false	false
+381008	70065	First Issue Date	1908-11-02	false	false
+381012	60084	First Issue Date	1882-10-24	false	false
+382003	14046	Final Issue Date	1917-06-02	false	false
+383004	1006	First Issue Date	1988-05-02	false	false
+384007	66090	First Issue Date	1911-01-12	false	false
+384010	70065	Papers Past Code	WHDT	false	false
+384011	60084	Papers Past Code	MT	false	false
+385005	70065	Final Issue Date	1923-06-07	false	false
+385007	68086	Papers Past Code	MT	false	false
+386001	64090	Final Issue Date	1988-04-29	false	false
+415002	14022	Description	Not a general interest newspaper: targeted at tourists.	false	false
+441004	3022	Price	Gratis	true	false
+450001	72062	Alternate Title	New Zealand Standard and Cook County Gazette	false	false
+452001	71070	Note	Final issue date unknown.	false	false
+458001	66125	Alternate Title	East Coast Gazette	false	false
+462002	2015	Note	old record, duplicate record exists	false	false
+463001	6022	Price	Gratis	true	false
+464004	70091	Note	Monthly	false	false
+486001	13006	Price	Gratis	true	false
+500001	68052	Alternate Title	Evening Post Sports Edition	false	false
+506004	519004	Note	Source of dates: http://econtent.tauranga.govt.nz/data/libraries/files/genealogists_resources.pdf	false	false
+506010	64103	Papers Past Code	MS	false	false
+506011	521007	First Issue Date	1889-08-17	false	false
+508013	510012	First Issue Date	1880-11-29	false	false
+511007	521007	Papers Past Code	OO	false	false
+511011	518007	Final Issue Date	1963-04-20	false	false
+512008	518007	First Issue Date	1882-10-23	false	false
+512010	61179	Alternate Title	Manawatu Daily Standard, Pohangia County Advertiser and West Coast Gazette	false	false
+514007	72147	Final Issue Date	1963-04-20	false	false
+514008	72147	First Issue Date	1937-01-23	false	false
+514016	66104	Alternate Title	The Manawatu Standard, Rangitikei Advertiser, and West Coast Gazette	false	false
+516008	510012	Papers Past Code	MS	false	false
+517003	10050	First Issue Date	1939-01-06	false	false
+518002	70100	First Issue Date	1939-06-29	false	false
+518005	521007	Final Issue Date	1901-08-31	false	false
+519003	10006	Price	Gratis	true	false
+519005	10050	Final Issue Date	1939-06-22	false	false
+519013	509009	First Issue Date	1939-01-06	false	false
+519014	4034	Papers Past Code	NZSCSG	false	false
+519015	518007	Papers Past Code	MT	false	false
+519020	64103	First Issue Date	1905-09-05	false	false
+519021	61179	Alternate Title	Manawatu Daily Standard, Rangitikei Advertiser, and West Coast Gazette	false	false
+520001	68134	Note	Final year uncertain (assumed 1988 based on Bay Sun).	false	false
+520002	70100	Final Issue Date	1970-12-02	false	false
+521005	511004	First Issue Date	1970-12-02	false	false
+521019	64103	Alternate Title	Manawatu Evening Standard, Pohangia County Advertiser and West Coast Gazette	false	false
+522002	522001	First Issue Date	1839-08-21	false	false
+523003	66069	Final Issue Date	1879-02-28	false	false
+525001	522001	Papers Past Code	NZGWS	false	false
+527002	14029	First Issue Date	1906-10-26	false	false
+528004	14029	Papers Past Code	KCC	false	false
+529004	522001	Final Issue Date	1844-09-25	false	false
+529005	72091	First Issue Date	1869-01-25	false	false
+529006	14029	Final Issue Date	1980-11-28	false	false
+529010	13025	Papers Past Code	OAM	false	false
+530005	66069	First Issue Date	1876-04-26	false	false
+530006	66069	Papers Past Code	OAM	false	false
+531005	5045	Note	Weekly published in conjunction with North Otago Times.	false	false
+534001	72091	Papers Past Code	MIC	false	false
+534002	13025	First Issue Date	1879-03-03	false	false
+537001	59182	First Issue Date	1855-03-31	false	false
+538005	1037	First Issue Date	1862-06-14	false	false
+539004	59182	Final Issue Date	1873-06-28	false	false
+541002	1037	Alternate Title	The Albertland Gazette and Ocean Chronicle	false	false
+541003	3047	Final Issue Date	1874-01-15	false	false
+542002	1037	Note	First two issues produced at sea, and have lat/long coordinates on the final page.	false	false
+543001	1037	Final Issue Date	1864-04-01	false	false
+543002	1037	Papers Past Code	ALG	false	false
+544003	59104	First Issue Date	1873-07-05	false	false
+545003	59182	Papers Past Code	NENZC	false	false
+546002	3047	Papers Past Code	NENZC	false	false
+546003	3047	First Issue Date	1873-07-02	false	false
+550004	62077	Alternate Title	Illustrated examiner: Summary for England	false	false
+552005	72063	Note	Final year assumed from Nelson Museum holdings.	false	false
+553001	98002	First Issue Date	1842-03-12	false	false
+554005	60092	Alternate Title	Nelson Weekly News: agricultural and family journal	false	false
+556001	98002	Papers Past Code	NENZC	false	false
+556007	62091	Price	Free	false	false
+557006	65120	Note	Final year assumed from Nelson Provincial Museum holdings.	false	false
+558001	98002	Final Issue Date	1874-01-15	false	false
+558006	60091	Note	Final year assumed from Nelson Provincial Museum holdings.	false	false
+570002	13010	Note	This record is a for a microfilm reproduction of the Dannevirke and District Evening News.	false	false
+575002	11028	Note	Issued (in the Dannevirke and Tararua areas only) with Dannevirke News	false	false
+578001	1047	Note	Issued with Hawke's Bay Today (in the Dannevirke and Tararua areas only)	false	false
+578002	11028	Note	Saturday issue called Hawke's Bay Weekend	false	false
+580003	7054	Price	Gratis	true	false
+640001	6019	Price	Free	false	false
+720001	6040	First Issue Date	1840-06-15	false	false
+740001	6040	Final Issue Date	1840-12-10	false	false
+760001	64034	First Issue Date	1841-11-08	false	false
+810001	71105	First Issue Date	1841-07-10	false	false
+820002	71105	Final Issue Date	1842-04-06	false	false
+830001	63042	First Issue Date	1842-06-27	false	false
+830002	25	First Issue Date	1842-08-29	false	false
+850001	63042	Final Issue Date	1842-08-25	false	false
+850003	9010	First Issue Date	1848-04-25	false	false
+890001	25	Final Issue Date	1846-01-17	false	false
+910001	63082	Note	Subtitle 'Puhipuhi miner, and Whangarei County official advertiser'	false	false
+910002	64096	Note	Monthly?	false	false
+940002	950001	Note	Actually published in Te Koporu.	false	false
+1130002	61072	Note	Apparently some confusion about which newspaper 'Incorporated' the Hokianga Times.	false	false
+1220002	72089	Alternate Title	Whangarei County Press	false	false
+1250003	4008	Alternate Title	Northern Advocate and General Advertiser	false	false
+1260002	4008	Alternate Title	Northern Advocate and Whangarei County Gazette	false	false
+1280002	72089	Alternate Title	North Auckland Press	false	false
+1530001	12030	Masthead URL	http://paperspast.natlib.govt.nz/custom/paperspast/images/mastheads/BA.gif	false	false
+10512273	7011	Frequency	Daily	true	false
+10512277	14032	Frequency	Daily	true	false
+10512278	64055	Frequency	Daily	true	false
+10512284	64070	Frequency	Daily	true	false
+10512285	67082	Frequency	Daily	true	false
+10512290	66104	Frequency	Daily	true	false
+10512291	62091	Frequency	Daily	true	false
+10512297	70151	Frequency	Daily	true	false
+10512298	66147	Frequency	Daily	true	false
+10512302	72147	Frequency	Daily	true	false
+10512303	68154	Frequency	Daily	true	false
+10512304	61140	Frequency	Daily	true	false
+10512310	8017	Frequency	Daily (except Sunday)	true	false
+10512314	11028	Frequency	Daily (except Sunday)	true	false
+10512315	1041	Frequency	Daily (except Sunday)	true	false
+10522292	4002	Frequency	Daily	true	false
+10522295	5033	Frequency	Daily	true	false
+10522304	63064	Frequency	Daily	true	false
+10522305	58063	Frequency	Daily	true	false
+10522311	59103	Frequency	Daily	true	false
+10522312	64119	Frequency	Daily	true	false
+10522317	64146	Frequency	Daily	true	false
+10522318	65164	Frequency	Daily	true	false
+10522321	61160	Frequency	Daily	true	false
+10522322	68169	Frequency	Daily	true	false
+10522329	9011	Frequency	Daily (except Sunday)	true	false
+10522330	5014	Frequency	Daily (except Sunday)	true	false
+10522338	7051	Frequency	Daily (except Sunday)	true	false
+10522339	10004	Frequency	Daily (except Sunday)	true	false
+10532273	65044	Frequency	Daily	true	false
+10532276	5042	Frequency	Daily	true	false
+10532279	58052	Frequency	Daily	true	false
+10532280	65070	Frequency	Daily	true	false
+10532286	62069	Frequency	Daily	true	false
+10532287	59087	Frequency	Daily	true	false
+10532292	67128	Frequency	Daily	true	false
+10532293	67136	Frequency	Daily	true	false
+10532294	64139	Frequency	Daily	true	false
+10532299	61131	Frequency	Daily	true	false
+10532305	66191	Frequency	Daily	true	false
+10532307	3008	Frequency	Daily (except Sunday)	true	false
+10532311	3030	Frequency	Daily (except Sunday)	true	false
+10532318	5038	Frequency	Daily (except Sunday)	true	false
+10532319	10063	Frequency	Four issues per week	true	false
+10532320	11020	Frequency	Four issues per week	true	false
+10542278	12002	Frequency	Daily	true	false
+10542281	13030	Frequency	Daily	true	false
+10542283	59053	Frequency	Daily	true	false
+10542288	69089	Frequency	Daily	true	false
+10542289	67081	Frequency	Daily	true	false
+10542294	60084	Frequency	Daily	true	false
+10542295	70110	Frequency	Daily	true	false
+10542296	70112	Frequency	Daily	true	false
+10542301	73002	Frequency	Daily	true	false
+10542302	71146	Frequency	Daily	true	false
+10542305	72149	Frequency	Daily	true	false
+10542306	71158	Frequency	Daily	true	false
+10542312	5007	Frequency	Daily (except Sunday)	true	false
+10542313	11008	Frequency	Daily (except Sunday)	true	false
+10542316	4030	Frequency	Daily (except Sunday)	true	false
+10542319	4036	Frequency	Daily (except Sunday)	true	false
+10542320	6037	Frequency	Daily (except Sunday)	true	false
+10552253	61179	Frequency	Daily	true	false
+10552255	5031	Frequency	Daily	true	false
+10552260	72053	Frequency	Daily	true	false
+10552261	69076	Frequency	Daily	true	false
+10552266	68053	Frequency	Daily	true	false
+10552267	69091	Frequency	Daily	true	false
+10552268	64082	Frequency	Daily	true	false
+10552273	58103	Frequency	Daily	true	false
+10552274	72104	Frequency	Daily	true	false
+10552280	44	Frequency	Daily	true	false
+10552281	67159	Frequency	Daily	true	false
+10552285	72158	Frequency	Daily	true	false
+10552286	60166	Frequency	Daily	true	false
+10552288	6001	Frequency	Daily (except Sunday)	true	false
+10552290	9005	Frequency	Daily (except Sunday)	true	false
+10552294	10032	Frequency	Daily (except Sunday)	true	false
+10552297	66069	Frequency	Daily (except Sunday)	true	false
+10552298	3041	Frequency	Daily (except Sunday)	true	false
+10562275	6032	Frequency	Daily	true	false
+10562278	66054	Frequency	Daily	true	false
+10562279	63054	Frequency	Daily	true	false
+10562280	62055	Frequency	Daily	true	false
+10562281	69085	Frequency	Daily	true	false
+10562286	64090	Frequency	Daily	true	false
+10562287	61080	Frequency	Daily	true	false
+10562293	71122	Frequency	Daily	true	false
+10562294	69153	Frequency	Daily	true	false
+10562304	14046	Frequency	Daily	true	false
+10562305	13053	Frequency	Daily (except Sunday)	true	false
+10562307	9004	Frequency	Daily	true	false
+10562313	13025	Frequency	Daily (except Sunday)	true	false
+10562319	61041	Frequency	Daily (Monday to Friday)	true	false
+10562320	11022	Frequency	Daily (Monday to Friday)	true	false
+10572298	14033	Frequency	Daily	true	false
+10572299	58045	Frequency	Daily	true	false
+10572305	59072	Frequency	Daily	true	false
+10572306	3045	Frequency	Daily	true	false
+10572312	71093	Frequency	Daily	true	false
+10572313	59098	Frequency	Daily	true	false
+10572318	59141	Frequency	Daily	true	false
+10572319	71144	Frequency	Daily	true	false
+10572323	73018	Frequency	Daily	true	false
+10572324	12038	Frequency	Daily	true	false
+10572331	4028	Frequency	Daily (except Sunday)	true	false
+10572334	11030	Frequency	Daily (except Sunday)	true	false
+10582306	6018	Frequency	Daily	true	false
+10582307	13024	Frequency	Daily	true	false
+10582318	60054	Frequency	Daily	true	false
+10582319	69103	Frequency	Daily	true	false
+10582324	3047	Frequency	Daily	true	false
+10582325	72097	Frequency	Daily	true	false
+10582331	70162	Frequency	Daily	true	false
+10582332	67158	Frequency	Daily	true	false
+10582335	68157	Frequency	Daily	true	false
+10582336	62180	Frequency	Daily	true	false
+10582337	1053	Frequency	Daily	true	false
+10582342	1026	Frequency	Daily (except Sunday)	true	false
+10582347	11038	Frequency	Daily (except Sunday)	true	false
+10582348	3003	Frequency	Daily (except Sunday)	true	false
+10582349	4008	Frequency	Daily (except Sunday)	true	false
+10592281	14043	Frequency	Daily	true	false
+10592282	65069	Frequency	Daily	true	false
+10592283	62056	Frequency	Daily	true	false
+10592288	60069	Frequency	Daily	true	false
+10592289	66099	Frequency	Daily	true	false
+10592295	68114	Frequency	Daily	true	false
+10592296	63131	Frequency	Daily	true	false
+10592301	61132	Frequency	Daily	true	false
+10592306	53	Frequency	Daily (except Sunday)	true	false
+10592307	10005	Frequency	Daily (except Sunday)	true	false
+10592317	9003	Frequency	Daily (Monday to Friday)	true	false
+10602296	4012	Frequency	Daily	true	false
+10602301	61042	Frequency	Daily	true	false
+10602307	70076	Frequency	Daily	true	false
+10602308	64069	Frequency	Daily	true	false
+10602309	58058	Frequency	Daily	true	false
+10602315	64103	Frequency	Daily	true	false
+10602316	71097	Frequency	Daily	true	false
+10602321	63134	Frequency	Daily	true	false
+10602322	69164	Frequency	Daily	true	false
+10602323	67147	Frequency	Daily	true	false
+10602326	63155	Frequency	Daily	true	false
+10602327	66175	Frequency	Daily	true	false
+10602338	3032	Frequency	Daily (except Sunday)	true	false
+10602339	13035	Frequency	Daily (except Sunday)	true	false
+10612298	59185	Frequency	Daily	true	false
+10612301	8023	Frequency	Daily	true	false
+10612310	63063	Frequency	Daily	true	false
+10612311	59080	Frequency	Daily	true	false
+10612316	71102	Frequency	Daily	true	false
+10612317	67117	Frequency	Daily	true	false
+10612318	63117	Frequency	Daily	true	false
+10612323	62149	Frequency	Daily	true	false
+10612327	64175	Frequency	Daily	true	false
+10612328	67179	Frequency	Daily	true	false
+10612332	10015	Frequency	Daily (except Sunday)	true	false
+10612333	10028	Frequency	Daily (except Sunday)	true	false
+10612337	1047	Frequency	Daily (except Sunday)	true	false
+10612338	10023	Frequency	Daily (except Sunday)	true	false
+10622284	4003	Frequency	Daily	true	false
+10622288	4035	Frequency	Daily	true	false
+10622290	72048	Frequency	Daily	true	false
+10622291	69075	Frequency	Daily	true	false
+10622292	62052	Frequency	Daily	true	false
+10622293	70065	Frequency	Daily	true	false
+10622294	65077	Frequency	Daily	true	false
+10622300	8032	Frequency	Daily	true	false
+10622301	70092	Frequency	Daily	true	false
+10622302	72083	Frequency	Daily	true	false
+10622307	61104	Frequency	Daily	true	false
+10622308	70147	Frequency	Daily	true	false
+10622318	72089	Frequency	Daily	true	false
+10622319	1059	Frequency	Daily (except Sunday)	true	false
+10622320	1006	Frequency	Daily (except Sunday)	true	false
+10622322	8022	Frequency	Daily (except Sunday)	true	false
+10622330	5034	Frequency	Daily (Monday to Friday)	true	false
+10632315	7039	Frequency	Daily	true	false
+10632316	72041	Frequency	Daily	true	false
+10632321	68051	Frequency	Daily	true	false
+10632322	61061	Frequency	Daily	true	false
+10632327	65111	Frequency	Daily	true	false
+10632328	69122	Frequency	Daily	true	false
+10632334	70152	Frequency	Daily	true	false
+10632335	67146	Frequency	Daily	true	false
+10632337	70169	Frequency	Daily	true	false
+10632338	65173	Frequency	Daily	true	false
+10632345	5006	Frequency	Daily (except Sunday)	true	false
+10632352	1035	Frequency	Daily (except Sunday)	true	false
+10632353	2041	Frequency	Daily (except Sunday)	true	false
+10642279	5025	Frequency	Daily	true	false
+10642280	9020	Frequency	Daily	true	false
+10642290	71068	Frequency	Daily	true	false
+10642291	69106	Frequency	Daily	true	false
+10642297	65119	Frequency	Daily	true	false
+10642298	69136	Frequency	Daily	true	false
+10642303	66153	Frequency	Daily	true	false
+10642304	63144	Frequency	Daily	true	false
+10642308	4053	Frequency	Daily	true	false
+10642309	59167	Frequency	Daily	true	false
+10642313	6008	Frequency	Daily (except Sunday)	true	false
+10642320	40	Frequency	Daily (except Sunday)	true	false
+10642322	13021	Frequency	Daily (except Sunday)	true	false
+10652279	70053	Frequency	Daily	true	false
+10652280	65068	Frequency	Daily	true	false
+10652281	62054	Frequency	Daily	true	false
+10652282	72058	Frequency	Daily	true	false
+10652287	60070	Frequency	Daily	true	false
+10652288	58078	Frequency	Daily	true	false
+10652293	62116	Frequency	Daily	true	false
+10652294	58127	Frequency	Daily	true	false
+10652303	13036	Frequency	Daily	true	false
+10652304	6051	Frequency	Daily (except Sunday)	true	false
+10652305	3009	Frequency	Daily (except Sunday)	true	false
+10652306	8003	Frequency	Daily (except Sunday)	true	false
+10652316	5005	Frequency	Daily (Monday to Friday)	true	false
+10692022	1053	Note	Text chiefly in Chinese with some English.	false	false
+10792394	59053	Alternate Title	Ashburton Herald: Borough and County Advertiser	false	false
+10802025	5031	Note	Text in Mandarin.	false	false
+11457402	11487384	Papers Past Code	WT	false	false
+11477201	71097	First Issue Date	1870-01-04	false	false
+11557371	11487384	First Issue Date	1872-05-02	false	false
+11750015	11760016	First Issue Date	1910-12-12	false	false
+11750121	72097	Note	Published for less than two weeks following the 1931 earthquake by the Hawke's Bay Herald and Daily Telegraph.	false	false
+11800016	11760016	Final Issue Date	1937-01-15	false	false
+11800288	67159	Note	Scout Jamboree camp newspaper.	false	false
+11820249	10010	Note	Microfilm reproduction.	false	false
+11830023	2042	Frequency	Weekly	false	false
+11830134	72097	Final Issue Date	1931-02-13	false	false
+11850126	72097	First Issue Date	1931-02-04	false	false
+11860269	11810254	Frequency	Daily	false	false
+11870017	11760016	Frequency	Daily 	false	false
+11911380	71068	Alternate Title	Ross Evening News	false	false
+12011231	59185	Note	This record is a for a microfilm reproduction of the Taranaki Daily News.	false	false
+12090029	12190026	Papers Past Code	WDA	false	false
+12120043	12190026	First Issue Date	1898-05-28	false	false
+12170169	4003	Note	Conitnued by a publication called 'Globe'.	false	false
+12180036	12190026	Frequency	Daily	false	false
+12200033	12190026	Final Issue Date	2012-07-25	false	false
+14470374	71047	Frequency	Weekly	true	false
+14771084	67037	Frequency	Every two months	true	false
+14771096	8039	Frequency	Fortnightly	true	false
+14771097	2059	Frequency	Fortnightly	true	false
+14771102	5015	Frequency	Fortnightly	true	false
+14771106	4041	Frequency	Fortnightly	true	false
+14771107	3037	Frequency	Fortnightly	true	false
+14771108	9026	Frequency	Fortnightly	true	false
+14771116	60085	Frequency	Fortnightly	true	false
+14771117	66108	Frequency	Fortnightly	true	false
+14771118	59109	Frequency	Fortnightly	true	false
+14771119	70129	Frequency	Fortnightly	true	false
+14771124	62144	Frequency	Fortnightly	true	false
+14771125	69179	Frequency	Fortnightly	true	false
+14771126	69198	Frequency	Fortnightly	true	false
+14771129	5051	Frequency	Fortnightly	true	false
+14771130	11049	Frequency	Fortnightly	true	false
+14771138	10054	Frequency	Irregular	true	false
+14771141	14057	Frequency	Monthly	true	false
+14771142	4067	Frequency	Monthly	true	false
+14771143	12046	Frequency	Monthly	true	false
+14771144	62200	Frequency	Monthly	true	false
+14771145	11010	Frequency	Monthly	true	false
+14771146	9012	Frequency	Monthly	true	false
+14771151	1036	Frequency	Monthly	true	false
+14771152	2036	Frequency	Monthly	true	false
+14771153	72026	Frequency	Monthly	true	false
+14771154	2040	Frequency	Monthly	true	false
+14771155	10044	Frequency	Monthly	true	false
+14771156	59048	Frequency	Monthly	true	false
+14771157	61043	Frequency	Monthly	true	false
+14771158	70060	Frequency	Monthly	true	false
+14771159	66065	Frequency	Monthly	true	false
+14771160	58061	Frequency	Monthly	true	false
+14771186	70208	Frequency	Three issues per week	true	false
+14771188	12030	Frequency	Three issues per week	true	false
+14771189	69088	Frequency	Three issues per week	true	false
+14771195	68126	Frequency	Three issues per week	true	false
+14771196	62140	Frequency	Three issues per week	true	false
+14771197	72156	Frequency	Three issues per week	true	false
+14771198	68158	Frequency	Three issues per week	true	false
+14771199	64167	Frequency	Three issues per week	true	false
+14771200	62182	Frequency	Three issues per week	true	false
+14771201	9030	Frequency	Two issues per month	true	false
+14771202	5010	Frequency	Two issues per week	true	false
+14771203	13049	Frequency	Two issues per week	true	false
+14771204	10007	Frequency	Two issues per week	true	false
+14771211	59063	Frequency	Two issues per week	true	false
+14771212	58056	Frequency	Two issues per week	true	false
+14771213	67091	Frequency	Two issues per week	true	false
+14771214	68079	Frequency	Two issues per week	true	false
+14771221	58131	Frequency	Two issues per week	true	false
+14771222	73001	Frequency	Two issues per week	true	false
+14771223	5046	Frequency	Two issues per week	true	false
+14771224	59158	Frequency	Two issues per week	true	false
+14771227	58049	Frequency	Weekly	true	false
+14771228	68101	Frequency	Weekly	true	false
+14771229	68141	Frequency	Weekly	true	false
+14771231	41	Frequency	Weekly	true	false
+14771232	4061	Frequency	Weekly	true	false
+14771233	4062	Frequency	Weekly	true	false
+14771234	60175	Frequency	Weekly	true	false
+14771244	3062	Frequency	Weekly	true	false
+14771248	69223	Frequency	Weekly	true	false
+14771273	12028	Frequency	Weekly	true	false
+14771274	14031	Frequency	Weekly	true	false
+14771275	10040	Frequency	Weekly	true	false
+14771276	63033	Frequency	Weekly	true	false
+14771277	9025	Frequency	Weekly	true	false
+14771281	3043	Frequency	Weekly	true	false
+14771282	9029	Frequency	Weekly	true	false
+14771283	14039	Frequency	Weekly	true	false
+14771287	63042	Frequency	Weekly	true	false
+14771290	9032	Frequency	Weekly	true	false
+14771292	68040	Frequency	Weekly	true	false
+14771296	60048	Frequency	Weekly	true	false
+14771297	68047	Frequency	Weekly	true	false
+14771304	67088	Frequency	Weekly	true	false
+14771305	65088	Frequency	Weekly	true	false
+14771306	63069	Frequency	Weekly	true	false
+14771307	60066	Frequency	Weekly	true	false
+14771308	68070	Frequency	Weekly	true	false
+14771309	72071	Frequency	Weekly	true	false
+14771315	69114	Frequency	Weekly	true	false
+14771316	67102	Frequency	Weekly	true	false
+14771317	58080	Frequency	Weekly	true	false
+14771318	58084	Frequency	Weekly	true	false
+14771319	62087	Frequency	Weekly	true	false
+14771426	71094	Frequency	Weekly	true	false
+14771456	60137	Frequency	Weekly	true	false
+14771460	70160	Frequency	Weekly	true	false
+14771461	62139	Frequency	Weekly	true	false
+14771462	64149	Frequency	Weekly	true	false
+14771463	67153	Frequency	Weekly	true	false
+14771464	66160	Frequency	Weekly	true	false
+14771466	70167	Frequency	Weekly	true	false
+14771467	66165	Frequency	Weekly	true	false
+14771468	71152	Frequency	Weekly	true	false
+14771469	62154	Frequency	Weekly	true	false
+14771470	10050	Frequency	Weekly	true	false
+14771476	69192	Frequency	Weekly	true	false
+14771477	62168	Frequency	Weekly	true	false
+14771478	66182	Frequency	Weekly	true	false
+14771479	59162	Frequency	Weekly	true	false
+14771480	60164	Frequency	Weekly	true	false
+14771486	6048	Frequency	Weekly	true	false
+14771606	11050	Price	Gratis	true	false
+14771607	11051	Price	Gratis	true	false
+14771612	14057	Price	Gratis	true	false
+14771613	8041	Price	Gratis	true	false
+14771614	8042	Price	Gratis	true	false
+14771615	14059	Price	Gratis	true	false
+14771616	1003	Price	Gratis	true	false
+14771617	5003	Price	Gratis	true	false
+14771618	5004	Price	Gratis	true	false
+14771619	14002	Price	Gratis	true	false
+14771623	7006	Price	Gratis	true	false
+14771624	2009	Price	Gratis	true	false
+14771625	1011	Price	Gratis	true	false
+14771626	3017	Price	Gratis	true	false
+14771627	2012	Price	Gratis	true	false
+14771628	71012	Price	Gratis	true	false
+14771629	4019	Price	Gratis	true	false
+14771630	12009	Price	Gratis	true	false
+14771633	1023	Price	Gratis	true	false
+14771641	2032	Price	Gratis	true	false
+14771642	11023	Price	Gratis	true	false
+14771644	6033	Price	Gratis	true	false
+14771645	60032	Price	Gratis	true	false
+14771646	10040	Price	Gratis	true	false
+14771647	3039	Price	Gratis	true	false
+14771648	2046	Price	Gratis	true	false
+14771649	9030	Price	Gratis	true	false
+14771650	3044	Price	Gratis	true	false
+14781119	13052	Frequency	Fortnightly	true	false
+14781120	66204	Frequency	Fortnightly	true	false
+14781129	71043	Frequency	Fortnightly	true	false
+14781130	14041	Frequency	Fortnightly	true	false
+14781131	70050	Frequency	Fortnightly	true	false
+14781132	69093	Frequency	Fortnightly	true	false
+14781133	71073	Frequency	Fortnightly	true	false
+14781134	69111	Frequency	Fortnightly	true	false
+14781139	63122	Frequency	Fortnightly	true	false
+14781149	65128	Frequency	Irregular	true	false
+14781154	7030	Frequency	Irregular	true	false
+14781180	70083	Frequency	Monthly	true	false
+14781181	60064	Frequency	Monthly	true	false
+14781186	68092	Frequency	Monthly	true	false
+14781187	70117	Frequency	Monthly	true	false
+14781188	62107	Frequency	Monthly	true	false
+14781189	66128	Frequency	Monthly	true	false
+14781196	62158	Frequency	Monthly	true	false
+14781197	71164	Frequency	Monthly	true	false
+14781198	3051	Frequency	Monthly	true	false
+14781199	48	Frequency	Monthly	true	false
+14781219	1009	Frequency	Two issues per week	true	false
+14781221	14029	Frequency	Two issues per week	true	false
+14781222	67063	Frequency	Two issues per week	true	false
+14781223	58046	Frequency	Two issues per week	true	false
+14781229	65107	Frequency	Two issues per week	true	false
+14781230	58091	Frequency	Two issues per week	true	false
+14781231	67114	Frequency	Two issues per week	true	false
+14781232	62102	Frequency	Two issues per week	true	false
+14781233	58112	Frequency	Two issues per week	true	false
+14781234	66132	Frequency	Two issues per week	true	false
+14781240	70183	Frequency	Two issues per week	true	false
+14781241	10051	Frequency	Two issues per week	true	false
+14781250	5054	Frequency	Weekly	true	false
+14781251	12044	Frequency	Weekly	true	false
+14781252	54	Frequency	Weekly	true	false
+14781256	2062	Frequency	Weekly	true	false
+14781257	61	Frequency	Weekly	true	false
+14781258	2063	Frequency	Weekly	true	false
+14781264	2003	Frequency	Weekly	true	false
+14781265	9001	Frequency	Weekly	true	false
+14781266	13002	Frequency	Weekly	true	false
+14781272	6021	Frequency	Weekly	true	false
+14781273	6023	Frequency	Weekly	true	false
+14781274	14020	Frequency	Weekly	true	false
+14781275	3027	Frequency	Weekly	true	false
+14781281	13028	Frequency	Weekly	true	false
+14781282	7029	Frequency	Weekly	true	false
+14781283	7031	Frequency	Weekly	true	false
+14781299	60041	Frequency	Weekly	true	false
+14781301	72050	Frequency	Weekly	true	false
+14781304	65066	Frequency	Weekly	true	false
+14781306	66059	Frequency	Weekly	true	false
+14781307	66062	Frequency	Weekly	true	false
+14781308	58054	Frequency	Weekly	true	false
+14781311	66067	Frequency	Weekly	true	false
+14781438	69121	Frequency	Weekly	true	false
+14781439	59100	Frequency	Weekly	true	false
+14781446	70123	Frequency	Weekly	true	false
+14781447	72099	Frequency	Weekly	true	false
+14781448	64121	Frequency	Weekly	true	false
+14781449	64122	Frequency	Weekly	true	false
+14781450	61097	Frequency	Weekly	true	false
+14781457	72115	Frequency	Weekly	true	false
+14781458	10048	Frequency	Weekly	true	false
+14781459	62117	Frequency	Weekly	true	false
+14781460	67131	Frequency	Weekly	true	false
+14781461	60123	Frequency	Weekly	true	false
+14781467	72136	Frequency	Weekly	true	false
+14781468	63139	Frequency	Weekly	true	false
+14781469	68134	Frequency	Weekly	true	false
+14781470	71145	Frequency	Weekly	true	false
+14781480	68151	Frequency	Weekly	true	false
+14781481	64163	Frequency	Weekly	true	false
+14781482	68155	Frequency	Weekly	true	false
+14781483	69188	Frequency	Weekly	true	false
+14781484	66178	Frequency	Weekly	true	false
+14781490	63171	Frequency	Weekly	true	false
+14781491	68164	Frequency	Weekly	true	false
+14781492	62174	Frequency	Weekly	true	false
+14781493	62178	Frequency	Weekly	true	false
+14781494	62181	Frequency	Weekly	true	false
+14781497	7050	Frequency	Weekly	true	false
+14781498	10052	Frequency	Weekly	true	false
+14781499	2053	Frequency	Weekly	true	false
+14781640	2024	Price	Gratis	true	false
+14781641	11016	Price	Gratis	true	false
+14781642	25002	Price	Gratis	true	false
+14781643	12020	Price	Gratis	true	false
+14781644	10024	Price	Gratis	true	false
+14781645	3029	Price	Gratis	true	false
+14781646	1032	Price	Gratis	true	false
+14781657	3051	Price	Gratis	true	false
+14781661	10053	Price	Gratis	true	false
+14781662	4058	Price	Gratis	true	false
+14781663	49	Price	Gratis	true	false
+14790962	10056	Frequency	Every two months	true	false
+14790963	10067	Frequency	Every two months	true	false
+14790984	18002	Frequency	Fortnightly	true	false
+14790985	12012	Frequency	Fortnightly	true	false
+14790987	7020	Frequency	Fortnightly	true	false
+14790988	3026	Frequency	Fortnightly	true	false
+14791003	71131	Frequency	Fortnightly	true	false
+14791004	60135	Frequency	Fortnightly	true	false
+14791008	5048	Frequency	Fortnightly	true	false
+14791014	5002	Frequency	Irregular	true	false
+14791015	7015	Frequency	Irregular	true	false
+14791016	11017	Frequency	Irregular	true	false
+14791017	11024	Frequency	Monthly	true	false
+14791021	64155	Frequency	Monthly	true	false
+14791022	12042	Frequency	Monthly	true	false
+14791029	2021	Frequency	Monthly	true	false
+14791030	8015	Frequency	Monthly	true	false
+14791031	2028	Frequency	Monthly	true	false
+14791032	4029	Frequency	Monthly	true	false
+14791045	67094	Frequency	Monthly	true	false
+14791046	58073	Frequency	Monthly	true	false
+14791047	65100	Frequency	Monthly	true	false
+14791048	59095	Frequency	Monthly	true	false
+14791053	65135	Frequency	Monthly	true	false
+14791054	66140	Frequency	Monthly	true	false
+14791055	66141	Frequency	Monthly	true	false
+14791056	66148	Frequency	Monthly	true	false
+14791057	60145	Frequency	Monthly	true	false
+14791058	66159	Frequency	Monthly	true	false
+14791063	7052	Frequency	Monthly	true	false
+14791064	6016	Frequency	Quarterly	true	false
+14791067	72062	Frequency	Three issues per week	true	false
+14791068	58086	Frequency	Three issues per week	true	false
+14791069	72105	Frequency	Three issues per week	true	false
+14791070	58119	Frequency	Three issues per week	true	false
+14791082	7009	Frequency	Two issues per week	true	false
+14791083	5026	Frequency	Two issues per week	true	false
+14791113	7057	Frequency	Weekly	true	false
+14791114	3060	Frequency	Weekly	true	false
+14791115	2060	Frequency	Weekly	true	false
+14791120	60183	Frequency	Weekly	true	false
+14791121	68184	Frequency	Weekly	true	false
+14791128	11005	Frequency	Weekly	true	false
+14791129	7005	Frequency	Weekly	true	false
+14791130	3014	Frequency	Weekly	true	false
+14791131	3019	Frequency	Weekly	true	false
+14791132	24002	Frequency	Weekly	true	false
+14791133	65027	Frequency	Weekly	true	false
+14791138	6025	Frequency	Weekly	true	false
+14791139	3029	Frequency	Weekly	true	false
+14791140	1032	Frequency	Weekly	true	false
+14791141	2032	Frequency	Weekly	true	false
+14791142	4031	Frequency	Weekly	true	false
+14791143	12024	Frequency	Weekly	true	false
+14791152	4045	Frequency	Weekly	true	false
+14791153	14036	Frequency	Weekly	true	false
+14791158	9031	Frequency	Weekly	true	false
+14791159	62041	Frequency	Weekly	true	false
+14791161	59056	Frequency	Weekly	true	false
+14791164	70054	Frequency	Weekly	true	false
+14791166	61050	Frequency	Weekly	true	false
+14791168	72056	Frequency	Weekly	true	false
+14791171	69087	Frequency	Weekly	true	false
+14791173	62062	Frequency	Weekly	true	false
+14791174	66073	Frequency	Weekly	true	false
+14791175	71071	Frequency	Weekly	true	false
+14791176	60057	Frequency	Weekly	true	false
+14791183	65097	Frequency	Weekly	true	false
+14791184	61074	Frequency	Weekly	true	false
+14791185	72074	Frequency	Weekly	true	false
+14791186	64097	Frequency	Weekly	true	false
+14791298	63096	Frequency	Weekly	true	false
+14791301	70116	Frequency	Weekly	true	false
+14791302	60092	Frequency	Weekly	true	false
+14791303	60093	Frequency	Weekly	true	false
+14791304	70121	Frequency	Weekly	true	false
+14791305	70122	Frequency	Weekly	true	false
+14791311	63114	Frequency	Weekly	true	false
+14791312	60109	Frequency	Weekly	true	false
+14791313	60112	Frequency	Weekly	true	false
+14791314	11042	Frequency	Weekly	true	false
+14791315	70132	Frequency	Weekly	true	false
+14791321	69151	Frequency	Weekly	true	false
+14791322	62125	Frequency	Weekly	true	false
+14791323	10049	Frequency	Weekly	true	false
+14791324	58130	Frequency	Weekly	true	false
+14791325	71133	Frequency	Weekly	true	false
+14791361	1052	Frequency	Weekly	true	false
+14791362	50	Frequency	Weekly	true	false
+14791363	1054	Frequency	Weekly	true	false
+14791476	11053	Price	Gratis	true	false
+14791477	1056	Price	Gratis	true	false
+14791478	14053	Price	Gratis	true	false
+14791486	3010	Price	Gratis	true	false
+14791487	10007	Price	Gratis	true	false
+14791488	1008	Price	Gratis	true	false
+14791496	8010	Price	Gratis	true	false
+14791497	7016	Price	Gratis	true	false
+14791517	8035	Price	Gratis	true	false
+14791518	5048	Price	Gratis	true	false
+14791520	7050	Price	Gratis	true	false
+14791521	10052	Price	Gratis	true	false
+14791525	14048	Price	Gratis	true	false
+14850452	10046	Papers Past Code	MH	false	false
+15661077	1057	Frequency	Every two months	true	false
+15661078	4013	Frequency	Every two months	true	false
+15661099	13012	Frequency	Fortnightly	true	false
+15661100	67021	Frequency	Fortnightly	true	false
+15661101	6020	Frequency	Fortnightly	true	false
+15661102	9017	Frequency	Fortnightly	true	false
+15661117	72132	Frequency	Fortnightly	true	false
+15661118	67144	Frequency	Fortnightly	true	false
+15661122	62176	Frequency	Fortnightly	true	false
+15661123	5049	Frequency	Fortnightly	true	false
+15661127	18001	Frequency	Irregular	true	false
+15661128	14010	Frequency	Irregular	true	false
+15661129	3025	Frequency	Irregular	true	false
+15661130	9021	Frequency	Irregular	true	false
+15661133	61056	Frequency	Monthly	true	false
+15661134	68170	Frequency	Monthly	true	false
+15661135	6049	Frequency	Monthly	true	false
+15661143	1024	Frequency	Monthly	true	false
+15661144	14019	Frequency	Monthly	true	false
+15661145	5027	Frequency	Monthly	true	false
+15661146	8021	Frequency	Monthly	true	false
+15661159	70091	Frequency	Monthly	true	false
+15661160	59086	Frequency	Monthly	true	false
+15661161	72076	Frequency	Monthly	true	false
+15661162	64105	Frequency	Monthly	true	false
+15661167	71125	Frequency	Monthly	true	false
+15661168	69152	Frequency	Monthly	true	false
+15661169	65146	Frequency	Monthly	true	false
+15661170	70163	Frequency	Monthly	true	false
+15661171	59147	Frequency	Monthly	true	false
+15661172	64157	Frequency	Monthly	true	false
+15661177	4055	Frequency	Monthly (except December)	true	false
+15661178	14009	Frequency	Quarterly	true	false
+15661181	61075	Frequency	Three issues per week	true	false
+15661182	70106	Frequency	Three issues per week	true	false
+15661183	68115	Frequency	Three issues per week	true	false
+15661184	70141	Frequency	Three issues per week	true	false
+15661196	2012	Frequency	Two issues per week	true	false
+15661226	56	Frequency	Weekly	true	false
+15661227	1001	Frequency	Weekly	true	false
+15661228	8042	Frequency	Weekly	true	false
+15661232	70202	Frequency	Weekly	true	false
+15661233	67199	Frequency	Weekly	true	false
+15661239	10006	Frequency	Weekly	true	false
+15661240	7007	Frequency	Weekly	true	false
+15661241	3015	Frequency	Weekly	true	false
+15661242	17002	Frequency	Weekly	true	false
+15661243	9010	Frequency	Weekly	true	false
+15661244	6017	Frequency	Weekly	true	false
+15661249	21	Frequency	Weekly	true	false
+15661250	6027	Frequency	Weekly	true	false
+15661251	10027	Frequency	Weekly	true	false
+15661252	13023	Frequency	Weekly	true	false
+15661253	4032	Frequency	Weekly	true	false
+15661261	10042	Frequency	Weekly	true	false
+15661262	10045	Frequency	Weekly	true	false
+15661263	8031	Frequency	Weekly	true	false
+15661267	6043	Frequency	Weekly	true	false
+15661268	72043	Frequency	Weekly	true	false
+15661270	62043	Frequency	Weekly	true	false
+15661272	66051	Frequency	Weekly	true	false
+15661274	9033	Frequency	Weekly	true	false
+15661279	69080	Frequency	Weekly	true	false
+15661281	59071	Frequency	Weekly	true	false
+15661284	66070	Frequency	Weekly	true	false
+15661285	67085	Frequency	Weekly	true	false
+15661286	66078	Frequency	Weekly	true	false
+15661287	68061	Frequency	Weekly	true	false
+15661293	62075	Frequency	Weekly	true	false
+15661294	72072	Frequency	Weekly	true	false
+15661295	66093	Frequency	Weekly	true	false
+15661296	66095	Frequency	Weekly	true	false
+15661297	72075	Frequency	Weekly	true	false
+15661412	59101	Frequency	Weekly	true	false
+15661413	9035	Frequency	Weekly	true	false
+15661414	68094	Frequency	Weekly	true	false
+15661415	3048	Frequency	Weekly	true	false
+15661416	61092	Frequency	Weekly	true	false
+15661417	64117	Frequency	Weekly	true	false
+15661423	63113	Frequency	Weekly	true	false
+15661424	64124	Frequency	Weekly	true	false
+15661425	72107	Frequency	Weekly	true	false
+15661426	72109	Frequency	Weekly	true	false
+15661427	66123	Frequency	Weekly	true	false
+15661428	61100	Frequency	Weekly	true	false
+15661434	71126	Frequency	Weekly	true	false
+15661435	60126	Frequency	Weekly	true	false
+15661436	61109	Frequency	Weekly	true	false
+15661437	60129	Frequency	Weekly	true	false
+15661438	72131	Frequency	Weekly	true	false
+15661439	72134	Frequency	Weekly	true	false
+15661476	13045	Frequency	Weekly	true	false
+15661477	7054	Frequency	Weekly	true	false
+15661478	4042	Frequency	Weekly	true	false
+15661483	8039	Price	Gratis	true	false
+15661592	2057	Price	Gratis	true	false
+15661593	9039	Price	Gratis	true	false
+15661594	10058	Price	Gratis	true	false
+15661602	11005	Price	Gratis	true	false
+15661603	7004	Price	Gratis	true	false
+15661604	14005	Price	Gratis	true	false
+15661612	5015	Price	Gratis	true	false
+15661632	3050	Price	Gratis	true	false
+15661634	3052	Price	Gratis	true	false
+15661635	12039	Price	Gratis	true	false
+15661640	14049	Price	Gratis	true	false
+15664059	14352616	Note	Duplicate record.	false	false
+15671079	36	Frequency	Annually	true	false
+15671080	59	Frequency	Every two months	true	false
+15671097	7006	Frequency	Fortnightly	true	false
+15671098	14011	Frequency	Fortnightly	true	false
+15671100	14013	Frequency	Fortnightly	true	false
+15671101	13020	Frequency	Fortnightly	true	false
+15671119	72129	Frequency	Fortnightly	true	false
+15671120	63137	Frequency	Fortnightly	true	false
+15671124	3049	Frequency	Fortnightly	true	false
+15671125	8036	Frequency	Fortnightly	true	false
+15671130	5001	Frequency	Irregular	true	false
+15671131	10017	Frequency	Irregular	true	false
+15671132	7022	Frequency	Irregular	true	false
+15671133	1030	Frequency	Irregular	true	false
+15671135	66135	Frequency	Monthly	true	false
+15671136	63029	Frequency	Monthly	true	false
+15671143	7017	Frequency	Monthly	true	false
+15671144	9015	Frequency	Monthly	true	false
+15671145	13022	Frequency	Monthly	true	false
+15671146	2030	Frequency	Monthly	true	false
+15671160	65094	Frequency	Monthly	true	false
+15671161	62077	Frequency	Monthly	true	false
+15671162	64096	Frequency	Monthly	true	false
+15671163	67103	Frequency	Monthly	true	false
+15671168	65134	Frequency	Monthly	true	false
+15671169	61107	Frequency	Monthly	true	false
+15671170	63133	Frequency	Monthly	true	false
+15671171	71137	Frequency	Monthly	true	false
+15671172	62143	Frequency	Monthly	true	false
+15671173	73013	Frequency	Monthly	true	false
+15671178	7044	Frequency	Monthly	true	false
+15671179	8002	Frequency	Monthly (except January)	true	false
+15671183	69101	Frequency	Three issues per week	true	false
+15671184	72077	Frequency	Three issues per week	true	false
+15671185	68102	Frequency	Three issues per week	true	false
+15671186	62119	Frequency	Three issues per week	true	false
+15671187	72124	Frequency	Three issues per week	true	false
+15671199	3013	Frequency	Two issues per week	true	false
+15671200	5022	Frequency	Two issues per week	true	false
+15671223	67172	Frequency	Weekly	true	false
+15671230	6053	Frequency	Weekly	true	false
+15671231	60180	Frequency	Weekly	true	false
+15671232	6055	Frequency	Weekly	true	false
+15671239	13055	Frequency	Weekly	true	false
+15671240	73055	Frequency	Weekly	true	false
+15671246	13005	Frequency	Weekly	true	false
+15671247	12005	Frequency	Weekly	true	false
+15671248	13008	Frequency	Weekly	true	false
+15671249	11009	Frequency	Weekly	true	false
+15671250	11012	Frequency	Weekly	true	false
+15671251	1019	Frequency	Weekly	true	false
+15671257	14022	Frequency	Weekly	true	false
+15671258	5028	Frequency	Weekly	true	false
+15671259	22	Frequency	Weekly	true	false
+15671260	2031	Frequency	Weekly	true	false
+15671261	11023	Frequency	Weekly	true	false
+15671262	2033	Frequency	Weekly	true	false
+15671266	6034	Frequency	Weekly	true	false
+15671273	7040	Frequency	Weekly	true	false
+15671274	3042	Frequency	Weekly	true	false
+15671275	4046	Frequency	Weekly	true	false
+15671280	59054	Frequency	Weekly	true	false
+15671281	63040	Frequency	Weekly	true	false
+15671283	62045	Frequency	Weekly	true	false
+15671285	66053	Frequency	Weekly	true	false
+15671288	61049	Frequency	Weekly	true	false
+15671291	65071	Frequency	Weekly	true	false
+15671296	58057	Frequency	Weekly	true	false
+15671297	65078	Frequency	Weekly	true	false
+15671298	65079	Frequency	Weekly	true	false
+15671299	60055	Frequency	Weekly	true	false
+15671300	66081	Frequency	Weekly	true	false
+15671301	68062	Frequency	Weekly	true	false
+15671308	59085	Frequency	Weekly	true	false
+15671309	62079	Frequency	Weekly	true	false
+15671310	66094	Frequency	Weekly	true	false
+15671311	4051	Frequency	Weekly	true	false
+15671312	63087	Frequency	Weekly	true	false
+15671427	68093	Frequency	Weekly	true	false
+15671428	59104	Frequency	Weekly	true	false
+15671429	59106	Frequency	Weekly	true	false
+15671430	1046	Frequency	Weekly	true	false
+15671431	72095	Frequency	Weekly	true	false
+15671437	70126	Frequency	Weekly	true	false
+15671438	72106	Frequency	Weekly	true	false
+15671439	67124	Frequency	Weekly	true	false
+15671440	62109	Frequency	Weekly	true	false
+15671441	66124	Frequency	Weekly	true	false
+15671447	69150	Frequency	Weekly	true	false
+15671448	68124	Frequency	Weekly	true	false
+15671449	69156	Frequency	Weekly	true	false
+15671450	66142	Frequency	Weekly	true	false
+15671451	65147	Frequency	Weekly	true	false
+15671490	49	Frequency	Weekly	true	false
+15671491	8038	Frequency	Weekly	true	false
+15671492	2054	Frequency	Weekly	true	false
+15671606	14052	Price	Gratis	true	false
+15671607	2058	Price	Gratis	true	false
+15671608	13050	Price	Gratis	true	false
+15671609	14055	Price	Gratis	true	false
+15671618	10008	Price	Gratis	true	false
+15671619	9006	Price	Gratis	true	false
+15671628	2018	Price	Gratis	true	false
+15671640	11025	Price	Gratis	true	false
+15671648	11045	Price	Gratis	true	false
+15671649	5047	Price	Gratis	true	false
+15671651	13042	Price	Gratis	true	false
+15671652	1050	Price	Gratis	true	false
+15671655	51	Price	Gratis	true	false
+15740458	10046	First Issue Date	1878-08-27	false	false
+15750501	14242654	Note	I think this title might now be called the Kapiti News (kapitinews.co.nz) but I am not really sure.	false	false
+16651091	8029	Frequency	Every two months	true	false
+16651101	14051	Frequency	Fortnightly	true	false
+16651102	5057	Frequency	Fortnightly	true	false
+16651110	7035	Frequency	Fortnightly	true	false
+16651111	11033	Frequency	Fortnightly	true	false
+16651112	6039	Frequency	Fortnightly	true	false
+16651120	68089	Frequency	Fortnightly	true	false
+16651121	64112	Frequency	Fortnightly	true	false
+16651122	62100	Frequency	Fortnightly	true	false
+16651127	60148	Frequency	Fortnightly	true	false
+16651128	72154	Frequency	Fortnightly	true	false
+16651129	71168	Frequency	Fortnightly	true	false
+16651132	3057	Frequency	Fortnightly	true	false
+16651133	12041	Frequency	Fortnightly	true	false
+16651134	6003	Frequency	Weekly	true	false
+16651141	33	Frequency	Irregular	true	false
+16651142	10014	Frequency	Irregular	true	false
+16651145	10060	Frequency	Monthly	true	false
+16651146	11055	Frequency	Monthly	true	false
+16651147	10069	Frequency	Monthly	true	false
+16651148	8001	Frequency	Monthly	true	false
+16651149	6013	Frequency	Monthly	true	false
+16651150	68011	Frequency	Monthly	true	false
+16651155	12025	Frequency	Monthly	true	false
+16651156	9022	Frequency	Monthly	true	false
+16651157	10041	Frequency	Monthly	true	false
+16651158	11037	Frequency	Monthly	true	false
+16651159	12032	Frequency	Monthly	true	false
+16651160	68036	Frequency	Monthly	true	false
+16651161	61052	Frequency	Monthly	true	false
+16651162	71065	Frequency	Monthly	true	false
+16651163	64078	Frequency	Monthly	true	false
+16651187	3038	Frequency	Three issues per week	true	false
+16651188	63060	Frequency	Three issues per week	true	false
+16651193	70153	Frequency	Three issues per week	true	false
+16651194	72141	Frequency	Three issues per week	true	false
+16651195	70173	Frequency	Three issues per week	true	false
+16651196	62163	Frequency	Three issues per week	true	false
+16651197	72160	Frequency	Three issues per week	true	false
+16651198	3052	Frequency	Three issues per week	true	false
+16651199	4009	Frequency	Two issues per week	true	false
+16651200	19002	Frequency	Two issues per week	true	false
+16651201	6054	Frequency	Two issues per week	true	false
+16651202	14004	Frequency	Two issues per week	true	false
+16651209	59066	Frequency	Two issues per week	true	false
+16651210	64076	Frequency	Two issues per week	true	false
+16651211	58070	Frequency	Two issues per week	true	false
+16651212	70101	Frequency	Two issues per week	true	false
+16651219	59139	Frequency	Two issues per week	true	false
+16651220	70156	Frequency	Two issues per week	true	false
+16651221	73024	Frequency	Two issues per week	true	false
+16651222	73027	Frequency	Two issues per week	true	false
+16651225	67086	Frequency	Weekly	true	false
+16651226	64134	Frequency	Weekly	true	false
+16651227	60149	Frequency	Weekly	true	false
+16651228	3039	Frequency	Weekly	true	false
+16651229	3058	Frequency	Weekly	true	false
+16651230	13048	Frequency	Weekly	true	false
+16651231	14052	Frequency	Weekly	true	false
+16651244	65200	Frequency	Weekly	true	false
+16651270	7034	Frequency	Weekly	true	false
+16651271	59037	Frequency	Weekly	true	false
+16651272	12029	Frequency	Weekly	true	false
+16651273	14034	Frequency	Weekly	true	false
+16651274	14035	Frequency	Weekly	true	false
+16651278	9028	Frequency	Weekly	true	false
+16651279	6040	Frequency	Weekly	true	false
+16651283	1044	Frequency	Weekly	true	false
+16651287	68039	Frequency	Weekly	true	false
+16651291	71062	Frequency	Weekly	true	false
+16651292	68048	Frequency	Weekly	true	false
+16651298	72063	Frequency	Weekly	true	false
+16651299	62068	Frequency	Weekly	true	false
+16651300	66085	Frequency	Weekly	true	false
+16651301	62071	Frequency	Weekly	true	false
+16651302	67093	Frequency	Weekly	true	false
+16651303	64092	Frequency	Weekly	true	false
+16651308	69115	Frequency	Weekly	true	false
+16651309	71087	Frequency	Weekly	true	false
+16651310	60081	Frequency	Weekly	true	false
+16651311	65105	Frequency	Weekly	true	false
+16651450	65152	Frequency	Weekly	true	false
+16651453	62138	Frequency	Weekly	true	false
+16651454	64147	Frequency	Weekly	true	false
+16651455	63142	Frequency	Weekly	true	false
+16651456	69170	Frequency	Weekly	true	false
+16651457	69174	Frequency	Weekly	true	false
+16651458	14045	Frequency	Weekly	true	false
+16651459	64158	Frequency	Weekly	true	false
+16651460	72150	Frequency	Weekly	true	false
+16651461	69181	Frequency	Weekly	true	false
+16651462	66168	Frequency	Weekly	true	false
+16651469	6046	Frequency	Weekly	true	false
+16651470	7048	Frequency	Weekly	true	false
+16651471	73032	Frequency	Weekly	true	false
+16651472	71166	Frequency	Weekly	true	false
+16651473	70188	Frequency	Weekly	true	false
+16651480	5047	Frequency	Weekly	true	false
+16651602	4061	Price	Gratis	true	false
+16651603	6049	Price	Gratis	true	false
+16651607	5057	Price	Gratis	true	false
+16651608	3060	Price	Gratis	true	false
+16651609	13052	Price	Gratis	true	false
+16651610	70202	Price	Gratis	true	false
+16651611	1004	Price	Gratis	true	false
+16651612	2004	Price	Gratis	true	false
+16651613	5005	Price	Gratis	true	false
+16651617	4011	Price	Gratis	true	false
+16651618	3012	Price	Gratis	true	false
+16651619	13008	Price	Gratis	true	false
+16651620	3018	Price	Gratis	true	false
+16651621	1014	Price	Gratis	true	false
+16651622	11010	Price	Gratis	true	false
+16651623	7015	Price	Gratis	true	false
+16651626	2023	Price	Gratis	true	false
+16651634	10029	Price	Gratis	true	false
+16651635	13023	Price	Gratis	true	false
+16651636	4031	Price	Gratis	true	false
+16651637	2036	Price	Gratis	true	false
+16651638	4041	Price	Gratis	true	false
+16651639	6035	Price	Gratis	true	false
+16651640	6036	Price	Gratis	true	false
+16651641	63033	Price	Gratis	true	false
+16651642	14037	Price	Gratis	true	false
+16651643	41	Price	Gratis	true	false
+16651644	43	Price	Gratis	true	false
+16661119	10061	Frequency	Fortnightly	true	false
+16661120	11057	Frequency	Fortnightly	true	false
+16661121	61181	Frequency	Fortnightly	true	false
+16661124	5016	Frequency	Fortnightly	true	false
+16661131	1043	Frequency	Fortnightly	true	false
+16661132	12033	Frequency	Fortnightly	true	false
+16661133	69064	Frequency	Fortnightly	true	false
+16661134	69092	Frequency	Fortnightly	true	false
+16661135	62065	Frequency	Fortnightly	true	false
+16661136	64091	Frequency	Fortnightly	true	false
+16661137	63083	Frequency	Fortnightly	true	false
+16661141	71121	Frequency	Fortnightly	true	false
+16661150	69139	Frequency	Irregular	true	false
+16661151	9041	Frequency	Irregular	true	false
+16661157	2035	Frequency	Fortnightly	true	false
+16661182	58065	Frequency	Monthly	true	false
+16661183	66087	Frequency	Monthly	true	false
+16661188	60090	Frequency	Monthly	true	false
+16661189	10047	Frequency	Monthly	true	false
+16661190	63116	Frequency	Monthly	true	false
+16661191	61101	Frequency	Monthly	true	false
+16661198	63152	Frequency	Monthly	true	false
+16661199	65178	Frequency	Monthly	true	false
+16661200	3050	Frequency	Monthly	true	false
+16661201	3054	Frequency	Monthly	true	false
+16661221	6009	Frequency	Two issues per week	true	false
+16661224	64051	Frequency	Two issues per week	true	false
+16661225	68038	Frequency	Two issues per week	true	false
+16661226	60043	Frequency	Two issues per week	true	false
+16661231	58088	Frequency	Two issues per week	true	false
+16661232	67112	Frequency	Two issues per week	true	false
+16661233	72098	Frequency	Two issues per week	true	false
+16661234	66125	Frequency	Two issues per week	true	false
+16661235	70138	Frequency	Two issues per week	true	false
+16661236	67138	Frequency	Two issues per week	true	false
+16661241	65177	Frequency	Two issues per week	true	false
+16661242	6047	Frequency	Two issues per week	true	false
+16661243	13043	Frequency	Two issues per week	true	false
+16661251	9039	Frequency	Weekly	true	false
+16661252	10058	Frequency	Weekly	true	false
+16661256	65194	Frequency	Weekly	true	false
+16661257	12045	Frequency	Weekly	true	false
+16661258	7058	Frequency	Weekly	true	false
+16661259	13054	Frequency	Weekly	true	false
+16661264	66208	Frequency	Weekly	true	false
+16661265	66001	Frequency	Weekly	true	false
+16661266	1004	Frequency	Weekly	true	false
+16661267	7002	Frequency	Weekly	true	false
+16661268	14002	Frequency	Weekly	true	false
+16661275	12016	Frequency	Weekly	true	false
+16661276	5021	Frequency	Weekly	true	false
+16661277	12019	Frequency	Weekly	true	false
+16661278	2027	Frequency	Weekly	true	false
+16661285	4038	Frequency	Weekly	true	false
+16661286	1038	Frequency	Weekly	true	false
+16661287	7032	Frequency	Weekly	true	false
+16661296	3044	Frequency	Weekly	true	false
+16661300	71050	Frequency	Weekly	true	false
+16661303	59067	Frequency	Weekly	true	false
+16661434	67108	Frequency	Weekly	true	false
+16661435	72091	Frequency	Weekly	true	false
+16661441	66118	Frequency	Weekly	true	false
+16661442	70124	Frequency	Weekly	true	false
+16661443	63107	Frequency	Weekly	true	false
+16661444	58108	Frequency	Weekly	true	false
+16661445	62103	Frequency	Weekly	true	false
+16661451	71119	Frequency	Weekly	true	false
+16661452	11043	Frequency	Weekly	true	false
+16661453	68117	Frequency	Weekly	true	false
+16661454	67130	Frequency	Weekly	true	false
+16661455	9036	Frequency	Weekly	true	false
+16661461	58132	Frequency	Weekly	true	false
+16661462	71134	Frequency	Weekly	true	false
+16661465	61121	Frequency	Weekly	true	false
+16661466	72139	Frequency	Weekly	true	false
+16661478	66170	Frequency	Weekly	true	false
+16661479	65171	Frequency	Weekly	true	false
+16661480	61138	Frequency	Weekly	true	false
+16661481	65174	Frequency	Weekly	true	false
+16661482	67169	Frequency	Weekly	true	false
+16661489	61153	Frequency	Weekly	true	false
+16661490	73034	Frequency	Weekly	true	false
+16661491	62173	Frequency	Weekly	true	false
+16661492	65183	Frequency	Weekly	true	false
+16661493	64177	Frequency	Weekly	true	false
+16661496	13042	Frequency	Weekly	true	false
+16661497	1050	Frequency	Weekly	true	false
+16661498	13044	Frequency	Weekly	true	false
+16661638	14015	Price	Gratis	true	false
+16661639	71019	Price	Gratis	true	false
+16661640	9016	Price	Gratis	true	false
+16661641	64026	Price	Gratis	true	false
+16661642	6025	Price	Gratis	true	false
+16661643	5029	Price	Gratis	true	false
+16661644	10026	Price	Gratis	true	false
+16661657	45	Price	Gratis	true	false
+16661660	5050	Price	Gratis	true	false
+16661661	3056	Price	Gratis	true	false
+16730463	67178	Papers Past Code	WEST	false	false
+17470368	13027	Frequency	Fortnightly	true	false
+17470369	13037	Frequency	Weekly	true	false
+17701103	6052	Frequency	Fortnightly	true	false
+17701104	1060	Frequency	Fortnightly	true	false
+17701114	9027	Frequency	Fortnightly	true	false
+17701115	7043	Frequency	Fortnightly	true	false
+17701116	68034	Frequency	Fortnightly	true	false
+17701117	71054	Frequency	Fortnightly	true	false
+17701118	64075	Frequency	Fortnightly	true	false
+17701119	60062	Frequency	Fortnightly	true	false
+17701120	71081	Frequency	Fortnightly	true	false
+17701125	60115	Frequency	Fortnightly	true	false
+17701126	12036	Frequency	Fortnightly	true	false
+17701136	72060	Frequency	Irregular	true	false
+17701137	71139	Frequency	Irregular	true	false
+17701141	13029	Frequency	Fortnightly	true	false
+17701142	66040	Frequency	Irregular	true	false
+17701166	58062	Frequency	Monthly	true	false
+17701167	67090	Frequency	Monthly	true	false
+17701168	64084	Frequency	Monthly	true	false
+17701172	72087	Frequency	Monthly	true	false
+17701173	69127	Frequency	Monthly	true	false
+17701174	68100	Frequency	Monthly	true	false
+17701175	72112	Frequency	Monthly	true	false
+17701176	58117	Frequency	Monthly	true	false
+17701183	63146	Frequency	Monthly	true	false
+17701184	71155	Frequency	Monthly	true	false
+17701185	63172	Frequency	Monthly	true	false
+17701186	7049	Frequency	Monthly	true	false
+17701187	12040	Frequency	Monthly	true	false
+17701191	11016	Frequency	Three issues per week	true	false
+17701211	10043	Frequency	Two issues per week	true	false
+17701212	70051	Frequency	Two issues per week	true	false
+17701213	60042	Frequency	Two issues per week	true	false
+17701218	61082	Frequency	Two issues per week	true	false
+17701219	67109	Frequency	Two issues per week	true	false
+17701220	68095	Frequency	Two issues per week	true	false
+17701221	70128	Frequency	Two issues per week	true	false
+17701222	59124	Frequency	Two issues per week	true	false
+17701223	58123	Frequency	Two issues per week	true	false
+17701228	67178	Frequency	Two issues per week	true	false
+17701229	61165	Frequency	Two issues per week	true	false
+17701237	1056	Frequency	Weekly	true	false
+17701238	13050	Frequency	Weekly	true	false
+17701239	9042	Frequency	Weekly	true	false
+17701243	11056	Frequency	Weekly	true	false
+17701244	1058	Frequency	Weekly	true	false
+17701245	10068	Frequency	Weekly	true	false
+17701246	9047	Frequency	Weekly	true	false
+17701249	10071	Frequency	Weekly	true	false
+17701253	1003	Frequency	Weekly	true	false
+17701254	17001	Frequency	Weekly	true	false
+17701255	4006	Frequency	Weekly	true	false
+17701262	10019	Frequency	Weekly	true	false
+17701263	11018	Frequency	Weekly	true	false
+17701264	25002	Frequency	Weekly	true	false
+17701265	2026	Frequency	Weekly	true	false
+17701266	4027	Frequency	Weekly	true	false
+17701273	2034	Frequency	Weekly	true	false
+17701274	3033	Frequency	Weekly	true	false
+17701275	10035	Frequency	Weekly	true	false
+17701290	4048	Frequency	Weekly	true	false
+17701296	70062	Frequency	Weekly	true	false
+17701297	64061	Frequency	Weekly	true	false
+17701299	60046	Frequency	Weekly	true	false
+17701300	63057	Frequency	Weekly	true	false
+17701431	65115	Frequency	Weekly	true	false
+17701437	72096	Frequency	Weekly	true	false
+17701438	68097	Frequency	Weekly	true	false
+17701439	59114	Frequency	Weekly	true	false
+17701440	63109	Frequency	Weekly	true	false
+17701441	60106	Frequency	Weekly	true	false
+17701447	69140	Frequency	Weekly	true	false
+17701448	59126	Frequency	Weekly	true	false
+17701449	60120	Frequency	Weekly	true	false
+17701450	72117	Frequency	Weekly	true	false
+17701451	67132	Frequency	Weekly	true	false
+17701457	7047	Frequency	Weekly	true	false
+17701458	61115	Frequency	Weekly	true	false
+17701459	66146	Frequency	Weekly	true	false
+17701461	69165	Frequency	Weekly	true	false
+17701462	68137	Frequency	Weekly	true	false
+17701474	66171	Frequency	Weekly	true	false
+17701475	69185	Frequency	Weekly	true	false
+17701476	70178	Frequency	Weekly	true	false
+17701477	2050	Frequency	Weekly	true	false
+17701478	65176	Frequency	Weekly	true	false
+17701484	68162	Frequency	Weekly	true	false
+17701485	70189	Frequency	Weekly	true	false
+17701486	61157	Frequency	Weekly	true	false
+17701487	62179	Frequency	Weekly	true	false
+17701488	61162	Frequency	Weekly	true	false
+17701491	3053	Frequency	Weekly	true	false
+17701492	4057	Frequency	Weekly	true	false
+17701493	11047	Frequency	Weekly	true	false
+17701494	4058	Frequency	Weekly	true	false
+17701638	1024	Price	Gratis	true	false
+17701639	6020	Price	Gratis	true	false
+17701640	5020	Price	Gratis	true	false
+17701641	2026	Price	Gratis	true	false
+17701642	66026	Price	Gratis	true	false
+17701643	14023	Price	Gratis	true	false
+17701644	1031	Price	Gratis	true	false
+17701645	7025	Price	Gratis	true	false
+17701657	13040	Price	Gratis	true	false
+17701661	13044	Price	Gratis	true	false
+17701662	1051	Price	Gratis	true	false
+17701663	5051	Price	Gratis	true	false
+18420368	8013	Frequency	Annually	true	false
+18420369	4049	Frequency	Weekly	true	false
+18601120	5056	Frequency	Fortnightly	true	false
+18601121	64	Frequency	Fortnightly	true	false
+18601130	39	Frequency	Fortnightly	true	false
+18601131	14342634	Frequency	Fortnightly	true	false
+18601132	68037	Frequency	Fortnightly	true	false
+18601133	61064	Frequency	Fortnightly	true	false
+18601134	71074	Frequency	Fortnightly	true	false
+18601135	63078	Frequency	Fortnightly	true	false
+18601140	62108	Frequency	Fortnightly	true	false
+18601141	65132	Frequency	Fortnightly	true	false
+18601149	71120	Frequency	Irregular	true	false
+18601154	11029	Frequency	Irregular	true	false
+18601179	67089	Frequency	Monthly	true	false
+18601180	66088	Frequency	Monthly	true	false
+18601185	66110	Frequency	Monthly	true	false
+18601186	61094	Frequency	Monthly	true	false
+18601187	70133	Frequency	Monthly	true	false
+18601188	63123	Frequency	Monthly	true	false
+18601195	72155	Frequency	Monthly	true	false
+18601196	60163	Frequency	Monthly	true	false
+18601197	45	Frequency	Monthly	true	false
+18601198	8037	Frequency	Monthly	true	false
+18601203	12006	Frequency	Three issues per week	true	false
+18601222	14006	Frequency	Two issues per week	true	false
+18601225	5039	Frequency	Two issues per week	true	false
+18601226	2048	Frequency	Two issues per week	true	false
+18601227	62047	Frequency	Two issues per week	true	false
+18601233	68087	Frequency	Two issues per week	true	false
+18601234	71096	Frequency	Two issues per week	true	false
+18601235	69125	Frequency	Two issues per week	true	false
+18601236	60104	Frequency	Two issues per week	true	false
+18601237	60118	Frequency	Two issues per week	true	false
+18601238	66133	Frequency	Two issues per week	true	false
+18601243	67173	Frequency	Two issues per week	true	false
+18601244	63173	Frequency	Two issues per week	true	false
+18601254	2058	Frequency	Weekly	true	false
+18601255	5055	Frequency	Weekly	true	false
+18601256	9040	Frequency	Weekly	true	false
+18601260	5058	Frequency	Weekly	true	false
+18601261	3061	Frequency	Weekly	true	false
+18601262	4071	Frequency	Weekly	true	false
+18601265	10070	Frequency	Weekly	true	false
+18601269	1002	Frequency	Weekly	true	false
+18601270	1005	Frequency	Weekly	true	false
+18601271	6006	Frequency	Weekly	true	false
+18601277	6019	Frequency	Weekly	true	false
+18601278	3024	Frequency	Weekly	true	false
+18601279	8014	Frequency	Weekly	true	false
+18601280	6024	Frequency	Weekly	true	false
+18601281	1028	Frequency	Weekly	true	false
+18601287	7027	Frequency	Weekly	true	false
+18601288	4039	Frequency	Weekly	true	false
+18601289	6033	Frequency	Weekly	true	false
+18601301	42	Frequency	Weekly	true	false
+18601306	58048	Frequency	Weekly	true	false
+18601308	60045	Frequency	Weekly	true	false
+18601309	69081	Frequency	Weekly	true	false
+18601429	59096	Frequency	Weekly	true	false
+18601440	58097	Frequency	Weekly	true	false
+18601441	71099	Frequency	Weekly	true	false
+18601448	60097	Frequency	Weekly	true	false
+18601449	62101	Frequency	Weekly	true	false
+18601450	60103	Frequency	Weekly	true	false
+18601451	5045	Frequency	Weekly	true	false
+18601452	72103	Frequency	Weekly	true	false
+18601458	72113	Frequency	Weekly	true	false
+18601459	62114	Frequency	Weekly	true	false
+18601460	70137	Frequency	Weekly	true	false
+18601461	6045	Frequency	Weekly	true	false
+18601462	63128	Frequency	Weekly	true	false
+18601463	68121	Frequency	Weekly	true	false
+18601469	70148	Frequency	Weekly	true	false
+18601470	70150	Frequency	Weekly	true	false
+18601471	60136	Frequency	Weekly	true	false
+18601472	73004	Frequency	Weekly	true	false
+18601473	61125	Frequency	Weekly	true	false
+18601485	73023	Frequency	Weekly	true	false
+18601486	59154	Frequency	Weekly	true	false
+18601487	65172	Frequency	Weekly	true	false
+18601488	70180	Frequency	Weekly	true	false
+18601489	61143	Frequency	Weekly	true	false
+18601495	71167	Frequency	Weekly	true	false
+18601496	61155	Frequency	Weekly	true	false
+18601497	64174	Frequency	Weekly	true	false
+18601498	1048	Frequency	Weekly	true	false
+18601499	60167	Frequency	Weekly	true	false
+18601502	2051	Frequency	Weekly	true	false
+18601503	12039	Frequency	Weekly	true	false
+18601504	10053	Frequency	Weekly	true	false
+18601505	5050	Frequency	Weekly	true	false
+18601650	10020	Price	Gratis	true	false
+18601651	12016	Price	Gratis	true	false
+18601652	7023	Price	Gratis	true	false
+18601653	8016	Price	Gratis	true	false
+18601654	1028	Price	Gratis	true	false
+18601655	10025	Price	Gratis	true	false
+18601656	6027	Price	Gratis	true	false
+18601657	10027	Price	Gratis	true	false
+18601670	14047	Price	Gratis	true	false
+18601671	5049	Price	Gratis	true	false
+18601672	2051	Price	Gratis	true	false
+18601675	11047	Price	Gratis	true	false
+18601676	47	Price	Gratis	true	false
+18601677	8036	Price	Gratis	true	false
+18611085	2061	Frequency	Every two months	true	false
+18611086	3021	Frequency	Every two months	true	false
+18611105	71012	Frequency	Fortnightly	true	false
+18611106	2016	Frequency	Fortnightly	true	false
+18611107	12017	Frequency	Fortnightly	true	false
+18611108	5024	Frequency	Fortnightly	true	false
+18611125	71132	Frequency	Fortnightly	true	false
+18611129	61159	Frequency	Fortnightly	true	false
+18611130	4056	Frequency	Fortnightly	true	false
+18611133	19001	Frequency	Irregular	true	false
+18611134	4021	Frequency	Irregular	true	false
+18611135	9018	Frequency	Weekly	true	false
+18611136	4037	Frequency	Irregular	true	false
+18611140	63108	Frequency	Monthly	true	false
+18611141	68171	Frequency	Monthly	true	false
+18611142	2056	Frequency	Monthly	true	false
+18611150	71019	Frequency	Monthly	true	false
+18611151	8016	Frequency	Monthly	true	false
+18611152	5029	Frequency	Monthly	true	false
+18611153	24	Frequency	Monthly	true	false
+18611166	63075	Frequency	Monthly	true	false
+18611167	62078	Frequency	Monthly	true	false
+18611168	72080	Frequency	Monthly	true	false
+18611169	64106	Frequency	Monthly	true	false
+18611174	69144	Frequency	Monthly	true	false
+18611175	69148	Frequency	Monthly	true	false
+18611176	63132	Frequency	Monthly	true	false
+18611177	63138	Frequency	Monthly	true	false
+18611178	65158	Frequency	Monthly	true	false
+18611179	62147	Frequency	Monthly	true	false
+18611180	73019	Frequency	Monthly	true	false
+18611185	52	Frequency	Monthly	true	false
+18611186	25001	Frequency	Monthly (except January)	true	false
+18611187	10018	Frequency	Quarterly	true	false
+18611191	58077	Frequency	Three issues per week	true	false
+18611192	72086	Frequency	Three issues per week	true	false
+18611193	72116	Frequency	Three issues per week	true	false
+18611194	65137	Frequency	Three issues per week	true	false
+18611206	2009	Frequency	Two issues per week	true	false
+18611207	12009	Frequency	Two issues per week	true	false
+18611240	8041	Frequency	Weekly	true	false
+18611241	9043	Frequency	Weekly	true	false
+18611242	4069	Frequency	Weekly	true	false
+18611246	12047	Frequency	Weekly	true	false
+18611249	59184	Frequency	Weekly	true	false
+18611250	59186	Frequency	Weekly	true	false
+18611256	14005	Frequency	Weekly	true	false
+18611257	20001	Frequency	Weekly	true	false
+18611258	1013	Frequency	Weekly	true	false
+18611259	4014	Frequency	Weekly	true	false
+18611260	4018	Frequency	Weekly	true	false
+18611266	10025	Frequency	Weekly	true	false
+18611267	1031	Frequency	Weekly	true	false
+18611268	1033	Frequency	Weekly	true	false
+18611269	6030	Frequency	Weekly	true	false
+18611270	5032	Frequency	Weekly	true	false
+18611280	2044	Frequency	Weekly	true	false
+18611281	11035	Frequency	Weekly	true	false
+18611282	14037	Frequency	Weekly	true	false
+18611287	71049	Frequency	Weekly	true	false
+18611289	67065	Frequency	Weekly	true	false
+18611290	72045	Frequency	Weekly	true	false
+18611293	60044	Frequency	Weekly	true	false
+18611298	62058	Frequency	Weekly	true	false
+18611299	68052	Frequency	Weekly	true	false
+18611300	68054	Frequency	Weekly	true	false
+18611301	68058	Frequency	Weekly	true	false
+18611302	71072	Frequency	Weekly	true	false
+18611308	62076	Frequency	Weekly	true	false
+18611309	66090	Frequency	Weekly	true	false
+18611310	70097	Frequency	Weekly	true	false
+18611311	68077	Frequency	Weekly	true	false
+18611312	69113	Frequency	Weekly	true	false
+18611427	58099	Frequency	Weekly	true	false
+18611428	71101	Frequency	Weekly	true	false
+18611429	70119	Frequency	Weekly	true	false
+18611430	67115	Frequency	Weekly	true	false
+18611431	66117	Frequency	Weekly	true	false
+18611432	59108	Frequency	Weekly	true	false
+18611438	58109	Frequency	Weekly	true	false
+18611439	66122	Frequency	Weekly	true	false
+18611440	60110	Frequency	Weekly	true	false
+18611441	60113	Frequency	Weekly	true	false
+18611442	58111	Frequency	Weekly	true	false
+18611449	59134	Frequency	Weekly	true	false
+18611450	65140	Frequency	Weekly	true	false
+18611451	68125	Frequency	Weekly	true	false
+18611452	67142	Frequency	Weekly	true	false
+18611453	12037	Frequency	Weekly	true	false
+18611464	65165	Frequency	Weekly	true	false
+18611490	10055	Frequency	Weekly	true	false
+18611491	14048	Frequency	Weekly	true	false
+18611498	14050	Price	Gratis	true	false
+18611608	4064	Price	Gratis	true	false
+18611609	12044	Price	Gratis	true	false
+18611610	6050	Price	Gratis	true	false
+18611619	4009	Price	Gratis	true	false
+18611620	11006	Price	Gratis	true	false
+18611621	2008	Price	Gratis	true	false
+18611629	25001	Price	Gratis	true	false
+18611630	5016	Price	Gratis	true	false
+18611649	9036	Price	Gratis	true	false
+18611650	4054	Price	Gratis	true	false
+18611654	4056	Price	Gratis	true	false
+18611655	66193	Price	Gratis	true	false
+18611659	7053	Price	Gratis	true	false
+18611660	4060	Price	Gratis	true	false
+18621077	11039	Frequency	Every two months	true	false
+18621080	63034	Frequency	Daily	true	false
+18621083	5043	Frequency	Daily	true	false
+18621094	71036	Frequency	Every ten days	true	false
+18621095	6050	Frequency	Fortnightly	true	false
+18621103	5030	Frequency	Fortnightly	true	false
+18621104	23	Frequency	Fortnightly	true	false
+18621105	11031	Frequency	Fortnightly	true	false
+18621106	9024	Frequency	Fortnightly	true	false
+18621113	69120	Frequency	Fortnightly	true	false
+18621114	69130	Frequency	Fortnightly	true	false
+18621115	67122	Frequency	Fortnightly	true	false
+18621119	67145	Frequency	Fortnightly	true	false
+18621120	62148	Frequency	Fortnightly	true	false
+18621121	63154	Frequency	Fortnightly	true	false
+18621124	4059	Frequency	Fortnightly	true	false
+18621132	6038	Frequency	Irregular	true	false
+18621136	11052	Frequency	Monthly	true	false
+18621137	4066	Frequency	Monthly	true	false
+18621138	4068	Frequency	Monthly	true	false
+18621139	11058	Frequency	Monthly	true	false
+18621140	9002	Frequency	Monthly	true	false
+18621141	1016	Frequency	Monthly	true	false
+18621142	8011	Frequency	Monthly	true	false
+18621147	10033	Frequency	Monthly	true	false
+18621148	1037	Frequency	Monthly	true	false
+18621149	68023	Frequency	Monthly	true	false
+18621150	11034	Frequency	Monthly	true	false
+18621151	2045	Frequency	Monthly	true	false
+18621152	14040	Frequency	Monthly	true	false
+18621153	4050	Frequency	Monthly	true	false
+18621154	59059	Frequency	Monthly	true	false
+18621155	69079	Frequency	Monthly	true	false
+18621156	69095	Frequency	Monthly	true	false
+18621179	69065	Frequency	Three issues per week	true	false
+18621180	59074	Frequency	Three issues per week	true	false
+18621185	69162	Frequency	Three issues per week	true	false
+18621186	59148	Frequency	Three issues per week	true	false
+18621187	63157	Frequency	Three issues per week	true	false
+18621188	67168	Frequency	Three issues per week	true	false
+18621189	65179	Frequency	Three issues per week	true	false
+18621190	10046	Frequency	Three issues per week	true	false
+18621191	14025	Frequency	Two issues per month	true	false
+18621192	11006	Frequency	Two issues per week	true	false
+18621193	1034	Frequency	Two issues per week	true	false
+18621194	59182	Frequency	Two issues per week	true	false
+18621195	2007	Frequency	Two issues per week	true	false
+18621201	72057	Frequency	Two issues per week	true	false
+18621202	68059	Frequency	Two issues per week	true	false
+18621203	60068	Frequency	Two issues per week	true	false
+18621204	58081	Frequency	Two issues per week	true	false
+18621211	69159	Frequency	Two issues per week	true	false
+18621212	61122	Frequency	Two issues per week	true	false
+18621213	63156	Frequency	Two issues per week	true	false
+18621214	72159	Frequency	Two issues per week	true	false
+18621218	63082	Frequency	Weekly	true	false
+18621219	69145	Frequency	Weekly	true	false
+18621220	60152	Frequency	Weekly	true	false
+18621221	1055	Frequency	Weekly	true	false
+18621222	13047	Frequency	Weekly	true	false
+18621223	11051	Frequency	Weekly	true	false
+18621224	11053	Frequency	Weekly	true	false
+18621236	70203	Frequency	Weekly	true	false
+18621237	71188	Frequency	Weekly	true	false
+18621260	6035	Frequency	Weekly	true	false
+18621261	13031	Frequency	Weekly	true	false
+18621262	11032	Frequency	Weekly	true	false
+18621263	5040	Frequency	Weekly	true	false
+18621267	38	Frequency	Weekly	true	false
+18621268	6041	Frequency	Weekly	true	false
+18621272	12034	Frequency	Weekly	true	false
+18621279	64063	Frequency	Weekly	true	false
+18621281	69084	Frequency	Weekly	true	false
+18621283	7046	Frequency	Weekly	true	false
+18621288	59081	Frequency	Weekly	true	false
+18621289	65089	Frequency	Weekly	true	false
+18621290	70088	Frequency	Weekly	true	false
+18621291	64085	Frequency	Weekly	true	false
+18621292	67095	Frequency	Weekly	true	false
+18621298	72079	Frequency	Weekly	true	false
+18621299	64099	Frequency	Weekly	true	false
+18621300	58082	Frequency	Weekly	true	false
+18621301	58085	Frequency	Weekly	true	false
+18621408	58089	Frequency	Weekly	true	false
+18621443	70159	Frequency	Weekly	true	false
+18621444	70161	Frequency	Weekly	true	false
+18621445	70164	Frequency	Weekly	true	false
+18621446	61127	Frequency	Weekly	true	false
+18621447	62146	Frequency	Weekly	true	false
+18621448	69175	Frequency	Weekly	true	false
+18621449	63145	Frequency	Weekly	true	false
+18621450	59151	Frequency	Weekly	true	false
+18621451	62153	Frequency	Weekly	true	false
+18621452	70171	Frequency	Weekly	true	false
+18621453	72153	Frequency	Weekly	true	false
+18621459	63164	Frequency	Weekly	true	false
+18621460	60162	Frequency	Weekly	true	false
+18621461	63165	Frequency	Weekly	true	false
+18621462	66183	Frequency	Weekly	true	false
+18621463	63170	Frequency	Weekly	true	false
+18621464	69196	Frequency	Weekly	true	false
+18621470	13039	Frequency	Weekly	true	false
+18621471	14047	Frequency	Weekly	true	false
+18621590	3058	Price	Gratis	true	false
+18621591	10057	Price	Gratis	true	false
+18621595	6052	Price	Gratis	true	false
+18621596	9043	Price	Gratis	true	false
+18621597	11057	Price	Gratis	true	false
+18621598	64196	Price	Gratis	true	false
+18621599	16002	Price	Gratis	true	false
+18621600	10003	Price	Gratis	true	false
+18621601	2006	Price	Gratis	true	false
+18621605	1010	Price	Gratis	true	false
+18621606	7008	Price	Gratis	true	false
+18621607	14007	Price	Gratis	true	false
+18621608	5011	Price	Gratis	true	false
+18621609	7011	Price	Gratis	true	false
+18621610	4015	Price	Gratis	true	false
+18621611	8009	Price	Gratis	true	false
+18621614	14014	Price	Gratis	true	false
+18621622	2030	Price	Gratis	true	false
+18621623	6031	Price	Gratis	true	false
+18621624	11024	Price	Gratis	true	false
+18621626	2037	Price	Gratis	true	false
+18621627	59037	Price	Gratis	true	false
+18621628	11032	Price	Gratis	true	false
+18621629	13033	Price	Gratis	true	false
+18621630	4046	Price	Gratis	true	false
+18621631	42	Price	Gratis	true	false
+18621632	9034	Price	Gratis	true	false
+18621639	3057	Price	Gratis	true	false
+18631087	10024	Frequency	Every two months	true	false
+18631088	66066	Frequency	Every two months	true	false
+18631099	12008	Frequency	Every three weeks	true	false
+18631106	9019	Frequency	Fortnightly	true	false
+18631107	7028	Frequency	Fortnightly	true	false
+18631108	7036	Frequency	Fortnightly	true	false
+18631109	1040	Frequency	Fortnightly	true	false
+18631116	60077	Frequency	Fortnightly	true	false
+18631117	58093	Frequency	Fortnightly	true	false
+18631118	61088	Frequency	Fortnightly	true	false
+18631119	60100	Frequency	Fortnightly	true	false
+18631123	8034	Frequency	Fortnightly	true	false
+18631124	64153	Frequency	Fortnightly	true	false
+18631125	64162	Frequency	Fortnightly	true	false
+18631128	7053	Frequency	Fortnightly	true	false
+18631135	37	Frequency	Irregular	true	false
+18631139	14055	Frequency	Monthly	true	false
+18631140	13051	Frequency	Monthly	true	false
+18631141	3059	Frequency	Monthly	true	false
+18631142	8044	Frequency	Monthly	true	false
+18631143	4004	Frequency	Monthly	true	false
+18631144	6015	Frequency	Monthly	true	false
+18631145	9013	Frequency	Monthly	true	false
+18631150	12022	Frequency	Monthly	true	false
+18631151	3031	Frequency	Monthly	true	false
+18631152	27	Frequency	Monthly	true	false
+18631153	35	Frequency	Monthly	true	false
+18631154	1042	Frequency	Monthly	true	false
+18631155	71048	Frequency	Monthly	true	false
+18631156	64052	Frequency	Monthly	true	false
+18631157	67069	Frequency	Monthly	true	false
+18631158	66063	Frequency	Monthly	true	false
+18631159	66080	Frequency	Monthly	true	false
+18631184	10030	Frequency	Quarterly	true	false
+18631185	61055	Frequency	Three issues per week	true	false
+18631186	59076	Frequency	Three issues per week	true	false
+18631191	72137	Frequency	Three issues per week	true	false
+18631192	73015	Frequency	Three issues per week	true	false
+18631193	66174	Frequency	Three issues per week	true	false
+18631194	59159	Frequency	Three issues per week	true	false
+18631195	64173	Frequency	Three issues per week	true	false
+18631196	14056	Frequency	Two issues per month	true	false
+18631197	60032	Frequency	Two issues per month	true	false
+18631198	1008	Frequency	Two issues per week	true	false
+18631199	11044	Frequency	Two issues per week	true	false
+18631200	13003	Frequency	Two issues per week	true	false
+18631207	63050	Frequency	Two issues per week	true	false
+18631208	70072	Frequency	Two issues per week	true	false
+18631209	69102	Frequency	Two issues per week	true	false
+18631210	68073	Frequency	Two issues per week	true	false
+18631211	70102	Frequency	Two issues per week	true	false
+18631218	71128	Frequency	Two issues per week	true	false
+18631219	66144	Frequency	Two issues per week	true	false
+18631220	71147	Frequency	Two issues per week	true	false
+18631221	64165	Frequency	Two issues per week	true	false
+18631222	62164	Frequency	Two issues per week	true	false
+18631225	58044	Frequency	Weekly	true	false
+18631226	62093	Frequency	Weekly	true	false
+18631227	65138	Frequency	Weekly	true	false
+18631228	65166	Frequency	Weekly	true	false
+18631229	5053	Frequency	Weekly	true	false
+18631230	9038	Frequency	Weekly	true	false
+18631231	10057	Frequency	Weekly	true	false
+18631232	2057	Frequency	Weekly	true	false
+18631243	9048	Frequency	Weekly	true	false
+18631246	70205	Frequency	Weekly	true	false
+18631247	70207	Frequency	Weekly	true	false
+18631269	28	Frequency	Weekly	true	false
+18631270	10038	Frequency	Weekly	true	false
+18631271	10039	Frequency	Weekly	true	false
+18631272	7038	Frequency	Weekly	true	false
+18631273	13032	Frequency	Weekly	true	false
+18631274	4044	Frequency	Weekly	true	false
+18631278	7042	Frequency	Weekly	true	false
+18631279	14038	Frequency	Weekly	true	false
+18631282	14042	Frequency	Weekly	true	false
+18631287	67072	Frequency	Weekly	true	false
+18631292	62057	Frequency	Weekly	true	false
+18631300	68065	Frequency	Weekly	true	false
+18631301	61069	Frequency	Weekly	true	false
+18631302	72067	Frequency	Weekly	true	false
+18631303	61071	Frequency	Weekly	true	false
+18631304	61072	Frequency	Weekly	true	false
+18631310	67101	Frequency	Weekly	true	false
+18631311	68081	Frequency	Weekly	true	false
+18631312	65104	Frequency	Weekly	true	false
+18631313	67106	Frequency	Weekly	true	false
+18631421	72084	Frequency	Weekly	true	false
+18631455	72140	Frequency	Weekly	true	false
+18631456	66150	Frequency	Weekly	true	false
+18631457	59146	Frequency	Weekly	true	false
+18631458	62145	Frequency	Weekly	true	false
+18631459	68142	Frequency	Weekly	true	false
+18631461	68146	Frequency	Weekly	true	false
+18631462	65169	Frequency	Weekly	true	false
+18631463	71153	Frequency	Weekly	true	false
+18631464	64160	Frequency	Weekly	true	false
+18631470	73028	Frequency	Weekly	true	false
+18631471	72161	Frequency	Weekly	true	false
+18631472	69194	Frequency	Weekly	true	false
+18631473	64171	Frequency	Weekly	true	false
+18631474	67174	Frequency	Weekly	true	false
+18631480	11045	Frequency	Weekly	true	false
+18631481	13040	Frequency	Weekly	true	false
+18631599	13047	Price	Gratis	true	false
+18631600	7055	Price	Gratis	true	false
+18631604	6053	Price	Gratis	true	false
+18631605	10066	Price	Gratis	true	false
+18631606	2063	Price	Gratis	true	false
+18631607	70205	Price	Gratis	true	false
+18631608	17001	Price	Gratis	true	false
+18631609	8002	Price	Gratis	true	false
+18631610	13004	Price	Gratis	true	false
+18631614	7007	Price	Gratis	true	false
+18631615	9008	Price	Gratis	true	false
+18631616	3015	Price	Gratis	true	false
+18631617	11009	Price	Gratis	true	false
+18631618	3019	Price	Gratis	true	false
+18631619	7013	Price	Gratis	true	false
+18631620	1017	Price	Gratis	true	false
+18631623	10019	Price	Gratis	true	false
+18631632	4029	Price	Gratis	true	false
+18631633	8021	Price	Gratis	true	false
+18631634	14026	Price	Gratis	true	false
+18631635	10035	Price	Gratis	true	false
+18631636	72030	Price	Gratis	true	false
+18631637	3037	Price	Gratis	true	false
+18631638	9026	Price	Gratis	true	false
+18631639	11039	Price	Gratis	true	false
+18631640	4048	Price	Gratis	true	false
+19440371	43	Frequency	Weekly	true	false
+19450149	7045	Frequency	Weekly	true	false
+21521086	14018	Frequency	Annually	true	false
+21521087	9044	Frequency	Every two months	true	false
+21521088	12015	Frequency	Every two months	true	false
+21521109	13013	Frequency	Fortnightly	true	false
+21521110	4025	Frequency	Fortnightly	true	false
+21521111	12020	Frequency	Fortnightly	true	false
+21521129	64138	Frequency	Fortnightly	true	false
+21521130	2049	Frequency	Fortnightly	true	false
+21521134	68167	Frequency	Fortnightly	true	false
+21521135	47	Frequency	Fortnightly	true	false
+21521139	22001	Frequency	Irregular	true	false
+21521140	2017	Frequency	Irregular	true	false
+21521141	10022	Frequency	Monthly	true	false
+21521144	58110	Frequency	Monthly	true	false
+21521145	8024	Frequency	Monthly	true	false
+21521152	1020	Frequency	Monthly	true	false
+21521153	12018	Frequency	Monthly	true	false
+21521154	5023	Frequency	Monthly	true	false
+21521155	10026	Frequency	Monthly	true	false
+21521169	68072	Frequency	Monthly	true	false
+21521170	65098	Frequency	Monthly	true	false
+21521171	71088	Frequency	Monthly	true	false
+21521177	65133	Frequency	Monthly	true	false
+21521178	62123	Frequency	Monthly	true	false
+21521179	62126	Frequency	Monthly	true	false
+21521180	61117	Frequency	Monthly	true	false
+21521181	73009	Frequency	Monthly	true	false
+21521182	69171	Frequency	Monthly	true	false
+21521188	4043	Frequency	Monthly	true	false
+21521189	6004	Frequency	Monthly (except January)	true	false
+21521194	66076	Frequency	Three issues per week	true	false
+21521195	71083	Frequency	Three issues per week	true	false
+21521196	68098	Frequency	Three issues per week	true	false
+21521197	66131	Frequency	Three issues per week	true	false
+21521198	59133	Frequency	Three issues per week	true	false
+21521210	10009	Frequency	Two issues per week	true	false
+21521211	3023	Frequency	Two issues per week	true	false
+21521244	10059	Frequency	Weekly	true	false
+21521245	10065	Frequency	Weekly	true	false
+21521246	10066	Frequency	Weekly	true	false
+21521252	63	Frequency	Weekly	true	false
+21521255	14059	Frequency	Weekly	true	false
+21521256	64196	Frequency	Weekly	true	false
+21521261	2008	Frequency	Weekly	true	false
+21521262	1011	Frequency	Weekly	true	false
+21521263	3018	Frequency	Weekly	true	false
+21521264	7012	Frequency	Weekly	true	false
+21521265	11013	Frequency	Weekly	true	false
+21521271	2029	Frequency	Weekly	true	false
+21521272	14023	Frequency	Weekly	true	false
+21521273	6028	Frequency	Weekly	true	false
+21521274	10029	Frequency	Weekly	true	false
+21521275	6031	Frequency	Weekly	true	false
+21521276	65041	Frequency	Weekly	true	false
+21521280	14028	Frequency	Weekly	true	false
+21521281	14030	Frequency	Weekly	true	false
+21521288	13034	Frequency	Weekly	true	false
+21521289	11036	Frequency	Weekly	true	false
+21521290	5041	Frequency	Weekly	true	false
+21521295	66048	Frequency	Weekly	true	false
+21521296	61044	Frequency	Weekly	true	false
+21521298	65062	Frequency	Weekly	true	false
+21521300	70056	Frequency	Weekly	true	false
+21521310	63059	Frequency	Weekly	true	false
+21521311	9034	Frequency	Weekly	true	false
+21521312	64072	Frequency	Weekly	true	false
+21521313	71070	Frequency	Weekly	true	false
+21521314	65082	Frequency	Weekly	true	false
+21521315	64079	Frequency	Weekly	true	false
+21521322	61073	Frequency	Weekly	true	false
+21521323	58072	Frequency	Weekly	true	false
+21521324	67100	Frequency	Weekly	true	false
+21521325	68078	Frequency	Weekly	true	false
+21521326	60076	Frequency	Weekly	true	false
+21521442	61087	Frequency	Weekly	true	false
+21521443	65120	Frequency	Weekly	true	false
+21521444	61089	Frequency	Weekly	true	false
+21521445	1045	Frequency	Weekly	true	false
+21521446	60095	Frequency	Weekly	true	false
+21521452	61098	Frequency	Weekly	true	false
+21521453	71112	Frequency	Weekly	true	false
+21521454	14044	Frequency	Weekly	true	false
+21521455	68109	Frequency	Weekly	true	false
+21521456	4052	Frequency	Weekly	true	false
+21521462	66139	Frequency	Weekly	true	false
+21521463	60128	Frequency	Weekly	true	false
+21521464	58128	Frequency	Weekly	true	false
+21521465	69158	Frequency	Weekly	true	false
+21521466	72133	Frequency	Weekly	true	false
+21521478	59149	Frequency	Weekly	true	false
+21521505	3056	Frequency	Weekly	true	false
+21521506	13046	Frequency	Weekly	true	false
+21521507	14049	Frequency	Weekly	true	false
+21521513	5053	Price	Gratis	true	false
+21521623	5054	Price	Gratis	true	false
+21521624	5055	Price	Gratis	true	false
+21521625	54	Price	Gratis	true	false
+21521634	4010	Price	Gratis	true	false
+21521635	8004	Price	Gratis	true	false
+21521644	9014	Price	Gratis	true	false
+21521645	2021	Price	Gratis	true	false
+21521666	13039	Price	Gratis	true	false
+21521667	6048	Price	Gratis	true	false
+21521669	46	Price	Gratis	true	false
+21521670	3054	Price	Gratis	true	false
+21521674	4059	Price	Gratis	true	false
+21521675	1054	Price	Gratis	true	false
+22581119	14058	Frequency	Fortnightly	true	false
+22581120	70204	Frequency	Fortnightly	true	false
+22581125	8020	Frequency	Fortnightly	true	false
+22581129	8030	Frequency	Fortnightly	true	false
+22581130	11040	Frequency	Fortnightly	true	false
+22581131	63043	Frequency	Fortnightly	true	false
+22581132	64058	Frequency	Fortnightly	true	false
+22581133	61065	Frequency	Fortnightly	true	false
+22581134	66089	Frequency	Fortnightly	true	false
+22581135	63081	Frequency	Fortnightly	true	false
+22581139	72111	Frequency	Fortnightly	true	false
+22581140	59132	Frequency	Fortnightly	true	false
+22581151	67099	Frequency	Irregular	true	false
+22581152	12043	Frequency	Irregular	true	false
+22581180	61068	Frequency	Monthly	true	false
+22581181	69105	Frequency	Monthly	true	false
+22581182	72069	Frequency	Monthly	true	false
+22581187	67111	Frequency	Monthly	true	false
+22581188	72092	Frequency	Monthly	true	false
+22581189	64120	Frequency	Monthly	true	false
+22581190	70134	Frequency	Monthly	true	false
+22581197	73022	Frequency	Monthly	true	false
+22581198	71163	Frequency	Monthly	true	false
+22581199	8035	Frequency	Monthly	true	false
+22581200	72175	Frequency	Monthly	true	false
+22581219	1007	Frequency	Two issues per week	true	false
+22581222	59055	Frequency	Two issues per week	true	false
+22581223	67068	Frequency	Two issues per week	true	false
+22581224	71056	Frequency	Two issues per week	true	false
+22581229	63093	Frequency	Two issues per week	true	false
+22581230	67110	Frequency	Two issues per week	true	false
+22581231	71105	Frequency	Two issues per week	true	false
+22581232	70131	Frequency	Two issues per week	true	false
+22581233	59128	Frequency	Two issues per week	true	false
+22581234	67137	Frequency	Two issues per week	true	false
+22581239	72168	Frequency	Two issues per week	true	false
+22581240	62183	Frequency	Two issues per week	true	false
+22581250	14053	Frequency	Weekly	true	false
+22581251	11054	Frequency	Weekly	true	false
+22581255	4070	Frequency	Weekly	true	false
+22581256	60	Frequency	Weekly	true	false
+22581257	9045	Frequency	Weekly	true	false
+22581258	2064	Frequency	Weekly	true	false
+22581259	8045	Frequency	Weekly	true	false
+22581263	3001	Frequency	Weekly	true	false
+22581264	3002	Frequency	Weekly	true	false
+22581265	3004	Frequency	Weekly	true	false
+22581266	12004	Frequency	Weekly	true	false
+22581273	13018	Frequency	Weekly	true	false
+22581274	7024	Frequency	Weekly	true	false
+22581275	4026	Frequency	Weekly	true	false
+22581276	64026	Frequency	Weekly	true	false
+22581277	66026	Frequency	Weekly	true	false
+22581284	8025	Frequency	Weekly	true	false
+22581285	12026	Frequency	Weekly	true	false
+22581286	2038	Frequency	Weekly	true	false
+22581288	68024	Frequency	Weekly	true	false
+22581299	6042	Frequency	Weekly	true	false
+22581306	61046	Frequency	Weekly	true	false
+22581307	64057	Frequency	Weekly	true	false
+22581310	68042	Frequency	Weekly	true	false
+22581311	66060	Frequency	Weekly	true	false
+22581314	70069	Frequency	Weekly	true	false
+22581445	70108	Frequency	Weekly	true	false
+22581446	60091	Frequency	Weekly	true	false
+22581452	61093	Frequency	Weekly	true	false
+22581453	62099	Frequency	Weekly	true	false
+22581454	58106	Frequency	Weekly	true	false
+22581455	63110	Frequency	Weekly	true	false
+22581456	66121	Frequency	Weekly	true	false
+22581462	65129	Frequency	Weekly	true	false
+22581463	61102	Frequency	Weekly	true	false
+22581464	67129	Frequency	Weekly	true	false
+22581465	12035	Frequency	Weekly	true	false
+22581466	59130	Frequency	Weekly	true	false
+22581472	65148	Frequency	Weekly	true	false
+22581473	69161	Frequency	Weekly	true	false
+22581474	70154	Frequency	Weekly	true	false
+22581476	71141	Frequency	Weekly	true	false
+22581477	65154	Frequency	Weekly	true	false
+22581488	71154	Frequency	Weekly	true	false
+22581489	68153	Frequency	Weekly	true	false
+22581490	59155	Frequency	Weekly	true	false
+22581491	69187	Frequency	Weekly	true	false
+22581492	59160	Frequency	Weekly	true	false
+22581493	71160	Frequency	Weekly	true	false
+22581499	62171	Frequency	Weekly	true	false
+22581500	68163	Frequency	Weekly	true	false
+22581501	68165	Frequency	Weekly	true	false
+22581502	61158	Frequency	Weekly	true	false
+22581503	69204	Frequency	Weekly	true	false
+22581504	71172	Frequency	Weekly	true	false
+22581506	46	Frequency	Weekly	true	false
+22581507	66193	Frequency	Weekly	true	false
+22581508	3055	Frequency	Weekly	true	false
+22581509	1051	Frequency	Weekly	true	false
+22581650	5019	Price	Gratis	true	false
+22581651	12017	Price	Gratis	true	false
+22581652	11018	Price	Gratis	true	false
+22581653	5026	Price	Gratis	true	false
+22581654	14022	Price	Gratis	true	false
+22581655	5028	Price	Gratis	true	false
+22581656	6028	Price	Gratis	true	false
+22581671	11046	Price	Gratis	true	false
+22581674	2053	Price	Gratis	true	false
+22581675	48	Price	Gratis	true	false
+22590973	6029	Frequency	Every two months	true	false
+22590974	4060	Frequency	Every two months	true	false
+22590986	4001	Frequency	Fortnightly	true	false
+22590991	7026	Frequency	Fortnightly	true	false
+22590992	5036	Frequency	Fortnightly	true	false
+22590993	8026	Frequency	Fortnightly	true	false
+22590994	3040	Frequency	Fortnightly	true	false
+22591001	61081	Frequency	Fortnightly	true	false
+22591002	60088	Frequency	Fortnightly	true	false
+22591003	66115	Frequency	Fortnightly	true	false
+22591004	58107	Frequency	Fortnightly	true	false
+22591009	62142	Frequency	Fortnightly	true	false
+22591010	64154	Frequency	Fortnightly	true	false
+22591011	69193	Frequency	Fortnightly	true	false
+22591014	51	Frequency	Fortnightly	true	false
+22591020	59046	Frequency	Irregular	true	false
+22591023	7056	Frequency	Monthly	true	false
+22591024	8040	Frequency	Monthly	true	false
+22591025	62	Frequency	Monthly	true	false
+22591026	65	Frequency	Monthly	true	false
+22591027	11002	Frequency	Monthly	true	false
+22591028	10016	Frequency	Monthly	true	false
+22591033	13026	Frequency	Monthly	true	false
+22591034	11027	Frequency	Monthly	true	false
+22591035	10037	Frequency	Monthly	true	false
+22591036	31	Frequency	Monthly	true	false
+22591037	7041	Frequency	Monthly	true	false
+22591038	2046	Frequency	Monthly	true	false
+22591039	62044	Frequency	Monthly	true	false
+22591040	61047	Frequency	Monthly	true	false
+22591041	70071	Frequency	Monthly	true	false
+22591042	64077	Frequency	Monthly	true	false
+22591066	9006	Frequency	Three issues per week	true	false
+22591068	3036	Frequency	Three issues per week	true	false
+22591069	65072	Frequency	Three issues per week	true	false
+22591075	60130	Frequency	Three issues per week	true	false
+22591076	59145	Frequency	Three issues per week	true	false
+22591077	67161	Frequency	Three issues per week	true	false
+22591078	64166	Frequency	Three issues per week	true	false
+22591079	66177	Frequency	Three issues per week	true	false
+22591080	73038	Frequency	Three issues per week	true	false
+22591081	8028	Frequency	Two issues per month	true	false
+22591082	21001	Frequency	Two issues per week	true	false
+22591083	14050	Frequency	Two issues per week	true	false
+22591084	3010	Frequency	Two issues per week	true	false
+22591091	65064	Frequency	Two issues per week	true	false
+22591092	61057	Frequency	Two issues per week	true	false
+22591093	66082	Frequency	Two issues per week	true	false
+22591094	68074	Frequency	Two issues per week	true	false
+22591095	68086	Frequency	Two issues per week	true	false
+22591102	70146	Frequency	Two issues per week	true	false
+22591103	8033	Frequency	Two issues per week	true	false
+22591104	66167	Frequency	Two issues per week	true	false
+22591105	73026	Frequency	Two issues per week	true	false
+22591108	64056	Frequency	Weekly	true	false
+22591109	61086	Frequency	Weekly	true	false
+22591110	60138	Frequency	Weekly	true	false
+22591111	62167	Frequency	Weekly	true	false
+22591112	3046	Frequency	Weekly	true	false
+22591113	11050	Frequency	Weekly	true	false
+22591114	2055	Frequency	Weekly	true	false
+22591115	7055	Frequency	Weekly	true	false
+22591116	4064	Frequency	Weekly	true	false
+22591127	5060	Frequency	Weekly	true	false
+22591131	70206	Frequency	Weekly	true	false
+22591156	7033	Frequency	Weekly	true	false
+22591157	2039	Frequency	Weekly	true	false
+22591158	72030	Frequency	Weekly	true	false
+22591159	34	Frequency	Weekly	true	false
+22591160	8027	Frequency	Weekly	true	false
+22591161	13033	Frequency	Weekly	true	false
+22591165	4047	Frequency	Weekly	true	false
+22591166	11041	Frequency	Weekly	true	false
+22591172	70057	Frequency	Weekly	true	false
+22591176	67075	Frequency	Weekly	true	false
+22591177	65073	Frequency	Weekly	true	false
+22591183	62066	Frequency	Weekly	true	false
+22591184	70084	Frequency	Weekly	true	false
+22591185	65091	Frequency	Weekly	true	false
+22591186	60065	Frequency	Weekly	true	false
+22591187	60067	Frequency	Weekly	true	false
+22591188	63074	Frequency	Weekly	true	false
+22591194	71086	Frequency	Weekly	true	false
+22591195	70100	Frequency	Weekly	true	false
+22591196	59093	Frequency	Weekly	true	false
+22591197	60082	Frequency	Weekly	true	false
+22591198	63092	Frequency	Weekly	true	false
+22591306	71092	Frequency	Weekly	true	false
+22591341	66149	Frequency	Weekly	true	false
+22591342	68139	Frequency	Weekly	true	false
+22591343	67150	Frequency	Weekly	true	false
+22591344	64151	Frequency	Weekly	true	false
+22591345	61129	Frequency	Weekly	true	false
+22591347	69176	Frequency	Weekly	true	false
+22591348	69178	Frequency	Weekly	true	false
+22591349	63147	Frequency	Weekly	true	false
+22591350	67164	Frequency	Weekly	true	false
+22591351	63149	Frequency	Weekly	true	false
+22591357	60161	Frequency	Weekly	true	false
+22591358	66181	Frequency	Weekly	true	false
+22591359	63166	Frequency	Weekly	true	false
+22591360	69195	Frequency	Weekly	true	false
+22591361	62169	Frequency	Weekly	true	false
+22591367	4054	Frequency	Weekly	true	false
+22591368	11046	Frequency	Weekly	true	false
+22591487	14051	Price	Gratis	true	false
+22591488	9038	Price	Gratis	true	false
+22591489	60175	Price	Gratis	true	false
+22591493	14056	Price	Gratis	true	false
+22591494	7057	Price	Gratis	true	false
+22591495	6055	Price	Gratis	true	false
+22591496	12047	Price	Gratis	true	false
+22591497	2002	Price	Gratis	true	false
+22591498	7002	Price	Gratis	true	false
+22591499	11003	Price	Gratis	true	false
+22591500	11004	Price	Gratis	true	false
+22591504	12005	Price	Gratis	true	false
+22591505	11007	Price	Gratis	true	false
+22591506	20001	Price	Gratis	true	false
+22591507	1013	Price	Gratis	true	false
+22591508	13012	Price	Gratis	true	false
+22591509	17002	Price	Gratis	true	false
+22591510	6015	Price	Gratis	true	false
+22591511	1018	Price	Gratis	true	false
+22591514	1022	Price	Gratis	true	false
+22591515	5018	Price	Gratis	true	false
+22591524	2031	Price	Gratis	true	false
+22591525	23	Price	Gratis	true	false
+22591526	12027	Price	Gratis	true	false
+22591527	14027	Price	Gratis	true	false
+22591528	3035	Price	Gratis	true	false
+22591529	7036	Price	Gratis	true	false
+22591530	7038	Price	Gratis	true	false
+22591531	8030	Price	Gratis	true	false
+22591532	7043	Price	Gratis	true	false
+22591533	6042	Price	Gratis	true	false
+22902794	14352614	First Issue Date	1975-04-16	false	false
+23754844	10812250	Papers Past Code	TDN	false	false
+34270669	67137	First Issue Date	1912-03-08	false	false
+34280610	4027	First Issue Date	1863-05-02	false	false
+34290661	64076	First Issue Date	1919-09-02	false	false
+34790663	65104	Papers Past Code	LTCBG	false	false
+34820602	60043	Alternate Title	Charleston Herald and Brighton Times [1870-1871]	false	false
+34820661	67137	Papers Past Code	PWT	false	false
+35890608	60043	Alternate Title	Brighton Times and Croninville Reporter [1877]	false	false
+35890669	64076	Final Issue Date	1921-01-28	false	false
+37760611	71056	First Issue Date	1867-03-02	false	false
+37780303	52001	Frequency	Two issues per week	false	false
+38820668	64076	Papers Past Code	PWT	false	false
+38840599	4027	Papers Past Code	LWM	false	false
+38850667	67147	Papers Past Code	SUNCH	false	false
+38860345	67137	Final Issue Date	1919-08-29	false	false
+41480606	60043	Alternate Title	Charleston Herald and Mining Reporter	false	false
+41490662	59101	Papers Past Code	MTBM	false	false
+42440303	5044	Frequency	Three issues per week	false	false
+81580222	61	Alternate Title	Citylife Cook Strait News	false	false
+98262068	3060	Alternate Title	Franklin Papakura Life: Focusing on the Good in our Community	false	false
+98290721	59037	Note	Korean Text	false	false
+101212056	8041	Alternate Title	Franklin Life: the Good News Paper for Franklin District and Papakura	false	false
+101690382	6012	Note	Since 2012 the Turangi Chronicle has been published weekly as part of the Taupo Weekender.	false	false
+103210792	12007	Note	Microfilm copy.	false	false
+105912014	70121	Description	Inset in New Zealand Herald.	false	false
+5342114682503168	60103	Note	Place of publication moved to Kaitaia by July 1916.	false	false
+

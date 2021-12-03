@@ -1,0 +1,29 @@
+{
+  "id": 2695,
+  "title": "The Mataura Ensign",
+  "genre": "Newspaper",
+  "firstYear": "1878",
+  "finalYear": "1973",
+  "district": "Gore District",
+  "firstIssueDate": "1878-05-10",
+  "idMarcControlNumber": "4716789",
+  "idNZNewspapersV1": "1029",
+  "idPapersPastCode": "ME",
+  "isCurrent": false,
+  "placecode": "14-02",
+  "placename": "Gore",
+  "region": "Southland",
+  "urlDigitized": "http://paperspast.natlib.govt.nz/cgi-bin/paperspast?a=d&cl=CL1.ME",
+  "links": {
+    "2698": {
+      "direction": "Succeeding",
+      "relationship": "Continued by",
+      "target-description": "The Ensign"
+    }
+  },
+  "sources": {
+    "2013-04-02T08:58:38.000Z": "Extracted from the New Zealand National Bibliography (MARC record 4716789) downloaded March 2013.",
+    "2013-05-09T10:58:16.000Z": "Modified by gordon.paynter"
+  },
+  "revision": 7
+}

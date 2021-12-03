@@ -1,0 +1,20 @@
+{
+  "id": 2221,
+  "title": "Buller Post",
+  "genre": "Newspaper",
+  "firstYear": "1896",
+  "finalYear": "1913",
+  "district": "Tasman District",
+  "frequency": "Weekly",
+  "idMarcControlNumber": "8132000",
+  "idNZNewspapersV1": "66053",
+  "isCurrent": false,
+  "placecode": "10-01",
+  "placename": "Murchison",
+  "region": "Top of the South",
+  "sources": {
+    "2013-04-02T08:58:38.000Z": "Extracted from the New Zealand National Bibliography (MARC record 8132000) downloaded March 2013.",
+    "2014-05-07T09:14:18.000Z": "Modified by DataBot"
+  },
+  "revision": 4
+}

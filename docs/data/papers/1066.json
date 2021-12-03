@@ -1,0 +1,26 @@
+{
+  "id": 1066,
+  "title": "North Auckland Times",
+  "genre": "Newspaper",
+  "firstYear": "1904",
+  "finalYear": "1949",
+  "district": "Kaipara District",
+  "frequency": "Daily",
+  "idMarcControlNumber": "8173704",
+  "idNZNewspapersV1": "69136",
+  "isCurrent": false,
+  "placecode": "01-03",
+  "placename": "Dargaville",
+  "region": "Northland",
+  "links": {
+    "1069": {
+      "direction": "Continued By",
+      "target-description": "Northland Times"
+    }
+  },
+  "sources": {
+    "2013-04-02T08:58:38.000Z": "Extracted from the New Zealand National Bibliography (MARC record 8173704) downloaded March 2013.",
+    "2014-03-21T11:39:14.000Z": "Modified by DataBot"
+  },
+  "revision": 5
+}

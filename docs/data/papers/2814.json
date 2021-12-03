@@ -1,0 +1,21 @@
+{
+  "id": 2814,
+  "title": "The Gisborne Herald Bulletin",
+  "genre": "Periodical",
+  "firstYear": "2001",
+  "finalYear": "2010",
+  "district": "Gisborne District",
+  "frequency": "Fortnightly",
+  "idMarcControlNumber": "6830303",
+  "idNZNewspapersV1": "9026",
+  "isCurrent": false,
+  "placecode": "05-01",
+  "placename": "Gisborne",
+  "price": "Gratis",
+  "region": "Gisborne",
+  "sources": {
+    "2013-04-02T08:58:38.000Z": "Extracted from the New Zealand National Bibliography (MARC record 6830303) downloaded March 2013.",
+    "2014-05-07T09:49:57.000Z": "Modified by DataBot"
+  },
+  "revision": 6
+}

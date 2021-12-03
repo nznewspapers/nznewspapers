@@ -1,0 +1,20 @@
+{
+  "id": 2301,
+  "title": "Buller Miner",
+  "genre": "Newspaper",
+  "firstYear": "1881",
+  "finalYear": "1921",
+  "district": "Buller District",
+  "frequency": "Weekly",
+  "idMarcControlNumber": "8131998",
+  "idNZNewspapersV1": "65062",
+  "isCurrent": false,
+  "placecode": "11-01",
+  "placename": "Westport",
+  "region": "West Coast",
+  "sources": {
+    "2013-04-02T08:58:38.000Z": "Extracted from the New Zealand National Bibliography (MARC record 8131998) downloaded March 2013.",
+    "2014-05-07T09:14:16.000Z": "Modified by DataBot"
+  },
+  "revision": 4
+}

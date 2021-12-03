@@ -1,0 +1,20 @@
+{
+  "id": 1747,
+  "title": "Western Leader",
+  "genre": "Newspaper",
+  "firstYear": "1985",
+  "finalYear": "1985",
+  "district": "Hastings District",
+  "frequency": "Weekly",
+  "idMarcControlNumber": "8187781",
+  "idNZNewspapersV1": "61158",
+  "isCurrent": false,
+  "placecode": "06-02",
+  "placename": "Hastings",
+  "region": "Hawke's Bay",
+  "sources": {
+    "2013-04-02T08:58:38.000Z": "Extracted from the New Zealand National Bibliography (MARC record 8187781) downloaded March 2013.",
+    "2014-05-07T09:23:00.000Z": "Modified by DataBot"
+  },
+  "revision": 4
+}

@@ -1,0 +1,20 @@
+{
+  "id": 2325,
+  "title": "Hokitika Chronicle",
+  "genre": "Newspaper",
+  "firstYear": "1866",
+  "finalYear": "1866",
+  "district": "Westland District",
+  "frequency": "Daily",
+  "idMarcControlNumber": "8156978",
+  "idNZNewspapersV1": "60069",
+  "isCurrent": false,
+  "placecode": "11-03",
+  "placename": "Hokitika",
+  "region": "West Coast",
+  "sources": {
+    "2013-04-02T08:58:38.000Z": "Extracted from the New Zealand National Bibliography (MARC record 8156978) downloaded March 2013.",
+    "2014-03-21T11:36:30.000Z": "Modified by DataBot"
+  },
+  "revision": 4
+}

@@ -1,0 +1,36 @@
+{
+  "id": 2013,
+  "title": "Wairarapa Daily News",
+  "genre": "Newspaper",
+  "firstYear": "1906",
+  "finalYear": "1940",
+  "district": "Carterton District",
+  "frequency": "Daily",
+  "idMarcControlNumber": "8185370",
+  "idNZNewspapersV1": "68157",
+  "isCurrent": false,
+  "placecode": "09-03",
+  "placename": "Carterton",
+  "region": "Wellington",
+  "links": {
+    "2010": {
+      "direction": "Preceding",
+      "relationship": "Formed by the union",
+      "target-description": "Wairarapa Observer"
+    },
+    "2012": {
+      "direction": "Preceding",
+      "relationship": "Formed by the union",
+      "target-description": "Wairarapa Leader"
+    },
+    "2014": {
+      "direction": "Continued By",
+      "target-description": "Wairarapa News"
+    }
+  },
+  "sources": {
+    "2013-04-02T08:58:38.000Z": "Extracted from the New Zealand National Bibliography (MARC record 8185370) downloaded March 2013.",
+    "2014-04-12T10:23:33.000Z": "Modified by gordon.paynter"
+  },
+  "revision": 7
+}

@@ -1,0 +1,34 @@
+{
+  "id": 2252,
+  "title": "Evening Mail Friday Sports Edition",
+  "genre": "Weekly Edition",
+  "firstYear": "1964",
+  "finalYear": "1965",
+  "district": "Nelson City",
+  "frequency": "Weekly",
+  "idMarcControlNumber": "8141799",
+  "idNZNewspapersV1": "65078",
+  "isCurrent": false,
+  "placecode": "10-02",
+  "placename": "Nelson",
+  "region": "Top of the South",
+  "links": {
+    "2241": {
+      "direction": "Is Edition Of",
+      "target-description": "Nelson Evening Mail"
+    },
+    "2251": {
+      "direction": "Continues",
+      "target-description": "Evening Mail Sports Edition"
+    },
+    "2254": {
+      "direction": "Continued By",
+      "target-description": "Evening Mail Sports News"
+    }
+  },
+  "sources": {
+    "2013-04-02T08:58:38.000Z": "Extracted from the New Zealand National Bibliography (MARC record 8141799) downloaded March 2013.",
+    "2014-05-15T04:30:34.000Z": "Modified by DataBot"
+  },
+  "revision": 7
+}

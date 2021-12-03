@@ -1,0 +1,20 @@
+{
+  "id": 1096,
+  "title": "North Shore Gazette",
+  "genre": "Newspaper",
+  "firstYear": "1924",
+  "finalYear": "1938",
+  "district": "Auckland",
+  "frequency": "Weekly",
+  "idMarcControlNumber": "8173722",
+  "idNZNewspapersV1": "61097",
+  "isCurrent": false,
+  "placecode": "02-01",
+  "placename": "Devonport",
+  "region": "Auckland",
+  "sources": {
+    "2013-04-02T08:58:38.000Z": "Extracted from the New Zealand National Bibliography (MARC record 8173722) downloaded March 2013.",
+    "2014-05-07T09:18:39.000Z": "Modified by DataBot"
+  },
+  "revision": 4
+}

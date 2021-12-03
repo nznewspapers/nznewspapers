@@ -1,0 +1,21 @@
+{
+  "id": 1781,
+  "title": "The Napier Mail",
+  "genre": "Newspaper",
+  "firstYear": "2000",
+  "finalYear": "9999",
+  "district": "Napier City",
+  "frequency": "Weekly",
+  "idMarcControlNumber": "8141209",
+  "idNZNewspapersV1": "9034",
+  "isCurrent": true,
+  "placecode": "06-03",
+  "placename": "Napier",
+  "price": "Gratis",
+  "region": "Hawke's Bay",
+  "sources": {
+    "2013-04-02T08:58:38.000Z": "Extracted from the New Zealand National Bibliography (MARC record 8141209) downloaded March 2013.",
+    "2014-05-07T09:50:13.000Z": "Modified by DataBot"
+  },
+  "revision": 6
+}

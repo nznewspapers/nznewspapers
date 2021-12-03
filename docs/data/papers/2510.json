@@ -1,0 +1,20 @@
+{
+  "id": 2510,
+  "title": "Guardian Mid-weeker",
+  "genre": "Newspaper",
+  "firstYear": "1986",
+  "finalYear": "9999",
+  "district": "Ashburton District",
+  "frequency": "Weekly",
+  "idMarcControlNumber": "8145050",
+  "idNZNewspapersV1": "65089",
+  "isCurrent": true,
+  "placecode": "12-06",
+  "placename": "Ashburton",
+  "region": "Canterbury",
+  "sources": {
+    "2013-04-02T08:58:38.000Z": "Extracted from the New Zealand National Bibliography (MARC record 8145050) downloaded March 2013.",
+    "2014-05-07T09:15:49.000Z": "Modified by DataBot"
+  },
+  "revision": 4
+}

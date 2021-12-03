@@ -1,0 +1,27 @@
+{
+  "id": 2475,
+  "title": "The Citizen Today",
+  "genre": "Newspaper",
+  "firstYear": "2001",
+  "finalYear": "2001",
+  "district": "Christchurch City",
+  "frequency": "Three issues per week",
+  "idMarcControlNumber": "6407629",
+  "idNZNewspapersV1": "3038",
+  "isCurrent": false,
+  "placecode": "12-05-christchur",
+  "placename": "Christchurch",
+  "region": "Canterbury",
+  "links": {
+    "undefined-unknown": {
+      "direction": "Succeeding",
+      "relationship": "Continued by",
+      "target-description": "Christchurch citizen"
+    }
+  },
+  "sources": {
+    "2013-04-02T08:58:38.000Z": "Extracted from the New Zealand National Bibliography (MARC record 6407629) downloaded March 2013.",
+    "2014-05-07T09:04:02.000Z": "Modified by DataBot"
+  },
+  "revision": 5
+}

@@ -1,0 +1,36 @@
+{
+  "id": 1691,
+  "title": "Eastern Bay of Plenty News Kawerau Gazette",
+  "genre": "Masthead",
+  "firstYear": "1983",
+  "finalYear": "1984",
+  "district": "Kawerau District",
+  "frequency": "Two issues per week",
+  "idMarcControlNumber": "8138595",
+  "idNZNewspapersV1": "61057",
+  "isCurrent": false,
+  "placecode": "04-06",
+  "placename": "Kawerau",
+  "region": "Bay of Plenty",
+  "links": {
+    "1685": {
+      "direction": "Is Masthead Of",
+      "target-description": "Kawerau Gazette"
+    },
+    "1690": {
+      "direction": "Preceding",
+      "relationship": "Continues",
+      "target-description": "Eastern Bay  of  Plenty News and  Kawerau Gazette"
+    },
+    "1692": {
+      "direction": "Succeeding",
+      "relationship": "Continued by",
+      "target-description": "Kawerau &  Eastern Bay  News Gazette"
+    }
+  },
+  "sources": {
+    "2013-04-02T08:58:38.000Z": "Extracted from the New Zealand National Bibliography (MARC record 8138595) downloaded March 2013.",
+    "2014-05-07T09:06:18.000Z": "Modified by DataBot"
+  },
+  "revision": 7
+}

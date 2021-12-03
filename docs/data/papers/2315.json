@@ -1,0 +1,20 @@
+{
+  "id": 2315,
+  "title": "Weekly Argus",
+  "genre": "Newspaper",
+  "firstYear": "1870",
+  "finalYear": "1905",
+  "district": "Grey District",
+  "frequency": "Weekly",
+  "idMarcControlNumber": "8187314",
+  "idNZNewspapersV1": "66182",
+  "isCurrent": false,
+  "placecode": "11-02",
+  "placename": "Greymouth",
+  "region": "West Coast",
+  "sources": {
+    "2013-04-02T08:58:38.000Z": "Extracted from the New Zealand National Bibliography (MARC record 8187314) downloaded March 2013.",
+    "2014-05-07T09:22:28.000Z": "Modified by DataBot"
+  },
+  "revision": 4
+}

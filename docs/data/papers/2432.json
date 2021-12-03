@@ -1,0 +1,20 @@
+{
+  "id": 2432,
+  "title": "Brighton Standard",
+  "genre": "Newspaper",
+  "firstYear": "1936",
+  "finalYear": "1939",
+  "district": "Christchurch City",
+  "frequency": "Weekly",
+  "idMarcControlNumber": "8131959",
+  "idNZNewspapersV1": "72045",
+  "isCurrent": false,
+  "placecode": "12-05-christchur",
+  "placename": "Christchurch",
+  "region": "Canterbury",
+  "sources": {
+    "2013-04-02T08:58:38.000Z": "Extracted from the New Zealand National Bibliography (MARC record 8131959) downloaded March 2013.",
+    "2014-05-07T09:14:14.000Z": "Modified by DataBot"
+  },
+  "revision": 4
+}

@@ -1,0 +1,28 @@
+{
+  "id": 1031,
+  "title": "Bay Chronicle",
+  "genre": "Newspaper",
+  "firstYear": "2003",
+  "finalYear": "9999",
+  "district": "Far North District",
+  "frequency": "Weekly",
+  "idMarcControlNumber": "7624952",
+  "idNZNewspapersV1": "9029",
+  "isCurrent": true,
+  "placecode": "01-01",
+  "placename": "Kerikeri",
+  "region": "Northland",
+  "urlCurrent": "http://www.stuff.co.nz/auckland/local-news/northland/bay-chronicle",
+  "links": {
+    "1026": {
+      "direction": "Preceding",
+      "relationship": "Continues",
+      "target-description": "Chronicle (Kerikeri)"
+    }
+  },
+  "sources": {
+    "2013-04-02T08:58:38.000Z": "Extracted from the New Zealand National Bibliography (MARC record 7624952) downloaded March 2013.",
+    "2014-05-07T09:13:34.000Z": "Modified by DataBot"
+  },
+  "revision": 5
+}

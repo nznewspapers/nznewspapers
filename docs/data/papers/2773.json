@@ -1,0 +1,18 @@
+{
+  "id": 2773,
+  "title": "Mercury Bay sun",
+  "genre": "Periodical",
+  "firstYear": "1980",
+  "finalYear": "9999",
+  "district": "Thames-Coromandel District",
+  "idMarcControlNumber": "3531243",
+  "idNZNewspapersV1": "3011",
+  "isCurrent": true,
+  "placecode": "03-01",
+  "placename": "Thames",
+  "region": "Waikato",
+  "sources": {
+    "2013-04-02T08:58:38.000Z": "Extracted from the New Zealand National Bibliography (MARC record 3531243) downloaded March 2013."
+  },
+  "revision": 2
+}

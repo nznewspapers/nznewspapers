@@ -1,0 +1,25 @@
+{
+  "id": 2785,
+  "title": "Nawton News",
+  "genre": "Periodical",
+  "firstYear": "1980",
+  "finalYear": "1995",
+  "district": "Hamilton City",
+  "idMarcControlNumber": "3531246",
+  "idNZNewspapersV1": "5008",
+  "isCurrent": false,
+  "placecode": "03-05",
+  "placename": "Hamilton",
+  "region": "Waikato",
+  "links": {
+    "2790": {
+      "direction": "Succeeding",
+      "relationship": "Continued by",
+      "target-description": "Westside news (Hamilton, N.Z.)"
+    }
+  },
+  "sources": {
+    "2013-04-02T08:58:38.000Z": "Extracted from the New Zealand National Bibliography (MARC record 3531246) downloaded March 2013."
+  },
+  "revision": 3
+}

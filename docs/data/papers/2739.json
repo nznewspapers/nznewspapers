@@ -1,0 +1,20 @@
+{
+  "id": 2739,
+  "title": "The Windmill Post : New Zealand's Independent Dutch Newspaper",
+  "genre": "Periodical",
+  "firstYear": "1967",
+  "finalYear": "9999",
+  "district": "Auckland",
+  "frequency": "Monthly",
+  "idMarcControlNumber": "3947049",
+  "idNZNewspapersV1": "8011",
+  "isCurrent": true,
+  "placecode": "02-01-auckland",
+  "placename": "Auckland",
+  "region": "Auckland",
+  "sources": {
+    "2013-04-02T08:58:38.000Z": "Extracted from the New Zealand National Bibliography (MARC record 3947049) downloaded March 2013.",
+    "2014-05-07T09:00:09.000Z": "Modified by DataBot"
+  },
+  "revision": 4
+}

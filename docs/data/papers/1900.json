@@ -1,0 +1,33 @@
+{
+  "id": 1900,
+  "title": "Feilding Herald Rangitikei Mail",
+  "genre": "Newspaper",
+  "firstYear": "2002",
+  "finalYear": "2004",
+  "district": "Manawatu District",
+  "frequency": "Weekly",
+  "idMarcControlNumber": "7385967",
+  "idNZNewspapersV1": "14037",
+  "isCurrent": false,
+  "placecode": "08-04",
+  "placename": "Feilding",
+  "price": "Gratis",
+  "region": "Manawatu-Wanganui",
+  "links": {
+    "1899": {
+      "direction": "Preceding",
+      "relationship": "Formed by the union",
+      "target-description": "Feilding herald"
+    },
+    "1902": {
+      "direction": "Preceding",
+      "relationship": "Formed by the union",
+      "target-description": "Rangitikei mail"
+    }
+  },
+  "sources": {
+    "2013-04-02T08:58:38.000Z": "Extracted from the New Zealand National Bibliography (MARC record 7385967) downloaded March 2013.",
+    "2014-05-07T09:50:01.000Z": "Modified by DataBot"
+  },
+  "revision": 9
+}

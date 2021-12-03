@@ -1,0 +1,27 @@
+{
+  "id": 2961,
+  "title": "Envoy",
+  "genre": "Periodical",
+  "firstYear": "1988",
+  "finalYear": "1991",
+  "district": "Dunedin City",
+  "frequency": "Every two months",
+  "idMarcControlNumber": "3561803",
+  "idNZNewspapersV1": "4013",
+  "isCurrent": false,
+  "placecode": "13-03",
+  "placename": "Dunedin",
+  "region": "Otago",
+  "links": {
+    "undefined-unknown": {
+      "direction": "Preceding",
+      "relationship": "Continues",
+      "target-description": "New envoy"
+    }
+  },
+  "sources": {
+    "2013-04-02T08:58:38.000Z": "Extracted from the New Zealand National Bibliography (MARC record 3561803) downloaded March 2013.",
+    "2014-05-07T08:48:44.000Z": "Modified by DataBot"
+  },
+  "revision": 5
+}

@@ -1,0 +1,27 @@
+{
+  "id": 2877,
+  "title": "R.S.A. Review : the Official R.S.A. Journal",
+  "genre": "Periodical",
+  "firstYear": "1943",
+  "finalYear": "9999",
+  "district": "Wellington City",
+  "frequency": "Quarterly",
+  "idMarcControlNumber": "4812004",
+  "idNZNewspapersV1": "10030",
+  "isCurrent": true,
+  "placecode": "09-08-wellington",
+  "placename": "Wellington",
+  "region": "Wellington",
+  "links": {
+    "undefined-unknown": {
+      "direction": "Preceding",
+      "relationship": "Continues",
+      "target-description": "Review (New Zealand Returned Services' Association)"
+    }
+  },
+  "sources": {
+    "2013-04-02T08:58:38.000Z": "Extracted from the New Zealand National Bibliography (MARC record 4812004) downloaded March 2013.",
+    "2014-05-07T09:03:49.000Z": "Modified by DataBot"
+  },
+  "revision": 5
+}

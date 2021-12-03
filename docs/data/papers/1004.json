@@ -1,0 +1,27 @@
+{
+  "id": 1004,
+  "title": "Mangonui County Times and Northern Representative",
+  "genre": "Newspaper",
+  "firstYear": "1904",
+  "finalYear": "1906",
+  "district": "Far North District",
+  "frequency": "Weekly",
+  "idMarcControlNumber": "8164693",
+  "idNZNewspapersV1": "62087",
+  "isCurrent": false,
+  "placecode": "01-01",
+  "placename": "Mangonui",
+  "region": "Northland",
+  "links": {
+    "1007": {
+      "direction": "Succeeding",
+      "relationship": "Continued by",
+      "target-description": "North Auckland Age"
+    }
+  },
+  "sources": {
+    "2013-04-02T08:58:38.000Z": "Extracted from the New Zealand National Bibliography (MARC record 8164693) downloaded March 2013.",
+    "2014-05-07T09:17:05.000Z": "Modified by DataBot"
+  },
+  "revision": 5
+}

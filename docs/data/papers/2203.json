@@ -1,0 +1,21 @@
+{
+  "id": 2203,
+  "title": "Xiang yin",
+  "genre": "Newspaper",
+  "firstYear": "1998",
+  "finalYear": "9999",
+  "district": "Wellington City",
+  "frequency": "Weekly",
+  "idMarcControlNumber": "5500353",
+  "idNZNewspapersV1": "72030",
+  "isCurrent": true,
+  "placecode": "09-08-wellington",
+  "placename": "Wellington",
+  "price": "Gratis",
+  "region": "Wellington",
+  "sources": {
+    "2013-04-02T08:58:38.000Z": "Extracted from the New Zealand National Bibliography (MARC record 5500353) downloaded March 2013.",
+    "2014-05-07T09:49:44.000Z": "Modified by DataBot"
+  },
+  "revision": 6
+}

@@ -1,0 +1,20 @@
+{
+  "id": 1481,
+  "title": "Coromandel News and Peninsula Gazette",
+  "genre": "Newspaper",
+  "firstYear": "1887",
+  "finalYear": "1890",
+  "district": "Thames-Coromandel District",
+  "frequency": "Two issues per week",
+  "idMarcControlNumber": "8136920",
+  "idNZNewspapersV1": "59063",
+  "isCurrent": false,
+  "placecode": "03-01",
+  "placename": "Coromandel",
+  "region": "Waikato",
+  "sources": {
+    "2013-04-02T08:58:38.000Z": "Extracted from the New Zealand National Bibliography (MARC record 8136920) downloaded March 2013.",
+    "2014-05-07T09:06:14.000Z": "Modified by DataBot"
+  },
+  "revision": 4
+}

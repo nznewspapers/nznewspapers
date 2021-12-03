@@ -1,0 +1,23 @@
+{
+  "id": 1706,
+  "title": "Facts",
+  "genre": "Newspaper",
+  "firstYear": "1883",
+  "finalYear": "1883",
+  "district": "Gisborne District",
+  "frequency": "Weekly",
+  "idMarcControlNumber": "8142080",
+  "idNZNewspapersV1": "71070",
+  "isCurrent": false,
+  "placecode": "05-01",
+  "placename": "Gisborne",
+  "region": "Gisborne",
+  "notes": {
+    "452001": "Final issue date unknown."
+  },
+  "sources": {
+    "2013-04-02T08:58:38.000Z": "Extracted from the New Zealand National Bibliography (MARC record 8142080) downloaded March 2013.",
+    "2014-05-07T09:15:26.000Z": "Modified by DataBot"
+  },
+  "revision": 6
+}

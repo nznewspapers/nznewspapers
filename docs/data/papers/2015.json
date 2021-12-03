@@ -1,0 +1,26 @@
+{
+  "id": 2015,
+  "title": "Valley Farmer",
+  "genre": "Weekly Edition",
+  "firstYear": "1983",
+  "finalYear": "1987",
+  "district": "Carterton District",
+  "frequency": "Weekly",
+  "idMarcControlNumber": "8184397",
+  "idNZNewspapersV1": "66170",
+  "isCurrent": false,
+  "placecode": "09-03",
+  "placename": "Carterton",
+  "region": "Wellington",
+  "links": {
+    "2014": {
+      "direction": "Is Edition Of",
+      "target-description": "Wairarapa News"
+    }
+  },
+  "sources": {
+    "2013-04-02T08:58:38.000Z": "Extracted from the New Zealand National Bibliography (MARC record 8184397) downloaded March 2013.",
+    "2014-05-15T04:30:52.000Z": "Modified by DataBot"
+  },
+  "revision": 5
+}

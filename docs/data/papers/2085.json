@@ -1,0 +1,30 @@
+{
+  "id": 2085,
+  "title": "New Zealand Times [1981]",
+  "genre": "Newspaper",
+  "firstYear": "1981",
+  "finalYear": "1986",
+  "district": "Wellington City",
+  "frequency": "Weekly",
+  "idMarcControlNumber": "3440164",
+  "idNZNewspapersV1": "13002",
+  "isCurrent": false,
+  "placecode": "09-08",
+  "placename": "Wellington",
+  "region": "Wellington",
+  "links": {
+    "2178": {
+      "direction": "Continues",
+      "target-description": "Sunday Times"
+    },
+    "2188": {
+      "direction": "Continued By",
+      "target-description": "New Zealand Sunday Times"
+    }
+  },
+  "sources": {
+    "2013-04-02T08:58:38.000Z": "Extracted from the New Zealand National Bibliography (MARC record 3440164) downloaded March 2013.",
+    "2014-11-11T11:07:32.000Z": "Modified by gordon.paynter"
+  },
+  "revision": 6
+}

@@ -1,0 +1,20 @@
+{
+  "id": 2848,
+  "title": "Kapiti College Herald",
+  "genre": "Periodical",
+  "firstYear": "1993",
+  "finalYear": "9999",
+  "district": "Kapiti Coast District",
+  "frequency": "Irregular",
+  "idMarcControlNumber": "3304836",
+  "idNZNewspapersV1": "18001",
+  "isCurrent": true,
+  "placecode": "09-02",
+  "placename": "Raumati Beach",
+  "region": "Wellington",
+  "sources": {
+    "2013-04-02T08:58:38.000Z": "Extracted from the New Zealand National Bibliography (MARC record 3304836) downloaded March 2013.",
+    "2014-05-07T08:58:45.000Z": "Modified by DataBot"
+  },
+  "revision": 4
+}

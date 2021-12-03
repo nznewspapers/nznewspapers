@@ -1,0 +1,27 @@
+{
+  "id": 1610,
+  "title": "Putaruru Press",
+  "genre": "Newspaper",
+  "firstYear": "1923",
+  "finalYear": "1989",
+  "district": "South Waikato District",
+  "frequency": "Two issues per week",
+  "idMarcControlNumber": "8181391",
+  "idNZNewspapersV1": "67138",
+  "isCurrent": false,
+  "placecode": "03-07",
+  "placename": "Putaruru",
+  "region": "Waikato",
+  "links": {
+    "1612": {
+      "direction": "Continued By",
+      "relationship": "Absorbed By",
+      "target-description": "South Waikato News"
+    }
+  },
+  "sources": {
+    "2013-04-02T08:58:38.000Z": "Extracted from the New Zealand National Bibliography (MARC record 8181391) downloaded March 2013.",
+    "2014-05-16T02:31:23.000Z": "Modified by gordon.paynter"
+  },
+  "revision": 5
+}

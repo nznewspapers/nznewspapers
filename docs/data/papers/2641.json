@@ -1,0 +1,20 @@
+{
+  "id": 2641,
+  "title": "Clutha Times",
+  "genre": "Newspaper",
+  "firstYear": "1878",
+  "finalYear": "1879",
+  "district": "Clutha District",
+  "frequency": "Two issues per week",
+  "idMarcControlNumber": "8135006",
+  "idNZNewspapersV1": "65064",
+  "isCurrent": false,
+  "placecode": "13-04",
+  "placename": "Balclutha",
+  "region": "Otago",
+  "sources": {
+    "2013-04-02T08:58:38.000Z": "Extracted from the New Zealand National Bibliography (MARC record 8135006) downloaded March 2013.",
+    "2014-05-07T09:06:13.000Z": "Modified by DataBot"
+  },
+  "revision": 4
+}

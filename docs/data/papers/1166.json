@@ -1,0 +1,26 @@
+{
+  "id": 1166,
+  "title": "Sunday Herald",
+  "genre": "Weekly Edition",
+  "firstYear": "1971",
+  "finalYear": "1975",
+  "district": "Auckland",
+  "frequency": "Weekly",
+  "idMarcControlNumber": "8182221",
+  "idNZNewspapersV1": "62138",
+  "isCurrent": false,
+  "placecode": "02-01",
+  "placename": "Auckland",
+  "region": "Auckland",
+  "links": {
+    "1073": {
+      "direction": "Is Edition Of",
+      "target-description": "New Zealand Herald"
+    }
+  },
+  "sources": {
+    "2013-04-02T08:58:38.000Z": "Extracted from the New Zealand National Bibliography (MARC record 8182221) downloaded March 2013.",
+    "2015-01-21T10:39:19.000Z": "Modified by gordon.paynter"
+  },
+  "revision": 5
+}

@@ -1,0 +1,31 @@
+{
+  "id": 2239,
+  "title": "The Colonist",
+  "genre": "Newspaper",
+  "firstYear": "1857",
+  "finalYear": "1920",
+  "district": "Nelson City",
+  "finalIssueDate": "1920-05-01",
+  "firstIssueDate": "1857-10-23",
+  "frequency": "Daily",
+  "idMarcControlNumber": "8135018",
+  "idNZNewspapersV1": "14043",
+  "idPapersPastCode": "TC",
+  "isCurrent": false,
+  "placecode": "10-02",
+  "placename": "Nelson",
+  "region": "Top of the South",
+  "urlDigitized": "http://paperspast.natlib.govt.nz/cgi-bin/paperspast?a=d&cl=CL1.TC",
+  "links": {
+    "2241": {
+      "direction": "Succeeding",
+      "relationship": "Absorbed by",
+      "target-description": "Nelson Evening Mail"
+    }
+  },
+  "sources": {
+    "2013-04-02T08:58:38.000Z": "Extracted from the New Zealand National Bibliography (MARC record 8135018) downloaded March 2013.",
+    "2014-03-21T11:32:28.000Z": "Modified by DataBot"
+  },
+  "revision": 11
+}

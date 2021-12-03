@@ -1,0 +1,20 @@
+{
+  "id": 2328,
+  "title": "Hokitika Daily News",
+  "genre": "Newspaper",
+  "firstYear": "1868",
+  "finalYear": "1870",
+  "district": "Westland District",
+  "frequency": "Daily",
+  "idMarcControlNumber": "8157001",
+  "idNZNewspapersV1": "60070",
+  "isCurrent": false,
+  "placecode": "11-03",
+  "placename": "Hokitika",
+  "region": "West Coast",
+  "sources": {
+    "2013-04-02T08:58:38.000Z": "Extracted from the New Zealand National Bibliography (MARC record 8157001) downloaded March 2013.",
+    "2014-03-21T11:36:35.000Z": "Modified by DataBot"
+  },
+  "revision": 4
+}

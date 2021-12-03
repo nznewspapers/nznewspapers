@@ -1,0 +1,21 @@
+{
+  "id": 2860,
+  "title": "Eastbourne Herald (Eastbourne)",
+  "genre": "Periodical",
+  "firstYear": "1990",
+  "finalYear": "9999",
+  "district": "Hutt City",
+  "frequency": "Monthly",
+  "idMarcControlNumber": "5044318",
+  "idNZNewspapersV1": "2036",
+  "isCurrent": true,
+  "placecode": "09-07",
+  "placename": "Eastbourne",
+  "price": "Gratis",
+  "region": "Wellington",
+  "sources": {
+    "2013-04-02T08:58:38.000Z": "Extracted from the New Zealand National Bibliography (MARC record 5044318) downloaded March 2013.",
+    "2014-05-07T09:49:35.000Z": "Modified by DataBot"
+  },
+  "revision": 6
+}

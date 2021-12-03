@@ -1,0 +1,20 @@
+{
+  "id": 1405,
+  "title": "Auckland City Harbour News",
+  "genre": "Newspaper",
+  "firstYear": "1985",
+  "finalYear": "9999",
+  "district": "Auckland",
+  "idMarcControlNumber": "3888572",
+  "idNZNewspapersV1": "1018",
+  "isCurrent": true,
+  "placecode": "02-01-auckland",
+  "placename": "Auckland",
+  "price": "Gratis",
+  "region": "Auckland",
+  "sources": {
+    "2013-04-02T08:58:38.000Z": "Extracted from the New Zealand National Bibliography (MARC record 3888572) downloaded March 2013.",
+    "2014-05-07T09:48:12.000Z": "Modified by DataBot"
+  },
+  "revision": 4
+}

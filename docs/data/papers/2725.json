@@ -1,0 +1,28 @@
+{
+  "id": 2725,
+  "title": "Te Whetu o te Tau",
+  "genre": "Periodical",
+  "firstYear": "1858",
+  "finalYear": "1858",
+  "district": "Auckland",
+  "frequency": "Every two months",
+  "idMarcControlNumber": "3697219",
+  "idNZNewspapersV1": "3021",
+  "isCurrent": false,
+  "placecode": "02-01-auckland",
+  "placename": "Auckland",
+  "region": "Auckland",
+  "urlCurrent": "http://nzdl.org/cgi-bin/library?gg=_cgiarggg_&e=d-00000-00---off-0niupepa--00-0--0-10-0---0---0prompt-10---4-------0-1l--11-en-50---20-about---00-0-1-00-0-0-11-1-0utfZz-8-00&a=d&c=niupepa&cl=CL1.7",
+  "links": {
+    "undefined-unknown": {
+      "direction": "Preceding",
+      "relationship": "Continues",
+      "target-description": "Waka o te iwi"
+    }
+  },
+  "sources": {
+    "2013-04-02T08:58:38.000Z": "Extracted from the New Zealand National Bibliography (MARC record 3697219) downloaded March 2013.",
+    "2014-05-07T08:48:46.000Z": "Modified by DataBot"
+  },
+  "revision": 5
+}

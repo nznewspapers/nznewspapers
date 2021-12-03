@@ -1,0 +1,19 @@
+{
+  "id": 2988,
+  "title": "Doubtless Bay Times",
+  "genre": "Duplicate",
+  "firstYear": "2002",
+  "finalYear": "2012",
+  "district": "Far North District",
+  "idMarcControlNumber": "8777135",
+  "idNZNewspapersV1": "14282640",
+  "isCurrent": false,
+  "placecode": "01-01",
+  "placename": "Kaitaia",
+  "region": "Northland",
+  "sources": {
+    "2013-04-02T08:58:38.000Z": "Extracted from the New Zealand National Bibliography (MARC record 8777135) downloaded March 2013.",
+    "2014-05-15T03:40:55.000Z": "Modified by gordon.paynter"
+  },
+  "revision": 2
+}

@@ -1,0 +1,34 @@
+{
+  "id": 1956,
+  "title": "Levin Daily Chronicle",
+  "genre": "Masthead",
+  "firstYear": "1923",
+  "finalYear": "1946",
+  "district": "Horowhenua District",
+  "frequency": "Daily",
+  "idMarcControlNumber": "8164501",
+  "idNZNewspapersV1": "61080",
+  "isCurrent": false,
+  "placecode": "08-07",
+  "placename": "Levin",
+  "region": "Manawatu-Wanganui",
+  "links": {
+    "1950": {
+      "direction": "Is Masthead Of",
+      "target-description": "Horowhenua Chronicle"
+    },
+    "1953": {
+      "direction": "Continues",
+      "target-description": "Levin Chronicle"
+    },
+    "1957": {
+      "direction": "Continued By",
+      "target-description": "Chronicle"
+    }
+  },
+  "sources": {
+    "2013-04-02T08:58:38.000Z": "Extracted from the New Zealand National Bibliography (MARC record 8164501) downloaded March 2013.",
+    "2014-04-10T12:05:56.000Z": "Modified by gordon.paynter"
+  },
+  "revision": 7
+}

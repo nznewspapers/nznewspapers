@@ -1,0 +1,31 @@
+{
+  "id": 1618,
+  "title": "King Country Chronicle",
+  "genre": "Newspaper",
+  "firstYear": "1906",
+  "finalYear": "1980",
+  "district": "Waitomo District",
+  "finalIssueDate": "1980-11-28",
+  "firstIssueDate": "1906-10-26",
+  "frequency": "Two issues per week",
+  "idMarcControlNumber": "5095865",
+  "idNZNewspapersV1": "14029",
+  "idPapersPastCode": "KCC",
+  "isCurrent": false,
+  "placecode": "03-09",
+  "placename": "Te Kuiti",
+  "region": "Waikato",
+  "urlDigitized": "http://paperspast.natlib.govt.nz/cgi-bin/paperspast?a=d&cl=CL1.KCC",
+  "links": {
+    "1620": {
+      "direction": "Succeeding",
+      "relationship": "Merged into",
+      "target-description": "Waitomo News"
+    }
+  },
+  "sources": {
+    "2013-04-02T08:58:38.000Z": "Extracted from the New Zealand National Bibliography (MARC record 5095865) downloaded March 2013.",
+    "2014-05-07T09:05:54.000Z": "Modified by DataBot"
+  },
+  "revision": 11
+}

@@ -1,0 +1,38 @@
+{
+  "id": 1015,
+  "title": "Hokianga Times",
+  "genre": "Masthead",
+  "firstYear": "1926",
+  "finalYear": "1936",
+  "district": "Far North District",
+  "frequency": "Weekly",
+  "idMarcControlNumber": "8156968",
+  "idNZNewspapersV1": "61072",
+  "isCurrent": false,
+  "placecode": "01-01",
+  "placename": "Kohukohu",
+  "region": "Northland",
+  "notes": {
+    "1130002": "Apparently some confusion about which newspaper 'Incorporated' the Hokianga Times."
+  },
+  "links": {
+    "1006": {
+      "direction": "Is Masthead Of",
+      "target-description": "Hokianga Times"
+    },
+    "1008": {
+      "direction": "Continues",
+      "target-description": "Hokianga Times and North-Western Representative"
+    },
+    "1014": {
+      "direction": "Succeeding",
+      "relationship": "Incorporated by",
+      "target-description": "Hokianga Star"
+    }
+  },
+  "sources": {
+    "2013-04-02T08:58:38.000Z": "Extracted from the New Zealand National Bibliography (MARC record 8156968) downloaded March 2013.",
+    "2014-05-07T09:16:08.000Z": "Modified by DataBot"
+  },
+  "revision": 9
+}

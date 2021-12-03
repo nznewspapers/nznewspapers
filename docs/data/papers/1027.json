@@ -1,0 +1,26 @@
+{
+  "id": 1027,
+  "title": "Far North Penny Pincher",
+  "genre": "Newspaper",
+  "firstYear": "1993",
+  "finalYear": "1994",
+  "district": "Far North District",
+  "idMarcControlNumber": "5053220",
+  "idNZNewspapersV1": "2037",
+  "isCurrent": false,
+  "placecode": "01-01",
+  "placename": "Kaitaia",
+  "price": "Gratis",
+  "region": "Northland",
+  "links": {
+    "1029": {
+      "direction": "Continued By",
+      "target-description": "Far  North Times"
+    }
+  },
+  "sources": {
+    "2013-04-02T08:58:38.000Z": "Extracted from the New Zealand National Bibliography (MARC record 5053220) downloaded March 2013.",
+    "2014-05-16T03:47:16.000Z": "Modified by gordon.paynter"
+  },
+  "revision": 5
+}

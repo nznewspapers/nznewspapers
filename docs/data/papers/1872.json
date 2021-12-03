@@ -1,0 +1,20 @@
+{
+  "id": 1872,
+  "title": "Hunterville News",
+  "genre": "Newspaper",
+  "firstYear": "1971",
+  "finalYear": "1983",
+  "district": "Rangitikei District",
+  "frequency": "Monthly",
+  "idMarcControlNumber": "8157134",
+  "idNZNewspapersV1": "68072",
+  "isCurrent": false,
+  "placecode": "08-02",
+  "placename": "Hunterville",
+  "region": "Manawatu-Wanganui",
+  "sources": {
+    "2013-04-02T08:58:38.000Z": "Extracted from the New Zealand National Bibliography (MARC record 8157134) downloaded March 2013.",
+    "2014-05-07T09:01:53.000Z": "Modified by DataBot"
+  },
+  "revision": 4
+}

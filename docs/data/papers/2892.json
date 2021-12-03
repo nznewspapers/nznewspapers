@@ -1,0 +1,27 @@
+{
+  "id": 2892,
+  "title": "Pacific Network Newspaper",
+  "genre": "Periodical",
+  "firstYear": "1994",
+  "finalYear": "1997",
+  "district": "Wellington City",
+  "idMarcControlNumber": "4425738",
+  "idNZNewspapersV1": "5020",
+  "isCurrent": false,
+  "placecode": "09-08-wellington",
+  "placename": "Wellington",
+  "price": "Gratis",
+  "region": "Wellington",
+  "links": {
+    "2761": {
+      "direction": "Succeeding",
+      "relationship": "Continued by",
+      "target-description": "Pacific star"
+    }
+  },
+  "sources": {
+    "2013-04-02T08:58:38.000Z": "Extracted from the New Zealand National Bibliography (MARC record 4425738) downloaded March 2013.",
+    "2014-05-07T09:48:46.000Z": "Modified by DataBot"
+  },
+  "revision": 5
+}

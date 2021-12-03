@@ -1,0 +1,32 @@
+{
+  "id": 1615,
+  "title": "Patea and Waverley Press",
+  "genre": "Newspaper",
+  "firstYear": "1999",
+  "finalYear": "9999",
+  "district": "South Waikato District",
+  "idMarcControlNumber": "8130479",
+  "idNZNewspapersV1": "14362628",
+  "isCurrent": true,
+  "placecode": "03-07",
+  "placename": "Patea",
+  "region": "Waikato",
+  "urlCurrent": "http://pateawaverleypress.wordpress.com/",
+  "links": {
+    "1613": {
+      "direction": "Preceding",
+      "relationship": "Formed by the Union",
+      "target-description": "The Patea Mail"
+    },
+    "1614": {
+      "direction": "Preceding",
+      "relationship": "Formed by the Union",
+      "target-description": "Waverley Newsletter"
+    }
+  },
+  "sources": {
+    "2013-04-02T08:58:38.000Z": "Extracted from the New Zealand National Bibliography (MARC record 8130479) downloaded March 2013.",
+    "2014-05-31T09:21:42.000Z": "Modified by gordon.paynter"
+  },
+  "revision": 4
+}

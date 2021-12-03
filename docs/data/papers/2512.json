@@ -1,0 +1,25 @@
+{
+  "id": 2512,
+  "title": "Guardian Today",
+  "genre": "Alternate Edition",
+  "firstYear": "2000",
+  "finalYear": "9999",
+  "district": "Ashburton District",
+  "idMarcControlNumber": "5938130",
+  "idNZNewspapersV1": "7037",
+  "isCurrent": true,
+  "placecode": "12-06",
+  "placename": "Ashburton",
+  "region": "Canterbury",
+  "links": {
+    "2509": {
+      "direction": "Is Edition Of",
+      "target-description": "Ashburton Guardian"
+    }
+  },
+  "sources": {
+    "2013-04-02T08:58:38.000Z": "Extracted from the New Zealand National Bibliography (MARC record 5938130) downloaded March 2013.",
+    "2014-03-27T11:06:29.000Z": "Modified by gordon.paynter"
+  },
+  "revision": 3
+}

@@ -1,0 +1,20 @@
+{
+  "id": 2679,
+  "title": "Otautau Farmer and Wallace County Gazette",
+  "genre": "Newspaper",
+  "firstYear": "1909",
+  "finalYear": "1939",
+  "district": "Southland District",
+  "frequency": "Weekly",
+  "idMarcControlNumber": "8177768",
+  "idNZNewspapersV1": "72115",
+  "isCurrent": false,
+  "placecode": "14-01",
+  "placename": "Otautau",
+  "region": "Southland",
+  "sources": {
+    "2013-04-02T08:58:38.000Z": "Extracted from the New Zealand National Bibliography (MARC record 8177768) downloaded March 2013.",
+    "2014-05-07T09:19:16.000Z": "Modified by DataBot"
+  },
+  "revision": 4
+}

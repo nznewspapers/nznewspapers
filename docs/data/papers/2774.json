@@ -1,0 +1,25 @@
+{
+  "id": 2774,
+  "title": "Pauanui Press",
+  "genre": "Periodical",
+  "firstYear": "1989",
+  "finalYear": "1991",
+  "district": "Thames-Coromandel District",
+  "idMarcControlNumber": "3678327",
+  "idNZNewspapersV1": "10013",
+  "isCurrent": false,
+  "placecode": "03-01",
+  "placename": "Pauanui",
+  "region": "Waikato",
+  "links": {
+    "1493": {
+      "direction": "Preceding",
+      "relationship": "Continues",
+      "target-description": "Pauanui post"
+    }
+  },
+  "sources": {
+    "2013-04-02T08:58:38.000Z": "Extracted from the New Zealand National Bibliography (MARC record 3678327) downloaded March 2013."
+  },
+  "revision": 3
+}

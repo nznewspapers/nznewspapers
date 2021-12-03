@@ -1,0 +1,20 @@
+{
+  "id": 1712,
+  "title": "Telephone [1895]",
+  "genre": "Newspaper",
+  "firstYear": "1895",
+  "finalYear": "1900",
+  "district": "Gisborne District",
+  "frequency": "Weekly",
+  "idMarcControlNumber": "8183942",
+  "idNZNewspapersV1": "65165",
+  "isCurrent": false,
+  "placecode": "05-01",
+  "placename": "Gisborne",
+  "region": "Gisborne",
+  "sources": {
+    "2013-04-02T08:58:38.000Z": "Extracted from the New Zealand National Bibliography (MARC record 8183942) downloaded March 2013.",
+    "2014-05-07T09:21:12.000Z": "Modified by DataBot"
+  },
+  "revision": 4
+}

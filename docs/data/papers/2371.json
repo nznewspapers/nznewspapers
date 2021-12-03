@@ -1,0 +1,20 @@
+{
+  "id": 2371,
+  "title": "Kaiapoi Record (1937)",
+  "genre": "Newspaper",
+  "firstYear": "1937",
+  "finalYear": "1939",
+  "district": "Waimakariri District",
+  "frequency": "Weekly",
+  "idMarcControlNumber": "8159789",
+  "idNZNewspapersV1": "66095",
+  "isCurrent": false,
+  "placecode": "12-04",
+  "placename": "Kaiapoi",
+  "region": "Canterbury",
+  "sources": {
+    "2013-04-02T08:58:38.000Z": "Extracted from the New Zealand National Bibliography (MARC record 8159789) downloaded March 2013.",
+    "2014-05-07T09:16:30.000Z": "Modified by DataBot"
+  },
+  "revision": 4
+}

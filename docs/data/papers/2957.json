@@ -1,0 +1,18 @@
+{
+  "id": 2957,
+  "title": "Mt Benger News",
+  "genre": "Periodical",
+  "firstYear": "1960",
+  "finalYear": "1995",
+  "district": "Central Otago District",
+  "idMarcControlNumber": "4706346",
+  "idNZNewspapersV1": "8019",
+  "isCurrent": false,
+  "placecode": "13-02",
+  "placename": "Roxburgh",
+  "region": "Otago",
+  "sources": {
+    "2013-04-02T08:58:38.000Z": "Extracted from the New Zealand National Bibliography (MARC record 4706346) downloaded March 2013."
+  },
+  "revision": 2
+}

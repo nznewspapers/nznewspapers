@@ -1,0 +1,20 @@
+{
+  "id": 1422,
+  "title": "NZ Outdoor Power Equipment",
+  "genre": "Newspaper",
+  "firstYear": "1994",
+  "finalYear": "9999",
+  "district": "Auckland",
+  "frequency": "Irregular",
+  "idMarcControlNumber": "4373905",
+  "idNZNewspapersV1": "7022",
+  "isCurrent": true,
+  "placecode": "02-01-auckland",
+  "placename": "Auckland",
+  "region": "Auckland",
+  "sources": {
+    "2013-04-02T08:58:38.000Z": "Extracted from the New Zealand National Bibliography (MARC record 4373905) downloaded March 2013.",
+    "2014-05-07T08:58:55.000Z": "Modified by DataBot"
+  },
+  "revision": 4
+}

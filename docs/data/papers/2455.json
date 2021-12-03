@@ -1,0 +1,20 @@
+{
+  "id": 2455,
+  "title": "Hornby Herald",
+  "genre": "Newspaper",
+  "firstYear": "1986",
+  "finalYear": "1986",
+  "district": "Christchurch City",
+  "frequency": "Weekly",
+  "idMarcControlNumber": "8157035",
+  "idNZNewspapersV1": "72071",
+  "isCurrent": false,
+  "placecode": "12-05-christchur",
+  "placename": "Christchurch",
+  "region": "Canterbury",
+  "sources": {
+    "2013-04-02T08:58:38.000Z": "Extracted from the New Zealand National Bibliography (MARC record 8157035) downloaded March 2013.",
+    "2014-05-07T09:16:10.000Z": "Modified by DataBot"
+  },
+  "revision": 4
+}

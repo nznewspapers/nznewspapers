@@ -1,0 +1,20 @@
+{
+  "id": 1200,
+  "title": "Courier Eastern",
+  "genre": "Newspaper",
+  "firstYear": "1984",
+  "finalYear": "1986",
+  "district": "Auckland",
+  "frequency": "Weekly",
+  "idMarcControlNumber": "8137253",
+  "idNZNewspapersV1": "66059",
+  "isCurrent": false,
+  "placecode": "02-01",
+  "placename": "Otahuhu",
+  "region": "Auckland",
+  "sources": {
+    "2013-04-02T08:58:38.000Z": "Extracted from the New Zealand National Bibliography (MARC record 8137253) downloaded March 2013.",
+    "2014-05-07T09:14:41.000Z": "Modified by DataBot"
+  },
+  "revision": 4
+}

@@ -1,0 +1,19 @@
+{
+  "id": 2702,
+  "title": "Bay Holiday",
+  "genre": "Periodical",
+  "firstYear": "19uu",
+  "finalYear": "19uu",
+  "district": "Far North District",
+  "idMarcControlNumber": "8758993",
+  "idNZNewspapersV1": "11048",
+  "isCurrent": false,
+  "placecode": "01-01",
+  "placename": "Kaikohe",
+  "region": "Northland",
+  "sources": {
+    "2013-04-02T08:58:38.000Z": "Extracted from the New Zealand National Bibliography (MARC record 8758993) downloaded March 2013.",
+    "2013-08-08T08:14:48.000Z": "Modified by gordon.paynter"
+  },
+  "revision": 2
+}

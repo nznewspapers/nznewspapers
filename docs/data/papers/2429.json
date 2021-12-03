@@ -1,0 +1,26 @@
+{
+  "id": 2429,
+  "title": "Evening News",
+  "genre": "Newspaper",
+  "firstYear": "1909",
+  "finalYear": "1917",
+  "district": "Christchurch City",
+  "frequency": "Daily",
+  "idMarcControlNumber": "8141831",
+  "idNZNewspapersV1": "68051",
+  "isCurrent": false,
+  "placecode": "12-05-christchur",
+  "placename": "Christchurch",
+  "region": "Canterbury",
+  "links": {
+    "2424": {
+      "direction": "Continues",
+      "target-description": "Truth"
+    }
+  },
+  "sources": {
+    "2013-04-02T08:58:38.000Z": "Extracted from the New Zealand National Bibliography (MARC record 8141831) downloaded March 2013.",
+    "2014-04-12T12:10:48.000Z": "Modified by DataBot"
+  },
+  "revision": 5
+}

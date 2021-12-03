@@ -1,0 +1,25 @@
+{
+  "id": 2430,
+  "title": "Maoriland Thinker",
+  "genre": "Newspaper",
+  "firstYear": "1918",
+  "finalYear": "19uu",
+  "district": "Christchurch City",
+  "idMarcControlNumber": "4720576",
+  "idNZNewspapersV1": "11021",
+  "isCurrent": false,
+  "placecode": "12-05-christchur",
+  "placename": "Christchurch",
+  "region": "Canterbury",
+  "links": {
+    "2929": {
+      "direction": "Preceding",
+      "relationship": "Continues",
+      "target-description": "Punchi"
+    }
+  },
+  "sources": {
+    "2013-04-02T08:58:38.000Z": "Extracted from the New Zealand National Bibliography (MARC record 4720576) downloaded March 2013."
+  },
+  "revision": 3
+}

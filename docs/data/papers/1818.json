@@ -1,0 +1,27 @@
+{
+  "id": 1818,
+  "title": "North Taranaki Midweek",
+  "genre": "Newspaper",
+  "firstYear": "1989",
+  "finalYear": "9999",
+  "district": "New Plymouth District",
+  "frequency": "Weekly",
+  "idMarcControlNumber": "3534514",
+  "idNZNewspapersV1": "3014",
+  "isCurrent": true,
+  "placecode": "07-01",
+  "placename": "New Plymouth",
+  "region": "Taranaki",
+  "links": {
+    "undefined-unknown": {
+      "direction": "Preceding",
+      "relationship": "Formed by the union",
+      "target-description": "Northern star"
+    }
+  },
+  "sources": {
+    "2013-04-02T08:58:38.000Z": "Extracted from the New Zealand National Bibliography (MARC record 3534514) downloaded March 2013.",
+    "2014-05-07T09:10:53.000Z": "Modified by DataBot"
+  },
+  "revision": 6
+}

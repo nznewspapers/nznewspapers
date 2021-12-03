@@ -1,0 +1,31 @@
+{
+  "id": 2296,
+  "title": "Argus",
+  "genre": "Masthead",
+  "firstYear": "1875",
+  "finalYear": "1877",
+  "district": "Buller District",
+  "idNZNewspapersV1": "14292641",
+  "isCurrent": false,
+  "placecode": "11-01",
+  "placename": "Lyell",
+  "region": "West Coast",
+  "links": {
+    "2292": {
+      "direction": "Continues",
+      "target-description": "Lyell Argus and  Matakitaki Advertiser"
+    },
+    "2293": {
+      "direction": "Is Masthead Of",
+      "target-description": "Lyell Argus"
+    },
+    "2298": {
+      "direction": "Continued By",
+      "target-description": "Lyell Argus"
+    }
+  },
+  "sources": {
+    "2014-05-16T04:13:20.000Z": "Modified by gordon.paynter"
+  },
+  "revision": 5
+}

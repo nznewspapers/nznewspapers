@@ -1,0 +1,26 @@
+{
+  "id": 2938,
+  "title": "Lyttelton Times (1993)",
+  "genre": "Periodical",
+  "firstYear": "1993",
+  "finalYear": "1996",
+  "district": "Christchurch City",
+  "idMarcControlNumber": "4454284",
+  "idNZNewspapersV1": "14016",
+  "isCurrent": false,
+  "placecode": "12-05-christchur",
+  "placename": "Christchurch",
+  "region": "Canterbury",
+  "links": {
+    "2499": {
+      "direction": "Succeeding",
+      "relationship": "Absorbed by",
+      "target-description": "Observer (Christchurch, N.Z. : 1990)"
+    }
+  },
+  "sources": {
+    "2013-04-02T08:58:38.000Z": "Extracted from the New Zealand National Bibliography (MARC record 4454284) downloaded March 2013.",
+    "2013-04-27T10:05:23.000Z": "Modified by gordon.paynter"
+  },
+  "revision": 3
+}

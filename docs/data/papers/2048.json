@@ -1,0 +1,18 @@
+{
+  "id": 2048,
+  "title": "Petone Chronicle",
+  "genre": "Newspaper",
+  "firstYear": "1953",
+  "finalYear": "1967",
+  "district": "Hutt City",
+  "idMarcControlNumber": "8177885",
+  "idNZNewspapersV1": "69146",
+  "isCurrent": false,
+  "placecode": "09-07",
+  "placename": "Petone",
+  "region": "Wellington",
+  "sources": {
+    "2013-04-02T08:58:38.000Z": "Extracted from the New Zealand National Bibliography (MARC record 8177885) downloaded March 2013."
+  },
+  "revision": 2
+}

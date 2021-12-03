@@ -1,0 +1,30 @@
+{
+  "id": 2302,
+  "title": "Westport News [1882]",
+  "genre": "Masthead",
+  "firstYear": "1882",
+  "finalYear": "1980",
+  "district": "Buller District",
+  "frequency": "Daily",
+  "idMarcControlNumber": "8187805",
+  "idNZNewspapersV1": "59167",
+  "isCurrent": false,
+  "placecode": "11-01",
+  "placename": "Westport",
+  "region": "West Coast",
+  "links": {
+    "2290": {
+      "direction": "Is Masthead Of",
+      "target-description": "The Westport News"
+    },
+    "2295": {
+      "direction": "Continues",
+      "target-description": "Buller News"
+    }
+  },
+  "sources": {
+    "2013-04-02T08:58:38.000Z": "Extracted from the New Zealand National Bibliography (MARC record 8187805) downloaded March 2013.",
+    "2014-03-21T11:44:24.000Z": "Modified by DataBot"
+  },
+  "revision": 6
+}

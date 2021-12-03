@@ -1,0 +1,27 @@
+{
+  "id": 2685,
+  "title": "Mirror (Invercargill)",
+  "genre": "Newspaper",
+  "firstYear": "1987",
+  "finalYear": "1993",
+  "district": "Southland District",
+  "frequency": "Weekly",
+  "idMarcControlNumber": "3889254",
+  "idNZNewspapersV1": "1019",
+  "isCurrent": false,
+  "placecode": "14-01",
+  "placename": "Invercargill",
+  "region": "Southland",
+  "links": {
+    "undefined-unknown": {
+      "direction": "Succeeding",
+      "relationship": "Continued by",
+      "target-description": "Mirror (Queenstown-Lakes ed.)"
+    }
+  },
+  "sources": {
+    "2013-04-02T08:58:38.000Z": "Extracted from the New Zealand National Bibliography (MARC record 3889254) downloaded March 2013.",
+    "2014-05-07T09:11:09.000Z": "Modified by DataBot"
+  },
+  "revision": 6
+}

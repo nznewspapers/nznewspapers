@@ -1,0 +1,20 @@
+{
+  "id": 1642,
+  "title": "Pacific Coast Tide",
+  "genre": "Newspaper",
+  "firstYear": "1955",
+  "finalYear": "1955",
+  "district": "Tauranga City",
+  "frequency": "Weekly",
+  "idMarcControlNumber": "8177799",
+  "idNZNewspapersV1": "70137",
+  "isCurrent": false,
+  "placecode": "04-02",
+  "placename": "Tauranga",
+  "region": "Bay of Plenty",
+  "sources": {
+    "2013-04-02T08:58:38.000Z": "Extracted from the New Zealand National Bibliography (MARC record 8177799) downloaded March 2013.",
+    "2014-05-07T09:19:23.000Z": "Modified by DataBot"
+  },
+  "revision": 4
+}

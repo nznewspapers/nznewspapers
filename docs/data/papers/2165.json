@@ -1,0 +1,29 @@
+{
+  "id": 2165,
+  "title": "Dominion Sunday Times",
+  "genre": "Newspaper",
+  "firstYear": "1965",
+  "finalYear": "1976",
+  "district": "Wellington City",
+  "idMarcControlNumber": "2913145",
+  "idNZNewspapersV1": "6005",
+  "isCurrent": false,
+  "placecode": "09-08-wellington",
+  "placename": "Wellington",
+  "region": "Wellington",
+  "links": {
+    "2164": {
+      "direction": "Continues",
+      "target-description": "The  N.Z. Sunday Times"
+    },
+    "2178": {
+      "direction": "Continued By",
+      "target-description": "Sunday Times"
+    }
+  },
+  "sources": {
+    "2013-04-02T08:58:38.000Z": "Extracted from the New Zealand National Bibliography (MARC record 2913145) downloaded March 2013.",
+    "2014-11-11T11:02:56.000Z": "Modified by gordon.paynter"
+  },
+  "revision": 4
+}

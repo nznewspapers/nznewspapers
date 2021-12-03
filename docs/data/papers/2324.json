@@ -1,0 +1,20 @@
+{
+  "id": 2324,
+  "title": "Hokitika Advertiser and General Goldfields' Advertiser",
+  "genre": "Newspaper",
+  "firstYear": "1865",
+  "finalYear": "uuuu",
+  "district": "Westland District",
+  "frequency": "Two issues per week",
+  "idMarcControlNumber": "8156974",
+  "idNZNewspapersV1": "60068",
+  "isCurrent": false,
+  "placecode": "11-03",
+  "placename": "Hokitika",
+  "region": "West Coast",
+  "sources": {
+    "2013-04-02T08:58:38.000Z": "Extracted from the New Zealand National Bibliography (MARC record 8156974) downloaded March 2013.",
+    "2014-05-07T09:06:28.000Z": "Modified by DataBot"
+  },
+  "revision": 4
+}

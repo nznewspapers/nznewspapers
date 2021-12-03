@@ -1,0 +1,26 @@
+{
+  "id": 1540,
+  "title": "Cambridge Edition",
+  "genre": "Newspaper",
+  "firstYear": "1984",
+  "finalYear": "9999",
+  "district": "Waikato District",
+  "idMarcControlNumber": "2859830",
+  "idNZNewspapersV1": "16002",
+  "isCurrent": true,
+  "placecode": "03-03",
+  "placename": "Cambridge",
+  "price": "Gratis",
+  "region": "Waikato",
+  "links": {
+    "1537": {
+      "direction": "Continues",
+      "target-description": "New  Edition"
+    }
+  },
+  "sources": {
+    "2013-04-02T08:58:38.000Z": "Extracted from the New Zealand National Bibliography (MARC record 2859830) downloaded March 2013.",
+    "2014-05-18T11:55:19.000Z": "Modified by gordon.paynter"
+  },
+  "revision": 5
+}

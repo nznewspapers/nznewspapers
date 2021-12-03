@@ -1,0 +1,37 @@
+{
+  "id": 2478,
+  "title": "Northern Mail",
+  "genre": "Newspaper",
+  "firstYear": "2001",
+  "finalYear": "2003",
+  "district": "Christchurch City",
+  "frequency": "Weekly",
+  "idMarcControlNumber": "6830287",
+  "idNZNewspapersV1": "10042",
+  "isCurrent": false,
+  "placecode": "12-05-christchur",
+  "placename": "Christchurch",
+  "region": "Canterbury",
+  "links": {
+    "2479": {
+      "direction": "Succeeding",
+      "relationship": "Merged",
+      "target-description": "Western mail (Christchurch, N.Z.)"
+    },
+    "2482": {
+      "direction": "Succeeding",
+      "relationship": "Merged",
+      "target-description": "Christchurch mail (Waimairi, Papanui, Riccarton, Fendalton)"
+    },
+    "2495": {
+      "direction": "Preceding",
+      "relationship": "Continues in part",
+      "target-description": "Christchurch mail"
+    }
+  },
+  "sources": {
+    "2013-04-02T08:58:38.000Z": "Extracted from the New Zealand National Bibliography (MARC record 6830287) downloaded March 2013.",
+    "2014-05-07T09:13:11.000Z": "Modified by DataBot"
+  },
+  "revision": 7
+}

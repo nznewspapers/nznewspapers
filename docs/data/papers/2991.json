@@ -1,0 +1,19 @@
+{
+  "id": 2991,
+  "title": "New Zealand Herald and Auckland Gazette",
+  "genre": "Duplicate",
+  "firstYear": "1841",
+  "finalYear": "1842",
+  "district": "Auckland",
+  "idMarcControlNumber": "8000996",
+  "idNZNewspapersV1": "14282635",
+  "isCurrent": false,
+  "placecode": "02-01",
+  "placename": "Auckland",
+  "region": "Auckland",
+  "sources": {
+    "2013-04-02T08:58:38.000Z": "Extracted from the New Zealand National Bibliography (MARC record 8000996) downloaded March 2013.",
+    "2014-05-15T04:17:37.000Z": "Modified by DataBot"
+  },
+  "revision": 2
+}

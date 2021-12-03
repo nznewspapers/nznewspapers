@@ -1,0 +1,20 @@
+{
+  "id": 1536,
+  "title": "Newspower",
+  "genre": "Newspaper",
+  "firstYear": "1980",
+  "finalYear": "1980",
+  "district": "Waikato District",
+  "frequency": "Weekly",
+  "idMarcControlNumber": "8173679",
+  "idNZNewspapersV1": "58106",
+  "isCurrent": false,
+  "placecode": "03-03",
+  "placename": "Huntly",
+  "region": "Waikato",
+  "sources": {
+    "2013-04-02T08:58:38.000Z": "Extracted from the New Zealand National Bibliography (MARC record 8173679) downloaded March 2013.",
+    "2014-05-07T09:18:25.000Z": "Modified by DataBot"
+  },
+  "revision": 4
+}

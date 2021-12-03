@@ -1,0 +1,21 @@
+{
+  "id": 2587,
+  "title": "Waikouaiti & Shag Valley Herald",
+  "genre": "Newspaper",
+  "firstYear": "1870",
+  "finalYear": "1875",
+  "district": "Dunedin City",
+  "finalIssueDate": "1875-09-29",
+  "frequency": "Weekly",
+  "idMarcControlNumber": "8185217",
+  "idNZNewspapersV1": "69185",
+  "isCurrent": false,
+  "placecode": "13-03",
+  "placename": "Waikouaiti",
+  "region": "Otago",
+  "sources": {
+    "2013-04-02T08:58:38.000Z": "Extracted from the New Zealand National Bibliography (MARC record 8185217) downloaded March 2013.",
+    "2014-05-07T09:21:53.000Z": "Modified by DataBot"
+  },
+  "revision": 6
+}

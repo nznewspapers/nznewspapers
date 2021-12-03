@@ -1,0 +1,25 @@
+{
+  "id": 2191,
+  "title": "Upper Hutt Leader",
+  "genre": "Newspaper",
+  "firstYear": "1987",
+  "finalYear": "9999",
+  "district": "Wellington City",
+  "idMarcControlNumber": "3534512",
+  "idNZNewspapersV1": "6010",
+  "isCurrent": true,
+  "placecode": "09-08-wellington",
+  "placename": "Wellington",
+  "region": "Wellington",
+  "links": {
+    "1753": {
+      "direction": "Preceding",
+      "relationship": "Continues",
+      "target-description": "Leader (Upper Hutt, N.Z.)"
+    }
+  },
+  "sources": {
+    "2013-04-02T08:58:38.000Z": "Extracted from the New Zealand National Bibliography (MARC record 3534512) downloaded March 2013."
+  },
+  "revision": 3
+}

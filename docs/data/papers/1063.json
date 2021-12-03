@@ -1,0 +1,20 @@
+{
+  "id": 1063,
+  "title": "Northern Wairoa Gazette",
+  "genre": "Newspaper",
+  "firstYear": "1883",
+  "finalYear": "1887",
+  "district": "Kaipara District",
+  "frequency": "Weekly",
+  "idMarcControlNumber": "8176613",
+  "idNZNewspapersV1": "60110",
+  "isCurrent": false,
+  "placecode": "01-03",
+  "placename": "Dargaville",
+  "region": "Northland",
+  "sources": {
+    "2013-04-02T08:58:38.000Z": "Extracted from the New Zealand National Bibliography (MARC record 8176613) downloaded March 2013.",
+    "2014-05-07T09:18:55.000Z": "Modified by DataBot"
+  },
+  "revision": 4
+}

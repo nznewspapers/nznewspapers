@@ -1,0 +1,25 @@
+{
+  "id": 2905,
+  "title": "Community News (Takaka)",
+  "genre": "Periodical",
+  "firstYear": "19uu",
+  "finalYear": "1996",
+  "district": "Tasman District",
+  "idMarcControlNumber": "3936909",
+  "idNZNewspapersV1": "12011",
+  "isCurrent": false,
+  "placecode": "10-01",
+  "placename": "Takaka",
+  "region": "Top of the South",
+  "links": {
+    "undefined-unknown": {
+      "direction": "Succeeding",
+      "relationship": "Continued by",
+      "target-description": "Community views (Takaka, N.Z.)"
+    }
+  },
+  "sources": {
+    "2013-04-02T08:58:38.000Z": "Extracted from the New Zealand National Bibliography (MARC record 3936909) downloaded March 2013."
+  },
+  "revision": 3
+}

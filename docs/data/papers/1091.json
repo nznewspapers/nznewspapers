@@ -1,0 +1,20 @@
+{
+  "id": 1091,
+  "title": "Manukura, Maori Recorder",
+  "genre": "Newspaper",
+  "firstYear": "1916",
+  "finalYear": "1917",
+  "district": "Auckland",
+  "frequency": "Monthly",
+  "idMarcControlNumber": "8167247",
+  "idNZNewspapersV1": "64105",
+  "isCurrent": false,
+  "placecode": "02-01",
+  "placename": "Akarana",
+  "region": "Auckland",
+  "sources": {
+    "2013-04-02T08:58:38.000Z": "Extracted from the New Zealand National Bibliography (MARC record 8167247) downloaded March 2013.",
+    "2014-05-07T09:02:09.000Z": "Modified by DataBot"
+  },
+  "revision": 4
+}

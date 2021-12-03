@@ -1,0 +1,25 @@
+{
+  "id": 2861,
+  "title": "The Petone Chronicle",
+  "genre": "Periodical",
+  "firstYear": "1991",
+  "finalYear": "1991",
+  "district": "Hutt City",
+  "idMarcControlNumber": "3921768",
+  "idNZNewspapersV1": "4020",
+  "isCurrent": false,
+  "placecode": "09-07",
+  "placename": "Lower Hutt",
+  "region": "Wellington",
+  "links": {
+    "2864": {
+      "direction": "Succeeding",
+      "relationship": "Continued by",
+      "target-description": "Petone herald"
+    }
+  },
+  "sources": {
+    "2013-04-02T08:58:38.000Z": "Extracted from the New Zealand National Bibliography (MARC record 3921768) downloaded March 2013."
+  },
+  "revision": 3
+}

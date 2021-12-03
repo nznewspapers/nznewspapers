@@ -1,0 +1,20 @@
+{
+  "id": 2863,
+  "title": "On the Hill News & Views",
+  "genre": "Periodical",
+  "firstYear": "1991",
+  "finalYear": "1992",
+  "district": "Hutt City",
+  "idMarcControlNumber": "3888222",
+  "idNZNewspapersV1": "1017",
+  "isCurrent": false,
+  "placecode": "09-07",
+  "placename": "Lower Hutt",
+  "price": "Gratis",
+  "region": "Wellington",
+  "sources": {
+    "2013-04-02T08:58:38.000Z": "Extracted from the New Zealand National Bibliography (MARC record 3888222) downloaded March 2013.",
+    "2014-05-07T09:48:11.000Z": "Modified by DataBot"
+  },
+  "revision": 4
+}

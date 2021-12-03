@@ -1,0 +1,35 @@
+{
+  "id": 1938,
+  "title": "Dannevirke Evening News",
+  "genre": "Newspaper",
+  "firstYear": "1909",
+  "finalYear": "1936",
+  "district": "Tararua District",
+  "frequency": "Daily",
+  "idMarcControlNumber": "8138001",
+  "idNZNewspapersV1": "65070",
+  "isCurrent": false,
+  "placecode": "08-06",
+  "placename": "Dannevirke",
+  "region": "Manawatu-Wanganui",
+  "links": {
+    "1935": {
+      "direction": "Continues",
+      "target-description": "Daily Press"
+    },
+    "1936": {
+      "direction": "Preceding",
+      "relationship": "Incorporates",
+      "target-description": "Dannevirke Advocate"
+    },
+    "1939": {
+      "direction": "Continued By",
+      "target-description": "Evening News"
+    }
+  },
+  "sources": {
+    "2013-04-02T08:58:38.000Z": "Extracted from the New Zealand National Bibliography (MARC record 8138001) downloaded March 2013.",
+    "2014-04-10T11:50:06.000Z": "Modified by gordon.paynter"
+  },
+  "revision": 7
+}

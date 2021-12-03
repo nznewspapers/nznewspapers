@@ -1,0 +1,18 @@
+{
+  "id": 2885,
+  "title": "Christmas Spectacular",
+  "genre": "Periodical",
+  "firstYear": "1980",
+  "finalYear": "19uu",
+  "district": "Wellington City",
+  "idMarcControlNumber": "8421930",
+  "idNZNewspapersV1": "1049",
+  "isCurrent": false,
+  "placecode": "09-08-wellington",
+  "placename": "Wellington",
+  "region": "Wellington",
+  "sources": {
+    "2013-04-02T08:58:38.000Z": "Extracted from the New Zealand National Bibliography (MARC record 8421930) downloaded March 2013."
+  },
+  "revision": 2
+}

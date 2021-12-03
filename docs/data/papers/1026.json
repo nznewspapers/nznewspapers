@@ -1,0 +1,26 @@
+{
+  "id": 1026,
+  "title": "Chronicle (Kerikeri)",
+  "genre": "Newspaper",
+  "firstYear": "1988",
+  "finalYear": "2003",
+  "district": "Far North District",
+  "idMarcControlNumber": "3561188",
+  "idNZNewspapersV1": "13011",
+  "isCurrent": false,
+  "placecode": "01-01",
+  "placename": "Kerikeri",
+  "region": "Northland",
+  "links": {
+    "1031": {
+      "direction": "Succeeding",
+      "relationship": "Continued by",
+      "target-description": "Bay Chronicle"
+    }
+  },
+  "sources": {
+    "2013-04-02T08:58:38.000Z": "Extracted from the New Zealand National Bibliography (MARC record 3561188) downloaded March 2013.",
+    "2013-08-11T09:51:43.000Z": "Modified by gordon.paynter"
+  },
+  "revision": 3
+}

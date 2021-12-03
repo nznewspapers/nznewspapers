@@ -1,0 +1,20 @@
+{
+  "id": 1193,
+  "title": "Shore Sentinel",
+  "genre": "Newspaper",
+  "firstYear": "1981",
+  "finalYear": "1982",
+  "district": "Auckland",
+  "frequency": "Fortnightly",
+  "idMarcControlNumber": "8181755",
+  "idNZNewspapersV1": "71132",
+  "isCurrent": false,
+  "placecode": "02-01",
+  "placename": "Takapuna",
+  "region": "Auckland",
+  "sources": {
+    "2013-04-02T08:58:38.000Z": "Extracted from the New Zealand National Bibliography (MARC record 8181755) downloaded March 2013.",
+    "2014-05-07T08:57:47.000Z": "Modified by DataBot"
+  },
+  "revision": 4
+}

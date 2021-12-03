@@ -1,0 +1,24 @@
+{
+  "id": 1636,
+  "title": "Bay of Plenty Times",
+  "genre": "Newspaper",
+  "firstYear": "1872",
+  "finalYear": "9999",
+  "district": "Tauranga City",
+  "firstIssueDate": "1872-09-04",
+  "frequency": "Daily (except Sunday)",
+  "idMarcControlNumber": "4645508",
+  "idNZNewspapersV1": "1026",
+  "idPapersPastCode": "BOPT",
+  "isCurrent": true,
+  "placecode": "04-02",
+  "placename": "Tauranga",
+  "region": "Bay of Plenty",
+  "urlCurrent": "http://www.bayofplentytimes.co.nz",
+  "urlDigitized": "http://paperspast.natlib.govt.nz/cgi-bin/paperspast?a=d&cl=CL1.BOPT",
+  "sources": {
+    "2013-04-02T08:58:38.000Z": "Extracted from the New Zealand National Bibliography (MARC record 4645508) downloaded March 2013.",
+    "2014-03-21T11:47:20.000Z": "Modified by DataBot"
+  },
+  "revision": 8
+}

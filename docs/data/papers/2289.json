@@ -1,0 +1,33 @@
+{
+  "id": 2289,
+  "title": "Westport Times",
+  "genre": "Newspaper",
+  "firstYear": "1869",
+  "finalYear": "1892",
+  "district": "Buller District",
+  "frequency": "Two issues per week",
+  "idMarcControlNumber": "8187807",
+  "idNZNewspapersV1": "67178",
+  "idPapersPastCode": "WEST",
+  "isCurrent": false,
+  "placecode": "11-01",
+  "placename": "Westport",
+  "region": "West Coast",
+  "urlDigitized": "http://paperspast.natlib.govt.nz/cgi-bin/paperspast?a=d&cl=CL1.WEST",
+  "links": {
+    "2286": {
+      "direction": "Continues",
+      "target-description": "Westport Daily Times and  Charleston Argus"
+    },
+    "2304": {
+      "direction": "Succeeding",
+      "relationship": "Merged Into",
+      "target-description": "Westport Times and  Evening Star"
+    }
+  },
+  "sources": {
+    "2013-04-02T08:58:38.000Z": "Extracted from the New Zealand National Bibliography (MARC record 8187807) downloaded March 2013.",
+    "2014-05-16T02:37:58.000Z": "Modified by gordon.paynter"
+  },
+  "revision": 8
+}

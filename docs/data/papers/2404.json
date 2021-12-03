@@ -1,0 +1,19 @@
+{
+  "id": 2404,
+  "title": "Xinxilan Xin Bao",
+  "genre": "Newspaper",
+  "firstYear": "2003",
+  "finalYear": "9999",
+  "district": "Christchurch City",
+  "idMarcControlNumber": "8341195",
+  "idNZNewspapersV1": "14342640",
+  "isCurrent": true,
+  "placecode": "12-05",
+  "placename": "Christchurch",
+  "region": "Canterbury",
+  "sources": {
+    "2013-04-02T08:58:38.000Z": "Extracted from the New Zealand National Bibliography (MARC record 8341195) downloaded March 2013.",
+    "2014-04-23T10:11:10.000Z": "Modified by MarcLoaderBot"
+  },
+  "revision": 2
+}

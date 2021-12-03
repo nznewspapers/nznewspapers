@@ -1,0 +1,48 @@
+{
+  "id": 1247,
+  "title": "Aucklander (East Ed.)",
+  "genre": "Alternate Edition",
+  "firstYear": "2003",
+  "finalYear": "2008",
+  "district": "Auckland",
+  "frequency": "Weekly",
+  "idMarcControlNumber": "7974163",
+  "idNZNewspapersV1": "6042",
+  "isCurrent": false,
+  "placecode": "02-01",
+  "placename": "Auckland",
+  "price": "Gratis",
+  "region": "Auckland",
+  "urlCurrent": "http://www.theaucklander.co.nz/",
+  "links": {
+    "1245": {
+      "direction": "Succeeding",
+      "relationship": "Merged",
+      "target-description": "Aucklander (Central ed.)"
+    },
+    "1246": {
+      "direction": "Succeeding",
+      "relationship": "Merged",
+      "target-description": "Aucklander (City ed.)"
+    },
+    "1249": {
+      "direction": "Is Edition Of",
+      "target-description": "The Aucklander"
+    },
+    "1258": {
+      "direction": "Succeeding",
+      "relationship": "Merged",
+      "target-description": "Aucklander (Tamaki)"
+    },
+    "1265": {
+      "direction": "Succeeding",
+      "relationship": "Merged",
+      "target-description": "The Aucklander city"
+    }
+  },
+  "sources": {
+    "2013-04-02T08:58:38.000Z": "Extracted from the New Zealand National Bibliography (MARC record 7974163) downloaded March 2013.",
+    "2015-01-21T10:27:51.000Z": "Modified by gordon.paynter"
+  },
+  "revision": 11
+}

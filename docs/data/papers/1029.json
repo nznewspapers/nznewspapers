@@ -1,0 +1,30 @@
+{
+  "id": 1029,
+  "title": "Far North Times",
+  "genre": "Newspaper",
+  "firstYear": "1994",
+  "finalYear": "2002",
+  "district": "Far North District",
+  "frequency": "Fortnightly",
+  "idMarcControlNumber": "8142085",
+  "idNZNewspapersV1": "69093",
+  "isCurrent": false,
+  "placecode": "01-01",
+  "placename": "Kaitaia",
+  "region": "Northland",
+  "links": {
+    "1027": {
+      "direction": "Continues",
+      "target-description": "Far  North Penny Pincher"
+    },
+    "1033": {
+      "direction": "Continued By",
+      "target-description": "Far  North &  Doubtless Bay  Times"
+    }
+  },
+  "sources": {
+    "2013-04-02T08:58:38.000Z": "Extracted from the New Zealand National Bibliography (MARC record 8142085) downloaded March 2013.",
+    "2014-05-16T03:47:44.000Z": "Modified by gordon.paynter"
+  },
+  "revision": 6
+}

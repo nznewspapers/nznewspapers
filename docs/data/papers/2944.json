@@ -1,0 +1,20 @@
+{
+  "id": 2944,
+  "title": "Jin ri Xin Hua",
+  "genre": "Periodical",
+  "firstYear": "2001",
+  "finalYear": "2003",
+  "district": "Christchurch City",
+  "frequency": "Monthly",
+  "idMarcControlNumber": "7449604",
+  "idNZNewspapersV1": "59048",
+  "isCurrent": false,
+  "placecode": "12-05-christchur",
+  "placename": "Christchurch",
+  "region": "Canterbury",
+  "sources": {
+    "2013-04-02T08:58:38.000Z": "Extracted from the New Zealand National Bibliography (MARC record 7449604) downloaded March 2013.",
+    "2014-05-07T09:01:06.000Z": "Modified by DataBot"
+  },
+  "revision": 4
+}

@@ -1,0 +1,36 @@
+{
+  "id": 1502,
+  "title": "Ohinemuri Gazette",
+  "genre": "Newspaper",
+  "firstYear": "1891",
+  "finalYear": "1921",
+  "district": "Hauraki District",
+  "finalIssueDate": "1921-07-29",
+  "firstIssueDate": "1891-12-19",
+  "frequency": "Weekly",
+  "idMarcControlNumber": "8177375",
+  "idNZNewspapersV1": "4052",
+  "idPapersPastCode": "OG",
+  "isCurrent": false,
+  "placecode": "03-02",
+  "placename": "Paeroa",
+  "region": "Waikato",
+  "urlDigitized": "http://paperspast.natlib.govt.nz/cgi-bin/paperspast?a=d&cl=CL1.OG",
+  "links": {
+    "1501": {
+      "direction": "Preceding",
+      "relationship": "Incorporated",
+      "target-description": "Hauraki Tribune and  County of  Ohinemuri Advertiser"
+    },
+    "1506": {
+      "direction": "Succeeding",
+      "relationship": "Continued by",
+      "target-description": "Hauraki Plains Gazette"
+    }
+  },
+  "sources": {
+    "2013-04-02T08:58:38.000Z": "Extracted from the New Zealand National Bibliography (MARC record 8177375) downloaded March 2013.",
+    "2014-05-07T09:19:07.000Z": "Modified by DataBot"
+  },
+  "revision": 12
+}

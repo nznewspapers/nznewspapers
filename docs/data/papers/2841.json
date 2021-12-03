@@ -1,0 +1,21 @@
+{
+  "id": 2841,
+  "title": "Community Manawatu",
+  "genre": "Periodical",
+  "firstYear": "1997",
+  "finalYear": "9999",
+  "district": "Palmerston North City",
+  "frequency": "Monthly",
+  "idMarcControlNumber": "4808629",
+  "idNZNewspapersV1": "4029",
+  "isCurrent": true,
+  "placecode": "08-05",
+  "placename": "Palmerston North",
+  "price": "Gratis",
+  "region": "Manawatu-Wanganui",
+  "sources": {
+    "2013-04-02T08:58:38.000Z": "Extracted from the New Zealand National Bibliography (MARC record 4808629) downloaded March 2013.",
+    "2014-05-07T09:49:18.000Z": "Modified by DataBot"
+  },
+  "revision": 6
+}

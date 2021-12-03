@@ -1,0 +1,25 @@
+{
+  "id": 2914,
+  "title": "Hurunui District News",
+  "genre": "Periodical",
+  "firstYear": "1991",
+  "finalYear": "1993",
+  "district": "Hurunui District",
+  "idMarcControlNumber": "4169313",
+  "idNZNewspapersV1": "2022",
+  "isCurrent": false,
+  "placecode": "12-02",
+  "placename": "Amberley",
+  "region": "Canterbury",
+  "links": {
+    "undefined-unknown": {
+      "direction": "Succeeding",
+      "relationship": "Continued by",
+      "target-description": "Hurunui news."
+    }
+  },
+  "sources": {
+    "2013-04-02T08:58:38.000Z": "Extracted from the New Zealand National Bibliography (MARC record 4169313) downloaded March 2013."
+  },
+  "revision": 3
+}

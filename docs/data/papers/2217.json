@@ -1,0 +1,27 @@
+{
+  "id": 2217,
+  "title": "Xin Cheng Zhou kan",
+  "genre": "Newspaper",
+  "firstYear": "2007",
+  "finalYear": "2008",
+  "district": "Wellington City",
+  "frequency": "Weekly",
+  "idMarcControlNumber": "11262901",
+  "idNZNewspapersV1": "9040",
+  "isCurrent": false,
+  "placecode": "09-08-wellington",
+  "placename": "Wellington",
+  "region": "Wellington",
+  "links": {
+    "undefined-unknown": {
+      "direction": "Succeeding",
+      "relationship": "Continued by",
+      "target-description": "NiHao"
+    }
+  },
+  "sources": {
+    "2013-04-02T08:58:38.000Z": "Extracted from the New Zealand National Bibliography (MARC record 11262901) downloaded March 2013.",
+    "2014-05-07T09:08:50.000Z": "Modified by DataBot"
+  },
+  "revision": 5
+}

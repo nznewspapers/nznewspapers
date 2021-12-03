@@ -1,0 +1,28 @@
+{
+  "id": 1672,
+  "title": "Hot Lakes Chronicle",
+  "genre": "Newspaper",
+  "firstYear": "1885",
+  "finalYear": "1916",
+  "district": "Rotorua District",
+  "idNZNewspapersV1": "399001",
+  "isCurrent": false,
+  "placecode": "04-05",
+  "placename": "Rotorua",
+  "region": "Bay of Plenty",
+  "links": {
+    "1673": {
+      "direction": "Has Edition",
+      "target-description": "Hot  Lakes Weekly Chronicle"
+    },
+    "1676": {
+      "direction": "Succeeding",
+      "relationship": "Merged into",
+      "target-description": "Rotorua Chronicle"
+    }
+  },
+  "sources": {
+    "2013-09-13T08:50:25.000Z": "Modified by gordon.paynter"
+  },
+  "revision": 4
+}

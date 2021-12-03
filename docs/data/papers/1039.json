@@ -1,0 +1,24 @@
+{
+  "id": 1039,
+  "title": "Morning Press",
+  "genre": "Newspaper",
+  "firstYear": "1905",
+  "finalYear": "1908",
+  "alternateTitle": {
+    "1220002": "Whangarei County Press",
+    "1280002": "North Auckland Press"
+  },
+  "district": "Whangarei District",
+  "frequency": "Daily",
+  "idMarcControlNumber": "8168052",
+  "idNZNewspapersV1": "72089",
+  "isCurrent": false,
+  "placecode": "01-02",
+  "placename": "Whangarei",
+  "region": "Northland",
+  "sources": {
+    "2013-04-02T08:58:38.000Z": "Extracted from the New Zealand National Bibliography (MARC record 8168052) downloaded March 2013.",
+    "2014-03-21T11:45:05.000Z": "Modified by DataBot"
+  },
+  "revision": 8
+}

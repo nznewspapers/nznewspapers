@@ -1,0 +1,20 @@
+{
+  "id": 1590,
+  "title": "Waikato Trader",
+  "genre": "Newspaper",
+  "firstYear": "1990",
+  "finalYear": "1990",
+  "district": "Hamilton City",
+  "frequency": "Weekly",
+  "idMarcControlNumber": "5024901",
+  "idNZNewspapersV1": "7031",
+  "isCurrent": false,
+  "placecode": "03-05",
+  "placename": "Hamilton",
+  "region": "Waikato",
+  "sources": {
+    "2013-04-02T08:58:38.000Z": "Extracted from the New Zealand National Bibliography (MARC record 5024901) downloaded March 2013.",
+    "2014-05-07T09:12:23.000Z": "Modified by DataBot"
+  },
+  "revision": 4
+}

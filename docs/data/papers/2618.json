@@ -1,0 +1,20 @@
+{
+  "id": 2618,
+  "title": "Wakari Community News",
+  "genre": "Newspaper",
+  "firstYear": "1947",
+  "finalYear": "1956",
+  "district": "Dunedin City",
+  "frequency": "Monthly",
+  "idMarcControlNumber": "8185514",
+  "idNZNewspapersV1": "71163",
+  "isCurrent": false,
+  "placecode": "13-03",
+  "placename": "Dunedin",
+  "region": "Otago",
+  "sources": {
+    "2013-04-02T08:58:38.000Z": "Extracted from the New Zealand National Bibliography (MARC record 8185514) downloaded March 2013.",
+    "2014-05-07T09:03:18.000Z": "Modified by DataBot"
+  },
+  "revision": 4
+}

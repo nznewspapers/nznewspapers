@@ -1,0 +1,26 @@
+{
+  "id": 1992,
+  "title": "Times-Age Topix",
+  "genre": "Alternate Edition",
+  "firstYear": "1982",
+  "finalYear": "uuuu",
+  "district": "Masterton District",
+  "frequency": "Weekly",
+  "idMarcControlNumber": "8184023",
+  "idNZNewspapersV1": "66165",
+  "isCurrent": false,
+  "placecode": "09-01",
+  "placename": "Masterton",
+  "region": "Wellington",
+  "links": {
+    "1989": {
+      "direction": "Is Edition Of",
+      "target-description": "Wairarapa Times-Age"
+    }
+  },
+  "sources": {
+    "2013-04-02T08:58:38.000Z": "Extracted from the New Zealand National Bibliography (MARC record 8184023) downloaded March 2013.",
+    "2014-05-07T09:21:22.000Z": "Modified by DataBot"
+  },
+  "revision": 5
+}

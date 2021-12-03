@@ -1,0 +1,23 @@
+{
+  "id": 1050,
+  "title": "Kamo Klarion",
+  "genre": "Newspaper",
+  "firstYear": "1978",
+  "finalYear": "1979",
+  "district": "Whangarei District",
+  "frequency": "Monthly",
+  "idMarcControlNumber": "8160051",
+  "idNZNewspapersV1": "64096",
+  "isCurrent": false,
+  "placecode": "01-02",
+  "placename": "Kamo",
+  "region": "Northland",
+  "notes": {
+    "910002": "Monthly?"
+  },
+  "sources": {
+    "2013-04-02T08:58:38.000Z": "Extracted from the New Zealand National Bibliography (MARC record 8160051) downloaded March 2013.",
+    "2014-05-07T09:02:00.000Z": "Modified by DataBot"
+  },
+  "revision": 6
+}

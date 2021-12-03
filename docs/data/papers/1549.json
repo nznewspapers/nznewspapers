@@ -1,0 +1,18 @@
+{
+  "id": 1549,
+  "title": "Te Aroha Mail",
+  "genre": "Newspaper",
+  "firstYear": "1882",
+  "finalYear": "uuuu",
+  "district": "Matamata-Piako District",
+  "idMarcControlNumber": "8183886",
+  "idNZNewspapersV1": "63143",
+  "isCurrent": false,
+  "placecode": "03-04",
+  "placename": "Te Aroha",
+  "region": "Waikato",
+  "sources": {
+    "2013-04-02T08:58:38.000Z": "Extracted from the New Zealand National Bibliography (MARC record 8183886) downloaded March 2013."
+  },
+  "revision": 2
+}

@@ -1,0 +1,20 @@
+{
+  "id": 1487,
+  "title": "Peninsula Weekly Press",
+  "genre": "Newspaper",
+  "firstYear": "1931",
+  "finalYear": "uuuu",
+  "district": "Thames-Coromandel District",
+  "frequency": "Weekly",
+  "idMarcControlNumber": "8177877",
+  "idNZNewspapersV1": "67131",
+  "isCurrent": false,
+  "placecode": "03-01",
+  "placename": "Thames",
+  "region": "Waikato",
+  "sources": {
+    "2013-04-02T08:58:38.000Z": "Extracted from the New Zealand National Bibliography (MARC record 8177877) downloaded March 2013.",
+    "2014-05-07T09:19:34.000Z": "Modified by DataBot"
+  },
+  "revision": 4
+}

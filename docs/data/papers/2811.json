@@ -1,0 +1,28 @@
+{
+  "id": 2811,
+  "title": "Te Pipiwharauroa : he Kupu Whakamarama",
+  "genre": "Periodical",
+  "firstYear": "1898",
+  "finalYear": "1913",
+  "district": "Gisborne District",
+  "frequency": "Monthly",
+  "idMarcControlNumber": "4671764",
+  "idNZNewspapersV1": "13022",
+  "isCurrent": false,
+  "placecode": "05-01",
+  "placename": "Gisborne",
+  "region": "Gisborne",
+  "urlCurrent": "http://nzdl.org/cgi-bin/library?gg=_cgiarggg_&e=d-00000-00---0niupepa--00-0--0-10-0---0---0prompt-10---4-------0-1l--11-en-50---20-about---00-0-1-00-11-1-0utfZz-8-00&a=d&c=niupepa&cl=CL1.29",
+  "links": {
+    "undefined-unknown": {
+      "direction": "Succeeding",
+      "relationship": "Continued by",
+      "target-description": "Kopara"
+    }
+  },
+  "sources": {
+    "2013-04-02T08:58:38.000Z": "Extracted from the New Zealand National Bibliography (MARC record 4671764) downloaded March 2013.",
+    "2014-05-07T09:00:23.000Z": "Modified by DataBot"
+  },
+  "revision": 6
+}

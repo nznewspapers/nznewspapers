@@ -1,0 +1,32 @@
+{
+  "id": 1259,
+  "title": "Aucklander (Papakura Ed.)",
+  "genre": "Alternate Edition",
+  "firstYear": "2006",
+  "finalYear": "2007",
+  "district": "Auckland",
+  "frequency": "Weekly",
+  "idMarcControlNumber": "10654188",
+  "idNZNewspapersV1": "11051",
+  "isCurrent": false,
+  "placecode": "02-01",
+  "placename": "Auckland",
+  "price": "Gratis",
+  "region": "Auckland",
+  "links": {
+    "1249": {
+      "direction": "Is Edition Of",
+      "target-description": "The Aucklander"
+    },
+    "1269": {
+      "direction": "Preceding",
+      "relationship": "Continues",
+      "target-description": "Aucklander (Counties ed.)"
+    }
+  },
+  "sources": {
+    "2013-04-02T08:58:38.000Z": "Extracted from the New Zealand National Bibliography (MARC record 10654188) downloaded March 2013.",
+    "2015-01-21T10:26:51.000Z": "Modified by gordon.paynter"
+  },
+  "revision": 8
+}

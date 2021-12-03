@@ -1,0 +1,27 @@
+{
+  "id": 2284,
+  "title": "Westport Times and Buller Express",
+  "genre": "Newspaper",
+  "firstYear": "1866",
+  "finalYear": "1867",
+  "district": "Buller District",
+  "frequency": "Two issues per week",
+  "idMarcControlNumber": "8187810",
+  "idNZNewspapersV1": "72168",
+  "isCurrent": false,
+  "placecode": "11-01",
+  "placename": "Westport",
+  "region": "West Coast",
+  "links": {
+    "2286": {
+      "direction": "Succeeding",
+      "relationship": "Continued by",
+      "target-description": "Westport Daily Times and  Charleston Argus"
+    }
+  },
+  "sources": {
+    "2013-04-02T08:58:38.000Z": "Extracted from the New Zealand National Bibliography (MARC record 8187810) downloaded March 2013.",
+    "2014-05-07T09:07:42.000Z": "Modified by DataBot"
+  },
+  "revision": 5
+}

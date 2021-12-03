@@ -1,0 +1,34 @@
+{
+  "id": 1697,
+  "title": "The Poverty Bay Herald",
+  "genre": "Newspaper",
+  "firstYear": "1874",
+  "finalYear": "1939",
+  "district": "Gisborne District",
+  "firstIssueDate": "1874-01-05",
+  "frequency": "Daily (except Sunday)",
+  "idMarcControlNumber": "6309965",
+  "idNZNewspapersV1": "6037",
+  "idPapersPastCode": "PBH",
+  "isCurrent": false,
+  "placecode": "05-01",
+  "placename": "Gisborne",
+  "region": "Gisborne",
+  "urlDigitized": "http://paperspast.natlib.govt.nz/cgi-bin/paperspast?a=d&cl=CL1.PBH",
+  "links": {
+    "1713": {
+      "direction": "Preceding",
+      "relationship": "Absorbed",
+      "target-description": "Gisborne Times"
+    },
+    "1720": {
+      "direction": "Continued By",
+      "target-description": "Gisborne Herald"
+    }
+  },
+  "sources": {
+    "2013-04-02T08:58:38.000Z": "Extracted from the New Zealand National Bibliography (MARC record 6309965) downloaded March 2013.",
+    "2014-03-21T11:48:48.000Z": "Modified by DataBot"
+  },
+  "revision": 10
+}

@@ -1,0 +1,20 @@
+{
+  "id": 2651,
+  "title": "Palmerston & Waikouaiti Times",
+  "genre": "Newspaper",
+  "firstYear": "1875",
+  "finalYear": "1917",
+  "district": "Waitaki District",
+  "frequency": "Weekly",
+  "idMarcControlNumber": "8177838",
+  "idNZNewspapersV1": "67129",
+  "isCurrent": false,
+  "placecode": "13-99",
+  "placename": "Palmerston",
+  "region": "Otago",
+  "sources": {
+    "2013-04-02T08:58:38.000Z": "Extracted from the New Zealand National Bibliography (MARC record 8177838) downloaded March 2013.",
+    "2014-05-07T09:19:26.000Z": "Modified by DataBot"
+  },
+  "revision": 4
+}

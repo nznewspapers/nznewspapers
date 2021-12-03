@@ -1,0 +1,20 @@
+{
+  "id": 1576,
+  "title": "Te Manu Ko?rero",
+  "genre": "Newspaper",
+  "firstYear": "1967",
+  "finalYear": "1967",
+  "district": "Hamilton City",
+  "frequency": "Weekly",
+  "idMarcControlNumber": "7243536",
+  "idNZNewspapersV1": "3042",
+  "isCurrent": false,
+  "placecode": "03-05",
+  "placename": "Hamilton",
+  "region": "Waikato",
+  "sources": {
+    "2013-04-02T08:58:38.000Z": "Extracted from the New Zealand National Bibliography (MARC record 7243536) downloaded March 2013.",
+    "2014-05-07T09:13:20.000Z": "Modified by DataBot"
+  },
+  "revision": 4
+}

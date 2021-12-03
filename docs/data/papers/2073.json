@@ -1,0 +1,26 @@
+{
+  "id": 2073,
+  "title": "Morning Post",
+  "genre": "Alternate Edition",
+  "firstYear": "1867",
+  "finalYear": "uuuu",
+  "district": "Wellington City",
+  "frequency": "Daily",
+  "idMarcControlNumber": "8167961",
+  "idNZNewspapersV1": "69122",
+  "isCurrent": false,
+  "placecode": "09-08",
+  "placename": "Wellington",
+  "region": "Wellington",
+  "links": {
+    "2101": {
+      "direction": "Is Edition Of",
+      "target-description": "The Evening Post"
+    }
+  },
+  "sources": {
+    "2013-04-02T08:58:38.000Z": "Extracted from the New Zealand National Bibliography (MARC record 8167961) downloaded March 2013.",
+    "2014-04-12T10:30:47.000Z": "Modified by gordon.paynter"
+  },
+  "revision": 5
+}

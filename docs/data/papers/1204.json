@@ -1,0 +1,26 @@
+{
+  "id": 1204,
+  "title": "Hibiscus Coaster",
+  "genre": "Newspaper",
+  "firstYear": "1985",
+  "finalYear": "1991",
+  "district": "Auckland",
+  "idMarcControlNumber": "3530512",
+  "idNZNewspapersV1": "5004",
+  "isCurrent": false,
+  "placecode": "02-01",
+  "placename": "Orewa",
+  "price": "Gratis",
+  "region": "Auckland",
+  "links": {
+    "1216": {
+      "direction": "Continued By",
+      "target-description": "Coaster (1991)"
+    }
+  },
+  "sources": {
+    "2013-04-02T08:58:38.000Z": "Extracted from the New Zealand National Bibliography (MARC record 3530512) downloaded March 2013.",
+    "2015-01-20T09:12:56.000Z": "Modified by gordon.paynter"
+  },
+  "revision": 5
+}

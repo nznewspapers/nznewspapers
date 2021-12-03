@@ -1,0 +1,27 @@
+{
+  "id": 1977,
+  "title": "Wairarapa News and Valley and East Coast Advertiser",
+  "genre": "Newspaper",
+  "firstYear": "1874",
+  "finalYear": "1877",
+  "district": "Masterton District",
+  "frequency": "Two issues per week",
+  "idMarcControlNumber": "8185410",
+  "idNZNewspapersV1": "73027",
+  "isCurrent": false,
+  "placecode": "09-01",
+  "placename": "Masterton",
+  "region": "Wellington",
+  "links": {
+    "1979": {
+      "direction": "Succeeding",
+      "relationship": "Merged to form",
+      "target-description": "Wairarapa Register"
+    }
+  },
+  "sources": {
+    "2013-04-02T08:58:38.000Z": "Extracted from the New Zealand National Bibliography (MARC record 8185410) downloaded March 2013.",
+    "2014-05-07T09:07:34.000Z": "Modified by DataBot"
+  },
+  "revision": 5
+}

@@ -1,0 +1,27 @@
+{
+  "id": 2506,
+  "title": "The Press (South Island edition)",
+  "genre": "Alternate Edition",
+  "firstYear": "uuuu",
+  "finalYear": "9999",
+  "district": "Christchurch City",
+  "frequency": "Daily (except Sunday)",
+  "idMarcControlNumber": "12878483",
+  "idNZNewspapersV1": "1059",
+  "isCurrent": true,
+  "placecode": "12-05-christchur",
+  "placename": "Christchurch",
+  "region": "Canterbury",
+  "links": {
+    "2411": {
+      "direction": "Succeeding",
+      "relationship": "Unrelated",
+      "target-description": "Press (Christchurch, N.Z.)"
+    }
+  },
+  "sources": {
+    "2013-04-02T08:58:38.000Z": "Extracted from the New Zealand National Bibliography (MARC record 12878483) downloaded March 2013.",
+    "2014-03-21T11:45:34.000Z": "Modified by DataBot"
+  },
+  "revision": 5
+}

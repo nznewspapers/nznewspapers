@@ -1,0 +1,19 @@
+{
+  "id": 2402,
+  "title": "Jing bao (Christchurch)",
+  "genre": "Newspaper",
+  "firstYear": "2003",
+  "finalYear": "2009",
+  "district": "Christchurch City",
+  "idMarcControlNumber": "7583481",
+  "idNZNewspapersV1": "14222623",
+  "isCurrent": false,
+  "placecode": "12-05",
+  "placename": "Christchurch",
+  "region": "Canterbury",
+  "sources": {
+    "2013-04-02T08:58:38.000Z": "Extracted from the New Zealand National Bibliography (MARC record 7583481) downloaded March 2013.",
+    "2014-04-23T10:11:05.000Z": "Modified by MarcLoaderBot"
+  },
+  "revision": 2
+}

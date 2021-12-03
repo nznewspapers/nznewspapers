@@ -1,0 +1,30 @@
+{
+  "id": 1630,
+  "title": "Te Puke Times",
+  "genre": "Newspaper",
+  "firstYear": "1911",
+  "finalYear": "1980",
+  "district": "Western Bay of Plenty District",
+  "firstIssueDate": "1911-02-06",
+  "frequency": "Two issues per week",
+  "idMarcControlNumber": "8183924",
+  "idNZNewspapersV1": "11044",
+  "idPapersPastCode": "TPT",
+  "isCurrent": false,
+  "placecode": "04-01",
+  "placename": "Te Puke",
+  "region": "Bay of Plenty",
+  "urlDigitized": "http://paperspast.natlib.govt.nz/cgi-bin/paperspast?a=d&cl=CL1.TPT",
+  "links": {
+    "1632": {
+      "direction": "Succeeding",
+      "relationship": "Continued by",
+      "target-description": "Bay Sun (Te Puke Edition)"
+    }
+  },
+  "sources": {
+    "2013-04-02T08:58:38.000Z": "Extracted from the New Zealand National Bibliography (MARC record 8183924) downloaded March 2013.",
+    "2014-05-07T09:05:25.000Z": "Modified by DataBot"
+  },
+  "revision": 9
+}

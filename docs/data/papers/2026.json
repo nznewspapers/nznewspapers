@@ -1,0 +1,20 @@
+{
+  "id": 2026,
+  "title": "Hutt Valley Weekly News and Advertiser",
+  "genre": "Newspaper",
+  "firstYear": "1915",
+  "finalYear": "1917",
+  "district": "Upper Hutt City",
+  "frequency": "Weekly",
+  "idMarcControlNumber": "8157271",
+  "idNZNewspapersV1": "58072",
+  "isCurrent": false,
+  "placecode": "09-05",
+  "placename": "Upper Hutt",
+  "region": "Wellington",
+  "sources": {
+    "2013-04-02T08:58:38.000Z": "Extracted from the New Zealand National Bibliography (MARC record 8157271) downloaded March 2013.",
+    "2014-05-07T09:16:20.000Z": "Modified by DataBot"
+  },
+  "revision": 4
+}

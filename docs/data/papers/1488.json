@@ -1,0 +1,20 @@
+{
+  "id": 1488,
+  "title": "Thames Courier",
+  "genre": "Newspaper",
+  "firstYear": "1933",
+  "finalYear": "1941",
+  "district": "Thames-Coromandel District",
+  "frequency": "Weekly",
+  "idMarcControlNumber": "8183955",
+  "idNZNewspapersV1": "70167",
+  "isCurrent": false,
+  "placecode": "03-01",
+  "placename": "Thames",
+  "region": "Waikato",
+  "sources": {
+    "2013-04-02T08:58:38.000Z": "Extracted from the New Zealand National Bibliography (MARC record 8183955) downloaded March 2013.",
+    "2014-05-07T09:21:16.000Z": "Modified by DataBot"
+  },
+  "revision": 4
+}

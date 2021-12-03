@@ -1,0 +1,46 @@
+{
+  "id": 1483,
+  "title": "Thames Star",
+  "genre": "Newspaper",
+  "firstYear": "1893",
+  "finalYear": "1998",
+  "district": "Thames-Coromandel District",
+  "finalIssueDate": "1998-08-25",
+  "firstIssueDate": "1893-07-15",
+  "frequency": "Daily",
+  "idMarcControlNumber": "3531260",
+  "idNZNewspapersV1": "4012",
+  "idPapersPastCode": "THS",
+  "isCurrent": false,
+  "placecode": "03-01",
+  "placename": "Thames",
+  "region": "Waikato",
+  "urlDigitized": "http://paperspast.natlib.govt.nz/cgi-bin/paperspast?a=d&cl=CL1.THS",
+  "links": {
+    "1471": {
+      "direction": "Preceding",
+      "relationship": "Continues",
+      "target-description": "The Evening Star"
+    },
+    "1473": {
+      "direction": "Preceding",
+      "relationship": "Absorbed",
+      "target-description": "Thames Advertiser"
+    },
+    "1495": {
+      "direction": "Succeeding",
+      "relationship": "Merged into",
+      "target-description": "Thames Valley Gazette"
+    },
+    "1513": {
+      "direction": "Preceding",
+      "relationship": "Absorbed",
+      "target-description": "Paeroa Star"
+    }
+  },
+  "sources": {
+    "2013-04-02T08:58:38.000Z": "Extracted from the New Zealand National Bibliography (MARC record 3531260) downloaded March 2013.",
+    "2014-04-10T09:06:02.000Z": "Modified by gordon.paynter"
+  },
+  "revision": 14
+}

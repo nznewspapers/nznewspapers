@@ -1,0 +1,20 @@
+{
+  "id": 2234,
+  "title": "RDR : Richmond Review",
+  "genre": "Newspaper",
+  "firstYear": "1999",
+  "finalYear": "9999",
+  "district": "Tasman District",
+  "frequency": "Monthly",
+  "idMarcControlNumber": "8181415",
+  "idNZNewspapersV1": "69152",
+  "isCurrent": true,
+  "placecode": "10-01",
+  "placename": "Richmond",
+  "region": "Top of the South",
+  "sources": {
+    "2013-04-02T08:58:38.000Z": "Extracted from the New Zealand National Bibliography (MARC record 8181415) downloaded March 2013.",
+    "2014-05-07T09:02:46.000Z": "Modified by DataBot"
+  },
+  "revision": 4
+}

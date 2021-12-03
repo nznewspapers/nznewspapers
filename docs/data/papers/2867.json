@@ -1,0 +1,27 @@
+{
+  "id": 2867,
+  "title": "Onslow News : Local News and Views of Interest",
+  "genre": "Periodical",
+  "firstYear": "1946",
+  "finalYear": "1971",
+  "district": "Wellington City",
+  "frequency": "Monthly",
+  "idMarcControlNumber": "8044133",
+  "idNZNewspapersV1": "7044",
+  "isCurrent": false,
+  "placecode": "09-08",
+  "placename": "Ngaio",
+  "region": "Wellington",
+  "links": {
+    "undefined-unknown": {
+      "direction": "Succeeding",
+      "relationship": "Continued by",
+      "target-description": "Onslow news pictorial"
+    }
+  },
+  "sources": {
+    "2013-04-02T08:58:38.000Z": "Extracted from the New Zealand National Bibliography (MARC record 8044133) downloaded March 2013.",
+    "2014-05-07T09:03:38.000Z": "Modified by DataBot"
+  },
+  "revision": 5
+}

@@ -1,0 +1,24 @@
+{
+  "id": 1994,
+  "title": "Wairarapa News",
+  "genre": "Newspaper",
+  "firstYear": "1994",
+  "finalYear": "9999",
+  "district": "Masterton District",
+  "idNZNewspapersV1": "11920922",
+  "isCurrent": true,
+  "placecode": "09-01",
+  "placename": "Masterton",
+  "region": "Wellington",
+  "urlCurrent": "http://www.stuff.co.nz/dominion-post/news/local-papers/wairarapa-news/",
+  "links": {
+    "2016": {
+      "direction": "Continues",
+      "target-description": "Wairarapa News & The Chronicle"
+    }
+  },
+  "sources": {
+    "2014-04-12T10:22:58.000Z": "Modified by DataBot"
+  },
+  "revision": 3
+}

@@ -1,0 +1,32 @@
+{
+  "id": 1708,
+  "title": "Telephone",
+  "genre": "Newspaper",
+  "firstYear": "1883",
+  "finalYear": "1885",
+  "district": "Gisborne District",
+  "frequency": "Daily",
+  "idMarcControlNumber": "8183941",
+  "idNZNewspapersV1": "65164",
+  "isCurrent": false,
+  "placecode": "05-01",
+  "placename": "Gisborne",
+  "region": "Gisborne",
+  "links": {
+    "1695": {
+      "direction": "Preceding",
+      "relationship": "Continues",
+      "target-description": "Poverty Bay Standard"
+    },
+    "1711": {
+      "direction": "Succeeding",
+      "relationship": "Continued by",
+      "target-description": "Gisborne Standard and  Cook County Gazette"
+    }
+  },
+  "sources": {
+    "2013-04-02T08:58:38.000Z": "Extracted from the New Zealand National Bibliography (MARC record 8183941) downloaded March 2013.",
+    "2014-03-21T11:42:10.000Z": "Modified by DataBot"
+  },
+  "revision": 6
+}

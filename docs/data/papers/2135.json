@@ -1,0 +1,20 @@
+{
+  "id": 2135,
+  "title": "WhareKura",
+  "genre": "Newspaper",
+  "firstYear": "1909",
+  "finalYear": "1928",
+  "district": "Wellington City",
+  "frequency": "Irregular",
+  "idMarcControlNumber": "5695390",
+  "idNZNewspapersV1": "66040",
+  "isCurrent": false,
+  "placecode": "09-08-wellington",
+  "placename": "Wellington",
+  "region": "Wellington",
+  "sources": {
+    "2013-04-02T08:58:38.000Z": "Extracted from the New Zealand National Bibliography (MARC record 5695390) downloaded March 2013.",
+    "2014-05-07T08:59:10.000Z": "Modified by DataBot"
+  },
+  "revision": 4
+}

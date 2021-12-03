@@ -1,0 +1,30 @@
+{
+  "id": 1624,
+  "title": "Turangi Chronicle [1966]",
+  "genre": "Masthead",
+  "firstYear": "1966",
+  "finalYear": "1980",
+  "district": "Taupo District",
+  "frequency": "Weekly",
+  "idMarcControlNumber": "8184329",
+  "idNZNewspapersV1": "70171",
+  "isCurrent": false,
+  "placecode": "03-10",
+  "placename": "Turangi",
+  "region": "Waikato",
+  "links": {
+    "1625": {
+      "direction": "Is Masthead Of",
+      "target-description": "Turangi Chronicle"
+    },
+    "1626": {
+      "direction": "Continued By",
+      "target-description": "Turangi and  Ruapehu Chronicle"
+    }
+  },
+  "sources": {
+    "2013-04-02T08:58:38.000Z": "Extracted from the New Zealand National Bibliography (MARC record 8184329) downloaded March 2013.",
+    "2015-01-06T09:24:16.000Z": "Modified by gordon.paynter"
+  },
+  "revision": 6
+}

@@ -1,0 +1,21 @@
+{
+  "id": 2985,
+  "title": "Hibiscus Matters : Your Local Community Newspaper",
+  "genre": "Periodical",
+  "firstYear": "2007",
+  "finalYear": "9999",
+  "district": "Unknown District",
+  "frequency": "Fortnightly",
+  "idMarcControlNumber": "11510609",
+  "idNZNewspapersV1": "5057",
+  "isCurrent": true,
+  "placecode": "unknown",
+  "placename": "Whangaparaoa",
+  "price": "Gratis",
+  "region": "Unknown Region",
+  "sources": {
+    "2013-04-02T08:58:38.000Z": "Extracted from the New Zealand National Bibliography (MARC record 11510609) downloaded March 2013.",
+    "2014-05-07T09:46:35.000Z": "Modified by DataBot"
+  },
+  "revision": 6
+}

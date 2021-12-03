@@ -1,0 +1,27 @@
+{
+  "id": 1739,
+  "title": "Daily Mail",
+  "genre": "Newspaper",
+  "firstYear": "1938",
+  "finalYear": "1941",
+  "district": "Hastings District",
+  "idNZNewspapersV1": "11800019",
+  "isCurrent": false,
+  "placecode": "06-02",
+  "placename": "Hastings",
+  "region": "Hawke's Bay",
+  "links": {
+    "1737": {
+      "direction": "Has Masthead",
+      "target-description": "Hawke's Bay Daily Mail"
+    },
+    "1738": {
+      "direction": "Has Masthead",
+      "target-description": "Daily Mail"
+    }
+  },
+  "sources": {
+    "2014-04-10T10:25:17.000Z": "Modified by DataBot"
+  },
+  "revision": 4
+}

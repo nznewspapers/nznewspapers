@@ -1,0 +1,27 @@
+{
+  "id": 2244,
+  "title": "Nelson Weekly Examiner",
+  "genre": "Weekly Edition",
+  "firstYear": "1873",
+  "finalYear": "1874",
+  "district": "Nelson City",
+  "firstIssueDate": "1873-07-05",
+  "frequency": "Weekly",
+  "idMarcControlNumber": "8171121",
+  "idNZNewspapersV1": "59104",
+  "isCurrent": false,
+  "placecode": "10-02",
+  "placename": "Nelson",
+  "region": "Top of the South",
+  "links": {
+    "2237": {
+      "direction": "Is Edition Of",
+      "target-description": "The Nelson Examiner"
+    }
+  },
+  "sources": {
+    "2013-04-02T08:58:38.000Z": "Extracted from the New Zealand National Bibliography (MARC record 8171121) downloaded March 2013.",
+    "2014-05-15T04:30:40.000Z": "Modified by DataBot"
+  },
+  "revision": 7
+}

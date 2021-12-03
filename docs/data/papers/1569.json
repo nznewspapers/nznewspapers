@@ -1,0 +1,27 @@
+{
+  "id": 1569,
+  "title": "Waikato Argus",
+  "genre": "Newspaper",
+  "firstYear": "1896",
+  "finalYear": "1915",
+  "district": "Hamilton City",
+  "frequency": "Daily",
+  "idMarcControlNumber": "8185184",
+  "idNZNewspapersV1": "68154",
+  "isCurrent": false,
+  "placecode": "03-05",
+  "placename": "Hamilton",
+  "region": "Waikato",
+  "links": {
+    "1568": {
+      "direction": "Succeeding",
+      "relationship": "Incorporated By",
+      "target-description": "The Waikato Times"
+    }
+  },
+  "sources": {
+    "2013-04-02T08:58:38.000Z": "Extracted from the New Zealand National Bibliography (MARC record 8185184) downloaded March 2013.",
+    "2014-04-10T09:37:15.000Z": "Modified by gordon.paynter"
+  },
+  "revision": 5
+}

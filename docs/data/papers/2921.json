@@ -1,0 +1,20 @@
+{
+  "id": 2921,
+  "title": "The Kaiapoi Advocate : the Talk of the Town",
+  "genre": "Periodical",
+  "firstYear": "2006",
+  "finalYear": "9999",
+  "district": "Waimakariri District",
+  "frequency": "Fortnightly",
+  "idMarcControlNumber": "11163594",
+  "idNZNewspapersV1": "5056",
+  "isCurrent": true,
+  "placecode": "12-04",
+  "placename": "Kaiapoi",
+  "region": "Canterbury",
+  "sources": {
+    "2013-04-02T08:58:38.000Z": "Extracted from the New Zealand National Bibliography (MARC record 11163594) downloaded March 2013.",
+    "2014-05-07T08:55:27.000Z": "Modified by DataBot"
+  },
+  "revision": 4
+}

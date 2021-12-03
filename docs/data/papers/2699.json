@@ -1,0 +1,20 @@
+{
+  "id": 2699,
+  "title": "Waitangi Times",
+  "genre": "Newspaper",
+  "firstYear": "1883",
+  "finalYear": "1883",
+  "district": "Unknown District",
+  "frequency": "Weekly",
+  "idMarcControlNumber": "8185489",
+  "idNZNewspapersV1": "73028",
+  "isCurrent": false,
+  "placecode": "unknown",
+  "placename": "On board ship",
+  "region": "Unknown Region",
+  "sources": {
+    "2013-04-02T08:58:38.000Z": "Extracted from the New Zealand National Bibliography (MARC record 8185489) downloaded March 2013.",
+    "2014-05-07T09:22:14.000Z": "Modified by DataBot"
+  },
+  "revision": 4
+}

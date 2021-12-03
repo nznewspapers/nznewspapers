@@ -1,0 +1,25 @@
+{
+  "id": 2937,
+  "title": "West City Times",
+  "genre": "Periodical",
+  "firstYear": "1992",
+  "finalYear": "2001",
+  "district": "Christchurch City",
+  "idMarcControlNumber": "4090287",
+  "idNZNewspapersV1": "2019",
+  "isCurrent": false,
+  "placecode": "12-05-christchur",
+  "placename": "Christchurch",
+  "region": "Canterbury",
+  "links": {
+    "2934": {
+      "direction": "Preceding",
+      "relationship": "Continues",
+      "target-description": "Riccarton & Hornby times"
+    }
+  },
+  "sources": {
+    "2013-04-02T08:58:38.000Z": "Extracted from the New Zealand National Bibliography (MARC record 4090287) downloaded March 2013."
+  },
+  "revision": 3
+}

@@ -1,0 +1,31 @@
+{
+  "id": 1666,
+  "title": "Bay of Plenty Press",
+  "genre": "Newspaper",
+  "firstYear": "1935",
+  "finalYear": "1939",
+  "district": "Whakatane District",
+  "frequency": "Daily",
+  "idMarcControlNumber": "8131842",
+  "idNZNewspapersV1": "64055",
+  "isCurrent": false,
+  "placecode": "04-04",
+  "placename": "Whakatane",
+  "region": "Bay of Plenty",
+  "links": {
+    "1661": {
+      "direction": "Preceding",
+      "relationship": "Incorporates",
+      "target-description": "East Coast Guardian"
+    },
+    "1665": {
+      "direction": "Continues",
+      "target-description": "Whakatane Press"
+    }
+  },
+  "sources": {
+    "2013-04-02T08:58:38.000Z": "Extracted from the New Zealand National Bibliography (MARC record 8131842) downloaded March 2013.",
+    "2014-04-10T09:40:49.000Z": "Modified by gordon.paynter"
+  },
+  "revision": 6
+}

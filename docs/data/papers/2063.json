@@ -1,0 +1,19 @@
+{
+  "id": 2063,
+  "title": "Petone and Harbour Ward Herald",
+  "genre": "Newspaper",
+  "firstYear": "1996",
+  "finalYear": "9999",
+  "district": "Hutt City",
+  "idMarcControlNumber": "8261094",
+  "idNZNewspapersV1": "14222627",
+  "isCurrent": true,
+  "placecode": "09-07",
+  "placename": "Petone",
+  "region": "Wellington",
+  "sources": {
+    "2013-04-02T08:58:38.000Z": "Extracted from the New Zealand National Bibliography (MARC record 8261094) downloaded March 2013.",
+    "2014-04-23T10:12:29.000Z": "Modified by MarcLoaderBot"
+  },
+  "revision": 2
+}

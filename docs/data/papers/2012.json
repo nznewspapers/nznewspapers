@@ -1,0 +1,27 @@
+{
+  "id": 2012,
+  "title": "Wairarapa Leader",
+  "genre": "Newspaper",
+  "firstYear": "1897",
+  "finalYear": "1906",
+  "district": "Carterton District",
+  "frequency": "Three issues per week",
+  "idMarcControlNumber": "8185397",
+  "idNZNewspapersV1": "62163",
+  "isCurrent": false,
+  "placecode": "09-03",
+  "placename": "Carterton",
+  "region": "Wellington",
+  "links": {
+    "2013": {
+      "direction": "Succeeding",
+      "relationship": "Merged into",
+      "target-description": "Wairarapa Daily News"
+    }
+  },
+  "sources": {
+    "2013-04-02T08:58:38.000Z": "Extracted from the New Zealand National Bibliography (MARC record 8185397) downloaded March 2013.",
+    "2014-05-07T09:04:57.000Z": "Modified by DataBot"
+  },
+  "revision": 5
+}

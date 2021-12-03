@@ -1,0 +1,27 @@
+{
+  "id": 1300,
+  "title": "Echo",
+  "genre": "Newspaper",
+  "firstYear": "1874",
+  "finalYear": "1875",
+  "district": "Auckland",
+  "frequency": "Daily",
+  "idMarcControlNumber": "8138615",
+  "idNZNewspapersV1": "72058",
+  "isCurrent": false,
+  "placecode": "02-01-auckland",
+  "placename": "Auckland",
+  "region": "Auckland",
+  "links": {
+    "1299": {
+      "direction": "Succeeding",
+      "relationship": "Incorporated By",
+      "target-description": "Evening Star"
+    }
+  },
+  "sources": {
+    "2013-04-02T08:58:38.000Z": "Extracted from the New Zealand National Bibliography (MARC record 8138615) downloaded March 2013.",
+    "2014-04-10T08:50:32.000Z": "Modified by gordon.paynter"
+  },
+  "revision": 5
+}

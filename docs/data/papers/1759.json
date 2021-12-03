@@ -1,0 +1,28 @@
+{
+  "id": 1759,
+  "title": "Te Waka Maori o Ahuriri",
+  "genre": "Newspaper",
+  "firstYear": "1863",
+  "finalYear": "1871",
+  "district": "Napier City",
+  "frequency": "Fortnightly",
+  "idMarcControlNumber": "4916699",
+  "idNZNewspapersV1": "13029",
+  "isCurrent": false,
+  "placecode": "06-03",
+  "placename": "Napier",
+  "region": "Hawke's Bay",
+  "urlCurrent": "http://nzdl.org/cgi-bin/library?gg=_cgiarggg_&e=d-00000-00---0niupepa--00-0--0-10-0---0---0prompt-10---4-------0-1l--11-en-50---20-about---00-0-1-00-11-1-0utfZz-8-00&a=d&c=niupepa&cl=CL1.14",
+  "links": {
+    "2871": {
+      "direction": "Succeeding",
+      "relationship": "Continued by",
+      "target-description": "Waka Maori o Niu Tirani (Wellington, N.Z.)"
+    }
+  },
+  "sources": {
+    "2013-04-02T08:58:38.000Z": "Extracted from the New Zealand National Bibliography (MARC record 4916699) downloaded March 2013.",
+    "2014-05-07T08:59:05.000Z": "Modified by DataBot"
+  },
+  "revision": 5
+}

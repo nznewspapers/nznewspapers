@@ -1,0 +1,34 @@
+{
+  "id": 1535,
+  "title": "Press",
+  "genre": "Masthead",
+  "firstYear": "1977",
+  "finalYear": "1982",
+  "district": "Waikato District",
+  "frequency": "Weekly",
+  "idMarcControlNumber": "8181197",
+  "idNZNewspapersV1": "59134",
+  "isCurrent": false,
+  "placecode": "03-03",
+  "placename": "Huntly",
+  "region": "Waikato",
+  "links": {
+    "1528": {
+      "direction": "Continues",
+      "target-description": "Huntly Press and  District Gazette"
+    },
+    "1529": {
+      "direction": "Is Masthead Of",
+      "target-description": "Huntly Press and District Gazette"
+    },
+    "1538": {
+      "direction": "Continued By",
+      "target-description": "Huntly Press (1983)"
+    }
+  },
+  "sources": {
+    "2013-04-02T08:58:38.000Z": "Extracted from the New Zealand National Bibliography (MARC record 8181197) downloaded March 2013.",
+    "2014-05-18T11:29:28.000Z": "Modified by DataBot"
+  },
+  "revision": 7
+}

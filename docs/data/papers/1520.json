@@ -1,0 +1,21 @@
+{
+  "id": 1520,
+  "title": "Te Paki o Matariki",
+  "genre": "Newspaper",
+  "firstYear": "1892",
+  "finalYear": "1935",
+  "district": "Waikato District",
+  "frequency": "Irregular",
+  "idMarcControlNumber": "3947382",
+  "idNZNewspapersV1": "4021",
+  "isCurrent": false,
+  "placecode": "03-03",
+  "placename": "Maungakawa",
+  "region": "Waikato",
+  "urlCurrent": "http://nzdl.org/cgi-bin/library?gg=_cgiarggg_&e=d-00000-00---off-0niupepa--00-0--0-10-0---0---0prompt-10---4-------0-1l--11-en-50---20-about---00-0-1-00-0-0-11-1-0utfZz-8-00&a=d&c=niupepa&cl=CL1.24",
+  "sources": {
+    "2013-04-02T08:58:38.000Z": "Extracted from the New Zealand National Bibliography (MARC record 3947382) downloaded March 2013.",
+    "2014-05-07T08:58:52.000Z": "Modified by DataBot"
+  },
+  "revision": 4
+}

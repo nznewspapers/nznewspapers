@@ -1,0 +1,27 @@
+{
+  "id": 2845,
+  "title": "House of the Year",
+  "genre": "Periodical",
+  "firstYear": "199u",
+  "finalYear": "2002",
+  "district": "Horowhenua District",
+  "frequency": "Annually",
+  "idMarcControlNumber": "7238547",
+  "idNZNewspapersV1": "36",
+  "isCurrent": false,
+  "placecode": "08-07",
+  "placename": "Levin",
+  "region": "Manawatu-Wanganui",
+  "links": {
+    "undefined-unknown": {
+      "direction": "Succeeding",
+      "relationship": "Continued by",
+      "target-description": "House of the Year. Taranaki, Manawatu, Wanganui, Wairarapa, Wellington, Nelson, Marlborough"
+    }
+  },
+  "sources": {
+    "2013-04-02T08:58:38.000Z": "Extracted from the New Zealand National Bibliography (MARC record 7238547) downloaded March 2013.",
+    "2014-05-07T08:48:36.000Z": "Modified by DataBot"
+  },
+  "revision": 5
+}

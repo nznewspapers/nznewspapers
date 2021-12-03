@@ -1,0 +1,20 @@
+{
+  "id": 2682,
+  "title": "News Sports",
+  "genre": "Newspaper",
+  "firstYear": "1952",
+  "finalYear": "19uu",
+  "district": "Southland District",
+  "frequency": "Weekly",
+  "idMarcControlNumber": "8173671",
+  "idNZNewspapersV1": "72099",
+  "isCurrent": false,
+  "placecode": "14-01",
+  "placename": "Invercargill",
+  "region": "Southland",
+  "sources": {
+    "2013-04-02T08:58:38.000Z": "Extracted from the New Zealand National Bibliography (MARC record 8173671) downloaded March 2013.",
+    "2014-05-07T09:18:22.000Z": "Modified by DataBot"
+  },
+  "revision": 4
+}

@@ -1,0 +1,20 @@
+{
+  "id": 2161,
+  "title": "Southern Sentinel",
+  "genre": "Newspaper",
+  "firstYear": "1962",
+  "finalYear": "1976",
+  "district": "Wellington City",
+  "frequency": "Monthly",
+  "idMarcControlNumber": "8181876",
+  "idNZNewspapersV1": "71137",
+  "isCurrent": false,
+  "placecode": "09-08-wellington",
+  "placename": "Wellington",
+  "region": "Wellington",
+  "sources": {
+    "2013-04-02T08:58:38.000Z": "Extracted from the New Zealand National Bibliography (MARC record 8181876) downloaded March 2013.",
+    "2014-05-07T09:02:55.000Z": "Modified by DataBot"
+  },
+  "revision": 4
+}

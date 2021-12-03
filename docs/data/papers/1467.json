@@ -1,0 +1,27 @@
+{
+  "id": 1467,
+  "title": "Xin Hua Shang bao",
+  "genre": "Newspaper",
+  "firstYear": "200u",
+  "finalYear": "2006",
+  "district": "Auckland",
+  "frequency": "Weekly",
+  "idMarcControlNumber": "7583473",
+  "idNZNewspapersV1": "9028",
+  "isCurrent": false,
+  "placecode": "02-01-auckland",
+  "placename": "Auckland",
+  "region": "Auckland",
+  "links": {
+    "1459": {
+      "direction": "Succeeding",
+      "relationship": "Continued by",
+      "target-description": "Xin Hua zhou kan"
+    }
+  },
+  "sources": {
+    "2013-04-02T08:58:38.000Z": "Extracted from the New Zealand National Bibliography (MARC record 7583473) downloaded March 2013.",
+    "2014-05-07T09:13:29.000Z": "Modified by DataBot"
+  },
+  "revision": 5
+}

@@ -1,0 +1,42 @@
+{
+  "id": 1244,
+  "title": "Aucklander (North Ed.)",
+  "genre": "Alternate Edition",
+  "firstYear": "2003",
+  "finalYear": "2007",
+  "district": "Auckland",
+  "frequency": "Weekly",
+  "idMarcControlNumber": "10512335",
+  "idNZNewspapersV1": "2055",
+  "isCurrent": false,
+  "placecode": "02-01",
+  "placename": "Auckland",
+  "region": "Auckland",
+  "urlCurrent": "http://www.theaucklander.co.nz/",
+  "links": {
+    "1243": {
+      "direction": "Preceding",
+      "relationship": "Continues",
+      "target-description": "Aucklander (Shore ed.)"
+    },
+    "1249": {
+      "direction": "Is Edition Of",
+      "target-description": "The Aucklander"
+    },
+    "1257": {
+      "direction": "Succeeding",
+      "relationship": "Merged",
+      "target-description": "Aucklander (Shore : 2005)"
+    },
+    "1261": {
+      "direction": "Succeeding",
+      "relationship": "Merged",
+      "target-description": "North Shore Aucklander"
+    }
+  },
+  "sources": {
+    "2013-04-02T08:58:38.000Z": "Extracted from the New Zealand National Bibliography (MARC record 10512335) downloaded March 2013.",
+    "2015-01-21T10:27:46.000Z": "Modified by gordon.paynter"
+  },
+  "revision": 9
+}

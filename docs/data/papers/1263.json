@@ -1,0 +1,34 @@
+{
+  "id": 1263,
+  "title": "Franklin Life",
+  "genre": "Newspaper",
+  "firstYear": "2008",
+  "finalYear": "2008",
+  "alternateTitle": {
+    "101212056": "Franklin Life: the Good News Paper for Franklin District and Papakura"
+  },
+  "district": "Auckland",
+  "frequency": "Weekly",
+  "idMarcControlNumber": "11613081",
+  "idNZNewspapersV1": "8041",
+  "isCurrent": false,
+  "placecode": "02-01",
+  "placename": "Pukekohe",
+  "price": "Gratis",
+  "region": "Auckland",
+  "links": {
+    "1260": {
+      "direction": "Continues",
+      "target-description": "Franklin-Papakura Life Newspaper"
+    },
+    "1264": {
+      "direction": "Continued By",
+      "target-description": "Franklin Papakura Life"
+    }
+  },
+  "sources": {
+    "2013-04-02T08:58:38.000Z": "Extracted from the New Zealand National Bibliography (MARC record 11613081) downloaded March 2013.",
+    "2015-01-21T10:55:45.000Z": "Modified by gordon.paynter"
+  },
+  "revision": 10
+}

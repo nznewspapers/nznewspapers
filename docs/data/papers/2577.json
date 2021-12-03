@@ -1,0 +1,20 @@
+{
+  "id": 2577,
+  "title": "Dunedin Leader",
+  "genre": "Newspaper",
+  "firstYear": "1863",
+  "finalYear": "1867",
+  "district": "Dunedin City",
+  "frequency": "Weekly",
+  "idMarcControlNumber": "8138421",
+  "idNZNewspapersV1": "69080",
+  "isCurrent": false,
+  "placecode": "13-03",
+  "placename": "Dunedin",
+  "region": "Otago",
+  "sources": {
+    "2013-04-02T08:58:38.000Z": "Extracted from the New Zealand National Bibliography (MARC record 8138421) downloaded March 2013.",
+    "2014-05-07T09:14:53.000Z": "Modified by DataBot"
+  },
+  "revision": 4
+}

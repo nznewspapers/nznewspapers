@@ -1,0 +1,31 @@
+{
+  "id": 1319,
+  "title": "The New Zealand Observer and Free Lance",
+  "genre": "Newspaper",
+  "firstYear": "1890",
+  "finalYear": "1954",
+  "district": "Auckland",
+  "finalIssueDate": "1954-11-10",
+  "firstIssueDate": "1890-01-25",
+  "frequency": "Weekly",
+  "idMarcControlNumber": "6650493",
+  "idNZNewspapersV1": "14034",
+  "idPapersPastCode": "TO",
+  "isCurrent": false,
+  "placecode": "02-01-auckland",
+  "placename": "Auckland",
+  "region": "Auckland",
+  "urlDigitized": "http://paperspast.natlib.govt.nz/cgi-bin/paperspast?a=d&cl=CL1.TO",
+  "links": {
+    "1313": {
+      "direction": "Preceding",
+      "relationship": "Continues",
+      "target-description": "Observer and  Free Lance"
+    }
+  },
+  "sources": {
+    "2013-04-02T08:58:38.000Z": "Extracted from the New Zealand National Bibliography (MARC record 6650493) downloaded March 2013.",
+    "2014-05-07T09:13:04.000Z": "Modified by DataBot"
+  },
+  "revision": 11
+}

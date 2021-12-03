@@ -1,0 +1,20 @@
+{
+  "id": 1553,
+  "title": "Morrinsville Star",
+  "genre": "Newspaper",
+  "firstYear": "1911",
+  "finalYear": "1977",
+  "district": "Matamata-Piako District",
+  "frequency": "Two issues per week",
+  "idMarcControlNumber": "8168088",
+  "idNZNewspapersV1": "67114",
+  "isCurrent": false,
+  "placecode": "03-04",
+  "placename": "Morrinsville",
+  "region": "Waikato",
+  "sources": {
+    "2013-04-02T08:58:38.000Z": "Extracted from the New Zealand National Bibliography (MARC record 8168088) downloaded March 2013.",
+    "2014-05-07T09:06:49.000Z": "Modified by DataBot"
+  },
+  "revision": 4
+}

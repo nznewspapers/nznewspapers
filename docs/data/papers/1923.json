@@ -1,0 +1,20 @@
+{
+  "id": 1923,
+  "title": "Heartlander",
+  "genre": "Newspaper",
+  "firstYear": "1987",
+  "finalYear": "1988",
+  "district": "Palmerston North City",
+  "frequency": "Monthly",
+  "idMarcControlNumber": "8156623",
+  "idNZNewspapersV1": "66088",
+  "isCurrent": false,
+  "placecode": "08-05",
+  "placename": "Palmerston North",
+  "region": "Manawatu-Wanganui",
+  "sources": {
+    "2013-04-02T08:58:38.000Z": "Extracted from the New Zealand National Bibliography (MARC record 8156623) downloaded March 2013.",
+    "2014-05-07T09:01:45.000Z": "Modified by DataBot"
+  },
+  "revision": 4
+}

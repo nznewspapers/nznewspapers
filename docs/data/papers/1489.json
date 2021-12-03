@@ -1,0 +1,36 @@
+{
+  "id": 1489,
+  "title": "Thames Valley Gazette [1977]",
+  "genre": "Newspaper",
+  "firstYear": "1977",
+  "finalYear": "1988",
+  "district": "Thames-Coromandel District",
+  "idMarcControlNumber": "8183968",
+  "idNZNewspapersV1": "13038",
+  "isCurrent": false,
+  "placecode": "03-01",
+  "placename": "Thames",
+  "region": "Waikato",
+  "links": {
+    "1506": {
+      "direction": "Preceding",
+      "relationship": "Formed by union",
+      "target-description": "Hauraki Plains Gazette"
+    },
+    "1512": {
+      "direction": "Preceding",
+      "relationship": "Formed by union",
+      "target-description": "Thames and  Peninsula Gazette"
+    },
+    "1515": {
+      "direction": "Succeeding",
+      "relationship": "Continued by",
+      "target-description": "Paeroa Gazette"
+    }
+  },
+  "sources": {
+    "2013-04-02T08:58:38.000Z": "Extracted from the New Zealand National Bibliography (MARC record 8183968) downloaded March 2013.",
+    "2013-05-18T09:38:23.000Z": "Modified by gordon.paynter"
+  },
+  "revision": 5
+}

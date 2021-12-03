@@ -1,0 +1,20 @@
+{
+  "id": 2960,
+  "title": "N.Z. Forward",
+  "genre": "Periodical",
+  "firstYear": "1935",
+  "finalYear": "1936",
+  "district": "Dunedin City",
+  "frequency": "Monthly",
+  "idMarcControlNumber": "7624170",
+  "idNZNewspapersV1": "12032",
+  "isCurrent": false,
+  "placecode": "13-03",
+  "placename": "Dunedin",
+  "region": "Otago",
+  "sources": {
+    "2013-04-02T08:58:38.000Z": "Extracted from the New Zealand National Bibliography (MARC record 7624170) downloaded March 2013.",
+    "2014-05-07T09:01:07.000Z": "Modified by DataBot"
+  },
+  "revision": 4
+}

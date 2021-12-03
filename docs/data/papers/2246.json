@@ -1,0 +1,21 @@
+{
+  "id": 2246,
+  "title": "Morning Advertiser",
+  "genre": "Newspaper",
+  "firstYear": "1878",
+  "finalYear": "uuuu",
+  "district": "Nelson City",
+  "frequency": "Daily",
+  "idMarcControlNumber": "8167922",
+  "idNZNewspapersV1": "62091",
+  "isCurrent": false,
+  "placecode": "10-02",
+  "placename": "Nelson",
+  "price": "Free",
+  "region": "Top of the South",
+  "sources": {
+    "2013-04-02T08:58:38.000Z": "Extracted from the New Zealand National Bibliography (MARC record 8167922) downloaded March 2013.",
+    "2014-03-21T11:38:03.000Z": "Modified by DataBot"
+  },
+  "revision": 6
+}

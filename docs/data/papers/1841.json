@@ -1,0 +1,30 @@
+{
+  "id": 1841,
+  "title": "Star",
+  "genre": "Newspaper",
+  "firstYear": "1984",
+  "finalYear": "2004",
+  "district": "South Taranaki District",
+  "frequency": "Two issues per week",
+  "idMarcControlNumber": "3561170",
+  "idNZNewspapersV1": "5010",
+  "isCurrent": false,
+  "placecode": "07-03",
+  "placename": "Hawera",
+  "region": "Taranaki",
+  "links": {
+    "1836": {
+      "direction": "Continues",
+      "target-description": "Hawera Star"
+    },
+    "1845": {
+      "direction": "Continued By",
+      "target-description": "South Taranaki Star"
+    }
+  },
+  "sources": {
+    "2013-04-02T08:58:38.000Z": "Extracted from the New Zealand National Bibliography (MARC record 3561170) downloaded March 2013.",
+    "2014-05-07T09:05:22.000Z": "Modified by DataBot"
+  },
+  "revision": 6
+}

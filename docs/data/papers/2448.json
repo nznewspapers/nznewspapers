@@ -1,0 +1,20 @@
+{
+  "id": 2448,
+  "title": "News Advertiser",
+  "genre": "Newspaper",
+  "firstYear": "1971",
+  "finalYear": "1989",
+  "district": "Christchurch City",
+  "frequency": "Weekly",
+  "idMarcControlNumber": "8173074",
+  "idNZNewspapersV1": "62099",
+  "isCurrent": false,
+  "placecode": "12-05-christchur",
+  "placename": "Christchurch",
+  "region": "Canterbury",
+  "sources": {
+    "2013-04-02T08:58:38.000Z": "Extracted from the New Zealand National Bibliography (MARC record 8173074) downloaded March 2013.",
+    "2014-05-07T09:18:19.000Z": "Modified by DataBot"
+  },
+  "revision": 4
+}

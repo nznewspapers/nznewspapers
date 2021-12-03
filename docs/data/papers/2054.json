@@ -1,0 +1,30 @@
+{
+  "id": 2054,
+  "title": "Courier",
+  "genre": "Newspaper",
+  "firstYear": "1981",
+  "finalYear": "1982",
+  "district": "Hutt City",
+  "frequency": "Weekly",
+  "idMarcControlNumber": "8137164",
+  "idNZNewspapersV1": "65066",
+  "isCurrent": false,
+  "placecode": "09-07",
+  "placename": "Wainuiomata",
+  "region": "Wellington",
+  "links": {
+    "2053": {
+      "direction": "Continues",
+      "target-description": "Courier News"
+    },
+    "2055": {
+      "direction": "Continued By",
+      "target-description": "Weekly Courier"
+    }
+  },
+  "sources": {
+    "2013-04-02T08:58:38.000Z": "Extracted from the New Zealand National Bibliography (MARC record 8137164) downloaded March 2013.",
+    "2014-11-19T08:50:54.000Z": "Modified by gordon.paynter"
+  },
+  "revision": 6
+}

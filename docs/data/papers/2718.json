@@ -1,0 +1,28 @@
+{
+  "id": 2718,
+  "title": "Northern Matters : Your Local Community Newspaper : Wellsford, Te Hana, Kaiwaka, Mangawhai, Pakiri",
+  "genre": "Periodical",
+  "firstYear": "2007",
+  "finalYear": "2010",
+  "district": "Auckland",
+  "frequency": "Monthly",
+  "idMarcControlNumber": "11503505",
+  "idNZNewspapersV1": "14057",
+  "isCurrent": false,
+  "placecode": "02-01",
+  "placename": "Warkworth",
+  "price": "Gratis",
+  "region": "Auckland",
+  "links": {
+    "undefined-unknown": {
+      "direction": "Succeeding",
+      "relationship": "Absorbed by",
+      "target-description": "Mahurangi matters"
+    }
+  },
+  "sources": {
+    "2013-04-02T08:58:38.000Z": "Extracted from the New Zealand National Bibliography (MARC record 11503505) downloaded March 2013.",
+    "2014-05-07T09:46:33.000Z": "Modified by DataBot"
+  },
+  "revision": 8
+}

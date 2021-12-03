@@ -1,0 +1,45 @@
+{
+  "id": 2463,
+  "title": "Christchurch Mail",
+  "genre": "Newspaper",
+  "firstYear": "1990",
+  "finalYear": "2001",
+  "district": "Christchurch City",
+  "idMarcControlNumber": "3678322",
+  "idNZNewspapersV1": "23001",
+  "isCurrent": false,
+  "placecode": "12-05-christchur",
+  "placename": "Christchurch",
+  "region": "Canterbury",
+  "links": {
+    "2454": {
+      "direction": "Preceding",
+      "relationship": "Continues",
+      "target-description": "Christchurch mid-week mail"
+    },
+    "2476": {
+      "direction": "Succeeding",
+      "relationship": "Split",
+      "target-description": "Christchurch southern mail"
+    },
+    "2477": {
+      "direction": "Succeeding",
+      "relationship": "Split",
+      "target-description": "Eastern mail (Christchurch, N.Z.)"
+    },
+    "2478": {
+      "direction": "Succeeding",
+      "relationship": "Split",
+      "target-description": "Northern mail (Christchurch, N.Z.)"
+    },
+    "2479": {
+      "direction": "Succeeding",
+      "relationship": "Split",
+      "target-description": "Western mail (Christchurch, N.Z.)"
+    }
+  },
+  "sources": {
+    "2013-04-02T08:58:38.000Z": "Extracted from the New Zealand National Bibliography (MARC record 3678322) downloaded March 2013."
+  },
+  "revision": 7
+}

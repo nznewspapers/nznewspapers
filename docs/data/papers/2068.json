@@ -1,0 +1,35 @@
+{
+  "id": 2068,
+  "title": "New Zealand Gazette",
+  "genre": "Masthead",
+  "firstYear": "1839",
+  "finalYear": "1840",
+  "district": "Wellington City",
+  "finalIssueDate": "1840-08-15",
+  "firstIssueDate": "1839-08-21",
+  "frequency": "Weekly",
+  "idMarcControlNumber": "4692627",
+  "idNZNewspapersV1": "3027",
+  "idPapersPastCode": "NZGWS",
+  "isCurrent": false,
+  "placecode": "09-08",
+  "placename": "Port Nicholson",
+  "region": "Wellington",
+  "urlDigitized": "http://paperspast.natlib.govt.nz/cgi-bin/paperspast?a=d&cl=CL1.NZGWS",
+  "links": {
+    "2069": {
+      "direction": "Is Masthead Of",
+      "target-description": "The New Zealand Gazette and Wellington Spectator"
+    },
+    "2070": {
+      "direction": "Continued By",
+      "relationship": "Continued by",
+      "target-description": "New Zealand Gazette and Britannia Spectator"
+    }
+  },
+  "sources": {
+    "2013-04-02T08:58:38.000Z": "Extracted from the New Zealand National Bibliography (MARC record 4692627) downloaded March 2013.",
+    "2014-05-07T09:11:34.000Z": "Modified by DataBot"
+  },
+  "revision": 12
+}

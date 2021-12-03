@@ -1,0 +1,31 @@
+{
+  "id": 1985,
+  "title": "Wairarapa Age",
+  "genre": "Newspaper",
+  "firstYear": "1902",
+  "finalYear": "1938",
+  "district": "Masterton District",
+  "frequency": "Daily",
+  "idMarcControlNumber": "8185365",
+  "idNZNewspapersV1": "66175",
+  "isCurrent": false,
+  "placecode": "09-01",
+  "placename": "Masterton",
+  "region": "Wellington",
+  "links": {
+    "1982": {
+      "direction": "Continues",
+      "target-description": "Wairarapa Star"
+    },
+    "1989": {
+      "direction": "Succeeding",
+      "relationship": "Merged into",
+      "target-description": "Wairarapa Times-Age"
+    }
+  },
+  "sources": {
+    "2013-04-02T08:58:38.000Z": "Extracted from the New Zealand National Bibliography (MARC record 8185365) downloaded March 2013.",
+    "2014-04-11T09:13:32.000Z": "Modified by gordon.paynter"
+  },
+  "revision": 6
+}

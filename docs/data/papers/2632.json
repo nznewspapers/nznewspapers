@@ -1,0 +1,21 @@
+{
+  "id": 2632,
+  "title": "Southern Advocate (Dunedin)",
+  "genre": "Newspaper",
+  "firstYear": "1992",
+  "finalYear": "1992",
+  "district": "Dunedin City",
+  "frequency": "Weekly",
+  "idMarcControlNumber": "5036395",
+  "idNZNewspapersV1": "6033",
+  "isCurrent": false,
+  "placecode": "13-03",
+  "placename": "Dunedin",
+  "price": "Gratis",
+  "region": "Otago",
+  "sources": {
+    "2013-04-02T08:58:38.000Z": "Extracted from the New Zealand National Bibliography (MARC record 5036395) downloaded March 2013.",
+    "2014-05-07T09:49:34.000Z": "Modified by DataBot"
+  },
+  "revision": 6
+}

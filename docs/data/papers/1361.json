@@ -1,0 +1,20 @@
+{
+  "id": 1361,
+  "title": "Avondale Advance and Blockhouse Bay Beacon",
+  "genre": "Newspaper",
+  "firstYear": "1953",
+  "finalYear": "1962",
+  "district": "Auckland",
+  "frequency": "Monthly",
+  "idMarcControlNumber": "8131677",
+  "idNZNewspapersV1": "64052",
+  "isCurrent": false,
+  "placecode": "02-01-auckland",
+  "placename": "Auckland",
+  "region": "Auckland",
+  "sources": {
+    "2013-04-02T08:58:38.000Z": "Extracted from the New Zealand National Bibliography (MARC record 8131677) downloaded March 2013.",
+    "2014-05-07T09:01:13.000Z": "Modified by DataBot"
+  },
+  "revision": 4
+}

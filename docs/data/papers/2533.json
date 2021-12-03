@@ -1,0 +1,33 @@
+{
+  "id": 2533,
+  "title": "Community High Country Herald (North Otago)",
+  "genre": "Newspaper",
+  "firstYear": "1999",
+  "finalYear": "2007",
+  "district": "Timaru District",
+  "frequency": "Weekly",
+  "idMarcControlNumber": "8261085",
+  "idNZNewspapersV1": "6048",
+  "isCurrent": false,
+  "placecode": "12-08",
+  "placename": "Timaru",
+  "price": "Gratis",
+  "region": "Canterbury",
+  "links": {
+    "2536": {
+      "direction": "Preceding",
+      "relationship": "Continues in part",
+      "target-description": "High Country herald"
+    },
+    "undefined-unknown": {
+      "direction": "Succeeding",
+      "relationship": "Continued by",
+      "target-description": "Waitaki Herald."
+    }
+  },
+  "sources": {
+    "2013-04-02T08:58:38.000Z": "Extracted from the New Zealand National Bibliography (MARC record 8261085) downloaded March 2013.",
+    "2014-05-07T09:50:22.000Z": "Modified by DataBot"
+  },
+  "revision": 8
+}

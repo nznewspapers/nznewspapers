@@ -1,0 +1,20 @@
+{
+  "id": 2703,
+  "title": "Look North",
+  "genre": "Periodical",
+  "firstYear": "1996",
+  "finalYear": "9999",
+  "district": "Whangarei District",
+  "frequency": "Monthly",
+  "idMarcControlNumber": "8164620",
+  "idNZNewspapersV1": "67103",
+  "isCurrent": true,
+  "placecode": "01-02",
+  "placename": "Whangarei",
+  "region": "Northland",
+  "sources": {
+    "2013-04-02T08:58:38.000Z": "Extracted from the New Zealand National Bibliography (MARC record 8164620) downloaded March 2013.",
+    "2014-05-07T09:02:06.000Z": "Modified by DataBot"
+  },
+  "revision": 4
+}

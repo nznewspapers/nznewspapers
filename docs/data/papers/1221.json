@@ -1,0 +1,28 @@
+{
+  "id": 1221,
+  "title": "Waiuku & Districts Post",
+  "genre": "Newspaper",
+  "firstYear": "1992",
+  "finalYear": "200u",
+  "district": "Auckland",
+  "frequency": "Weekly",
+  "idMarcControlNumber": "4331232",
+  "idNZNewspapersV1": "12016",
+  "isCurrent": false,
+  "placecode": "02-01",
+  "placename": "Howick",
+  "price": "Gratis",
+  "region": "Auckland",
+  "links": {
+    "1270": {
+      "direction": "Succeeding",
+      "relationship": "Continued by",
+      "target-description": "Post (Waiuku, N.Z.)"
+    }
+  },
+  "sources": {
+    "2013-04-02T08:58:38.000Z": "Extracted from the New Zealand National Bibliography (MARC record 4331232) downloaded March 2013.",
+    "2014-05-07T09:48:39.000Z": "Modified by DataBot"
+  },
+  "revision": 7
+}

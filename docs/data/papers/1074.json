@@ -1,0 +1,20 @@
+{
+  "id": 1074,
+  "title": "Manukau Advocate",
+  "genre": "Newspaper",
+  "firstYear": "1866",
+  "finalYear": "uuuu",
+  "district": "Auckland",
+  "frequency": "Two issues per week",
+  "idMarcControlNumber": "8164695",
+  "idNZNewspapersV1": "68087",
+  "isCurrent": false,
+  "placecode": "02-01",
+  "placename": "Onehunga",
+  "region": "Auckland",
+  "sources": {
+    "2013-04-02T08:58:38.000Z": "Extracted from the New Zealand National Bibliography (MARC record 8164695) downloaded March 2013.",
+    "2014-05-07T09:06:38.000Z": "Modified by DataBot"
+  },
+  "revision": 4
+}

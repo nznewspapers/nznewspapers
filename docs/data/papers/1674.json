@@ -1,0 +1,24 @@
+{
+  "id": 1674,
+  "title": "Wonderland Gazette and Rotorua Times",
+  "genre": "Newspaper",
+  "firstYear": "1906",
+  "finalYear": "1910",
+  "district": "Rotorua District",
+  "idNZNewspapersV1": "410003",
+  "isCurrent": false,
+  "placecode": "04-05",
+  "placename": "Rotorua",
+  "region": "Bay of Plenty",
+  "links": {
+    "1675": {
+      "direction": "Succeeding",
+      "relationship": "Continued by",
+      "target-description": "Rotorua Times"
+    }
+  },
+  "sources": {
+    "2013-07-01T10:14:06.000Z": "Modified by gordon.paynter"
+  },
+  "revision": 3
+}

@@ -1,0 +1,19 @@
+{
+  "id": 2407,
+  "title": "Southern View",
+  "genre": "Newspaper",
+  "firstYear": "2007",
+  "finalYear": "2011",
+  "district": "Christchurch City",
+  "idMarcControlNumber": "11549634",
+  "idNZNewspapersV1": "14332624",
+  "isCurrent": false,
+  "placecode": "12-05",
+  "placename": "Christchurch",
+  "region": "Canterbury",
+  "sources": {
+    "2013-04-02T08:58:38.000Z": "Extracted from the New Zealand National Bibliography (MARC record 11549634) downloaded March 2013.",
+    "2014-04-23T10:10:46.000Z": "Modified by MarcLoaderBot"
+  },
+  "revision": 2
+}

@@ -1,0 +1,27 @@
+{
+  "id": 2953,
+  "title": "The new Temuka Leader",
+  "genre": "Periodical",
+  "firstYear": "19uu",
+  "finalYear": "1996",
+  "district": "Timaru District",
+  "frequency": "Fortnightly",
+  "idMarcControlNumber": "4089806",
+  "idNZNewspapersV1": "14013",
+  "isCurrent": false,
+  "placecode": "12-08",
+  "placename": "Temuka",
+  "region": "Canterbury",
+  "links": {
+    "2952": {
+      "direction": "Succeeding",
+      "relationship": "Continued by",
+      "target-description": "New leader (Temuka, N.Z.)"
+    }
+  },
+  "sources": {
+    "2013-04-02T08:58:38.000Z": "Extracted from the New Zealand National Bibliography (MARC record 4089806) downloaded March 2013.",
+    "2014-05-07T08:55:57.000Z": "Modified by DataBot"
+  },
+  "revision": 5
+}

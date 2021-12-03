@@ -1,0 +1,19 @@
+{
+  "id": 1905,
+  "title": "Skandia",
+  "genre": "Newspaper",
+  "firstYear": "1875",
+  "finalYear": "uuuu",
+  "district": "Palmerston North City",
+  "idMarcControlNumber": "8181767",
+  "idNZNewspapersV1": "14232650",
+  "isCurrent": false,
+  "placecode": "08-05",
+  "placename": "Palmerston North",
+  "region": "Manawatu-Wanganui",
+  "sources": {
+    "2013-04-02T08:58:38.000Z": "Extracted from the New Zealand National Bibliography (MARC record 8181767) downloaded March 2013.",
+    "2014-04-23T10:12:24.000Z": "Modified by MarcLoaderBot"
+  },
+  "revision": 2
+}

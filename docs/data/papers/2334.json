@@ -1,0 +1,20 @@
+{
+  "id": 2334,
+  "title": "Westland Register",
+  "genre": "Newspaper",
+  "firstYear": "1872",
+  "finalYear": "1873",
+  "district": "Westland District",
+  "frequency": "Daily",
+  "idMarcControlNumber": "8187801",
+  "idNZNewspapersV1": "61160",
+  "isCurrent": false,
+  "placecode": "11-03",
+  "placename": "Hokitika",
+  "region": "West Coast",
+  "sources": {
+    "2013-04-02T08:58:38.000Z": "Extracted from the New Zealand National Bibliography (MARC record 8187801) downloaded March 2013.",
+    "2014-03-21T11:44:12.000Z": "Modified by DataBot"
+  },
+  "revision": 4
+}

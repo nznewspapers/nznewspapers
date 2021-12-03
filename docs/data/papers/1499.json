@@ -1,0 +1,32 @@
+{
+  "id": 1499,
+  "title": "Coromandel Peninsula Post",
+  "genre": "Newspaper",
+  "firstYear": "2008",
+  "finalYear": "9999",
+  "district": "Thames-Coromandel District",
+  "frequency": "Weekly",
+  "idMarcControlNumber": "11669437",
+  "idNZNewspapersV1": "10065",
+  "isCurrent": true,
+  "placecode": "03-01",
+  "placename": "Whitianga",
+  "region": "Waikato",
+  "links": {
+    "1497": {
+      "direction": "Preceding",
+      "relationship": "Formed by the union",
+      "target-description": "Bay beacon (Whitianga, N.Z.)"
+    },
+    "undefined-unknown": {
+      "direction": "Preceding",
+      "relationship": "Formed by the union",
+      "target-description": "Moehau messenger"
+    }
+  },
+  "sources": {
+    "2013-04-02T08:58:38.000Z": "Extracted from the New Zealand National Bibliography (MARC record 11669437) downloaded March 2013.",
+    "2014-05-07T09:09:00.000Z": "Modified by DataBot"
+  },
+  "revision": 6
+}

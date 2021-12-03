@@ -1,0 +1,38 @@
+{
+  "id": 1418,
+  "title": "Manurewa Week",
+  "genre": "Newspaper",
+  "firstYear": "1993",
+  "finalYear": "2003",
+  "district": "Auckland",
+  "frequency": "Weekly",
+  "idMarcControlNumber": "2795473",
+  "idNZNewspapersV1": "1004",
+  "isCurrent": false,
+  "placecode": "02-01-auckland",
+  "placename": "Auckland",
+  "price": "Gratis",
+  "region": "Auckland",
+  "links": {
+    "1231": {
+      "direction": "Succeeding",
+      "relationship": "Merged",
+      "target-description": "Papatoetoe & Otahuhu week"
+    },
+    "1232": {
+      "direction": "Succeeding",
+      "relationship": "Merged",
+      "target-description": "Our town Papakura"
+    },
+    "1248": {
+      "direction": "Succeeding",
+      "relationship": "Merged",
+      "target-description": "Aucklander (South ed.)"
+    }
+  },
+  "sources": {
+    "2013-04-02T08:58:38.000Z": "Extracted from the New Zealand National Bibliography (MARC record 2795473) downloaded March 2013.",
+    "2014-05-07T09:46:58.000Z": "Modified by DataBot"
+  },
+  "revision": 9
+}

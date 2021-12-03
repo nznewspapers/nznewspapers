@@ -1,0 +1,20 @@
+{
+  "id": 1927,
+  "title": "Manawatu Sports News",
+  "genre": "Newspaper",
+  "firstYear": "uuuu",
+  "finalYear": "1998",
+  "district": "Palmerston North City",
+  "frequency": "Weekly",
+  "idMarcControlNumber": "8164683",
+  "idNZNewspapersV1": "67106",
+  "isCurrent": false,
+  "placecode": "08-05",
+  "placename": "Palmerston North",
+  "region": "Manawatu-Wanganui",
+  "sources": {
+    "2013-04-02T08:58:38.000Z": "Extracted from the New Zealand National Bibliography (MARC record 8164683) downloaded March 2013.",
+    "2014-05-07T09:17:03.000Z": "Modified by DataBot"
+  },
+  "revision": 4
+}

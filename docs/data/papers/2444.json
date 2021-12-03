@@ -1,0 +1,20 @@
+{
+  "id": 2444,
+  "title": "Clarion",
+  "genre": "Newspaper",
+  "firstYear": "1969",
+  "finalYear": "uuuu",
+  "district": "Christchurch City",
+  "frequency": "Monthly",
+  "idMarcControlNumber": "8135003",
+  "idNZNewspapersV1": "70060",
+  "isCurrent": false,
+  "placecode": "12-05-christchur",
+  "placename": "Christchurch",
+  "region": "Canterbury",
+  "sources": {
+    "2013-04-02T08:58:38.000Z": "Extracted from the New Zealand National Bibliography (MARC record 8135003) downloaded March 2013.",
+    "2014-05-07T09:01:21.000Z": "Modified by DataBot"
+  },
+  "revision": 4
+}

@@ -1,0 +1,21 @@
+{
+  "id": 1733,
+  "title": "Huia Tangata Kotahi",
+  "genre": "Newspaper",
+  "firstYear": "1893",
+  "finalYear": "1895",
+  "district": "Hastings District",
+  "frequency": "Weekly",
+  "idMarcControlNumber": "3640848",
+  "idNZNewspapersV1": "4014",
+  "isCurrent": false,
+  "placecode": "06-02",
+  "placename": "Hastings",
+  "region": "Hawke's Bay",
+  "urlCurrent": "http://nzdl.org/cgi-bin/library?gg=_cgiarggg_&e=d-00000-00---0niupepa--00-0--0-10-0---0---0prompt-10---4-------0-1l--11-en-50---20-about---00-0-1-00-11-1-0utfZz-8-00&a=d&c=niupepa&cl=CL1.25",
+  "sources": {
+    "2013-04-02T08:58:38.000Z": "Extracted from the New Zealand National Bibliography (MARC record 3640848) downloaded March 2013.",
+    "2014-05-07T09:11:01.000Z": "Modified by DataBot"
+  },
+  "revision": 4
+}

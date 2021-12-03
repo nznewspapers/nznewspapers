@@ -1,0 +1,32 @@
+{
+  "id": 1424,
+  "title": "Sunday Star-Times",
+  "genre": "Newspaper",
+  "firstYear": "1994",
+  "finalYear": "9999",
+  "district": "Auckland",
+  "idMarcControlNumber": "4344962",
+  "idNZNewspapersV1": "4024",
+  "isCurrent": true,
+  "placecode": "02-01-auckland",
+  "placename": "Auckland",
+  "region": "Auckland",
+  "urlCurrent": "http://www.sundaystartimes.co.nz/",
+  "links": {
+    "1407": {
+      "direction": "Preceding",
+      "relationship": "Formed by the union",
+      "target-description": "Sunday Star"
+    },
+    "2087": {
+      "direction": "Preceding",
+      "relationship": "Formed by the union",
+      "target-description": "Sunday Times"
+    }
+  },
+  "sources": {
+    "2013-04-02T08:58:38.000Z": "Extracted from the New Zealand National Bibliography (MARC record 4344962) downloaded March 2013.",
+    "2013-10-19T08:09:08.000Z": "Modified by gordon.paynter"
+  },
+  "revision": 4
+}

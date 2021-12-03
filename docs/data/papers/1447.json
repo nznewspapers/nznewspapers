@@ -1,0 +1,30 @@
+{
+  "id": 1447,
+  "title": "Karere News",
+  "genre": "Newspaper",
+  "firstYear": "2002",
+  "finalYear": "2004",
+  "district": "Auckland",
+  "frequency": "Irregular",
+  "idMarcControlNumber": "7257615",
+  "idNZNewspapersV1": "37",
+  "isCurrent": false,
+  "placecode": "02-01-auckland",
+  "placename": "Auckland",
+  "region": "Auckland",
+  "links": {
+    "1253": {
+      "direction": "Continued By",
+      "target-description": "Karere Maori News [2004]"
+    },
+    "1435": {
+      "direction": "Continues",
+      "target-description": "Karere Maori News"
+    }
+  },
+  "sources": {
+    "2013-04-02T08:58:38.000Z": "Extracted from the New Zealand National Bibliography (MARC record 7257615) downloaded March 2013.",
+    "2014-05-16T02:47:18.000Z": "Modified by gordon.paynter"
+  },
+  "revision": 6
+}

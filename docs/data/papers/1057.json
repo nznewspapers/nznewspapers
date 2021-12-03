@@ -1,0 +1,22 @@
+{
+  "id": 1057,
+  "title": "Whangarei Leader",
+  "genre": "Newspaper",
+  "firstYear": "1992",
+  "finalYear": "9999",
+  "district": "Whangarei District",
+  "frequency": "Weekly",
+  "idMarcControlNumber": "5058522",
+  "idNZNewspapersV1": "10035",
+  "isCurrent": true,
+  "placecode": "01-02",
+  "placename": "Whangarei",
+  "price": "Gratis",
+  "region": "Northland",
+  "urlCurrent": "http://i.stuff.co.nz/auckland/local-news/northland/whangarei-leader",
+  "sources": {
+    "2013-04-02T08:58:38.000Z": "Extracted from the New Zealand National Bibliography (MARC record 5058522) downloaded March 2013.",
+    "2014-05-07T09:49:38.000Z": "Modified by DataBot"
+  },
+  "revision": 6
+}

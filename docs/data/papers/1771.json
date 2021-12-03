@@ -1,0 +1,20 @@
+{
+  "id": 1771,
+  "title": "Marewa Maraenui Messenger",
+  "genre": "Newspaper",
+  "firstYear": "1971",
+  "finalYear": "1978",
+  "district": "Napier City",
+  "frequency": "Fortnightly",
+  "idMarcControlNumber": "8167400",
+  "idNZNewspapersV1": "69120",
+  "isCurrent": false,
+  "placecode": "06-03",
+  "placename": "Napier",
+  "region": "Hawke's Bay",
+  "sources": {
+    "2013-04-02T08:58:38.000Z": "Extracted from the New Zealand National Bibliography (MARC record 8167400) downloaded March 2013.",
+    "2014-05-07T08:57:16.000Z": "Modified by DataBot"
+  },
+  "revision": 4
+}

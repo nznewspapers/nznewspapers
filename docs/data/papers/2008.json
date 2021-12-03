@@ -1,0 +1,26 @@
+{
+  "id": 2008,
+  "title": "Horowhenua Mail",
+  "genre": "Newspaper",
+  "firstYear": "1993",
+  "finalYear": "9999",
+  "district": "Kapiti Coast District",
+  "idMarcControlNumber": "4142260",
+  "idNZNewspapersV1": "4022",
+  "isCurrent": true,
+  "placecode": "09-02",
+  "placename": "Paraparaumu",
+  "region": "Wellington",
+  "urlCurrent": "http://www.stuff.co.nz/dominion-post/news/local-papers/horowhenua-mail/",
+  "links": {
+    "2007": {
+      "direction": "Continues",
+      "target-description": "Kapiti Mail"
+    }
+  },
+  "sources": {
+    "2013-04-02T08:58:38.000Z": "Extracted from the New Zealand National Bibliography (MARC record 4142260) downloaded March 2013.",
+    "2014-05-31T10:02:19.000Z": "Modified by gordon.paynter"
+  },
+  "revision": 3
+}

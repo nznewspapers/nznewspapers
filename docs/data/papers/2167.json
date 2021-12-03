@@ -1,0 +1,27 @@
+{
+  "id": 2167,
+  "title": "Exercise",
+  "genre": "Newspaper",
+  "firstYear": "1968",
+  "finalYear": "1970",
+  "district": "Wellington City",
+  "frequency": "Irregular",
+  "idMarcControlNumber": "4884336",
+  "idNZNewspapersV1": "9021",
+  "isCurrent": false,
+  "placecode": "09-08-wellington",
+  "placename": "Wellington",
+  "region": "Wellington",
+  "links": {
+    "2171": {
+      "direction": "Succeeding",
+      "relationship": "Continued by",
+      "target-description": "Exercise (Wellington, N.Z. : 1971)"
+    }
+  },
+  "sources": {
+    "2013-04-02T08:58:38.000Z": "Extracted from the New Zealand National Bibliography (MARC record 4884336) downloaded March 2013.",
+    "2014-05-07T08:59:03.000Z": "Modified by DataBot"
+  },
+  "revision": 5
+}

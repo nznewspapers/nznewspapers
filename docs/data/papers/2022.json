@@ -1,0 +1,26 @@
+{
+  "id": 2022,
+  "title": "Featherston Chronicle",
+  "genre": "Newspaper",
+  "firstYear": "1956",
+  "finalYear": "1962",
+  "district": "South Wairarapa District",
+  "frequency": "Fortnightly",
+  "idMarcControlNumber": "8142087",
+  "idNZNewspapersV1": "61064",
+  "isCurrent": false,
+  "placecode": "09-04",
+  "placename": "Featherston",
+  "region": "Wellington",
+  "links": {
+    "2023": {
+      "direction": "Continued By",
+      "target-description": "Chronicle"
+    }
+  },
+  "sources": {
+    "2013-04-02T08:58:38.000Z": "Extracted from the New Zealand National Bibliography (MARC record 8142087) downloaded March 2013.",
+    "2014-05-07T08:56:54.000Z": "Modified by DataBot"
+  },
+  "revision": 5
+}

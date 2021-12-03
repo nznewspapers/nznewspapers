@@ -1,0 +1,20 @@
+{
+  "id": 1884,
+  "title": "Taniwha",
+  "genre": "Newspaper",
+  "firstYear": "1881",
+  "finalYear": "uuuu",
+  "district": "Wanganui District",
+  "frequency": "Monthly",
+  "idMarcControlNumber": "8183380",
+  "idNZNewspapersV1": "62143",
+  "isCurrent": false,
+  "placecode": "08-03",
+  "placename": "Wanganui",
+  "region": "Manawatu-Wanganui",
+  "sources": {
+    "2013-04-02T08:58:38.000Z": "Extracted from the New Zealand National Bibliography (MARC record 8183380) downloaded March 2013.",
+    "2014-05-07T09:03:01.000Z": "Modified by DataBot"
+  },
+  "revision": 4
+}

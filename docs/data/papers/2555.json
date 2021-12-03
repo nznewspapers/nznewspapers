@@ -1,0 +1,30 @@
+{
+  "id": 2555,
+  "title": "Lake Wakatip Mail",
+  "genre": "Newspaper",
+  "firstYear": "1863",
+  "finalYear": "1953",
+  "district": "Queenstown-Lakes District",
+  "firstIssueDate": "1863-05-02",
+  "frequency": "Weekly",
+  "idMarcControlNumber": "4716787",
+  "idNZNewspapersV1": "4027",
+  "idPapersPastCode": "LWM",
+  "isCurrent": false,
+  "placecode": "13-01",
+  "placename": "Queenstown",
+  "region": "Otago",
+  "urlDigitized": "http://paperspast.natlib.govt.nz/cgi-bin/paperspast?a=d&cl=CL1.LWM",
+  "links": {
+    "2556": {
+      "direction": "Preceding",
+      "relationship": "Absorbed",
+      "target-description": "Lake County Press"
+    }
+  },
+  "sources": {
+    "2013-04-02T08:58:38.000Z": "Extracted from the New Zealand National Bibliography (MARC record 4716787) downloaded March 2013.",
+    "2014-08-20T09:05:06.000Z": "Modified by gordon.paynter"
+  },
+  "revision": 9
+}

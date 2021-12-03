@@ -1,0 +1,21 @@
+{
+  "id": 1298,
+  "title": "Morning Advertiser",
+  "genre": "Newspaper",
+  "firstYear": "1870",
+  "finalYear": "1870",
+  "district": "Auckland",
+  "firstIssueDate": "1870-01-04",
+  "frequency": "Daily",
+  "idMarcControlNumber": "8167921",
+  "idNZNewspapersV1": "71097",
+  "isCurrent": false,
+  "placecode": "02-01-auckland",
+  "placename": "Auckland",
+  "region": "Auckland",
+  "sources": {
+    "2013-04-02T08:58:38.000Z": "Extracted from the New Zealand National Bibliography (MARC record 8167921) downloaded March 2013.",
+    "2014-04-10T08:49:37.000Z": "Modified by gordon.paynter"
+  },
+  "revision": 6
+}

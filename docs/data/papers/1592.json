@@ -1,0 +1,20 @@
+{
+  "id": 1592,
+  "title": "City Weekend",
+  "genre": "Newspaper",
+  "firstYear": "1992",
+  "finalYear": "9999",
+  "district": "Hamilton City",
+  "idMarcControlNumber": "4212505",
+  "idNZNewspapersV1": "10020",
+  "isCurrent": true,
+  "placecode": "03-05",
+  "placename": "Hamilton",
+  "price": "Gratis",
+  "region": "Waikato",
+  "sources": {
+    "2013-04-02T08:58:38.000Z": "Extracted from the New Zealand National Bibliography (MARC record 4212505) downloaded March 2013.",
+    "2014-05-07T09:48:33.000Z": "Modified by DataBot"
+  },
+  "revision": 4
+}

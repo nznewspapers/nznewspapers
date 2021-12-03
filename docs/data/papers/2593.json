@@ -1,0 +1,30 @@
+{
+  "id": 2593,
+  "title": "Saturday Advertiser, Time-table, and New Zealand Literary Miscellany",
+  "genre": "Masthead",
+  "firstYear": "1875",
+  "finalYear": "1875",
+  "district": "Dunedin City",
+  "frequency": "Weekly",
+  "idMarcControlNumber": "8181634",
+  "idNZNewspapersV1": "67142",
+  "isCurrent": false,
+  "placecode": "13-03",
+  "placename": "Dunedin",
+  "region": "Otago",
+  "links": {
+    "2594": {
+      "direction": "Continued By",
+      "target-description": "New  Zealand Saturday Advertiser, Time-table and  Literary Miscellany"
+    },
+    "2595": {
+      "direction": "Is Masthead Of",
+      "target-description": "New Zealand Public Opinion, Sportsman and Saturday Advertiser"
+    }
+  },
+  "sources": {
+    "2013-04-02T08:58:38.000Z": "Extracted from the New Zealand National Bibliography (MARC record 8181634) downloaded March 2013.",
+    "2014-06-01T09:06:58.000Z": "Modified by DataBot"
+  },
+  "revision": 6
+}

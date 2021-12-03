@@ -1,0 +1,20 @@
+{
+  "id": 2758,
+  "title": "Korea News Today",
+  "genre": "Periodical",
+  "firstYear": "19uu",
+  "finalYear": "1997",
+  "district": "Auckland",
+  "frequency": "Fortnightly",
+  "idMarcControlNumber": "4776637",
+  "idNZNewspapersV1": "5030",
+  "isCurrent": false,
+  "placecode": "02-01-auckland",
+  "placename": "Auckland",
+  "region": "Auckland",
+  "sources": {
+    "2013-04-02T08:58:38.000Z": "Extracted from the New Zealand National Bibliography (MARC record 4776637) downloaded March 2013.",
+    "2014-05-07T08:56:08.000Z": "Modified by DataBot"
+  },
+  "revision": 4
+}

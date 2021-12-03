@@ -1,0 +1,27 @@
+{
+  "id": 1021,
+  "title": "Hokianga Herald [1946]",
+  "genre": "Newspaper",
+  "firstYear": "1946",
+  "finalYear": "1959",
+  "district": "Far North District",
+  "frequency": "Weekly",
+  "idMarcControlNumber": "8156964",
+  "idNZNewspapersV1": "67093",
+  "isCurrent": false,
+  "placecode": "01-01",
+  "placename": "Kohukohu",
+  "region": "Northland",
+  "links": {
+    "1018": {
+      "direction": "Preceding",
+      "relationship": "Break in publication?",
+      "target-description": "Hokianga Herald"
+    }
+  },
+  "sources": {
+    "2013-04-02T08:58:38.000Z": "Extracted from the New Zealand National Bibliography (MARC record 8156964) downloaded March 2013.",
+    "2014-05-07T09:16:05.000Z": "Modified by DataBot"
+  },
+  "revision": 5
+}

@@ -1,0 +1,20 @@
+{
+  "id": 1051,
+  "title": "Whangarei City News",
+  "genre": "Newspaper",
+  "firstYear": "1978",
+  "finalYear": "1982",
+  "district": "Whangarei District",
+  "frequency": "Weekly",
+  "idMarcControlNumber": "8187823",
+  "idNZNewspapersV1": "62181",
+  "isCurrent": false,
+  "placecode": "01-02",
+  "placename": "Whangarei",
+  "region": "Northland",
+  "sources": {
+    "2013-04-02T08:58:38.000Z": "Extracted from the New Zealand National Bibliography (MARC record 8187823) downloaded March 2013.",
+    "2014-05-07T09:23:08.000Z": "Modified by DataBot"
+  },
+  "revision": 4
+}

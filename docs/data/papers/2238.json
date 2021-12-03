@@ -1,0 +1,38 @@
+{
+  "id": 2238,
+  "title": "The Nelson Examiner [1855-1873]",
+  "genre": "Masthead",
+  "firstYear": "1855",
+  "finalYear": "1873",
+  "district": "Nelson City",
+  "finalIssueDate": "1873-06-28",
+  "firstIssueDate": "1855-03-31",
+  "frequency": "Two issues per week",
+  "idMarcControlNumber": "12589970",
+  "idNZNewspapersV1": "59182",
+  "idPapersPastCode": "NENZC",
+  "isCurrent": false,
+  "placecode": "10-02",
+  "placename": "Nelson",
+  "region": "Top of the South",
+  "urlDigitized": "http://paperspast.natlib.govt.nz/cgi-bin/paperspast?a=d&cl=CL1.NENZC",
+  "links": {
+    "2236": {
+      "direction": "Continues",
+      "target-description": "The Nelson Examiner and New Zealand Chronicle"
+    },
+    "2237": {
+      "direction": "Is Masthead Of",
+      "target-description": "The Nelson Examiner"
+    },
+    "2243": {
+      "direction": "Continued By",
+      "target-description": "Nelson Daily Examiner"
+    }
+  },
+  "sources": {
+    "2013-04-02T08:58:38.000Z": "Extracted from the New Zealand National Bibliography (MARC record 12589970) downloaded March 2013.",
+    "2014-05-07T09:05:30.000Z": "Modified by DataBot"
+  },
+  "revision": 13
+}

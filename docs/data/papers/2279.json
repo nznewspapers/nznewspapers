@@ -1,0 +1,18 @@
+{
+  "id": 2279,
+  "title": "Discover Marlborough",
+  "genre": "Newspaper",
+  "firstYear": "1994",
+  "finalYear": "9999",
+  "district": "Marlborough District",
+  "idMarcControlNumber": "4547535",
+  "idNZNewspapersV1": "15002",
+  "isCurrent": true,
+  "placecode": "10-03",
+  "placename": "Blenheim",
+  "region": "Top of the South",
+  "sources": {
+    "2013-04-02T08:58:38.000Z": "Extracted from the New Zealand National Bibliography (MARC record 4547535) downloaded March 2013."
+  },
+  "revision": 2
+}

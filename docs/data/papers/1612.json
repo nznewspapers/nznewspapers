@@ -1,0 +1,28 @@
+{
+  "id": 1612,
+  "title": "South Waikato News",
+  "genre": "Newspaper",
+  "firstYear": "1952",
+  "finalYear": "9999",
+  "district": "South Waikato District",
+  "frequency": "Two issues per week",
+  "idMarcControlNumber": "3531250",
+  "idNZNewspapersV1": "10009",
+  "isCurrent": true,
+  "placecode": "03-07",
+  "placename": "Tokoroa",
+  "region": "Waikato",
+  "urlCurrent": "http://www.southwaikatonews.co.nz/",
+  "links": {
+    "1610": {
+      "direction": "Preceding",
+      "relationship": "Absorbed",
+      "target-description": "Putaruru Press"
+    }
+  },
+  "sources": {
+    "2013-04-02T08:58:38.000Z": "Extracted from the New Zealand National Bibliography (MARC record 3531250) downloaded March 2013.",
+    "2014-05-16T02:32:49.000Z": "Modified by gordon.paynter"
+  },
+  "revision": 5
+}

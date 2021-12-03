@@ -1,0 +1,20 @@
+{
+  "id": 1371,
+  "title": "Mt. Eden Progress",
+  "genre": "Newspaper",
+  "firstYear": "1957",
+  "finalYear": "1957",
+  "district": "Auckland",
+  "frequency": "Monthly",
+  "idMarcControlNumber": "8169259",
+  "idNZNewspapersV1": "69127",
+  "isCurrent": false,
+  "placecode": "02-01-auckland",
+  "placename": "Auckland",
+  "region": "Auckland",
+  "sources": {
+    "2013-04-02T08:58:38.000Z": "Extracted from the New Zealand National Bibliography (MARC record 8169259) downloaded March 2013.",
+    "2014-05-07T09:02:17.000Z": "Modified by DataBot"
+  },
+  "revision": 4
+}

@@ -1,0 +1,24 @@
+{
+  "id": 2640,
+  "title": "Clutha Leader",
+  "genre": "Newspaper",
+  "firstYear": "1874",
+  "finalYear": "9999",
+  "district": "Clutha District",
+  "firstIssueDate": "1874-07-09",
+  "frequency": "Two issues per week",
+  "idMarcControlNumber": "3531220",
+  "idNZNewspapersV1": "6009",
+  "idPapersPastCode": "CL",
+  "isCurrent": true,
+  "placecode": "13-04",
+  "placename": "Balclutha",
+  "region": "Otago",
+  "urlCurrent": "http://cluthaleader.realviewdigital.com/",
+  "urlDigitized": "http://paperspast.natlib.govt.nz/cgi-bin/paperspast?a=d&cl=CL1.CL",
+  "sources": {
+    "2013-04-02T08:58:38.000Z": "Extracted from the New Zealand National Bibliography (MARC record 3531220) downloaded March 2013.",
+    "2014-05-07T09:05:38.000Z": "Modified by DataBot"
+  },
+  "revision": 8
+}

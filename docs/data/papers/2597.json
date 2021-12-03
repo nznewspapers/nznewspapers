@@ -1,0 +1,34 @@
+{
+  "id": 2597,
+  "title": "Saturday Advertiser, Time-table, and New Zealand Public Opinion",
+  "genre": "Masthead",
+  "firstYear": "1877",
+  "finalYear": "1880",
+  "district": "Dunedin City",
+  "frequency": "Weekly",
+  "idMarcControlNumber": "8181636",
+  "idNZNewspapersV1": "69158",
+  "isCurrent": false,
+  "placecode": "13-03",
+  "placename": "Dunedin",
+  "region": "Otago",
+  "links": {
+    "2594": {
+      "direction": "Continues",
+      "target-description": "New  Zealand Saturday Advertiser, Time-table and  Literary Miscellany"
+    },
+    "2595": {
+      "direction": "Is Masthead Of",
+      "target-description": "New Zealand Public Opinion, Sportsman and Saturday Advertiser"
+    },
+    "2600": {
+      "direction": "Continued By",
+      "target-description": "New  Zealand Public Opinion, Sportsman and  Saturday Advertiser"
+    }
+  },
+  "sources": {
+    "2013-04-02T08:58:38.000Z": "Extracted from the New Zealand National Bibliography (MARC record 8181636) downloaded March 2013.",
+    "2014-06-01T09:07:01.000Z": "Modified by DataBot"
+  },
+  "revision": 7
+}

@@ -1,0 +1,26 @@
+{
+  "id": 2694,
+  "title": "D Scene (Taieri Ed.)",
+  "genre": "Alternate Edition",
+  "firstYear": "2013",
+  "finalYear": "2013",
+  "district": "Southland District",
+  "frequency": "Weekly",
+  "idMarcControlNumber": "14735884",
+  "idNZNewspapersV1": "66208",
+  "isCurrent": false,
+  "placecode": "14-01",
+  "placename": "Invercargill",
+  "region": "Southland",
+  "links": {
+    "2634": {
+      "direction": "Is Edition Of",
+      "target-description": "D  Scene"
+    }
+  },
+  "sources": {
+    "2013-04-02T08:58:38.000Z": "Extracted from the New Zealand National Bibliography (MARC record 14735884) downloaded March 2013.",
+    "2014-05-31T10:23:40.000Z": "Modified by gordon.paynter"
+  },
+  "revision": 5
+}

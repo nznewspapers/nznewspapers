@@ -1,0 +1,36 @@
+{
+  "id": 2595,
+  "title": "New Zealand Public Opinion, Sportsman and Saturday Advertiser",
+  "genre": "Newspaper",
+  "firstYear": "1875",
+  "finalYear": "1893",
+  "district": "Dunedin City",
+  "idNZNewspapersV1": "14054",
+  "isCurrent": false,
+  "placecode": "13-03",
+  "placename": "Dunedin",
+  "region": "Otago",
+  "urlCurrent": "http://www.westportnews.co.nz/",
+  "links": {
+    "2593": {
+      "direction": "Has Masthead",
+      "target-description": "Saturday Advertiser, Time-table, and  New  Zealand Literary Miscellany"
+    },
+    "2594": {
+      "direction": "Has Masthead",
+      "target-description": "New  Zealand Saturday Advertiser, Time-table and  Literary Miscellany"
+    },
+    "2597": {
+      "direction": "Has Masthead",
+      "target-description": "Saturday Advertiser, Time-table, and  New  Zealand Public Opinion"
+    },
+    "2600": {
+      "direction": "Has Masthead",
+      "target-description": "New  Zealand Public Opinion, Sportsman and  Saturday Advertiser"
+    }
+  },
+  "sources": {
+    "2014-06-01T09:07:00.000Z": "Modified by DataBot"
+  },
+  "revision": 6
+}

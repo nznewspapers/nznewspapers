@@ -1,0 +1,26 @@
+{
+  "id": 2265,
+  "title": "Marlborough News and General Advertiser",
+  "genre": "Newspaper",
+  "firstYear": "1865",
+  "finalYear": "1874",
+  "district": "Marlborough District",
+  "frequency": "Weekly",
+  "idMarcControlNumber": "8167530",
+  "idNZNewspapersV1": "71094",
+  "isCurrent": false,
+  "placecode": "10-03",
+  "placename": "Blenheim",
+  "region": "Top of the South",
+  "links": {
+    "2268": {
+      "direction": "Continued By",
+      "target-description": "Marlborough Times"
+    }
+  },
+  "sources": {
+    "2013-04-02T08:58:38.000Z": "Extracted from the New Zealand National Bibliography (MARC record 8167530) downloaded March 2013.",
+    "2014-05-07T09:17:27.000Z": "Modified by DataBot"
+  },
+  "revision": 5
+}

@@ -1,0 +1,20 @@
+{
+  "id": 1093,
+  "title": "Devonport Gazette and Greater North Shore Advocate",
+  "genre": "Newspaper",
+  "firstYear": "1921",
+  "finalYear": "1924",
+  "district": "Auckland",
+  "frequency": "Weekly",
+  "idMarcControlNumber": "8138182",
+  "idNZNewspapersV1": "65071",
+  "isCurrent": false,
+  "placecode": "02-01",
+  "placename": "Devonport",
+  "region": "Auckland",
+  "sources": {
+    "2013-04-02T08:58:38.000Z": "Extracted from the New Zealand National Bibliography (MARC record 8138182) downloaded March 2013.",
+    "2014-05-07T09:14:51.000Z": "Modified by DataBot"
+  },
+  "revision": 4
+}

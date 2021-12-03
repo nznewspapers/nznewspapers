@@ -1,0 +1,18 @@
+{
+  "id": 2583,
+  "title": "Evening Mail and Port Chalmers Express",
+  "genre": "Newspaper",
+  "firstYear": "1866",
+  "finalYear": "uuuu",
+  "district": "Dunedin City",
+  "idMarcControlNumber": "8141798",
+  "idNZNewspapersV1": "60053",
+  "isCurrent": false,
+  "placecode": "13-03",
+  "placename": "Dunedin",
+  "region": "Otago",
+  "sources": {
+    "2013-04-02T08:58:38.000Z": "Extracted from the New Zealand National Bibliography (MARC record 8141798) downloaded March 2013."
+  },
+  "revision": 2
+}

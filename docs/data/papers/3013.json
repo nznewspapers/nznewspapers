@@ -1,0 +1,22 @@
+{
+  "id": 3013,
+  "title": "Hawera Star",
+  "genre": "Other",
+  "firstYear": "1985",
+  "finalYear": "9999",
+  "district": "South Taranaki District",
+  "idMarcControlNumber": "3561174",
+  "idNZNewspapersV1": "10010",
+  "isCurrent": true,
+  "placecode": "07-03",
+  "placename": "Hawera",
+  "region": "Taranaki",
+  "notes": {
+    "11820249": "Microfilm reproduction."
+  },
+  "sources": {
+    "2013-04-02T08:58:38.000Z": "Extracted from the New Zealand National Bibliography (MARC record 3561174) downloaded March 2013.",
+    "2014-04-10T11:17:00.000Z": "Modified by gordon.paynter"
+  },
+  "revision": 4
+}

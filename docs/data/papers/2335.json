@@ -1,0 +1,26 @@
+{
+  "id": 2335,
+  "title": "Kumara Times",
+  "genre": "Newspaper",
+  "firstYear": "1876",
+  "finalYear": "1917",
+  "district": "Westland District",
+  "frequency": "Daily",
+  "idMarcControlNumber": "8163694",
+  "idNZNewspapersV1": "66099",
+  "isCurrent": false,
+  "placecode": "11-03",
+  "placename": "Kumara",
+  "region": "West Coast",
+  "links": {
+    "2340": {
+      "direction": "Continued By",
+      "target-description": "Westland Chronicle"
+    }
+  },
+  "sources": {
+    "2013-04-02T08:58:38.000Z": "Extracted from the New Zealand National Bibliography (MARC record 8163694) downloaded March 2013.",
+    "2014-04-12T11:52:35.000Z": "Modified by gordon.paynter"
+  },
+  "revision": 5
+}

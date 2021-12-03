@@ -1,0 +1,28 @@
+{
+  "id": 2083,
+  "title": "National Business Review",
+  "genre": "Newspaper",
+  "firstYear": "1970",
+  "finalYear": "9999",
+  "district": "Wellington City",
+  "frequency": "Weekly",
+  "idMarcControlNumber": "5090515",
+  "idNZNewspapersV1": "4042",
+  "isCurrent": true,
+  "placecode": "09-08",
+  "placename": "Wellington",
+  "region": "Wellington",
+  "urlCurrent": "http://www.nbr.co.nz/",
+  "links": {
+    "1214": {
+      "direction": "Preceding",
+      "relationship": "Absorbed",
+      "target-description": "The Examiner"
+    }
+  },
+  "sources": {
+    "2013-04-02T08:58:38.000Z": "Extracted from the New Zealand National Bibliography (MARC record 5090515) downloaded March 2013.",
+    "2014-05-31T10:35:54.000Z": "Modified by gordon.paynter"
+  },
+  "revision": 5
+}

@@ -1,0 +1,37 @@
+{
+  "id": 2064,
+  "title": "Citylife (West & North Ed.)",
+  "genre": "Newspaper",
+  "firstYear": "2008",
+  "finalYear": "2009",
+  "district": "Hutt City",
+  "frequency": "Weekly",
+  "idMarcControlNumber": "12458677",
+  "idNZNewspapersV1": "4070",
+  "isCurrent": false,
+  "placecode": "09-07",
+  "placename": "Petone",
+  "region": "Wellington",
+  "links": {
+    "2065": {
+      "direction": "Succeeding",
+      "relationship": "Continued by",
+      "target-description": "Citylife independent herald"
+    },
+    "2214": {
+      "direction": "Preceding",
+      "relationship": "Formed by the union",
+      "target-description": "Citylife (North ed.)"
+    },
+    "2215": {
+      "direction": "Preceding",
+      "relationship": "Formed by the union",
+      "target-description": "Citylife (West ed.)"
+    }
+  },
+  "sources": {
+    "2013-04-02T08:58:38.000Z": "Extracted from the New Zealand National Bibliography (MARC record 12458677) downloaded March 2013.",
+    "2014-05-07T09:09:13.000Z": "Modified by DataBot"
+  },
+  "revision": 7
+}

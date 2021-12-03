@@ -1,0 +1,20 @@
+{
+  "id": 2984,
+  "title": "Growth & Progress",
+  "genre": "Periodical",
+  "firstYear": "19uu",
+  "finalYear": "19uu",
+  "district": "Unknown District",
+  "frequency": "Irregular",
+  "idMarcControlNumber": "11411469",
+  "idNZNewspapersV1": "9041",
+  "isCurrent": false,
+  "placecode": "unknown",
+  "placename": "lnvercargill",
+  "region": "Unknown Region",
+  "sources": {
+    "2013-04-02T08:58:38.000Z": "Extracted from the New Zealand National Bibliography (MARC record 11411469) downloaded March 2013.",
+    "2014-05-07T08:58:41.000Z": "Modified by DataBot"
+  },
+  "revision": 4
+}

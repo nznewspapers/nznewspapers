@@ -1,0 +1,21 @@
+{
+  "id": 2232,
+  "title": "The G.B. Weekly",
+  "genre": "Newspaper",
+  "firstYear": "1993",
+  "finalYear": "9999",
+  "district": "Tasman District",
+  "frequency": "Weekly",
+  "idMarcControlNumber": "4816223",
+  "idNZNewspapersV1": "13023",
+  "isCurrent": true,
+  "placecode": "10-01",
+  "placename": "Takaka",
+  "price": "Gratis",
+  "region": "Top of the South",
+  "sources": {
+    "2013-04-02T08:58:38.000Z": "Extracted from the New Zealand National Bibliography (MARC record 4816223) downloaded March 2013.",
+    "2014-05-07T09:49:21.000Z": "Modified by DataBot"
+  },
+  "revision": 6
+}

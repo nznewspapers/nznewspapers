@@ -1,0 +1,48 @@
+{
+  "id": 2241,
+  "title": "Nelson Evening Mail",
+  "genre": "Newspaper",
+  "firstYear": "1866",
+  "finalYear": "1995",
+  "district": "Nelson City",
+  "finalIssueDate": "1995-06-10",
+  "firstIssueDate": "1866-03-05",
+  "frequency": "Daily (except Sunday)",
+  "idMarcControlNumber": "4871237",
+  "idNZNewspapersV1": "1035",
+  "idPapersPastCode": "NEM",
+  "isCurrent": false,
+  "placecode": "10-02",
+  "placename": "Nelson",
+  "region": "Top of the South",
+  "urlDigitized": "http://paperspast.natlib.govt.nz/cgi-bin/paperspast?a=d&cl=CL1.NEM",
+  "links": {
+    "2239": {
+      "direction": "Preceding",
+      "relationship": "Absorbed",
+      "target-description": "Colonist"
+    },
+    "2251": {
+      "direction": "Has Edition",
+      "target-description": "Evening Mail Sports Edition"
+    },
+    "2252": {
+      "direction": "Has Edition",
+      "target-description": "Evening Mail Friday Sports Edition"
+    },
+    "2254": {
+      "direction": "Has Edition",
+      "target-description": "Evening Mail Sports News"
+    },
+    "2259": {
+      "direction": "Succeeding",
+      "relationship": "Continued by",
+      "target-description": "Nelson Mail"
+    }
+  },
+  "sources": {
+    "2013-04-02T08:58:38.000Z": "Extracted from the New Zealand National Bibliography (MARC record 4871237) downloaded March 2013.",
+    "2014-03-21T11:48:13.000Z": "Modified by DataBot"
+  },
+  "revision": 15
+}

@@ -1,0 +1,20 @@
+{
+  "id": 1072,
+  "title": "Kaiwaka Bugle",
+  "genre": "Newspaper",
+  "firstYear": "200u",
+  "finalYear": "9999",
+  "district": "Kaipara District",
+  "idMarcControlNumber": "8301614",
+  "idNZNewspapersV1": "14292638",
+  "isCurrent": true,
+  "placecode": "01-03",
+  "placename": "Kaiwaka",
+  "region": "Northland",
+  "urlCurrent": "http://www.kaiwaka.co.nz/Bugle/Bugle.html",
+  "sources": {
+    "2013-04-02T08:58:38.000Z": "Extracted from the New Zealand National Bibliography (MARC record 8301614) downloaded March 2013.",
+    "2015-01-06T09:31:28.000Z": "Modified by gordon.paynter"
+  },
+  "revision": 2
+}

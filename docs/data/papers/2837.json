@@ -1,0 +1,27 @@
+{
+  "id": 2837,
+  "title": "Wanganui Rangitikei Farmer : the Monthly Rural Newspaper Covering Farmers in the Wanganui and Rangitikei Farming Districts",
+  "genre": "Periodical",
+  "firstYear": "1974",
+  "finalYear": "1982",
+  "district": "Palmerston North City",
+  "frequency": "Monthly",
+  "idMarcControlNumber": "13489503",
+  "idNZNewspapersV1": "65",
+  "isCurrent": false,
+  "placecode": "08-05",
+  "placename": "Palmerston North",
+  "region": "Manawatu-Wanganui",
+  "links": {
+    "2838": {
+      "direction": "Succeeding",
+      "relationship": "Continued by",
+      "target-description": "Central districts farmer"
+    }
+  },
+  "sources": {
+    "2013-04-02T08:58:38.000Z": "Extracted from the New Zealand National Bibliography (MARC record 13489503) downloaded March 2013.",
+    "2014-05-07T08:59:53.000Z": "Modified by DataBot"
+  },
+  "revision": 5
+}

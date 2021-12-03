@@ -1,0 +1,21 @@
+{
+  "id": 1453,
+  "title": "Waha nui",
+  "genre": "Newspaper",
+  "firstYear": "2003",
+  "finalYear": "9999",
+  "district": "Auckland",
+  "frequency": "Irregular",
+  "idMarcControlNumber": "8520492",
+  "idNZNewspapersV1": "10054",
+  "isCurrent": true,
+  "placecode": "02-01-auckland",
+  "placename": "Auckland",
+  "region": "Auckland",
+  "urlCurrent": "http://www.tewahanui.info/",
+  "sources": {
+    "2013-04-02T08:58:38.000Z": "Extracted from the New Zealand National Bibliography (MARC record 8520492) downloaded March 2013.",
+    "2014-05-07T08:59:16.000Z": "Modified by DataBot"
+  },
+  "revision": 4
+}

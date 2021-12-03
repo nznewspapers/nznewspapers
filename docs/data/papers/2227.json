@@ -1,0 +1,26 @@
+{
+  "id": 2227,
+  "title": "Province",
+  "genre": "Newspaper",
+  "firstYear": "1939",
+  "finalYear": "1939",
+  "district": "Tasman District",
+  "frequency": "Daily",
+  "idMarcControlNumber": "8181306",
+  "idNZNewspapersV1": "67136",
+  "isCurrent": false,
+  "placecode": "10-01",
+  "placename": "Motueka",
+  "region": "Top of the South",
+  "links": {
+    "2226": {
+      "direction": "Continues",
+      "target-description": "Star-Times"
+    }
+  },
+  "sources": {
+    "2013-04-02T08:58:38.000Z": "Extracted from the New Zealand National Bibliography (MARC record 8181306) downloaded March 2013.",
+    "2014-04-12T10:54:29.000Z": "Modified by DataBot"
+  },
+  "revision": 5
+}

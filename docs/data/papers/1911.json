@@ -1,0 +1,40 @@
+{
+  "id": 1911,
+  "title": "Manawatu Evening Standard",
+  "genre": "Masthead",
+  "firstYear": "1905",
+  "finalYear": "1970",
+  "alternateTitle": {
+    "521019": "Manawatu Evening Standard, Pohangia County Advertiser and West Coast Gazette"
+  },
+  "district": "Palmerston North City",
+  "firstIssueDate": "1905-09-05",
+  "frequency": "Daily",
+  "idMarcControlNumber": "8164663",
+  "idNZNewspapersV1": "64103",
+  "idPapersPastCode": "MS",
+  "isCurrent": false,
+  "placecode": "08-05",
+  "placename": "Palmerston North",
+  "region": "Manawatu-Wanganui",
+  "urlDigitized": "http://paperspast.natlib.govt.nz/cgi-bin/paperspast?a=d&cl=CL1.MS",
+  "links": {
+    "1907": {
+      "direction": "Is Masthead Of",
+      "target-description": "Manawatu Standard"
+    },
+    "1909": {
+      "direction": "Continues",
+      "target-description": "Manawatu Daily Standard"
+    },
+    "1919": {
+      "direction": "Continued By",
+      "target-description": "Evening Standard"
+    }
+  },
+  "sources": {
+    "2013-04-02T08:58:38.000Z": "Extracted from the New Zealand National Bibliography (MARC record 8164663) downloaded March 2013.",
+    "2014-03-21T11:37:28.000Z": "Modified by DataBot"
+  },
+  "revision": 13
+}

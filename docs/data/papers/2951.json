@@ -1,0 +1,25 @@
+{
+  "id": 2951,
+  "title": "South Canterbury Community News",
+  "genre": "Periodical",
+  "firstYear": "1989",
+  "finalYear": "1991",
+  "district": "Timaru District",
+  "idMarcControlNumber": "5013485",
+  "idNZNewspapersV1": "4040",
+  "isCurrent": false,
+  "placecode": "12-08",
+  "placename": "Timaru",
+  "region": "Canterbury",
+  "links": {
+    "2528": {
+      "direction": "Succeeding",
+      "relationship": "Continued by",
+      "target-description": "Timaru's the courier"
+    }
+  },
+  "sources": {
+    "2013-04-02T08:58:38.000Z": "Extracted from the New Zealand National Bibliography (MARC record 5013485) downloaded March 2013."
+  },
+  "revision": 3
+}

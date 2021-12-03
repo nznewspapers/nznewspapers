@@ -1,0 +1,21 @@
+{
+  "id": 1917,
+  "title": "Tribune (Palmerston North)",
+  "genre": "Newspaper",
+  "firstYear": "196u",
+  "finalYear": "9999",
+  "district": "Palmerston North City",
+  "frequency": "Weekly",
+  "idMarcControlNumber": "3531229",
+  "idNZNewspapersV1": "12005",
+  "isCurrent": true,
+  "placecode": "08-05",
+  "placename": "Palmerston North",
+  "price": "Gratis",
+  "region": "Manawatu-Wanganui",
+  "sources": {
+    "2013-04-02T08:58:38.000Z": "Extracted from the New Zealand National Bibliography (MARC record 3531229) downloaded March 2013.",
+    "2014-05-07T09:47:32.000Z": "Modified by DataBot"
+  },
+  "revision": 6
+}

@@ -1,0 +1,20 @@
+{
+  "id": 1038,
+  "title": "Northern Chronicle",
+  "genre": "Newspaper",
+  "firstYear": "1902",
+  "finalYear": "1902",
+  "district": "Whangarei District",
+  "frequency": "Weekly",
+  "idMarcControlNumber": "8176429",
+  "idNZNewspapersV1": "66122",
+  "isCurrent": false,
+  "placecode": "01-02",
+  "placename": "Whangarei",
+  "region": "Northland",
+  "sources": {
+    "2013-04-02T08:58:38.000Z": "Extracted from the New Zealand National Bibliography (MARC record 8176429) downloaded March 2013.",
+    "2014-05-07T09:18:49.000Z": "Modified by DataBot"
+  },
+  "revision": 4
+}

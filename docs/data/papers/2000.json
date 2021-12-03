@@ -1,0 +1,20 @@
+{
+  "id": 2000,
+  "title": "Golden Coast Gazette",
+  "genre": "Newspaper",
+  "firstYear": "1963",
+  "finalYear": "uuuu",
+  "district": "Kapiti Coast District",
+  "frequency": "Fortnightly",
+  "idMarcControlNumber": "8142289",
+  "idNZNewspapersV1": "71074",
+  "isCurrent": false,
+  "placecode": "09-02",
+  "placename": "Paraparaumu",
+  "region": "Wellington",
+  "sources": {
+    "2013-04-02T08:58:38.000Z": "Extracted from the New Zealand National Bibliography (MARC record 8142289) downloaded March 2013.",
+    "2014-05-07T08:56:59.000Z": "Modified by DataBot"
+  },
+  "revision": 4
+}

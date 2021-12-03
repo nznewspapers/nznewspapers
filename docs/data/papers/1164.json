@@ -1,0 +1,20 @@
+{
+  "id": 1164,
+  "title": "City and West End News",
+  "genre": "Newspaper",
+  "firstYear": "1971",
+  "finalYear": "1973",
+  "district": "Auckland",
+  "frequency": "Weekly",
+  "idMarcControlNumber": "8134995",
+  "idNZNewspapersV1": "61049",
+  "isCurrent": false,
+  "placecode": "02-01",
+  "placename": "Ponsonby",
+  "region": "Auckland",
+  "sources": {
+    "2013-04-02T08:58:38.000Z": "Extracted from the New Zealand National Bibliography (MARC record 8134995) downloaded March 2013.",
+    "2014-05-07T09:14:27.000Z": "Modified by DataBot"
+  },
+  "revision": 4
+}

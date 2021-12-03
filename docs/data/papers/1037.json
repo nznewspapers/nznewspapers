@@ -1,0 +1,25 @@
+{
+  "id": 1037,
+  "title": "Marsden Times and Whangarei County Official Gazette",
+  "genre": "Newspaper",
+  "firstYear": "1892",
+  "finalYear": "1894",
+  "district": "Whangarei District",
+  "idMarcControlNumber": "8167548",
+  "idNZNewspapersV1": "71095",
+  "isCurrent": false,
+  "placecode": "01-02",
+  "placename": "Whangarei",
+  "region": "Northland",
+  "links": {
+    "1036": {
+      "direction": "Preceding",
+      "relationship": "Incorporates",
+      "target-description": "Kamo &  Hikurangi Echo"
+    }
+  },
+  "sources": {
+    "2013-04-02T08:58:38.000Z": "Extracted from the New Zealand National Bibliography (MARC record 8167548) downloaded March 2013."
+  },
+  "revision": 3
+}

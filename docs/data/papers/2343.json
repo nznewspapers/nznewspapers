@@ -1,0 +1,27 @@
+{
+  "id": 2343,
+  "title": "Hokitika Guardian [2008]",
+  "genre": "Newspaper",
+  "firstYear": "2008",
+  "finalYear": "9999",
+  "district": "Westland District",
+  "frequency": "Four issues per week",
+  "idMarcControlNumber": "11634222",
+  "idNZNewspapersV1": "10063",
+  "isCurrent": true,
+  "placecode": "11-03",
+  "placename": "Hokitika",
+  "region": "West Coast",
+  "urlCurrent": "http://www.greystar.co.nz/advertising/hokitika-guardian",
+  "links": {
+    "2342": {
+      "direction": "Continues",
+      "target-description": "West Coast Times [1988]"
+    }
+  },
+  "sources": {
+    "2013-04-02T08:58:38.000Z": "Extracted from the New Zealand National Bibliography (MARC record 11634222) downloaded March 2013.",
+    "2014-04-27T23:27:13.000Z": "Modified by DataBot"
+  },
+  "revision": 5
+}

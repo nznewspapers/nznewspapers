@@ -1,0 +1,21 @@
+{
+  "id": 2832,
+  "title": "TOM (Okato Ed.)",
+  "genre": "Periodical",
+  "firstYear": "2007",
+  "finalYear": "9999",
+  "district": "New Plymouth District",
+  "frequency": "Monthly",
+  "idMarcControlNumber": "11538685",
+  "idNZNewspapersV1": "13051",
+  "isCurrent": true,
+  "placecode": "07-01",
+  "placename": "Oakura",
+  "region": "Taranaki",
+  "urlCurrent": "http://tompapers.com/archives.html",
+  "sources": {
+    "2013-04-02T08:58:38.000Z": "Extracted from the New Zealand National Bibliography (MARC record 11538685) downloaded March 2013.",
+    "2014-05-07T08:59:41.000Z": "Modified by DataBot"
+  },
+  "revision": 4
+}

@@ -1,0 +1,26 @@
+{
+  "id": 1064,
+  "title": "The Kopuru Bell",
+  "genre": "Newspaper",
+  "firstYear": "1889",
+  "finalYear": "1890",
+  "district": "Kaipara District",
+  "idNZNewspapersV1": "950001",
+  "isCurrent": false,
+  "placecode": "01-03",
+  "placename": "Dargaville",
+  "region": "Northland",
+  "notes": {
+    "940002": "Actually published in Te Koporu."
+  },
+  "links": {
+    "1065": {
+      "direction": "Continued By",
+      "target-description": "Wairoa Bell"
+    }
+  },
+  "sources": {
+    "2013-11-04T10:44:14.000Z": "Modified by gordon.paynter"
+  },
+  "revision": 5
+}

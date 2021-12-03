@@ -1,0 +1,20 @@
+{
+  "id": 2141,
+  "title": "New Zealand Critic",
+  "genre": "Newspaper",
+  "firstYear": "1925",
+  "finalYear": "19uu",
+  "district": "Wellington City",
+  "frequency": "Weekly",
+  "idMarcControlNumber": "5366586",
+  "idNZNewspapersV1": "13031",
+  "isCurrent": false,
+  "placecode": "09-08-wellington",
+  "placename": "Wellington",
+  "region": "Wellington",
+  "sources": {
+    "2013-04-02T08:58:38.000Z": "Extracted from the New Zealand National Bibliography (MARC record 5366586) downloaded March 2013.",
+    "2014-05-07T09:12:50.000Z": "Modified by DataBot"
+  },
+  "revision": 4
+}

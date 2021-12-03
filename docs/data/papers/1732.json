@@ -1,0 +1,26 @@
+{
+  "id": 1732,
+  "title": "Hastings Evening Star",
+  "genre": "Newspaper",
+  "firstYear": "1886",
+  "finalYear": "1888",
+  "district": "Hastings District",
+  "frequency": "Daily",
+  "idMarcControlNumber": "8156592",
+  "idNZNewspapersV1": "69106",
+  "isCurrent": false,
+  "placecode": "06-02",
+  "placename": "Hastings",
+  "region": "Hawke's Bay",
+  "links": {
+    "1731": {
+      "direction": "Continues",
+      "target-description": "Hastings Star"
+    }
+  },
+  "sources": {
+    "2013-04-02T08:58:38.000Z": "Extracted from the New Zealand National Bibliography (MARC record 8156592) downloaded March 2013.",
+    "2014-04-10T09:50:39.000Z": "Modified by gordon.paynter"
+  },
+  "revision": 5
+}

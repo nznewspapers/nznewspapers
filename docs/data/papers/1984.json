@@ -1,0 +1,36 @@
+{
+  "id": 1984,
+  "title": "Wairarapa Daily Times",
+  "genre": "Newspaper",
+  "firstYear": "1892",
+  "finalYear": "1938",
+  "district": "Masterton District",
+  "finalIssueDate": "1938-03-31",
+  "firstIssueDate": "1892-03-15",
+  "frequency": "Daily",
+  "idMarcControlNumber": "8185373",
+  "idNZNewspapersV1": "4053",
+  "idPapersPastCode": "WDT",
+  "isCurrent": false,
+  "placecode": "09-01",
+  "placename": "Masterton",
+  "region": "Wellington",
+  "urlDigitized": "http://paperspast.natlib.govt.nz/cgi-bin/paperspast?a=d&cl=CL1.WDT",
+  "links": {
+    "1981": {
+      "direction": "Preceding",
+      "relationship": "Continues",
+      "target-description": "Wairarapa Daily"
+    },
+    "1989": {
+      "direction": "Succeeding",
+      "relationship": "Merged into",
+      "target-description": "Wairarapa Times-Age"
+    }
+  },
+  "sources": {
+    "2013-04-02T08:58:38.000Z": "Extracted from the New Zealand National Bibliography (MARC record 8185373) downloaded March 2013.",
+    "2014-03-21T11:43:55.000Z": "Modified by DataBot"
+  },
+  "revision": 12
+}

@@ -1,0 +1,26 @@
+{
+  "id": 1790,
+  "title": "CHB Mail",
+  "genre": "Newspaper",
+  "firstYear": "1988",
+  "finalYear": "9999",
+  "district": "Central Hawke's Bay District",
+  "idMarcControlNumber": "3601356",
+  "idNZNewspapersV1": "3016",
+  "isCurrent": true,
+  "placecode": "06-04",
+  "placename": "Waipukurau",
+  "region": "Hawke's Bay",
+  "urlCurrent": "https://www.facebook.com/pages/CHB-Mail/469272733094746",
+  "links": {
+    "1788": {
+      "direction": "Continues",
+      "target-description": "Mail"
+    }
+  },
+  "sources": {
+    "2013-04-02T08:58:38.000Z": "Extracted from the New Zealand National Bibliography (MARC record 3601356) downloaded March 2013.",
+    "2014-04-10T11:00:09.000Z": "Modified by gordon.paynter"
+  },
+  "revision": 3
+}

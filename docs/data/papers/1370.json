@@ -1,0 +1,20 @@
+{
+  "id": 1370,
+  "title": "Sandringham Star",
+  "genre": "Newspaper",
+  "firstYear": "1956",
+  "finalYear": "1967",
+  "district": "Auckland",
+  "frequency": "Monthly",
+  "idMarcControlNumber": "8181631",
+  "idNZNewspapersV1": "66141",
+  "isCurrent": false,
+  "placecode": "02-01-auckland",
+  "placename": "Auckland",
+  "region": "Auckland",
+  "sources": {
+    "2013-04-02T08:58:38.000Z": "Extracted from the New Zealand National Bibliography (MARC record 8181631) downloaded March 2013.",
+    "2014-05-07T09:02:51.000Z": "Modified by DataBot"
+  },
+  "revision": 4
+}

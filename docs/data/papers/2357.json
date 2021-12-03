@@ -1,0 +1,19 @@
+{
+  "id": 2357,
+  "title": "Plains Express",
+  "genre": "Newspaper",
+  "firstYear": "1988",
+  "finalYear": "1996",
+  "district": "Selwyn District",
+  "idMarcControlNumber": "4512093",
+  "idNZNewspapersV1": "14292639",
+  "isCurrent": false,
+  "placecode": "12-03",
+  "placename": "Leeston",
+  "region": "Canterbury",
+  "sources": {
+    "2013-04-02T08:58:38.000Z": "Extracted from the New Zealand National Bibliography (MARC record 4512093) downloaded March 2013.",
+    "2014-04-23T10:12:00.000Z": "Modified by MarcLoaderBot"
+  },
+  "revision": 2
+}

@@ -1,0 +1,35 @@
+{
+  "id": 2106,
+  "title": "New Zealand Times",
+  "genre": "Newspaper",
+  "firstYear": "1874",
+  "finalYear": "1927",
+  "district": "Wellington City",
+  "firstIssueDate": "1874-06-01",
+  "frequency": "Daily",
+  "idMarcControlNumber": "4680808",
+  "idNZNewspapersV1": "5025",
+  "idPapersPastCode": "WI",
+  "isCurrent": false,
+  "placecode": "09-08-wellington",
+  "placename": "Wellington",
+  "region": "Wellington",
+  "urlDigitized": "http://paperspast.natlib.govt.nz/cgi-bin/paperspast?a=d&cl=CL1.WI",
+  "links": {
+    "2072": {
+      "direction": "Preceding",
+      "relationship": "Continues",
+      "target-description": "Wellington Independent"
+    },
+    "2133": {
+      "direction": "Succeeding",
+      "relationship": "Absorbed by",
+      "target-description": "The Dominion"
+    }
+  },
+  "sources": {
+    "2013-04-02T08:58:38.000Z": "Extracted from the New Zealand National Bibliography (MARC record 4680808) downloaded March 2013.",
+    "2014-03-21T11:29:17.000Z": "Modified by DataBot"
+  },
+  "revision": 10
+}

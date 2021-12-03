@@ -1,0 +1,19 @@
+{
+  "id": 3001,
+  "title": "Pacific Star Auckland",
+  "genre": "Duplicate",
+  "firstYear": "19uu",
+  "finalYear": "2001",
+  "district": "Auckland",
+  "idMarcControlNumber": "5938122",
+  "idNZNewspapersV1": "14242648",
+  "isCurrent": false,
+  "placecode": "02-01",
+  "placename": "Auckland",
+  "region": "Auckland",
+  "sources": {
+    "2013-04-02T08:58:38.000Z": "Extracted from the New Zealand National Bibliography (MARC record 5938122) downloaded March 2013.",
+    "2014-05-15T04:18:00.000Z": "Modified by DataBot"
+  },
+  "revision": 2
+}

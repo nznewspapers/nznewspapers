@@ -1,0 +1,18 @@
+{
+  "id": 2919,
+  "title": "Kaiapoi Mail",
+  "genre": "Periodical",
+  "firstYear": "1989",
+  "finalYear": "1999",
+  "district": "Waimakariri District",
+  "idMarcControlNumber": "3678325",
+  "idNZNewspapersV1": "10012",
+  "isCurrent": false,
+  "placecode": "12-04",
+  "placename": "Kaiapoi",
+  "region": "Canterbury",
+  "sources": {
+    "2013-04-02T08:58:38.000Z": "Extracted from the New Zealand National Bibliography (MARC record 3678325) downloaded March 2013."
+  },
+  "revision": 2
+}

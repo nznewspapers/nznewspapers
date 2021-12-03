@@ -1,0 +1,29 @@
+{
+  "id": 1947,
+  "title": "Dannevirke News",
+  "genre": "Newspaper",
+  "firstYear": "2003",
+  "finalYear": "9999",
+  "district": "Tararua District",
+  "frequency": "Daily (except Sunday)",
+  "idMarcControlNumber": "8175930",
+  "idNZNewspapersV1": "1047",
+  "isCurrent": true,
+  "placecode": "08-06",
+  "placename": "Dannevirke",
+  "region": "Manawatu-Wanganui",
+  "notes": {
+    "578001": "Issued with Hawke's Bay Today (in the Dannevirke and Tararua areas only)"
+  },
+  "links": {
+    "1946": {
+      "direction": "Continues",
+      "target-description": "Dannevirke and  District Evening News"
+    }
+  },
+  "sources": {
+    "2013-04-02T08:58:38.000Z": "Extracted from the New Zealand National Bibliography (MARC record 8175930) downloaded March 2013.",
+    "2014-03-21T11:49:23.000Z": "Modified by DataBot"
+  },
+  "revision": 7
+}

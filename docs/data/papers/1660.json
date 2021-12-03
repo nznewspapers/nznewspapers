@@ -1,0 +1,17 @@
+{
+  "id": 1660,
+  "title": "Opotiki Mail",
+  "genre": "Newspaper",
+  "firstYear": "1899",
+  "finalYear": "1891",
+  "district": "Opotiki District",
+  "idNZNewspapersV1": "323001",
+  "isCurrent": false,
+  "placecode": "04-03",
+  "placename": "Opotiki",
+  "region": "Bay of Plenty",
+  "sources": {
+    "2013-06-02T08:08:40.000Z": "Modified by gordon.paynter"
+  },
+  "revision": 2
+}

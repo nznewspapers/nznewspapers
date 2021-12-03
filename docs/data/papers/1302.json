@@ -1,0 +1,36 @@
+{
+  "id": 1302,
+  "title": "Weekly News and Weekly Herald",
+  "genre": "Newspaper",
+  "firstYear": "1877",
+  "finalYear": "1877",
+  "district": "Auckland",
+  "frequency": "Weekly",
+  "idMarcControlNumber": "8187384",
+  "idNZNewspapersV1": "63171",
+  "isCurrent": false,
+  "placecode": "02-01-auckland",
+  "placename": "Auckland",
+  "region": "Auckland",
+  "links": {
+    "1295": {
+      "direction": "Preceding",
+      "relationship": "Formed by union",
+      "target-description": "Weekly News"
+    },
+    "1296": {
+      "direction": "Preceding",
+      "relationship": "Formed by union",
+      "target-description": "Weekly Herald"
+    },
+    "1303": {
+      "direction": "Continued By",
+      "target-description": "Auckland Weekly News"
+    }
+  },
+  "sources": {
+    "2013-04-02T08:58:38.000Z": "Extracted from the New Zealand National Bibliography (MARC record 8187384) downloaded March 2013.",
+    "2015-01-21T10:36:57.000Z": "Modified by gordon.paynter"
+  },
+  "revision": 7
+}

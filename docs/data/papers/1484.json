@@ -1,0 +1,20 @@
+{
+  "id": 1484,
+  "title": "Golden Age",
+  "genre": "Newspaper",
+  "firstYear": "1897",
+  "finalYear": "1903",
+  "district": "Thames-Coromandel District",
+  "frequency": "Two issues per week",
+  "idMarcControlNumber": "8142281",
+  "idNZNewspapersV1": "69102",
+  "isCurrent": false,
+  "placecode": "03-01",
+  "placename": "Waitekauri",
+  "region": "Waikato",
+  "sources": {
+    "2013-04-02T08:58:38.000Z": "Extracted from the New Zealand National Bibliography (MARC record 8142281) downloaded March 2013.",
+    "2014-05-07T09:06:23.000Z": "Modified by DataBot"
+  },
+  "revision": 4
+}

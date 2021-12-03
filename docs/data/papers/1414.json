@@ -1,0 +1,18 @@
+{
+  "id": 1414,
+  "title": "Sing Tao weekly",
+  "genre": "Newspaper",
+  "firstYear": "1989",
+  "finalYear": "1991",
+  "district": "Auckland",
+  "idMarcControlNumber": "3489453",
+  "idNZNewspapersV1": "7003",
+  "isCurrent": false,
+  "placecode": "02-01-auckland",
+  "placename": "Auckland",
+  "region": "Auckland",
+  "sources": {
+    "2013-04-02T08:58:38.000Z": "Extracted from the New Zealand National Bibliography (MARC record 3489453) downloaded March 2013."
+  },
+  "revision": 2
+}

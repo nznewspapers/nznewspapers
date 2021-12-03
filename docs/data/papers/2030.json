@@ -1,0 +1,37 @@
+{
+  "id": 2030,
+  "title": "Leader [1939-1970]",
+  "genre": "Masthead",
+  "firstYear": "1939",
+  "finalYear": "1970",
+  "district": "Upper Hutt City",
+  "finalIssueDate": "1970-12-02",
+  "firstIssueDate": "1939-06-29",
+  "frequency": "Weekly",
+  "idMarcControlNumber": "8164472",
+  "idNZNewspapersV1": "70100",
+  "isCurrent": false,
+  "placecode": "09-05",
+  "placename": "Upper Hutt",
+  "region": "Wellington",
+  "urlDigitized": "http://newspaperarchives.uhcc.govt.nz/",
+  "links": {
+    "2029": {
+      "direction": "Continues",
+      "target-description": "Upper Hutt Leader"
+    },
+    "2031": {
+      "direction": "Is Masthead Of",
+      "target-description": "Upper Hutt Leader"
+    },
+    "2033": {
+      "direction": "Continued By",
+      "target-description": "Upper Hutt Leader [1970-]"
+    }
+  },
+  "sources": {
+    "2013-04-02T08:58:38.000Z": "Extracted from the New Zealand National Bibliography (MARC record 8164472) downloaded March 2013.",
+    "2014-05-07T09:16:46.000Z": "Modified by DataBot"
+  },
+  "revision": 11
+}

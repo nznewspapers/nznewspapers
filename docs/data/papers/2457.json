@@ -1,0 +1,31 @@
+{
+  "id": 2457,
+  "title": "NewsPlus",
+  "genre": "Newspaper",
+  "firstYear": "1989",
+  "finalYear": "1990",
+  "district": "Christchurch City",
+  "idMarcControlNumber": "3678323",
+  "idNZNewspapersV1": "1015",
+  "isCurrent": false,
+  "placecode": "12-05-christchur",
+  "placename": "Christchurch",
+  "region": "Canterbury",
+  "links": {
+    "2355": {
+      "direction": "Preceding",
+      "relationship": "Continues",
+      "target-description": "Central Canterbury News"
+    },
+    "2395": {
+      "direction": "Succeeding",
+      "relationship": "Continued by",
+      "target-description": "Central Canterbury News (1990)"
+    }
+  },
+  "sources": {
+    "2013-04-02T08:58:38.000Z": "Extracted from the New Zealand National Bibliography (MARC record 3678323) downloaded March 2013.",
+    "2013-04-25T09:48:34.000Z": "Modified by gordon.paynter"
+  },
+  "revision": 4
+}

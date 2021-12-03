@@ -1,0 +1,29 @@
+{
+  "id": 1547,
+  "title": "North Waikato News",
+  "genre": "Newspaper",
+  "firstYear": "2001",
+  "finalYear": "9999",
+  "district": "Waikato District",
+  "frequency": "Weekly",
+  "idMarcControlNumber": "8579593",
+  "idNZNewspapersV1": "13044",
+  "isCurrent": true,
+  "placecode": "03-03",
+  "placename": "Huntly",
+  "price": "Gratis",
+  "region": "Waikato",
+  "urlCurrent": "http://e-edition.northwaikatonews.co.nz/",
+  "links": {
+    "1546": {
+      "direction": "Preceding",
+      "relationship": "Continues",
+      "target-description": "North Waikato Tatler"
+    }
+  },
+  "sources": {
+    "2013-04-02T08:58:38.000Z": "Extracted from the New Zealand National Bibliography (MARC record 8579593) downloaded March 2013.",
+    "2014-05-18T11:50:16.000Z": "Modified by gordon.paynter"
+  },
+  "revision": 7
+}

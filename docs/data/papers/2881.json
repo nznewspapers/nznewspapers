@@ -1,0 +1,27 @@
+{
+  "id": 2881,
+  "title": "South Auckland Farm Review",
+  "genre": "Periodical",
+  "firstYear": "196u",
+  "finalYear": "1970",
+  "district": "Wellington City",
+  "frequency": "Monthly",
+  "idMarcControlNumber": "13250692",
+  "idNZNewspapersV1": "11058",
+  "isCurrent": false,
+  "placecode": "09-08-wellington",
+  "placename": "Wellington",
+  "region": "Wellington",
+  "links": {
+    "undefined-unknown": {
+      "direction": "Succeeding",
+      "relationship": "Continued by",
+      "target-description": "Northern farm review"
+    }
+  },
+  "sources": {
+    "2013-04-02T08:58:38.000Z": "Extracted from the New Zealand National Bibliography (MARC record 13250692) downloaded March 2013.",
+    "2014-05-07T08:59:51.000Z": "Modified by DataBot"
+  },
+  "revision": 5
+}

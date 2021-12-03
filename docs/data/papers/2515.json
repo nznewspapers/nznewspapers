@@ -1,0 +1,20 @@
+{
+  "id": 2515,
+  "title": "Twizel Newsletter",
+  "genre": "Newspaper",
+  "firstYear": "1971",
+  "finalYear": "1971",
+  "district": "Mackenzie District",
+  "frequency": "Weekly",
+  "idMarcControlNumber": "8184351",
+  "idNZNewspapersV1": "63149",
+  "isCurrent": false,
+  "placecode": "12-07",
+  "placename": "Twizel",
+  "region": "Canterbury",
+  "sources": {
+    "2013-04-02T08:58:38.000Z": "Extracted from the New Zealand National Bibliography (MARC record 8184351) downloaded March 2013.",
+    "2014-05-07T09:21:38.000Z": "Modified by DataBot"
+  },
+  "revision": 4
+}

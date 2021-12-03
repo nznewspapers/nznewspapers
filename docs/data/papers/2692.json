@@ -1,0 +1,21 @@
+{
+  "id": 2692,
+  "title": "The Invercargill eye",
+  "genre": "Newspaper",
+  "firstYear": "200u",
+  "finalYear": "2010",
+  "district": "Southland District",
+  "frequency": "Weekly",
+  "idMarcControlNumber": "13148080",
+  "idNZNewspapersV1": "12047",
+  "isCurrent": false,
+  "placecode": "14-01",
+  "placename": "Invercargill",
+  "price": "Gratis",
+  "region": "Southland",
+  "sources": {
+    "2013-04-02T08:58:38.000Z": "Extracted from the New Zealand National Bibliography (MARC record 13148080) downloaded March 2013.",
+    "2014-05-07T09:46:50.000Z": "Modified by DataBot"
+  },
+  "revision": 6
+}

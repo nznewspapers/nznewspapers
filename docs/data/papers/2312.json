@@ -1,0 +1,30 @@
+{
+  "id": 2312,
+  "title": "Evening Star [Greymouth]",
+  "genre": "Masthead",
+  "firstYear": "1866",
+  "finalYear": "1901",
+  "district": "Grey District",
+  "frequency": "Daily",
+  "idMarcControlNumber": "8141941",
+  "idNZNewspapersV1": "63063",
+  "isCurrent": false,
+  "placecode": "11-02",
+  "placename": "Greymouth",
+  "region": "West Coast",
+  "links": {
+    "2313": {
+      "direction": "Is Masthead Of",
+      "target-description": "Greymouth Evening Star"
+    },
+    "2314": {
+      "direction": "Continued By",
+      "target-description": "Greymouth Evening Star"
+    }
+  },
+  "sources": {
+    "2013-04-02T08:58:38.000Z": "Extracted from the New Zealand National Bibliography (MARC record 8141941) downloaded March 2013.",
+    "2014-04-12T11:35:55.000Z": "Modified by gordon.paynter"
+  },
+  "revision": 6
+}

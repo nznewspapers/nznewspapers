@@ -1,0 +1,20 @@
+{
+  "id": 1023,
+  "title": "Hokianga Herald",
+  "genre": "Newspaper",
+  "firstYear": "1977",
+  "finalYear": "1978",
+  "district": "Far North District",
+  "frequency": "Monthly",
+  "idMarcControlNumber": "8156966",
+  "idNZNewspapersV1": "67094",
+  "isCurrent": false,
+  "placecode": "01-01",
+  "placename": "Rawene",
+  "region": "Northland",
+  "sources": {
+    "2013-04-02T08:58:38.000Z": "Extracted from the New Zealand National Bibliography (MARC record 8156966) downloaded March 2013.",
+    "2014-05-07T09:01:50.000Z": "Modified by DataBot"
+  },
+  "revision": 4
+}

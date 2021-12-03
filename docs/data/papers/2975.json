@@ -1,0 +1,20 @@
+{
+  "id": 2975,
+  "title": "Manapouri Messenger",
+  "genre": "Periodical",
+  "firstYear": "1967",
+  "finalYear": "1969",
+  "district": "Unknown District",
+  "frequency": "Monthly",
+  "idMarcControlNumber": "7238527",
+  "idNZNewspapersV1": "1042",
+  "isCurrent": false,
+  "placecode": "unknown",
+  "placename": "Manapouri",
+  "region": "Unknown Region",
+  "sources": {
+    "2013-04-02T08:58:38.000Z": "Extracted from the New Zealand National Bibliography (MARC record 7238527) downloaded March 2013.",
+    "2014-05-07T09:01:04.000Z": "Modified by DataBot"
+  },
+  "revision": 4
+}

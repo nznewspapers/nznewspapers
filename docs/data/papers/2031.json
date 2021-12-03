@@ -1,0 +1,34 @@
+{
+  "id": 2031,
+  "title": "Upper Hutt Leader",
+  "genre": "Newspaper",
+  "firstYear": "1939",
+  "finalYear": "9999",
+  "district": "Upper Hutt City",
+  "firstIssueDate": "1939-01-06",
+  "idNZNewspapersV1": "509009",
+  "isCurrent": true,
+  "placecode": "09-05",
+  "placename": "Upper Hutt",
+  "region": "Wellington",
+  "urlCurrent": "http://upperhuttleader.co.nz",
+  "urlDigitized": "http://newspaperarchives.uhcc.govt.nz/",
+  "links": {
+    "2029": {
+      "direction": "Has Masthead",
+      "target-description": "Upper Hutt Leader [1939]"
+    },
+    "2030": {
+      "direction": "Has Masthead",
+      "target-description": "Leader [1939-1970]"
+    },
+    "2033": {
+      "direction": "Has Masthead",
+      "target-description": "Upper Hutt Leader [1970-]"
+    }
+  },
+  "sources": {
+    "2013-09-21T10:50:58.000Z": "Modified by gordon.paynter"
+  },
+  "revision": 7
+}

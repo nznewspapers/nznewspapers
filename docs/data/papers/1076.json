@@ -1,0 +1,20 @@
+{
+  "id": 1076,
+  "title": "The Auckland Budget",
+  "genre": "Newspaper",
+  "firstYear": "1867",
+  "finalYear": "1uuu",
+  "district": "Auckland",
+  "frequency": "Weekly",
+  "idMarcControlNumber": "5104409",
+  "idNZNewspapersV1": "28",
+  "isCurrent": false,
+  "placecode": "02-01",
+  "placename": "Auckland",
+  "region": "Auckland",
+  "sources": {
+    "2013-04-02T08:58:38.000Z": "Extracted from the New Zealand National Bibliography (MARC record 5104409) downloaded March 2013.",
+    "2014-05-16T03:05:13.000Z": "Modified by gordon.paynter"
+  },
+  "revision": 4
+}

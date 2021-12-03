@@ -1,0 +1,20 @@
+{
+  "id": 2584,
+  "title": "Illustrated New Zealander",
+  "genre": "Newspaper",
+  "firstYear": "1866",
+  "finalYear": "uuuu",
+  "district": "Dunedin City",
+  "frequency": "Monthly",
+  "idMarcControlNumber": "8159044",
+  "idNZNewspapersV1": "62078",
+  "isCurrent": false,
+  "placecode": "13-03",
+  "placename": "Dunedin",
+  "region": "Otago",
+  "sources": {
+    "2013-04-02T08:58:38.000Z": "Extracted from the New Zealand National Bibliography (MARC record 8159044) downloaded March 2013.",
+    "2014-05-07T09:01:58.000Z": "Modified by DataBot"
+  },
+  "revision": 4
+}

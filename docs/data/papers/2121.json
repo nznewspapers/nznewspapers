@@ -1,0 +1,20 @@
+{
+  "id": 2121,
+  "title": "Newtown Advocate (1895)",
+  "genre": "Newspaper",
+  "firstYear": "1895",
+  "finalYear": "1uuu",
+  "district": "Wellington City",
+  "frequency": "Weekly",
+  "idMarcControlNumber": "7586687",
+  "idNZNewspapersV1": "38",
+  "isCurrent": false,
+  "placecode": "09-08-wellington",
+  "placename": "Wellington",
+  "region": "Wellington",
+  "sources": {
+    "2013-04-02T08:58:38.000Z": "Extracted from the New Zealand National Bibliography (MARC record 7586687) downloaded March 2013.",
+    "2014-05-07T09:13:30.000Z": "Modified by DataBot"
+  },
+  "revision": 4
+}

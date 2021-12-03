@@ -1,0 +1,27 @@
+{
+  "id": 1945,
+  "title": "Bush Telegraph (Pahiatua)",
+  "genre": "Newspaper",
+  "firstYear": "1977",
+  "finalYear": "9999",
+  "district": "Tararua District",
+  "idMarcControlNumber": "3531198",
+  "idNZNewspapersV1": "2006",
+  "isCurrent": true,
+  "placecode": "08-06",
+  "placename": "Pahiatua",
+  "price": "Gratis",
+  "region": "Manawatu-Wanganui",
+  "links": {
+    "undefined-unknown": {
+      "direction": "Preceding",
+      "relationship": "Continues",
+      "target-description": "North Wairarapa news"
+    }
+  },
+  "sources": {
+    "2013-04-02T08:58:38.000Z": "Extracted from the New Zealand National Bibliography (MARC record 3531198) downloaded March 2013.",
+    "2014-05-07T09:47:10.000Z": "Modified by DataBot"
+  },
+  "revision": 5
+}

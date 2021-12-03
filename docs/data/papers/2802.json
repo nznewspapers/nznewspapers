@@ -1,0 +1,21 @@
+{
+  "id": 2802,
+  "title": "Country News",
+  "genre": "Periodical",
+  "firstYear": "1998",
+  "finalYear": "2011",
+  "district": "Tauranga City",
+  "frequency": "Monthly",
+  "idMarcControlNumber": "4248725",
+  "idNZNewspapersV1": "1024",
+  "isCurrent": false,
+  "placecode": "04-02",
+  "placename": "Tauranga",
+  "price": "Gratis",
+  "region": "Bay of Plenty",
+  "sources": {
+    "2013-04-02T08:58:38.000Z": "Extracted from the New Zealand National Bibliography (MARC record 4248725) downloaded March 2013.",
+    "2014-05-07T09:48:34.000Z": "Modified by DataBot"
+  },
+  "revision": 6
+}

@@ -1,0 +1,20 @@
+{
+  "id": 2264,
+  "title": "Wairau Record and Marlborough Advertiser",
+  "genre": "Newspaper",
+  "firstYear": "1864",
+  "finalYear": "uuuu",
+  "district": "Marlborough District",
+  "frequency": "Weekly",
+  "idMarcControlNumber": "8185428",
+  "idNZNewspapersV1": "66178",
+  "isCurrent": false,
+  "placecode": "10-03",
+  "placename": "Blenheim",
+  "region": "Top of the South",
+  "sources": {
+    "2013-04-02T08:58:38.000Z": "Extracted from the New Zealand National Bibliography (MARC record 8185428) downloaded March 2013.",
+    "2014-05-07T09:22:08.000Z": "Modified by DataBot"
+  },
+  "revision": 4
+}

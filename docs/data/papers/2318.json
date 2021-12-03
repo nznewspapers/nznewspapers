@@ -1,0 +1,21 @@
+{
+  "id": 2318,
+  "title": "The West Coast Messenger",
+  "genre": "Newspaper",
+  "firstYear": "1997",
+  "finalYear": "9999",
+  "district": "Grey District",
+  "frequency": "Weekly",
+  "idMarcControlNumber": "3227533",
+  "idNZNewspapersV1": "7002",
+  "isCurrent": true,
+  "placecode": "11-02",
+  "placename": "Greymouth",
+  "price": "Gratis",
+  "region": "West Coast",
+  "sources": {
+    "2013-04-02T08:58:38.000Z": "Extracted from the New Zealand National Bibliography (MARC record 3227533) downloaded March 2013.",
+    "2014-05-07T09:47:01.000Z": "Modified by DataBot"
+  },
+  "revision": 6
+}

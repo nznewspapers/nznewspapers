@@ -1,0 +1,26 @@
+{
+  "id": 1545,
+  "title": "Huntly Press Expressions",
+  "genre": "Weekly Edition",
+  "firstYear": "1993",
+  "finalYear": "1994",
+  "district": "Waikato District",
+  "idMarcControlNumber": "4274905",
+  "idNZNewspapersV1": "14015",
+  "isCurrent": false,
+  "placecode": "03-03",
+  "placename": "Huntly",
+  "price": "Gratis",
+  "region": "Waikato",
+  "links": {
+    "1529": {
+      "direction": "Is Edition Of",
+      "target-description": "Huntly Press and District Gazette"
+    }
+  },
+  "sources": {
+    "2013-04-02T08:58:38.000Z": "Extracted from the New Zealand National Bibliography (MARC record 4274905) downloaded March 2013.",
+    "2014-05-18T11:33:55.000Z": "Modified by gordon.paynter"
+  },
+  "revision": 5
+}

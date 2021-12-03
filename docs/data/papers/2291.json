@@ -1,0 +1,27 @@
+{
+  "id": 2291,
+  "title": "Inangahua Herald",
+  "genre": "Newspaper",
+  "firstYear": "1872",
+  "finalYear": "1936",
+  "district": "Buller District",
+  "frequency": "Daily",
+  "idMarcControlNumber": "8159245",
+  "idNZNewspapersV1": "59087",
+  "isCurrent": false,
+  "placecode": "11-01",
+  "placename": "Reefton",
+  "region": "West Coast",
+  "links": {
+    "2297": {
+      "direction": "Succeeding",
+      "relationship": "Absorbed by",
+      "target-description": "The  Inangahua Times"
+    }
+  },
+  "sources": {
+    "2013-04-02T08:58:38.000Z": "Extracted from the New Zealand National Bibliography (MARC record 8159245) downloaded March 2013.",
+    "2014-03-21T11:36:53.000Z": "Modified by DataBot"
+  },
+  "revision": 5
+}

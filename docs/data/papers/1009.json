@@ -1,0 +1,32 @@
+{
+  "id": 1009,
+  "title": "Bay of Islands Luminary",
+  "genre": "Newspaper",
+  "firstYear": "1910",
+  "finalYear": "1942",
+  "district": "Far North District",
+  "frequency": "Two issues per week",
+  "idMarcControlNumber": "8131749",
+  "idNZNewspapersV1": "67063",
+  "isCurrent": false,
+  "placecode": "01-01",
+  "placename": "Kawakawa",
+  "region": "Northland",
+  "links": {
+    "1003": {
+      "direction": "Preceding",
+      "relationship": "Continues",
+      "target-description": "Northern Luminary"
+    },
+    "1019": {
+      "direction": "Succeeding",
+      "relationship": "Continued by",
+      "target-description": "Luminary"
+    }
+  },
+  "sources": {
+    "2013-04-02T08:58:38.000Z": "Extracted from the New Zealand National Bibliography (MARC record 8131749) downloaded March 2013.",
+    "2014-05-07T09:05:59.000Z": "Modified by DataBot"
+  },
+  "revision": 6
+}

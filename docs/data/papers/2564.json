@@ -1,0 +1,20 @@
+{
+  "id": 2564,
+  "title": "The Cromwell Argus, and Northern Gold-fields Gazette",
+  "genre": "Newspaper",
+  "firstYear": "1869",
+  "finalYear": "1948",
+  "district": "Central Otago District",
+  "frequency": "Weekly",
+  "idMarcControlNumber": "5094216",
+  "idNZNewspapersV1": "14028",
+  "isCurrent": false,
+  "placecode": "13-02",
+  "placename": "Cromwell",
+  "region": "Otago",
+  "sources": {
+    "2013-04-02T08:58:38.000Z": "Extracted from the New Zealand National Bibliography (MARC record 5094216) downloaded March 2013.",
+    "2014-05-07T09:12:33.000Z": "Modified by DataBot"
+  },
+  "revision": 4
+}

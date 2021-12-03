@@ -1,0 +1,18 @@
+{
+  "id": 2379,
+  "title": "Lyttelton Chronicle and Peninsula News",
+  "genre": "Newspaper",
+  "firstYear": "1865",
+  "finalYear": "uuuu",
+  "district": "Christchurch City",
+  "idMarcControlNumber": "8164629",
+  "idNZNewspapersV1": "64100",
+  "isCurrent": false,
+  "placecode": "12-05",
+  "placename": "Lyttelton",
+  "region": "Canterbury",
+  "sources": {
+    "2013-04-02T08:58:38.000Z": "Extracted from the New Zealand National Bibliography (MARC record 8164629) downloaded March 2013."
+  },
+  "revision": 2
+}

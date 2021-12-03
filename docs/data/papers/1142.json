@@ -1,0 +1,20 @@
+{
+  "id": 1142,
+  "title": "News Leader",
+  "genre": "Newspaper",
+  "firstYear": "1963",
+  "finalYear": "uuuu",
+  "district": "Auckland",
+  "frequency": "Weekly",
+  "idMarcControlNumber": "8173664",
+  "idNZNewspapersV1": "70124",
+  "isCurrent": false,
+  "placecode": "02-01",
+  "placename": "New Lynn",
+  "region": "Auckland",
+  "sources": {
+    "2013-04-02T08:58:38.000Z": "Extracted from the New Zealand National Bibliography (MARC record 8173664) downloaded March 2013.",
+    "2014-05-07T09:18:20.000Z": "Modified by DataBot"
+  },
+  "revision": 4
+}

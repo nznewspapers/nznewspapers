@@ -1,0 +1,20 @@
+{
+  "id": 2671,
+  "title": "Southlander",
+  "genre": "Newspaper",
+  "firstYear": "1882",
+  "finalYear": "1930",
+  "district": "Southland District",
+  "frequency": "Weekly",
+  "idMarcControlNumber": "8181923",
+  "idNZNewspapersV1": "70154",
+  "isCurrent": false,
+  "placecode": "14-01",
+  "placename": "Invercargill",
+  "region": "Southland",
+  "sources": {
+    "2013-04-02T08:58:38.000Z": "Extracted from the New Zealand National Bibliography (MARC record 8181923) downloaded March 2013.",
+    "2014-05-07T09:20:27.000Z": "Modified by DataBot"
+  },
+  "revision": 4
+}

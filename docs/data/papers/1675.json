@@ -1,0 +1,29 @@
+{
+  "id": 1675,
+  "title": "Rotorua Times",
+  "genre": "Newspaper",
+  "firstYear": "1910",
+  "finalYear": "1916",
+  "district": "Rotorua District",
+  "idNZNewspapersV1": "406002",
+  "isCurrent": false,
+  "placecode": "04-05",
+  "placename": "Rotorua",
+  "region": "Bay of Plenty",
+  "links": {
+    "1674": {
+      "direction": "Preceding",
+      "relationship": "Continues",
+      "target-description": "Wonderland Gazette and Rotorua Times"
+    },
+    "1676": {
+      "direction": "Succeeding",
+      "relationship": "Merged into",
+      "target-description": "Rotorua Chronicle"
+    }
+  },
+  "sources": {
+    "2013-07-01T10:11:59.000Z": "Modified by gordon.paynter"
+  },
+  "revision": 4
+}

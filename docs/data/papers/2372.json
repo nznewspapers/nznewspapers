@@ -1,0 +1,20 @@
+{
+  "id": 2372,
+  "title": "Kaiapoi Record (1979)",
+  "genre": "Newspaper",
+  "firstYear": "1979",
+  "finalYear": "1983",
+  "district": "Waimakariri District",
+  "frequency": "Fortnightly",
+  "idMarcControlNumber": "8159754",
+  "idNZNewspapersV1": "71081",
+  "isCurrent": false,
+  "placecode": "12-04",
+  "placename": "Kaiapoi",
+  "region": "Canterbury",
+  "sources": {
+    "2013-04-02T08:58:38.000Z": "Extracted from the New Zealand National Bibliography (MARC record 8159754) downloaded March 2013.",
+    "2014-05-07T08:57:08.000Z": "Modified by DataBot"
+  },
+  "revision": 4
+}

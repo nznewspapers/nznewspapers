@@ -1,0 +1,38 @@
+{
+  "id": 1971,
+  "title": "Horowhenua & Kapiti News",
+  "genre": "Newspaper",
+  "firstYear": "19uu",
+  "finalYear": "2007",
+  "district": "Horowhenua District",
+  "idMarcControlNumber": "3988980",
+  "idNZNewspapersV1": "14332627",
+  "isCurrent": false,
+  "placecode": "08-07",
+  "placename": "Levin",
+  "region": "Manawatu-Wanganui",
+  "links": {
+    "1950": {
+      "direction": "Succeeding",
+      "relationship": "Absorbed By",
+      "target-description": "Horowhenua Chronicle"
+    },
+    "1970": {
+      "direction": "Has Masthead",
+      "target-description": "Kapiti-Horowhenua News"
+    },
+    "1972": {
+      "direction": "Has Masthead",
+      "target-description": "Horowhenua News"
+    },
+    "1973": {
+      "direction": "Has Masthead",
+      "target-description": "Horowhenua &  Kapiti News"
+    }
+  },
+  "sources": {
+    "2013-04-02T08:58:38.000Z": "Extracted from the New Zealand National Bibliography (MARC record 3988980) downloaded March 2013.",
+    "2014-05-31T09:32:15.000Z": "Modified by gordon.paynter"
+  },
+  "revision": 6
+}

@@ -1,0 +1,29 @@
+{
+  "id": 2829,
+  "title": "The Oakura Messenger : TOM",
+  "genre": "Periodical",
+  "firstYear": "2000",
+  "finalYear": "2007",
+  "district": "New Plymouth District",
+  "frequency": "Monthly",
+  "idMarcControlNumber": "8695182",
+  "idNZNewspapersV1": "48",
+  "isCurrent": false,
+  "placecode": "07-01",
+  "placename": "Oakura",
+  "price": "Gratis",
+  "region": "Taranaki",
+  "urlCurrent": "http://www.tompapers.com/",
+  "links": {
+    "undefined-unknown": {
+      "direction": "Succeeding",
+      "relationship": "Continued by",
+      "target-description": "TOM"
+    }
+  },
+  "sources": {
+    "2013-04-02T08:58:38.000Z": "Extracted from the New Zealand National Bibliography (MARC record 8695182) downloaded March 2013.",
+    "2014-05-07T09:51:08.000Z": "Modified by DataBot"
+  },
+  "revision": 7
+}

@@ -1,0 +1,31 @@
+{
+  "id": 2313,
+  "title": "Greymouth Evening Star",
+  "genre": "Newspaper",
+  "firstYear": "1866",
+  "finalYear": "2006",
+  "district": "Grey District",
+  "idNZNewspapersV1": "11931353",
+  "isCurrent": false,
+  "placecode": "11-02",
+  "placename": "Greymouth",
+  "region": "West Coast",
+  "links": {
+    "2312": {
+      "direction": "Has Masthead",
+      "target-description": "Evening Star [Greymouth]"
+    },
+    "2314": {
+      "direction": "Has Masthead",
+      "target-description": "Greymouth Evening Star"
+    },
+    "2320": {
+      "direction": "Continued By",
+      "target-description": "Greymouth Star"
+    }
+  },
+  "sources": {
+    "2014-04-12T11:37:27.000Z": "Modified by gordon.paynter"
+  },
+  "revision": 5
+}

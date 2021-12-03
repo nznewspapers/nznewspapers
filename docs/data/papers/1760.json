@@ -1,0 +1,30 @@
+{
+  "id": 1760,
+  "title": "The Hawke's Bay Weekly Times",
+  "genre": "Weekly Edition",
+  "firstYear": "1865",
+  "finalYear": "1868",
+  "description": "1868-12-28",
+  "district": "Napier City",
+  "firstIssueDate": "1865-02-06",
+  "frequency": "Weekly",
+  "idMarcControlNumber": "6310565",
+  "idNZNewspapersV1": "2042",
+  "idPapersPastCode": "HBWT",
+  "isCurrent": false,
+  "placecode": "06-03",
+  "placename": "Napier",
+  "region": "Hawke's Bay",
+  "urlDigitized": "http://paperspast.natlib.govt.nz/cgi-bin/paperspast?a=d&cl=CL1.HBWT",
+  "links": {
+    "1758": {
+      "direction": "Is Edition Of",
+      "target-description": "Hawke's Bay Times"
+    }
+  },
+  "sources": {
+    "2013-04-02T08:58:38.000Z": "Extracted from the New Zealand National Bibliography (MARC record 6310565) downloaded March 2013.",
+    "2014-05-15T04:28:56.000Z": "Modified by DataBot"
+  },
+  "revision": 11
+}

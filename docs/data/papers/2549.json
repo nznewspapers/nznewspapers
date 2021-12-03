@@ -1,0 +1,30 @@
+{
+  "id": 2549,
+  "title": "Evening Mail",
+  "genre": "Newspaper",
+  "firstYear": "1876",
+  "finalYear": "1879",
+  "district": "Waitaki District",
+  "finalIssueDate": "1879-02-28",
+  "firstIssueDate": "1876-04-26",
+  "frequency": "Daily (except Sunday)",
+  "idMarcControlNumber": "8141796",
+  "idNZNewspapersV1": "66069",
+  "idPapersPastCode": "OAM",
+  "isCurrent": false,
+  "placecode": "12-10",
+  "placename": "Oamaru",
+  "region": "Canterbury",
+  "urlDigitized": "http://paperspast.natlib.govt.nz/cgi-bin/paperspast?a=d&cl=CL1.OAM",
+  "links": {
+    "2551": {
+      "direction": "Continued By",
+      "target-description": "Oamaru Mail"
+    }
+  },
+  "sources": {
+    "2013-04-02T08:58:38.000Z": "Extracted from the New Zealand National Bibliography (MARC record 8141796) downloaded March 2013.",
+    "2014-03-21T11:49:17.000Z": "Modified by DataBot"
+  },
+  "revision": 11
+}

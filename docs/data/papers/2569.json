@@ -1,0 +1,19 @@
+{
+  "id": 2569,
+  "title": "Central Sun",
+  "genre": "Newspaper",
+  "firstYear": "1982",
+  "finalYear": "1982",
+  "district": "Central Otago District",
+  "idMarcControlNumber": "8134559",
+  "idNZNewspapersV1": "14242645",
+  "isCurrent": false,
+  "placecode": "13-02",
+  "placename": "Alexandra",
+  "region": "Otago",
+  "sources": {
+    "2013-04-02T08:58:38.000Z": "Extracted from the New Zealand National Bibliography (MARC record 8134559) downloaded March 2013.",
+    "2014-04-23T10:09:53.000Z": "Modified by MarcLoaderBot"
+  },
+  "revision": 2
+}

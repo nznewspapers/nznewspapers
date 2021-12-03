@@ -1,0 +1,25 @@
+{
+  "id": 2598,
+  "title": "Morning Herald",
+  "genre": "Newspaper",
+  "firstYear": "1877",
+  "finalYear": "1884",
+  "district": "Dunedin City",
+  "idMarcControlNumber": "4869509",
+  "idNZNewspapersV1": "10031",
+  "isCurrent": false,
+  "placecode": "13-03",
+  "placename": "Dunedin",
+  "region": "Otago",
+  "links": {
+    "2604": {
+      "direction": "Continued By",
+      "target-description": "Evening Herald"
+    }
+  },
+  "sources": {
+    "2013-04-02T08:58:38.000Z": "Extracted from the New Zealand National Bibliography (MARC record 4869509) downloaded March 2013.",
+    "2014-04-12T12:41:47.000Z": "Modified by gordon.paynter"
+  },
+  "revision": 3
+}

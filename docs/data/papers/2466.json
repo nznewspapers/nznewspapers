@@ -1,0 +1,20 @@
+{
+  "id": 2466,
+  "title": "Banks Peninsula Times",
+  "genre": "Newspaper",
+  "firstYear": "1991",
+  "finalYear": "1992",
+  "district": "Christchurch City",
+  "frequency": "Fortnightly",
+  "idMarcControlNumber": "8131682",
+  "idNZNewspapersV1": "63043",
+  "isCurrent": false,
+  "placecode": "12-05-christchur",
+  "placename": "Christchurch",
+  "region": "Canterbury",
+  "sources": {
+    "2013-04-02T08:58:38.000Z": "Extracted from the New Zealand National Bibliography (MARC record 8131682) downloaded March 2013.",
+    "2014-05-07T08:56:44.000Z": "Modified by DataBot"
+  },
+  "revision": 4
+}

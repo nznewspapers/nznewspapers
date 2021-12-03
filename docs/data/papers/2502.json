@@ -1,0 +1,20 @@
+{
+  "id": 2502,
+  "title": "Mainland Press",
+  "genre": "Newspaper",
+  "firstYear": "2011",
+  "finalYear": "2012",
+  "district": "Christchurch City",
+  "frequency": "Weekly",
+  "idMarcControlNumber": "13624570",
+  "idNZNewspapersV1": "59184",
+  "isCurrent": false,
+  "placecode": "12-05-christchur",
+  "placename": "Christchurch",
+  "region": "Canterbury",
+  "sources": {
+    "2013-04-02T08:58:38.000Z": "Extracted from the New Zealand National Bibliography (MARC record 13624570) downloaded March 2013.",
+    "2014-05-07T09:09:48.000Z": "Modified by DataBot"
+  },
+  "revision": 4
+}

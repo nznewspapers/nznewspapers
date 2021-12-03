@@ -1,0 +1,26 @@
+{
+  "id": 1434,
+  "title": "Te Karere Maori",
+  "genre": "Newspaper",
+  "firstYear": "1999",
+  "finalYear": "1999",
+  "district": "Auckland",
+  "frequency": "Irregular",
+  "idMarcControlNumber": "5215522",
+  "idNZNewspapersV1": "11029",
+  "isCurrent": false,
+  "placecode": "02-01-auckland",
+  "placename": "Auckland",
+  "region": "Auckland",
+  "links": {
+    "1435": {
+      "direction": "Continued By",
+      "target-description": "Karere Maori News"
+    }
+  },
+  "sources": {
+    "2013-04-02T08:58:38.000Z": "Extracted from the New Zealand National Bibliography (MARC record 5215522) downloaded March 2013.",
+    "2014-05-16T02:47:54.000Z": "Modified by gordon.paynter"
+  },
+  "revision": 5
+}

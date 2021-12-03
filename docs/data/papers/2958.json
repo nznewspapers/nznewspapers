@@ -1,0 +1,20 @@
+{
+  "id": 2958,
+  "title": "Central sun : Otago's Brightest Newspaper",
+  "genre": "Periodical",
+  "firstYear": "1982",
+  "finalYear": "1982",
+  "district": "Central Otago District",
+  "frequency": "Fortnightly",
+  "idMarcControlNumber": "8134559",
+  "idNZNewspapersV1": "64058",
+  "isCurrent": false,
+  "placecode": "13-02",
+  "placename": "Alexandra",
+  "region": "Otago",
+  "sources": {
+    "2013-04-02T08:58:38.000Z": "Extracted from the New Zealand National Bibliography (MARC record 8134559) downloaded March 2013.",
+    "2014-05-07T08:56:50.000Z": "Modified by DataBot"
+  },
+  "revision": 4
+}

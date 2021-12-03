@@ -1,0 +1,30 @@
+{
+  "id": 1604,
+  "title": "Patea Mail [1875]",
+  "genre": "Masthead",
+  "firstYear": "1875",
+  "finalYear": "1880",
+  "district": "South Waikato District",
+  "frequency": "Two issues per week",
+  "idMarcControlNumber": "8177865",
+  "idNZNewspapersV1": "66132",
+  "isCurrent": false,
+  "placecode": "03-07",
+  "placename": "Patea",
+  "region": "Waikato",
+  "links": {
+    "1605": {
+      "direction": "Is Masthead Of",
+      "target-description": "Patea Mail"
+    },
+    "1606": {
+      "direction": "Continued By",
+      "target-description": "Patea County Mail"
+    }
+  },
+  "sources": {
+    "2013-04-02T08:58:38.000Z": "Extracted from the New Zealand National Bibliography (MARC record 8177865) downloaded March 2013.",
+    "2014-05-31T08:59:19.000Z": "Modified by DataBot"
+  },
+  "revision": 6
+}

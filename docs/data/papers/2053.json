@@ -1,0 +1,30 @@
+{
+  "id": 2053,
+  "title": "Courier News",
+  "genre": "Newspaper",
+  "firstYear": "1973",
+  "finalYear": "1981",
+  "district": "Hutt City",
+  "frequency": "Weekly",
+  "idMarcControlNumber": "8137242",
+  "idNZNewspapersV1": "68042",
+  "isCurrent": false,
+  "placecode": "09-07",
+  "placename": "Wainuiomata",
+  "region": "Wellington",
+  "links": {
+    "2050": {
+      "direction": "Continues",
+      "target-description": "Wainuiomata &  Eastern Bays Courier"
+    },
+    "2054": {
+      "direction": "Continued By",
+      "target-description": "Courier"
+    }
+  },
+  "sources": {
+    "2013-04-02T08:58:38.000Z": "Extracted from the New Zealand National Bibliography (MARC record 8137242) downloaded March 2013.",
+    "2014-11-19T08:52:38.000Z": "Modified by gordon.paynter"
+  },
+  "revision": 6
+}

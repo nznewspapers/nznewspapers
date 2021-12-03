@@ -1,0 +1,20 @@
+{
+  "id": 1997,
+  "title": "Paekakariki Progress",
+  "genre": "Newspaper",
+  "firstYear": "1949",
+  "finalYear": "1952",
+  "district": "Kapiti Coast District",
+  "frequency": "Fortnightly",
+  "idMarcControlNumber": "8177821",
+  "idNZNewspapersV1": "63122",
+  "isCurrent": false,
+  "placecode": "09-02",
+  "placename": "Paekakariki",
+  "region": "Wellington",
+  "sources": {
+    "2013-04-02T08:58:38.000Z": "Extracted from the New Zealand National Bibliography (MARC record 8177821) downloaded March 2013.",
+    "2014-05-07T08:57:37.000Z": "Modified by DataBot"
+  },
+  "revision": 4
+}

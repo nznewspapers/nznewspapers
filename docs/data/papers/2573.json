@@ -1,0 +1,31 @@
+{
+  "id": 2573,
+  "title": "Otago Daily Times",
+  "genre": "Newspaper",
+  "firstYear": "1861",
+  "finalYear": "9999",
+  "district": "Dunedin City",
+  "firstIssueDate": "1861-11-15",
+  "frequency": "Daily (except Sunday)",
+  "idMarcControlNumber": "4676041",
+  "idNZNewspapersV1": "8017",
+  "idPapersPastCode": "ODT",
+  "isCurrent": true,
+  "placecode": "13-03",
+  "placename": "Dunedin",
+  "region": "Otago",
+  "urlCurrent": "http://www.odt.co.nz/",
+  "urlDigitized": "http://paperspast.natlib.govt.nz/cgi-bin/paperspast?a=d&cl=CL1.ODT",
+  "links": {
+    "2591": {
+      "direction": "Preceding",
+      "relationship": "Incorporates",
+      "target-description": "Otago Guardian"
+    }
+  },
+  "sources": {
+    "2013-04-02T08:58:38.000Z": "Extracted from the New Zealand National Bibliography (MARC record 4676041) downloaded March 2013.",
+    "2014-04-12T12:38:44.000Z": "Modified by gordon.paynter"
+  },
+  "revision": 9
+}

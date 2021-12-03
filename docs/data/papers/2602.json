@@ -1,0 +1,20 @@
+{
+  "id": 2602,
+  "title": "Illustrated New Zealand News",
+  "genre": "Newspaper",
+  "firstYear": "1883",
+  "finalYear": "1887",
+  "district": "Dunedin City",
+  "frequency": "Monthly",
+  "idMarcControlNumber": "8159023",
+  "idNZNewspapersV1": "59086",
+  "isCurrent": false,
+  "placecode": "13-03",
+  "placename": "Dunedin",
+  "region": "Otago",
+  "sources": {
+    "2013-04-02T08:58:38.000Z": "Extracted from the New Zealand National Bibliography (MARC record 8159023) downloaded March 2013.",
+    "2014-05-07T09:01:57.000Z": "Modified by DataBot"
+  },
+  "revision": 4
+}

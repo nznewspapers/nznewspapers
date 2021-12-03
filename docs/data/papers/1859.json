@@ -1,0 +1,20 @@
+{
+  "id": 1859,
+  "title": "Rangitikei Advocate and Manawatu Argus",
+  "genre": "Newspaper",
+  "firstYear": "1875",
+  "finalYear": "1941",
+  "district": "Rangitikei District",
+  "frequency": "Daily",
+  "idMarcControlNumber": "8181412",
+  "idNZNewspapersV1": "63131",
+  "isCurrent": false,
+  "placecode": "08-02",
+  "placename": "Marton",
+  "region": "Manawatu-Wanganui",
+  "sources": {
+    "2013-04-02T08:58:38.000Z": "Extracted from the New Zealand National Bibliography (MARC record 8181412) downloaded March 2013.",
+    "2014-03-21T11:40:07.000Z": "Modified by DataBot"
+  },
+  "revision": 4
+}

@@ -1,0 +1,20 @@
+{
+  "id": 2585,
+  "title": "New Zealand Sun",
+  "genre": "Newspaper",
+  "firstYear": "1868",
+  "finalYear": "1869",
+  "district": "Dunedin City",
+  "frequency": "Daily",
+  "idMarcControlNumber": "8172535",
+  "idNZNewspapersV1": "58103",
+  "isCurrent": false,
+  "placecode": "13-03",
+  "placename": "Dunedin",
+  "region": "Otago",
+  "sources": {
+    "2013-04-02T08:58:38.000Z": "Extracted from the New Zealand National Bibliography (MARC record 8172535) downloaded March 2013.",
+    "2014-04-12T12:33:26.000Z": "Modified by gordon.paynter"
+  },
+  "revision": 4
+}

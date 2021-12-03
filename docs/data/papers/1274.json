@@ -1,0 +1,31 @@
+{
+  "id": 1274,
+  "title": "The Aucklander. South.",
+  "genre": "Alternate Edition",
+  "firstYear": "2010",
+  "finalYear": "2011",
+  "district": "Auckland",
+  "frequency": "Weekly",
+  "idMarcControlNumber": "13220034",
+  "idNZNewspapersV1": "5060",
+  "isCurrent": false,
+  "placecode": "02-01",
+  "placename": "Auckland",
+  "region": "Auckland",
+  "links": {
+    "1249": {
+      "direction": "Is Edition Of",
+      "target-description": "The Aucklander"
+    },
+    "1266": {
+      "direction": "Preceding",
+      "relationship": "Continues",
+      "target-description": "Aucklander Manukau City"
+    }
+  },
+  "sources": {
+    "2013-04-02T08:58:38.000Z": "Extracted from the New Zealand National Bibliography (MARC record 13220034) downloaded March 2013.",
+    "2015-01-21T10:26:47.000Z": "Modified by gordon.paynter"
+  },
+  "revision": 6
+}

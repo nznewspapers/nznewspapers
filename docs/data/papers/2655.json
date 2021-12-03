@@ -1,0 +1,51 @@
+{
+  "id": 2655,
+  "title": "Southland Daily News",
+  "genre": "Newspaper",
+  "firstYear": "1861",
+  "finalYear": "1968",
+  "district": "Southland District",
+  "idNZNewspapersV1": "12190171",
+  "isCurrent": false,
+  "placecode": "14-01",
+  "placename": "Invercargill",
+  "region": "Southland",
+  "links": {
+    "2654": {
+      "direction": "Has Masthead",
+      "target-description": "Southern News and  Foveaux Straits' Herald"
+    },
+    "2657": {
+      "direction": "Has Masthead",
+      "target-description": "Southland News"
+    },
+    "2660": {
+      "direction": "Has Masthead",
+      "target-description": "Daily News"
+    },
+    "2661": {
+      "direction": "Has Masthead",
+      "target-description": "Southland News (1864)"
+    },
+    "2664": {
+      "direction": "Has Masthead",
+      "target-description": "Daily News"
+    },
+    "2665": {
+      "direction": "Has Masthead",
+      "target-description": "Southland News (1866)"
+    },
+    "2669": {
+      "direction": "Has Masthead",
+      "target-description": "Southland Daily News"
+    },
+    "2683": {
+      "direction": "Has Masthead",
+      "target-description": "Southland News (1967)"
+    }
+  },
+  "sources": {
+    "2014-04-12T12:51:23.000Z": "Modified by DataBot"
+  },
+  "revision": 10
+}

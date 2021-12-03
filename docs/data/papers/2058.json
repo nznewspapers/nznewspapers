@@ -1,0 +1,20 @@
+{
+  "id": 2058,
+  "title": "Petone News",
+  "genre": "Newspaper",
+  "firstYear": "1983",
+  "finalYear": "1983",
+  "district": "Hutt City",
+  "frequency": "Weekly",
+  "idMarcControlNumber": "8177886",
+  "idNZNewspapersV1": "59130",
+  "isCurrent": false,
+  "placecode": "09-07",
+  "placename": "Petone",
+  "region": "Wellington",
+  "sources": {
+    "2013-04-02T08:58:38.000Z": "Extracted from the New Zealand National Bibliography (MARC record 8177886) downloaded March 2013.",
+    "2014-05-07T09:19:37.000Z": "Modified by DataBot"
+  },
+  "revision": 4
+}

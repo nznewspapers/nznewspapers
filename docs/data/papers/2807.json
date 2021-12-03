@@ -1,0 +1,28 @@
+{
+  "id": 2807,
+  "title": "County News (Rotorua)",
+  "genre": "Periodical",
+  "firstYear": "1978",
+  "finalYear": "1990",
+  "district": "Rotorua District",
+  "frequency": "Fortnightly",
+  "idMarcControlNumber": "3604343",
+  "idNZNewspapersV1": "13012",
+  "isCurrent": false,
+  "placecode": "04-05",
+  "placename": "Rotorua",
+  "price": "Gratis",
+  "region": "Bay of Plenty",
+  "links": {
+    "undefined-unknown": {
+      "direction": "Preceding",
+      "relationship": "Continues",
+      "target-description": "Reparoa report"
+    }
+  },
+  "sources": {
+    "2013-04-02T08:58:38.000Z": "Extracted from the New Zealand National Bibliography (MARC record 3604343) downloaded March 2013.",
+    "2014-05-07T09:47:55.000Z": "Modified by DataBot"
+  },
+  "revision": 7
+}

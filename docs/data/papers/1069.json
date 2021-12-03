@@ -1,0 +1,30 @@
+{
+  "id": 1069,
+  "title": "Northland Times",
+  "genre": "Newspaper",
+  "firstYear": "1949",
+  "finalYear": "1999",
+  "district": "Kaipara District",
+  "frequency": "Daily (except Sunday)",
+  "idMarcControlNumber": "3531214",
+  "idNZNewspapersV1": "5007",
+  "isCurrent": false,
+  "placecode": "01-03",
+  "placename": "Dargaville",
+  "region": "Northland",
+  "links": {
+    "1066": {
+      "direction": "Continues",
+      "target-description": "North Auckland Times"
+    },
+    "1071": {
+      "direction": "Continued By",
+      "target-description": "Northland Times and  Rodney Reporter"
+    }
+  },
+  "sources": {
+    "2013-04-02T08:58:38.000Z": "Extracted from the New Zealand National Bibliography (MARC record 3531214) downloaded March 2013.",
+    "2014-03-21T11:46:50.000Z": "Modified by DataBot"
+  },
+  "revision": 6
+}

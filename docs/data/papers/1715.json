@@ -1,0 +1,30 @@
+{
+  "id": 1715,
+  "title": "East Coast News and Waiapu County Gazette",
+  "genre": "Newspaper",
+  "firstYear": "1924",
+  "finalYear": "1931",
+  "district": "Gisborne District",
+  "frequency": "Weekly",
+  "idMarcControlNumber": "8138576",
+  "idNZNewspapersV1": "71062",
+  "isCurrent": false,
+  "placecode": "05-01",
+  "placename": "Tokomaru Bay",
+  "region": "Gisborne",
+  "links": {
+    "1714": {
+      "direction": "Continues",
+      "target-description": "East Coast Watch and  Waiapu County Advocate"
+    },
+    "1717": {
+      "direction": "Continued By",
+      "target-description": "East Coast Press"
+    }
+  },
+  "sources": {
+    "2013-04-02T08:58:38.000Z": "Extracted from the New Zealand National Bibliography (MARC record 8138576) downloaded March 2013.",
+    "2014-05-07T09:14:59.000Z": "Modified by DataBot"
+  },
+  "revision": 6
+}

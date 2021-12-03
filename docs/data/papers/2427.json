@@ -1,0 +1,20 @@
+{
+  "id": 2427,
+  "title": "Spectator",
+  "genre": "Newspaper",
+  "firstYear": "1895",
+  "finalYear": "1928",
+  "district": "Christchurch City",
+  "frequency": "Weekly",
+  "idMarcControlNumber": "8181945",
+  "idNZNewspapersV1": "71141",
+  "isCurrent": false,
+  "placecode": "12-05-christchur",
+  "placename": "Christchurch",
+  "region": "Canterbury",
+  "sources": {
+    "2013-04-02T08:58:38.000Z": "Extracted from the New Zealand National Bibliography (MARC record 8181945) downloaded March 2013.",
+    "2014-05-07T09:20:30.000Z": "Modified by DataBot"
+  },
+  "revision": 4
+}

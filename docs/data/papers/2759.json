@@ -1,0 +1,20 @@
+{
+  "id": 2759,
+  "title": "New Zealand Children's News",
+  "genre": "Periodical",
+  "firstYear": "19uu",
+  "finalYear": "19uu",
+  "district": "Auckland",
+  "frequency": "Fortnightly",
+  "idMarcControlNumber": "5511052",
+  "idNZNewspapersV1": "11031",
+  "isCurrent": false,
+  "placecode": "02-01-auckland",
+  "placename": "Auckland",
+  "region": "Auckland",
+  "sources": {
+    "2013-04-02T08:58:38.000Z": "Extracted from the New Zealand National Bibliography (MARC record 5511052) downloaded March 2013.",
+    "2014-05-07T08:56:20.000Z": "Modified by DataBot"
+  },
+  "revision": 4
+}

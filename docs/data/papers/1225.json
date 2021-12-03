@@ -1,0 +1,20 @@
+{
+  "id": 1225,
+  "title": "Waitakere Week North",
+  "genre": "Newspaper",
+  "firstYear": "1993",
+  "finalYear": "1994",
+  "district": "Auckland",
+  "frequency": "Weekly",
+  "idMarcControlNumber": "8185486",
+  "idNZNewspapersV1": "65176",
+  "isCurrent": false,
+  "placecode": "02-01",
+  "placename": "Henderson",
+  "region": "Auckland",
+  "sources": {
+    "2013-04-02T08:58:38.000Z": "Extracted from the New Zealand National Bibliography (MARC record 8185486) downloaded March 2013.",
+    "2014-05-07T09:22:10.000Z": "Modified by DataBot"
+  },
+  "revision": 4
+}

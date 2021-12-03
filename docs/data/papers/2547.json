@@ -1,0 +1,31 @@
+{
+  "id": 2547,
+  "title": "Oamaru Times and Waitaki Reporter",
+  "genre": "Newspaper",
+  "firstYear": "1864",
+  "finalYear": "1872",
+  "district": "Waitaki District",
+  "finalIssueDate": "1872-11-29",
+  "firstIssueDate": "1864-02-25",
+  "frequency": "Two issues per week",
+  "idMarcControlNumber": "6963046",
+  "idNZNewspapersV1": "10043",
+  "idPapersPastCode": "NOT",
+  "isCurrent": false,
+  "placecode": "12-10",
+  "placename": "Oamaru",
+  "region": "Canterbury",
+  "urlDigitized": "http://paperspast.natlib.govt.nz/cgi-bin/paperspast?a=d&cl=CL1.NOT",
+  "links": {
+    "2548": {
+      "direction": "Succeeding",
+      "relationship": "Continued by",
+      "target-description": "North Otago Times"
+    }
+  },
+  "sources": {
+    "2013-04-02T08:58:38.000Z": "Extracted from the New Zealand National Bibliography (MARC record 6963046) downloaded March 2013.",
+    "2014-05-07T09:05:56.000Z": "Modified by DataBot"
+  },
+  "revision": 11
+}

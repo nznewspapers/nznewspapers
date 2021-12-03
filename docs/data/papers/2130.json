@@ -1,0 +1,29 @@
+{
+  "id": 2130,
+  "title": "N.Z. Truth",
+  "genre": "Newspaper",
+  "firstYear": "1905",
+  "finalYear": "1988",
+  "district": "Wellington City",
+  "frequency": "Weekly",
+  "idMarcControlNumber": "8169271",
+  "idNZNewspapersV1": "70116",
+  "idPapersPastCode": "NZTR",
+  "isCurrent": false,
+  "placecode": "09-08-wellington",
+  "placename": "Wellington",
+  "region": "Wellington",
+  "urlDigitized": "http://paperspast.natlib.govt.nz/cgi-bin/paperspast?a=d&cl=CL1.NZTR",
+  "links": {
+    "1411": {
+      "direction": "Succeeding",
+      "relationship": "Continued by",
+      "target-description": "New  Truth &  TV  Extra"
+    }
+  },
+  "sources": {
+    "2013-04-02T08:58:38.000Z": "Extracted from the New Zealand National Bibliography (MARC record 8169271) downloaded March 2013.",
+    "2014-05-07T09:17:45.000Z": "Modified by DataBot"
+  },
+  "revision": 7
+}

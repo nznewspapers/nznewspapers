@@ -1,0 +1,31 @@
+{
+  "id": 2395,
+  "title": "Central Canterbury News (1990)",
+  "genre": "Newspaper",
+  "firstYear": "1990",
+  "finalYear": "9999",
+  "district": "Christchurch City",
+  "idMarcControlNumber": "3678328",
+  "idNZNewspapersV1": "8006",
+  "isCurrent": true,
+  "placecode": "12-05",
+  "placename": "Hornby",
+  "region": "Canterbury",
+  "urlCurrent": "http://www.stuff.co.nz/the-press/central-canterbury-news/",
+  "notes": {
+    "141003": "Digital edition: http://www.pressdisplay.com/pressdisplay/viewer.aspx?cid=1862",
+    "145002": "Some issues accompanied by Central South Island Farmer (quarterly)."
+  },
+  "links": {
+    "2457": {
+      "direction": "Preceding",
+      "relationship": "Continues",
+      "target-description": "NewsPlus"
+    }
+  },
+  "sources": {
+    "2013-04-02T08:58:38.000Z": "Extracted from the New Zealand National Bibliography (MARC record 3678328) downloaded March 2013.",
+    "2013-04-25T09:47:09.000Z": "Modified by gordon.paynter"
+  },
+  "revision": 7
+}

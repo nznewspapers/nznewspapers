@@ -1,0 +1,20 @@
+{
+  "id": 1768,
+  "title": "Everybody's Weekly News",
+  "genre": "Newspaper",
+  "firstYear": "1923",
+  "finalYear": "uuuu",
+  "district": "Napier City",
+  "frequency": "Weekly",
+  "idMarcControlNumber": "8142031",
+  "idNZNewspapersV1": "67085",
+  "isCurrent": false,
+  "placecode": "06-03",
+  "placename": "Napier",
+  "region": "Hawke's Bay",
+  "sources": {
+    "2013-04-02T08:58:38.000Z": "Extracted from the New Zealand National Bibliography (MARC record 8142031) downloaded March 2013.",
+    "2014-05-07T09:15:24.000Z": "Modified by DataBot"
+  },
+  "revision": 4
+}

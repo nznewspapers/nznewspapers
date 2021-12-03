@@ -1,0 +1,21 @@
+{
+  "id": 2946,
+  "title": "Nor'west News",
+  "genre": "Periodical",
+  "firstYear": "2003",
+  "finalYear": "9999",
+  "district": "Christchurch City",
+  "frequency": "Fortnightly",
+  "idMarcControlNumber": "8920364",
+  "idNZNewspapersV1": "3057",
+  "isCurrent": true,
+  "placecode": "12-05-christchur",
+  "placename": "Christchurch",
+  "price": "Gratis",
+  "region": "Canterbury",
+  "sources": {
+    "2013-04-02T08:58:38.000Z": "Extracted from the New Zealand National Bibliography (MARC record 8920364) downloaded March 2013.",
+    "2014-05-07T09:51:13.000Z": "Modified by DataBot"
+  },
+  "revision": 6
+}

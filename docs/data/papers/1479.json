@@ -1,0 +1,20 @@
+{
+  "id": 1479,
+  "title": "Thames Exchange, Miners' and Merchants' Directory",
+  "genre": "Newspaper",
+  "firstYear": "1874",
+  "finalYear": "uuuu",
+  "district": "Thames-Coromandel District",
+  "frequency": "Weekly",
+  "idMarcControlNumber": "8183956",
+  "idNZNewspapersV1": "60152",
+  "isCurrent": false,
+  "placecode": "03-01",
+  "placename": "Thames",
+  "region": "Waikato",
+  "sources": {
+    "2013-04-02T08:58:38.000Z": "Extracted from the New Zealand National Bibliography (MARC record 8183956) downloaded March 2013.",
+    "2014-05-07T09:08:08.000Z": "Modified by DataBot"
+  },
+  "revision": 4
+}

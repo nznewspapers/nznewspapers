@@ -1,0 +1,20 @@
+{
+  "id": 2336,
+  "title": "Ross and Okarito Advocate",
+  "genre": "Newspaper",
+  "firstYear": "1880",
+  "finalYear": "1908",
+  "district": "Westland District",
+  "frequency": "Two issues per week",
+  "idMarcControlNumber": "8181554",
+  "idNZNewspapersV1": "70146",
+  "isCurrent": false,
+  "placecode": "11-03",
+  "placename": "Ross",
+  "region": "West Coast",
+  "sources": {
+    "2013-04-02T08:58:38.000Z": "Extracted from the New Zealand National Bibliography (MARC record 8181554) downloaded March 2013.",
+    "2014-05-07T09:07:13.000Z": "Modified by DataBot"
+  },
+  "revision": 4
+}

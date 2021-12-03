@@ -1,0 +1,26 @@
+{
+  "id": 2011,
+  "title": "Wairarapa Weekly Observer and East and West Coast Advertiser",
+  "genre": "Weekly Edition",
+  "firstYear": "1882",
+  "finalYear": "1890",
+  "district": "Carterton District",
+  "frequency": "Weekly",
+  "idMarcControlNumber": "8185423",
+  "idNZNewspapersV1": "67169",
+  "isCurrent": false,
+  "placecode": "09-03",
+  "placename": "Carterton",
+  "region": "Wellington",
+  "links": {
+    "2010": {
+      "direction": "Is Edition Of",
+      "target-description": "Wairarapa Observer"
+    }
+  },
+  "sources": {
+    "2013-04-02T08:58:38.000Z": "Extracted from the New Zealand National Bibliography (MARC record 8185423) downloaded March 2013.",
+    "2014-05-15T04:30:58.000Z": "Modified by DataBot"
+  },
+  "revision": 5
+}

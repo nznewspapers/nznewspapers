@@ -1,0 +1,18 @@
+{
+  "id": 1886,
+  "title": "Te Whetu Marama o te Kotahitanga",
+  "genre": "Newspaper",
+  "firstYear": "1924",
+  "finalYear": "9999",
+  "district": "Wanganui District",
+  "idMarcControlNumber": "5043281",
+  "idNZNewspapersV1": "66035",
+  "isCurrent": true,
+  "placecode": "08-03",
+  "placename": "Whanganui",
+  "region": "Manawatu-Wanganui",
+  "sources": {
+    "2013-04-02T08:58:38.000Z": "Extracted from the New Zealand National Bibliography (MARC record 5043281) downloaded March 2013."
+  },
+  "revision": 2
+}

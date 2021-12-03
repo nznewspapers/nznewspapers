@@ -1,0 +1,27 @@
+{
+  "id": 1598,
+  "title": "Hamilton News (2010)",
+  "genre": "Newspaper",
+  "firstYear": "2010",
+  "finalYear": "9999",
+  "district": "Hamilton City",
+  "frequency": "Weekly",
+  "idMarcControlNumber": "13228474",
+  "idNZNewspapersV1": "3062",
+  "isCurrent": true,
+  "placecode": "03-05",
+  "placename": "Hamilton",
+  "region": "Waikato",
+  "links": {
+    "undefined-unknown": {
+      "direction": "Preceding",
+      "relationship": "Continues",
+      "target-description": "Hamilton this week"
+    }
+  },
+  "sources": {
+    "2013-04-02T08:58:38.000Z": "Extracted from the New Zealand National Bibliography (MARC record 13228474) downloaded March 2013.",
+    "2014-05-07T09:09:37.000Z": "Modified by DataBot"
+  },
+  "revision": 5
+}

@@ -1,0 +1,22 @@
+{
+  "id": 2810,
+  "title": "Takitimu",
+  "genre": "Periodical",
+  "firstYear": "1883",
+  "finalYear": "1883",
+  "district": "Gisborne District",
+  "frequency": "Fortnightly",
+  "idMarcControlNumber": "8183198",
+  "idNZNewspapersV1": "8034",
+  "isCurrent": false,
+  "placecode": "05-01",
+  "placename": "Gisborne",
+  "region": "Gisborne",
+  "urlCurrent": "http://nzdl.org/cgi-bin/library?gg=_cgiarggg_&e=d-00000-00---0niupepa--00-0--0-10-0---0---0prompt-10---4-------0-1l--11-en-50---20-about---00-0-1-00-11-1-0utfZz-8-00&a=d&c=niupepa&cl=CL1.20",
+  "urlDigitized": "http://nzdl.org/cgi-bin/library?gg=_cgiarggg_&e=d-00000-00---0niupepa--00-0--0-10-0---0---0prompt-10---4-------0-1l--11-en-50---20-about---00-0-1-00-11-1-0utfZz-8-00&a=d&c=niupepa&cl=CL1.20",
+  "sources": {
+    "2013-04-02T08:58:38.000Z": "Extracted from the New Zealand National Bibliography (MARC record 8183198) downloaded March 2013.",
+    "2014-05-16T03:17:59.000Z": "Modified by gordon.paynter"
+  },
+  "revision": 4
+}

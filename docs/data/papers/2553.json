@@ -1,0 +1,20 @@
+{
+  "id": 2553,
+  "title": "Otematata Chronicle",
+  "genre": "Newspaper",
+  "firstYear": "1960",
+  "finalYear": "1968",
+  "district": "Waitaki District",
+  "frequency": "Weekly",
+  "idMarcControlNumber": "8035849",
+  "idNZNewspapersV1": "4049",
+  "isCurrent": false,
+  "placecode": "12-10",
+  "placename": "Otematata",
+  "region": "Canterbury",
+  "sources": {
+    "2013-04-02T08:58:38.000Z": "Extracted from the New Zealand National Bibliography (MARC record 8035849) downloaded March 2013.",
+    "2014-04-27T23:27:22.000Z": "Modified by DataBot"
+  },
+  "revision": 4
+}

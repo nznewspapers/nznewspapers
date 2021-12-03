@@ -1,0 +1,20 @@
+{
+  "id": 2452,
+  "title": "Weekly Courier",
+  "genre": "Newspaper",
+  "firstYear": "1982",
+  "finalYear": "uuuu",
+  "district": "Christchurch City",
+  "frequency": "Monthly",
+  "idMarcControlNumber": "8411668",
+  "idNZNewspapersV1": "72175",
+  "isCurrent": false,
+  "placecode": "12-05-christchur",
+  "placename": "Christchurch",
+  "region": "Canterbury",
+  "sources": {
+    "2013-04-02T08:58:38.000Z": "Extracted from the New Zealand National Bibliography (MARC record 8411668) downloaded March 2013.",
+    "2014-05-07T09:03:30.000Z": "Modified by DataBot"
+  },
+  "revision": 4
+}

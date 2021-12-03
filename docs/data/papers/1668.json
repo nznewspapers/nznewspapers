@@ -1,0 +1,29 @@
+{
+  "id": 1668,
+  "title": "Whakatane Beacon",
+  "genre": "Newspaper",
+  "firstYear": "1966",
+  "finalYear": "9999",
+  "district": "Whakatane District",
+  "firstIssueDate": "1966-04-04",
+  "frequency": "Three issues per week",
+  "idMarcControlNumber": "3531263",
+  "idNZNewspapersV1": "12006",
+  "isCurrent": true,
+  "placecode": "04-04",
+  "placename": "Whakatane",
+  "region": "Bay of Plenty",
+  "urlCurrent": "http://www.whakatanebeacon.co.nz/",
+  "links": {
+    "1667": {
+      "direction": "Preceding",
+      "relationship": "Continues",
+      "target-description": "Bay  of  Plenty Beacon"
+    }
+  },
+  "sources": {
+    "2013-04-02T08:58:38.000Z": "Extracted from the New Zealand National Bibliography (MARC record 3531263) downloaded March 2013.",
+    "2014-05-07T09:03:53.000Z": "Modified by DataBot"
+  },
+  "revision": 7
+}

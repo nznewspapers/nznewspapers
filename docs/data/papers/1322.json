@@ -1,0 +1,20 @@
+{
+  "id": 1322,
+  "title": "Weekly Standard",
+  "genre": "Newspaper",
+  "firstYear": "1894",
+  "finalYear": "1984",
+  "district": "Auckland",
+  "frequency": "Weekly",
+  "idMarcControlNumber": "8187391",
+  "idNZNewspapersV1": "68163",
+  "isCurrent": false,
+  "placecode": "02-01-auckland",
+  "placename": "Auckland",
+  "region": "Auckland",
+  "sources": {
+    "2013-04-02T08:58:38.000Z": "Extracted from the New Zealand National Bibliography (MARC record 8187391) downloaded March 2013.",
+    "2014-05-07T09:22:49.000Z": "Modified by DataBot"
+  },
+  "revision": 4
+}

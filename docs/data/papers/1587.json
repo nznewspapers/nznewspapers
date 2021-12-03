@@ -1,0 +1,20 @@
+{
+  "id": 1587,
+  "title": "Glenview Gazette",
+  "genre": "Newspaper",
+  "firstYear": "1984",
+  "finalYear": "1985",
+  "district": "Hamilton City",
+  "frequency": "Monthly",
+  "idMarcControlNumber": "8142277",
+  "idNZNewspapersV1": "58062",
+  "isCurrent": false,
+  "placecode": "03-05",
+  "placename": "Hamilton",
+  "region": "Waikato",
+  "sources": {
+    "2013-04-02T08:58:38.000Z": "Extracted from the New Zealand National Bibliography (MARC record 8142277) downloaded March 2013.",
+    "2014-05-07T09:01:35.000Z": "Modified by DataBot"
+  },
+  "revision": 4
+}

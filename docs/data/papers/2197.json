@@ -1,0 +1,35 @@
+{
+  "id": 2197,
+  "title": "Contact (Wellington. 1991)",
+  "genre": "Newspaper",
+  "firstYear": "1991",
+  "finalYear": "2003",
+  "district": "Wellington City",
+  "idMarcControlNumber": "3888223",
+  "idNZNewspapersV1": "11014",
+  "isCurrent": false,
+  "placecode": "09-08-wellington",
+  "placename": "Wellington",
+  "region": "Wellington",
+  "links": {
+    "2195": {
+      "direction": "Preceding",
+      "relationship": "Continues",
+      "target-description": "Contact weekender"
+    },
+    "2201": {
+      "direction": "Succeeding",
+      "relationship": "Merged",
+      "target-description": "Norwester (Wellington, N.Z.)"
+    },
+    "2208": {
+      "direction": "Succeeding",
+      "relationship": "Merged",
+      "target-description": "Wellington contact"
+    }
+  },
+  "sources": {
+    "2013-04-02T08:58:38.000Z": "Extracted from the New Zealand National Bibliography (MARC record 3888223) downloaded March 2013."
+  },
+  "revision": 5
+}

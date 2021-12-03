@@ -1,0 +1,26 @@
+{
+  "id": 1823,
+  "title": "Taranaki Central Press",
+  "genre": "Newspaper",
+  "firstYear": "1936",
+  "finalYear": "1937",
+  "district": "Stratford District",
+  "frequency": "Daily",
+  "idMarcControlNumber": "8183550",
+  "idNZNewspapersV1": "66153",
+  "isCurrent": false,
+  "placecode": "07-02",
+  "placename": "Stratford",
+  "region": "Taranaki",
+  "links": {
+    "1822": {
+      "direction": "Continues",
+      "target-description": "Stratford Evening Post"
+    }
+  },
+  "sources": {
+    "2013-04-02T08:58:38.000Z": "Extracted from the New Zealand National Bibliography (MARC record 8183550) downloaded March 2013.",
+    "2014-04-10T11:06:24.000Z": "Modified by DataBot"
+  },
+  "revision": 5
+}

@@ -1,0 +1,32 @@
+{
+  "id": 2546,
+  "title": "Waimate Advertiser [1980]",
+  "genre": "Masthead",
+  "firstYear": "1980",
+  "finalYear": "2012",
+  "district": "Waimate District",
+  "finalIssueDate": "2012-07-25",
+  "firstIssueDate": "1980-01-16",
+  "idMarcControlNumber": "3531230",
+  "idNZNewspapersV1": "13007",
+  "isCurrent": false,
+  "placecode": "12-09",
+  "placename": "Waimate",
+  "region": "Canterbury",
+  "links": {
+    "2542": {
+      "direction": "Is Masthead Of",
+      "target-description": "The Waimate Daily Advertiser"
+    },
+    "2545": {
+      "direction": "Preceding",
+      "relationship": "Continues",
+      "target-description": "Waimate Daily Advertiser [1972]"
+    }
+  },
+  "sources": {
+    "2013-04-02T08:58:38.000Z": "Extracted from the New Zealand National Bibliography (MARC record 3531230) downloaded March 2013.",
+    "2014-04-12T12:28:43.000Z": "Modified by gordon.paynter"
+  },
+  "revision": 8
+}

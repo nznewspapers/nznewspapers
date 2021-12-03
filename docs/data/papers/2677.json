@@ -1,0 +1,20 @@
+{
+  "id": 2677,
+  "title": "Orepuki Advocate and Western District Advertiser",
+  "genre": "Newspaper",
+  "firstYear": "1901",
+  "finalYear": "1928",
+  "district": "Southland District",
+  "frequency": "Weekly",
+  "idMarcControlNumber": "8177736",
+  "idNZNewspapersV1": "72113",
+  "isCurrent": false,
+  "placecode": "14-01",
+  "placename": "Orepuki",
+  "region": "Southland",
+  "sources": {
+    "2013-04-02T08:58:38.000Z": "Extracted from the New Zealand National Bibliography (MARC record 8177736) downloaded March 2013.",
+    "2014-05-07T09:19:12.000Z": "Modified by DataBot"
+  },
+  "revision": 4
+}

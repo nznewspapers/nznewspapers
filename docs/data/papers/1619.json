@@ -1,0 +1,19 @@
+{
+  "id": 1619,
+  "title": "Pio Pio Post",
+  "genre": "Newspaper",
+  "firstYear": "1920",
+  "finalYear": "uuuu",
+  "district": "Waitomo District",
+  "idMarcControlNumber": "8180903",
+  "idNZNewspapersV1": "72122",
+  "isCurrent": false,
+  "placecode": "03-09",
+  "placename": "Pio Pio",
+  "region": "Waikato",
+  "sources": {
+    "2013-04-02T08:58:38.000Z": "Extracted from the New Zealand National Bibliography (MARC record 8180903) downloaded March 2013.",
+    "2013-05-10T10:02:35.000Z": "Modified by gordon.paynter"
+  },
+  "revision": 2
+}

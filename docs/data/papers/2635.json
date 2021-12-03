@@ -1,0 +1,27 @@
+{
+  "id": 2635,
+  "title": "Bruce Herald",
+  "genre": "Newspaper",
+  "firstYear": "1864",
+  "finalYear": "1971",
+  "district": "Clutha District",
+  "finalIssueDate": "1971-10-07",
+  "firstIssueDate": "1864-04-14",
+  "frequency": "Two issues per week",
+  "idMarcControlNumber": "8131982",
+  "idNZNewspapersV1": "2048",
+  "idPapersPastCode": "BH",
+  "isCurrent": false,
+  "placecode": "13-04",
+  "placename": "Milton",
+  "region": "Otago",
+  "urlDigitized": "http://paperspast.natlib.govt.nz/cgi-bin/paperspast?a=d&cl=CL1.BH",
+  "notes": {
+    "102015": "Place Tokomairiro until 1907."
+  },
+  "sources": {
+    "2013-04-02T08:58:38.000Z": "Extracted from the New Zealand National Bibliography (MARC record 8131982) downloaded March 2013.",
+    "2014-05-07T09:06:01.000Z": "Modified by DataBot"
+  },
+  "revision": 12
+}

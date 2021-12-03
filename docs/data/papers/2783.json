@@ -1,0 +1,27 @@
+{
+  "id": 2783,
+  "title": "Urban&Country",
+  "genre": "Periodical",
+  "firstYear": "2007",
+  "finalYear": "9999",
+  "district": "Matamata-Piako District",
+  "frequency": "Monthly",
+  "idMarcControlNumber": "11524975",
+  "idNZNewspapersV1": "10060",
+  "isCurrent": true,
+  "placecode": "03-04",
+  "placename": "Matamata",
+  "region": "Waikato",
+  "links": {
+    "2782": {
+      "direction": "Preceding",
+      "relationship": "Continues",
+      "target-description": "Country (Matamata, N.Z.)"
+    }
+  },
+  "sources": {
+    "2013-04-02T08:58:38.000Z": "Extracted from the New Zealand National Bibliography (MARC record 11524975) downloaded March 2013.",
+    "2014-05-07T08:59:38.000Z": "Modified by DataBot"
+  },
+  "revision": 5
+}

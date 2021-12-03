@@ -1,0 +1,26 @@
+{
+  "id": 2523,
+  "title": "Morning Post",
+  "genre": "Newspaper",
+  "firstYear": "1899",
+  "finalYear": "1901",
+  "district": "Timaru District",
+  "frequency": "Daily",
+  "idMarcControlNumber": "8167950",
+  "idNZNewspapersV1": "59098",
+  "isCurrent": false,
+  "placecode": "12-08",
+  "placename": "Timaru",
+  "region": "Canterbury",
+  "links": {
+    "2524": {
+      "direction": "Continued By",
+      "target-description": "Timaru Post"
+    }
+  },
+  "sources": {
+    "2013-04-02T08:58:38.000Z": "Extracted from the New Zealand National Bibliography (MARC record 8167950) downloaded March 2013.",
+    "2014-04-12T12:18:14.000Z": "Modified by gordon.paynter"
+  },
+  "revision": 5
+}

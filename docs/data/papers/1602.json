@@ -1,0 +1,27 @@
+{
+  "id": 1602,
+  "title": "Te Awamutu Courier",
+  "genre": "Newspaper",
+  "firstYear": "1936",
+  "finalYear": "9999",
+  "district": "Waipa District",
+  "frequency": "Two issues per week",
+  "idMarcControlNumber": "3531258",
+  "idNZNewspapersV1": "3013",
+  "isCurrent": true,
+  "placecode": "03-06",
+  "placename": "Te Awamutu",
+  "region": "Waikato",
+  "links": {
+    "undefined-unknown": {
+      "direction": "Preceding",
+      "relationship": "Continues",
+      "target-description": "Waipa post"
+    }
+  },
+  "sources": {
+    "2013-04-02T08:58:38.000Z": "Extracted from the New Zealand National Bibliography (MARC record 3531258) downloaded March 2013.",
+    "2014-05-07T09:05:44.000Z": "Modified by DataBot"
+  },
+  "revision": 5
+}
