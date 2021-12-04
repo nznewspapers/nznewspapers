@@ -60,7 +60,7 @@ function contentBox(newspaper) {
   appendText(aboutDiv, newspaper.title);
   if (newspaper.finalYear == 9999) {
     appendText(aboutDiv, " has been published since " + newspaper.firstYear);
-  } else if (newspaper.finalYear.endsWith('uu')) {
+  } else if (newspaper.finalYear.endsWith('u')) {
     appendText(
       aboutDiv,
       " was published from " +
