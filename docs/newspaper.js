@@ -60,6 +60,13 @@ function contentBox(newspaper) {
   appendText(aboutDiv, newspaper.title);
   if (newspaper.finalYear == 9999) {
     appendText(aboutDiv, " has been published since " + newspaper.firstYear);
+  } else if (newspaper.finalYear == "uuuu") {
+    appendText(
+      aboutDiv,
+      " was published from " +
+        newspaper.firstYear +
+        " to an unknown date"
+    );
   } else {
     appendText(
       aboutDiv,
