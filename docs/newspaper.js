@@ -17,14 +17,14 @@ async function getPaper() {
 }
 
 function prettyYear(year) {
-  if (year.endsWith("uu")) {
+  if (year.endsWith("uuuu")) {
+    return "an unknown date";
+  } else if (year.endsWith("uu")) {
     var century = year.substring(0, 2);
     return "sometime in the " + century + "00's";
   } else if (year.endsWith("u")) {
     var decade = year.substring(0, 3);
     return "sometime in the " + decade + "0's";
-  } else if (year.endsWith("uuuu")) {
-    return "an unknown date";
   } else {
     return year;
   }
