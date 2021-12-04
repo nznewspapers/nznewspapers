@@ -101,6 +101,11 @@ function contentBox(newspaper) {
     appendLink(aboutDiv, newspaper.urlCurrent, " View Online");
   }
 
+  var tableDiv = appendDiv(box, "Key Elements");
+  var tableText = document.createElement("h3");
+  tableText.textContent = "Key Elements";
+  tableDiv.appendChild(tableText);
+
   /* );<h3>About this title</h3>
 
       <p>
