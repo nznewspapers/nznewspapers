@@ -60,12 +60,24 @@ function contentBox(newspaper) {
   appendText(aboutDiv, newspaper.title);
   if (newspaper.finalYear == 9999) {
     appendText(aboutDiv, " has been published since " + newspaper.firstYear);
-  } else if (newspaper.finalYear.endsWith('u')) {
+  }
+  else if (newspaper.finalYear.endsWith('uu')) {
     appendText(
       aboutDiv,
       " was published from " +
         newspaper.firstYear +
         " to an unknown date"
+    ); 
+  }
+  else if (newspaper.finalYear.endsWith('u')) {
+    var decade = newspaper.finalYear.substring (0, 3);
+    appendText(
+      aboutDiv,
+      " was published from " +
+        newspaper.firstYear +
+        " to sometime in the " +
+        decade +
+        "0's"
     );
   } else {
     appendText(
