@@ -16,6 +16,20 @@ async function getPaper() {
   }
 }
 
+function prettyYear(year) {
+  if (year.endsWith("uuuu")) {
+    return "an unknown date";
+  } else if (year.endsWith("uu")) {
+    var century = year.substring(0, 2);
+    return "sometime in the " + century + "00's";
+  } else if (year.endsWith("u")) {
+    var decade = year.substring(0, 3);
+    return "sometime in the " + decade + "0's";
+  } else {
+    return year;
+  }
+}
+
 /**
  * Fill in the page title information.
  * @param {*} data Data describing the page comtent.
@@ -59,33 +73,17 @@ function contentBox(newspaper) {
   aboutDiv.appendChild(aboutText);
   appendText(aboutDiv, newspaper.title);
   if (newspaper.finalYear == 9999) {
-    appendText(aboutDiv, " has been published since " + newspaper.firstYear);
-  }
-  else if (newspaper.finalYear.endsWith('uu')) {
     appendText(
       aboutDiv,
-      " was published from " +
-        newspaper.firstYear +
-        " to an unknown date"
-    ); 
-  }
-  else if (newspaper.finalYear.endsWith('u')) {
-    var decade = newspaper.finalYear.substring (0, 3);
-    appendText(
-      aboutDiv,
-      " was published from " +
-        newspaper.firstYear +
-        " to sometime in the " +
-        decade +
-        "0's"
+      " has been published since " + prettyYear(newspaper.firstYear)
     );
   } else {
     appendText(
       aboutDiv,
       " was published from " +
-        newspaper.firstYear +
+        prettyYear(newspaper.firstYear) +
         " to " +
-        newspaper.finalYear
+        prettyYear(newspaper.finalYear)
     );
   }
   appendText(
