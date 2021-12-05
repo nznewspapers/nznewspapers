@@ -119,8 +119,71 @@ function contentBox(newspaper) {
     appendLink(aboutDiv, newspaper.urlCurrent, " View Online");
   }
 
-  // table attempt
+  // Insert Key Elements table
+  keyElements(box, newspaper);
 
+  linkTable(box, newspaper);
+
+  //links and the numbers- do we need these in the table? the link is already there under the "View Online" section of the "About" newspaper.
+  //direction --> is this needed
+
+  // Creating and adding data to third row of the table
+
+  /* );<h3>About this title</h3>
+
+      <p>
+        <em><span id="newspaper-title">Title</span></em>
+        has been published since <span class="first-year">1938</span> in
+        <a href="place?place=Opotiki">Opotiki</a>
+        (<a href="place?district=Opotiki District">Opotiki District</a>,
+        <a href="place?region=Bay of Plenty">Bay of Plenty</a>).
+
+        <a href="http://www.opotikinews.co.nz/">View online</a>.
+      </p> */
+}
+
+function linkTable(box, newspaper) {
+  var linkTableDiv = appendDiv(box, "links");
+
+  // Heading:
+  var linkTableText = document.createElement("h3");
+  linkTableText.textContent = "Link Table";
+  linkTableDiv.appendChild(linkTableText);
+
+  // Set up table
+  let linktable = document.createElement("table");
+  let linkthead = document.createElement("thead");
+  let linktbody = document.createElement("tbody");
+
+  var classAttr = document.createAttribute("class");
+  classAttr.value = "simpletable";
+  linktable.setAttributeNode(classAttr);
+
+  linktable.appendChild(linkthead);
+  linktable.appendChild(linktbody);
+
+  // Adding the entire table to the body tag
+  linkTableDiv.appendChild(linktable);
+
+  // Creating and adding data to the header row of the table
+  let row_1a = document.createElement("tr");
+  let heading_1a = document.createElement("th");
+  heading_1a.innerHTML = "Preceded By";
+  let heading_2a = document.createElement("th");
+  heading_2a.innerHTML = "Succeeded By";
+  let heading_3a = document.createElement("th");
+  heading_3a.innerHTML = "Related Links";
+
+  row_1a.appendChild(heading_1a);
+  row_1a.appendChild(heading_2a);
+  row_1a.appendChild(heading_3a);
+  linkthead.appendChild(row_1a);
+
+  //no comment...
+  appendRow(linktbody, "cat", newspaper.id);
+}
+
+function keyElements(box, newspaper) {
   var tableDiv = appendDiv(box, "elements");
   var tableText = document.createElement("h3");
   tableText.textContent = "Key Elements";
@@ -138,11 +201,9 @@ function contentBox(newspaper) {
   table.appendChild(tbody);
 
   // Adding the entire table to the body tag
-
   tableDiv.appendChild(table);
 
   // Creating and adding data to first row of the table
-
   let row_1 = document.createElement("tr");
   let heading_1 = document.createElement("th");
   heading_1.innerHTML = "Field";
@@ -153,24 +214,6 @@ function contentBox(newspaper) {
   row_1.appendChild(heading_2);
   thead.appendChild(row_1);
 
-  //"title": "Chronicle (Kerikeri)",
-  //"genre": "Newspaper",
-  //"firstYear": "1988",
-  //"finalYear": "2003",
-  //"district": "Far North District",
-  //"idMarcControlNumber": "3561188",
-  //"idNZNewspapersV1": "13011",
-  //"isCurrent": false,
-  //"placecode": "01-01",
-  // "placename": "Kerikeri",
-  // "region": "Northland",
-  // "links": {
-  //  "1031": {
-  //    "direction": "Succeeding",
-  //    "relationship": "Continued by",
-  //   "target-description": "Bay Chronicle"
-
-  // Creating and adding data to second row of the table
   appendRow(tbody, "Title", newspaper.title);
   appendRow(tbody, "Genre", newspaper.genre);
   appendRow(tbody, "First Year", newspaper.firstYear);
@@ -179,45 +222,10 @@ function contentBox(newspaper) {
   appendRow(tbody, "Frequency", newspaper.frequency);
   //took out the id numbers, is this useful?
   appendRow(tbody, "Is Current", newspaper.isCurrent);
-  //else if fuction- if it isn't current do or do not include?
-  appendRow(tbody, "Placecode", newspaper.placecode);
+  // appendRow(tbody, "Placecode", newspaper.placecode);
   appendRow(tbody, "Placename", newspaper.placename);
   appendRow(tbody, "Region", newspaper.region);
-  //links and the numbers- do we need these in the table? the link is already there under the "View Online" section of the "About" newspaper.
-  //direction --> is this needed
-
-  /* <head>
-    <meta charset="UTF-8"> </meta>
-    <meta http-equiv="X-UA-Compatible" content="IE=edge"> </meta>
-    <meta name="viewport" content="width=device-width, initial-scale=1.0"> </meta>
-    <title>Document</title>
-
-    <style>
-        table{
-            border-collapse: collapse;
-            border-spacing: 0;
-        }
-        th, td{
-            padding: 10px 20px;
-            border: 1px solid #000;
-        }
-    </style>
-
-</head> */
-
-  // Creating and adding data to third row of the table
-
-  /* );<h3>About this title</h3>
-
-      <p>
-        <em><span id="newspaper-title">Title</span></em>
-        has been published since <span class="first-year">1938</span> in
-        <a href="place?place=Opotiki">Opotiki</a>
-        (<a href="place?district=Opotiki District">Opotiki District</a>,
-        <a href="place?region=Bay of Plenty">Bay of Plenty</a>).
-
-        <a href="http://www.opotikinews.co.nz/">View online</a>.
-      </p> */
+  return classAttr;
 }
 
 async function render() {
