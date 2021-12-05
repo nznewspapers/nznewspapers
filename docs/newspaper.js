@@ -165,6 +165,16 @@ function linkTable(box, newspaper) {
   appendElement(headerRow, "th", null, "Succeeded By");
 
   // CReate and add the links:
+  var infoRow = appendElement(linktbody, "tr");
+  var precedeCell = appendElement(infoRow, "td", null);
+
+  linkKeys = Object.keys(newspaper.links);
+
+  linkKeys.forEach(function (key) {
+    linkTitle = newspaper.links[key]["target-description"];
+    appendElement(precedeCell, "div", null, key + ": " + linkTitle);
+  });
+
   appendRow(linktbody, "cat", newspaper.id);
 }
 
