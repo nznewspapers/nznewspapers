@@ -20,7 +20,41 @@ console.log("Paper dir: " + nznShared.paperDir);
 console.log("Output dir: " + nznShared.jsonDir);
 
 /**
- * Generatr the titleInfo.json file from the newpaper data
+ * Generate the homeInfo.json file from the newpaper data
+ * @param {*} newspaperList A list records, each describihg one newspaper.
+ * @param {*} placenames A list of placenames.
+ * @param {*} newspaperCount
+ */
+function generateHomeInfo(newspaperList, placenames, newspaperCount) {
+  var homeInfo = {
+    stats: {},
+    lists: {},
+  };
+  homeInfo.stats.count = newspaperCount;
+  homeInfo.stats.places = placenames.size;
+
+  newspaperList.sort(function (a, b) {
+    return a.placecode.localeCompare(b.placecode);
+  });
+
+  newspaperList.forEach(function (newspaper) {
+    if (!homeInfo.lists[newspaper.region]) {
+      homeInfo.lists[newspaper.region] = {};
+    }
+    if (!homeInfo.lists[newspaper.region][newspaper.placename]) {
+      homeInfo.lists[newspaper.region][newspaper.placename] = 1;
+    } else {
+      homeInfo.lists[newspaper.region][newspaper.placename] += 1;
+    }
+  });
+  homeInfo.stats.regions = Object.keys(homeInfo.lists).length;
+
+  const homeInfoPath = path.join(nznShared.jsonDir, "homeInfo.json");
+  nznShared.writeJsonDict(homeInfo, homeInfoPath);
+}
+
+/**
+ * Generate the titleInfo.json file from the newpaper data
  * @param {*} newspaperList A list records, each describihg one newspaper.
  * @param {*} placenames A list of placenames.
  * @param {*} newspaperCount
@@ -94,39 +128,11 @@ function summarise(idList) {
     }
   });
 
-  newspaperList.sort(function (a, b) {
-    return a.sortKey.localeCompare(b.sortKey);
-  });
-
   console.log("  Kept by summarise(): " + newspaperCount + " records");
   console.log("  Skipped in summarise(): " + skipped + " records.");
 
   // Generate data for the "Home" page:
-  var homeInfo = {
-    stats: {},
-    lists: {},
-  };
-  homeInfo.stats.count = newspaperCount;
-  homeInfo.stats.places = placenames.size;
-
-  newspaperList.sort(function (a, b) {
-    return a.placecode.localeCompare(b.placecode);
-  });
-
-  newspaperList.forEach(function (newspaper) {
-    if (!homeInfo.lists[newspaper.region]) {
-      homeInfo.lists[newspaper.region] = {};
-    }
-    if (!homeInfo.lists[newspaper.region][newspaper.placename]) {
-      homeInfo.lists[newspaper.region][newspaper.placename] = 1;
-    } else {
-      homeInfo.lists[newspaper.region][newspaper.placename] += 1;
-    }
-  });
-  homeInfo.stats.regions = Object.keys(homeInfo.lists).length;
-
-  const homeInfoPath = path.join(nznShared.jsonDir, "homeInfo.json");
-  nznShared.writeJsonDict(homeInfo, homeInfoPath);
+  generateHomeInfo(newspaperList, placenames, newspaperCount);
 
   // Generate data for the "By Title" page:
   generateTitleInfo(newspaperList, placenames, newspaperCount);
