@@ -151,35 +151,20 @@ function linkTable(box, newspaper) {
   linkTableDiv.appendChild(linkTableText);
 
   // Set up table
-  let linktable = document.createElement("table");
-  let linkthead = document.createElement("thead");
-  let linktbody = document.createElement("tbody");
-
-  var classAttr = document.createAttribute("class");
-  classAttr.value = "simpletable";
-  linktable.setAttributeNode(classAttr);
-
-  linktable.appendChild(linkthead);
-  linktable.appendChild(linktbody);
+  var linktable = appendElement(linkTableDiv, "table", "simpletable");
+  var linkthead = appendElement(linktable, "thead");
+  var linktbody = appendElement(linktable, "tbody");
 
   // Adding the entire table to the body tag
   linkTableDiv.appendChild(linktable);
 
   // Creating and adding data to the header row of the table
-  let row_1a = document.createElement("tr");
-  let heading_1a = document.createElement("th");
-  heading_1a.innerHTML = "Preceded By";
-  let heading_2a = document.createElement("th");
-  heading_2a.innerHTML = "Succeeded By";
-  let heading_3a = document.createElement("th");
-  heading_3a.innerHTML = "Related Links";
+  var headerRow = appendElement(linkthead, "tr");
+  appendElement(headerRow, "th", null, "Preceded By");
+  appendElement(headerRow, "th", null, "Related To");
+  appendElement(headerRow, "th", null, "Succeeded By");
 
-  row_1a.appendChild(heading_1a);
-  row_1a.appendChild(heading_2a);
-  row_1a.appendChild(heading_3a);
-  linkthead.appendChild(row_1a);
-
-  //no comment...
+  // CReate and add the links:
   appendRow(linktbody, "cat", newspaper.id);
 }
 
