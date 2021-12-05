@@ -186,6 +186,25 @@ function contentBox(newspaper) {
   //links and the numbers- do we need these in the table? the link is already there under the "View Online" section of the "About" newspaper.
   //direction --> is this needed
 
+  /* <head>
+    <meta charset="UTF-8"> </meta>
+    <meta http-equiv="X-UA-Compatible" content="IE=edge"> </meta>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0"> </meta>
+    <title>Document</title>
+
+    <style>
+        table{
+            border-collapse: collapse;
+            border-spacing: 0;
+        }
+        th, td{
+            padding: 10px 20px;
+            border: 1px solid #000;
+        }
+    </style>
+
+</head> */
+
   // Creating and adding data to third row of the table
 
   /* );<h3>About this title</h3>
