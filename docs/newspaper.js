@@ -176,6 +176,7 @@ function contentBox(newspaper) {
   appendRow(tbody, "First Year", newspaper.firstYear);
   appendRow(tbody, "Final Year", newspaper.finalYear);
   appendRow(tbody, "District", newspaper.district);
+  appendRow(tbody, "Frequency", newspaper.frequency);
   //took out the id numbers, is this useful?
   appendRow(tbody, "Is Current", newspaper.isCurrent);
   //else if fuction- if it isn't current do or do not include?
