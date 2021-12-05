@@ -174,7 +174,7 @@ function contentBox(newspaper) {
   appendRow(tbody, "Title", newspaper.title);
   appendRow(tbody, "Genre", newspaper.genre);
   appendRow(tbody, "First Year", newspaper.firstYear);
-  appendRow(tbody, "Final Year", newspaper.finatYear);
+  appendRow(tbody, "Final Year", newspaper.finalYear);
   // Creating and adding data to third row of the table
 
   /* );<h3>About this title</h3>
