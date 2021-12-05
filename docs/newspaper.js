@@ -175,6 +175,16 @@ function contentBox(newspaper) {
   appendRow(tbody, "Genre", newspaper.genre);
   appendRow(tbody, "First Year", newspaper.firstYear);
   appendRow(tbody, "Final Year", newspaper.finalYear);
+  appendRow(tbody, "District", newspaper.district);
+  //took out the id numbers, is this useful?
+  appendRow(tbody, "Is Current", newspaper.isCurrent);
+  //else if fuction- if it isn't current do or do not include?
+  appendRow(tbody, "Placecode", newspaper.placecode);
+  appendRow(tbody, "Placename", newspaper.placename);
+  appendRow(tbody, "Region", newspaper.region);
+  //links and the numbers- do we need these in the table? the link is already there under the "View Online" section of the "About" newspaper.
+  //direction --> is this needed
+
   // Creating and adding data to third row of the table
 
   /* );<h3>About this title</h3>
