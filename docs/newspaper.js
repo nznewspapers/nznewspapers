@@ -167,15 +167,31 @@ function linkTable(box, newspaper) {
   // CReate and add the links:
   var infoRow = appendElement(linktbody, "tr");
   var precedeCell = appendElement(infoRow, "td", null);
+  var succeedCell = appendElement(infoRow, "td", null);
+  var relateCell = appendElement(infoRow, "td", null);
 
   linkKeys = Object.keys(newspaper.links);
 
-  linkKeys.forEach(function (key) {
-    linkTitle = newspaper.links[key]["target-description"];
-    appendElement(precedeCell, "div", null, key + ": " + linkTitle);
-  });
+  var directionTitle = newspaper.links["direction"];
 
-  appendRow(linktbody, "cat", newspaper.id);
+  if ((directionTitle = "Preceding"))
+    linkKeys.forEach(function (key) {
+      linkTitle = newspaper.links[key]["target-description"];
+      div = appendElement(precedeCell, "div");
+      appendLink(div, "newspaper.html?id=" + key, linkTitle);
+    });
+  else if ((directionTitle = "Succeeding"))
+    linkKeys.forEach(function (key) {
+      linkTitle = newspaper.links[key]["target-description"];
+      div = appendElement(succeedCell, "div");
+      appendLink(div, "newspaper.html?id=" + key, linkTitle);
+    });
+  else
+    linkKeys.forEach(function (key) {
+      linkTitle = newspaper.links[key]["target-description"];
+      div = appendElement(relateCell, "div");
+      appendLink(div, "newspaper.html?id=" + key, linkTitle);
+    });
 }
 
 function keyElements(box, newspaper) {
