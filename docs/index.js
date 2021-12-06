@@ -23,7 +23,7 @@ function titleBox(data) {
     data.stats.count +
     " New Zealand Newspapers from " +
     data.stats.places +
-    " places.";
+    " places";
 }
 
 /**
@@ -34,37 +34,38 @@ function contentBox(data) {
   var box = document.querySelector(".contentbox");
 
   const columnCount = 4;
-  var itemCount = data.stats.count + data.stats.regions;
+  var itemCount = data.stats.places + data.stats.regions;
   var columnSize = Math.ceil(itemCount / columnCount);
 
   var currentColumn = appendDiv(box, "columnbox");
+
+  appendDiv(currentColumn, "columnheading", "Welcome!");
+  introDiv = appendDiv(currentColumn, "columnitem");
+  appendText(
+    introDiv,
+    "This website tries to list every newspaper ever published in New Zealand. "
+  );
+  appendText(introDiv, "It's a work in progress. ");
+  appendLink(introDiv, "about.html", "Find out more.");
+
   var currentColumnCount = 0;
 
   for (var heading in data.lists) {
     appendDiv(currentColumn, "columnheading", heading);
     currentColumnCount += 1;
 
-    for (var i = 0; i < data.lists[heading].length; i++) {
-      title = data.lists[heading][i].title;
-      url = "newspaper.html?id=" + data.lists[heading][i].id;
-
+    for (var placename in data.lists[heading]) {
       div = appendDiv(currentColumn, "columnitem");
-      appendLink(div, url, title);
-      appendText(
-        div,
-        ", " +
-          data.lists[heading][i].firstYear +
-          "-" +
-          data.lists[heading][i].finalYear +
-          ", of " +
-          data.lists[heading][i].placename
-      );
-      currentColumnCount += 1;
+      url = "place.html?place=" + placename;
 
-      if (currentColumnCount >= columnSize) {
-        currentColumn = appendDiv(box, "columnbox");
-        currentColumnCount = 0;
-      }
+      appendLink(div, url, placename);
+      appendText(div, " (" + data.lists[heading][placename] + ")");
+      currentColumnCount += 1;
+    }
+
+    if (currentColumnCount >= columnSize) {
+      currentColumn = appendDiv(box, "columnbox");
+      currentColumnCount = 0;
     }
   }
 }
