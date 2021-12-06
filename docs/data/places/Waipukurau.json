@@ -1,0 +1,34 @@
+{
+  "stats": {
+    "placename": "Waipukurau",
+    "count": 5
+  },
+  "papers": {
+    "1784": {
+      "title": "Waipukurau Press",
+      "firstYear": "1905",
+      "finalYear": "1936"
+    },
+    "1785": {
+      "title": "Central Hawke's Bay Review",
+      "firstYear": "1936",
+      "finalYear": "1939"
+    },
+    "1786": {
+      "title": "Central Hawke's Bay Press",
+      "firstYear": "1936",
+      "finalYear": "1980"
+    },
+    "1788": {
+      "title": "Mail",
+      "firstYear": "1980",
+      "finalYear": "1988"
+    },
+    "1790": {
+      "title": "CHB Mail",
+      "firstYear": "1988",
+      "finalYear": "9999",
+      "urlCurrent": "https://www.facebook.com/pages/CHB-Mail/469272733094746"
+    }
+  }
+}

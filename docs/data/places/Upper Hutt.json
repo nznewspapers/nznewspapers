@@ -1,0 +1,47 @@
+{
+  "stats": {
+    "placename": "Upper Hutt",
+    "count": 7
+  },
+  "papers": {
+    "2025": {
+      "title": "Hutt Valley Independent",
+      "firstYear": "1911",
+      "finalYear": "1930",
+      "urlDigitized": "http://paperspast.natlib.govt.nz/cgi-bin/paperspast?a=d&cl=CL1.HVI"
+    },
+    "2026": {
+      "title": "Hutt Valley Weekly News and Advertiser",
+      "firstYear": "1915",
+      "finalYear": "1917"
+    },
+    "2027": {
+      "title": "The Advocate",
+      "firstYear": "1935",
+      "finalYear": "1936"
+    },
+    "2028": {
+      "title": "Upper Hutt Weekly Review",
+      "firstYear": "1935",
+      "finalYear": "1939",
+      "urlDigitized": "http://paperspast.natlib.govt.nz/cgi-bin/paperspast?a=d&cl=CL1.UHWR"
+    },
+    "2031": {
+      "title": "Upper Hutt Leader",
+      "firstYear": "1939",
+      "finalYear": "9999",
+      "urlCurrent": "http://upperhuttleader.co.nz",
+      "urlDigitized": "http://newspaperarchives.uhcc.govt.nz/"
+    },
+    "2032": {
+      "title": "Upper Hutt Times",
+      "firstYear": "1949",
+      "finalYear": "1953"
+    },
+    "2034": {
+      "title": "Upper Hutt News & More",
+      "firstYear": "2004",
+      "finalYear": "9999"
+    }
+  }
+}

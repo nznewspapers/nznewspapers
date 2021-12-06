@@ -1,0 +1,28 @@
+{
+  "stats": {
+    "placename": "Kumeu",
+    "count": 4
+  },
+  "papers": {
+    "1167": {
+      "title": "Newsbrief",
+      "firstYear": "1971",
+      "finalYear": "1987"
+    },
+    "1210": {
+      "title": "Northwest Newsbrief",
+      "firstYear": "1987",
+      "finalYear": "1987"
+    },
+    "1211": {
+      "title": "River Valley Newsbrief",
+      "firstYear": "1987",
+      "finalYear": "1988"
+    },
+    "1255": {
+      "title": "Nor-west News",
+      "firstYear": "2004",
+      "finalYear": "9999"
+    }
+  }
+}

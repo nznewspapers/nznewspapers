@@ -1,0 +1,29 @@
+{
+  "stats": {
+    "placename": "Warkworth",
+    "count": 4
+  },
+  "papers": {
+    "1084": {
+      "title": "Rodney and Otamatea Times, Waitemata and Kaipara Gazette",
+      "firstYear": "1901",
+      "finalYear": "1964",
+      "urlDigitized": "http://paperspast.natlib.govt.nz/cgi-bin/paperspast?a=d&cl=CL1.ROTWKG"
+    },
+    "1109": {
+      "title": "Rodney and Otamatea Courier",
+      "firstYear": "1948",
+      "finalYear": "1964"
+    },
+    "1144": {
+      "title": "Rodney & Waitemata Times",
+      "firstYear": "1964",
+      "finalYear": "1991"
+    },
+    "1217": {
+      "title": "Rodney Times",
+      "firstYear": "1991",
+      "finalYear": "9999"
+    }
+  }
+}

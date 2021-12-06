@@ -1,0 +1,55 @@
+{
+  "stats": {
+    "placename": "Paraparaumu",
+    "count": 9
+  },
+  "papers": {
+    "2000": {
+      "title": "Golden Coast Gazette",
+      "firstYear": "1963",
+      "finalYear": "uuuu"
+    },
+    "2001": {
+      "title": "Golden Coast News Shopper",
+      "firstYear": "1969",
+      "finalYear": "1972"
+    },
+    "2002": {
+      "title": "Observer News Shopper",
+      "firstYear": "1972",
+      "finalYear": "1974"
+    },
+    "2003": {
+      "title": "Kapiti Observer News Shopper",
+      "firstYear": "1974",
+      "finalYear": "1979"
+    },
+    "2004": {
+      "title": "Kapiti Observer",
+      "firstYear": "1979",
+      "finalYear": "9999",
+      "urlCurrent": "http://www.stuff.co.nz/dominion-post/news/local-papers/kapiti-observer/"
+    },
+    "2005": {
+      "title": "Kapiti News",
+      "firstYear": "1981",
+      "finalYear": "1981"
+    },
+    "2006": {
+      "title": "Times",
+      "firstYear": "1981",
+      "finalYear": "1984"
+    },
+    "2007": {
+      "title": "Kapiti Mail",
+      "firstYear": "1988",
+      "finalYear": "1993"
+    },
+    "2008": {
+      "title": "Horowhenua Mail",
+      "firstYear": "1993",
+      "finalYear": "9999",
+      "urlCurrent": "http://www.stuff.co.nz/dominion-post/news/local-papers/horowhenua-mail/"
+    }
+  }
+}

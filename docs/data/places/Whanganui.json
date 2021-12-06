@@ -1,0 +1,18 @@
+{
+  "stats": {
+    "placename": "Whanganui",
+    "count": 2
+  },
+  "papers": {
+    "1886": {
+      "title": "Te Whetu Marama o te Kotahitanga",
+      "firstYear": "1924",
+      "finalYear": "9999"
+    },
+    "1887": {
+      "title": "Te Reo o te Ao",
+      "firstYear": "1930",
+      "finalYear": "1930"
+    }
+  }
+}

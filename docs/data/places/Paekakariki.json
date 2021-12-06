@@ -1,0 +1,18 @@
+{
+  "stats": {
+    "placename": "Paekakariki",
+    "count": 2
+  },
+  "papers": {
+    "1997": {
+      "title": "Paekakariki Progress",
+      "firstYear": "1949",
+      "finalYear": "1952"
+    },
+    "1998": {
+      "title": "Paekakariki Gazette",
+      "firstYear": "1952",
+      "finalYear": "uuuu"
+    }
+  }
+}

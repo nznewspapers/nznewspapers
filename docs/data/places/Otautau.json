@@ -1,0 +1,19 @@
+{
+  "stats": {
+    "placename": "Otautau",
+    "count": 2
+  },
+  "papers": {
+    "2678": {
+      "title": "Otautau Standard and Wallace County Chronicle",
+      "firstYear": "1905",
+      "finalYear": "1946",
+      "urlDigitized": "http://paperspast.natlib.govt.nz/cgi-bin/paperspast?a=d&cl=CL1.OSWCC"
+    },
+    "2679": {
+      "title": "Otautau Farmer and Wallace County Gazette",
+      "firstYear": "1909",
+      "finalYear": "1939"
+    }
+  }
+}

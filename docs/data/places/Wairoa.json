@@ -1,0 +1,23 @@
+{
+  "stats": {
+    "placename": "Wairoa",
+    "count": 3
+  },
+  "papers": {
+    "1728": {
+      "title": "Wairoa Guardian",
+      "firstYear": "1880",
+      "finalYear": "1921"
+    },
+    "1729": {
+      "title": "East Coast Mail and Wairoa Gazette",
+      "firstYear": "1907",
+      "finalYear": "1909"
+    },
+    "1730": {
+      "title": "Wairoa Star",
+      "firstYear": "1921",
+      "finalYear": "9999"
+    }
+  }
+}

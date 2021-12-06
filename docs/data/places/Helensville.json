@@ -1,0 +1,40 @@
+{
+  "stats": {
+    "placename": "Helensville",
+    "count": 6
+  },
+  "papers": {
+    "1085": {
+      "title": "The Kaipara Advertiser and Waitemata Chronicle",
+      "firstYear": "1905",
+      "finalYear": "1914",
+      "urlDigitized": "http://paperspast.natlib.govt.nz/cgi-bin/paperspast?a=d&cl=CL1.KWE"
+    },
+    "1089": {
+      "title": "The Kaipara and Waitemata Echo",
+      "firstYear": "1914",
+      "finalYear": "1952",
+      "urlDigitized": "http://paperspast.natlib.govt.nz/cgi-bin/paperspast?a=d&cl=CL1.KWE"
+    },
+    "1126": {
+      "title": "Helensville News (1958)",
+      "firstYear": "1958",
+      "finalYear": "uuuu"
+    },
+    "1137": {
+      "title": "Helensville Times",
+      "firstYear": "1962",
+      "finalYear": "uuuu"
+    },
+    "1141": {
+      "title": "Helensville Leader",
+      "firstYear": "1963",
+      "finalYear": "uuuu"
+    },
+    "1196": {
+      "title": "River Valley News",
+      "firstYear": "1981",
+      "finalYear": "1987"
+    }
+  }
+}

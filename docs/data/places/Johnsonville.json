@@ -1,0 +1,23 @@
+{
+  "stats": {
+    "placename": "Johnsonville",
+    "count": 3
+  },
+  "papers": {
+    "2079": {
+      "title": "Johnsonville Herald",
+      "firstYear": "1960",
+      "finalYear": "uuuu"
+    },
+    "2081": {
+      "title": "Times Herald",
+      "firstYear": "1962",
+      "finalYear": "1972"
+    },
+    "2088": {
+      "title": "Rugby Weekly",
+      "firstYear": "1995",
+      "finalYear": "1995"
+    }
+  }
+}

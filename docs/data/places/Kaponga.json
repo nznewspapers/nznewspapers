@@ -1,0 +1,23 @@
+{
+  "stats": {
+    "placename": "Kaponga",
+    "count": 3
+  },
+  "papers": {
+    "1834": {
+      "title": "Kaponga Advocate",
+      "firstYear": "1903",
+      "finalYear": "1904"
+    },
+    "1835": {
+      "title": "Kaponga Mail and District Advertiser",
+      "firstYear": "1904",
+      "finalYear": "1904"
+    },
+    "1837": {
+      "title": "Kaponga Courier",
+      "firstYear": "1925",
+      "finalYear": "1940"
+    }
+  }
+}

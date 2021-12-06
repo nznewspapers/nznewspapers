@@ -1,0 +1,48 @@
+{
+  "stats": {
+    "placename": "Pahiatua",
+    "count": 8
+  },
+  "papers": {
+    "1929": {
+      "title": "Pahiatua Star and Eketahuna Advertiser",
+      "firstYear": "1886",
+      "finalYear": "1893"
+    },
+    "1932": {
+      "title": "Pahiatua Herald",
+      "firstYear": "1893",
+      "finalYear": "1943"
+    },
+    "1934": {
+      "title": "Pahiatua Argus",
+      "firstYear": "1895",
+      "finalYear": "1896"
+    },
+    "1937": {
+      "title": "Pahiatua Era",
+      "firstYear": "1905",
+      "finalYear": "1906"
+    },
+    "1941": {
+      "title": "North Wairarapa Herald",
+      "firstYear": "1943",
+      "finalYear": "1954"
+    },
+    "1942": {
+      "title": "North Wairarapa News",
+      "firstYear": "1954",
+      "finalYear": "1977"
+    },
+    "1943": {
+      "title": "Woodville Express",
+      "firstYear": "1960",
+      "finalYear": "1963"
+    },
+    "1945": {
+      "title": "Bush Telegraph (Pahiatua)",
+      "firstYear": "1977",
+      "finalYear": "9999"
+    }
+  }
+}

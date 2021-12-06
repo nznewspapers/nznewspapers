@@ -1,0 +1,18 @@
+{
+  "stats": {
+    "placename": "Murchison",
+    "count": 2
+  },
+  "papers": {
+    "2221": {
+      "title": "Buller Post",
+      "firstYear": "1896",
+      "finalYear": "1913"
+    },
+    "2225": {
+      "title": "Murchison Standard",
+      "firstYear": "1921",
+      "finalYear": "1937"
+    }
+  }
+}

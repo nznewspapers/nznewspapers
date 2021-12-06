@@ -1,0 +1,92 @@
+{
+  "stats": {
+    "placename": "Masterton",
+    "count": 16
+  },
+  "papers": {
+    "1977": {
+      "title": "Wairarapa News and Valley and East Coast Advertiser",
+      "firstYear": "1874",
+      "finalYear": "1877"
+    },
+    "1978": {
+      "title": "News Letter",
+      "firstYear": "1876",
+      "finalYear": "1877"
+    },
+    "1979": {
+      "title": "Wairarapa Register",
+      "firstYear": "1877",
+      "finalYear": "1878"
+    },
+    "1980": {
+      "title": "Wairarapa Free Press",
+      "firstYear": "1878",
+      "finalYear": "1878"
+    },
+    "1981": {
+      "title": "Wairarapa Daily",
+      "firstYear": "1878",
+      "finalYear": "1892",
+      "urlDigitized": "http://paperspast.natlib.govt.nz/cgi-bin/paperspast?a=d&cl=CL1.WDT"
+    },
+    "1982": {
+      "title": "Wairarapa Star",
+      "firstYear": "1881",
+      "finalYear": "1902"
+    },
+    "1983": {
+      "title": "Weekly Star and Wellington District Advertiser",
+      "firstYear": "1883",
+      "finalYear": "1906"
+    },
+    "1984": {
+      "title": "Wairarapa Daily Times",
+      "firstYear": "1892",
+      "finalYear": "1938",
+      "urlDigitized": "http://paperspast.natlib.govt.nz/cgi-bin/paperspast?a=d&cl=CL1.WDT"
+    },
+    "1985": {
+      "title": "Wairarapa Age",
+      "firstYear": "1902",
+      "finalYear": "1938"
+    },
+    "1986": {
+      "title": "Matuhi",
+      "firstYear": "1903",
+      "finalYear": "1906"
+    },
+    "1987": {
+      "title": "The Wairarapa Sparkler",
+      "firstYear": "1936",
+      "finalYear": "1937"
+    },
+    "1988": {
+      "title": "Wairarapa Weekly",
+      "firstYear": "1937",
+      "finalYear": "1938"
+    },
+    "1989": {
+      "title": "Wairarapa Times-Age",
+      "firstYear": "1938",
+      "finalYear": "9999",
+      "urlCurrent": "http://times-age.co.nz/"
+    },
+    "1990": {
+      "title": "Wairarapa Guardian",
+      "firstYear": "1966",
+      "finalYear": "uuuu"
+    },
+    "1991": {
+      "title": "Knight",
+      "firstYear": "1982",
+      "finalYear": "1982"
+    },
+    "1994": {
+      "title": "Wairarapa News",
+      "firstYear": "1994",
+      "finalYear": "9999",
+      "urlCurrent": "http://www.stuff.co.nz/dominion-post/news/local-papers/wairarapa-news/"
+    }
+  }
+}

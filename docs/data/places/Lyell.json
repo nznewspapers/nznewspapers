@@ -1,0 +1,19 @@
+{
+  "stats": {
+    "placename": "Lyell",
+    "count": 2
+  },
+  "papers": {
+    "2293": {
+      "title": "Lyell Argus",
+      "firstYear": "1873",
+      "finalYear": "1898"
+    },
+    "2300": {
+      "title": "Lyell Times and Central Buller Gazette",
+      "firstYear": "1881",
+      "finalYear": "1898",
+      "urlDigitized": "http://paperspast.natlib.govt.nz/cgi-bin/paperspast?a=d&cl=CL1.LTCBG"
+    }
+  }
+}

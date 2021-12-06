@@ -1,0 +1,65 @@
+{
+  "stats": {
+    "placename": "Westport",
+    "count": 11
+  },
+  "papers": {
+    "2284": {
+      "title": "Westport Times and Buller Express",
+      "firstYear": "1866",
+      "finalYear": "1867"
+    },
+    "2286": {
+      "title": "Westport Daily Times and Charleston Argus",
+      "firstYear": "1867",
+      "finalYear": "1869"
+    },
+    "2287": {
+      "title": "Westport Star",
+      "firstYear": "1867",
+      "finalYear": "1892"
+    },
+    "2289": {
+      "title": "Westport Times",
+      "firstYear": "1869",
+      "finalYear": "1892",
+      "urlDigitized": "http://paperspast.natlib.govt.nz/cgi-bin/paperspast?a=d&cl=CL1.WEST"
+    },
+    "2290": {
+      "title": "The Westport News",
+      "firstYear": "1871",
+      "finalYear": "9999",
+      "urlCurrent": "http://www.westportnews.co.nz/"
+    },
+    "2299": {
+      "title": "Westport Advertiser",
+      "firstYear": "1881",
+      "finalYear": "1889"
+    },
+    "2301": {
+      "title": "Buller Miner",
+      "firstYear": "1881",
+      "finalYear": "1921"
+    },
+    "2304": {
+      "title": "Westport Times and Evening Star",
+      "firstYear": "1892",
+      "finalYear": "1898"
+    },
+    "2305": {
+      "title": "Westport Times & Star",
+      "firstYear": "1898",
+      "finalYear": "1937"
+    },
+    "2306": {
+      "title": "Taffytown and Glasseye Chronicle",
+      "firstYear": "1930",
+      "finalYear": "uuuu"
+    },
+    "2307": {
+      "title": "Buller Times",
+      "firstYear": "1937",
+      "finalYear": "1941"
+    }
+  }
+}

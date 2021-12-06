@@ -1,0 +1,18 @@
+{
+  "stats": {
+    "placename": "Akarana",
+    "count": 2
+  },
+  "papers": {
+    "1091": {
+      "title": "Manukura, Maori Recorder",
+      "firstYear": "1916",
+      "finalYear": "1917"
+    },
+    "1095": {
+      "title": "Manukura, te reo o nga Morehu",
+      "firstYear": "1922",
+      "finalYear": "1923"
+    }
+  }
+}

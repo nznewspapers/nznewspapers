@@ -1,0 +1,18 @@
+{
+  "stats": {
+    "placename": "Alexandra",
+    "count": 2
+  },
+  "papers": {
+    "2568": {
+      "title": "Central Otago News",
+      "firstYear": "1948",
+      "finalYear": "1999"
+    },
+    "2569": {
+      "title": "Central Sun",
+      "firstYear": "1982",
+      "finalYear": "1982"
+    }
+  }
+}

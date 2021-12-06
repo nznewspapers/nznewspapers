@@ -1,0 +1,23 @@
+{
+  "stats": {
+    "placename": "Waiuku",
+    "count": 3
+  },
+  "papers": {
+    "1090": {
+      "title": "Waiuku News and Franklin County Gazette",
+      "firstYear": "1915",
+      "finalYear": "1964"
+    },
+    "1159": {
+      "title": "Waiuku News",
+      "firstYear": "1969",
+      "finalYear": "1970"
+    },
+    "1270": {
+      "title": "Post",
+      "firstYear": "200u",
+      "finalYear": "9999"
+    }
+  }
+}

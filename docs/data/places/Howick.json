@@ -1,0 +1,54 @@
+{
+  "stats": {
+    "placename": "Howick",
+    "count": 9
+  },
+  "papers": {
+    "1105": {
+      "title": "The Howick District News : an Independent Non-party Weekly",
+      "firstYear": "1947",
+      "finalYear": "1952"
+    },
+    "1189": {
+      "title": "East City Advertiser",
+      "firstYear": "1980",
+      "finalYear": "1980"
+    },
+    "1191": {
+      "title": "East City News Advertiser",
+      "firstYear": "1981",
+      "finalYear": "1981"
+    },
+    "1215": {
+      "title": "Bays and Remuera Times",
+      "firstYear": "1991",
+      "finalYear": "1993"
+    },
+    "1221": {
+      "title": "Waiuku & Districts Post",
+      "firstYear": "1992",
+      "finalYear": "200u"
+    },
+    "1229": {
+      "title": "Tamaki Times",
+      "firstYear": "1993",
+      "finalYear": "1999"
+    },
+    "1235": {
+      "title": "Ellerslie & Panmure Times",
+      "firstYear": "1999",
+      "finalYear": "2000"
+    },
+    "1238": {
+      "title": "The Howick Post",
+      "firstYear": "19uu",
+      "finalYear": "19uu"
+    },
+    "1251": {
+      "title": "Howick and Botany District Times",
+      "firstYear": "2003",
+      "finalYear": "9999",
+      "urlCurrent": "http://www.times.co.nz/"
+    }
+  }
+}

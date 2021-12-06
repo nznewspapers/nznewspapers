@@ -34,7 +34,7 @@ function generateHomeInfo(newspaperList, placenames, newspaperCount) {
   homeInfo.stats.places = placenames.size;
 
   newspaperList.sort(function (a, b) {
-    return a.placecode.localeCompare(b.placecode);
+    return a.sortPlace.localeCompare(b.sortPlace);
   });
 
   newspaperList.forEach(function (newspaper) {
@@ -96,6 +96,45 @@ function generateTitleInfo(newspaperList, placenames, newspaperCount) {
 }
 
 /**
+ * Generate one JSON file for each place in the dataset.
+ * @param {*} newspaperList A list records, each describihg one newspaper.
+ */
+function generatePlaceData(newspaperList) {
+  var placeData = {};
+  var placenameList = [];
+
+  newspaperList.sort(function (a, b) {
+    return a.firstYear.localeCompare(b.firstYear);
+  });
+
+  newspaperList.forEach(function (newspaper) {
+    var pname = newspaper.placename;
+    if (!placeData[pname]) {
+      placeData[pname] = {};
+      placenameList.push(pname);
+    }
+    placeData[pname][newspaper.id] = {};
+    placeData[pname][newspaper.id]["title"] = newspaper.title;
+    placeData[pname][newspaper.id]["firstYear"] = newspaper.firstYear;
+    placeData[pname][newspaper.id]["finalYear"] = newspaper.finalYear;
+    placeData[pname][newspaper.id]["urlCurrent"] = newspaper.urlCurrent;
+    placeData[pname][newspaper.id]["urlDigitized"] = newspaper.urlDigitized;
+  });
+
+  placenameList.forEach(function (pname) {
+    var data = {
+      stats: {},
+      papers: placeData[pname],
+    };
+    data.stats.placename = pname;
+    data.stats.count = Object.keys(placeData[pname]).length;
+
+    const filename = path.join(nznShared.jsonDir, "places", pname + ".json");
+    nznShared.writeJsonDict(data, filename);
+  });
+}
+
+/**
  * Read the newspaper data and create summary JSON files.
  * @param {*} idList A list of the newspaper identifier that we're going to summarise.
  */
@@ -118,7 +157,8 @@ function summarise(idList) {
         .toLowerCase()
         .replace(/\W+/g, "")
         .replace("the", "");
-      newspaper.sortKey = sortKey;
+      newspaper.sortKey = sortKey + "-" + newspaper.firstYear;
+      newspaper.sortPlace = newspaper.placecode + "-" + newspaper.placename;
       newspaper.titleSection =
         sortKey[0].toUpperCase() + sortKey[0].toLowerCase();
       newspaperList.push(newspaper);
@@ -136,6 +176,9 @@ function summarise(idList) {
 
   // Generate data for the "By Title" page:
   generateTitleInfo(newspaperList, placenames, newspaperCount);
+
+  // Generate data about each place:
+  generatePlaceData(newspaperList);
 
   console.log("End summarise(): " + newspaperCount + " records");
   console.log("End summarise(): " + skipped + " records.");

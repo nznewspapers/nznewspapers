@@ -1,0 +1,50 @@
+{
+  "stats": {
+    "placename": "Waihi",
+    "count": 8
+  },
+  "papers": {
+    "1503": {
+      "title": "Waihi Miner and Hauraki Goldfield Gazette",
+      "firstYear": "1895",
+      "finalYear": "1901"
+    },
+    "1504": {
+      "title": "Waihi Daily Telegraph",
+      "firstYear": "1901",
+      "finalYear": "1908",
+      "urlDigitized": "http://paperspast.natlib.govt.nz/cgi-bin/paperspast?a=d&cl=CL1.WHDT"
+    },
+    "1505": {
+      "title": "Daily Telegraph",
+      "firstYear": "1908",
+      "finalYear": "1923",
+      "urlDigitized": "http://paperspast.natlib.govt.nz/cgi-bin/paperspast?a=d&cl=CL1.WHDT"
+    },
+    "1507": {
+      "title": "Waihi Telegraph",
+      "firstYear": "1923",
+      "finalYear": "1951"
+    },
+    "1508": {
+      "title": "Waihi Gazette",
+      "firstYear": "1951",
+      "finalYear": "9999"
+    },
+    "1514": {
+      "title": "Waihi Leader",
+      "firstYear": "1981",
+      "finalYear": "1996"
+    },
+    "1516": {
+      "title": "Leader",
+      "firstYear": "1996",
+      "finalYear": "2003"
+    },
+    "1517": {
+      "title": "Waihi Leader (2004)",
+      "firstYear": "2004",
+      "finalYear": "9999"
+    }
+  }
+}

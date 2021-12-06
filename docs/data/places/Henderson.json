@@ -1,0 +1,43 @@
+{
+  "stats": {
+    "placename": "Henderson",
+    "count": 7
+  },
+  "papers": {
+    "1115": {
+      "title": "Waitakere Gazette",
+      "firstYear": "1952",
+      "finalYear": "1966"
+    },
+    "1134": {
+      "title": "West Auckland Press",
+      "firstYear": "1962",
+      "finalYear": "1966"
+    },
+    "1154": {
+      "title": "West Auckland Gazette",
+      "firstYear": "1966",
+      "finalYear": "uuuu"
+    },
+    "1219": {
+      "title": "Waitakere News (Northern Ed.)",
+      "firstYear": "1992",
+      "finalYear": "1993"
+    },
+    "1220": {
+      "title": "Waitakere News (Western Ed.)",
+      "firstYear": "1992",
+      "finalYear": "1993"
+    },
+    "1225": {
+      "title": "Waitakere Week North",
+      "firstYear": "1993",
+      "finalYear": "1994"
+    },
+    "1226": {
+      "title": "Waitakere Week West",
+      "firstYear": "1993",
+      "finalYear": "1994"
+    }
+  }
+}

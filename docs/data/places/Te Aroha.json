@@ -1,0 +1,45 @@
+{
+  "stats": {
+    "placename": "Te Aroha",
+    "count": 7
+  },
+  "papers": {
+    "1549": {
+      "title": "Te Aroha Mail",
+      "firstYear": "1882",
+      "finalYear": "uuuu"
+    },
+    "1550": {
+      "title": "Te Aroha News",
+      "firstYear": "1883",
+      "finalYear": "1885",
+      "urlDigitized": "http://paperspast.natlib.govt.nz/cgi-bin/paperspast?a=d&cl=CL1.TAN"
+    },
+    "1551": {
+      "title": "The Aroha & Ohinemuri News",
+      "firstYear": "1885",
+      "finalYear": "1917",
+      "urlDigitized": "http://paperspast.natlib.govt.nz/cgi-bin/paperspast?a=d&cl=CL1.TAN"
+    },
+    "1552": {
+      "title": "Te Aroha Times and Waiorongomai Advocate",
+      "firstYear": "1896",
+      "finalYear": "1898"
+    },
+    "1555": {
+      "title": "Te Aroha News (1917)",
+      "firstYear": "1917",
+      "finalYear": "1986"
+    },
+    "1559": {
+      "title": "Te Aroha District News for Overseas",
+      "firstYear": "1941",
+      "finalYear": "1945"
+    },
+    "1566": {
+      "title": "Te Aroha Tribune",
+      "firstYear": "1989",
+      "finalYear": "1990"
+    }
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "stats": {
+    "placename": "Carterton",
+    "count": 6
+  },
+  "papers": {
+    "2009": {
+      "title": "Wairarapa Valley Guardian",
+      "firstYear": "1878",
+      "finalYear": "1880"
+    },
+    "2010": {
+      "title": "Wairarapa Observer",
+      "firstYear": "1881",
+      "finalYear": "1906"
+    },
+    "2012": {
+      "title": "Wairarapa Leader",
+      "firstYear": "1897",
+      "finalYear": "1906"
+    },
+    "2013": {
+      "title": "Wairarapa Daily News",
+      "firstYear": "1906",
+      "finalYear": "1940"
+    },
+    "2014": {
+      "title": "Wairarapa News",
+      "firstYear": "1940",
+      "finalYear": "1992"
+    },
+    "2016": {
+      "title": "Wairarapa News & The Chronicle",
+      "firstYear": "1992",
+      "finalYear": "1994"
+    }
+  }
+}
