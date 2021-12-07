@@ -1,29 +1,34 @@
 {
   "stats": {
     "placename": "Leeston",
-    "count": 4
+    "count": 4,
+    "decades": 3
   },
-  "papers": {
-    "2350": {
+  "papers": [
+    {
+      "id": "2350",
       "title": "Ellesmere Guardian",
       "firstYear": "1880",
       "finalYear": "1981",
       "urlDigitized": "http://paperspast.natlib.govt.nz/cgi-bin/paperspast?a=d&cl=CL1.EG"
     },
-    "2354": {
+    {
+      "id": "2354",
       "title": "Guardian",
       "firstYear": "1981",
       "finalYear": "1983"
     },
-    "2357": {
+    {
+      "id": "2357",
       "title": "Plains Express",
       "firstYear": "1988",
       "finalYear": "1996"
     },
-    "2358": {
+    {
+      "id": "2358",
       "title": "Ellesmere Echo",
       "firstYear": "1992",
       "finalYear": "9999"
     }
-  }
+  ]
 }

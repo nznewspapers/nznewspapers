@@ -1,39 +1,46 @@
 {
   "stats": {
     "placename": "Lyttelton",
-    "count": 6
+    "count": 6,
+    "decades": 6
   },
-  "papers": {
-    "2378": {
+  "papers": [
+    {
+      "id": "2378",
       "title": "The Lyttelton Times",
       "firstYear": "1851",
       "finalYear": "1929",
       "urlDigitized": "http://paperspast.natlib.govt.nz/cgi-bin/paperspast?a=d&cl=CL1.LT"
     },
-    "2379": {
+    {
+      "id": "2379",
       "title": "Lyttelton Chronicle and Peninsula News",
       "firstYear": "1865",
       "finalYear": "uuuu"
     },
-    "2381": {
+    {
+      "id": "2381",
       "title": "Port Lyttelton Herald and New Zealand Shipping Gazette",
       "firstYear": "1878",
       "finalYear": "1879"
     },
-    "2385": {
+    {
+      "id": "2385",
       "title": "The Christchurch Times",
       "firstYear": "1929",
       "finalYear": "1935"
     },
-    "2388": {
+    {
+      "id": "2388",
       "title": "Port News",
       "firstYear": "1965",
       "finalYear": "1968"
     },
-    "2392": {
+    {
+      "id": "2392",
       "title": "New Lyttelton Times",
       "firstYear": "1983",
       "finalYear": "1983"
     }
-  }
+  ]
 }

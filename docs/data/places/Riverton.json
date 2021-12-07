@@ -1,18 +1,21 @@
 {
   "stats": {
     "placename": "Riverton",
-    "count": 2
+    "count": 2,
+    "decades": 2
   },
-  "papers": {
-    "2662": {
+  "papers": [
+    {
+      "id": "2662",
       "title": "Riverton Times",
       "firstYear": "1864",
       "finalYear": "1868"
     },
-    "2668": {
+    {
+      "id": "2668",
       "title": "Western Star",
       "firstYear": "1873",
       "finalYear": "1942"
     }
-  }
+  ]
 }

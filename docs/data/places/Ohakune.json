@@ -1,24 +1,28 @@
 {
   "stats": {
     "placename": "Ohakune",
-    "count": 3
+    "count": 3,
+    "decades": 2
   },
-  "papers": {
-    "1848": {
+  "papers": [
+    {
+      "id": "1848",
       "title": "Ohakune Times, Rangataua Advocate and Waimarino Gazette",
       "firstYear": "1909",
       "finalYear": "1948"
     },
-    "1855": {
+    {
+      "id": "1855",
       "title": "Waimarino Bulletin",
       "firstYear": "1983",
       "finalYear": "1989"
     },
-    "1856": {
+    {
+      "id": "1856",
       "title": "Ruapehu Bulletin",
       "firstYear": "1989",
       "finalYear": "9999",
       "urlCurrent": "http://www.ohakune.info/thisweek/ruapehu-bulletin.php"
     }
-  }
+  ]
 }

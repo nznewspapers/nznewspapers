@@ -1,28 +1,33 @@
 {
   "stats": {
     "placename": "Newton",
-    "count": 4
+    "count": 4,
+    "decades": 2
   },
-  "papers": {
-    "1078": {
+  "papers": [
+    {
+      "id": "1078",
       "title": "Newton Bulletin",
       "firstYear": "1885",
       "finalYear": "uuuu"
     },
-    "1080": {
+    {
+      "id": "1080",
       "title": "Newton Echo",
       "firstYear": "1886",
       "finalYear": "uuuu"
     },
-    "1081": {
+    {
+      "id": "1081",
       "title": "New Zealand Protectionist",
       "firstYear": "1887",
       "finalYear": "uuuu"
     },
-    "1082": {
+    {
+      "id": "1082",
       "title": "Newton Sun",
       "firstYear": "1898",
       "finalYear": "1898"
     }
-  }
+  ]
 }

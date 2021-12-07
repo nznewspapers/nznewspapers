@@ -1,55 +1,65 @@
 {
   "stats": {
     "placename": "Whakatane",
-    "count": 9
+    "count": 9,
+    "decades": 8
   },
-  "papers": {
-    "1663": {
+  "papers": [
+    {
+      "id": "1663",
       "title": "Whakatane Times and Opouriao Advocate",
       "firstYear": "1899",
       "finalYear": "1899"
     },
-    "1664": {
+    {
+      "id": "1664",
       "title": "Whakatane County Press",
       "firstYear": "1907",
       "finalYear": "1915"
     },
-    "1665": {
+    {
+      "id": "1665",
       "title": "Whakatane Press",
       "firstYear": "1915",
       "finalYear": "1935"
     },
-    "1666": {
+    {
+      "id": "1666",
       "title": "Bay of Plenty Press",
       "firstYear": "1935",
       "finalYear": "1939"
     },
-    "1667": {
+    {
+      "id": "1667",
       "title": "Bay of Plenty Beacon",
       "firstYear": "1939",
       "finalYear": "1966",
       "urlDigitized": "http://paperspast.natlib.govt.nz/cgi-bin/paperspast?a=d&cl=CL1.BPB"
     },
-    "1668": {
+    {
+      "id": "1668",
       "title": "Whakatane Beacon",
       "firstYear": "1966",
       "finalYear": "9999",
       "urlCurrent": "http://www.whakatanebeacon.co.nz/"
     },
-    "1669": {
+    {
+      "id": "1669",
       "title": "Eastern Bay News",
       "firstYear": "1993",
       "finalYear": "2011"
     },
-    "1670": {
+    {
+      "id": "1670",
       "title": "Bay Weekend",
       "firstYear": "19uu",
       "finalYear": "9999"
     },
-    "1671": {
+    {
+      "id": "1671",
       "title": "Whakatane News",
       "firstYear": "2011",
       "finalYear": "9999"
     }
-  }
+  ]
 }

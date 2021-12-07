@@ -1,13 +1,15 @@
 {
   "stats": {
     "placename": "Miramar",
-    "count": 1
+    "count": 1,
+    "decades": 1
   },
-  "papers": {
-    "2080": {
+  "papers": [
+    {
+      "id": "2080",
       "title": "Hataitai Herald",
       "firstYear": "1961",
       "finalYear": "1975"
     }
-  }
+  ]
 }

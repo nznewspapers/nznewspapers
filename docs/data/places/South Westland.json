@@ -1,13 +1,15 @@
 {
   "stats": {
     "placename": "South Westland",
-    "count": 1
+    "count": 1,
+    "decades": 1
   },
-  "papers": {
-    "2341": {
+  "papers": [
+    {
+      "id": "2341",
       "title": "Jackson Bay Chronicle",
       "firstYear": "1938",
       "finalYear": "1940"
     }
-  }
+  ]
 }

@@ -1,13 +1,15 @@
 {
   "stats": {
     "placename": "Rolleston",
-    "count": 1
+    "count": 1,
+    "decades": 1
   },
-  "papers": {
-    "2360": {
+  "papers": [
+    {
+      "id": "2360",
       "title": "Selwyn Times",
       "firstYear": "2007",
       "finalYear": "9999"
     }
-  }
+  ]
 }

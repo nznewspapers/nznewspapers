@@ -1,54 +1,64 @@
 {
   "stats": {
     "placename": "Dargaville",
-    "count": 9
+    "count": 9,
+    "decades": 6
   },
-  "papers": {
-    "1063": {
+  "papers": [
+    {
+      "id": "1063",
       "title": "Northern Wairoa Gazette",
       "firstYear": "1883",
       "finalYear": "1887"
     },
-    "1064": {
+    {
+      "id": "1064",
       "title": "The Kopuru Bell",
       "firstYear": "1889",
       "finalYear": "1890"
     },
-    "1065": {
+    {
+      "id": "1065",
       "title": "Wairoa Bell",
       "firstYear": "1890",
       "finalYear": "1923"
     },
-    "1066": {
+    {
+      "id": "1066",
       "title": "North Auckland Times",
       "firstYear": "1904",
       "finalYear": "1949"
     },
-    "1067": {
+    {
+      "id": "1067",
       "title": "Dargaville News",
       "firstYear": "1936",
       "finalYear": "1938"
     },
-    "1068": {
+    {
+      "id": "1068",
       "title": "Dargaville News (1941)",
       "firstYear": "1941",
       "finalYear": "uuuu"
     },
-    "1069": {
+    {
+      "id": "1069",
       "title": "Northland Times",
       "firstYear": "1949",
       "finalYear": "1999"
     },
-    "1070": {
+    {
+      "id": "1070",
       "title": "Dargaville & Districts News",
       "firstYear": "1992",
       "finalYear": "9999",
       "urlCurrent": "http://www.stuff.co.nz/auckland/local-news/northland/dargaville-districts"
     },
-    "1071": {
+    {
+      "id": "1071",
       "title": "Northland Times and Rodney Reporter",
       "firstYear": "1999",
       "finalYear": "2000"
     }
-  }
+  ]
 }

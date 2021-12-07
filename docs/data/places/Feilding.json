@@ -1,44 +1,52 @@
 {
   "stats": {
     "placename": "Feilding",
-    "count": 7
+    "count": 7,
+    "decades": 5
   },
-  "papers": {
-    "1895": {
+  "papers": [
+    {
+      "id": "1895",
       "title": "Feilding Guardian",
       "firstYear": "1879",
       "finalYear": "1882"
     },
-    "1896": {
+    {
+      "id": "1896",
       "title": "Feilding Star",
       "firstYear": "1882",
       "finalYear": "1939",
       "urlDigitized": "http://paperspast.natlib.govt.nz/cgi-bin/paperspast?a=d&cl=CL1.FS"
     },
-    "1898": {
+    {
+      "id": "1898",
       "title": "Feilding Express",
       "firstYear": "1940",
       "finalYear": "1957"
     },
-    "1899": {
+    {
+      "id": "1899",
       "title": "Feilding Herald",
       "firstYear": "1957",
       "finalYear": "9999"
     },
-    "1900": {
+    {
+      "id": "1900",
       "title": "Feilding Herald Rangitikei Mail",
       "firstYear": "2002",
       "finalYear": "2004"
     },
-    "1901": {
+    {
+      "id": "1901",
       "title": "New Zealand Farmers Weekly",
       "firstYear": "2003",
       "finalYear": "9999"
     },
-    "1902": {
+    {
+      "id": "1902",
       "title": "Rangitikei Mail (2005)",
       "firstYear": "2005",
       "finalYear": "9999"
     }
-  }
+  ]
 }

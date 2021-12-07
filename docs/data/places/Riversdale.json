@@ -1,13 +1,15 @@
 {
   "stats": {
     "placename": "Riversdale",
-    "count": 1
+    "count": 1,
+    "decades": 1
   },
-  "papers": {
-    "2672": {
+  "papers": [
+    {
+      "id": "2672",
       "title": "Waimea Plains Review and Market Report",
       "firstYear": "1892",
       "finalYear": "1896"
     }
-  }
+  ]
 }

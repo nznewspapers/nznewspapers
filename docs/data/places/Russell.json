@@ -1,19 +1,22 @@
 {
   "stats": {
     "placename": "Russell",
-    "count": 2
+    "count": 2,
+    "decades": 1
   },
-  "papers": {
-    "1001": {
+  "papers": [
+    {
+      "id": "1001",
       "title": "The New Zealand Advertiser and Bay of Islands Gazette",
       "firstYear": "1840",
       "finalYear": "1840",
       "urlDigitized": "http://paperspast.natlib.govt.nz/cgi-bin/paperspast?a=d&cl=CL1.NZABIG"
     },
-    "1002": {
+    {
+      "id": "1002",
       "title": "Bay of Islands Advocate",
       "firstYear": "1843",
       "finalYear": "1844"
     }
-  }
+  ]
 }

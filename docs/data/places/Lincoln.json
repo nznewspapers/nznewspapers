@@ -1,13 +1,15 @@
 {
   "stats": {
     "placename": "Lincoln",
-    "count": 1
+    "count": 1,
+    "decades": 1
   },
-  "papers": {
-    "2353": {
+  "papers": [
+    {
+      "id": "2353",
       "title": "Hilton News",
       "firstYear": "1980",
       "finalYear": "1982"
     }
-  }
+  ]
 }

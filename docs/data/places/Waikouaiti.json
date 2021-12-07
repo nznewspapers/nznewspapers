@@ -1,23 +1,27 @@
 {
   "stats": {
     "placename": "Waikouaiti",
-    "count": 3
+    "count": 3,
+    "decades": 3
   },
-  "papers": {
-    "2580": {
+  "papers": [
+    {
+      "id": "2580",
       "title": "Waikouaiti Herald",
       "firstYear": "1864",
       "finalYear": "1870"
     },
-    "2587": {
+    {
+      "id": "2587",
       "title": "Waikouaiti & Shag Valley Herald",
       "firstYear": "1870",
       "finalYear": "1875"
     },
-    "2607": {
+    {
+      "id": "2607",
       "title": "Nenthorn Recorder and Waikouaiti County Press",
       "firstYear": "1889",
       "finalYear": "1890"
     }
-  }
+  ]
 }

@@ -1,36 +1,42 @@
 {
   "stats": {
     "placename": "Queenstown",
-    "count": 5
+    "count": 5,
+    "decades": 5
   },
-  "papers": {
-    "2555": {
+  "papers": [
+    {
+      "id": "2555",
       "title": "Lake Wakatip Mail",
       "firstYear": "1863",
       "finalYear": "1953",
       "urlDigitized": "http://paperspast.natlib.govt.nz/cgi-bin/paperspast?a=d&cl=CL1.LWM"
     },
-    "2557": {
+    {
+      "id": "2557",
       "title": "Lake County Mail",
       "firstYear": "1947",
       "finalYear": "1948"
     },
-    "2558": {
+    {
+      "id": "2558",
       "title": "Mountain Scene",
       "firstYear": "1972",
       "finalYear": "9999",
       "urlCurrent": "http://www.scene.co.nz/"
     },
-    "2559": {
+    {
+      "id": "2559",
       "title": "Wakatipu Advertiser",
       "firstYear": "1984",
       "finalYear": "1987"
     },
-    "2561": {
+    {
+      "id": "2561",
       "title": "Queenstown Times",
       "firstYear": "2008",
       "finalYear": "9999",
       "urlCurrent": "http://www.queenstowntimes.co.nz/"
     }
-  }
+  ]
 }

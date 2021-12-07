@@ -1,43 +1,51 @@
 {
   "stats": {
     "placename": "Onehunga",
-    "count": 7
+    "count": 7,
+    "decades": 7
   },
-  "papers": {
-    "1074": {
+  "papers": [
+    {
+      "id": "1074",
       "title": "Manukau Advocate",
       "firstYear": "1866",
       "finalYear": "uuuu"
     },
-    "1077": {
+    {
+      "id": "1077",
       "title": "Manukau Gazette",
       "firstYear": "1885",
       "finalYear": "1954"
     },
-    "1083": {
+    {
+      "id": "1083",
       "title": "Weekly Onehunga Independent and Districts Advertiser",
       "firstYear": "1898",
       "finalYear": "1903"
     },
-    "1086": {
+    {
+      "id": "1086",
       "title": "N. Z. Sun",
       "firstYear": "1905",
       "finalYear": "1955"
     },
-    "1120": {
+    {
+      "id": "1120",
       "title": "Western News",
       "firstYear": "1955",
       "finalYear": "uuuu"
     },
-    "1129": {
+    {
+      "id": "1129",
       "title": "Onehunga News",
       "firstYear": "1960",
       "finalYear": "1963"
     },
-    "1202": {
+    {
+      "id": "1202",
       "title": "Onehunga Outlook",
       "firstYear": "1985",
       "finalYear": "1987"
     }
-  }
+  ]
 }

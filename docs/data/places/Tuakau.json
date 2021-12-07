@@ -1,18 +1,21 @@
 {
   "stats": {
     "placename": "Tuakau",
-    "count": 2
+    "count": 2,
+    "decades": 2
   },
-  "papers": {
-    "1530": {
+  "papers": [
+    {
+      "id": "1530",
       "title": "Tuakau and District Times",
       "firstYear": "1932",
       "finalYear": "1939"
     },
-    "1532": {
+    {
+      "id": "1532",
       "title": "Tuakau Argus",
       "firstYear": "1954",
       "finalYear": "1955"
     }
-  }
+  ]
 }

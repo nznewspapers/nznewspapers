@@ -103,10 +103,6 @@ function generatePlaceData(newspaperList) {
   var placeData = {};
   var placenameList = [];
 
-  newspaperList.sort(function (a, b) {
-    return a.firstYear.localeCompare(b.firstYear);
-  });
-
   newspaperList.forEach(function (newspaper) {
     var pname = newspaper.placename;
     if (!placeData[pname]) {
@@ -124,10 +120,29 @@ function generatePlaceData(newspaperList) {
   placenameList.forEach(function (pname) {
     var data = {
       stats: {},
-      papers: placeData[pname],
+      papers: [],
     };
     data.stats.placename = pname;
-    data.stats.count = Object.keys(placeData[pname]).length;
+
+    var decades = new Set();
+    for (var id in placeData[pname]) {
+      var record = {
+        id: id,
+        title: placeData[pname][id]["title"],
+        firstYear: placeData[pname][id]["firstYear"],
+        finalYear: placeData[pname][id]["finalYear"],
+        urlCurrent: placeData[pname][id]["urlCurrent"],
+        urlDigitized: placeData[pname][id]["urlDigitized"],
+      };
+      data.papers.push(record);
+      decades.add(placeData[pname][id]["firstYear"].substring(0, 3) + "0s");
+    }
+    data.stats.count = data.papers.length;
+    data.stats.decades = decades.size;
+
+    data.papers.sort(function (a, b) {
+      return a.firstYear.localeCompare(b.firstYear);
+    });
 
     const filename = path.join(nznShared.jsonDir, "places", pname + ".json");
     nznShared.writeJsonDict(data, filename);

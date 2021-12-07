@@ -1,33 +1,39 @@
 {
   "stats": {
     "placename": "Inglewood",
-    "count": 5
+    "count": 5,
+    "decades": 3
   },
-  "papers": {
-    "1798": {
+  "papers": [
+    {
+      "id": "1798",
       "title": "Inglewood Record and Waitara age",
       "firstYear": "1894",
       "finalYear": "1924"
     },
-    "1801": {
+    {
+      "id": "1801",
       "title": "Inglewood Times and County Chronicle",
       "firstYear": "1930",
       "finalYear": "1937"
     },
-    "1802": {
+    {
+      "id": "1802",
       "title": "Inglewood Guardian and County Advocate",
       "firstYear": "1932",
       "finalYear": "uuuu"
     },
-    "1809": {
+    {
+      "id": "1809",
       "title": "Inglewood Record",
       "firstYear": "1964",
       "finalYear": "1969"
     },
-    "1812": {
+    {
+      "id": "1812",
       "title": "Times Record",
       "firstYear": "1969",
       "finalYear": "1982"
     }
-  }
+  ]
 }

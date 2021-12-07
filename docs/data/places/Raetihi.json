@@ -1,28 +1,33 @@
 {
   "stats": {
     "placename": "Raetihi",
-    "count": 4
+    "count": 4,
+    "decades": 4
   },
-  "papers": {
-    "1847": {
+  "papers": [
+    {
+      "id": "1847",
       "title": "Waimarino County Call",
       "firstYear": "1908",
       "finalYear": "1948"
     },
-    "1851": {
+    {
+      "id": "1851",
       "title": "Central District Press",
       "firstYear": "1948",
       "finalYear": "1949"
     },
-    "1853": {
+    {
+      "id": "1853",
       "title": "Waimarino Weekly",
       "firstYear": "1977",
       "finalYear": "1982"
     },
-    "1854": {
+    {
+      "id": "1854",
       "title": "Ohakune/Raetihi News",
       "firstYear": "1982",
       "finalYear": "1983"
     }
-  }
+  ]
 }

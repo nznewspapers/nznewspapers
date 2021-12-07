@@ -1,24 +1,28 @@
 {
   "stats": {
     "placename": "Whitianga",
-    "count": 3
+    "count": 3,
+    "decades": 1
   },
-  "papers": {
-    "1497": {
+  "papers": [
+    {
+      "id": "1497",
       "title": "Bay Beacon (Whitianga)",
       "firstYear": "2003",
       "finalYear": "9999"
     },
-    "1498": {
+    {
+      "id": "1498",
       "title": "Informer (Whitianga)",
       "firstYear": "2003",
       "finalYear": "9999",
       "urlCurrent": "http://www.the-informer.co.nz"
     },
-    "1499": {
+    {
+      "id": "1499",
       "title": "Coromandel Peninsula Post",
       "firstYear": "2008",
       "finalYear": "9999"
     }
-  }
+  ]
 }

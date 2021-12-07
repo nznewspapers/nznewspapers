@@ -1,104 +1,123 @@
 {
   "stats": {
     "placename": "Nelson",
-    "count": 18
+    "count": 18,
+    "decades": 13
   },
-  "papers": {
-    "2237": {
+  "papers": [
+    {
+      "id": "2237",
       "title": "The Nelson Examiner",
       "firstYear": "1842",
       "finalYear": "1874",
       "urlDigitized": "http://paperspast.natlib.govt.nz/cgi-bin/paperspast?a=d&cl=CL1.NENZC"
     },
-    "2239": {
+    {
+      "id": "2239",
       "title": "The Colonist",
       "firstYear": "1857",
       "finalYear": "1920",
       "urlDigitized": "http://paperspast.natlib.govt.nz/cgi-bin/paperspast?a=d&cl=CL1.TC"
     },
-    "2240": {
+    {
+      "id": "2240",
       "title": "The Nelson Advertiser and Family Paper",
       "firstYear": "1860",
       "finalYear": "1861"
     },
-    "2241": {
+    {
+      "id": "2241",
       "title": "Nelson Evening Mail",
       "firstYear": "1866",
       "finalYear": "1995",
       "urlDigitized": "http://paperspast.natlib.govt.nz/cgi-bin/paperspast?a=d&cl=CL1.NEM"
     },
-    "2245": {
+    {
+      "id": "2245",
       "title": "Nelson Daily Times",
       "firstYear": "1875",
       "finalYear": "1877"
     },
-    "2246": {
+    {
+      "id": "2246",
       "title": "Morning Advertiser",
       "firstYear": "1878",
       "finalYear": "uuuu"
     },
-    "2247": {
+    {
+      "id": "2247",
       "title": "Nelson Weekly News",
       "firstYear": "1886",
       "finalYear": "1888"
     },
-    "2248": {
+    {
+      "id": "2248",
       "title": "Te Rauparaha, With Which is Incorporated the Nelson Times",
       "firstYear": "1906",
       "finalYear": "uuuu"
     },
-    "2249": {
+    {
+      "id": "2249",
       "title": "Nelson Daily",
       "firstYear": "1925",
       "finalYear": "uuuu"
     },
-    "2250": {
+    {
+      "id": "2250",
       "title": "The Nelson Spectator",
       "firstYear": "1932",
       "finalYear": "19uu"
     },
-    "2253": {
+    {
+      "id": "2253",
       "title": "Golden Bay Press",
       "firstYear": "1964",
       "finalYear": "1966"
     },
-    "2255": {
+    {
+      "id": "2255",
       "title": "Nelson Press",
       "firstYear": "1965",
       "finalYear": "1966"
     },
-    "2256": {
+    {
+      "id": "2256",
       "title": "The Tribune",
       "firstYear": "1983",
       "finalYear": "1985"
     },
-    "2257": {
+    {
+      "id": "2257",
       "title": "Leader (Nelson Edition)",
       "firstYear": "1993",
       "finalYear": "9999",
       "urlCurrent": "nelsonleader.realviewdigital.com/"
     },
-    "2258": {
+    {
+      "id": "2258",
       "title": "Marlborough Times",
       "firstYear": "1994",
       "finalYear": "1997"
     },
-    "2259": {
+    {
+      "id": "2259",
       "title": "Nelson Mail",
       "firstYear": "1995",
       "finalYear": "9999",
       "urlCurrent": "http://www.nelsonmail.co.nz/"
     },
-    "2260": {
+    {
+      "id": "2260",
       "title": "Motueka-Golden Bay News",
       "firstYear": "19uu",
       "finalYear": "9999"
     },
-    "2261": {
+    {
+      "id": "2261",
       "title": "Leader (Richmond-Waimea Edition)",
       "firstYear": "2001",
       "finalYear": "9999",
       "urlCurrent": "http://tasmanleader.realviewdigital.com/"
     }
-  }
+  ]
 }

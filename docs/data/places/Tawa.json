@@ -1,23 +1,27 @@
 {
   "stats": {
     "placename": "Tawa",
-    "count": 3
+    "count": 3,
+    "decades": 2
   },
-  "papers": {
-    "2077": {
+  "papers": [
+    {
+      "id": "2077",
       "title": "Tawa Tatler",
       "firstYear": "1947",
       "finalYear": "1949"
     },
-    "2078": {
+    {
+      "id": "2078",
       "title": "Tatler",
       "firstYear": "1949",
       "finalYear": "uuuu"
     },
-    "2089": {
+    {
+      "id": "2089",
       "title": "Tawa Times",
       "firstYear": "1997",
       "finalYear": "2001"
     }
-  }
+  ]
 }

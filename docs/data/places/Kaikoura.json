@@ -1,23 +1,27 @@
 {
   "stats": {
     "placename": "Kaikoura",
-    "count": 3
+    "count": 3,
+    "decades": 3
   },
-  "papers": {
-    "2344": {
+  "papers": [
+    {
+      "id": "2344",
       "title": "Kaikoura Herald and East Coast Advertiser",
       "firstYear": "1868",
       "finalYear": "1872"
     },
-    "2345": {
+    {
+      "id": "2345",
       "title": "Kaikoura Star",
       "firstYear": "1880",
       "finalYear": "9999"
     },
-    "2346": {
+    {
+      "id": "2346",
       "title": "Kaikoura sun",
       "firstYear": "1906",
       "finalYear": "1911"
     }
-  }
+  ]
 }

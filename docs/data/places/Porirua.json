@@ -1,50 +1,59 @@
 {
   "stats": {
     "placename": "Porirua",
-    "count": 8
+    "count": 8,
+    "decades": 4
   },
-  "papers": {
-    "2035": {
+  "papers": [
+    {
+      "id": "2035",
       "title": "Kapi-Mana News",
       "firstYear": "1949",
       "finalYear": "9999"
     },
-    "2037": {
+    {
+      "id": "2037",
       "title": "Te Awa-Iti",
       "firstYear": "1982",
       "finalYear": "1993"
     },
-    "2038": {
+    {
+      "id": "2038",
       "title": "Nga Paripari",
       "firstYear": "1983",
       "finalYear": "1983"
     },
-    "2039": {
+    {
+      "id": "2039",
       "title": "Porirua News",
       "firstYear": "1993",
       "finalYear": "2001"
     },
-    "2040": {
+    {
+      "id": "2040",
       "title": "Porirua City News",
       "firstYear": "2001",
       "finalYear": "9999",
       "urlCurrent": "http://www.poriruacity.com/porirua_city_news.mv"
     },
-    "2041": {
+    {
+      "id": "2041",
       "title": "Norwester",
       "firstYear": "2006",
       "finalYear": "2008"
     },
-    "2042": {
+    {
+      "id": "2042",
       "title": "Citylife (Porirua Ed.)",
       "firstYear": "2006",
       "finalYear": "2009",
       "urlCurrent": "http://www.poriruacity.com/go.mv?city_life_porirua"
     },
-    "2043": {
+    {
+      "id": "2043",
       "title": "Citylife Porirua News",
       "firstYear": "2009",
       "finalYear": "9999"
     }
-  }
+  ]
 }

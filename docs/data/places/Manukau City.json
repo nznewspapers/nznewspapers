@@ -1,33 +1,39 @@
 {
   "stats": {
     "placename": "Manukau City",
-    "count": 5
+    "count": 5,
+    "decades": 4
   },
-  "papers": {
-    "1103": {
+  "papers": [
+    {
+      "id": "1103",
       "title": "Manukau Progress",
       "firstYear": "1946",
       "finalYear": "1965"
     },
-    "1107": {
+    {
+      "id": "1107",
       "title": "Manukau Pictorial",
       "firstYear": "1947",
       "finalYear": "1965"
     },
-    "1179": {
+    {
+      "id": "1179",
       "title": "South Auckland Times",
       "firstYear": "1978",
       "finalYear": "1978"
     },
-    "1209": {
+    {
+      "id": "1209",
       "title": "Manukau Courier",
       "firstYear": "1986",
       "finalYear": "9999"
     },
-    "1222": {
+    {
+      "id": "1222",
       "title": "Papakura Courier",
       "firstYear": "1992",
       "finalYear": "9999"
     }
-  }
+  ]
 }

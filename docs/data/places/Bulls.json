@@ -1,13 +1,15 @@
 {
   "stats": {
     "placename": "Bulls",
-    "count": 1
+    "count": 1,
+    "decades": 1
   },
-  "papers": {
-    "1860": {
+  "papers": [
+    {
+      "id": "1860",
       "title": "Bulls Roarer and Tutaenui Skunk",
       "firstYear": "1880",
       "finalYear": "uuuu"
     }
-  }
+  ]
 }

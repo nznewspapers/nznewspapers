@@ -35,39 +35,42 @@ function bannerBox(data) {
 function contentBox(data) {
   var box = document.querySelector(".contentbox");
 
-  const columnCount = 4;
-  var itemCount = data.stats.count + 10;
-  var columnSize = Math.ceil(itemCount / columnCount);
+  const numberOfColumns = 4;
+  const itemCount = data.stats.count + data.stats.decades;
+  const itemsPerColumn = Math.ceil(itemCount / numberOfColumns);
 
   var currentColumn = appendDiv(box, "columnbox");
   var currentDecade = null;
-  var currentColumnCount = 0;
+  var currentColumnItems = 0;
 
-  for (var id in data.papers) {
-    currentColumnCount += 1;
+  console.log(data);
 
-    title = data.papers[id].title;
-    url = "newspaper.html?id=" + id;
-    firstYear = data.papers[id].firstYear;
+  data.papers.forEach(function (newspaper) {
+    // for (var id in data.papers) {
+    title = newspaper.title;
+    url = "newspaper.html?id=" + newspaper.id;
+    firstYear = newspaper.firstYear;
     decade = firstYear.substring(0, 3) + "0s";
 
     // Decade heading:
     if (decade != currentDecade) {
+      currentColumnItems += 1;
       appendDiv(currentColumn, "columnheading", decade);
       currentDecade = decade;
     }
 
     // Newspapers:
+    currentColumnItems += 1;
     div = appendDiv(currentColumn, "columnitem");
     appendLink(div, url, title);
-    appendText(div, ", " + firstYear + "-" + data.papers[id].finalYear + ".");
-    currentColumnCount += 1;
+    appendText(div, ", " + firstYear + "-" + newspaper.finalYear + ".");
 
-    if (currentColumnCount >= columnSize) {
+    // Start new column:
+    if (currentColumnItems >= itemsPerColumn) {
       currentColumn = appendDiv(box, "columnbox");
-      currentColumnCount = 0;
+      currentColumnItems = 0;
     }
-  }
+  });
 }
 
 async function render() {

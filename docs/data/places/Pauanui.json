@@ -1,13 +1,15 @@
 {
   "stats": {
     "placename": "Pauanui",
-    "count": 1
+    "count": 1,
+    "decades": 1
   },
-  "papers": {
-    "1493": {
+  "papers": [
+    {
+      "id": "1493",
       "title": "Pauanui Post",
       "firstYear": "1986",
       "finalYear": "1989"
     }
-  }
+  ]
 }

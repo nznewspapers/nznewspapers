@@ -1,18 +1,21 @@
 {
   "stats": {
     "placename": "Kawerau",
-    "count": 2
+    "count": 2,
+    "decades": 1
   },
-  "papers": {
-    "1685": {
+  "papers": [
+    {
+      "id": "1685",
       "title": "Kawerau Gazette",
       "firstYear": "1960",
       "finalYear": "1993"
     },
-    "1688": {
+    {
+      "id": "1688",
       "title": "Sun",
       "firstYear": "1966",
       "finalYear": "1966"
     }
-  }
+  ]
 }

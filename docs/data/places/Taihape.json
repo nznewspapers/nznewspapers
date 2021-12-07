@@ -1,38 +1,45 @@
 {
   "stats": {
     "placename": "Taihape",
-    "count": 6
+    "count": 6,
+    "decades": 3
   },
-  "papers": {
-    "1865": {
+  "papers": [
+    {
+      "id": "1865",
       "title": "Taihape & Mangaweka News",
       "firstYear": "1903",
       "finalYear": "1905"
     },
-    "1866": {
+    {
+      "id": "1866",
       "title": "Taihape & Waimarino News",
       "firstYear": "1905",
       "finalYear": "1906"
     },
-    "1867": {
+    {
+      "id": "1867",
       "title": "Taihape Daily Times",
       "firstYear": "1906",
       "finalYear": "1930"
     },
-    "1868": {
+    {
+      "id": "1868",
       "title": "Taihape Times",
       "firstYear": "1930",
       "finalYear": "1959"
     },
-    "1870": {
+    {
+      "id": "1870",
       "title": "Waimarino News",
       "firstYear": "1954",
       "finalYear": "1959"
     },
-    "1871": {
+    {
+      "id": "1871",
       "title": "Central District Times",
       "firstYear": "1959",
       "finalYear": "9999"
     }
-  }
+  ]
 }
