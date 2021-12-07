@@ -43,8 +43,6 @@ function contentBox(data) {
   var currentDecade = null;
   var currentColumnItems = 0;
 
-  console.log(data);
-
   data.papers.forEach(function (newspaper) {
     // for (var id in data.papers) {
     title = newspaper.title;
