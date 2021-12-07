@@ -1,38 +1,45 @@
 {
   "stats": {
     "placename": "Devonport",
-    "count": 6
+    "count": 6,
+    "decades": 5
   },
-  "papers": {
-    "1079": {
+  "papers": [
+    {
+      "id": "1079",
       "title": "Waitemata Messenger",
       "firstYear": "1885",
       "finalYear": "uuuu"
     },
-    "1093": {
+    {
+      "id": "1093",
       "title": "Devonport Gazette and Greater North Shore Advocate",
       "firstYear": "1921",
       "finalYear": "1924"
     },
-    "1096": {
+    {
+      "id": "1096",
       "title": "North Shore Gazette",
       "firstYear": "1924",
       "finalYear": "1938"
     },
-    "1100": {
+    {
+      "id": "1100",
       "title": "North Shore Chronicle",
       "firstYear": "1939",
       "finalYear": "1940"
     },
-    "1190": {
+    {
+      "id": "1190",
       "title": "Devonport & Areas News Advertiser",
       "firstYear": "1981",
       "finalYear": "1981"
     },
-    "1241": {
+    {
+      "id": "1241",
       "title": "The Devonport Flagstaff",
       "firstYear": "19uu",
       "finalYear": "9999"
     }
-  }
+  ]
 }

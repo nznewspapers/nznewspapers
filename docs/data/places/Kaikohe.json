@@ -1,19 +1,22 @@
 {
   "stats": {
     "placename": "Kaikohe",
-    "count": 2
+    "count": 2,
+    "decades": 2
   },
-  "papers": {
-    "1012": {
+  "papers": [
+    {
+      "id": "1012",
       "title": "Northern News",
       "firstYear": "1919",
       "finalYear": "9999",
       "urlCurrent": "http://www.stuff.co.nz/auckland/local-news/northland/northern-news"
     },
-    "1025": {
+    {
+      "id": "1025",
       "title": "Bay Chronicle",
       "firstYear": "1986",
       "finalYear": "1988"
     }
-  }
+  ]
 }

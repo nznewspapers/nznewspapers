@@ -1,13 +1,15 @@
 {
   "stats": {
     "placename": "Paihia",
-    "count": 1
+    "count": 1,
+    "decades": 1
   },
-  "papers": {
-    "1024": {
+  "papers": [
+    {
+      "id": "1024",
       "title": "Bay Bugle",
       "firstYear": "1981",
       "finalYear": "1986"
     }
-  }
+  ]
 }

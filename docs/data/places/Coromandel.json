@@ -1,33 +1,39 @@
 {
   "stats": {
     "placename": "Coromandel",
-    "count": 5
+    "count": 5,
+    "decades": 3
   },
-  "papers": {
-    "1475": {
+  "papers": [
+    {
+      "id": "1475",
       "title": "Mail",
       "firstYear": "1871",
       "finalYear": "1872"
     },
-    "1477": {
+    {
+      "id": "1477",
       "title": "Coromandel Mail",
       "firstYear": "1872",
       "finalYear": "1882"
     },
-    "1478": {
+    {
+      "id": "1478",
       "title": "Coromandel News",
       "firstYear": "1874",
       "finalYear": "uuuu"
     },
-    "1481": {
+    {
+      "id": "1481",
       "title": "Coromandel News and Peninsula Gazette",
       "firstYear": "1887",
       "finalYear": "1890"
     },
-    "1482": {
+    {
+      "id": "1482",
       "title": "Coromandel County News",
       "firstYear": "1890",
       "finalYear": "1930"
     }
-  }
+  ]
 }

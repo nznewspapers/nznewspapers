@@ -1,13 +1,15 @@
 {
   "stats": {
     "placename": "Tokomairiro",
-    "count": 1
+    "count": 1,
+    "decades": 1
   },
-  "papers": {
-    "2639": {
+  "papers": [
+    {
+      "id": "2639",
       "title": "Bruce Standard",
       "firstYear": "1869",
       "finalYear": "1872"
     }
-  }
+  ]
 }

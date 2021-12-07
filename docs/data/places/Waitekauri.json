@@ -1,13 +1,15 @@
 {
   "stats": {
     "placename": "Waitekauri",
-    "count": 1
+    "count": 1,
+    "decades": 1
   },
-  "papers": {
-    "1484": {
+  "papers": [
+    {
+      "id": "1484",
       "title": "Golden Age",
       "firstYear": "1897",
       "finalYear": "1903"
     }
-  }
+  ]
 }

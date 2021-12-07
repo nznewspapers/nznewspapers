@@ -1,14 +1,16 @@
 {
   "stats": {
     "placename": "Kaiwaka",
-    "count": 1
+    "count": 1,
+    "decades": 1
   },
-  "papers": {
-    "1072": {
+  "papers": [
+    {
+      "id": "1072",
       "title": "Kaiwaka Bugle",
       "firstYear": "200u",
       "finalYear": "9999",
       "urlCurrent": "http://www.kaiwaka.co.nz/Bugle/Bugle.html"
     }
-  }
+  ]
 }

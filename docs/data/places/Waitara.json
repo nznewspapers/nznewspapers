@@ -1,28 +1,33 @@
 {
   "stats": {
     "placename": "Waitara",
-    "count": 4
+    "count": 4,
+    "decades": 4
   },
-  "papers": {
-    "1793": {
+  "papers": [
+    {
+      "id": "1793",
       "title": "Waitara Press and North Taranaki Advertiser",
       "firstYear": "1873",
       "finalYear": "1884"
     },
-    "1799": {
+    {
+      "id": "1799",
       "title": "Waitara Evening Mail and Clifton County Chronicle",
       "firstYear": "1898",
       "finalYear": "1938"
     },
-    "1806": {
+    {
+      "id": "1806",
       "title": "Waitara Times",
       "firstYear": "1960",
       "finalYear": "1969"
     },
-    "1819": {
+    {
+      "id": "1819",
       "title": "Waitara Angle",
       "firstYear": "1990",
       "finalYear": "2012"
     }
-  }
+  ]
 }

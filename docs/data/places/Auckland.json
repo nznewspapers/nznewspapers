@@ -1,1039 +1,1242 @@
 {
   "stats": {
     "placename": "Auckland",
-    "count": 202
+    "count": 202,
+    "decades": 19
   },
-  "papers": {
-    "1073": {
+  "papers": [
+    {
+      "id": "1280",
+      "title": "New Zealand Herald and Auckland Gazette",
+      "firstYear": "1841",
+      "finalYear": "1842"
+    },
+    {
+      "id": "1281",
+      "title": "The Auckland Chronicle and New Zealand Colonist",
+      "firstYear": "1841",
+      "finalYear": "1845"
+    },
+    {
+      "id": "1282",
+      "title": "Auckland Standard",
+      "firstYear": "1842",
+      "finalYear": "1842"
+    },
+    {
+      "id": "1283",
+      "title": "The Auckland Times",
+      "firstYear": "1842",
+      "finalYear": "1846"
+    },
+    {
+      "id": "1284",
+      "title": "Southern Cross",
+      "firstYear": "1843",
+      "finalYear": "1862",
+      "urlDigitized": "http://paperspast.natlib.govt.nz/cgi-bin/paperspast?a=d&cl=CL1.DSC"
+    },
+    {
+      "id": "1285",
+      "title": "The New Zealander [Auckland]",
+      "firstYear": "1845",
+      "finalYear": "1866",
+      "urlDigitized": "http://paperspast.natlib.govt.nz/cgi-bin/paperspast?a=d&cl=CL1.NZ"
+    },
+    {
+      "id": "1286",
+      "title": "The Anglo-Maori Warder",
+      "firstYear": "1848",
+      "finalYear": "1848",
+      "urlCurrent": "http://nzdl.org/cgi-bin/library?gg=_cgiarggg_&e=d-00000-00---off-0niupepa--00-0--0-10-0---0---0prompt-10---4-------0-1l--11-en-50---20-about---00-0-1-00-0-0-11-1-0utfZz-8-00&a=d&c=niupepa&cl=CL1.2"
+    },
+    {
+      "id": "1287",
+      "title": "Maori Messenger (1849)",
+      "firstYear": "1849",
+      "finalYear": "1854",
+      "urlCurrent": "http://nzdl.org/cgi-bin/library?gg=_cgiarggg_&e=d-00000-00---0niupepa--00-0--0-10-0---0---0prompt-10---4-------0-1l--11-en-50---20-about---00-0-1-00-11-1-0utfZz-8-00&a=d&c=niupepa&cl=CL1.3"
+    },
+    {
+      "id": "1288",
+      "title": "Auckland Examiner",
+      "firstYear": "1856",
+      "finalYear": "1861"
+    },
+    {
+      "id": "1289",
+      "title": "The Auckland Register and Commercial and Shipping Gazette",
+      "firstYear": "1857",
+      "finalYear": "1862"
+    },
+    {
+      "id": "1290",
+      "title": "Trumpeter and Universal Advertiser",
+      "firstYear": "1857",
+      "finalYear": "uuuu"
+    },
+    {
+      "id": "1291",
+      "title": "Auckland Independent",
+      "firstYear": "1859",
+      "finalYear": "1860"
+    },
+    {
+      "id": "1292",
+      "title": "The Daily Southern Cross",
+      "firstYear": "1862",
+      "finalYear": "1876",
+      "urlDigitized": "http://paperspast.natlib.govt.nz/cgi-bin/paperspast?a=d&cl=CL1.DSC"
+    },
+    {
+      "id": "1293",
+      "title": "General Advertiser",
+      "firstYear": "1862",
+      "finalYear": "uuuu"
+    },
+    {
+      "id": "1294",
+      "title": "News Letter",
+      "firstYear": "1862",
+      "finalYear": "uuuu"
+    },
+    {
+      "id": "1073",
       "title": "New Zealand Herald",
       "firstYear": "1863",
       "finalYear": "9999",
       "urlCurrent": "http://www.nzherald.co.nz/",
       "urlDigitized": "http://paperspast.natlib.govt.nz/cgi-bin/paperspast?a=d&cl=CL1.NZH"
     },
-    "1076": {
-      "title": "The Auckland Budget",
-      "firstYear": "1867",
-      "finalYear": "1uuu"
-    },
-    "1188": {
-      "title": "Northern Leader",
-      "firstYear": "197u",
-      "finalYear": "197u"
-    },
-    "1214": {
-      "title": "The Examiner",
-      "firstYear": "1990",
-      "finalYear": "1991"
-    },
-    "1234": {
-      "title": "Daily News",
-      "firstYear": "1999",
-      "finalYear": "1999"
-    },
-    "1237": {
-      "title": "Korea News Today",
-      "firstYear": "19uu",
-      "finalYear": "1997"
-    },
-    "1239": {
-      "title": "The Independence Daily",
-      "firstYear": "19uu",
-      "finalYear": "2005"
-    },
-    "1249": {
-      "title": "The Aucklander",
-      "firstYear": "2003",
-      "finalYear": "2012"
-    },
-    "1252": {
-      "title": "Karere Maori News",
-      "firstYear": "2004",
-      "finalYear": "2006"
-    },
-    "1253": {
-      "title": "Karere Maori News [2004]",
-      "firstYear": "2004",
-      "finalYear": "2006"
-    },
-    "1254": {
-      "title": "Hua Ye",
-      "firstYear": "2004",
-      "finalYear": "9999"
-    },
-    "1262": {
-      "title": "Hibiscus Matters",
-      "firstYear": "2007",
-      "finalYear": "9999"
-    },
-    "1280": {
-      "title": "New Zealand Herald and Auckland Gazette",
-      "firstYear": "1841",
-      "finalYear": "1842"
-    },
-    "1281": {
-      "title": "The Auckland Chronicle and New Zealand Colonist",
-      "firstYear": "1841",
-      "finalYear": "1845"
-    },
-    "1282": {
-      "title": "Auckland Standard",
-      "firstYear": "1842",
-      "finalYear": "1842"
-    },
-    "1283": {
-      "title": "The Auckland Times",
-      "firstYear": "1842",
-      "finalYear": "1846"
-    },
-    "1284": {
-      "title": "Southern Cross",
-      "firstYear": "1843",
-      "finalYear": "1862",
-      "urlDigitized": "http://paperspast.natlib.govt.nz/cgi-bin/paperspast?a=d&cl=CL1.DSC"
-    },
-    "1285": {
-      "title": "The New Zealander [Auckland]",
-      "firstYear": "1845",
-      "finalYear": "1866",
-      "urlDigitized": "http://paperspast.natlib.govt.nz/cgi-bin/paperspast?a=d&cl=CL1.NZ"
-    },
-    "1286": {
-      "title": "The Anglo-Maori Warder",
-      "firstYear": "1848",
-      "finalYear": "1848",
-      "urlCurrent": "http://nzdl.org/cgi-bin/library?gg=_cgiarggg_&e=d-00000-00---off-0niupepa--00-0--0-10-0---0---0prompt-10---4-------0-1l--11-en-50---20-about---00-0-1-00-0-0-11-1-0utfZz-8-00&a=d&c=niupepa&cl=CL1.2"
-    },
-    "1287": {
-      "title": "Maori Messenger (1849)",
-      "firstYear": "1849",
-      "finalYear": "1854",
-      "urlCurrent": "http://nzdl.org/cgi-bin/library?gg=_cgiarggg_&e=d-00000-00---0niupepa--00-0--0-10-0---0---0prompt-10---4-------0-1l--11-en-50---20-about---00-0-1-00-11-1-0utfZz-8-00&a=d&c=niupepa&cl=CL1.3"
-    },
-    "1288": {
-      "title": "Auckland Examiner",
-      "firstYear": "1856",
-      "finalYear": "1861"
-    },
-    "1289": {
-      "title": "The Auckland Register and Commercial and Shipping Gazette",
-      "firstYear": "1857",
-      "finalYear": "1862"
-    },
-    "1290": {
-      "title": "Trumpeter and Universal Advertiser",
-      "firstYear": "1857",
-      "finalYear": "uuuu"
-    },
-    "1291": {
-      "title": "Auckland Independent",
-      "firstYear": "1859",
-      "finalYear": "1860"
-    },
-    "1292": {
-      "title": "The Daily Southern Cross",
-      "firstYear": "1862",
-      "finalYear": "1876",
-      "urlDigitized": "http://paperspast.natlib.govt.nz/cgi-bin/paperspast?a=d&cl=CL1.DSC"
-    },
-    "1293": {
-      "title": "General Advertiser",
-      "firstYear": "1862",
-      "finalYear": "uuuu"
-    },
-    "1294": {
-      "title": "News Letter",
-      "firstYear": "1862",
-      "finalYear": "uuuu"
-    },
-    "1295": {
+    {
+      "id": "1295",
       "title": "Weekly News",
       "firstYear": "1863",
       "finalYear": "1877"
     },
-    "1296": {
+    {
+      "id": "1296",
       "title": "Weekly Herald",
       "firstYear": "1866",
       "finalYear": "1876"
     },
-    "1297": {
+    {
+      "id": "1076",
+      "title": "The Auckland Budget",
+      "firstYear": "1867",
+      "finalYear": "1uuu"
+    },
+    {
+      "id": "1297",
       "title": "Evening News",
       "firstYear": "1867",
       "finalYear": "1871"
     },
-    "1298": {
+    {
+      "id": "1298",
       "title": "Morning Advertiser",
       "firstYear": "1870",
       "finalYear": "1870"
     },
-    "1299": {
+    {
+      "id": "1299",
       "title": "Evening Star",
       "firstYear": "1870",
       "finalYear": "1887",
       "urlDigitized": "http://paperspast.natlib.govt.nz/cgi-bin/paperspast?a=d&cl=CL1.AS"
     },
-    "1300": {
+    {
+      "id": "1300",
       "title": "Echo",
       "firstYear": "1874",
       "finalYear": "1875"
     },
-    "1301": {
+    {
+      "id": "1301",
       "title": "The Auckland Graphic",
       "firstYear": "1876",
       "finalYear": "1uuu"
     },
-    "1302": {
+    {
+      "id": "1302",
       "title": "Weekly News and Weekly Herald",
       "firstYear": "1877",
       "finalYear": "1877"
     },
-    "1303": {
+    {
+      "id": "1303",
       "title": "Auckland Weekly News",
       "firstYear": "1877",
       "finalYear": "1934"
     },
-    "1304": {
+    {
+      "id": "1304",
       "title": "Auckland Free Lance",
       "firstYear": "1879",
       "finalYear": "1885"
     },
-    "1305": {
+    {
+      "id": "1305",
       "title": "The New Zealand Freeman's Journal",
       "firstYear": "1879",
       "finalYear": "1887"
     },
-    "1306": {
+    {
+      "id": "1306",
       "title": "New Zealand Lantern",
       "firstYear": "1879",
       "finalYear": "uuuu"
     },
-    "1307": {
+    {
+      "id": "1307",
       "title": "Mosquito",
       "firstYear": "187u",
       "finalYear": "uuuu"
     },
-    "1308": {
+    {
+      "id": "1308",
       "title": "Observer",
       "firstYear": "1880",
       "finalYear": "1885",
       "urlDigitized": "http://paperspast.natlib.govt.nz/cgi-bin/paperspast?a=d&cl=CL1.TO"
     },
-    "1309": {
+    {
+      "id": "1309",
       "title": "Matariki : ko ia he Taringa ona hei Whakaronga me Whakarongo",
       "firstYear": "1881",
       "finalYear": "1881",
       "urlCurrent": "http://nzdl.org/cgi-bin/library?gg=_cgiarggg_&e=d-00000-00---0niupepa--00-0--0-10-0---0---0prompt-10---4-------0-1l--11-en-50---20-about---00-0-1-00-11-1-0utfZz-8-00&a=d&c=niupepa&cl=CL1.18"
     },
-    "1310": {
+    {
+      "id": "1310",
       "title": "Labour",
       "firstYear": "1884",
       "finalYear": "1884"
     },
-    "1311": {
+    {
+      "id": "1311",
       "title": "Evening Telephone",
       "firstYear": "1884",
       "finalYear": "1885"
     },
-    "1312": {
+    {
+      "id": "1312",
       "title": "Evening Bell",
       "firstYear": "1885",
       "finalYear": "1886"
     },
-    "1313": {
+    {
+      "id": "1313",
       "title": "Observer and Free Lance",
       "firstYear": "1885",
       "finalYear": "1890",
       "urlDigitized": "http://paperspast.natlib.govt.nz/cgi-bin/paperspast?a=d&cl=CL1.TO"
     },
-    "1314": {
+    {
+      "id": "1314",
       "title": "Spectator",
       "firstYear": "1885",
       "finalYear": "uuuu"
     },
-    "1315": {
+    {
+      "id": "1315",
       "title": "Auckland Evening Bell",
       "firstYear": "1886",
       "finalYear": "1888"
     },
-    "1316": {
+    {
+      "id": "1316",
       "title": "Auckland Star",
       "firstYear": "1887",
       "finalYear": "1991",
       "urlDigitized": "http://paperspast.natlib.govt.nz/cgi-bin/paperspast?a=d&cl=CL1.AS"
     },
-    "1317": {
+    {
+      "id": "1317",
       "title": "Ponsonby Sentinel",
       "firstYear": "188u",
       "finalYear": "189u"
     },
-    "1318": {
+    {
+      "id": "1318",
       "title": "New Zealand Graphic",
       "firstYear": "1890",
       "finalYear": "1908"
     },
-    "1319": {
+    {
+      "id": "1319",
       "title": "The New Zealand Observer and Free Lance",
       "firstYear": "1890",
       "finalYear": "1954",
       "urlDigitized": "http://paperspast.natlib.govt.nz/cgi-bin/paperspast?a=d&cl=CL1.TO"
     },
-    "1320": {
+    {
+      "id": "1320",
       "title": "Tribune",
       "firstYear": "1890",
       "finalYear": "uuuu"
     },
-    "1321": {
+    {
+      "id": "1321",
       "title": "Busy bee",
       "firstYear": "1893",
       "finalYear": "uuuu"
     },
-    "1322": {
+    {
+      "id": "1322",
       "title": "Weekly Standard",
       "firstYear": "1894",
       "finalYear": "1984"
     },
-    "1323": {
+    {
+      "id": "1323",
       "title": "People",
       "firstYear": "1896",
       "finalYear": "uuuu"
     },
-    "1324": {
+    {
+      "id": "1324",
       "title": "Bratska Sloga",
       "firstYear": "1899",
       "finalYear": "uuuu"
     },
-    "1325": {
+    {
+      "id": "1325",
       "title": "N.Z. Worker",
       "firstYear": "1905",
       "finalYear": "1910"
     },
-    "1326": {
+    {
+      "id": "1326",
       "title": "Napredak (progress)",
       "firstYear": "1906",
       "finalYear": "1909"
     },
-    "1327": {
+    {
+      "id": "1327",
       "title": "Weekly Graphic and New Zealand Mail",
       "firstYear": "1908",
       "finalYear": "1913"
     },
-    "1328": {
+    {
+      "id": "1328",
       "title": "New Zealand Leader",
       "firstYear": "190u",
       "finalYear": "uuuu"
     },
-    "1329": {
+    {
+      "id": "1329",
       "title": "Waitemata Post",
       "firstYear": "1910",
       "finalYear": "1914"
     },
-    "1330": {
+    {
+      "id": "1330",
       "title": "Social Democrat",
       "firstYear": "1911",
       "finalYear": "1912"
     },
-    "1331": {
+    {
+      "id": "1331",
       "title": "Voice of Labour",
       "firstYear": "1911",
       "finalYear": "1913"
     },
-    "1332": {
+    {
+      "id": "1332",
       "title": "Manukau News",
       "firstYear": "1912",
       "finalYear": "1919"
     },
-    "1333": {
+    {
+      "id": "1333",
       "title": "Bulletin",
       "firstYear": "1913",
       "finalYear": "1915"
     },
-    "1334": {
+    {
+      "id": "1334",
       "title": "Auckland Truth",
       "firstYear": "1913",
       "finalYear": "1928"
     },
-    "1335": {
+    {
+      "id": "1335",
       "title": "Zora : the Dawn",
       "firstYear": "1913",
       "finalYear": "uuuu"
     },
-    "1336": {
+    {
+      "id": "1336",
       "title": "Labor Bulletin",
       "firstYear": "1914",
       "finalYear": "1914"
     },
-    "1337": {
+    {
+      "id": "1337",
       "title": "Waitemata News",
       "firstYear": "1914",
       "finalYear": "1920"
     },
-    "1338": {
+    {
+      "id": "1338",
       "title": "Eden Gazette",
       "firstYear": "1914",
       "finalYear": "uuuu"
     },
-    "1339": {
+    {
+      "id": "1339",
       "title": "New World",
       "firstYear": "1919",
       "finalYear": "uuuu"
     },
-    "1340": {
+    {
+      "id": "1340",
       "title": "Tawhirimatea Taima",
       "firstYear": "191u",
       "finalYear": "191u"
     },
-    "1341": {
+    {
+      "id": "1341",
       "title": "N.Z. Pictorial News",
       "firstYear": "1924",
       "finalYear": "1930"
     },
-    "1342": {
+    {
+      "id": "1342",
       "title": "Tamaki Recorder",
       "firstYear": "1924",
       "finalYear": "1952"
     },
-    "1343": {
+    {
+      "id": "1343",
       "title": "Sun",
       "firstYear": "1927",
       "finalYear": "1930"
     },
-    "1344": {
+    {
+      "id": "1344",
       "title": "The N.Z. Samoa Guardian",
       "firstYear": "1929",
       "finalYear": "1934"
     },
-    "1345": {
+    {
+      "id": "1345",
       "title": "The N.Z. Home Pictorial",
       "firstYear": "1930",
       "finalYear": "1934"
     },
-    "1346": {
+    {
+      "id": "1346",
       "title": "Weekly News",
       "firstYear": "1934",
       "finalYear": "1964"
     },
-    "1347": {
+    {
+      "id": "1347",
       "title": "Zealandia",
       "firstYear": "1934",
       "finalYear": "1989"
     },
-    "1348": {
+    {
+      "id": "1348",
       "title": "Courier",
       "firstYear": "1936",
       "finalYear": "1936"
     },
-    "1349": {
+    {
+      "id": "1349",
       "title": "Jack Blunt : the Voice of the man in the Street",
       "firstYear": "1937",
       "finalYear": "1937"
     },
-    "1350": {
+    {
+      "id": "1350",
       "title": "Shoppers Budget",
       "firstYear": "1937",
       "finalYear": "1937"
     },
-    "1351": {
+    {
+      "id": "1351",
       "title": "N.Z. Budget",
       "firstYear": "1937",
       "finalYear": "uuuu"
     },
-    "1352": {
+    {
+      "id": "1352",
       "title": "Eden Express",
       "firstYear": "1939",
       "finalYear": "1939"
     },
-    "1353": {
+    {
+      "id": "1353",
       "title": "People's Voice",
       "firstYear": "1939",
       "finalYear": "1966"
     },
-    "1354": {
+    {
+      "id": "1354",
       "title": "In Print",
       "firstYear": "1941",
       "finalYear": "1943"
     },
-    "1355": {
+    {
+      "id": "1355",
       "title": "New Lynn News",
       "firstYear": "1948",
       "finalYear": "1962"
     },
-    "1356": {
+    {
+      "id": "1356",
       "title": "This Week",
       "firstYear": "1950",
       "finalYear": "1951"
     },
-    "1357": {
+    {
+      "id": "1357",
       "title": "Reef",
       "firstYear": "1952",
       "finalYear": "19uu"
     },
-    "1358": {
+    {
+      "id": "1358",
       "title": "Eastern Times",
       "firstYear": "1953",
       "finalYear": "1953"
     },
-    "1359": {
+    {
+      "id": "1359",
       "title": "Oranga News",
       "firstYear": "1953",
       "finalYear": "1958"
     },
-    "1360": {
+    {
+      "id": "1360",
       "title": "Tamaki Times (1953)",
       "firstYear": "1953",
       "finalYear": "1960"
     },
-    "1361": {
+    {
+      "id": "1361",
       "title": "Avondale Advance and Blockhouse Bay Beacon",
       "firstYear": "1953",
       "finalYear": "1962"
     },
-    "1362": {
+    {
+      "id": "1362",
       "title": "Parnell Post",
       "firstYear": "1954",
       "finalYear": "1958"
     },
-    "1363": {
+    {
+      "id": "1363",
       "title": "Point Chevalier News",
       "firstYear": "1954",
       "finalYear": "1962"
     },
-    "1364": {
+    {
+      "id": "1364",
       "title": "Roskill Times",
       "firstYear": "1954",
       "finalYear": "1963"
     },
-    "1365": {
+    {
+      "id": "1365",
       "title": "Pt. Chevalier Gazette",
       "firstYear": "1955",
       "finalYear": "1957"
     },
-    "1366": {
+    {
+      "id": "1366",
       "title": "Mt. Albert Enterprise",
       "firstYear": "1955",
       "finalYear": "1962"
     },
-    "1367": {
+    {
+      "id": "1367",
       "title": "Ponsonby Gazette",
       "firstYear": "1956",
       "finalYear": "1957"
     },
-    "1368": {
+    {
+      "id": "1368",
       "title": "Ellerslie sun",
       "firstYear": "1956",
       "finalYear": "1958"
     },
-    "1369": {
+    {
+      "id": "1369",
       "title": "Guardian",
       "firstYear": "1956",
       "finalYear": "1958"
     },
-    "1370": {
+    {
+      "id": "1370",
       "title": "Sandringham Star",
       "firstYear": "1956",
       "finalYear": "1967"
     },
-    "1371": {
+    {
+      "id": "1371",
       "title": "Mt. Eden Progress",
       "firstYear": "1957",
       "finalYear": "1957"
     },
-    "1372": {
+    {
+      "id": "1372",
       "title": "Newmarket and District News & Views",
       "firstYear": "1957",
       "finalYear": "1957"
     },
-    "1373": {
+    {
+      "id": "1373",
       "title": "Western Suburbs Gazette",
       "firstYear": "1957",
       "finalYear": "uuuu"
     },
-    "1374": {
+    {
+      "id": "1374",
       "title": "Post",
       "firstYear": "1958",
       "finalYear": "uuuu"
     },
-    "1375": {
+    {
+      "id": "1375",
       "title": "Glenn Innes Gazette",
       "firstYear": "1959",
       "finalYear": "1960"
     },
-    "1376": {
+    {
+      "id": "1376",
       "title": "Mt. Eden News",
       "firstYear": "1959",
       "finalYear": "1960"
     },
-    "1377": {
+    {
+      "id": "1377",
       "title": "Ponsonby Press",
       "firstYear": "1959",
       "finalYear": "uuuu"
     },
-    "1378": {
+    {
+      "id": "1378",
       "title": "Tamaki Times-pictorial",
       "firstYear": "1960",
       "finalYear": "196u"
     },
-    "1379": {
+    {
+      "id": "1379",
       "title": "Western Suburbs News",
       "firstYear": "1962",
       "finalYear": "1963"
     },
-    "1380": {
+    {
+      "id": "1380",
       "title": "Mt. Albert and Pt. Chevalier News",
       "firstYear": "1962",
       "finalYear": "1966"
     },
-    "1381": {
+    {
+      "id": "1381",
       "title": "News of Remuera",
       "firstYear": "1963",
       "finalYear": "uuuu"
     },
-    "1382": {
+    {
+      "id": "1382",
       "title": "Eastern Suburbs and Tamaki Times",
       "firstYear": "1965",
       "finalYear": "1965"
     },
-    "1383": {
+    {
+      "id": "1383",
       "title": "Tamaki and Eastern Suburbs Times",
       "firstYear": "1965",
       "finalYear": "1967"
     },
-    "1384": {
+    {
+      "id": "1384",
       "title": "New Zealand Weekly News",
       "firstYear": "1965",
       "finalYear": "1971"
     },
-    "1385": {
+    {
+      "id": "1385",
       "title": "News-echo",
       "firstYear": "1966",
       "finalYear": "1966"
     },
-    "1386": {
+    {
+      "id": "1386",
       "title": "The Irish Reporter",
       "firstYear": "1966",
       "finalYear": "1969"
     },
-    "1387": {
+    {
+      "id": "1387",
       "title": "Sunday News",
       "firstYear": "1966",
       "finalYear": "19uu"
     },
-    "1388": {
+    {
+      "id": "1388",
       "title": "Manukau Pictorial (1967)",
       "firstYear": "1967",
       "finalYear": "uuuu"
     },
-    "1389": {
+    {
+      "id": "1389",
       "title": "Tamaki Times (196-?)",
       "firstYear": "196u",
       "finalYear": "1965"
     },
-    "1390": {
+    {
+      "id": "1390",
       "title": "Western Leader (Auckland)",
       "firstYear": "196u",
       "finalYear": "9999"
     },
-    "1391": {
+    {
+      "id": "1391",
       "title": "Impact News",
       "firstYear": "1970",
       "finalYear": "1970"
     },
-    "1392": {
+    {
+      "id": "1392",
       "title": "Rugby News (Auckland : 1970)",
       "firstYear": "1970",
       "finalYear": "1981"
     },
-    "1393": {
+    {
+      "id": "1393",
       "title": "Central Leader",
       "firstYear": "1970",
       "finalYear": "9999",
       "urlCurrent": "http://www.stuff.co.nz/auckland/local-news/central-leader"
     },
-    "1394": {
+    {
+      "id": "1394",
       "title": "Alternative News Service",
       "firstYear": "1971",
       "finalYear": "1972"
     },
-    "1395": {
+    {
+      "id": "1395",
       "title": "Courier Times Advertiser (Central Ed.)",
       "firstYear": "1972",
       "finalYear": "1972"
     },
-    "1396": {
+    {
+      "id": "1396",
       "title": "Howick and Pakuranga Times",
       "firstYear": "1972",
       "finalYear": "9999"
     },
-    "1397": {
+    {
+      "id": "1397",
       "title": "City News",
       "firstYear": "1973",
       "finalYear": "1978"
     },
-    "1398": {
+    {
+      "id": "1188",
+      "title": "Northern Leader",
+      "firstYear": "197u",
+      "finalYear": "197u"
+    },
+    {
+      "id": "1398",
       "title": "Sunday News",
       "firstYear": "197u",
       "finalYear": "9999",
       "urlCurrent": "http://www.stuff.co.nz/sunday-news"
     },
-    "1399": {
+    {
+      "id": "1399",
       "title": "Summer Rugby News",
       "firstYear": "1980",
       "finalYear": "1981"
     },
-    "1400": {
+    {
+      "id": "1400",
       "title": "Talanga",
       "firstYear": "1980",
       "finalYear": "uuuu"
     },
-    "1401": {
+    {
+      "id": "1401",
       "title": "Parnell Remuera Gazette",
       "firstYear": "1981",
       "finalYear": "1981"
     },
-    "1402": {
+    {
+      "id": "1402",
       "title": "Gazette",
       "firstYear": "1981",
       "finalYear": "1986"
     },
-    "1403": {
+    {
+      "id": "1403",
       "title": "East City News",
       "firstYear": "1981",
       "finalYear": "1991"
     },
-    "1404": {
+    {
+      "id": "1404",
       "title": "Soccer Express",
       "firstYear": "1984",
       "finalYear": "1992"
     },
-    "1405": {
+    {
+      "id": "1405",
       "title": "Auckland City Harbour News",
       "firstYear": "1985",
       "finalYear": "9999"
     },
-    "1406": {
+    {
+      "id": "1406",
       "title": "Gazette and Inner City News",
       "firstYear": "1986",
       "finalYear": "1988"
     },
-    "1407": {
+    {
+      "id": "1407",
       "title": "Sunday Star",
       "firstYear": "1986",
       "finalYear": "1994"
     },
-    "1408": {
+    {
+      "id": "1408",
       "title": "Eastern Courier (1986)",
       "firstYear": "1986",
       "finalYear": "9999"
     },
-    "1409": {
+    {
+      "id": "1409",
       "title": "Remuera Times",
       "firstYear": "1987",
       "finalYear": "1991"
     },
-    "1410": {
+    {
+      "id": "1410",
       "title": "Shore News",
       "firstYear": "1987",
       "finalYear": "1993"
     },
-    "1411": {
+    {
+      "id": "1411",
       "title": "New Truth & TV Extra",
       "firstYear": "1988",
       "finalYear": "1997"
     },
-    "1412": {
+    {
+      "id": "1412",
       "title": "Samoa Star",
       "firstYear": "1989",
       "finalYear": "1991"
     },
-    "1413": {
+    {
+      "id": "1413",
       "title": "Settler (Auckland)",
       "firstYear": "1989",
       "finalYear": "1991"
     },
-    "1414": {
+    {
+      "id": "1414",
       "title": "Sing Tao weekly",
       "firstYear": "1989",
       "finalYear": "1991"
     },
-    "1415": {
+    {
+      "id": "1214",
+      "title": "The Examiner",
+      "firstYear": "1990",
+      "finalYear": "1991"
+    },
+    {
+      "id": "1415",
       "title": "Streetwise (Auckland)",
       "firstYear": "1990",
       "finalYear": "1990"
     },
-    "1416": {
+    {
+      "id": "1416",
       "title": "Independent (Auckland)",
       "firstYear": "1992",
       "finalYear": "2010"
     },
-    "1417": {
+    {
+      "id": "1417",
       "title": "North Shore Week",
       "firstYear": "1993",
       "finalYear": "1994"
     },
-    "1418": {
+    {
+      "id": "1418",
       "title": "Manurewa Week",
       "firstYear": "1993",
       "finalYear": "2003"
     },
-    "1419": {
+    {
+      "id": "1419",
       "title": "East & Bays Courier",
       "firstYear": "1993",
       "finalYear": "9999"
     },
-    "1420": {
+    {
+      "id": "1420",
       "title": "Chinese Weekly : New Zealand",
       "firstYear": "1994",
       "finalYear": "1998"
     },
-    "1421": {
+    {
+      "id": "1421",
       "title": "Shore News",
       "firstYear": "1994",
       "finalYear": "2003"
     },
-    "1422": {
+    {
+      "id": "1422",
       "title": "NZ Outdoor Power Equipment",
       "firstYear": "1994",
       "finalYear": "9999"
     },
-    "1423": {
+    {
+      "id": "1423",
       "title": "Sing Tao weekly",
       "firstYear": "1994",
       "finalYear": "9999"
     },
-    "1424": {
+    {
+      "id": "1424",
       "title": "Sunday Star-Times",
       "firstYear": "1994",
       "finalYear": "9999",
       "urlCurrent": "http://www.sundaystartimes.co.nz/"
     },
-    "1425": {
+    {
+      "id": "1425",
       "title": "Local Rag's Town and Around Bulletin",
       "firstYear": "1996",
       "finalYear": "1997"
     },
-    "1426": {
+    {
+      "id": "1426",
       "title": "Te Maori News (1996)",
       "firstYear": "1996",
       "finalYear": "1997"
     },
-    "1427": {
+    {
+      "id": "1427",
       "title": "Local rag (Auckland)",
       "firstYear": "1996",
       "finalYear": "1998"
     },
-    "1428": {
+    {
+      "id": "1428",
       "title": "Mandarin Times",
       "firstYear": "1996",
       "finalYear": "2004"
     },
-    "1429": {
+    {
+      "id": "1429",
       "title": "Shore Weekender",
       "firstYear": "1997",
       "finalYear": "1997"
     },
-    "1430": {
+    {
+      "id": "1430",
       "title": "New Zealand Truth & TV Extra",
       "firstYear": "1997",
       "finalYear": "2002"
     },
-    "1431": {
+    {
+      "id": "1431",
       "title": "New Times Weekly",
       "firstYear": "1997",
       "finalYear": "2009"
     },
-    "1432": {
+    {
+      "id": "1432",
       "title": "Manukau Daily News",
       "firstYear": "1998",
       "finalYear": "1998"
     },
-    "1433": {
+    {
+      "id": "1433",
       "title": "Xian qu bao",
       "firstYear": "1998",
       "finalYear": "9999"
     },
-    "1434": {
+    {
+      "id": "1234",
+      "title": "Daily News",
+      "firstYear": "1999",
+      "finalYear": "1999"
+    },
+    {
+      "id": "1434",
       "title": "Te Karere Maori",
       "firstYear": "1999",
       "finalYear": "1999"
     },
-    "1435": {
+    {
+      "id": "1435",
       "title": "Karere Maori News",
       "firstYear": "1999",
       "finalYear": "2002"
     },
-    "1436": {
+    {
+      "id": "1436",
       "title": "Mandarin Pages Weekly",
       "firstYear": "199u",
       "finalYear": "1996"
     },
-    "1437": {
+    {
+      "id": "1437",
       "title": "Yazhou zhi Sheng",
       "firstYear": "199u",
       "finalYear": "200u"
     },
-    "1438": {
+    {
+      "id": "1438",
       "title": "The New-Korea Herald",
       "firstYear": "199u",
       "finalYear": "2010"
     },
-    "1439": {
+    {
+      "id": "1237",
+      "title": "Korea News Today",
+      "firstYear": "19uu",
+      "finalYear": "1997"
+    },
+    {
+      "id": "1239",
+      "title": "The Independence Daily",
+      "firstYear": "19uu",
+      "finalYear": "2005"
+    },
+    {
+      "id": "1439",
       "title": "Xin wen Zhou bao",
       "firstYear": "19uu",
       "finalYear": "1997"
     },
-    "1440": {
+    {
+      "id": "1440",
       "title": "Mt. Roskill Progress",
       "firstYear": "19uu",
       "finalYear": "19uu"
     },
-    "1441": {
+    {
+      "id": "1441",
       "title": "Tautua Samoa",
       "firstYear": "19uu",
       "finalYear": "2001"
     },
-    "1442": {
+    {
+      "id": "1442",
       "title": "Asian Times",
       "firstYear": "19uu",
       "finalYear": "2003"
     },
-    "1443": {
+    {
+      "id": "1443",
       "title": "The New Zealand Times",
       "firstYear": "19uu",
       "finalYear": "9999",
       "urlCurrent": "http://www.koreatimes.co.nz/"
     },
-    "1444": {
+    {
+      "id": "1444",
       "title": "Times Pinnacle",
       "firstYear": "2000",
       "finalYear": "2001"
     },
-    "1445": {
+    {
+      "id": "1445",
       "title": "Xin hua Qiao si bao",
       "firstYear": "2001",
       "finalYear": "2003"
     },
-    "1446": {
+    {
+      "id": "1446",
       "title": "Da ji Yuan shi bao",
       "firstYear": "2001",
       "finalYear": "9999"
     },
-    "1447": {
+    {
+      "id": "1447",
       "title": "Karere News",
       "firstYear": "2002",
       "finalYear": "2004"
     },
-    "1448": {
+    {
+      "id": "1448",
       "title": "Dong Fang shi bao",
       "firstYear": "2002",
       "finalYear": "2009"
     },
-    "1449": {
+    {
+      "id": "1449",
       "title": "New Zealand Truth",
       "firstYear": "2002",
       "finalYear": "9999",
       "urlCurrent": "http://truth.co.nz/"
     },
-    "1450": {
+    {
+      "id": "1249",
+      "title": "The Aucklander",
+      "firstYear": "2003",
+      "finalYear": "2012"
+    },
+    {
+      "id": "1450",
       "title": "Indian Times (Auckland)",
       "firstYear": "2003",
       "finalYear": "2004"
     },
-    "1451": {
+    {
+      "id": "1451",
       "title": "Yi Zhou Tong",
       "firstYear": "2003",
       "finalYear": "2007"
     },
-    "1452": {
+    {
+      "id": "1452",
       "title": "Goodday New Zealand",
       "firstYear": "2003",
       "finalYear": "9999"
     },
-    "1453": {
+    {
+      "id": "1453",
       "title": "Waha nui",
       "firstYear": "2003",
       "finalYear": "9999",
       "urlCurrent": "http://www.tewahanui.info/"
     },
-    "1454": {
+    {
+      "id": "1252",
+      "title": "Karere Maori News",
+      "firstYear": "2004",
+      "finalYear": "2006"
+    },
+    {
+      "id": "1253",
+      "title": "Karere Maori News [2004]",
+      "firstYear": "2004",
+      "finalYear": "2006"
+    },
+    {
+      "id": "1254",
+      "title": "Hua Ye",
+      "firstYear": "2004",
+      "finalYear": "9999"
+    },
+    {
+      "id": "1454",
       "title": "Midweek",
       "firstYear": "2004",
       "finalYear": "2008"
     },
-    "1455": {
+    {
+      "id": "1455",
       "title": "Herald on Sunday",
       "firstYear": "2004",
       "finalYear": "9999"
     },
-    "1456": {
+    {
+      "id": "1456",
       "title": "Epoch Times (Auckland)",
       "firstYear": "2005",
       "finalYear": "2012",
       "urlCurrent": "http://www.theepochtimes.com/"
     },
-    "1457": {
+    {
+      "id": "1457",
       "title": "Le Samoa Post",
       "firstYear": "2005",
       "finalYear": "9999"
     },
-    "1458": {
+    {
+      "id": "1458",
       "title": "Tamaki and Districts Times",
       "firstYear": "2006",
       "finalYear": "2006",
       "urlCurrent": "http://www.times.co.nz/"
     },
-    "1459": {
+    {
+      "id": "1459",
       "title": "Xin Hua Zhou kan",
       "firstYear": "2006",
       "finalYear": "2006"
     },
-    "1460": {
+    {
+      "id": "1262",
+      "title": "Hibiscus Matters",
+      "firstYear": "2007",
+      "finalYear": "9999"
+    },
+    {
+      "id": "1460",
       "title": "Fu bao",
       "firstYear": "2009",
       "finalYear": "2009"
     },
-    "1461": {
+    {
+      "id": "1461",
       "title": "Truth Weekender",
       "firstYear": "2009",
       "finalYear": "2012"
     },
-    "1462": {
+    {
+      "id": "1462",
       "title": "Dong Fang Zhou kan",
       "firstYear": "2009",
       "finalYear": "9999"
     },
-    "1463": {
+    {
+      "id": "1463",
       "title": "The Weekend Telegraph",
       "firstYear": "200u",
       "finalYear": "2002"
     },
-    "1464": {
+    {
+      "id": "1464",
       "title": "Hua ren Sheng huo Zhou kan",
       "firstYear": "200u",
       "finalYear": "2003"
     },
-    "1465": {
+    {
+      "id": "1465",
       "title": "Hua ren Shang bao",
       "firstYear": "200u",
       "finalYear": "2004"
     },
-    "1466": {
+    {
+      "id": "1466",
       "title": "Niuxilan Zhou bao",
       "firstYear": "200u",
       "finalYear": "2004"
     },
-    "1467": {
+    {
+      "id": "1467",
       "title": "Xin Hua Shang bao",
       "firstYear": "200u",
       "finalYear": "2006"
     },
-    "1468": {
+    {
+      "id": "1468",
       "title": "Samoanius",
       "firstYear": "200u",
       "finalYear": "9999"
     },
-    "1469": {
+    {
+      "id": "1469",
       "title": "The United Press",
       "firstYear": "2010",
       "finalYear": "2011"
     }
-  }
+  ]
 }

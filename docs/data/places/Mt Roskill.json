@@ -1,13 +1,15 @@
 {
   "stats": {
     "placename": "Mt Roskill",
-    "count": 1
+    "count": 1,
+    "decades": 1
   },
-  "papers": {
-    "1152": {
+  "papers": [
+    {
+      "id": "1152",
       "title": "Takapuna Tatler",
       "firstYear": "1966",
       "finalYear": "19uu"
     }
-  }
+  ]
 }

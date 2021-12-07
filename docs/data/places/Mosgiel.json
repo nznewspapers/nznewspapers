@@ -1,23 +1,27 @@
 {
   "stats": {
     "placename": "Mosgiel",
-    "count": 3
+    "count": 3,
+    "decades": 2
   },
-  "papers": {
-    "2601": {
+  "papers": [
+    {
+      "id": "2601",
       "title": "Taieri Advocate",
       "firstYear": "1881",
       "finalYear": "1916"
     },
-    "2623": {
+    {
+      "id": "2623",
       "title": "Plainsman",
       "firstYear": "1960",
       "finalYear": "1964"
     },
-    "2624": {
+    {
+      "id": "2624",
       "title": "Taieri Herald",
       "firstYear": "1962",
       "finalYear": "2012"
     }
-  }
+  ]
 }

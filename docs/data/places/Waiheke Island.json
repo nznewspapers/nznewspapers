@@ -1,49 +1,58 @@
 {
   "stats": {
     "placename": "Waiheke Island",
-    "count": 8
+    "count": 8,
+    "decades": 4
   },
-  "papers": {
-    "1104": {
+  "papers": [
+    {
+      "id": "1104",
       "title": "Waiheke Resident",
       "firstYear": "1947",
       "finalYear": "1949"
     },
-    "1111": {
+    {
+      "id": "1111",
       "title": "Waiheke Island Resident",
       "firstYear": "1949",
       "finalYear": "1952"
     },
-    "1116": {
+    {
+      "id": "1116",
       "title": "Waiheke Resident (1952)",
       "firstYear": "1952",
       "finalYear": "19uu"
     },
-    "1118": {
+    {
+      "id": "1118",
       "title": "Waiheke News and Advertiser",
       "firstYear": "1953",
       "finalYear": "uuuu"
     },
-    "1163": {
+    {
+      "id": "1163",
       "title": "Waiheke Settler",
       "firstYear": "1970",
       "finalYear": "uuuu"
     },
-    "1171": {
+    {
+      "id": "1171",
       "title": "Fresh air",
       "firstYear": "1973",
       "finalYear": "1975"
     },
-    "1175": {
+    {
+      "id": "1175",
       "title": "Gulf News",
       "firstYear": "1973",
       "finalYear": "9999",
       "urlCurrent": "http://www.waihekegulfnews.co.nz/"
     },
-    "1205": {
+    {
+      "id": "1205",
       "title": "Waiheke Bulletin",
       "firstYear": "1985",
       "finalYear": "9999"
     }
-  }
+  ]
 }

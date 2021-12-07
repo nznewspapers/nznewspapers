@@ -1,13 +1,15 @@
 {
   "stats": {
     "placename": "Arrowtown",
-    "count": 1
+    "count": 1,
+    "decades": 1
   },
-  "papers": {
-    "2556": {
+  "papers": [
+    {
+      "id": "2556",
       "title": "Lake County Press",
       "firstYear": "1882",
       "finalYear": "1928"
     }
-  }
+  ]
 }

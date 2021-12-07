@@ -1,90 +1,107 @@
 {
   "stats": {
     "placename": "Thames",
-    "count": 16
+    "count": 16,
+    "decades": 9
   },
-  "papers": {
-    "1471": {
+  "papers": [
+    {
+      "id": "1471",
       "title": "The Evening Star",
       "firstYear": "1867",
       "finalYear": "1893"
     },
-    "1472": {
+    {
+      "id": "1472",
       "title": "Times and Thames Miners' Advocate",
       "firstYear": "1868",
       "finalYear": "1870"
     },
-    "1473": {
+    {
+      "id": "1473",
       "title": "Thames Advertiser",
       "firstYear": "1868",
       "finalYear": "1912",
       "urlDigitized": "http://paperspast.natlib.govt.nz/cgi-bin/paperspast?a=d&cl=CL1.THA"
     },
-    "1474": {
+    {
+      "id": "1474",
       "title": "Mail",
       "firstYear": "1870",
       "finalYear": "uuuu"
     },
-    "1476": {
+    {
+      "id": "1476",
       "title": "Thames Guardian and Mining Record",
       "firstYear": "1871",
       "finalYear": "1872"
     },
-    "1479": {
+    {
+      "id": "1479",
       "title": "Thames Exchange, Miners' and Merchants' Directory",
       "firstYear": "1874",
       "finalYear": "uuuu"
     },
-    "1480": {
+    {
+      "id": "1480",
       "title": "Despatch : Thames and Ohinemuri Observer",
       "firstYear": "1875",
       "finalYear": "uuuu"
     },
-    "1483": {
+    {
+      "id": "1483",
       "title": "Thames Star",
       "firstYear": "1893",
       "finalYear": "1998",
       "urlDigitized": "http://paperspast.natlib.govt.nz/cgi-bin/paperspast?a=d&cl=CL1.THS"
     },
-    "1486": {
+    {
+      "id": "1486",
       "title": "Thames Hauraki Advertiser",
       "firstYear": "1928",
       "finalYear": "1930"
     },
-    "1487": {
+    {
+      "id": "1487",
       "title": "Peninsula Weekly Press",
       "firstYear": "1931",
       "finalYear": "uuuu"
     },
-    "1488": {
+    {
+      "id": "1488",
       "title": "Thames Courier",
       "firstYear": "1933",
       "finalYear": "1941"
     },
-    "1489": {
+    {
+      "id": "1489",
       "title": "Thames Valley Gazette [1977]",
       "firstYear": "1977",
       "finalYear": "1988"
     },
-    "1491": {
+    {
+      "id": "1491",
       "title": "Hauraki Herald",
       "firstYear": "1979",
       "finalYear": "9999"
     },
-    "1495": {
+    {
+      "id": "1495",
       "title": "Thames Valley Gazette [1998]",
       "firstYear": "1998",
       "finalYear": "1999"
     },
-    "1496": {
+    {
+      "id": "1496",
       "title": "CPN : Covering the Coromandel Peninsula and Hauraki Plains",
       "firstYear": "19uu",
       "finalYear": "1998"
     },
-    "1500": {
+    {
+      "id": "1500",
       "title": "Peninsula Press",
       "firstYear": "2011",
       "finalYear": "9999"
     }
-  }
+  ]
 }

@@ -1,14 +1,16 @@
 {
   "stats": {
     "placename": "Port Albert",
-    "count": 1
+    "count": 1,
+    "decades": 1
   },
-  "papers": {
-    "1062": {
+  "papers": [
+    {
+      "id": "1062",
       "title": "The Albertland Gazette",
       "firstYear": "1862",
       "finalYear": "1864",
       "urlDigitized": "http://paperspast.natlib.govt.nz/cgi-bin/paperspast?a=d&cl=CL1.ALG"
     }
-  }
+  ]
 }

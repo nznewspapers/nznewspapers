@@ -1,24 +1,28 @@
 {
   "stats": {
     "placename": "Waimate",
-    "count": 3
+    "count": 3,
+    "decades": 2
   },
-  "papers": {
-    "2539": {
+  "papers": [
+    {
+      "id": "2539",
       "title": "Waitangi Tribune",
       "firstYear": "1875",
       "finalYear": "1879"
     },
-    "2540": {
+    {
+      "id": "2540",
       "title": "Waimate Times",
       "firstYear": "1879",
       "finalYear": "1922"
     },
-    "2542": {
+    {
+      "id": "2542",
       "title": "The Waimate Daily Advertiser",
       "firstYear": "1898",
       "finalYear": "1980",
       "urlDigitized": "http://paperspast.natlib.govt.nz/cgi-bin/paperspast?a=d&cl=CL1&sp=WDA"
     }
-  }
+  ]
 }

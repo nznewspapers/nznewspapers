@@ -1,13 +1,15 @@
 {
   "stats": {
     "placename": "Otira",
-    "count": 1
+    "count": 1,
+    "decades": 1
   },
-  "papers": {
-    "2339": {
+  "papers": [
+    {
+      "id": "2339",
       "title": "Otira Mail",
       "firstYear": "1901",
       "finalYear": "uuuu"
     }
-  }
+  ]
 }

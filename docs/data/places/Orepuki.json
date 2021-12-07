@@ -1,13 +1,15 @@
 {
   "stats": {
     "placename": "Orepuki",
-    "count": 1
+    "count": 1,
+    "decades": 1
   },
-  "papers": {
-    "2677": {
+  "papers": [
+    {
+      "id": "2677",
       "title": "Orepuki Advocate and Western District Advertiser",
       "firstYear": "1901",
       "finalYear": "1928"
     }
-  }
+  ]
 }

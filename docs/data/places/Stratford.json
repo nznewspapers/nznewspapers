@@ -1,44 +1,52 @@
 {
   "stats": {
     "placename": "Stratford",
-    "count": 7
+    "count": 7,
+    "decades": 5
   },
-  "papers": {
-    "1822": {
+  "papers": [
+    {
+      "id": "1822",
       "title": "Stratford Evening Post",
       "firstYear": "1903",
       "finalYear": "1936"
     },
-    "1823": {
+    {
+      "id": "1823",
       "title": "Taranaki Central Press",
       "firstYear": "1936",
       "finalYear": "1937"
     },
-    "1824": {
+    {
+      "id": "1824",
       "title": "Taranaki Weekly",
       "firstYear": "1936",
       "finalYear": "1937"
     },
-    "1825": {
+    {
+      "id": "1825",
       "title": "Stratford Courier",
       "firstYear": "1939",
       "finalYear": "1940"
     },
-    "1826": {
+    {
+      "id": "1826",
       "title": "Mountain Town News",
       "firstYear": "1958",
       "finalYear": "1959"
     },
-    "1827": {
+    {
+      "id": "1827",
       "title": "Stratford Press",
       "firstYear": "1960",
       "finalYear": "9999",
       "urlCurrent": "http://www.stratfordpress.co.nz/"
     },
-    "1828": {
+    {
+      "id": "1828",
       "title": "Waitara & Inglewood Press",
       "firstYear": "1982",
       "finalYear": "1989"
     }
-  }
+  ]
 }

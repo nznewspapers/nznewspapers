@@ -1,13 +1,15 @@
 {
   "stats": {
     "placename": "Nokomai",
-    "count": 1
+    "count": 1,
+    "decades": 1
   },
-  "papers": {
-    "2667": {
+  "papers": [
+    {
+      "id": "2667",
       "title": "Nokomai Herald",
       "firstYear": "1871",
       "finalYear": "1872"
     }
-  }
+  ]
 }

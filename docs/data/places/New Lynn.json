@@ -1,23 +1,27 @@
 {
   "stats": {
     "placename": "New Lynn",
-    "count": 3
+    "count": 3,
+    "decades": 1
   },
-  "papers": {
-    "1132": {
+  "papers": [
+    {
+      "id": "1132",
       "title": "Southwestern Leader",
       "firstYear": "1962",
       "finalYear": "1962"
     },
-    "1142": {
+    {
+      "id": "1142",
       "title": "News Leader",
       "firstYear": "1963",
       "finalYear": "uuuu"
     },
-    "1145": {
+    {
+      "id": "1145",
       "title": "Central News",
       "firstYear": "1964",
       "finalYear": "uuuu"
     }
-  }
+  ]
 }

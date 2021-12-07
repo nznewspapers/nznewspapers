@@ -1,28 +1,33 @@
 {
   "stats": {
     "placename": "Greytown",
-    "count": 4
+    "count": 4,
+    "decades": 3
   },
-  "papers": {
-    "2017": {
+  "papers": [
+    {
+      "id": "2017",
       "title": "Wairarapa Mercury",
       "firstYear": "1867",
       "finalYear": "1872"
     },
-    "2018": {
+    {
+      "id": "2018",
       "title": "Wairarapa Journal",
       "firstYear": "1868",
       "finalYear": "1868"
     },
-    "2019": {
+    {
+      "id": "2019",
       "title": "Wairarapa Standard",
       "firstYear": "1872",
       "finalYear": "1942"
     },
-    "2024": {
+    {
+      "id": "2024",
       "title": "Greytown News",
       "firstYear": "1977",
       "finalYear": "1980"
     }
-  }
+  ]
 }

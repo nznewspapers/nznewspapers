@@ -1,35 +1,41 @@
 {
   "stats": {
     "placename": "Te Awamutu",
-    "count": 5
+    "count": 5,
+    "decades": 5
   },
-  "papers": {
-    "1599": {
+  "papers": [
+    {
+      "id": "1599",
       "title": "Te Pihoihoi Mokemoke i Runga i te Tuanui",
       "firstYear": "1863",
       "finalYear": "1863",
       "urlCurrent": "http://nzdl.org/cgi-bin/library?gg=_cgiarggg_&e=d-00000-00---off-0niupepa--00-0--0-10-0---0---0prompt-10---4-------0-1l--11-en-50---20-about---00-0-1-00-0-0-11-1-0utfZz-8-00&a=d&c=niupepa&cl=CL1.13",
       "urlDigitized": "http://nzdl.org/cgi-bin/library?gg=_cgiarggg_&e=d-00000-00---off-0niupepa--00-0--0-10-0---0---0prompt-10---4-------0-1l--11-en-50---20-about---00-0-1-00-0-0-11-1-0utfZz-8-00&a=d&c=niupepa&cl=CL1.13"
     },
-    "1600": {
+    {
+      "id": "1600",
       "title": "Waipa Post",
       "firstYear": "1911",
       "finalYear": "1936"
     },
-    "1601": {
+    {
+      "id": "1601",
       "title": "New Zealand Produce Review",
       "firstYear": "1925",
       "finalYear": "1926"
     },
-    "1602": {
+    {
+      "id": "1602",
       "title": "Te Awamutu Courier",
       "firstYear": "1936",
       "finalYear": "9999"
     },
-    "1603": {
+    {
+      "id": "1603",
       "title": "Waipa Leader",
       "firstYear": "1992",
       "finalYear": "1995"
     }
-  }
+  ]
 }

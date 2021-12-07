@@ -1,13 +1,15 @@
 {
   "stats": {
     "placename": "Collingwood",
-    "count": 1
+    "count": 1,
+    "decades": 1
   },
-  "papers": {
-    "2219": {
+  "papers": [
+    {
+      "id": "2219",
       "title": "Golden Bay Argus",
       "firstYear": "1883",
       "finalYear": "1915"
     }
-  }
+  ]
 }

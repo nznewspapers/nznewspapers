@@ -1,23 +1,27 @@
 {
   "stats": {
     "placename": "Mount Roskill",
-    "count": 3
+    "count": 3,
+    "decades": 2
   },
-  "papers": {
-    "1140": {
+  "papers": [
+    {
+      "id": "1140",
       "title": "Roskill and Onehunga News",
       "firstYear": "1963",
       "finalYear": "1970"
     },
-    "1150": {
+    {
+      "id": "1150",
       "title": "Central Suburbs Leader",
       "firstYear": "1966",
       "finalYear": "1970"
     },
-    "1162": {
+    {
+      "id": "1162",
       "title": "Southern Leader",
       "firstYear": "1970",
       "finalYear": "uuuu"
     }
-  }
+  ]
 }

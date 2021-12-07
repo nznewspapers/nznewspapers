@@ -1,13 +1,15 @@
 {
   "stats": {
     "placename": "Kawhia",
-    "count": 1
+    "count": 1,
+    "decades": 1
   },
-  "papers": {
-    "1616": {
+  "papers": [
+    {
+      "id": "1616",
       "title": "Kawhia Settler and Raglan Advertiser",
       "firstYear": "1901",
       "finalYear": "1936"
     }
-  }
+  ]
 }

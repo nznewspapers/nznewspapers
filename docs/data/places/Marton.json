@@ -1,34 +1,40 @@
 {
   "stats": {
     "placename": "Marton",
-    "count": 5
+    "count": 5,
+    "decades": 5
   },
-  "papers": {
-    "1859": {
+  "papers": [
+    {
+      "id": "1859",
       "title": "Rangitikei Advocate and Manawatu Argus",
       "firstYear": "1875",
       "finalYear": "1941"
     },
-    "1861": {
+    {
+      "id": "1861",
       "title": "Mercury",
       "firstYear": "1891",
       "finalYear": "1896"
     },
-    "1869": {
+    {
+      "id": "1869",
       "title": "Rangitikei News",
       "firstYear": "1948",
       "finalYear": "1955"
     },
-    "1873": {
+    {
+      "id": "1873",
       "title": "District Monitor",
       "firstYear": "1992",
       "finalYear": "2004"
     },
-    "1874": {
+    {
+      "id": "1874",
       "title": "Rangitikei District Monitor",
       "firstYear": "2004",
       "finalYear": "9999",
       "urlCurrent": "http://www.districtmonitor.co.nz/"
     }
-  }
+  ]
 }

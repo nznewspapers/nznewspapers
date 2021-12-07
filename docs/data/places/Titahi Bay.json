@@ -1,13 +1,15 @@
 {
   "stats": {
     "placename": "Titahi Bay",
-    "count": 1
+    "count": 1,
+    "decades": 1
   },
-  "papers": {
-    "2036": {
+  "papers": [
+    {
+      "id": "2036",
       "title": "Spokesman",
       "firstYear": "1950",
       "finalYear": "1951"
     }
-  }
+  ]
 }

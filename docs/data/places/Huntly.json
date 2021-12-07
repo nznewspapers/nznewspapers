@@ -1,29 +1,34 @@
 {
   "stats": {
     "placename": "Huntly",
-    "count": 4
+    "count": 4,
+    "decades": 4
   },
-  "papers": {
-    "1529": {
+  "papers": [
+    {
+      "id": "1529",
       "title": "Huntly Press and District Gazette",
       "firstYear": "1912",
       "finalYear": "1995"
     },
-    "1536": {
+    {
+      "id": "1536",
       "title": "Newspower",
       "firstYear": "1980",
       "finalYear": "1980"
     },
-    "1546": {
+    {
+      "id": "1546",
       "title": "North Waikato Tatler",
       "firstYear": "1995",
       "finalYear": "2000"
     },
-    "1547": {
+    {
+      "id": "1547",
       "title": "North Waikato News",
       "firstYear": "2001",
       "finalYear": "9999",
       "urlCurrent": "http://e-edition.northwaikatonews.co.nz/"
     }
-  }
+  ]
 }

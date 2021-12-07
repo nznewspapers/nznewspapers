@@ -1,28 +1,33 @@
 {
   "stats": {
     "placename": "Morrinsville",
-    "count": 4
+    "count": 4,
+    "decades": 4
   },
-  "papers": {
-    "1553": {
+  "papers": [
+    {
+      "id": "1553",
       "title": "Morrinsville Star",
       "firstYear": "1911",
       "finalYear": "1977"
     },
-    "1562": {
+    {
+      "id": "1562",
       "title": "Morrinsville & District News-view",
       "firstYear": "1963",
       "finalYear": "1967"
     },
-    "1564": {
+    {
+      "id": "1564",
       "title": "Piako Post",
       "firstYear": "1977",
       "finalYear": "9999"
     },
-    "1567": {
+    {
+      "id": "1567",
       "title": "The New Tatler",
       "firstYear": "1993",
       "finalYear": "1995"
     }
-  }
+  ]
 }

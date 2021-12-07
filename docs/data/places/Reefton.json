@@ -1,39 +1,46 @@
 {
   "stats": {
     "placename": "Reefton",
-    "count": 6
+    "count": 6,
+    "decades": 3
   },
-  "papers": {
-    "2291": {
+  "papers": [
+    {
+      "id": "2291",
       "title": "Inangahua Herald",
       "firstYear": "1872",
       "finalYear": "1936"
     },
-    "2294": {
+    {
+      "id": "2294",
       "title": "Reefton Courier and Inangahua Advertiser",
       "firstYear": "1874",
       "finalYear": "1874"
     },
-    "2297": {
+    {
+      "id": "2297",
       "title": "The Inangahua Times",
       "firstYear": "1875",
       "finalYear": "1942",
       "urlDigitized": "http://paperspast.natlib.govt.nz/cgi-bin/paperspast?a=d&cl=CL1.IT"
     },
-    "2303": {
+    {
+      "id": "2303",
       "title": "Reefton Guardian",
       "firstYear": "1888",
       "finalYear": "1894"
     },
-    "2308": {
+    {
+      "id": "2308",
       "title": "Reefton Weekly",
       "firstYear": "1942",
       "finalYear": "uuuu"
     },
-    "2309": {
+    {
+      "id": "2309",
       "title": "Inangahua-Murchison Times",
       "firstYear": "1946",
       "finalYear": "1956"
     }
-  }
+  ]
 }

@@ -1,121 +1,144 @@
 {
   "stats": {
     "placename": "Tauranga",
-    "count": 22
+    "count": 22,
+    "decades": 10
   },
-  "papers": {
-    "1634": {
+  "papers": [
+    {
+      "id": "1634",
       "title": "Tauranga Argus and Opotiki Recorder",
       "firstYear": "1866",
       "finalYear": "1867"
     },
-    "1635": {
+    {
+      "id": "1635",
       "title": "Tauranga Record and Bay of Plenty Examiner",
       "firstYear": "1867",
       "finalYear": "1868"
     },
-    "1636": {
+    {
+      "id": "1636",
       "title": "Bay of Plenty Times",
       "firstYear": "1872",
       "finalYear": "9999",
       "urlCurrent": "http://www.bayofplentytimes.co.nz",
       "urlDigitized": "http://paperspast.natlib.govt.nz/cgi-bin/paperspast?a=d&cl=CL1.BOPT"
     },
-    "1637": {
+    {
+      "id": "1637",
       "title": "Evening News and East Coast Business Advertiser",
       "firstYear": "1885",
       "finalYear": "1887"
     },
-    "1638": {
+    {
+      "id": "1638",
       "title": "Tauranga Advertiser",
       "firstYear": "1885",
       "finalYear": "uuuu"
     },
-    "1639": {
+    {
+      "id": "1639",
       "title": "Tauranga Evening Star",
       "firstYear": "1889",
       "finalYear": "1890"
     },
-    "1640": {
+    {
+      "id": "1640",
       "title": "Konga-peke-e-maha",
       "firstYear": "1916",
       "finalYear": "uuuu"
     },
-    "1642": {
+    {
+      "id": "1642",
       "title": "Pacific Coast Tide",
       "firstYear": "1955",
       "finalYear": "1955"
     },
-    "1643": {
+    {
+      "id": "1643",
       "title": "Greerton Reporter",
       "firstYear": "1966",
       "finalYear": "1970"
     },
-    "1644": {
+    {
+      "id": "1644",
       "title": "Otumoetai Reporter",
       "firstYear": "1966",
       "finalYear": "uuuu"
     },
-    "1645": {
+    {
+      "id": "1645",
       "title": "Bay of Plenty News",
       "firstYear": "1970",
       "finalYear": "1971"
     },
-    "1646": {
+    {
+      "id": "1646",
       "title": "Bay of Plenty Mirror (Eastern Ed.)",
       "firstYear": "1972",
       "finalYear": "1974"
     },
-    "1647": {
+    {
+      "id": "1647",
       "title": "Mount Maunganui Sun",
       "firstYear": "1975",
       "finalYear": "1976"
     },
-    "1648": {
+    {
+      "id": "1648",
       "title": "Bay Sun",
       "firstYear": "1976",
       "finalYear": "1988"
     },
-    "1649": {
+    {
+      "id": "1649",
       "title": "Bay of Plenty Hometalk",
       "firstYear": "1980",
       "finalYear": "1981"
     },
-    "1650": {
+    {
+      "id": "1650",
       "title": "Greerton Gazette",
       "firstYear": "1981",
       "finalYear": "uuuu"
     },
-    "1651": {
+    {
+      "id": "1651",
       "title": "Otumoetai Express",
       "firstYear": "1982",
       "finalYear": "uuuu"
     },
-    "1652": {
+    {
+      "id": "1652",
       "title": "Timescan",
       "firstYear": "1983",
       "finalYear": "1990"
     },
-    "1654": {
+    {
+      "id": "1654",
       "title": "Greerton-Gate Pa Express",
       "firstYear": "198u",
       "finalYear": "uuuu"
     },
-    "1655": {
+    {
+      "id": "1655",
       "title": "Bay City Weekend",
       "firstYear": "1992",
       "finalYear": "1994"
     },
-    "1656": {
+    {
+      "id": "1656",
       "title": "Mount and Papamoa Times",
       "firstYear": "1994",
       "finalYear": "2001"
     },
-    "1657": {
+    {
+      "id": "1657",
       "title": "The Weekend Sun",
       "firstYear": "2000",
       "finalYear": "9999",
       "urlCurrent": "http://www.sunlive.co.nz/"
     }
-  }
+  ]
 }

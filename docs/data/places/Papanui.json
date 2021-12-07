@@ -1,18 +1,21 @@
 {
   "stats": {
     "placename": "Papanui",
-    "count": 2
+    "count": 2,
+    "decades": 2
   },
-  "papers": {
-    "2386": {
+  "papers": [
+    {
+      "id": "2386",
       "title": "Papanui Herald (1957)",
       "firstYear": "1957",
       "finalYear": "1960"
     },
-    "2400": {
+    {
+      "id": "2400",
       "title": "Christchurch North News",
       "firstYear": "19uu",
       "finalYear": "1999"
     }
-  }
+  ]
 }

@@ -1,13 +1,15 @@
 {
   "stats": {
     "placename": "Stewart Island",
-    "count": 1
+    "count": 1,
+    "decades": 1
   },
-  "papers": {
-    "2686": {
+  "papers": [
+    {
+      "id": "2686",
       "title": "Stewart Island News",
       "firstYear": "1987",
       "finalYear": "9999"
     }
-  }
+  ]
 }

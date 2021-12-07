@@ -1,14 +1,16 @@
 {
   "stats": {
     "placename": "Hornby",
-    "count": 1
+    "count": 1,
+    "decades": 1
   },
-  "papers": {
-    "2395": {
+  "papers": [
+    {
+      "id": "2395",
       "title": "Central Canterbury News (1990)",
       "firstYear": "1990",
       "finalYear": "9999",
       "urlCurrent": "http://www.stuff.co.nz/the-press/central-canterbury-news/"
     }
-  }
+  ]
 }

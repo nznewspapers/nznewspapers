@@ -1,105 +1,125 @@
 {
   "stats": {
     "placename": "Hastings",
-    "count": 19
+    "count": 19,
+    "decades": 8
   },
-  "papers": {
-    "1731": {
+  "papers": [
+    {
+      "id": "1731",
       "title": "Hastings Star",
       "firstYear": "1886",
       "finalYear": "1886"
     },
-    "1732": {
+    {
+      "id": "1732",
       "title": "Hastings Evening Star",
       "firstYear": "1886",
       "finalYear": "1888"
     },
-    "1733": {
+    {
+      "id": "1733",
       "title": "Huia Tangata Kotahi",
       "firstYear": "1893",
       "finalYear": "1895",
       "urlCurrent": "http://nzdl.org/cgi-bin/library?gg=_cgiarggg_&e=d-00000-00---0niupepa--00-0--0-10-0---0---0prompt-10---4-------0-1l--11-en-50---20-about---00-0-1-00-11-1-0utfZz-8-00&a=d&c=niupepa&cl=CL1.25"
     },
-    "1734": {
+    {
+      "id": "1734",
       "title": "Hastings Standard",
       "firstYear": "1896",
       "finalYear": "1910"
     },
-    "1735": {
+    {
+      "id": "1735",
       "title": "Hawke's Bay Tribune",
       "firstYear": "1910",
       "finalYear": "1937"
     },
-    "1736": {
+    {
+      "id": "1736",
       "title": "Hawke's Bay Herald-Tribune",
       "firstYear": "1937",
       "finalYear": "1999"
     },
-    "1739": {
+    {
+      "id": "1739",
       "title": "Daily Mail",
       "firstYear": "1938",
       "finalYear": "1941"
     },
-    "1744": {
+    {
+      "id": "1744",
       "title": "Flaxmere and Western Suburbs Gazette",
       "firstYear": "1978",
       "finalYear": "1984"
     },
-    "1745": {
+    {
+      "id": "1745",
       "title": "City Leader",
       "firstYear": "1985",
       "finalYear": "1985"
     },
-    "1746": {
+    {
+      "id": "1746",
       "title": "Te Mata Leader",
       "firstYear": "1985",
       "finalYear": "1985"
     },
-    "1747": {
+    {
+      "id": "1747",
       "title": "Western Leader",
       "firstYear": "1985",
       "finalYear": "1985"
     },
-    "1748": {
+    {
+      "id": "1748",
       "title": "Leader (Hastings)",
       "firstYear": "1985",
       "finalYear": "1995"
     },
-    "1749": {
+    {
+      "id": "1749",
       "title": "Bay Weekender and Weekly TV Guide",
       "firstYear": "1994",
       "finalYear": "1996"
     },
-    "1750": {
+    {
+      "id": "1750",
       "title": "Hawke's Bay sun",
       "firstYear": "1995",
       "finalYear": "1998"
     },
-    "1751": {
+    {
+      "id": "1751",
       "title": "Hawke's Bay Today",
       "firstYear": "1999",
       "finalYear": "9999",
       "urlCurrent": "http://www.hbtoday.co.nz/"
     },
-    "1753": {
+    {
+      "id": "1753",
       "title": "Leader",
       "firstYear": "2004",
       "finalYear": "9999"
     },
-    "1754": {
+    {
+      "id": "1754",
       "title": "Hastings Leader",
       "firstYear": "2006",
       "finalYear": "9999"
     },
-    "1755": {
+    {
+      "id": "1755",
       "title": "The Hastings & Havelock North Mail",
       "firstYear": "2009",
       "finalYear": "9999"
     },
-    "1756": {
+    {
+      "id": "1756",
       "title": "The Hastings Mail",
       "firstYear": "200u",
       "finalYear": "2009"
     }
-  }
+  ]
 }

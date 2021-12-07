@@ -1,28 +1,33 @@
 {
   "stats": {
     "placename": "Opunake",
-    "count": 4
+    "count": 4,
+    "decades": 4
   },
-  "papers": {
-    "1830": {
+  "papers": [
+    {
+      "id": "1830",
       "title": "Egmont Courier and Waimate Plains Advocate",
       "firstYear": "1883",
       "finalYear": "uuuu"
     },
-    "1833": {
+    {
+      "id": "1833",
       "title": "Opunake Times",
       "firstYear": "1894",
       "finalYear": "1949"
     },
-    "1838": {
+    {
+      "id": "1838",
       "title": "Opunake News (1969)",
       "firstYear": "1969",
       "finalYear": "1982"
     },
-    "1843": {
+    {
+      "id": "1843",
       "title": "Opunake & Coastal News",
       "firstYear": "1992",
       "finalYear": "9999"
     }
-  }
+  ]
 }
