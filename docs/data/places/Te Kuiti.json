@@ -1,0 +1,19 @@
+{
+  "stats": {
+    "placename": "Te Kuiti",
+    "count": 2
+  },
+  "papers": {
+    "1618": {
+      "title": "King Country Chronicle",
+      "firstYear": "1906",
+      "finalYear": "1980",
+      "urlDigitized": "http://paperspast.natlib.govt.nz/cgi-bin/paperspast?a=d&cl=CL1.KCC"
+    },
+    "1620": {
+      "title": "Waitomo News",
+      "firstYear": "1980",
+      "finalYear": "9999"
+    }
+  }
+}

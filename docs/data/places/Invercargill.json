@@ -1,0 +1,94 @@
+{
+  "stats": {
+    "placename": "Invercargill",
+    "count": 16
+  },
+  "papers": {
+    "2655": {
+      "title": "Southland Daily News",
+      "firstYear": "1861",
+      "finalYear": "1968"
+    },
+    "2656": {
+      "title": "Invercargill Times",
+      "firstYear": "1862",
+      "finalYear": "1864",
+      "urlDigitized": "http://paperspast.natlib.govt.nz/cgi-bin/paperspast?a=d&cl=CL1.ST"
+    },
+    "2658": {
+      "title": "Weekly News",
+      "firstYear": "1862",
+      "finalYear": "uuuu"
+    },
+    "2659": {
+      "title": "Bulletin",
+      "firstYear": "1864",
+      "finalYear": "1864"
+    },
+    "2663": {
+      "title": "Southland Times",
+      "firstYear": "1864",
+      "finalYear": "9999",
+      "urlCurrent": "http://www.southlandtimes.co.nz/",
+      "urlDigitized": "http://paperspast.natlib.govt.nz/cgi-bin/paperspast?a=d&cl=CL1.ST"
+    },
+    "2666": {
+      "title": "Weekly Times",
+      "firstYear": "1866",
+      "finalYear": "1933"
+    },
+    "2671": {
+      "title": "Southlander",
+      "firstYear": "1882",
+      "finalYear": "1930"
+    },
+    "2673": {
+      "title": "Southern Cross",
+      "firstYear": "1893",
+      "finalYear": "1946"
+    },
+    "2681": {
+      "title": "Table-talk",
+      "firstYear": "1933",
+      "finalYear": "1935"
+    },
+    "2682": {
+      "title": "News Sports",
+      "firstYear": "1952",
+      "finalYear": "19uu"
+    },
+    "2685": {
+      "title": "Mirror (Invercargill)",
+      "firstYear": "1987",
+      "finalYear": "1993"
+    },
+    "2687": {
+      "title": "Southland Express",
+      "firstYear": "1992",
+      "finalYear": "9999",
+      "urlCurrent": "http://www.odt.co.nz/news/sources/southland-express"
+    },
+    "2688": {
+      "title": "Mirror (Central Otago Ed.)",
+      "firstYear": "1993",
+      "finalYear": "9999",
+      "urlCurrent": "http://fairfaxmedia.newspaperdirect.com/epaper/viewer.aspx"
+    },
+    "2689": {
+      "title": "Mirror (Queenstown-Lakes Ed.)",
+      "firstYear": "1993",
+      "finalYear": "9999",
+      "urlCurrent": "http://fairfaxmedia.newspaperdirect.com/epaper/viewer.aspx"
+    },
+    "2692": {
+      "title": "The Invercargill eye",
+      "firstYear": "200u",
+      "finalYear": "2010"
+    },
+    "2693": {
+      "title": "Eye",
+      "firstYear": "2010",
+      "finalYear": "9999"
+    }
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "stats": {
+    "placename": "Gore",
+    "count": 4
+  },
+  "papers": {
+    "2695": {
+      "title": "The Mataura Ensign",
+      "firstYear": "1878",
+      "finalYear": "1973",
+      "urlDigitized": "http://paperspast.natlib.govt.nz/cgi-bin/paperspast?a=d&cl=CL1.ME"
+    },
+    "2696": {
+      "title": "Southern Standard",
+      "firstYear": "1887",
+      "finalYear": "1906"
+    },
+    "2697": {
+      "title": "Gore Standard",
+      "firstYear": "1906",
+      "finalYear": "1910"
+    },
+    "2698": {
+      "title": "The Ensign",
+      "firstYear": "1973",
+      "finalYear": "9999",
+      "urlCurrent": "http://www.theensign.co.nz"
+    }
+  }
+}

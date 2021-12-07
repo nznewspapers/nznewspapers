@@ -1,0 +1,19 @@
+{
+  "stats": {
+    "placename": "Roxburgh",
+    "count": 2
+  },
+  "papers": {
+    "2566": {
+      "title": "Mt. Benger Mail",
+      "firstYear": "1880",
+      "finalYear": "1941",
+      "urlDigitized": "http://paperspast.natlib.govt.nz/cgi-bin/paperspast?a=d&cl=CL1.MTBM"
+    },
+    "2567": {
+      "title": "Teviot Herald and Roxburgh District Gazette",
+      "firstYear": "1896",
+      "finalYear": "uuuu"
+    }
+  }
+}

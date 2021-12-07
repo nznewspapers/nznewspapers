@@ -1,0 +1,33 @@
+{
+  "stats": {
+    "placename": "Darfield",
+    "count": 5
+  },
+  "papers": {
+    "2351": {
+      "title": "New Record",
+      "firstYear": "1957",
+      "finalYear": "1965"
+    },
+    "2352": {
+      "title": "Malvern Record",
+      "firstYear": "1965",
+      "finalYear": "1983"
+    },
+    "2355": {
+      "title": "Central Canterbury News",
+      "firstYear": "1983",
+      "finalYear": "1989"
+    },
+    "2356": {
+      "title": "Malvern Record (1986)",
+      "firstYear": "1986",
+      "finalYear": "9999"
+    },
+    "2359": {
+      "title": "Malvern News",
+      "firstYear": "1999",
+      "finalYear": "9999"
+    }
+  }
+}

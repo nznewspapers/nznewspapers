@@ -1,0 +1,29 @@
+{
+  "stats": {
+    "placename": "Kerikeri",
+    "count": 4
+  },
+  "papers": {
+    "1022": {
+      "title": "Kerikeri Chronicle",
+      "firstYear": "1974",
+      "finalYear": "1986"
+    },
+    "1026": {
+      "title": "Chronicle (Kerikeri)",
+      "firstYear": "1988",
+      "finalYear": "2003"
+    },
+    "1031": {
+      "title": "Bay Chronicle",
+      "firstYear": "2003",
+      "finalYear": "9999",
+      "urlCurrent": "http://www.stuff.co.nz/auckland/local-news/northland/bay-chronicle"
+    },
+    "1032": {
+      "title": "The Bay Report",
+      "firstYear": "2006",
+      "finalYear": "2009"
+    }
+  }
+}

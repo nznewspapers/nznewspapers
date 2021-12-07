@@ -1,0 +1,18 @@
+{
+  "stats": {
+    "placename": "Twizel",
+    "count": 2
+  },
+  "papers": {
+    "2515": {
+      "title": "Twizel Newsletter",
+      "firstYear": "1971",
+      "finalYear": "1971"
+    },
+    "2516": {
+      "title": "Twizel Chronicle",
+      "firstYear": "1971",
+      "finalYear": "1984"
+    }
+  }
+}

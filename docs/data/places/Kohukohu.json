@@ -1,0 +1,28 @@
+{
+  "stats": {
+    "placename": "Kohukohu",
+    "count": 4
+  },
+  "papers": {
+    "1006": {
+      "title": "Hokianga Times",
+      "firstYear": "1905",
+      "finalYear": "1936"
+    },
+    "1014": {
+      "title": "Hokianga Star",
+      "firstYear": "1923",
+      "finalYear": "1937"
+    },
+    "1018": {
+      "title": "Hokianga Herald",
+      "firstYear": "1938",
+      "finalYear": "194u"
+    },
+    "1021": {
+      "title": "Hokianga Herald [1946]",
+      "firstYear": "1946",
+      "finalYear": "1959"
+    }
+  }
+}

@@ -1,0 +1,132 @@
+{
+  "stats": {
+    "placename": "Napier",
+    "count": 24
+  },
+  "papers": {
+    "1757": {
+      "title": "The Hawke's Bay Herald",
+      "firstYear": "1857",
+      "finalYear": "1937",
+      "urlDigitized": "http://paperspast.natlib.govt.nz/cgi-bin/paperspast?a=d&cl=CL1.HBH"
+    },
+    "1758": {
+      "title": "Hawke's Bay Times",
+      "firstYear": "1861",
+      "finalYear": "1874"
+    },
+    "1759": {
+      "title": "Te Waka Maori o Ahuriri",
+      "firstYear": "1863",
+      "finalYear": "1871",
+      "urlCurrent": "http://nzdl.org/cgi-bin/library?gg=_cgiarggg_&e=d-00000-00---0niupepa--00-0--0-10-0---0---0prompt-10---4-------0-1l--11-en-50---20-about---00-0-1-00-11-1-0utfZz-8-00&a=d&c=niupepa&cl=CL1.14"
+    },
+    "1761": {
+      "title": "Telegraph",
+      "firstYear": "1871",
+      "finalYear": "1873"
+    },
+    "1762": {
+      "title": "The Daily Telegraph",
+      "firstYear": "1871",
+      "finalYear": "1999",
+      "urlDigitized": "http://paperspast.natlib.govt.nz/cgi-bin/paperspast?a=d&cl=CL1.DTN"
+    },
+    "1763": {
+      "title": "Wananga",
+      "firstYear": "1874",
+      "finalYear": "1878",
+      "urlCurrent": "http://nzdl.org/cgi-bin/library?gg=_cgiarggg_&e=d-00000-00---0niupepa--00-0--0-10-0---0---0prompt-10---4-------0-1l--11-en-50---20-about---00-0-1-00-11-1-0utfZz-8-00&a=d&c=niupepa&cl=CL1.16"
+    },
+    "1764": {
+      "title": "Weekly Mercury and Hawke's Bay Advertiser",
+      "firstYear": "1875",
+      "finalYear": "1882"
+    },
+    "1765": {
+      "title": "Hawke's Bay Weekly Courier",
+      "firstYear": "1879",
+      "finalYear": "1897"
+    },
+    "1766": {
+      "title": "Napier Evening Star",
+      "firstYear": "1879",
+      "finalYear": "uuuu"
+    },
+    "1767": {
+      "title": "Evening News and Hawke's Bay Advertiser",
+      "firstYear": "1885",
+      "finalYear": "1897"
+    },
+    "1768": {
+      "title": "Everybody's Weekly News",
+      "firstYear": "1923",
+      "finalYear": "uuuu"
+    },
+    "1769": {
+      "title": "News Bulletin",
+      "firstYear": "1931",
+      "finalYear": "1931"
+    },
+    "1770": {
+      "title": "Napier Suburban Star",
+      "firstYear": "1962",
+      "finalYear": "uuuu"
+    },
+    "1771": {
+      "title": "Marewa Maraenui Messenger",
+      "firstYear": "1971",
+      "finalYear": "1978"
+    },
+    "1772": {
+      "title": "Taradale Times",
+      "firstYear": "1971",
+      "finalYear": "1985"
+    },
+    "1773": {
+      "title": "Messenger",
+      "firstYear": "1978",
+      "finalYear": "1978"
+    },
+    "1774": {
+      "title": "Day two",
+      "firstYear": "1985",
+      "finalYear": "1988"
+    },
+    "1775": {
+      "title": "Courier (Napier)",
+      "firstYear": "1990",
+      "finalYear": "1995"
+    },
+    "1776": {
+      "title": "Taradale Gazette",
+      "firstYear": "1993",
+      "finalYear": "1993"
+    },
+    "1777": {
+      "title": "The Hastings Leader",
+      "firstYear": "1996",
+      "finalYear": "2004"
+    },
+    "1778": {
+      "title": "The Napier Courier",
+      "firstYear": "1996",
+      "finalYear": "9999"
+    },
+    "1779": {
+      "title": "Courier-leader (Napier Ed.)",
+      "firstYear": "199u",
+      "finalYear": "1996"
+    },
+    "1780": {
+      "title": "Courier-leader (Hastings Ed.)",
+      "firstYear": "19uu",
+      "finalYear": "1996"
+    },
+    "1781": {
+      "title": "The Napier Mail",
+      "firstYear": "2000",
+      "finalYear": "9999"
+    }
+  }
+}

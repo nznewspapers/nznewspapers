@@ -1,0 +1,19 @@
+{
+  "stats": {
+    "placename": "Milton",
+    "count": 2
+  },
+  "papers": {
+    "2635": {
+      "title": "Bruce Herald",
+      "firstYear": "1864",
+      "finalYear": "1971",
+      "urlDigitized": "http://paperspast.natlib.govt.nz/cgi-bin/paperspast?a=d&cl=CL1.BH"
+    },
+    "2647": {
+      "title": "Milton Mirror",
+      "firstYear": "1905",
+      "finalYear": "1910"
+    }
+  }
+}

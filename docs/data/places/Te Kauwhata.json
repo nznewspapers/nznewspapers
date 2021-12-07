@@ -1,0 +1,18 @@
+{
+  "stats": {
+    "placename": "Te Kauwhata",
+    "count": 2
+  },
+  "papers": {
+    "1533": {
+      "title": "Te Kauwhata News Flash",
+      "firstYear": "1954",
+      "finalYear": "1978"
+    },
+    "1543": {
+      "title": "Te Kauwhata Tatler",
+      "firstYear": "1990",
+      "finalYear": "1991"
+    }
+  }
+}

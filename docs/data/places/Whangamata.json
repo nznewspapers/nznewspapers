@@ -1,0 +1,23 @@
+{
+  "stats": {
+    "placename": "Whangamata",
+    "count": 3
+  },
+  "papers": {
+    "1490": {
+      "title": "Whangamata Flash",
+      "firstYear": "1979",
+      "finalYear": "1983"
+    },
+    "1492": {
+      "title": "Coastline Flash",
+      "firstYear": "1983",
+      "finalYear": "1988"
+    },
+    "1494": {
+      "title": "Coastal News",
+      "firstYear": "1988",
+      "finalYear": "9999"
+    }
+  }
+}

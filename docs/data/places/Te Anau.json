@@ -1,0 +1,19 @@
+{
+  "stats": {
+    "placename": "Te Anau",
+    "count": 2
+  },
+  "papers": {
+    "2690": {
+      "title": "Fiordland Focus",
+      "firstYear": "19uu",
+      "finalYear": "9999"
+    },
+    "2691": {
+      "title": "Fiordland Advocate",
+      "firstYear": "2009",
+      "finalYear": "9999",
+      "urlCurrent": "http://www.fiordlandadvocate.co.nz/"
+    }
+  }
+}

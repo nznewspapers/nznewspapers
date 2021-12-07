@@ -1,0 +1,584 @@
+{
+  "stats": {
+    "placename": "Christchurch",
+    "count": 114
+  },
+  "papers": {
+    "2382": {
+      "title": "Prohibitionist",
+      "firstYear": "1890",
+      "finalYear": "1893"
+    },
+    "2383": {
+      "title": "Sun",
+      "firstYear": "1914",
+      "finalYear": "1935",
+      "urlDigitized": "http://paperspast.natlib.govt.nz/cgi-bin/paperspast?a=d&cl=CL1.SUNCH"
+    },
+    "2384": {
+      "title": "Punchi",
+      "firstYear": "1918",
+      "finalYear": "19uu"
+    },
+    "2387": {
+      "title": "Christchurch Star",
+      "firstYear": "1958",
+      "finalYear": "2005"
+    },
+    "2389": {
+      "title": "Sumner News",
+      "firstYear": "1969",
+      "finalYear": "1971"
+    },
+    "2396": {
+      "title": "The North West Herald",
+      "firstYear": "1993",
+      "finalYear": "1995"
+    },
+    "2397": {
+      "title": "The North West Herald",
+      "firstYear": "1993",
+      "finalYear": "1995"
+    },
+    "2398": {
+      "title": "Christchurch Chinese News",
+      "firstYear": "1997",
+      "finalYear": "2003"
+    },
+    "2399": {
+      "title": "Bay Harbour News",
+      "firstYear": "1999",
+      "finalYear": "9999"
+    },
+    "2401": {
+      "title": "iBall: Bridging the Cultures",
+      "firstYear": "2003",
+      "finalYear": "2007"
+    },
+    "2402": {
+      "title": "Jing bao (Christchurch)",
+      "firstYear": "2003",
+      "finalYear": "2009"
+    },
+    "2403": {
+      "title": "Nor'west News",
+      "firstYear": "2003",
+      "finalYear": "2011"
+    },
+    "2404": {
+      "title": "Xinxilan Xin Bao",
+      "firstYear": "2003",
+      "finalYear": "9999"
+    },
+    "2405": {
+      "title": "Tai Yang Bao",
+      "firstYear": "2005",
+      "finalYear": "9999"
+    },
+    "2406": {
+      "title": "Tai Yang Bao",
+      "firstYear": "2005",
+      "finalYear": "9999"
+    },
+    "2407": {
+      "title": "Southern View",
+      "firstYear": "2007",
+      "finalYear": "2011"
+    },
+    "2408": {
+      "title": "Korako",
+      "firstYear": "2008",
+      "finalYear": "9999",
+      "urlCurrent": "http://www.tekorako.maori.nz/"
+    },
+    "2409": {
+      "title": "Selwyn View",
+      "firstYear": "2012",
+      "finalYear": "2013"
+    },
+    "2410": {
+      "title": "Guardian and Canterbury Advertiser",
+      "firstYear": "1852",
+      "finalYear": "1852"
+    },
+    "2411": {
+      "title": "The Press",
+      "firstYear": "1861",
+      "finalYear": "9999",
+      "urlCurrent": "http://www.thepress.co.nz/",
+      "urlDigitized": "http://paperspast.natlib.govt.nz/cgi-bin/paperspast?a=d&cl=CL1.CHP"
+    },
+    "2412": {
+      "title": "Evening Mail",
+      "firstYear": "1864",
+      "finalYear": "1868"
+    },
+    "2413": {
+      "title": "Canterbury Times",
+      "firstYear": "1865",
+      "finalYear": "1917"
+    },
+    "2414": {
+      "title": "Weekly Press",
+      "firstYear": "1865",
+      "finalYear": "1928"
+    },
+    "2415": {
+      "title": "The Star",
+      "firstYear": "1868",
+      "finalYear": "1935",
+      "urlDigitized": "http://paperspast.natlib.govt.nz/cgi-bin/paperspast?a=d&cl=CL1.TS"
+    },
+    "2416": {
+      "title": "Globe",
+      "firstYear": "1874",
+      "finalYear": "1883"
+    },
+    "2417": {
+      "title": "Telegraph",
+      "firstYear": "1880",
+      "finalYear": "1893"
+    },
+    "2418": {
+      "title": "Society",
+      "firstYear": "1881",
+      "finalYear": "1883"
+    },
+    "2419": {
+      "title": "Liberty",
+      "firstYear": "1881",
+      "finalYear": "uuuu"
+    },
+    "2420": {
+      "title": "Weekly Advertiser",
+      "firstYear": "1882",
+      "finalYear": "1886"
+    },
+    "2421": {
+      "title": "N.Z. Referee",
+      "firstYear": "1884",
+      "finalYear": "1936"
+    },
+    "2422": {
+      "title": "North Canterbury Times",
+      "firstYear": "1889",
+      "finalYear": "1890"
+    },
+    "2423": {
+      "title": "The Prohibitionist and Direct Veto Advocate",
+      "firstYear": "1893",
+      "finalYear": "1906"
+    },
+    "2424": {
+      "title": "Truth",
+      "firstYear": "1893",
+      "finalYear": "1909"
+    },
+    "2425": {
+      "title": "Echo",
+      "firstYear": "1893",
+      "finalYear": "uuuu"
+    },
+    "2426": {
+      "title": "Sun",
+      "firstYear": "1895",
+      "finalYear": "1895"
+    },
+    "2427": {
+      "title": "Spectator",
+      "firstYear": "1895",
+      "finalYear": "1928"
+    },
+    "2428": {
+      "title": "Critic",
+      "firstYear": "1896",
+      "finalYear": "uuuu"
+    },
+    "2429": {
+      "title": "Evening News",
+      "firstYear": "1909",
+      "finalYear": "1917"
+    },
+    "2430": {
+      "title": "Maoriland Thinker",
+      "firstYear": "1918",
+      "finalYear": "19uu"
+    },
+    "2431": {
+      "title": "Christchurch Star-Sun",
+      "firstYear": "1935",
+      "finalYear": "1958"
+    },
+    "2432": {
+      "title": "Brighton Standard",
+      "firstYear": "1936",
+      "finalYear": "1939"
+    },
+    "2433": {
+      "title": "Sumner-Redcliffs Herald",
+      "firstYear": "1939",
+      "finalYear": "1939"
+    },
+    "2434": {
+      "title": "Star-sun Sports",
+      "firstYear": "1950",
+      "finalYear": "1958"
+    },
+    "2435": {
+      "title": "Riccarton Advertiser & News",
+      "firstYear": "1956",
+      "finalYear": "1965"
+    },
+    "2436": {
+      "title": "Woolston News",
+      "firstYear": "1956",
+      "finalYear": "1967"
+    },
+    "2437": {
+      "title": "Merivale-St. Albans Gazette",
+      "firstYear": "1957",
+      "finalYear": "1960"
+    },
+    "2438": {
+      "title": "Star Sports",
+      "firstYear": "1958",
+      "finalYear": "1976"
+    },
+    "2439": {
+      "title": "Herald-gazette",
+      "firstYear": "1960",
+      "finalYear": "1962"
+    },
+    "2440": {
+      "title": "Papanui Herald",
+      "firstYear": "1962",
+      "finalYear": "1991"
+    },
+    "2441": {
+      "title": "South Christchurch News",
+      "firstYear": "1965",
+      "finalYear": "1970"
+    },
+    "2442": {
+      "title": "North Canterbury News",
+      "firstYear": "1965",
+      "finalYear": "9999"
+    },
+    "2443": {
+      "title": "Leader",
+      "firstYear": "1967",
+      "finalYear": "197u"
+    },
+    "2444": {
+      "title": "Clarion",
+      "firstYear": "1969",
+      "finalYear": "uuuu"
+    },
+    "2445": {
+      "title": "News day",
+      "firstYear": "1969",
+      "finalYear": "uuuu"
+    },
+    "2446": {
+      "title": "Northern Suburbs Bulletin",
+      "firstYear": "1970",
+      "finalYear": "197u"
+    },
+    "2447": {
+      "title": "Courier",
+      "firstYear": "1970",
+      "finalYear": "uuuu"
+    },
+    "2448": {
+      "title": "News Advertiser",
+      "firstYear": "1971",
+      "finalYear": "1989"
+    },
+    "2449": {
+      "title": "Shoreline",
+      "firstYear": "1973",
+      "finalYear": "2002"
+    },
+    "2450": {
+      "title": "Weekend Star",
+      "firstYear": "1976",
+      "finalYear": "1988"
+    },
+    "2451": {
+      "title": "Christchurch Shopping Guide",
+      "firstYear": "1981",
+      "finalYear": "1985"
+    },
+    "2452": {
+      "title": "Weekly Courier",
+      "firstYear": "1982",
+      "finalYear": "uuuu"
+    },
+    "2453": {
+      "title": "Sunday Miracle",
+      "firstYear": "1984",
+      "finalYear": "1985"
+    },
+    "2454": {
+      "title": "Christchurch Mid-week Mail",
+      "firstYear": "1985",
+      "finalYear": "1990"
+    },
+    "2455": {
+      "title": "Hornby Herald",
+      "firstYear": "1986",
+      "finalYear": "1986"
+    },
+    "2456": {
+      "title": "Christchurch Shopping Guide (1986)",
+      "firstYear": "1986",
+      "finalYear": "19uu"
+    },
+    "2457": {
+      "title": "NewsPlus",
+      "firstYear": "1989",
+      "finalYear": "1990"
+    },
+    "2458": {
+      "title": "Riccarton News",
+      "firstYear": "1989",
+      "finalYear": "1991"
+    },
+    "2459": {
+      "title": "Community News (Advertiser Edition)",
+      "firstYear": "1989",
+      "finalYear": "1996"
+    },
+    "2460": {
+      "title": "Community News (Observer Edition)",
+      "firstYear": "1989",
+      "finalYear": "1996"
+    },
+    "2461": {
+      "title": "Community News (Pegasus Post Edition)",
+      "firstYear": "1989",
+      "finalYear": "1996"
+    },
+    "2462": {
+      "title": "Christchurch Star Sunday",
+      "firstYear": "1990",
+      "finalYear": "1991"
+    },
+    "2463": {
+      "title": "Christchurch Mail",
+      "firstYear": "1990",
+      "finalYear": "2001"
+    },
+    "2464": {
+      "title": "Christchurch Mail Weekender",
+      "firstYear": "1990",
+      "finalYear": "9999"
+    },
+    "2465": {
+      "title": "Christchurch Star Weekender",
+      "firstYear": "1991",
+      "finalYear": "1991"
+    },
+    "2466": {
+      "title": "Banks Peninsula Times",
+      "firstYear": "1991",
+      "finalYear": "1992"
+    },
+    "2467": {
+      "title": "Observer",
+      "firstYear": "1996",
+      "finalYear": "2005"
+    },
+    "2468": {
+      "title": "Pegasus Post (1996)",
+      "firstYear": "1996",
+      "finalYear": "2005"
+    },
+    "2469": {
+      "title": "Canterbury Times (1996)",
+      "firstYear": "1996",
+      "finalYear": "2007"
+    },
+    "2470": {
+      "title": "News Advertiser",
+      "firstYear": "1996",
+      "finalYear": "9999"
+    },
+    "2471": {
+      "title": "Canterbury Sportstar",
+      "firstYear": "1998",
+      "finalYear": "1998"
+    },
+    "2472": {
+      "title": "Central Today",
+      "firstYear": "1999",
+      "finalYear": "9999"
+    },
+    "2473": {
+      "title": "Korea Review (Christchurch)",
+      "firstYear": "199u",
+      "finalYear": "9999"
+    },
+    "2474": {
+      "title": "Christchurch Strike Bulletin",
+      "firstYear": "19uu",
+      "finalYear": "19uu"
+    },
+    "2475": {
+      "title": "The Citizen Today",
+      "firstYear": "2001",
+      "finalYear": "2001"
+    },
+    "2476": {
+      "title": "Christchurch Southern Mail",
+      "firstYear": "2001",
+      "finalYear": "2003"
+    },
+    "2477": {
+      "title": "Eastern Mail",
+      "firstYear": "2001",
+      "finalYear": "2003"
+    },
+    "2478": {
+      "title": "Northern Mail",
+      "firstYear": "2001",
+      "finalYear": "2003"
+    },
+    "2479": {
+      "title": "Western Mail",
+      "firstYear": "2001",
+      "finalYear": "2003"
+    },
+    "2480": {
+      "title": "Radio Korea",
+      "firstYear": "2002",
+      "finalYear": "2010"
+    },
+    "2481": {
+      "title": "Christchurch Mail (Shirley, Burwood, Pegasus, Hagley)",
+      "firstYear": "2003",
+      "finalYear": "9999"
+    },
+    "2482": {
+      "title": "Christchurch Mail (Waimairi, Papanui, Riccarton, Fendalton)",
+      "firstYear": "2003",
+      "finalYear": "9999"
+    },
+    "2483": {
+      "title": "Christchurch Mail (Wigram, Spreydon, Heathcote, Ferrymead)",
+      "firstYear": "2003",
+      "finalYear": "9999"
+    },
+    "2484": {
+      "title": "Shore News",
+      "firstYear": "2003",
+      "finalYear": "9999"
+    },
+    "2485": {
+      "title": "Star Community (Eastern)",
+      "firstYear": "2005",
+      "finalYear": "2006"
+    },
+    "2486": {
+      "title": "Star Community (Northern)",
+      "firstYear": "2005",
+      "finalYear": "2006"
+    },
+    "2487": {
+      "title": "Star Community (Southern)",
+      "firstYear": "2005",
+      "finalYear": "2006"
+    },
+    "2488": {
+      "title": "Star Community (Western)",
+      "firstYear": "2005",
+      "finalYear": "2006"
+    },
+    "2489": {
+      "title": "The Star",
+      "firstYear": "2005",
+      "finalYear": "9999",
+      "urlCurrent": "http://www.starcanterbury.co.nz/"
+    },
+    "2490": {
+      "title": "Star Community News (Eastern)",
+      "firstYear": "2006",
+      "finalYear": "2009"
+    },
+    "2491": {
+      "title": "Star Community News (Northern)",
+      "firstYear": "2006",
+      "finalYear": "2009"
+    },
+    "2492": {
+      "title": "Star Community News (Southern)",
+      "firstYear": "2006",
+      "finalYear": "2009"
+    },
+    "2493": {
+      "title": "Star Community News (Western)",
+      "firstYear": "2006",
+      "finalYear": "2009"
+    },
+    "2494": {
+      "title": "Christchurch Mail (Eastern Ed.)",
+      "firstYear": "2008",
+      "finalYear": "9999"
+    },
+    "2495": {
+      "title": "Christchurch Mail (North-western Ed.)",
+      "firstYear": "2008",
+      "finalYear": "9999"
+    },
+    "2496": {
+      "title": "Christchurch Mail (Southern Ed.)",
+      "firstYear": "2008",
+      "finalYear": "9999"
+    },
+    "2497": {
+      "title": "Shore View : Star Community News",
+      "firstYear": "2009",
+      "finalYear": "2011"
+    },
+    "2498": {
+      "title": "News Advertiser",
+      "firstYear": "2009",
+      "finalYear": "9999"
+    },
+    "2499": {
+      "title": "Observer",
+      "firstYear": "2009",
+      "finalYear": "9999"
+    },
+    "2500": {
+      "title": "Pegasus Post",
+      "firstYear": "2009",
+      "finalYear": "9999"
+    },
+    "2501": {
+      "title": "Western News",
+      "firstYear": "2009",
+      "finalYear": "9999"
+    },
+    "2502": {
+      "title": "Mainland Press",
+      "firstYear": "2011",
+      "finalYear": "2012"
+    },
+    "2503": {
+      "title": "Mainland Press (Nor'west News Ed.)",
+      "firstYear": "2011",
+      "finalYear": "9999"
+    },
+    "2504": {
+      "title": "Mainland Press (Pegasus Bay News Ed.)",
+      "firstYear": "2011",
+      "finalYear": "9999"
+    },
+    "2505": {
+      "title": "Mainland Press (Southern View Ed.)",
+      "firstYear": "2011",
+      "finalYear": "9999"
+    }
+  }
+}

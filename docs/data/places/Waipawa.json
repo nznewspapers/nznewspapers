@@ -1,0 +1,18 @@
+{
+  "stats": {
+    "placename": "Waipawa",
+    "count": 2
+  },
+  "papers": {
+    "1783": {
+      "title": "The Waipawa Mail, Waipukurau, Kaikora and Harpenden Advertiser",
+      "firstYear": "1878",
+      "finalYear": "1974"
+    },
+    "1787": {
+      "title": "Mail",
+      "firstYear": "1975",
+      "finalYear": "1980"
+    }
+  }
+}

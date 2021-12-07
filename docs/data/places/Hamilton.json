@@ -1,0 +1,155 @@
+{
+  "stats": {
+    "placename": "Hamilton",
+    "count": 29
+  },
+  "papers": {
+    "1568": {
+      "title": "The Waikato Times",
+      "firstYear": "1872",
+      "finalYear": "9999",
+      "urlCurrent": "http://www.stuff.co.nz/waikato-times",
+      "urlDigitized": "http://paperspast.natlib.govt.nz/cgi-bin/paperspast?a=d&cl=CL1.WT"
+    },
+    "1569": {
+      "title": "Waikato Argus",
+      "firstYear": "1896",
+      "finalYear": "1915"
+    },
+    "1570": {
+      "title": "Hamilton Courier and Waikato District Weekly",
+      "firstYear": "1935",
+      "finalYear": "1950"
+    },
+    "1571": {
+      "title": "Hamilton News",
+      "firstYear": "1952",
+      "finalYear": "1957"
+    },
+    "1572": {
+      "title": "Sunday Morning Post",
+      "firstYear": "1955",
+      "finalYear": "1957"
+    },
+    "1573": {
+      "title": "Waikato Review",
+      "firstYear": "1956",
+      "finalYear": "19uu"
+    },
+    "1574": {
+      "title": "Hamilton City Advertiser",
+      "firstYear": "1966",
+      "finalYear": "1966"
+    },
+    "1575": {
+      "title": "Sunday Press",
+      "firstYear": "1966",
+      "finalYear": "1967"
+    },
+    "1576": {
+      "title": "Te Manu Ko?rero",
+      "firstYear": "1967",
+      "finalYear": "1967"
+    },
+    "1578": {
+      "title": "Hamilton City East-west News",
+      "firstYear": "1973",
+      "finalYear": "1973"
+    },
+    "1579": {
+      "title": "Frankton Times",
+      "firstYear": "1974",
+      "finalYear": "1974"
+    },
+    "1580": {
+      "title": "Frankton Connection",
+      "firstYear": "1974",
+      "finalYear": "1975"
+    },
+    "1581": {
+      "title": "Hamilton Press",
+      "firstYear": "1975",
+      "finalYear": "9999"
+    },
+    "1583": {
+      "title": "Waikato Weekender Magazine",
+      "firstYear": "1977",
+      "finalYear": "1992"
+    },
+    "1584": {
+      "title": "Town Talk",
+      "firstYear": "1982",
+      "finalYear": "1982"
+    },
+    "1585": {
+      "title": "Waikato Weekender Homestead",
+      "firstYear": "1983",
+      "finalYear": "1983"
+    },
+    "1586": {
+      "title": "Country Weekender",
+      "firstYear": "1984",
+      "finalYear": "1985"
+    },
+    "1587": {
+      "title": "Glenview Gazette",
+      "firstYear": "1984",
+      "finalYear": "1985"
+    },
+    "1588": {
+      "title": "Frankton Bulletin",
+      "firstYear": "1985",
+      "finalYear": "1987"
+    },
+    "1589": {
+      "title": "Northeast Link",
+      "firstYear": "1987",
+      "finalYear": "uuuu"
+    },
+    "1590": {
+      "title": "Waikato Trader",
+      "firstYear": "1990",
+      "finalYear": "1990"
+    },
+    "1591": {
+      "title": "Waikato & Districts Trader",
+      "firstYear": "1990",
+      "finalYear": "199u"
+    },
+    "1592": {
+      "title": "City Weekend",
+      "firstYear": "1992",
+      "finalYear": "9999"
+    },
+    "1593": {
+      "title": "Positive Times",
+      "firstYear": "199u",
+      "finalYear": "9999"
+    },
+    "1594": {
+      "title": "Waikato This Week",
+      "firstYear": "19uu",
+      "finalYear": "2003"
+    },
+    "1595": {
+      "title": "This Week",
+      "firstYear": "2003",
+      "finalYear": "2004"
+    },
+    "1596": {
+      "title": "Huai ka tuo shi bao",
+      "firstYear": "2003",
+      "finalYear": "2005"
+    },
+    "1597": {
+      "title": "Hamilton This Week : Hamilton's own Community Newspaper",
+      "firstYear": "2004",
+      "finalYear": "9999"
+    },
+    "1598": {
+      "title": "Hamilton News (2010)",
+      "firstYear": "2010",
+      "finalYear": "9999"
+    }
+  }
+}

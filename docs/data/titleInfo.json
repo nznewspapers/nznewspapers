@@ -322,6 +322,15 @@
         "placename": "Paihia"
       },
       {
+        "id": 1025,
+        "title": "Bay Chronicle",
+        "firstYear": "1986",
+        "finalYear": "1988",
+        "region": "Northland",
+        "district": "Far North District",
+        "placename": "Kaikohe"
+      },
+      {
         "id": 1031,
         "title": "Bay Chronicle",
         "firstYear": "2003",
@@ -330,15 +339,6 @@
         "district": "Far North District",
         "placename": "Kerikeri",
         "urlCurrent": "http://www.stuff.co.nz/auckland/local-news/northland/bay-chronicle"
-      },
-      {
-        "id": 1025,
-        "title": "Bay Chronicle",
-        "firstYear": "1986",
-        "finalYear": "1988",
-        "region": "Northland",
-        "district": "Far North District",
-        "placename": "Kaikohe"
       },
       {
         "id": 1655,
@@ -651,15 +651,6 @@
         "placename": "Westport"
       },
       {
-        "id": 1333,
-        "title": "Bulletin",
-        "firstYear": "1913",
-        "finalYear": "1915",
-        "region": "Auckland",
-        "district": "Auckland",
-        "placename": "Auckland"
-      },
-      {
         "id": 2659,
         "title": "Bulletin",
         "firstYear": "1864",
@@ -667,6 +658,15 @@
         "region": "Southland",
         "district": "Southland District",
         "placename": "Invercargill"
+      },
+      {
+        "id": 1333,
+        "title": "Bulletin",
+        "firstYear": "1913",
+        "finalYear": "1915",
+        "region": "Auckland",
+        "district": "Auckland",
+        "placename": "Auckland"
       },
       {
         "id": 1860,
@@ -1626,15 +1626,6 @@
         "placename": "Hamilton"
       },
       {
-        "id": 1681,
-        "title": "County News",
-        "firstYear": "1978",
-        "finalYear": "1990",
-        "region": "Bay of Plenty",
-        "district": "Rotorua District",
-        "placename": "Rotorua"
-      },
-      {
         "id": 2172,
         "title": "County News",
         "firstYear": "1971",
@@ -1644,13 +1635,13 @@
         "placename": "Wellington"
       },
       {
-        "id": 1181,
-        "title": "Courier",
-        "firstYear": "1979",
-        "finalYear": "1979",
-        "region": "Auckland",
-        "district": "Auckland",
-        "placename": "Otahuhu"
+        "id": 1681,
+        "title": "County News",
+        "firstYear": "1978",
+        "finalYear": "1990",
+        "region": "Bay of Plenty",
+        "district": "Rotorua District",
+        "placename": "Rotorua"
       },
       {
         "id": 1348,
@@ -1662,15 +1653,6 @@
         "placename": "Auckland"
       },
       {
-        "id": 2054,
-        "title": "Courier",
-        "firstYear": "1981",
-        "finalYear": "1982",
-        "region": "Wellington",
-        "district": "Hutt City",
-        "placename": "Wainuiomata"
-      },
-      {
         "id": 2447,
         "title": "Courier",
         "firstYear": "1970",
@@ -1678,6 +1660,24 @@
         "region": "Canterbury",
         "district": "Christchurch City",
         "placename": "Christchurch"
+      },
+      {
+        "id": 1181,
+        "title": "Courier",
+        "firstYear": "1979",
+        "finalYear": "1979",
+        "region": "Auckland",
+        "district": "Auckland",
+        "placename": "Otahuhu"
+      },
+      {
+        "id": 2054,
+        "title": "Courier",
+        "firstYear": "1981",
+        "finalYear": "1982",
+        "region": "Wellington",
+        "district": "Hutt City",
+        "placename": "Wainuiomata"
       },
       {
         "id": 2530,
@@ -1798,15 +1798,6 @@
         "placename": "Wellington"
       },
       {
-        "id": 2126,
-        "title": "Critic",
-        "firstYear": "1899",
-        "finalYear": "1899",
-        "region": "Wellington",
-        "district": "Wellington City",
-        "placename": "Wellington"
-      },
-      {
         "id": 2428,
         "title": "Critic",
         "firstYear": "1896",
@@ -1814,6 +1805,15 @@
         "region": "Canterbury",
         "district": "Christchurch City",
         "placename": "Christchurch"
+      },
+      {
+        "id": 2126,
+        "title": "Critic",
+        "firstYear": "1899",
+        "finalYear": "1899",
+        "region": "Wellington",
+        "district": "Wellington City",
+        "placename": "Wellington"
       },
       {
         "id": 2564,
@@ -1901,14 +1901,13 @@
         "urlDigitized": "http://paperspast.natlib.govt.nz/cgi-bin/paperspast?a=d&cl=CL1.DSC"
       },
       {
-        "id": 1505,
+        "id": 2576,
         "title": "Daily Telegraph",
-        "firstYear": "1908",
-        "finalYear": "1923",
-        "region": "Waikato",
-        "district": "Hauraki District",
-        "placename": "Waihi",
-        "urlDigitized": "http://paperspast.natlib.govt.nz/cgi-bin/paperspast?a=d&cl=CL1.WHDT"
+        "firstYear": "1863",
+        "finalYear": "1864",
+        "region": "Otago",
+        "district": "Dunedin City",
+        "placename": "Dunedin"
       },
       {
         "id": 1762,
@@ -1921,13 +1920,14 @@
         "urlDigitized": "http://paperspast.natlib.govt.nz/cgi-bin/paperspast?a=d&cl=CL1.DTN"
       },
       {
-        "id": 2576,
+        "id": 1505,
         "title": "Daily Telegraph",
-        "firstYear": "1863",
-        "finalYear": "1864",
-        "region": "Otago",
-        "district": "Dunedin City",
-        "placename": "Dunedin"
+        "firstYear": "1908",
+        "finalYear": "1923",
+        "region": "Waikato",
+        "district": "Hauraki District",
+        "placename": "Waihi",
+        "urlDigitized": "http://paperspast.natlib.govt.nz/cgi-bin/paperspast?a=d&cl=CL1.WHDT"
       },
       {
         "id": 1446,
@@ -2431,15 +2431,6 @@
         "placename": "Auckland"
       },
       {
-        "id": 2124,
-        "title": "Echo",
-        "firstYear": "1896",
-        "finalYear": "uuuu",
-        "region": "Wellington",
-        "district": "Wellington City",
-        "placename": "Wellington"
-      },
-      {
         "id": 2425,
         "title": "Echo",
         "firstYear": "1893",
@@ -2447,6 +2438,15 @@
         "region": "Canterbury",
         "district": "Christchurch City",
         "placename": "Christchurch"
+      },
+      {
+        "id": 2124,
+        "title": "Echo",
+        "firstYear": "1896",
+        "finalYear": "uuuu",
+        "region": "Wellington",
+        "district": "Wellington City",
+        "placename": "Wellington"
       },
       {
         "id": 1352,
@@ -2652,6 +2652,15 @@
         "placename": "Dunedin"
       },
       {
+        "id": 2575,
+        "title": "Evening News",
+        "firstYear": "1862",
+        "finalYear": "1864",
+        "region": "Otago",
+        "district": "Dunedin City",
+        "placename": "Dunedin"
+      },
+      {
         "id": 1297,
         "title": "Evening News",
         "firstYear": "1867",
@@ -2659,24 +2668,6 @@
         "region": "Auckland",
         "district": "Auckland",
         "placename": "Auckland"
-      },
-      {
-        "id": 1939,
-        "title": "Evening News",
-        "firstYear": "1936",
-        "finalYear": "1988",
-        "region": "Manawatu-Wanganui",
-        "district": "Tararua District",
-        "placename": "Dannevirke"
-      },
-      {
-        "id": 2429,
-        "title": "Evening News",
-        "firstYear": "1909",
-        "finalYear": "1917",
-        "region": "Canterbury",
-        "district": "Christchurch City",
-        "placename": "Christchurch"
       },
       {
         "id": 2596,
@@ -2688,13 +2679,22 @@
         "placename": "Dunedin"
       },
       {
-        "id": 2575,
+        "id": 2429,
         "title": "Evening News",
-        "firstYear": "1862",
-        "finalYear": "1864",
-        "region": "Otago",
-        "district": "Dunedin City",
-        "placename": "Dunedin"
+        "firstYear": "1909",
+        "finalYear": "1917",
+        "region": "Canterbury",
+        "district": "Christchurch City",
+        "placename": "Christchurch"
+      },
+      {
+        "id": 1939,
+        "title": "Evening News",
+        "firstYear": "1936",
+        "finalYear": "1988",
+        "region": "Manawatu-Wanganui",
+        "district": "Tararua District",
+        "placename": "Dannevirke"
       },
       {
         "id": 1637,
@@ -2743,23 +2743,13 @@
         "placename": "Temuka"
       },
       {
-        "id": 1299,
+        "id": 2578,
         "title": "Evening Star",
-        "firstYear": "1870",
-        "finalYear": "1887",
-        "region": "Auckland",
-        "district": "Auckland",
-        "placename": "Auckland",
-        "urlDigitized": "http://paperspast.natlib.govt.nz/cgi-bin/paperspast?a=d&cl=CL1.AS"
-      },
-      {
-        "id": 1471,
-        "title": "The Evening Star",
-        "firstYear": "1867",
-        "finalYear": "1893",
-        "region": "Waikato",
-        "district": "Thames-Coromandel District",
-        "placename": "Thames"
+        "firstYear": "1863",
+        "finalYear": "1979",
+        "region": "Otago",
+        "district": "Dunedin City",
+        "placename": "Dunedin"
       },
       {
         "id": 2321,
@@ -2771,13 +2761,23 @@
         "placename": "Hokitika"
       },
       {
-        "id": 2578,
+        "id": 1471,
+        "title": "The Evening Star",
+        "firstYear": "1867",
+        "finalYear": "1893",
+        "region": "Waikato",
+        "district": "Thames-Coromandel District",
+        "placename": "Thames"
+      },
+      {
+        "id": 1299,
         "title": "Evening Star",
-        "firstYear": "1863",
-        "finalYear": "1979",
-        "region": "Otago",
-        "district": "Dunedin City",
-        "placename": "Dunedin"
+        "firstYear": "1870",
+        "finalYear": "1887",
+        "region": "Auckland",
+        "district": "Auckland",
+        "placename": "Auckland",
+        "urlDigitized": "http://paperspast.natlib.govt.nz/cgi-bin/paperspast?a=d&cl=CL1.AS"
       },
       {
         "id": 1311,
@@ -2816,15 +2816,6 @@
         "placename": "Napier"
       },
       {
-        "id": 1214,
-        "title": "The Examiner",
-        "firstYear": "1990",
-        "finalYear": "1991",
-        "region": "Auckland",
-        "district": "Auckland",
-        "placename": "Auckland"
-      },
-      {
         "id": 1931,
         "title": "Examiner",
         "firstYear": "1892",
@@ -2834,19 +2825,28 @@
         "placename": "Woodville"
       },
       {
-        "id": 2171,
-        "title": "Exercise",
-        "firstYear": "1971",
-        "finalYear": "1973",
-        "region": "Wellington",
-        "district": "Wellington City",
-        "placename": "Wellington"
+        "id": 1214,
+        "title": "The Examiner",
+        "firstYear": "1990",
+        "finalYear": "1991",
+        "region": "Auckland",
+        "district": "Auckland",
+        "placename": "Auckland"
       },
       {
         "id": 2167,
         "title": "Exercise",
         "firstYear": "1968",
         "finalYear": "1970",
+        "region": "Wellington",
+        "district": "Wellington City",
+        "placename": "Wellington"
+      },
+      {
+        "id": 2171,
+        "title": "Exercise",
+        "firstYear": "1971",
+        "finalYear": "1973",
         "region": "Wellington",
         "district": "Wellington City",
         "placename": "Wellington"
@@ -3182,15 +3182,6 @@
         "urlDigitized": "http://paperspast.natlib.govt.nz/cgi-bin/paperspast?a=d&cl=CL1.NZFL"
       },
       {
-        "id": 1680,
-        "title": "Free Press",
-        "firstYear": "1977",
-        "finalYear": "uuuu",
-        "region": "Bay of Plenty",
-        "district": "Rotorua District",
-        "placename": "Rotorua"
-      },
-      {
         "id": 2645,
         "title": "Free Press",
         "firstYear": "1891",
@@ -3198,6 +3189,15 @@
         "region": "Otago",
         "district": "Clutha District",
         "placename": "Balclutha"
+      },
+      {
+        "id": 1680,
+        "title": "Free Press",
+        "firstYear": "1977",
+        "finalYear": "uuuu",
+        "region": "Bay of Plenty",
+        "district": "Rotorua District",
+        "placename": "Rotorua"
       },
       {
         "id": 1171,
@@ -3548,6 +3548,15 @@
         "placename": "Greytown"
       },
       {
+        "id": 2123,
+        "title": "Guardian",
+        "firstYear": "1896",
+        "finalYear": "1900",
+        "region": "Wellington",
+        "district": "Wellington City",
+        "placename": "Wellington"
+      },
+      {
         "id": 1016,
         "title": "Guardian",
         "firstYear": "1928",
@@ -3564,15 +3573,6 @@
         "region": "Auckland",
         "district": "Auckland",
         "placename": "Auckland"
-      },
-      {
-        "id": 2123,
-        "title": "Guardian",
-        "firstYear": "1896",
-        "finalYear": "1900",
-        "region": "Wellington",
-        "district": "Wellington City",
-        "placename": "Wellington"
       },
       {
         "id": 2354,
@@ -3731,15 +3731,6 @@
         "placename": "Hastings"
       },
       {
-        "id": 1754,
-        "title": "Hastings Leader",
-        "firstYear": "2006",
-        "finalYear": "9999",
-        "region": "Hawke's Bay",
-        "district": "Hastings District",
-        "placename": "Hastings"
-      },
-      {
         "id": 1777,
         "title": "The Hastings Leader",
         "firstYear": "1996",
@@ -3747,6 +3738,15 @@
         "region": "Hawke's Bay",
         "district": "Napier City",
         "placename": "Napier"
+      },
+      {
+        "id": 1754,
+        "title": "Hastings Leader",
+        "firstYear": "2006",
+        "finalYear": "9999",
+        "region": "Hawke's Bay",
+        "district": "Hastings District",
+        "placename": "Hastings"
       },
       {
         "id": 1756,
@@ -4040,15 +4040,6 @@
         "placename": "Lincoln"
       },
       {
-        "id": 1023,
-        "title": "Hokianga Herald",
-        "firstYear": "1977",
-        "finalYear": "1978",
-        "region": "Northland",
-        "district": "Far North District",
-        "placename": "Rawene"
-      },
-      {
         "id": 1018,
         "title": "Hokianga Herald",
         "firstYear": "1938",
@@ -4056,6 +4047,15 @@
         "region": "Northland",
         "district": "Far North District",
         "placename": "Kohukohu"
+      },
+      {
+        "id": 1023,
+        "title": "Hokianga Herald",
+        "firstYear": "1977",
+        "finalYear": "1978",
+        "region": "Northland",
+        "district": "Far North District",
+        "placename": "Rawene"
       },
       {
         "id": 1021,
@@ -4864,19 +4864,19 @@
         "placename": "Kaponga"
       },
       {
-        "id": 1252,
+        "id": 1435,
         "title": "Karere Maori News",
-        "firstYear": "2004",
-        "finalYear": "2006",
+        "firstYear": "1999",
+        "finalYear": "2002",
         "region": "Auckland",
         "district": "Auckland",
         "placename": "Auckland"
       },
       {
-        "id": 1435,
+        "id": 1252,
         "title": "Karere Maori News",
-        "firstYear": "1999",
-        "finalYear": "2002",
+        "firstYear": "2004",
+        "finalYear": "2006",
         "region": "Auckland",
         "district": "Auckland",
         "placename": "Auckland"
@@ -5132,24 +5132,6 @@
         "placename": "Hokitika"
       },
       {
-        "id": 1516,
-        "title": "Leader",
-        "firstYear": "1996",
-        "finalYear": "2003",
-        "region": "Waikato",
-        "district": "Hauraki District",
-        "placename": "Waihi"
-      },
-      {
-        "id": 1753,
-        "title": "Leader",
-        "firstYear": "2004",
-        "finalYear": "9999",
-        "region": "Hawke's Bay",
-        "district": "Hastings District",
-        "placename": "Hastings"
-      },
-      {
         "id": 2322,
         "title": "Leader",
         "firstYear": "1865",
@@ -5166,6 +5148,24 @@
         "region": "Canterbury",
         "district": "Christchurch City",
         "placename": "Christchurch"
+      },
+      {
+        "id": 1516,
+        "title": "Leader",
+        "firstYear": "1996",
+        "finalYear": "2003",
+        "region": "Waikato",
+        "district": "Hauraki District",
+        "placename": "Waihi"
+      },
+      {
+        "id": 1753,
+        "title": "Leader",
+        "firstYear": "2004",
+        "finalYear": "9999",
+        "region": "Hawke's Bay",
+        "district": "Hastings District",
+        "placename": "Hastings"
       },
       {
         "id": 1748,
@@ -5372,15 +5372,6 @@
         "placename": "Dunedin"
       },
       {
-        "id": 1475,
-        "title": "Mail",
-        "firstYear": "1871",
-        "finalYear": "1872",
-        "region": "Waikato",
-        "district": "Thames-Coromandel District",
-        "placename": "Coromandel"
-      },
-      {
         "id": 1474,
         "title": "Mail",
         "firstYear": "1870",
@@ -5390,13 +5381,13 @@
         "placename": "Thames"
       },
       {
-        "id": 1788,
+        "id": 1475,
         "title": "Mail",
-        "firstYear": "1980",
-        "finalYear": "1988",
-        "region": "Hawke's Bay",
-        "district": "Central Hawke's Bay District",
-        "placename": "Waipukurau"
+        "firstYear": "1871",
+        "finalYear": "1872",
+        "region": "Waikato",
+        "district": "Thames-Coromandel District",
+        "placename": "Coromandel"
       },
       {
         "id": 1787,
@@ -5406,6 +5397,15 @@
         "region": "Hawke's Bay",
         "district": "Central Hawke's Bay District",
         "placename": "Waipawa"
+      },
+      {
+        "id": 1788,
+        "title": "Mail",
+        "firstYear": "1980",
+        "finalYear": "1988",
+        "region": "Hawke's Bay",
+        "district": "Central Hawke's Bay District",
+        "placename": "Waipukurau"
       },
       {
         "id": 2552,
@@ -5471,15 +5471,6 @@
         "placename": "Darfield"
       },
       {
-        "id": 2193,
-        "title": "Malvern Record",
-        "firstYear": "1989",
-        "finalYear": "9999",
-        "region": "Wellington",
-        "district": "Wellington City",
-        "placename": "Wellington"
-      },
-      {
         "id": 2352,
         "title": "Malvern Record",
         "firstYear": "1965",
@@ -5487,6 +5478,15 @@
         "region": "Canterbury",
         "district": "Selwyn District",
         "placename": "Darfield"
+      },
+      {
+        "id": 2193,
+        "title": "Malvern Record",
+        "firstYear": "1989",
+        "finalYear": "9999",
+        "region": "Wellington",
+        "district": "Wellington City",
+        "placename": "Wellington"
       },
       {
         "id": 2356,
@@ -5858,15 +5858,6 @@
         "placename": "Picton"
       },
       {
-        "id": 2258,
-        "title": "Marlborough Times",
-        "firstYear": "1994",
-        "finalYear": "1997",
-        "region": "Top of the South",
-        "district": "Nelson City",
-        "placename": "Nelson"
-      },
-      {
         "id": 2268,
         "title": "Marlborough Times",
         "firstYear": "1874",
@@ -5874,6 +5865,15 @@
         "region": "Top of the South",
         "district": "Marlborough District",
         "placename": "Blenheim"
+      },
+      {
+        "id": 2258,
+        "title": "Marlborough Times",
+        "firstYear": "1994",
+        "finalYear": "1997",
+        "region": "Top of the South",
+        "district": "Nelson City",
+        "placename": "Nelson"
       },
       {
         "id": 2271,
@@ -6636,6 +6636,15 @@
         "placename": "Palmerston North"
       },
       {
+        "id": 2448,
+        "title": "News Advertiser",
+        "firstYear": "1971",
+        "finalYear": "1989",
+        "region": "Canterbury",
+        "district": "Christchurch City",
+        "placename": "Christchurch"
+      },
+      {
         "id": 2470,
         "title": "News Advertiser",
         "firstYear": "1996",
@@ -6649,15 +6658,6 @@
         "title": "News Advertiser",
         "firstYear": "2009",
         "finalYear": "9999",
-        "region": "Canterbury",
-        "district": "Christchurch City",
-        "placename": "Christchurch"
-      },
-      {
-        "id": 2448,
-        "title": "News Advertiser",
-        "firstYear": "1971",
-        "finalYear": "1989",
         "region": "Canterbury",
         "district": "Christchurch City",
         "placename": "Christchurch"
@@ -7104,14 +7104,13 @@
         "placename": "Wellington"
       },
       {
-        "id": 1443,
-        "title": "The New Zealand Times",
-        "firstYear": "19uu",
-        "finalYear": "9999",
-        "region": "Auckland",
-        "district": "Auckland",
-        "placename": "Auckland",
-        "urlCurrent": "http://www.koreatimes.co.nz/"
+        "id": 2102,
+        "title": "New Zealand Times",
+        "firstYear": "1867",
+        "finalYear": "1869",
+        "region": "Wellington",
+        "district": "Wellington City",
+        "placename": "Wellington"
       },
       {
         "id": 2106,
@@ -7124,13 +7123,14 @@
         "urlDigitized": "http://paperspast.natlib.govt.nz/cgi-bin/paperspast?a=d&cl=CL1.WI"
       },
       {
-        "id": 2102,
-        "title": "New Zealand Times",
-        "firstYear": "1867",
-        "finalYear": "1869",
-        "region": "Wellington",
-        "district": "Wellington City",
-        "placename": "Wellington"
+        "id": 1443,
+        "title": "The New Zealand Times",
+        "firstYear": "19uu",
+        "finalYear": "9999",
+        "region": "Auckland",
+        "district": "Auckland",
+        "placename": "Auckland",
+        "urlCurrent": "http://www.koreatimes.co.nz/"
       },
       {
         "id": 2085,
@@ -7607,19 +7607,19 @@
         "placename": "Takapuna"
       },
       {
-        "id": 1256,
+        "id": 1113,
         "title": "North Shore Times",
-        "firstYear": "2004",
-        "finalYear": "9999",
+        "firstYear": "1949",
+        "finalYear": "1966",
         "region": "Auckland",
         "district": "Auckland",
         "placename": "Takapuna"
       },
       {
-        "id": 1113,
+        "id": 1256,
         "title": "North Shore Times",
-        "firstYear": "1949",
-        "finalYear": "1966",
+        "firstYear": "2004",
+        "finalYear": "9999",
         "region": "Auckland",
         "district": "Auckland",
         "placename": "Takapuna"
@@ -7661,6 +7661,15 @@
         "placename": "New Plymouth"
       },
       {
+        "id": 1531,
+        "title": "North Waikato News",
+        "firstYear": "1950",
+        "finalYear": "1966",
+        "region": "Waikato",
+        "district": "Waikato District",
+        "placename": "Ngaruawahia"
+      },
+      {
         "id": 1547,
         "title": "North Waikato News",
         "firstYear": "2001",
@@ -7669,15 +7678,6 @@
         "district": "Waikato District",
         "placename": "Huntly",
         "urlCurrent": "http://e-edition.northwaikatonews.co.nz/"
-      },
-      {
-        "id": 1531,
-        "title": "North Waikato News",
-        "firstYear": "1950",
-        "finalYear": "1966",
-        "region": "Waikato",
-        "district": "Waikato District",
-        "placename": "Ngaruawahia"
       },
       {
         "id": 1546,
@@ -7734,15 +7734,6 @@
         "placename": "Kumeu"
       },
       {
-        "id": 2041,
-        "title": "Norwester",
-        "firstYear": "2006",
-        "finalYear": "2008",
-        "region": "Wellington",
-        "district": "Porirua City",
-        "placename": "Porirua"
-      },
-      {
         "id": 2173,
         "title": "Norwester",
         "firstYear": "1972",
@@ -7761,6 +7752,15 @@
         "placename": "Wellington"
       },
       {
+        "id": 2041,
+        "title": "Norwester",
+        "firstYear": "2006",
+        "finalYear": "2008",
+        "region": "Wellington",
+        "district": "Porirua City",
+        "placename": "Porirua"
+      },
+      {
         "id": 2201,
         "title": "Norwester (Wellington)",
         "firstYear": "1993",
@@ -7770,15 +7770,6 @@
         "placename": "Wellington"
       },
       {
-        "id": 1255,
-        "title": "Nor-west News",
-        "firstYear": "2004",
-        "finalYear": "9999",
-        "region": "Auckland",
-        "district": "Auckland",
-        "placename": "Kumeu"
-      },
-      {
         "id": 2403,
         "title": "Nor'west News",
         "firstYear": "2003",
@@ -7786,6 +7777,15 @@
         "region": "Canterbury",
         "district": "Christchurch City",
         "placename": "Christchurch"
+      },
+      {
+        "id": 1255,
+        "title": "Nor-west News",
+        "firstYear": "2004",
+        "finalYear": "9999",
+        "region": "Auckland",
+        "district": "Auckland",
+        "placename": "Kumeu"
       },
       {
         "id": 2052,
@@ -8563,19 +8563,19 @@
         "placename": "Patea"
       },
       {
-        "id": 1613,
-        "title": "The Patea Mail",
-        "firstYear": "1975",
-        "finalYear": "1999",
+        "id": 1605,
+        "title": "Patea Mail",
+        "firstYear": "1875",
+        "finalYear": "1887",
         "region": "Waikato",
         "district": "South Waikato District",
         "placename": "Patea"
       },
       {
-        "id": 1605,
-        "title": "Patea Mail",
-        "firstYear": "1875",
-        "finalYear": "1887",
+        "id": 1613,
+        "title": "The Patea Mail",
+        "firstYear": "1975",
+        "finalYear": "1999",
         "region": "Waikato",
         "district": "South Waikato District",
         "placename": "Patea"
@@ -8671,15 +8671,6 @@
         "placename": "Thames"
       },
       {
-        "id": 1323,
-        "title": "People",
-        "firstYear": "1896",
-        "finalYear": "uuuu",
-        "region": "Auckland",
-        "district": "Auckland",
-        "placename": "Auckland"
-      },
-      {
         "id": 2120,
         "title": "People",
         "firstYear": "1895",
@@ -8687,6 +8678,15 @@
         "region": "Wellington",
         "district": "Wellington City",
         "placename": "Wellington"
+      },
+      {
+        "id": 1323,
+        "title": "People",
+        "firstYear": "1896",
+        "finalYear": "uuuu",
+        "region": "Auckland",
+        "district": "Auckland",
+        "placename": "Auckland"
       },
       {
         "id": 2610,
@@ -8915,15 +8915,6 @@
         "placename": "Hamilton"
       },
       {
-        "id": 1270,
-        "title": "Post",
-        "firstYear": "200u",
-        "finalYear": "9999",
-        "region": "Auckland",
-        "district": "Auckland",
-        "placename": "Waiuku"
-      },
-      {
         "id": 1374,
         "title": "Post",
         "firstYear": "1958",
@@ -8940,6 +8931,15 @@
         "region": "Taranaki",
         "district": "South Taranaki District",
         "placename": "Hawera"
+      },
+      {
+        "id": 1270,
+        "title": "Post",
+        "firstYear": "200u",
+        "finalYear": "9999",
+        "region": "Auckland",
+        "district": "Auckland",
+        "placename": "Waiuku"
       },
       {
         "id": 1697,
@@ -9632,15 +9632,6 @@
         "placename": "Christchurch"
       },
       {
-        "id": 1752,
-        "title": "Sentinel",
-        "firstYear": "2002",
-        "finalYear": "2005",
-        "region": "Hawke's Bay",
-        "district": "Hastings District",
-        "placename": "Havelock North"
-      },
-      {
         "id": 2131,
         "title": "Sentinel",
         "firstYear": "1905",
@@ -9657,6 +9648,15 @@
         "region": "Wellington",
         "district": "Wellington City",
         "placename": "Wellington"
+      },
+      {
+        "id": 1752,
+        "title": "Sentinel",
+        "firstYear": "2002",
+        "finalYear": "2005",
+        "region": "Hawke's Bay",
+        "district": "Hastings District",
+        "placename": "Havelock North"
       },
       {
         "id": 1213,
@@ -9776,19 +9776,19 @@
         "placename": "Auckland"
       },
       {
-        "id": 1423,
+        "id": 1414,
         "title": "Sing Tao weekly",
-        "firstYear": "1994",
-        "finalYear": "9999",
+        "firstYear": "1989",
+        "finalYear": "1991",
         "region": "Auckland",
         "district": "Auckland",
         "placename": "Auckland"
       },
       {
-        "id": 1414,
+        "id": 1423,
         "title": "Sing Tao weekly",
-        "firstYear": "1989",
-        "finalYear": "1991",
+        "firstYear": "1994",
+        "finalYear": "9999",
         "region": "Auckland",
         "district": "Auckland",
         "placename": "Auckland"
@@ -10250,15 +10250,6 @@
         "placename": "Rangiora"
       },
       {
-        "id": 1841,
-        "title": "Star",
-        "firstYear": "1984",
-        "finalYear": "2004",
-        "region": "Taranaki",
-        "district": "South Taranaki District",
-        "placename": "Hawera"
-      },
-      {
         "id": 2415,
         "title": "The Star",
         "firstYear": "1868",
@@ -10269,14 +10260,13 @@
         "urlDigitized": "http://paperspast.natlib.govt.nz/cgi-bin/paperspast?a=d&cl=CL1.TS"
       },
       {
-        "id": 2489,
-        "title": "The Star",
-        "firstYear": "2005",
-        "finalYear": "9999",
-        "region": "Canterbury",
-        "district": "Christchurch City",
-        "placename": "Christchurch",
-        "urlCurrent": "http://www.starcanterbury.co.nz/"
+        "id": 1841,
+        "title": "Star",
+        "firstYear": "1984",
+        "finalYear": "2004",
+        "region": "Taranaki",
+        "district": "South Taranaki District",
+        "placename": "Hawera"
       },
       {
         "id": 2633,
@@ -10287,6 +10277,16 @@
         "district": "Dunedin City",
         "placename": "Dunedin",
         "urlCurrent": "http://thestar.co.nz/"
+      },
+      {
+        "id": 2489,
+        "title": "The Star",
+        "firstYear": "2005",
+        "finalYear": "9999",
+        "region": "Canterbury",
+        "district": "Christchurch City",
+        "placename": "Christchurch",
+        "urlCurrent": "http://www.starcanterbury.co.nz/"
       },
       {
         "id": 2485,
@@ -10361,15 +10361,6 @@
         "placename": "Christchurch"
       },
       {
-        "id": 2438,
-        "title": "Star Sports",
-        "firstYear": "1958",
-        "finalYear": "1976",
-        "region": "Canterbury",
-        "district": "Christchurch City",
-        "placename": "Christchurch"
-      },
-      {
         "id": 2617,
         "title": "Star Sports",
         "firstYear": "1946",
@@ -10377,6 +10368,15 @@
         "region": "Otago",
         "district": "Dunedin City",
         "placename": "Dunedin"
+      },
+      {
+        "id": 2438,
+        "title": "Star Sports",
+        "firstYear": "1958",
+        "finalYear": "1976",
+        "region": "Canterbury",
+        "district": "Christchurch City",
+        "placename": "Christchurch"
       },
       {
         "id": 2434,
@@ -10488,6 +10488,34 @@
         "placename": "Christchurch"
       },
       {
+        "id": 2426,
+        "title": "Sun",
+        "firstYear": "1895",
+        "finalYear": "1895",
+        "region": "Canterbury",
+        "district": "Christchurch City",
+        "placename": "Christchurch"
+      },
+      {
+        "id": 2129,
+        "title": "Sun",
+        "firstYear": "1902",
+        "finalYear": "1902",
+        "region": "Wellington",
+        "district": "Wellington City",
+        "placename": "Wellington"
+      },
+      {
+        "id": 2383,
+        "title": "Sun",
+        "firstYear": "1914",
+        "finalYear": "1935",
+        "region": "Canterbury",
+        "district": "Christchurch City",
+        "placename": "Christchurch",
+        "urlDigitized": "http://paperspast.natlib.govt.nz/cgi-bin/paperspast?a=d&cl=CL1.SUNCH"
+      },
+      {
         "id": 1343,
         "title": "Sun",
         "firstYear": "1927",
@@ -10506,15 +10534,6 @@
         "placename": "Kawerau"
       },
       {
-        "id": 2129,
-        "title": "Sun",
-        "firstYear": "1902",
-        "finalYear": "1902",
-        "region": "Wellington",
-        "district": "Wellington City",
-        "placename": "Wellington"
-      },
-      {
         "id": 2283,
         "title": "Sun",
         "firstYear": "2008",
@@ -10522,25 +10541,6 @@
         "region": "Top of the South",
         "district": "Marlborough District",
         "placename": "Blenheim"
-      },
-      {
-        "id": 2383,
-        "title": "Sun",
-        "firstYear": "1914",
-        "finalYear": "1935",
-        "region": "Canterbury",
-        "district": "Christchurch City",
-        "placename": "Christchurch",
-        "urlDigitized": "http://paperspast.natlib.govt.nz/cgi-bin/paperspast?a=d&cl=CL1.SUNCH"
-      },
-      {
-        "id": 2426,
-        "title": "Sun",
-        "firstYear": "1895",
-        "finalYear": "1895",
-        "region": "Canterbury",
-        "district": "Christchurch City",
-        "placename": "Christchurch"
       },
       {
         "id": 1511,
@@ -10579,6 +10579,15 @@
         "placename": "Hamilton"
       },
       {
+        "id": 1387,
+        "title": "Sunday News",
+        "firstYear": "1966",
+        "finalYear": "19uu",
+        "region": "Auckland",
+        "district": "Auckland",
+        "placename": "Auckland"
+      },
+      {
         "id": 1398,
         "title": "Sunday News",
         "firstYear": "197u",
@@ -10587,15 +10596,6 @@
         "district": "Auckland",
         "placename": "Auckland",
         "urlCurrent": "http://www.stuff.co.nz/sunday-news"
-      },
-      {
-        "id": 1387,
-        "title": "Sunday News",
-        "firstYear": "1966",
-        "finalYear": "19uu",
-        "region": "Auckland",
-        "district": "Auckland",
-        "placename": "Auckland"
       },
       {
         "id": 1575,
@@ -10983,15 +10983,6 @@
         "placename": "Stratford"
       },
       {
-        "id": 1138,
-        "title": "Tatler",
-        "firstYear": "1962",
-        "finalYear": "uuuu",
-        "region": "Auckland",
-        "district": "Auckland",
-        "placename": "Remuera"
-      },
-      {
         "id": 2078,
         "title": "Tatler",
         "firstYear": "1949",
@@ -10999,6 +10990,15 @@
         "region": "Wellington",
         "district": "Wellington City",
         "placename": "Tawa"
+      },
+      {
+        "id": 1138,
+        "title": "Tatler",
+        "firstYear": "1962",
+        "finalYear": "uuuu",
+        "region": "Auckland",
+        "district": "Auckland",
+        "placename": "Remuera"
       },
       {
         "id": 1852,
@@ -11665,13 +11665,13 @@
         "placename": "Hamilton"
       },
       {
-        "id": 1320,
+        "id": 2105,
         "title": "Tribune",
-        "firstYear": "1890",
-        "finalYear": "uuuu",
-        "region": "Auckland",
-        "district": "Auckland",
-        "placename": "Auckland"
+        "firstYear": "1874",
+        "finalYear": "1875",
+        "region": "Wellington",
+        "district": "Wellington City",
+        "placename": "Wellington"
       },
       {
         "id": 2108,
@@ -11683,13 +11683,13 @@
         "placename": "Wellington"
       },
       {
-        "id": 2105,
+        "id": 1320,
         "title": "Tribune",
-        "firstYear": "1874",
-        "finalYear": "1875",
-        "region": "Wellington",
-        "district": "Wellington City",
-        "placename": "Wellington"
+        "firstYear": "1890",
+        "finalYear": "uuuu",
+        "region": "Auckland",
+        "district": "Auckland",
+        "placename": "Auckland"
       },
       {
         "id": 2256,
@@ -12494,6 +12494,15 @@
         "placename": "Greytown"
       },
       {
+        "id": 2014,
+        "title": "Wairarapa News",
+        "firstYear": "1940",
+        "finalYear": "1992",
+        "region": "Wellington",
+        "district": "Carterton District",
+        "placename": "Carterton"
+      },
+      {
         "id": 1994,
         "title": "Wairarapa News",
         "firstYear": "1994",
@@ -12502,15 +12511,6 @@
         "district": "Masterton District",
         "placename": "Masterton",
         "urlCurrent": "http://www.stuff.co.nz/dominion-post/news/local-papers/wairarapa-news/"
-      },
-      {
-        "id": 2014,
-        "title": "Wairarapa News",
-        "firstYear": "1940",
-        "finalYear": "1992",
-        "region": "Wellington",
-        "district": "Carterton District",
-        "placename": "Carterton"
       },
       {
         "id": 1977,
@@ -12838,16 +12838,6 @@
         "placename": "Waiuku"
       },
       {
-        "id": 1698,
-        "title": "Waka Maori o Niu Tirani",
-        "firstYear": "1878",
-        "finalYear": "1879",
-        "region": "Gisborne",
-        "district": "Gisborne District",
-        "placename": "Gisborne",
-        "urlCurrent": "http://nzdl.org/cgi-bin/library?gg=_cgiarggg_&e=d-00000-00---0niupepa--00-0--0-10-0---0---0prompt-10---4-------0-1l--11-en-50---20-about---00-0-1-00-11-1-0utfZz-8-00&a=d&c=niupepa&cl=CL1.17"
-      },
-      {
         "id": 2074,
         "title": "Waka Maori o Niu Tirani",
         "firstYear": "1871",
@@ -12856,6 +12846,16 @@
         "district": "Wellington City",
         "placename": "Wellington",
         "urlCurrent": "http://nzdl.org/cgi-bin/library?gg=_cgiarggg_&e=d-00000-00---0niupepa--00-0--0-10-0---0---0prompt-10---4-------0-1l--11-en-50---20-about---00-0-1-00-11-1-0utfZz-8-00&a=d&c=niupepa&cl=CL1.15"
+      },
+      {
+        "id": 1698,
+        "title": "Waka Maori o Niu Tirani",
+        "firstYear": "1878",
+        "finalYear": "1879",
+        "region": "Gisborne",
+        "district": "Gisborne District",
+        "placename": "Gisborne",
+        "urlCurrent": "http://nzdl.org/cgi-bin/library?gg=_cgiarggg_&e=d-00000-00---0niupepa--00-0--0-10-0---0---0prompt-10---4-------0-1l--11-en-50---20-about---00-0-1-00-11-1-0utfZz-8-00&a=d&c=niupepa&cl=CL1.17"
       },
       {
         "id": 2618,
@@ -13142,19 +13142,28 @@
         "placename": "Napier"
       },
       {
-        "id": 1346,
+        "id": 2658,
         "title": "Weekly News",
-        "firstYear": "1934",
-        "finalYear": "1964",
-        "region": "Auckland",
-        "district": "Auckland",
-        "placename": "Auckland"
+        "firstYear": "1862",
+        "finalYear": "uuuu",
+        "region": "Southland",
+        "district": "Southland District",
+        "placename": "Invercargill"
       },
       {
         "id": 1295,
         "title": "Weekly News",
         "firstYear": "1863",
         "finalYear": "1877",
+        "region": "Auckland",
+        "district": "Auckland",
+        "placename": "Auckland"
+      },
+      {
+        "id": 1346,
+        "title": "Weekly News",
+        "firstYear": "1934",
+        "finalYear": "1964",
         "region": "Auckland",
         "district": "Auckland",
         "placename": "Auckland"
@@ -13167,15 +13176,6 @@
         "region": "Manawatu-Wanganui",
         "district": "Horowhenua District",
         "placename": "Levin"
-      },
-      {
-        "id": 2658,
-        "title": "Weekly News",
-        "firstYear": "1862",
-        "finalYear": "uuuu",
-        "region": "Southland",
-        "district": "Southland District",
-        "placename": "Invercargill"
       },
       {
         "id": 1302,

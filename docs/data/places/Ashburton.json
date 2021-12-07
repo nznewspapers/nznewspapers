@@ -1,0 +1,45 @@
+{
+  "stats": {
+    "placename": "Ashburton",
+    "count": 7
+  },
+  "papers": {
+    "2507": {
+      "title": "Evening Echo",
+      "firstYear": "1878",
+      "finalYear": "1879"
+    },
+    "2508": {
+      "title": "Ashburton Herald",
+      "firstYear": "1879",
+      "finalYear": "1880"
+    },
+    "2509": {
+      "title": "Ashburton Guardian",
+      "firstYear": "1879",
+      "finalYear": "9999",
+      "urlCurrent": "http://www.ashburtonguardian.co.nz/",
+      "urlDigitized": "http://paperspast.natlib.govt.nz/cgi-bin/paperspast?a=d&cl=CL1.AG"
+    },
+    "2510": {
+      "title": "Guardian Mid-weeker",
+      "firstYear": "1986",
+      "finalYear": "9999"
+    },
+    "2511": {
+      "title": "Ashburton's the Courier",
+      "firstYear": "198u",
+      "finalYear": "1995"
+    },
+    "2513": {
+      "title": "Mid Canterbury Herald",
+      "firstYear": "2007",
+      "finalYear": "9999"
+    },
+    "2514": {
+      "title": "The Ashburton Courier",
+      "firstYear": "2012",
+      "finalYear": "9999"
+    }
+  }
+}

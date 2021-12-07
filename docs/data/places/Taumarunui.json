@@ -1,0 +1,33 @@
+{
+  "stats": {
+    "placename": "Taumarunui",
+    "count": 5
+  },
+  "papers": {
+    "1846": {
+      "title": "Taumarunui Press",
+      "firstYear": "1906",
+      "finalYear": "1971"
+    },
+    "1850": {
+      "title": "Ohura Valley Gazette",
+      "firstYear": "1936",
+      "finalYear": "1942"
+    },
+    "1852": {
+      "title": "Taumarunui Gazette",
+      "firstYear": "1971",
+      "finalYear": "1989"
+    },
+    "1857": {
+      "title": "Ruapehu Press",
+      "firstYear": "1989",
+      "finalYear": "9999"
+    },
+    "1858": {
+      "title": "Press Weekend",
+      "firstYear": "1993",
+      "finalYear": "1993"
+    }
+  }
+}

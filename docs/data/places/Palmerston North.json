@@ -1,0 +1,92 @@
+{
+  "stats": {
+    "placename": "Palmerston North",
+    "count": 16
+  },
+  "papers": {
+    "1904": {
+      "title": "Manawatu Times",
+      "firstYear": "1875",
+      "finalYear": "1963",
+      "urlDigitized": "http://paperspast.natlib.govt.nz/cgi-bin/paperspast?a=d&cl=CL1.MT"
+    },
+    "1905": {
+      "title": "Skandia",
+      "firstYear": "1875",
+      "finalYear": "uuuu"
+    },
+    "1907": {
+      "title": "Manawatu Standard",
+      "firstYear": "1880",
+      "finalYear": "9999",
+      "urlCurrent": "http://www.manawatustandard.co.nz/",
+      "urlDigitized": "http://paperspast.natlib.govt.nz/cgi-bin/paperspast?a=d&cl=CL1.MS"
+    },
+    "1912": {
+      "title": "New Zealand Sunday News",
+      "firstYear": "1933",
+      "finalYear": "1935"
+    },
+    "1914": {
+      "title": "News",
+      "firstYear": "1963",
+      "finalYear": "1964"
+    },
+    "1915": {
+      "title": "Central Counties Press",
+      "firstYear": "1967",
+      "finalYear": "1967"
+    },
+    "1916": {
+      "title": "Central Press",
+      "firstYear": "1967",
+      "finalYear": "uuuu"
+    },
+    "1917": {
+      "title": "Tribune (Palmerston North)",
+      "firstYear": "196u",
+      "finalYear": "9999"
+    },
+    "1918": {
+      "title": "Weekender",
+      "firstYear": "1970",
+      "finalYear": "1970"
+    },
+    "1920": {
+      "title": "Manawatu Farmer",
+      "firstYear": "1970",
+      "finalYear": "uuuu"
+    },
+    "1921": {
+      "title": "Guardian [Palmerston North]",
+      "firstYear": "1972",
+      "finalYear": "2010"
+    },
+    "1922": {
+      "title": "New Zealand Large Print Weekly",
+      "firstYear": "1980",
+      "finalYear": "1980"
+    },
+    "1923": {
+      "title": "Heartlander",
+      "firstYear": "1987",
+      "finalYear": "1988"
+    },
+    "1925": {
+      "title": "Hua Kan",
+      "firstYear": "200u",
+      "finalYear": "200u"
+    },
+    "1926": {
+      "title": "Manawatu Guardian",
+      "firstYear": "2010",
+      "finalYear": "9999",
+      "urlCurrent": "http://manawatuguardian.apn.co.nz/"
+    },
+    "1927": {
+      "title": "Manawatu Sports News",
+      "firstYear": "uuuu",
+      "finalYear": "1998"
+    }
+  }
+}

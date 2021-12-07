@@ -1,0 +1,48 @@
+{
+  "stats": {
+    "placename": "Matamata",
+    "count": 8
+  },
+  "papers": {
+    "1554": {
+      "title": "Matamata Record",
+      "firstYear": "1917",
+      "finalYear": "1954"
+    },
+    "1556": {
+      "title": "Review",
+      "firstYear": "1934",
+      "finalYear": "1935"
+    },
+    "1557": {
+      "title": "Matamata Review",
+      "firstYear": "1935",
+      "finalYear": "1940"
+    },
+    "1558": {
+      "title": "Matamata County Mail",
+      "firstYear": "193u",
+      "finalYear": "1975"
+    },
+    "1560": {
+      "title": "Matamata Householder",
+      "firstYear": "1958",
+      "finalYear": "1963"
+    },
+    "1561": {
+      "title": "Tirau Advertiser",
+      "firstYear": "1960",
+      "finalYear": "uuuu"
+    },
+    "1563": {
+      "title": "Matamata District Chronicle",
+      "firstYear": "1963",
+      "finalYear": "1983"
+    },
+    "1565": {
+      "title": "Matamata Chronicle",
+      "firstYear": "1983",
+      "finalYear": "9999"
+    }
+  }
+}

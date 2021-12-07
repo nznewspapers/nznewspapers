@@ -1,0 +1,23 @@
+{
+  "stats": {
+    "placename": "Mangonui",
+    "count": 3
+  },
+  "papers": {
+    "1004": {
+      "title": "Mangonui County Times and Northern Representative",
+      "firstYear": "1904",
+      "finalYear": "1906"
+    },
+    "1007": {
+      "title": "North Auckland Age",
+      "firstYear": "1906",
+      "finalYear": "1918"
+    },
+    "1010": {
+      "title": "On Guard",
+      "firstYear": "1916",
+      "finalYear": "1922"
+    }
+  }
+}

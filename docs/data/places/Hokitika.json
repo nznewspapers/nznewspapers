@@ -1,0 +1,85 @@
+{
+  "stats": {
+    "placename": "Hokitika",
+    "count": 15
+  },
+  "papers": {
+    "2321": {
+      "title": "Evening Star",
+      "firstYear": "1865",
+      "finalYear": "1884"
+    },
+    "2322": {
+      "title": "Leader",
+      "firstYear": "1865",
+      "finalYear": "1908"
+    },
+    "2323": {
+      "title": "West Coast Times [1865]",
+      "firstYear": "1865",
+      "finalYear": "1917",
+      "urlDigitized": "http://paperspast.natlib.govt.nz/cgi-bin/paperspast?a=d&cl=CL1.WCT"
+    },
+    "2324": {
+      "title": "Hokitika Advertiser and General Goldfields' Advertiser",
+      "firstYear": "1865",
+      "finalYear": "uuuu"
+    },
+    "2325": {
+      "title": "Hokitika Chronicle",
+      "firstYear": "1866",
+      "finalYear": "1866"
+    },
+    "2326": {
+      "title": "Despatch",
+      "firstYear": "1866",
+      "finalYear": "1867"
+    },
+    "2327": {
+      "title": "New Zealand Celt",
+      "firstYear": "1867",
+      "finalYear": "1868"
+    },
+    "2328": {
+      "title": "Hokitika Daily News",
+      "firstYear": "1868",
+      "finalYear": "1870"
+    },
+    "2330": {
+      "title": "Westland Observer",
+      "firstYear": "1868",
+      "finalYear": "uuuu"
+    },
+    "2331": {
+      "title": "Lantern",
+      "firstYear": "1870",
+      "finalYear": "1870"
+    },
+    "2334": {
+      "title": "Westland Register",
+      "firstYear": "1872",
+      "finalYear": "1873"
+    },
+    "2337": {
+      "title": "Hokitika Guardian [1881]",
+      "firstYear": "1881",
+      "finalYear": "1988"
+    },
+    "2340": {
+      "title": "Westland Chronicle",
+      "firstYear": "1917",
+      "finalYear": "1918"
+    },
+    "2342": {
+      "title": "West Coast Times [1988]",
+      "firstYear": "1988",
+      "finalYear": "2008"
+    },
+    "2343": {
+      "title": "Hokitika Guardian [2008]",
+      "firstYear": "2008",
+      "finalYear": "9999",
+      "urlCurrent": "http://www.greystar.co.nz/advertising/hokitika-guardian"
+    }
+  }
+}

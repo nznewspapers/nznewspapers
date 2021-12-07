@@ -1,0 +1,31 @@
+{
+  "stats": {
+    "placename": "Maungakawa",
+    "count": 4
+  },
+  "papers": {
+    "1520": {
+      "title": "Te Paki o Matariki",
+      "firstYear": "1892",
+      "finalYear": "1935",
+      "urlCurrent": "http://nzdl.org/cgi-bin/library?gg=_cgiarggg_&e=d-00000-00---off-0niupepa--00-0--0-10-0---0---0prompt-10---4-------0-1l--11-en-50---20-about---00-0-1-00-0-0-11-1-0utfZz-8-00&a=d&c=niupepa&cl=CL1.24"
+    },
+    "1521": {
+      "title": "Ko te Paunui o Aotearoa",
+      "firstYear": "1894",
+      "finalYear": "1894",
+      "urlCurrent": "http://nzdl.org/cgi-bin/library?gg=_cgiarggg_&e=d-00000-00---0niupepa--00-0--0-10-0---0---0prompt-10---4-------0-1l--11-en-50---20-about---00-0-1-00-11-1-0utfZz-8-00&a=d&c=niupepa&cl=CL1.26&d=30__1"
+    },
+    "1522": {
+      "title": "Ko te kahiti tuturu mo Aotearoa, me te Waipounamu",
+      "firstYear": "1894",
+      "finalYear": "1896",
+      "urlCurrent": "http://nzdl.org/cgi-bin/library?gg=_cgiarggg_&e=d-00000-00---0niupepa--00-0--0-10-0---0---0prompt-10---4-------0-1l--11-en-50---20-about---00-0-1-00-11-1-0utfZz-8-00&a=d&c=niupepa&cl=CL1.26"
+    },
+    "1523": {
+      "title": "Paunui o Aotearoa mo Te Kooti Whakawa Whenua Maori",
+      "firstYear": "1894",
+      "finalYear": "1896"
+    }
+  }
+}

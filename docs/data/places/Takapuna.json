@@ -1,0 +1,63 @@
+{
+  "stats": {
+    "placename": "Takapuna",
+    "count": 11
+  },
+  "papers": {
+    "1099": {
+      "title": "North Shore News",
+      "firstYear": "1933",
+      "finalYear": "1939"
+    },
+    "1113": {
+      "title": "North Shore Times",
+      "firstYear": "1949",
+      "finalYear": "1966"
+    },
+    "1114": {
+      "title": "Shore",
+      "firstYear": "1949",
+      "finalYear": "uuuu"
+    },
+    "1117": {
+      "title": "Takapuna and North Shore News",
+      "firstYear": "1952",
+      "finalYear": "uuuu"
+    },
+    "1119": {
+      "title": "North Shore Advertiser",
+      "firstYear": "1954",
+      "finalYear": "1966"
+    },
+    "1136": {
+      "title": "Eastern Suburbs Echo",
+      "firstYear": "1962",
+      "finalYear": "19uu"
+    },
+    "1153": {
+      "title": "North Shore Times Advertiser",
+      "firstYear": "1966",
+      "finalYear": "2004"
+    },
+    "1165": {
+      "title": "North Shore Gazette (1971)",
+      "firstYear": "1971",
+      "finalYear": "1975"
+    },
+    "1193": {
+      "title": "Shore Sentinel",
+      "firstYear": "1981",
+      "finalYear": "1982"
+    },
+    "1194": {
+      "title": "Bays' News",
+      "firstYear": "1981",
+      "finalYear": "1983"
+    },
+    "1256": {
+      "title": "North Shore Times",
+      "firstYear": "2004",
+      "finalYear": "9999"
+    }
+  }
+}

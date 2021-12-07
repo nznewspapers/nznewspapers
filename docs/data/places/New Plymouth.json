@@ -1,0 +1,101 @@
+{
+  "stats": {
+    "placename": "New Plymouth",
+    "count": 18
+  },
+  "papers": {
+    "1791": {
+      "title": "Taranaki Herald",
+      "firstYear": "1852",
+      "finalYear": "1989",
+      "urlDigitized": "http://paperspast.natlib.govt.nz/cgi-bin/paperspast?a=d&cl=CL1.TH"
+    },
+    "1792": {
+      "title": "Taranaki News",
+      "firstYear": "1857",
+      "finalYear": "1875"
+    },
+    "1794": {
+      "title": "Budget",
+      "firstYear": "1875",
+      "finalYear": "1877"
+    },
+    "1795": {
+      "title": "Taranaki News (1875)",
+      "firstYear": "1875",
+      "finalYear": "1907"
+    },
+    "1796": {
+      "title": "Taranaki Daily News",
+      "firstYear": "1875",
+      "finalYear": "9999",
+      "urlCurrent": "http://www.stuff.co.nz/taranaki-daily-news",
+      "urlDigitized": "http://paperspast.natlib.govt.nz/cgi-bin/paperspast?a=d&cl=CL1.TDN"
+    },
+    "1797": {
+      "title": "Budget and Taranaki Weekly Herald",
+      "firstYear": "1877",
+      "finalYear": "1932"
+    },
+    "1804": {
+      "title": "Taranaki Herald Overseas News Sheet",
+      "firstYear": "1940",
+      "finalYear": "1946"
+    },
+    "1805": {
+      "title": "Taranaki Sports Herald",
+      "firstYear": "1958",
+      "finalYear": "uuuu"
+    },
+    "1808": {
+      "title": "City Express",
+      "firstYear": "1963",
+      "finalYear": "1966"
+    },
+    "1810": {
+      "title": "Express",
+      "firstYear": "1966",
+      "finalYear": "1967"
+    },
+    "1811": {
+      "title": "Sunday Express",
+      "firstYear": "1967",
+      "finalYear": "1988"
+    },
+    "1813": {
+      "title": "Fitzroy News",
+      "firstYear": "1971",
+      "finalYear": "1976"
+    },
+    "1814": {
+      "title": "Journal",
+      "firstYear": "1979",
+      "finalYear": "1979"
+    },
+    "1815": {
+      "title": "New Plymouth Star",
+      "firstYear": "1982",
+      "finalYear": "1985"
+    },
+    "1816": {
+      "title": "Northern Star",
+      "firstYear": "1985",
+      "finalYear": "1988"
+    },
+    "1817": {
+      "title": "North Taranaki Weekender",
+      "firstYear": "1989",
+      "finalYear": "1996"
+    },
+    "1818": {
+      "title": "North Taranaki Midweek",
+      "firstYear": "1989",
+      "finalYear": "9999"
+    },
+    "1820": {
+      "title": "Taranaki Times",
+      "firstYear": "1993",
+      "finalYear": "1994"
+    }
+  }
+}

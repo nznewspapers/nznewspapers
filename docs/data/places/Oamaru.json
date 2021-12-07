@@ -1,0 +1,38 @@
+{
+  "stats": {
+    "placename": "Oamaru",
+    "count": 5
+  },
+  "papers": {
+    "2547": {
+      "title": "Oamaru Times and Waitaki Reporter",
+      "firstYear": "1864",
+      "finalYear": "1872",
+      "urlDigitized": "http://paperspast.natlib.govt.nz/cgi-bin/paperspast?a=d&cl=CL1.NOT"
+    },
+    "2548": {
+      "title": "North Otago Times",
+      "firstYear": "1872",
+      "finalYear": "1932",
+      "urlDigitized": "http://paperspast.natlib.govt.nz/cgi-bin/paperspast?a=d&cl=CL1.NOT"
+    },
+    "2549": {
+      "title": "Evening Mail",
+      "firstYear": "1876",
+      "finalYear": "1879",
+      "urlDigitized": "http://paperspast.natlib.govt.nz/cgi-bin/paperspast?a=d&cl=CL1.OAM"
+    },
+    "2551": {
+      "title": "Oamaru Mail",
+      "firstYear": "1879",
+      "finalYear": "9999",
+      "urlCurrent": "http://www.oamarumail.co.nz/",
+      "urlDigitized": "http://paperspast.natlib.govt.nz/cgi-bin/paperspast?a=d&cl=CL1.OAM"
+    },
+    "2552": {
+      "title": "The Mail Minor",
+      "firstYear": "1939",
+      "finalYear": "1942"
+    }
+  }
+}

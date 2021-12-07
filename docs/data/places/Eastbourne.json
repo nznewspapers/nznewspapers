@@ -1,0 +1,33 @@
+{
+  "stats": {
+    "placename": "Eastbourne",
+    "count": 5
+  },
+  "papers": {
+    "2045": {
+      "title": "Eastbourne sun",
+      "firstYear": "1921",
+      "finalYear": "1924"
+    },
+    "2049": {
+      "title": "East Harbour sun",
+      "firstYear": "1960",
+      "finalYear": "1969"
+    },
+    "2050": {
+      "title": "Wainuiomata & Eastern Bays Courier",
+      "firstYear": "1967",
+      "finalYear": "1973"
+    },
+    "2051": {
+      "title": "Eastbourne sun (1969)",
+      "firstYear": "1969",
+      "finalYear": "uuuu"
+    },
+    "2052": {
+      "title": "Now",
+      "firstYear": "1971",
+      "finalYear": "uuuu"
+    }
+  }
+}

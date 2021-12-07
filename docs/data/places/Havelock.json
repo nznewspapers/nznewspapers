@@ -1,0 +1,28 @@
+{
+  "stats": {
+    "placename": "Havelock",
+    "count": 4
+  },
+  "papers": {
+    "2263": {
+      "title": "Havelock Mail",
+      "firstYear": "1864",
+      "finalYear": "1864"
+    },
+    "2272": {
+      "title": "Pelorus Guardian and Miners' Advocate",
+      "firstYear": "1890",
+      "finalYear": "1920"
+    },
+    "2274": {
+      "title": "Pelorus News Bulletin",
+      "firstYear": "1934",
+      "finalYear": "1936"
+    },
+    "2275": {
+      "title": "North Marlborough Advertiser",
+      "firstYear": "1937",
+      "finalYear": "1937"
+    }
+  }
+}
