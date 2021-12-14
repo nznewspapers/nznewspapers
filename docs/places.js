@@ -24,7 +24,6 @@ function contentBox(data) {
   const columnCount = 4;
   var itemCount = data.stats.count + data.stats.districts + data.stats.regions;
   var columnSize = Math.ceil(itemCount / columnCount);
-  console.log(itemCount);
 
   var currentColumn = appendDiv(box, "columnbox");
   var currentColumnCount = 0;
@@ -47,32 +46,30 @@ function contentBox(data) {
 
       newspaperList = data.lists[region][district];
 
-      for (var k = 0; k < newspaperList.length; k++) {
-        title = newspaperList[k].title;
-        url = "newspaper.html?id=" + newspaperList[k].id;
-
+      newspaperList.forEach(function (newspaper) {
         div = appendDiv(currentColumn, "columnitem");
         currentColumnCount += 1;
-        appendLink(div, url, title);
+        url = "newspaper.html?id=" + newspaper.id;
+        appendLink(div, url, newspaper.title);
         appendText(
           div,
           ", " +
-            newspaperList[k].firstYear +
+            newspaper.firstYear +
             "-" +
-            newspaperList[k].finalYear +
+            newspaper.finalYear +
             ", of " +
-            newspaperList[k].placename +
+            newspaper.placename +
             " : " +
             currentColumnCount +
             "/" +
-            columnSize +
+            columnSize
         );
-      }
-    }
-
-    if (currentColumnCount >= columnSize) {
-      currentColumn = appendDiv(box, "columnbox");
-      currentColumnCount = 0;
+        // Start a new column:
+        if (currentColumnCount >= columnSize) {
+          currentColumn = appendDiv(box, "columnbox");
+          currentColumnCount = 0;
+        }
+      });
     }
   }
 }
