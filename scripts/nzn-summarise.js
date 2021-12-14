@@ -95,6 +95,51 @@ function generateTitleInfo(newspaperList, placenames, newspaperCount) {
   nznShared.writeJsonDict(titleInfo, titleInfoPath);
 }
 
+function generatePlaceInfo(newspaperList, placenames) {
+  var placeInfo = {
+    stats: {},
+    lists: {},
+  };
+  placeInfo.stats.count = newspaperList.length;
+  placeInfo.stats.places = placenames.size;
+  placeInfo.lists.regionList = [];
+  fullDistrictList = new Set();
+
+  newspaperList.sort(function (a, b) {
+    return a.sortPlace.localeCompare(b.sortPlace);
+  });
+
+  newspaperList.forEach(function (newspaper) {
+    if (!placeInfo.lists[newspaper.region]) {
+      placeInfo.lists[newspaper.region] = {};
+      placeInfo.lists[newspaper.region]["districtList"] = [];
+      placeInfo.lists.regionList.push(newspaper.region);
+    }
+    if (!placeInfo.lists[newspaper.region][newspaper.district]) {
+      placeInfo.lists[newspaper.region][newspaper.district] = [];
+      placeInfo.lists[newspaper.region]["districtList"].push(
+        newspaper.district
+      );
+      fullDistrictList.add(newspaper.district);
+    }
+    var record = {
+      id: newspaper.id,
+      title: newspaper.title,
+      firstYear: newspaper.firstYear,
+      finalYear: newspaper.finalYear,
+      placename: newspaper.placename,
+      urlCurrent: newspaper.urlCurrent,
+      urlDigitized: newspaper.urlDigitized,
+    };
+    placeInfo.lists[newspaper.region][newspaper.district].push(record);
+  });
+
+  placeInfo.stats.regions = placeInfo.lists.regionList.length;
+  placeInfo.stats.districts = fullDistrictList.size;
+  const placeInfoPath = path.join(nznShared.jsonDir, "placeInfo.json");
+  nznShared.writeJsonDict(placeInfo, placeInfoPath);
+}
+
 /**
  * Generate one JSON file for each place in the dataset.
  * @param {*} newspaperList A list records, each describihg one newspaper.
@@ -173,7 +218,8 @@ function summarise(idList) {
         .replace(/\W+/g, "")
         .replace("the", "");
       newspaper.sortKey = sortKey + "-" + newspaper.firstYear;
-      newspaper.sortPlace = newspaper.placecode + "-" + newspaper.placename;
+      newspaper.sortPlace =
+        newspaper.placecode + "-" + newspaper.placename + newspaper.firstYear;
       newspaper.titleSection =
         sortKey[0].toUpperCase() + sortKey[0].toLowerCase();
       newspaperList.push(newspaper);
@@ -189,8 +235,9 @@ function summarise(idList) {
   // Generate data for the "Home" page:
   generateHomeInfo(newspaperList, placenames, newspaperCount);
 
-  // Generate data for the "By Title" page:
+  // Generate data for the "By Title" and "By Place" pages:
   generateTitleInfo(newspaperList, placenames, newspaperCount);
+  generatePlaceInfo(newspaperList, placenames, newspaperCount);
 
   // Generate data about each place:
   generatePlaceData(newspaperList);

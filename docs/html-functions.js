@@ -1,4 +1,4 @@
-console.log("Call it functional");
+// console.log("Call it functional");
 
 function appendDiv(parent, className, divInnerHtml) {
   var div = document.createElement("div");
@@ -21,4 +21,19 @@ function appendLink(parent, url, text) {
   link.setAttributeNode(href);
   link.textContent = text;
   parent.appendChild(link);
+}
+
+/**
+ * Read a local JSON file to an object and return it.
+ * @param {*} url The URL of the JSON file (usually relative to the curren tpage).
+ * @returns
+ */
+async function readJsonUrl(url) {
+  try {
+    let res = await fetch(url);
+    return await res.json();
+  } catch (error) {
+    console.log("Error reading JSON URL: " + url);
+    console.log(error);
+  }
 }
