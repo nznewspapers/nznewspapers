@@ -95,7 +95,7 @@ function generateTitleInfo(newspaperList, placenames, newspaperCount) {
   nznShared.writeJsonDict(titleInfo, titleInfoPath);
 }
 
-function generatePlaceInfo(newspaperList, placenames, newspaperCount) {
+function generatePlaceInfo(newspaperList, placenames) {
   var placeInfo = {
     stats: {},
     lists: {},
@@ -103,6 +103,7 @@ function generatePlaceInfo(newspaperList, placenames, newspaperCount) {
   placeInfo.stats.count = newspaperList.length;
   placeInfo.stats.places = placenames.size;
   placeInfo.lists.regionList = [];
+  fullDistrictList = new Set();
 
   newspaperList.sort(function (a, b) {
     return a.sortPlace.localeCompare(b.sortPlace);
@@ -119,6 +120,7 @@ function generatePlaceInfo(newspaperList, placenames, newspaperCount) {
       placeInfo.lists[newspaper.region]["districtList"].push(
         newspaper.district
       );
+      fullDistrictList.add(newspaper.district);
     }
     var record = {
       id: newspaper.id,
@@ -132,8 +134,8 @@ function generatePlaceInfo(newspaperList, placenames, newspaperCount) {
     placeInfo.lists[newspaper.region][newspaper.district].push(record);
   });
 
-  placeInfo.stats.headings = Object.keys(placeInfo.lists).length;
-
+  placeInfo.stats.regions = placeInfo.lists.regionList.length;
+  placeInfo.stats.districts = fullDistrictList.size;
   const placeInfoPath = path.join(nznShared.jsonDir, "placeInfo.json");
   nznShared.writeJsonDict(placeInfo, placeInfoPath);
 }

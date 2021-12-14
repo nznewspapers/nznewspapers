@@ -2,7 +2,8 @@
   "stats": {
     "count": 1521,
     "places": 232,
-    "headings": 16
+    "regions": 15,
+    "districts": 66
   },
   "lists": {
     "regionList": [
