@@ -30,7 +30,6 @@ function contentBox(data) {
 
   for (var i = 0; i < data.lists.regionList.length; i++) {
     region = data.lists.regionList[i];
-    console.log(region);
 
     appendDiv(currentColumn, "columnheading", region);
     currentColumnCount += 1;
@@ -39,7 +38,6 @@ function contentBox(data) {
 
     for (var j = 0; j < districtList.length; j++) {
       district = districtList[j];
-      console.log(region + " - " + district);
 
       appendDiv(currentColumn, "columnsubheading", district);
       currentColumnCount += 1;
@@ -58,11 +56,7 @@ function contentBox(data) {
             "-" +
             newspaper.finalYear +
             ", of " +
-            newspaper.placename +
-            " : " +
-            currentColumnCount +
-            "/" +
-            columnSize
+            newspaper.placename
         );
         // Start a new column:
         if (currentColumnCount >= columnSize) {

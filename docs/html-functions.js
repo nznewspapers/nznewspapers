@@ -1,4 +1,4 @@
-console.log("Call it functional");
+// console.log("Call it functional");
 
 function appendDiv(parent, className, divInnerHtml) {
   var div = document.createElement("div");
