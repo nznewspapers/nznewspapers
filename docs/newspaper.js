@@ -171,27 +171,29 @@ function linkTable(box, newspaper) {
   var relateCell = appendElement(infoRow, "td", null);
 
   linkKeys = Object.keys(newspaper.links);
-
-  var directionTitle = newspaper.links["direction"];
-
-  if ((directionTitle = "Preceding"))
-    linkKeys.forEach(function (key) {
-      linkTitle = newspaper.links[key]["target-description"];
+  linkKeys.forEach(function (key) {
+    var directionTitle = newspaper.links[key]["direction"];
+    var targetDescriptionTitle = newspaper.links[key]["target-description"];
+    var relationshipTitle = newspaper.links[key]["relationship"];
+    if (relationshipTitle == null) {
+      relationshipTitle = directionTitle;
+    }
+    console.log("direction-title" + directionTitle);
+    if (directionTitle == "Preceding") {
       div = appendElement(precedeCell, "div");
-      appendLink(div, "newspaper.html?id=" + key, linkTitle);
-    });
-  else if ((directionTitle = "Succeeding"))
-    linkKeys.forEach(function (key) {
-      linkTitle = newspaper.links[key]["target-description"];
+      appendText(div, relationshipTitle + ": ");
+      appendLink(div, "newspaper.html?id=" + key, targetDescriptionTitle);
+      console.log("a");
+    } else if (directionTitle == "Succeeding") {
       div = appendElement(succeedCell, "div");
-      appendLink(div, "newspaper.html?id=" + key, linkTitle);
-    });
-  else
-    linkKeys.forEach(function (key) {
-      linkTitle = newspaper.links[key]["target-description"];
+      appendText(div, relationshipTitle + ": ");
+      appendLink(div, "newspaper.html?id=" + key, targetDescriptionTitle);
+    } else {
       div = appendElement(relateCell, "div");
-      appendLink(div, "newspaper.html?id=" + key, linkTitle);
-    });
+      appendText(div, relationshipTitle + ": ");
+      appendLink(div, "newspaper.html?id=" + key, targetDescriptionTitle);
+    }
+  });
 }
 
 function keyElements(box, newspaper) {
