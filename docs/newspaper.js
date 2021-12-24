@@ -145,53 +145,58 @@ function contentBox(newspaper) {
 function linkTable(box, newspaper) {
   var linkTableDiv = appendDiv(box, "links");
 
-  // Heading:
-  var linkTableText = document.createElement("h3");
-  linkTableText.textContent = "Link Table";
-  linkTableDiv.appendChild(linkTableText);
-
-  // Set up table
-  var linktable = appendElement(linkTableDiv, "table", "simpletable");
-  var linkthead = appendElement(linktable, "thead");
-  var linktbody = appendElement(linktable, "tbody");
-
-  // Adding the entire table to the body tag
-  linkTableDiv.appendChild(linktable);
-
-  // Creating and adding data to the header row of the table
-  var headerRow = appendElement(linkthead, "tr");
-  appendElement(headerRow, "th", null, "Preceded By");
-  appendElement(headerRow, "th", null, "Related To");
-  appendElement(headerRow, "th", null, "Succeeded By");
-
-  // CReate and add the links:
-  var infoRow = appendElement(linktbody, "tr");
-  var precedeCell = appendElement(infoRow, "td", null);
-  var succeedCell = appendElement(infoRow, "td", null);
-  var relateCell = appendElement(infoRow, "td", null);
-
   linkKeys = Object.keys(newspaper.links);
-  linkKeys.forEach(function (key) {
-    var directionTitle = newspaper.links[key]["direction"];
-    var targetDescriptionTitle = newspaper.links[key]["target-description"];
-    var relationshipTitle = newspaper.links[key]["relationship"];
-    if (relationshipTitle == null) {
-      relationshipTitle = directionTitle;
-    }
-    if (directionTitle == "Preceding") {
-      div = appendElement(precedeCell, "div");
-      appendText(div, relationshipTitle + ": ");
-      appendLink(div, "newspaper.html?id=" + key, targetDescriptionTitle);
-    } else if (directionTitle == "Succeeding") {
-      div = appendElement(succeedCell, "div");
-      appendText(div, relationshipTitle + ": ");
-      appendLink(div, "newspaper.html?id=" + key, targetDescriptionTitle);
-    } else {
-      div = appendElement(relateCell, "div");
-      appendText(div, relationshipTitle + ": ");
-      appendLink(div, "newspaper.html?id=" + key, targetDescriptionTitle);
-    }
-  });
+  if (linkKeys == null) {
+    pause(100);
+  } else {
+    // Heading:
+    var linkTableText = document.createElement("h3");
+    linkTableText.textContent = "Link Table";
+    linkTableDiv.appendChild(linkTableText);
+
+    // Set up table
+    var linktable = appendElement(linkTableDiv, "table", "simpletable");
+    var linkthead = appendElement(linktable, "thead");
+    var linktbody = appendElement(linktable, "tbody");
+
+    // Adding the entire table to the body tag
+    linkTableDiv.appendChild(linktable);
+
+    // Creating and adding data to the header row of the table
+    var headerRow = appendElement(linkthead, "tr");
+    appendElement(headerRow, "th", null, "Preceded By");
+    appendElement(headerRow, "th", null, "Related To");
+    appendElement(headerRow, "th", null, "Succeeded By");
+
+    // CReate and add the links:
+
+    var infoRow = appendElement(linktbody, "tr");
+    var precedeCell = appendElement(infoRow, "td", null);
+    var succeedCell = appendElement(infoRow, "td", null);
+    var relateCell = appendElement(infoRow, "td", null);
+
+    linkKeys.forEach(function (key) {
+      var directionTitle = newspaper.links[key]["direction"];
+      var targetDescriptionTitle = newspaper.links[key]["target-description"];
+      var relationshipTitle = newspaper.links[key]["relationship"];
+      if (relationshipTitle == null) {
+        relationshipTitle = directionTitle;
+      }
+      if (directionTitle == "Preceding") {
+        div = appendElement(precedeCell, "div");
+        appendText(div, relationshipTitle + ": ");
+        appendLink(div, "newspaper.html?id=" + key, targetDescriptionTitle);
+      } else if (directionTitle == "Succeeding") {
+        div = appendElement(succeedCell, "div");
+        appendText(div, relationshipTitle + ": ");
+        appendLink(div, "newspaper.html?id=" + key, targetDescriptionTitle);
+      } else {
+        div = appendElement(relateCell, "div");
+        appendText(div, relationshipTitle + ": ");
+        appendLink(div, "newspaper.html?id=" + key, targetDescriptionTitle);
+      }
+    });
+  }
 }
 
 function keyElements(box, newspaper) {
