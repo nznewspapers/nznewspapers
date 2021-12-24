@@ -178,12 +178,10 @@ function linkTable(box, newspaper) {
     if (relationshipTitle == null) {
       relationshipTitle = directionTitle;
     }
-    console.log("direction-title" + directionTitle);
     if (directionTitle == "Preceding") {
       div = appendElement(precedeCell, "div");
       appendText(div, relationshipTitle + ": ");
       appendLink(div, "newspaper.html?id=" + key, targetDescriptionTitle);
-      console.log("a");
     } else if (directionTitle == "Succeeding") {
       div = appendElement(succeedCell, "div");
       appendText(div, relationshipTitle + ": ");
