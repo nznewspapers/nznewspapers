@@ -41,22 +41,12 @@ function contentBox(data) {
     currentColumnCount += 1;
 
     for (var i = 0; i < data.lists[heading].length; i++) {
-      title = data.lists[heading][i].title;
-      url = "newspaper.html?id=" + data.lists[heading][i].id;
+      newspaper = data.lists[heading][i];
 
       div = appendDiv(currentColumn, "columnitem");
-      appendLink(div, url, title);
-      appendText(
-        div,
-        ", " +
-          data.lists[heading][i].firstYear +
-          "-" +
-          data.lists[heading][i].finalYear +
-          ", of " +
-          data.lists[heading][i].placename
-      );
-      currentColumnCount += 1;
+      appendNewspaperInfo(div, newspaper);
 
+      currentColumnCount += 1;
       if (currentColumnCount >= columnSize) {
         currentColumn = appendDiv(box, "columnbox");
         currentColumnCount = 0;
@@ -64,7 +54,6 @@ function contentBox(data) {
     }
   }
 }
-
 async function render() {
   const data = await getTitleInfo();
   console.log(data.stats.count);
