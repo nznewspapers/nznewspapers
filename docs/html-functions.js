@@ -31,6 +31,8 @@ function appendLink(parent, url, text) {
 function prettyYear(year) {
   if (year.endsWith("uuuu")) {
     return "an unknown date";
+  } else if (year.endsWith("uuu")) {
+    return "an unknown date";
   } else if (year.endsWith("uu")) {
     var century = year.substring(0, 2);
     return "sometime in the " + century + "00's";
