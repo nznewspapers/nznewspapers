@@ -132,6 +132,7 @@ table.simpletable th {
 
 table.simpletable td {
   border-bottom: 1px dotted black;
+  width: 100%;
 }
 
 .debug5 {

@@ -87,6 +87,29 @@ function appendNewspaperInfo(div, newspaper) {
 }
 
 /**
+ * Create a new HTML element and append it to a parent element.
+ * @param {*} parent Where we will add the new element.
+ * @param {*} newElementName A required element name (e.g. "div" or "th" or "td")
+ * @param {*} newClassName An optional class attribute for the element.
+ * @param {*} newInnerHtml An Optional HTML fragment to put in the element.
+ * @returns The new element.
+ */
+function appendElement(parent, newElementName, newClassName, newInnerHtml) {
+  var newElement = document.createElement(newElementName);
+
+  if (newClassName) {
+    var classAttr = document.createAttribute("class");
+    classAttr.value = newClassName;
+    newElement.setAttributeNode(classAttr);
+  }
+
+  if (newInnerHtml) newElement.innerHTML = newInnerHtml;
+  parent.appendChild(newElement);
+
+  return newElement;
+}
+
+/*
  * Read a local JSON file to an object and return it.
  * @param {*} url The URL of the JSON file (usually relative to the curren tpage).
  * @returns
