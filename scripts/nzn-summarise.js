@@ -95,12 +95,19 @@ function generateTitleInfo(newspaperList, placenames, newspaperCount) {
   nznShared.writeJsonDict(titleInfo, titleInfoPath);
 }
 
+/**
+ * Generate the placeInfo.json file from the newpaper data, which is to display the places, digitized, and current pages.
+ * @param {*} newspaperList A list records, each describihg one newspaper.
+ * @param {*} placenames A list of placenames.
+ */
 function generatePlaceInfo(newspaperList, placenames) {
   var placeInfo = {
     stats: {},
     lists: {},
   };
   placeInfo.stats.count = newspaperList.length;
+  placeInfo.stats.countCurrent = 0;
+  placeInfo.stats.countDigitized = 0;
   placeInfo.stats.places = placenames.size;
   placeInfo.lists.regionList = [];
   fullDistrictList = new Set();
@@ -131,6 +138,12 @@ function generatePlaceInfo(newspaperList, placenames) {
       urlCurrent: newspaper.urlCurrent,
       urlDigitized: newspaper.urlDigitized,
     };
+    if (newspaper.urlCurrent) {
+      placeInfo.stats.countCurrent += 1;
+    }
+    if (newspaper.urlDigitized) {
+      placeInfo.stats.countDigitized += 1;
+    }
     placeInfo.lists[newspaper.region][newspaper.district].push(record);
   });
 
