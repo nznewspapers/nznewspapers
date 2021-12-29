@@ -137,45 +137,50 @@ function linkTable(box, newspaper) {
     linkKeys = Object.keys(newspaper.links);
 
     // Set up table
-    var linktable = appendElement(linkTableDiv, "table", "simpletable");
+    var linktable = appendElement(linkTableDiv, "table", "linktable");
     var linkthead = appendElement(linktable, "thead");
     var linktbody = appendElement(linktable, "tbody");
 
     // Adding the entire table to the body tag
     linkTableDiv.appendChild(linktable);
 
-    // Creating and adding data to the header row of the table
+    // Creating and the link header row:
     var headerRow = appendElement(linkthead, "tr");
     appendElement(headerRow, "th", null, "Preceded By");
     appendElement(headerRow, "th", null, "Related To");
     appendElement(headerRow, "th", null, "Succeeded By");
 
-    // CReate and add the links:
-
+    // Create and add the links:
     var infoRow = appendElement(linktbody, "tr");
     var precedeCell = appendElement(infoRow, "td", null);
-    var succeedCell = appendElement(infoRow, "td", null);
     var relateCell = appendElement(infoRow, "td", null);
+    var succeedCell = appendElement(infoRow, "td", null);
 
     linkKeys.forEach(function (key) {
-      var directionTitle = newspaper.links[key]["direction"];
-      var targetDescriptionTitle = newspaper.links[key]["target-description"];
-      var relationshipTitle = newspaper.links[key]["relationship"];
-      if (relationshipTitle == null) {
-        relationshipTitle = directionTitle;
+      var direction = newspaper.links[key]["direction"];
+      var targetDescription = newspaper.links[key]["target-description"];
+      var relationship = newspaper.links[key]["relationship"];
+
+      console.log("targetDescription: " + targetDescription);
+      console.log("direction: " + direction);
+      console.log("relationship: " + relationship);
+
+      if (relationship == null) {
+        relationship = direction;
       }
-      if (directionTitle == "Preceding") {
+
+      if (direction == "Preceding" || relationship == "Continues") {
         div = appendElement(precedeCell, "div");
-        appendText(div, relationshipTitle + ": ");
-        appendLink(div, "newspaper.html?id=" + key, targetDescriptionTitle);
-      } else if (directionTitle == "Succeeding") {
+        appendText(div, relationship + ": ");
+        appendLink(div, "newspaper.html?id=" + key, targetDescription);
+      } else if (direction == "Succeeding" || relationship == "Continued By") {
         div = appendElement(succeedCell, "div");
-        appendText(div, relationshipTitle + ": ");
-        appendLink(div, "newspaper.html?id=" + key, targetDescriptionTitle);
+        appendText(div, relationship + ": ");
+        appendLink(div, "newspaper.html?id=" + key, targetDescription);
       } else {
         div = appendElement(relateCell, "div");
-        appendText(div, relationshipTitle + ": ");
-        appendLink(div, "newspaper.html?id=" + key, targetDescriptionTitle);
+        appendText(div, relationship + ": ");
+        appendLink(div, "newspaper.html?id=" + key, targetDescription);
       }
     });
   }

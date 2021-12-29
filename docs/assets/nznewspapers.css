@@ -121,6 +121,22 @@ a {
   /* text-decoration:none; */
 }
 
+table.linktable {
+  border-bottom: 2px solid black;
+  border-top: 2px solid black;
+  width: 95%;
+}
+
+table.linktable th {
+  border-bottom: 2px solid black;
+  width: 33%;
+}
+
+table.linktable td {
+  border-bottom: 1px dotted black;
+  width: 33%;
+}
+
 table.simpletable {
   border-bottom: 2px solid black;
   border-top: 2px solid black;
@@ -132,7 +148,6 @@ table.simpletable th {
 
 table.simpletable td {
   border-bottom: 1px dotted black;
-  width: 100%;
 }
 
 .debug5 {
