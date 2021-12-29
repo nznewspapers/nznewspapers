@@ -120,9 +120,9 @@ function contentBox(newspaper) {
   }
 
   // Insert Key Elements table
-  keyElements(box, newspaper);
-
+  //appendElement(div, br);
   linkTable(box, newspaper);
+  keyElements(box, newspaper);
 
   //links and the numbers- do we need these in the table? the link is already there under the "View Online" section of the "About" newspaper.
   //direction --> is this needed
@@ -145,14 +145,23 @@ function contentBox(newspaper) {
 function linkTable(box, newspaper) {
   var linkTableDiv = appendDiv(box, "links");
 
-  linkKeys = Object.keys(newspaper.links);
-  if (linkKeys == null) {
-    pause(100);
+  //this is where the problem is
+
+  //you can't get an object out of a null or empty set which causes the error
+  //I don't understand object well enough to solve it
+  //keys(o: object): string[];
+
+  //(Object.keys(newspaper.links).length) didn't work, the error is with linkKeys and how it is defined
+
+  if (newspaper.links == null) {
+    console.log("There are no related newspapers at this time.");
   } else {
     // Heading:
-    var linkTableText = document.createElement("h3");
-    linkTableText.textContent = "Link Table";
-    linkTableDiv.appendChild(linkTableText);
+    //var linkTableText = document.createElement("h3");
+    //linkTableText.textContent = "Link Table";
+    //linkTableDiv.appendChild(linkTableText);
+
+    linkKeys = Object.keys(newspaper.links);
 
     // Set up table
     var linktable = appendElement(linkTableDiv, "table", "simpletable");
