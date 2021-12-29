@@ -96,7 +96,7 @@ function generateTitleInfo(newspaperList, placenames, newspaperCount) {
 }
 
 /**
- * Generate the placeInfo.json file from the newpaper data, which is to display the places, digitized, and current pages.
+ * Generate the placeInfo.json file from the newpaper data, which is to display the places, digitised, and current pages.
  * @param {*} newspaperList A list records, each describihg one newspaper.
  * @param {*} placenames A list of placenames.
  */
@@ -138,7 +138,7 @@ function generatePlaceInfo(newspaperList, placenames) {
       urlCurrent: newspaper.urlCurrent,
       urlDigitized: newspaper.urlDigitized,
     };
-    if (newspaper.urlCurrent) {
+    if (newspaper.finalYear == "9999") {
       placeInfo.stats.countCurrent += 1;
     }
     if (newspaper.urlDigitized) {
