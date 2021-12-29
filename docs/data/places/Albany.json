@@ -1,0 +1,27 @@
+{
+  "stats": {
+    "placename": "Albany",
+    "count": 3,
+    "decades": 3
+  },
+  "papers": [
+    {
+      "id": "1185",
+      "title": "Albany News",
+      "firstYear": "1979",
+      "finalYear": "1986"
+    },
+    {
+      "id": "1206",
+      "title": "Mid-Shore and Albany News",
+      "firstYear": "1986",
+      "finalYear": "1988"
+    },
+    {
+      "id": "1233",
+      "title": "Albany Extra",
+      "firstYear": "1998",
+      "finalYear": "2001"
+    }
+  ]
+}

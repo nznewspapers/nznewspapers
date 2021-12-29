@@ -1,0 +1,21 @@
+{
+  "stats": {
+    "placename": "Raglan",
+    "count": 2,
+    "decades": 2
+  },
+  "papers": [
+    {
+      "id": "1525",
+      "title": "Raglan County Chronicle",
+      "firstYear": "1903",
+      "finalYear": "uuuu"
+    },
+    {
+      "id": "1548",
+      "title": "Raglan Chronicle",
+      "firstYear": "2004",
+      "finalYear": "9999"
+    }
+  ]
+}

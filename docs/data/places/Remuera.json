@@ -1,0 +1,21 @@
+{
+  "stats": {
+    "placename": "Remuera",
+    "count": 2,
+    "decades": 2
+  },
+  "papers": [
+    {
+      "id": "1102",
+      "title": "Remuera Round",
+      "firstYear": "1945",
+      "finalYear": "1952"
+    },
+    {
+      "id": "1138",
+      "title": "Tatler",
+      "firstYear": "1962",
+      "finalYear": "uuuu"
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "stats": {
+    "placename": "Opotiki",
+    "count": 4,
+    "decades": 4
+  },
+  "papers": [
+    {
+      "id": "1658",
+      "title": "Opotiki Herald",
+      "firstYear": "1883",
+      "finalYear": "1937"
+    },
+    {
+      "id": "1660",
+      "title": "Opotiki Mail",
+      "firstYear": "1899",
+      "finalYear": "1891"
+    },
+    {
+      "id": "1661",
+      "title": "East Coast Guardian",
+      "firstYear": "1900",
+      "finalYear": "1936"
+    },
+    {
+      "id": "1662",
+      "title": "Opotiki News",
+      "firstYear": "1938",
+      "finalYear": "9999",
+      "urlCurrent": "http://www.opotikinews.co.nz/"
+    }
+  ]
+}

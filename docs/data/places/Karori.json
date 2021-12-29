@@ -1,0 +1,27 @@
+{
+  "stats": {
+    "placename": "Karori",
+    "count": 3,
+    "decades": 3
+  },
+  "papers": [
+    {
+      "id": "2075",
+      "title": "Karori and Northland Mail",
+      "firstYear": "1933",
+      "finalYear": "1934"
+    },
+    {
+      "id": "2082",
+      "title": "Karori and Western Suburbs News",
+      "firstYear": "1962",
+      "finalYear": "1989"
+    },
+    {
+      "id": "2086",
+      "title": "The Local Newspaper",
+      "firstYear": "1991",
+      "finalYear": "199u"
+    }
+  ]
+}

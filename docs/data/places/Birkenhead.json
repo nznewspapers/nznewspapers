@@ -1,0 +1,21 @@
+{
+  "stats": {
+    "placename": "Birkenhead",
+    "count": 2,
+    "decades": 2
+  },
+  "papers": [
+    {
+      "id": "1121",
+      "title": "Waitemata News (1956)",
+      "firstYear": "1956",
+      "finalYear": "1958"
+    },
+    {
+      "id": "1192",
+      "title": "Bugle",
+      "firstYear": "1981",
+      "finalYear": "1982"
+    }
+  ]
+}

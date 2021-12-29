@@ -1,0 +1,35 @@
+{
+  "stats": {
+    "placename": "Taupo",
+    "count": 4,
+    "decades": 3
+  },
+  "papers": [
+    {
+      "id": "1621",
+      "title": "Taupo Times",
+      "firstYear": "1952",
+      "finalYear": "9999",
+      "urlCurrent": "http://www.stuff.co.nz/waikato-times/taupo-times"
+    },
+    {
+      "id": "1622",
+      "title": "Taupo Press",
+      "firstYear": "1961",
+      "finalYear": "1963"
+    },
+    {
+      "id": "1623",
+      "title": "Turangi Leader",
+      "firstYear": "1966",
+      "finalYear": "1967"
+    },
+    {
+      "id": "1627",
+      "title": "Taupo Weekender",
+      "firstYear": "1983",
+      "finalYear": "9999",
+      "urlCurrent": "http://www.facebook.com/pages/Taupo-Weekender/105073816244171"
+    }
+  ]
+}

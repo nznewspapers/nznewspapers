@@ -1,0 +1,96 @@
+{
+  "stats": {
+    "placename": "Timaru",
+    "count": 14,
+    "decades": 8
+  },
+  "papers": [
+    {
+      "id": "2518",
+      "title": "Timaru Herald",
+      "firstYear": "1864",
+      "finalYear": "9999",
+      "urlCurrent": "http://www.stuff.co.nz/stuff/timaruherald/",
+      "urlDigitized": "http://paperspast.natlib.govt.nz/cgi-bin/paperspast?a=d&cl=CL1.THD"
+    },
+    {
+      "id": "2519",
+      "title": "South Canterbury Times",
+      "firstYear": "1873",
+      "finalYear": "1901"
+    },
+    {
+      "id": "2521",
+      "title": "Geraldine County Chronicle",
+      "firstYear": "1878",
+      "finalYear": "188u"
+    },
+    {
+      "id": "2523",
+      "title": "Morning Post",
+      "firstYear": "1899",
+      "finalYear": "1901"
+    },
+    {
+      "id": "2524",
+      "title": "Timaru Post",
+      "firstYear": "1901",
+      "finalYear": "1939"
+    },
+    {
+      "id": "2527",
+      "title": "High Country Herald",
+      "firstYear": "1984",
+      "finalYear": "2001"
+    },
+    {
+      "id": "2528",
+      "title": "Timaru's the Courier",
+      "firstYear": "1991",
+      "finalYear": "1993"
+    },
+    {
+      "id": "2530",
+      "title": "Courier",
+      "firstYear": "1993",
+      "finalYear": "9999",
+      "urlCurrent": "http://timarucourier.co.nz/"
+    },
+    {
+      "id": "2532",
+      "title": "Community High Country Herald (Mid Canterbury)",
+      "firstYear": "1999",
+      "finalYear": "2007"
+    },
+    {
+      "id": "2533",
+      "title": "Community High Country Herald (North Otago)",
+      "firstYear": "1999",
+      "finalYear": "2007"
+    },
+    {
+      "id": "2534",
+      "title": "Community High Country Herald (South Canterbury)",
+      "firstYear": "1999",
+      "finalYear": "2007"
+    },
+    {
+      "id": "2536",
+      "title": "High Country Herald (2007)",
+      "firstYear": "2007",
+      "finalYear": "2011"
+    },
+    {
+      "id": "2537",
+      "title": "Central South Island Farmer",
+      "firstYear": "2010",
+      "finalYear": "9999"
+    },
+    {
+      "id": "2538",
+      "title": "South Canterbury Herald",
+      "firstYear": "2011",
+      "finalYear": "9999"
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "stats": {
+    "placename": "Tokoroa",
+    "count": 2,
+    "decades": 1
+  },
+  "papers": [
+    {
+      "id": "1611",
+      "title": "Tokoroa Times",
+      "firstYear": "1951",
+      "finalYear": "1952"
+    },
+    {
+      "id": "1612",
+      "title": "South Waikato News",
+      "firstYear": "1952",
+      "finalYear": "9999",
+      "urlCurrent": "http://www.southwaikatonews.co.nz/"
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "stats": {
+    "placename": "Geraldine",
+    "count": 2,
+    "decades": 2
+  },
+  "papers": [
+    {
+      "id": "2522",
+      "title": "Geraldine Guardian",
+      "firstYear": "1883",
+      "finalYear": "1931"
+    },
+    {
+      "id": "2529",
+      "title": "The Geraldine News",
+      "firstYear": "1992",
+      "finalYear": "9999",
+      "urlCurrent": "http://geraldinenews.co.nz/"
+    }
+  ]
+}

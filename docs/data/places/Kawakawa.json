@@ -1,0 +1,33 @@
+{
+  "stats": {
+    "placename": "Kawakawa",
+    "count": 4,
+    "decades": 3
+  },
+  "papers": [
+    {
+      "id": "1003",
+      "title": "Northern Luminary",
+      "firstYear": "1879",
+      "finalYear": "1910"
+    },
+    {
+      "id": "1009",
+      "title": "Bay of Islands Luminary",
+      "firstYear": "1910",
+      "finalYear": "1942"
+    },
+    {
+      "id": "1019",
+      "title": "Luminary",
+      "firstYear": "1942",
+      "finalYear": "1944"
+    },
+    {
+      "id": "1020",
+      "title": "Northland Gazette",
+      "firstYear": "1944",
+      "finalYear": "1951"
+    }
+  ]
+}

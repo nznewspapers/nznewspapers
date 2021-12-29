@@ -1,0 +1,21 @@
+{
+  "stats": {
+    "placename": "Ngaruawahia",
+    "count": 2,
+    "decades": 2
+  },
+  "papers": [
+    {
+      "id": "1527",
+      "title": "Ngaruawahia Advocate and Counties' Gazette",
+      "firstYear": "1912",
+      "finalYear": "1942"
+    },
+    {
+      "id": "1531",
+      "title": "North Waikato News",
+      "firstYear": "1950",
+      "finalYear": "1966"
+    }
+  ]
+}

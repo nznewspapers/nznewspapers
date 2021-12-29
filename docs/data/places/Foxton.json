@@ -1,0 +1,28 @@
+{
+  "stats": {
+    "placename": "Foxton",
+    "count": 3,
+    "decades": 3
+  },
+  "papers": [
+    {
+      "id": "1948",
+      "title": "Manawatu Herald",
+      "firstYear": "1878",
+      "finalYear": "1955",
+      "urlDigitized": "http://paperspast.natlib.govt.nz/cgi-bin/paperspast?a=d&cl=CL1.MH"
+    },
+    {
+      "id": "1959",
+      "title": "Foxton Herald",
+      "firstYear": "1955",
+      "finalYear": "1961"
+    },
+    {
+      "id": "1961",
+      "title": "Manawatu Herald [1961]",
+      "firstYear": "1961",
+      "finalYear": "1997"
+    }
+  ]
+}

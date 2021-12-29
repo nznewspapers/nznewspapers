@@ -1,0 +1,21 @@
+{
+  "stats": {
+    "placename": "Wyndham",
+    "count": 2,
+    "decades": 1
+  },
+  "papers": [
+    {
+      "id": "2674",
+      "title": "Wyndham Herald",
+      "firstYear": "1895",
+      "finalYear": "1940"
+    },
+    {
+      "id": "2675",
+      "title": "Wyndham Farmer",
+      "firstYear": "1895",
+      "finalYear": "1955"
+    }
+  ]
+}

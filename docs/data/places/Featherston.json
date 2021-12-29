@@ -1,0 +1,27 @@
+{
+  "stats": {
+    "placename": "Featherston",
+    "count": 3,
+    "decades": 3
+  },
+  "papers": [
+    {
+      "id": "2021",
+      "title": "Featherston Independent",
+      "firstYear": "1930",
+      "finalYear": "uuuu"
+    },
+    {
+      "id": "2022",
+      "title": "Featherston Chronicle",
+      "firstYear": "1956",
+      "finalYear": "1962"
+    },
+    {
+      "id": "2023",
+      "title": "Chronicle",
+      "firstYear": "1969",
+      "finalYear": "1992"
+    }
+  ]
+}

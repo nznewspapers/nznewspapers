@@ -1,0 +1,39 @@
+{
+  "stats": {
+    "placename": "Kaiapoi",
+    "count": 5,
+    "decades": 5
+  },
+  "papers": [
+    {
+      "id": "2364",
+      "title": "North Canterbury News and Farmers' Chronicle",
+      "firstYear": "1877",
+      "finalYear": "1879"
+    },
+    {
+      "id": "2369",
+      "title": "Kaiapoi Record",
+      "firstYear": "1909",
+      "finalYear": "1929"
+    },
+    {
+      "id": "2371",
+      "title": "Kaiapoi Record (1937)",
+      "firstYear": "1937",
+      "finalYear": "1939"
+    },
+    {
+      "id": "2372",
+      "title": "Kaiapoi Record (1979)",
+      "firstYear": "1979",
+      "finalYear": "1983"
+    },
+    {
+      "id": "2377",
+      "title": "The Kaiapoi Advocate",
+      "firstYear": "2006",
+      "finalYear": "9999"
+    }
+  ]
+}

@@ -1,0 +1,59 @@
+{
+  "stats": {
+    "placename": "Dannevirke",
+    "count": 8,
+    "decades": 6
+  },
+  "papers": [
+    {
+      "id": "1930",
+      "title": "The Bush Advocate",
+      "firstYear": "1888",
+      "finalYear": "1901",
+      "urlDigitized": "http://paperspast.natlib.govt.nz/cgi-bin/paperspast?a=d&cl=CL1.BA"
+    },
+    {
+      "id": "1935",
+      "title": "Daily Press",
+      "firstYear": "1901",
+      "finalYear": "1909"
+    },
+    {
+      "id": "1936",
+      "title": "Dannevirke Advocate",
+      "firstYear": "1901",
+      "finalYear": "1912",
+      "urlDigitized": "http://paperspast.natlib.govt.nz/cgi-bin/paperspast?a=d&cl=CL1.BA"
+    },
+    {
+      "id": "1938",
+      "title": "Dannevirke Evening News",
+      "firstYear": "1909",
+      "finalYear": "1936"
+    },
+    {
+      "id": "1939",
+      "title": "Evening News",
+      "firstYear": "1936",
+      "finalYear": "1988"
+    },
+    {
+      "id": "1944",
+      "title": "Ruahine Echo",
+      "firstYear": "1974",
+      "finalYear": "uuuu"
+    },
+    {
+      "id": "1946",
+      "title": "Dannevirke and District Evening News",
+      "firstYear": "1988",
+      "finalYear": "2003"
+    },
+    {
+      "id": "1947",
+      "title": "Dannevirke News",
+      "firstYear": "2003",
+      "finalYear": "9999"
+    }
+  ]
+}

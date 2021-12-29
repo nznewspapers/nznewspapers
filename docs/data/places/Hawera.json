@@ -1,0 +1,53 @@
+{
+  "stats": {
+    "placename": "Hawera",
+    "count": 7,
+    "decades": 5
+  },
+  "papers": [
+    {
+      "id": "1829",
+      "title": "Hawera & Normanby Star",
+      "firstYear": "1880",
+      "finalYear": "1924",
+      "urlDigitized": "http://paperspast.natlib.govt.nz/cgi-bin/paperspast?a=d&cl=CL1.HNS"
+    },
+    {
+      "id": "1836",
+      "title": "Hawera Star",
+      "firstYear": "1924",
+      "finalYear": "1984"
+    },
+    {
+      "id": "1840",
+      "title": "Egmont Star Weekender",
+      "firstYear": "1981",
+      "finalYear": "9999"
+    },
+    {
+      "id": "1841",
+      "title": "Star",
+      "firstYear": "1984",
+      "finalYear": "2004"
+    },
+    {
+      "id": "1842",
+      "title": "South Taranaki Post",
+      "firstYear": "1992",
+      "finalYear": "1993"
+    },
+    {
+      "id": "1844",
+      "title": "Post",
+      "firstYear": "1994",
+      "finalYear": "9999"
+    },
+    {
+      "id": "1845",
+      "title": "South Taranaki Star",
+      "firstYear": "2004",
+      "finalYear": "9999",
+      "urlCurrent": "http://www.fairfaxmedia.co.nz/ad-centre/newspaper-details.dot?id=14751"
+    }
+  ]
+}

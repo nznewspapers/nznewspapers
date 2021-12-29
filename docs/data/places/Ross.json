@@ -1,0 +1,39 @@
+{
+  "stats": {
+    "placename": "Ross",
+    "count": 5,
+    "decades": 3
+  },
+  "papers": [
+    {
+      "id": "2329",
+      "title": "Ross Guardian and Totara Advertiser",
+      "firstYear": "1868",
+      "finalYear": "1879"
+    },
+    {
+      "id": "2332",
+      "title": "Evening Times and Advertiser",
+      "firstYear": "1870",
+      "finalYear": "uuuu"
+    },
+    {
+      "id": "2333",
+      "title": "Ross News",
+      "firstYear": "1871",
+      "finalYear": "1873"
+    },
+    {
+      "id": "2336",
+      "title": "Ross and Okarito Advocate",
+      "firstYear": "1880",
+      "finalYear": "1908"
+    },
+    {
+      "id": "2338",
+      "title": "Ross Mercury and Westland Miner",
+      "firstYear": "1883",
+      "finalYear": "188u"
+    }
+  ]
+}

@@ -1,0 +1,58 @@
+{
+  "stats": {
+    "placename": "Petone",
+    "count": 8,
+    "decades": 5
+  },
+  "papers": [
+    {
+      "id": "2044",
+      "title": "Hutt and Petone Chronicle",
+      "firstYear": "1887",
+      "finalYear": "1953"
+    },
+    {
+      "id": "2048",
+      "title": "Petone Chronicle",
+      "firstYear": "1953",
+      "finalYear": "1967"
+    },
+    {
+      "id": "2058",
+      "title": "Petone News",
+      "firstYear": "1983",
+      "finalYear": "1983"
+    },
+    {
+      "id": "2063",
+      "title": "Petone and Harbour Ward Herald",
+      "firstYear": "1996",
+      "finalYear": "9999"
+    },
+    {
+      "id": "2064",
+      "title": "Citylife (West & North Ed.)",
+      "firstYear": "2008",
+      "finalYear": "2009"
+    },
+    {
+      "id": "2065",
+      "title": "Citylife Independent Herald",
+      "firstYear": "2009",
+      "finalYear": "9999"
+    },
+    {
+      "id": "2066",
+      "title": "Citylife Wainuiomata News",
+      "firstYear": "2009",
+      "finalYear": "9999"
+    },
+    {
+      "id": "2067",
+      "title": "Cook Strait News",
+      "firstYear": "2009",
+      "finalYear": "9999",
+      "urlCurrent": "http://cookstraitnews.co.nz/"
+    }
+  ]
+}

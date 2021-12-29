@@ -1,0 +1,314 @@
+{
+  "stats": {
+    "placename": "Dunedin",
+    "count": 50,
+    "decades": 13
+  },
+  "papers": [
+    {
+      "id": "2570",
+      "title": "Otago News",
+      "firstYear": "1848",
+      "finalYear": "1850"
+    },
+    {
+      "id": "2571",
+      "title": "The Otago Witness",
+      "firstYear": "1851",
+      "finalYear": "1932",
+      "urlDigitized": "http://paperspast.natlib.govt.nz/cgi-bin/paperspast?a=d&cl=CL1.OW"
+    },
+    {
+      "id": "2572",
+      "title": "The Otago Colonist",
+      "firstYear": "1856",
+      "finalYear": "1862"
+    },
+    {
+      "id": "2573",
+      "title": "Otago Daily Times",
+      "firstYear": "1861",
+      "finalYear": "9999",
+      "urlCurrent": "http://www.odt.co.nz/",
+      "urlDigitized": "http://paperspast.natlib.govt.nz/cgi-bin/paperspast?a=d&cl=CL1.ODT"
+    },
+    {
+      "id": "2574",
+      "title": "Colonist",
+      "firstYear": "1862",
+      "finalYear": "1863"
+    },
+    {
+      "id": "2575",
+      "title": "Evening News",
+      "firstYear": "1862",
+      "finalYear": "1864"
+    },
+    {
+      "id": "2576",
+      "title": "Daily Telegraph",
+      "firstYear": "1863",
+      "finalYear": "1864"
+    },
+    {
+      "id": "2577",
+      "title": "Dunedin Leader",
+      "firstYear": "1863",
+      "finalYear": "1867"
+    },
+    {
+      "id": "2578",
+      "title": "Evening Star",
+      "firstYear": "1863",
+      "finalYear": "1979"
+    },
+    {
+      "id": "2579",
+      "title": "Otago Mail",
+      "firstYear": "1864",
+      "finalYear": "1868"
+    },
+    {
+      "id": "2581",
+      "title": "Saturday Review",
+      "firstYear": "1864",
+      "finalYear": "1871"
+    },
+    {
+      "id": "2582",
+      "title": "Otago News Letter",
+      "firstYear": "1864",
+      "finalYear": "uuuu"
+    },
+    {
+      "id": "2583",
+      "title": "Evening Mail and Port Chalmers Express",
+      "firstYear": "1866",
+      "finalYear": "uuuu"
+    },
+    {
+      "id": "2584",
+      "title": "Illustrated New Zealander",
+      "firstYear": "1866",
+      "finalYear": "uuuu"
+    },
+    {
+      "id": "2585",
+      "title": "New Zealand Sun",
+      "firstYear": "1868",
+      "finalYear": "1869"
+    },
+    {
+      "id": "2586",
+      "title": "Illustrated New Zealand Herald",
+      "firstYear": "1868",
+      "finalYear": "1883"
+    },
+    {
+      "id": "2589",
+      "title": "Southern League and Daily Advertiser",
+      "firstYear": "1871",
+      "finalYear": "1871"
+    },
+    {
+      "id": "2591",
+      "title": "Otago Guardian",
+      "firstYear": "1873",
+      "finalYear": "1877"
+    },
+    {
+      "id": "2592",
+      "title": "Southern Mercury",
+      "firstYear": "1874",
+      "finalYear": "1877"
+    },
+    {
+      "id": "2595",
+      "title": "New Zealand Public Opinion, Sportsman and Saturday Advertiser",
+      "firstYear": "1875",
+      "finalYear": "1893",
+      "urlCurrent": "http://www.westportnews.co.nz/"
+    },
+    {
+      "id": "2596",
+      "title": "Evening News",
+      "firstYear": "1876",
+      "finalYear": "1878"
+    },
+    {
+      "id": "2598",
+      "title": "Morning Herald",
+      "firstYear": "1877",
+      "finalYear": "1884"
+    },
+    {
+      "id": "2599",
+      "title": "Evening Tribune",
+      "firstYear": "1879",
+      "finalYear": "1879"
+    },
+    {
+      "id": "2602",
+      "title": "Illustrated New Zealand News",
+      "firstYear": "1883",
+      "finalYear": "1887"
+    },
+    {
+      "id": "2603",
+      "title": "The Port Chalmers Independent",
+      "firstYear": "1883",
+      "finalYear": "1uuu"
+    },
+    {
+      "id": "2604",
+      "title": "Evening Herald",
+      "firstYear": "1884",
+      "finalYear": "1890"
+    },
+    {
+      "id": "2605",
+      "title": "Daily News [Dunedin]",
+      "firstYear": "1886",
+      "finalYear": "1886"
+    },
+    {
+      "id": "2606",
+      "title": "Otago Workman",
+      "firstYear": "1887",
+      "finalYear": "1899"
+    },
+    {
+      "id": "2608",
+      "title": "North East Valley Weekly Advertiser",
+      "firstYear": "188u",
+      "finalYear": "uuuu"
+    },
+    {
+      "id": "2609",
+      "title": "N.Z. Life",
+      "firstYear": "1892",
+      "finalYear": "uuuu"
+    },
+    {
+      "id": "2610",
+      "title": "People's Journal of New Zealand",
+      "firstYear": "1893",
+      "finalYear": "1894"
+    },
+    {
+      "id": "2611",
+      "title": "Weekly Budget",
+      "firstYear": "1893",
+      "finalYear": "1909"
+    },
+    {
+      "id": "2612",
+      "title": "Magnet",
+      "firstYear": "1893",
+      "finalYear": "uuuu"
+    },
+    {
+      "id": "2613",
+      "title": "Sketch",
+      "firstYear": "1898",
+      "finalYear": "uuuu"
+    },
+    {
+      "id": "2614",
+      "title": "Beacon",
+      "firstYear": "1906",
+      "finalYear": "1907"
+    },
+    {
+      "id": "2616",
+      "title": "Suburban Review and Peninsula Advertiser",
+      "firstYear": "1930",
+      "finalYear": "1930"
+    },
+    {
+      "id": "2617",
+      "title": "Star Sports",
+      "firstYear": "1946",
+      "finalYear": "1968"
+    },
+    {
+      "id": "2618",
+      "title": "Wakari Community News",
+      "firstYear": "1947",
+      "finalYear": "1956"
+    },
+    {
+      "id": "2619",
+      "title": "South End News",
+      "firstYear": "1955",
+      "finalYear": "1956"
+    },
+    {
+      "id": "2620",
+      "title": "Southern News",
+      "firstYear": "1956",
+      "finalYear": "1956"
+    },
+    {
+      "id": "2621",
+      "title": "Wakari News",
+      "firstYear": "1956",
+      "finalYear": "1972"
+    },
+    {
+      "id": "2622",
+      "title": "Pine Hill News",
+      "firstYear": "1958",
+      "finalYear": "1976"
+    },
+    {
+      "id": "2626",
+      "title": "Green Island Gazette",
+      "firstYear": "1975",
+      "finalYear": "1985"
+    },
+    {
+      "id": "2627",
+      "title": "Dunedin and Districts Mirror",
+      "firstYear": "1978",
+      "finalYear": "1978"
+    },
+    {
+      "id": "2629",
+      "title": "Dunedin Star Midweek",
+      "firstYear": "1979",
+      "finalYear": "1998"
+    },
+    {
+      "id": "2630",
+      "title": "Dunedin Star Weekender",
+      "firstYear": "1979",
+      "finalYear": "1998"
+    },
+    {
+      "id": "2631",
+      "title": "Coastal Observer Community Newspaper",
+      "firstYear": "1991",
+      "finalYear": "1993"
+    },
+    {
+      "id": "2632",
+      "title": "Southern Advocate (Dunedin)",
+      "firstYear": "1992",
+      "finalYear": "1992"
+    },
+    {
+      "id": "2633",
+      "title": "The Star",
+      "firstYear": "1998",
+      "finalYear": "9999",
+      "urlCurrent": "http://thestar.co.nz/"
+    },
+    {
+      "id": "2634",
+      "title": "D Scene",
+      "firstYear": "2008",
+      "finalYear": "2013"
+    }
+  ]
+}

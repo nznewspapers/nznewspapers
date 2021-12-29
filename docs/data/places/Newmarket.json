@@ -1,0 +1,21 @@
+{
+  "stats": {
+    "placename": "Newmarket",
+    "count": 2,
+    "decades": 1
+  },
+  "papers": [
+    {
+      "id": "1224",
+      "title": "Times Midweek",
+      "firstYear": "1993",
+      "finalYear": "1994"
+    },
+    {
+      "id": "1230",
+      "title": "Bays and Remuera Times (1994)",
+      "firstYear": "1994",
+      "finalYear": "2004"
+    }
+  ]
+}

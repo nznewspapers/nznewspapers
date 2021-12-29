@@ -1,0 +1,29 @@
+{
+  "stats": {
+    "placename": "Lower Hutt",
+    "count": 3,
+    "decades": 3
+  },
+  "papers": [
+    {
+      "id": "2046",
+      "title": "Hutt News",
+      "firstYear": "1927",
+      "finalYear": "9999",
+      "urlCurrent": "http://www.stuff.co.nz/dominion-post/news/local-papers/hutt-news",
+      "urlDigitized": "http://paperspast.natlib.govt.nz/cgi-bin/paperspast?a=d&cl=CL1.HN"
+    },
+    {
+      "id": "2047",
+      "title": "Taita Resident",
+      "firstYear": "1948",
+      "finalYear": "uuuu"
+    },
+    {
+      "id": "2061",
+      "title": "Stokes Valley Chronicle",
+      "firstYear": "1992",
+      "finalYear": "1993"
+    }
+  ]
+}

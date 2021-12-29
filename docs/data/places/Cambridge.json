@@ -1,0 +1,51 @@
+{
+  "stats": {
+    "placename": "Cambridge",
+    "count": 7,
+    "decades": 5
+  },
+  "papers": [
+    {
+      "id": "1519",
+      "title": "Waikato Mail",
+      "firstYear": "1880",
+      "finalYear": "1883"
+    },
+    {
+      "id": "1524",
+      "title": "Waikato Advocate",
+      "firstYear": "1895",
+      "finalYear": "1896"
+    },
+    {
+      "id": "1526",
+      "title": "Waikato Independent",
+      "firstYear": "1904",
+      "finalYear": "1966"
+    },
+    {
+      "id": "1534",
+      "title": "Cambridge Independent",
+      "firstYear": "1966",
+      "finalYear": "1995"
+    },
+    {
+      "id": "1537",
+      "title": "New Edition",
+      "firstYear": "1981",
+      "finalYear": "1983"
+    },
+    {
+      "id": "1540",
+      "title": "Cambridge Edition",
+      "firstYear": "1984",
+      "finalYear": "9999"
+    },
+    {
+      "id": "1542",
+      "title": "Waipa Advertiser",
+      "firstYear": "1989",
+      "finalYear": "1991"
+    }
+  ]
+}

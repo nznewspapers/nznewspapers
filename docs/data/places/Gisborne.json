@@ -1,0 +1,110 @@
+{
+  "stats": {
+    "placename": "Gisborne",
+    "count": 16,
+    "decades": 6
+  },
+  "papers": [
+    {
+      "id": "1695",
+      "title": "Poverty Bay Standard",
+      "firstYear": "1872",
+      "finalYear": "1883"
+    },
+    {
+      "id": "1697",
+      "title": "The Poverty Bay Herald",
+      "firstYear": "1874",
+      "finalYear": "1939",
+      "urlDigitized": "http://paperspast.natlib.govt.nz/cgi-bin/paperspast?a=d&cl=CL1.PBH"
+    },
+    {
+      "id": "1698",
+      "title": "Waka Maori o Niu Tirani",
+      "firstYear": "1878",
+      "finalYear": "1879",
+      "urlCurrent": "http://nzdl.org/cgi-bin/library?gg=_cgiarggg_&e=d-00000-00---0niupepa--00-0--0-10-0---0---0prompt-10---4-------0-1l--11-en-50---20-about---00-0-1-00-11-1-0utfZz-8-00&a=d&c=niupepa&cl=CL1.17"
+    },
+    {
+      "id": "1705",
+      "title": "Mosquito",
+      "firstYear": "1881",
+      "finalYear": "uuuu"
+    },
+    {
+      "id": "1706",
+      "title": "Facts",
+      "firstYear": "1883",
+      "finalYear": "1883"
+    },
+    {
+      "id": "1707",
+      "title": "Takitimu",
+      "firstYear": "1883",
+      "finalYear": "1883"
+    },
+    {
+      "id": "1708",
+      "title": "Telephone",
+      "firstYear": "1883",
+      "finalYear": "1885"
+    },
+    {
+      "id": "1709",
+      "title": "Te Waka Maori o Aotearoa",
+      "firstYear": "1884",
+      "finalYear": "1884",
+      "urlCurrent": "http://nzdl.org/cgi-bin/library?gg=_cgiarggg_&e=d-00000-00---0niupepa--00-0--0-10-0---0---0prompt-10---4-------0-1l--11-en-50---20-about---00-0-1-00-11-1-0utfZz-8-00&a=d&c=niupepa&cl=CL1.21",
+      "urlDigitized": "http://nzdl.org/cgi-bin/library?gg=_cgiarggg_&e=d-00000-00---0niupepa--00-0--0-10-0---0---0prompt-10---4-------0-1l--11-en-50---20-about---00-0-1-00-11-1-0utfZz-8-00&a=d&c=niupepa&cl=CL1.21"
+    },
+    {
+      "id": "1710",
+      "title": "Poverty Bay Independent",
+      "firstYear": "1885",
+      "finalYear": "1888"
+    },
+    {
+      "id": "1711",
+      "title": "Gisborne Standard and Cook County Gazette",
+      "firstYear": "1887",
+      "finalYear": "1894"
+    },
+    {
+      "id": "1712",
+      "title": "Telephone [1895]",
+      "firstYear": "1895",
+      "finalYear": "1900"
+    },
+    {
+      "id": "1713",
+      "title": "Gisborne Times",
+      "firstYear": "1896",
+      "finalYear": "1938"
+    },
+    {
+      "id": "1716",
+      "title": "Te Rau Weekly Press",
+      "firstYear": "1924",
+      "finalYear": "1955"
+    },
+    {
+      "id": "1718",
+      "title": "Gisborne Courier",
+      "firstYear": "1935",
+      "finalYear": "1936"
+    },
+    {
+      "id": "1720",
+      "title": "Gisborne Herald",
+      "firstYear": "1939",
+      "finalYear": "9999",
+      "urlCurrent": "http://www.gisborneherald.co.nz/"
+    },
+    {
+      "id": "1722",
+      "title": "Eastland sun",
+      "firstYear": "1987",
+      "finalYear": "1995"
+    }
+  ]
+}

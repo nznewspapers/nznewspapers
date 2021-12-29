@@ -1,0 +1,27 @@
+{
+  "stats": {
+    "placename": "Hunterville",
+    "count": 3,
+    "decades": 3
+  },
+  "papers": [
+    {
+      "id": "1862",
+      "title": "Paraekaretu Express",
+      "firstYear": "1893",
+      "finalYear": "uuuu"
+    },
+    {
+      "id": "1872",
+      "title": "Hunterville News",
+      "firstYear": "1971",
+      "finalYear": "1983"
+    },
+    {
+      "id": "1875",
+      "title": "Hunterville Express",
+      "firstYear": "uuuu",
+      "finalYear": "1950"
+    }
+  ]
+}

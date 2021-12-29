@@ -1,0 +1,27 @@
+{
+  "stats": {
+    "placename": "Ponsonby",
+    "count": 3,
+    "decades": 1
+  },
+  "papers": [
+    {
+      "id": "1161",
+      "title": "West End News",
+      "firstYear": "1970",
+      "finalYear": "1971"
+    },
+    {
+      "id": "1164",
+      "title": "City and West End News",
+      "firstYear": "1971",
+      "finalYear": "1973"
+    },
+    {
+      "id": "1186",
+      "title": "Inner City News",
+      "firstYear": "1979",
+      "finalYear": "1986"
+    }
+  ]
+}

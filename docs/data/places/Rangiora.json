@@ -1,0 +1,63 @@
+{
+  "stats": {
+    "placename": "Rangiora",
+    "count": 9,
+    "decades": 5
+  },
+  "papers": [
+    {
+      "id": "2361",
+      "title": "Canterbury News (1875)",
+      "firstYear": "1875",
+      "finalYear": "1875"
+    },
+    {
+      "id": "2362",
+      "title": "North Canterbury Standard",
+      "firstYear": "1876",
+      "finalYear": "1876"
+    },
+    {
+      "id": "2363",
+      "title": "Standard and North Canterbury Guardian",
+      "firstYear": "1876",
+      "finalYear": "1936"
+    },
+    {
+      "id": "2368",
+      "title": "Recorder and North Canterbury Advertiser",
+      "firstYear": "1897",
+      "finalYear": "1897"
+    },
+    {
+      "id": "2370",
+      "title": "North Canterbury Gazette",
+      "firstYear": "1932",
+      "finalYear": "1962"
+    },
+    {
+      "id": "2373",
+      "title": "Northern Outlook",
+      "firstYear": "1982",
+      "finalYear": "1988"
+    },
+    {
+      "id": "2374",
+      "title": "North Canterbury Outlook",
+      "firstYear": "1988",
+      "finalYear": "1990"
+    },
+    {
+      "id": "2375",
+      "title": "Northern Outlook (1990)",
+      "firstYear": "1990",
+      "finalYear": "9999"
+    },
+    {
+      "id": "2376",
+      "title": "The Kaiapoi Leader",
+      "firstYear": "1999",
+      "finalYear": "2004"
+    }
+  ]
+}

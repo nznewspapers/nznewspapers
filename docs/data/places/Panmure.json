@@ -1,0 +1,39 @@
+{
+  "stats": {
+    "placename": "Panmure",
+    "count": 5,
+    "decades": 4
+  },
+  "papers": [
+    {
+      "id": "1128",
+      "title": "Local News",
+      "firstYear": "1959",
+      "finalYear": "uuuu"
+    },
+    {
+      "id": "1149",
+      "title": "News-echo Courier",
+      "firstYear": "1966",
+      "finalYear": "1966"
+    },
+    {
+      "id": "1151",
+      "title": "Courier (Eastern Suburbs Ed.)",
+      "firstYear": "1966",
+      "finalYear": "1972"
+    },
+    {
+      "id": "1168",
+      "title": "Courier (Eastern Ed.)",
+      "firstYear": "1972",
+      "finalYear": "1973"
+    },
+    {
+      "id": "1213",
+      "title": "Settler",
+      "firstYear": "1989",
+      "finalYear": "1991"
+    }
+  ]
+}

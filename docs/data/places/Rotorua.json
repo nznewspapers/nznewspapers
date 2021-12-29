@@ -1,0 +1,71 @@
+{
+  "stats": {
+    "placename": "Rotorua",
+    "count": 10,
+    "decades": 8
+  },
+  "papers": [
+    {
+      "id": "1672",
+      "title": "Hot Lakes Chronicle",
+      "firstYear": "1885",
+      "finalYear": "1916"
+    },
+    {
+      "id": "1674",
+      "title": "Wonderland Gazette and Rotorua Times",
+      "firstYear": "1906",
+      "finalYear": "1910"
+    },
+    {
+      "id": "1675",
+      "title": "Rotorua Times",
+      "firstYear": "1910",
+      "finalYear": "1916"
+    },
+    {
+      "id": "1676",
+      "title": "Rotorua Chronicle",
+      "firstYear": "1916",
+      "finalYear": "1931"
+    },
+    {
+      "id": "1677",
+      "title": "Rotorua Morning Post",
+      "firstYear": "1931",
+      "finalYear": "1947"
+    },
+    {
+      "id": "1678",
+      "title": "Rotorua Post",
+      "firstYear": "1947",
+      "finalYear": "1960"
+    },
+    {
+      "id": "1679",
+      "title": "Daily Post",
+      "firstYear": "1960",
+      "finalYear": "9999",
+      "urlCurrent": "http://www.rotoruadailypost.co.nz/"
+    },
+    {
+      "id": "1680",
+      "title": "Free Press",
+      "firstYear": "1977",
+      "finalYear": "uuuu"
+    },
+    {
+      "id": "1681",
+      "title": "County News",
+      "firstYear": "1978",
+      "finalYear": "1990"
+    },
+    {
+      "id": "1682",
+      "title": "Rotorua Review",
+      "firstYear": "1984",
+      "finalYear": "9999",
+      "urlCurrent": "http://www.stuff.co.nz/waikato-times/rotorua-review"
+    }
+  ]
+}

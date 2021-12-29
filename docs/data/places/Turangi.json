@@ -1,0 +1,21 @@
+{
+  "stats": {
+    "placename": "Turangi",
+    "count": 2,
+    "decades": 2
+  },
+  "papers": [
+    {
+      "id": "1625",
+      "title": "Turangi Chronicle",
+      "firstYear": "1966",
+      "finalYear": "2012"
+    },
+    {
+      "id": "1628",
+      "title": "Plateau",
+      "firstYear": "1984",
+      "finalYear": "1986"
+    }
+  ]
+}

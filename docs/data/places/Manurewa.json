@@ -1,0 +1,27 @@
+{
+  "stats": {
+    "placename": "Manurewa",
+    "count": 3,
+    "decades": 2
+  },
+  "papers": [
+    {
+      "id": "1125",
+      "title": "Manurewa Weekly News",
+      "firstYear": "1958",
+      "finalYear": "1968"
+    },
+    {
+      "id": "1130",
+      "title": "Manurewa Gazette",
+      "firstYear": "1960",
+      "finalYear": "1967"
+    },
+    {
+      "id": "1155",
+      "title": "South Auckland Gazette",
+      "firstYear": "1967",
+      "finalYear": "1975"
+    }
+  ]
+}

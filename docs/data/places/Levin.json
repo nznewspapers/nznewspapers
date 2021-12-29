@@ -1,0 +1,65 @@
+{
+  "stats": {
+    "placename": "Levin",
+    "count": 9,
+    "decades": 6
+  },
+  "papers": [
+    {
+      "id": "1950",
+      "title": "Horowhenua Chronicle",
+      "firstYear": "1893",
+      "finalYear": "9999",
+      "urlCurrent": "http://horowhenuachronicle.apn.co.nz/"
+    },
+    {
+      "id": "1951",
+      "title": "Levin and Manakau Express and Horowhenua County Advertiser",
+      "firstYear": "1896",
+      "finalYear": "uuuu"
+    },
+    {
+      "id": "1954",
+      "title": "Shannon News",
+      "firstYear": "1920",
+      "finalYear": "1940"
+    },
+    {
+      "id": "1955",
+      "title": "Horowhenua Review",
+      "firstYear": "1923",
+      "finalYear": "1925"
+    },
+    {
+      "id": "1958",
+      "title": "Levin Weekly News",
+      "firstYear": "1953",
+      "finalYear": "1968"
+    },
+    {
+      "id": "1960",
+      "title": "Otaki-Waikanae Weekly News",
+      "firstYear": "1955",
+      "finalYear": "1968"
+    },
+    {
+      "id": "1964",
+      "title": "Weekly News",
+      "firstYear": "1968",
+      "finalYear": "9999"
+    },
+    {
+      "id": "1967",
+      "title": "Kapiiti News",
+      "firstYear": "1997",
+      "finalYear": "9999",
+      "urlCurrent": "http://www.kapitinews.co.nz/"
+    },
+    {
+      "id": "1971",
+      "title": "Horowhenua & Kapiti News",
+      "firstYear": "19uu",
+      "finalYear": "2007"
+    }
+  ]
+}

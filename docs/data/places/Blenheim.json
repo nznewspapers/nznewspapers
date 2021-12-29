@@ -1,0 +1,89 @@
+{
+  "stats": {
+    "placename": "Blenheim",
+    "count": 13,
+    "decades": 7
+  },
+  "papers": [
+    {
+      "id": "2264",
+      "title": "Wairau Record and Marlborough Advertiser",
+      "firstYear": "1864",
+      "finalYear": "uuuu"
+    },
+    {
+      "id": "2265",
+      "title": "Marlborough News and General Advertiser",
+      "firstYear": "1865",
+      "finalYear": "1874"
+    },
+    {
+      "id": "2266",
+      "title": "Marlborough Express",
+      "firstYear": "1866",
+      "finalYear": "9999",
+      "urlCurrent": "http://www.marlboroughexpress.co.nz/",
+      "urlDigitized": "http://paperspast.natlib.govt.nz/cgi-bin/paperspast?a=d&cl=CL1.MEX"
+    },
+    {
+      "id": "2267",
+      "title": "Express Telegram",
+      "firstYear": "1871",
+      "finalYear": "uuuu"
+    },
+    {
+      "id": "2268",
+      "title": "Marlborough Times",
+      "firstYear": "1874",
+      "finalYear": "1881"
+    },
+    {
+      "id": "2269",
+      "title": "Weekly Marlborough Express",
+      "firstYear": "1880",
+      "finalYear": "1882"
+    },
+    {
+      "id": "2270",
+      "title": "Marlborough Daily Times",
+      "firstYear": "1882",
+      "finalYear": "1905"
+    },
+    {
+      "id": "2271",
+      "title": "Marlborough Weekly News",
+      "firstYear": "1887",
+      "finalYear": "1895"
+    },
+    {
+      "id": "2273",
+      "title": "Marlborough Herald",
+      "firstYear": "1905",
+      "finalYear": "1911"
+    },
+    {
+      "id": "2276",
+      "title": "Blenheim sun",
+      "firstYear": "1965",
+      "finalYear": "1966"
+    },
+    {
+      "id": "2279",
+      "title": "Discover Marlborough",
+      "firstYear": "1994",
+      "finalYear": "9999"
+    },
+    {
+      "id": "2281",
+      "title": "Blenheim sun (2002)",
+      "firstYear": "2002",
+      "finalYear": "9999"
+    },
+    {
+      "id": "2283",
+      "title": "Sun",
+      "firstYear": "2008",
+      "finalYear": "9999"
+    }
+  ]
+}

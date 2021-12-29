@@ -1,0 +1,40 @@
+{
+  "stats": {
+    "placename": "Lawrence",
+    "count": 5,
+    "decades": 3
+  },
+  "papers": [
+    {
+      "id": "2636",
+      "title": "Tuapeka Recorder",
+      "firstYear": "1865",
+      "finalYear": "1867"
+    },
+    {
+      "id": "2637",
+      "title": "Tuapeka Press and Goldfields Advocate",
+      "firstYear": "1866",
+      "finalYear": "1869"
+    },
+    {
+      "id": "2638",
+      "title": "Tuapeka Times",
+      "firstYear": "1868",
+      "finalYear": "1941",
+      "urlDigitized": "http://paperspast.natlib.govt.nz/cgi-bin/paperspast?a=d&cl=CL1.TT"
+    },
+    {
+      "id": "2644",
+      "title": "Tuapeka Press",
+      "firstYear": "1883",
+      "finalYear": "uuuu"
+    },
+    {
+      "id": "2646",
+      "title": "Tuapeka Recorder (1896)",
+      "firstYear": "1896",
+      "finalYear": "1900"
+    }
+  ]
+}

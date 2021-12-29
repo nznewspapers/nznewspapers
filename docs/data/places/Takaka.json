@@ -1,0 +1,33 @@
+{
+  "stats": {
+    "placename": "Takaka",
+    "count": 4,
+    "decades": 2
+  },
+  "papers": [
+    {
+      "id": "2223",
+      "title": "Golden Bay News",
+      "firstYear": "1903",
+      "finalYear": "1909"
+    },
+    {
+      "id": "2224",
+      "title": "Golden Bay Times",
+      "firstYear": "1909",
+      "finalYear": "1938"
+    },
+    {
+      "id": "2232",
+      "title": "The G.B. Weekly",
+      "firstYear": "1993",
+      "finalYear": "9999"
+    },
+    {
+      "id": "2233",
+      "title": "Golden Bay Gazette",
+      "firstYear": "1996",
+      "finalYear": "1998"
+    }
+  ]
+}

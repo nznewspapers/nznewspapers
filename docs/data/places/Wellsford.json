@@ -1,0 +1,27 @@
+{
+  "stats": {
+    "placename": "Wellsford",
+    "count": 3,
+    "decades": 2
+  },
+  "papers": [
+    {
+      "id": "1135",
+      "title": "Lower North Weekly News",
+      "firstYear": "1962",
+      "finalYear": "1969"
+    },
+    {
+      "id": "1158",
+      "title": "Lower North News",
+      "firstYear": "1969",
+      "finalYear": "1970"
+    },
+    {
+      "id": "1212",
+      "title": "Coast to Coast Courier",
+      "firstYear": "1988",
+      "finalYear": "2001"
+    }
+  ]
+}

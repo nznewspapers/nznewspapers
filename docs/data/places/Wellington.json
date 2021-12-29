@@ -1,0 +1,829 @@
+{
+  "stats": {
+    "placename": "Wellington",
+    "count": 134,
+    "decades": 19
+  },
+  "papers": [
+    {
+      "id": "2096",
+      "title": "Victoria Times",
+      "firstYear": "1841",
+      "finalYear": "1841",
+      "urlCurrent": "http://ndhadeliver.natlib.govt.nz/content-aggregator/getIEs?system=ilsdb&id=932905",
+      "urlDigitized": "http://paperspast.natlib.govt.nz/cgi-bin/paperspast?a=d&cl=CL1.VT"
+    },
+    {
+      "id": "2097",
+      "title": "The New Zealand Colonist and Port Nicholson Advertiser",
+      "firstYear": "1842",
+      "finalYear": "1843",
+      "urlDigitized": "http://paperspast.natlib.govt.nz/cgi-bin/paperspast?a=d&cl=CL1.NZCPNA"
+    },
+    {
+      "id": "2098",
+      "title": "The New Zealand Spectator and Cook's Strait Guardian",
+      "firstYear": "1844",
+      "finalYear": "1865",
+      "urlDigitized": "http://paperspast.natlib.govt.nz/cgi-bin/paperspast?a=d&cl=CL1.NZSCSG&e=-------10--1----0--"
+    },
+    {
+      "id": "2072",
+      "title": "The Wellington Independent",
+      "firstYear": "1845",
+      "finalYear": "1874",
+      "urlDigitized": "http://paperspast.natlib.govt.nz/cgi-bin/paperspast?a=d&cl=CL1.WI"
+    },
+    {
+      "id": "2099",
+      "title": "Te Karere o Poneke",
+      "firstYear": "1857",
+      "finalYear": "1858",
+      "urlCurrent": "http://nzdl.org/cgi-bin/library?gg=_cgiarggg_&e=d-00000-00---0niupepa--00-0--0-10-0---0---0prompt-10---4-------0-1l--11-en-50---20-about---00-0-1-00-11-1-0utfZz-8-00&a=d&c=niupepa&cl=CL1.6"
+    },
+    {
+      "id": "2100",
+      "title": "New Zealand Advertiser",
+      "firstYear": "1859",
+      "finalYear": "1869"
+    },
+    {
+      "id": "2101",
+      "title": "The Evening Post",
+      "firstYear": "1865",
+      "finalYear": "2002",
+      "urlDigitized": "http://paperspast.natlib.govt.nz/cgi-bin/paperspast?a=d&cl=CL1.EP"
+    },
+    {
+      "id": "2102",
+      "title": "New Zealand Times",
+      "firstYear": "1867",
+      "finalYear": "1869"
+    },
+    {
+      "id": "2103",
+      "title": "Wellington Journal",
+      "firstYear": "1868",
+      "finalYear": "1868"
+    },
+    {
+      "id": "2104",
+      "title": "Daily Advertiser and Wellington Register",
+      "firstYear": "1870",
+      "finalYear": "1871"
+    },
+    {
+      "id": "2074",
+      "title": "Waka Maori o Niu Tirani",
+      "firstYear": "1871",
+      "finalYear": "1877",
+      "urlCurrent": "http://nzdl.org/cgi-bin/library?gg=_cgiarggg_&e=d-00000-00---0niupepa--00-0--0-10-0---0---0prompt-10---4-------0-1l--11-en-50---20-about---00-0-1-00-11-1-0utfZz-8-00&a=d&c=niupepa&cl=CL1.15"
+    },
+    {
+      "id": "2105",
+      "title": "Tribune",
+      "firstYear": "1874",
+      "finalYear": "1875"
+    },
+    {
+      "id": "2106",
+      "title": "New Zealand Times",
+      "firstYear": "1874",
+      "finalYear": "1927",
+      "urlDigitized": "http://paperspast.natlib.govt.nz/cgi-bin/paperspast?a=d&cl=CL1.WI"
+    },
+    {
+      "id": "2107",
+      "title": "Evening Argus",
+      "firstYear": "1875",
+      "finalYear": "1878"
+    },
+    {
+      "id": "2108",
+      "title": "Tribune",
+      "firstYear": "1875",
+      "finalYear": "uuuu"
+    },
+    {
+      "id": "2109",
+      "title": "Evening Chronicle",
+      "firstYear": "1878",
+      "finalYear": "1880"
+    },
+    {
+      "id": "2110",
+      "title": "New Zealander [Wellington]",
+      "firstYear": "1878",
+      "finalYear": "1880"
+    },
+    {
+      "id": "2111",
+      "title": "Wellington Weekly Mercury",
+      "firstYear": "1879",
+      "finalYear": "uuuu"
+    },
+    {
+      "id": "2112",
+      "title": "Era",
+      "firstYear": "1881",
+      "finalYear": "18uu"
+    },
+    {
+      "id": "2113",
+      "title": "Wellington Advertiser",
+      "firstYear": "1881",
+      "finalYear": "uuuu"
+    },
+    {
+      "id": "2114",
+      "title": "Evening Press",
+      "firstYear": "1884",
+      "finalYear": "1894"
+    },
+    {
+      "id": "2115",
+      "title": "Wellington Citizen",
+      "firstYear": "1884",
+      "finalYear": "uuuu"
+    },
+    {
+      "id": "2116",
+      "title": "Jubilee Herald",
+      "firstYear": "1887",
+      "finalYear": "1887"
+    },
+    {
+      "id": "2117",
+      "title": "Weekly Herald",
+      "firstYear": "1887",
+      "finalYear": "1893"
+    },
+    {
+      "id": "2118",
+      "title": "Truth",
+      "firstYear": "1887",
+      "finalYear": "19uu"
+    },
+    {
+      "id": "2119",
+      "title": "Catholic Times",
+      "firstYear": "1888",
+      "finalYear": "1uuu"
+    },
+    {
+      "id": "2120",
+      "title": "People",
+      "firstYear": "1895",
+      "finalYear": "1897"
+    },
+    {
+      "id": "2121",
+      "title": "Newtown Advocate (1895)",
+      "firstYear": "1895",
+      "finalYear": "1uuu"
+    },
+    {
+      "id": "2122",
+      "title": "Daily Commercial News and Shipping Register",
+      "firstYear": "1895",
+      "finalYear": "uuuu"
+    },
+    {
+      "id": "2123",
+      "title": "Guardian",
+      "firstYear": "1896",
+      "finalYear": "1900"
+    },
+    {
+      "id": "2124",
+      "title": "Echo",
+      "firstYear": "1896",
+      "finalYear": "uuuu"
+    },
+    {
+      "id": "2125",
+      "title": "New Zealand's European Mail News",
+      "firstYear": "1896",
+      "finalYear": "uuuu"
+    },
+    {
+      "id": "2126",
+      "title": "Critic",
+      "firstYear": "1899",
+      "finalYear": "1899"
+    },
+    {
+      "id": "2127",
+      "title": "The Lowry Bay Buster",
+      "firstYear": "1899",
+      "finalYear": "1899"
+    },
+    {
+      "id": "2128",
+      "title": "Free Lance",
+      "firstYear": "1900",
+      "finalYear": "1960",
+      "urlDigitized": "http://paperspast.natlib.govt.nz/cgi-bin/paperspast?a=d&cl=CL1.NZFL"
+    },
+    {
+      "id": "2129",
+      "title": "Sun",
+      "firstYear": "1902",
+      "finalYear": "1902"
+    },
+    {
+      "id": "2130",
+      "title": "N.Z. Truth",
+      "firstYear": "1905",
+      "finalYear": "1988",
+      "urlDigitized": "http://paperspast.natlib.govt.nz/cgi-bin/paperspast?a=d&cl=CL1.NZTR"
+    },
+    {
+      "id": "2131",
+      "title": "Sentinel",
+      "firstYear": "1905",
+      "finalYear": "19uu"
+    },
+    {
+      "id": "2132",
+      "title": "Searchlight",
+      "firstYear": "1907",
+      "finalYear": "1909"
+    },
+    {
+      "id": "2133",
+      "title": "The Dominion",
+      "firstYear": "1907",
+      "finalYear": "2002",
+      "urlDigitized": "http://paperspast.natlib.govt.nz/cgi-bin/paperspast?a=d&cl=CL1.DOM"
+    },
+    {
+      "id": "2134",
+      "title": "Weekly Herald",
+      "firstYear": "1909",
+      "finalYear": "1912"
+    },
+    {
+      "id": "2135",
+      "title": "WhareKura",
+      "firstYear": "1909",
+      "finalYear": "1928"
+    },
+    {
+      "id": "2136",
+      "title": "The Maoriland Worker",
+      "firstYear": "1910",
+      "finalYear": "1924",
+      "urlDigitized": "http://paperspast.natlib.govt.nz/cgi-bin/paperspast?a=d&cl=CL1.MW"
+    },
+    {
+      "id": "2137",
+      "title": "Greater Wellington Chronicle",
+      "firstYear": "1917",
+      "finalYear": "uuuu"
+    },
+    {
+      "id": "2138",
+      "title": "The man Sing Times",
+      "firstYear": "1921",
+      "finalYear": "1922"
+    },
+    {
+      "id": "2139",
+      "title": "Platt's Weekly",
+      "firstYear": "1921",
+      "finalYear": "uuuu"
+    },
+    {
+      "id": "2140",
+      "title": "New Zealand Worker",
+      "firstYear": "1924",
+      "finalYear": "1935"
+    },
+    {
+      "id": "2141",
+      "title": "New Zealand Critic",
+      "firstYear": "1925",
+      "finalYear": "19uu"
+    },
+    {
+      "id": "2142",
+      "title": "Red Worker",
+      "firstYear": "1929",
+      "finalYear": "1933"
+    },
+    {
+      "id": "2143",
+      "title": "Workers' Weekly",
+      "firstYear": "1931",
+      "finalYear": "1939"
+    },
+    {
+      "id": "2144",
+      "title": "Wellington Free Press",
+      "firstYear": "1931",
+      "finalYear": "uuuu"
+    },
+    {
+      "id": "2076",
+      "title": "Unemployed Leader",
+      "firstYear": "1935",
+      "finalYear": "19uu"
+    },
+    {
+      "id": "2145",
+      "title": "Standard",
+      "firstYear": "1935",
+      "finalYear": "1959"
+    },
+    {
+      "id": "2147",
+      "title": "N.Z Chinese Weekly News",
+      "firstYear": "1937",
+      "finalYear": "1946"
+    },
+    {
+      "id": "2148",
+      "title": "Reo Mihi",
+      "firstYear": "1941",
+      "finalYear": "194u"
+    },
+    {
+      "id": "2149",
+      "title": "Freedom",
+      "firstYear": "1943",
+      "finalYear": "1964"
+    },
+    {
+      "id": "2150",
+      "title": "Karori Chronicle",
+      "firstYear": "1947",
+      "finalYear": "1947"
+    },
+    {
+      "id": "2151",
+      "title": "Northland News",
+      "firstYear": "1948",
+      "finalYear": "1964"
+    },
+    {
+      "id": "2152",
+      "title": "Sports Post",
+      "firstYear": "1948",
+      "finalYear": "1975"
+    },
+    {
+      "id": "2153",
+      "title": "Newlands-Paparangi Monthly Times",
+      "firstYear": "1952",
+      "finalYear": "1966"
+    },
+    {
+      "id": "2154",
+      "title": "Naenae and Taita News Record",
+      "firstYear": "1956",
+      "finalYear": "1957"
+    },
+    {
+      "id": "2155",
+      "title": "Newtown News",
+      "firstYear": "1956",
+      "finalYear": "1961"
+    },
+    {
+      "id": "2156",
+      "title": "Karori News (1956)",
+      "firstYear": "1956",
+      "finalYear": "1962"
+    },
+    {
+      "id": "2157",
+      "title": "Bay View",
+      "firstYear": "1957",
+      "finalYear": "1958"
+    },
+    {
+      "id": "2158",
+      "title": "Peninsula",
+      "firstYear": "1957",
+      "finalYear": "1958"
+    },
+    {
+      "id": "2159",
+      "title": "Carillon",
+      "firstYear": "1958",
+      "finalYear": "1958"
+    },
+    {
+      "id": "2160",
+      "title": "Eastern Suburbs Sentinel",
+      "firstYear": "1961",
+      "finalYear": "1976"
+    },
+    {
+      "id": "2161",
+      "title": "Southern Sentinel",
+      "firstYear": "1962",
+      "finalYear": "1976"
+    },
+    {
+      "id": "2162",
+      "title": "South Wairarapa Sentinel",
+      "firstYear": "1962",
+      "finalYear": "uuuu"
+    },
+    {
+      "id": "2163",
+      "title": "Northern Sentinel",
+      "firstYear": "1963",
+      "finalYear": "1972"
+    },
+    {
+      "id": "2164",
+      "title": "The N.Z. Sunday Times",
+      "firstYear": "1965",
+      "finalYear": "1965"
+    },
+    {
+      "id": "2165",
+      "title": "Dominion Sunday Times",
+      "firstYear": "1965",
+      "finalYear": "1976"
+    },
+    {
+      "id": "2166",
+      "title": "Tawa Times (1967)",
+      "firstYear": "1967",
+      "finalYear": "uuuu"
+    },
+    {
+      "id": "2167",
+      "title": "Exercise",
+      "firstYear": "1968",
+      "finalYear": "1970"
+    },
+    {
+      "id": "2168",
+      "title": "Contact (Wellington)",
+      "firstYear": "1969",
+      "finalYear": "1990"
+    },
+    {
+      "id": "2169",
+      "title": "Eastern Suburbs Observer",
+      "firstYear": "1969",
+      "finalYear": "uuuu"
+    },
+    {
+      "id": "2083",
+      "title": "National Business Review",
+      "firstYear": "1970",
+      "finalYear": "9999",
+      "urlCurrent": "http://www.nbr.co.nz/"
+    },
+    {
+      "id": "2170",
+      "title": "Payday",
+      "firstYear": "1970",
+      "finalYear": "1971"
+    },
+    {
+      "id": "2171",
+      "title": "Exercise",
+      "firstYear": "1971",
+      "finalYear": "1973"
+    },
+    {
+      "id": "2172",
+      "title": "County News",
+      "firstYear": "1971",
+      "finalYear": "197u"
+    },
+    {
+      "id": "2173",
+      "title": "Norwester",
+      "firstYear": "1972",
+      "finalYear": "1976"
+    },
+    {
+      "id": "2174",
+      "title": "Independent Herald",
+      "firstYear": "1972",
+      "finalYear": "9999"
+    },
+    {
+      "id": "2175",
+      "title": "Onslow Johnsonville News",
+      "firstYear": "1973",
+      "finalYear": "1976"
+    },
+    {
+      "id": "2176",
+      "title": "Nor'wester",
+      "firstYear": "1976",
+      "finalYear": "1977"
+    },
+    {
+      "id": "2177",
+      "title": "Sentinel",
+      "firstYear": "1976",
+      "finalYear": "1978"
+    },
+    {
+      "id": "2178",
+      "title": "Sunday Times",
+      "firstYear": "1976",
+      "finalYear": "1981"
+    },
+    {
+      "id": "2179",
+      "title": "Mount Cook Messenger",
+      "firstYear": "1977",
+      "finalYear": "1987"
+    },
+    {
+      "id": "2180",
+      "title": "Eastern Suburbs News",
+      "firstYear": "1978",
+      "finalYear": "1989"
+    },
+    {
+      "id": "2181",
+      "title": "Southern News (Wellington)",
+      "firstYear": "1979",
+      "finalYear": "1994"
+    },
+    {
+      "id": "2182",
+      "title": "The Nation",
+      "firstYear": "1980",
+      "finalYear": "1981"
+    },
+    {
+      "id": "2085",
+      "title": "New Zealand Times [1981]",
+      "firstYear": "1981",
+      "finalYear": "1986"
+    },
+    {
+      "id": "2183",
+      "title": "New Zealand Women's Press",
+      "firstYear": "1982",
+      "finalYear": "198u"
+    },
+    {
+      "id": "2184",
+      "title": "Capital Times",
+      "firstYear": "1982",
+      "finalYear": "9999"
+    },
+    {
+      "id": "2185",
+      "title": "Upper Hutt Citizen",
+      "firstYear": "1982",
+      "finalYear": "9999"
+    },
+    {
+      "id": "2186",
+      "title": "TV and Radio Times",
+      "firstYear": "1983",
+      "finalYear": "1983"
+    },
+    {
+      "id": "2187",
+      "title": "Samoa Niu Sila",
+      "firstYear": "1984",
+      "finalYear": "1984"
+    },
+    {
+      "id": "2188",
+      "title": "New Zealand Sunday Times (1986)",
+      "firstYear": "1986",
+      "finalYear": "1987"
+    },
+    {
+      "id": "2189",
+      "title": "Dominion Sunday Times",
+      "firstYear": "1987",
+      "finalYear": "1992"
+    },
+    {
+      "id": "2190",
+      "title": "Fakamaneke",
+      "firstYear": "1987",
+      "finalYear": "9999"
+    },
+    {
+      "id": "2191",
+      "title": "Upper Hutt Leader",
+      "firstYear": "1987",
+      "finalYear": "9999"
+    },
+    {
+      "id": "2192",
+      "title": "Eastern News (Wellington)",
+      "firstYear": "1989",
+      "finalYear": "1994"
+    },
+    {
+      "id": "2193",
+      "title": "Malvern Record",
+      "firstYear": "1989",
+      "finalYear": "9999"
+    },
+    {
+      "id": "2194",
+      "title": "Western News (Johnsonville)",
+      "firstYear": "1989",
+      "finalYear": "9999"
+    },
+    {
+      "id": "2195",
+      "title": "Contact Weekender",
+      "firstYear": "1990",
+      "finalYear": "1991"
+    },
+    {
+      "id": "2196",
+      "title": "Creativity Network",
+      "firstYear": "1991",
+      "finalYear": "1993"
+    },
+    {
+      "id": "2197",
+      "title": "Contact (Wellington. 1991)",
+      "firstYear": "1991",
+      "finalYear": "2003"
+    },
+    {
+      "id": "2087",
+      "title": "Sunday Times [1992]",
+      "firstYear": "1992",
+      "finalYear": "1994"
+    },
+    {
+      "id": "2198",
+      "title": "This is the Drum",
+      "firstYear": "1993",
+      "finalYear": "1993"
+    },
+    {
+      "id": "2199",
+      "title": "Learning Connexion (Series)",
+      "firstYear": "1993",
+      "finalYear": "1995"
+    },
+    {
+      "id": "2200",
+      "title": "City Voice Wellington",
+      "firstYear": "1993",
+      "finalYear": "2001"
+    },
+    {
+      "id": "2201",
+      "title": "Norwester (Wellington)",
+      "firstYear": "1993",
+      "finalYear": "2003"
+    },
+    {
+      "id": "2202",
+      "title": "Capital Chinese News",
+      "firstYear": "1998",
+      "finalYear": "2005"
+    },
+    {
+      "id": "2203",
+      "title": "Xiang yin",
+      "firstYear": "1998",
+      "finalYear": "9999"
+    },
+    {
+      "id": "2090",
+      "title": "Wellingtonian",
+      "firstYear": "199u",
+      "finalYear": "9999"
+    },
+    {
+      "id": "2091",
+      "title": "Newlands/Paparangi Post",
+      "firstYear": "19uu",
+      "finalYear": "2001"
+    },
+    {
+      "id": "2092",
+      "title": "Northern Courier",
+      "firstYear": "2001",
+      "finalYear": "9999"
+    },
+    {
+      "id": "2204",
+      "title": "WX : Wellington Exclusive",
+      "firstYear": "2001",
+      "finalYear": "2001"
+    },
+    {
+      "id": "2205",
+      "title": "NZ InfoTech",
+      "firstYear": "2001",
+      "finalYear": "2002",
+      "urlCurrent": "http://www.infotech.co.nz"
+    },
+    {
+      "id": "2206",
+      "title": "The Dominion Post",
+      "firstYear": "2002",
+      "finalYear": "9999",
+      "urlCurrent": "http://www.dompost.co.nz/"
+    },
+    {
+      "id": "2207",
+      "title": "Weekday News",
+      "firstYear": "2003",
+      "finalYear": "2003"
+    },
+    {
+      "id": "2208",
+      "title": "Wellington Contact",
+      "firstYear": "2003",
+      "finalYear": "2004"
+    },
+    {
+      "id": "2209",
+      "title": "Feng Chao bao",
+      "firstYear": "2004",
+      "finalYear": "2004"
+    },
+    {
+      "id": "2210",
+      "title": "Sheng huo Zhou bao",
+      "firstYear": "2004",
+      "finalYear": "2004"
+    },
+    {
+      "id": "2211",
+      "title": "Xin min Qiao bao",
+      "firstYear": "2004",
+      "finalYear": "2012"
+    },
+    {
+      "id": "2212",
+      "title": "Wellingtonian",
+      "firstYear": "2004",
+      "finalYear": "9999"
+    },
+    {
+      "id": "2213",
+      "title": "Citylife (South Ed.)",
+      "firstYear": "2006",
+      "finalYear": "2007"
+    },
+    {
+      "id": "2214",
+      "title": "Citylife (North Ed.)",
+      "firstYear": "2006",
+      "finalYear": "2008"
+    },
+    {
+      "id": "2215",
+      "title": "Citylife (West Ed.)",
+      "firstYear": "2006",
+      "finalYear": "2008"
+    },
+    {
+      "id": "2216",
+      "title": "Citylife (Wainuiomata Ed.)",
+      "firstYear": "2006",
+      "finalYear": "2009"
+    },
+    {
+      "id": "2093",
+      "title": "Citylife (South South & East ed.)",
+      "firstYear": "2007",
+      "finalYear": "2009"
+    },
+    {
+      "id": "2217",
+      "title": "Xin Cheng Zhou kan",
+      "firstYear": "2007",
+      "finalYear": "2008"
+    },
+    {
+      "id": "2094",
+      "title": "Ju Jiao",
+      "firstYear": "2009",
+      "finalYear": "2009"
+    },
+    {
+      "id": "2095",
+      "title": "Xin-sheng Huo",
+      "firstYear": "2012",
+      "finalYear": "9999"
+    },
+    {
+      "id": "2218",
+      "title": "Hua ren you bao",
+      "firstYear": "2012",
+      "finalYear": "9999"
+    }
+  ]
+}

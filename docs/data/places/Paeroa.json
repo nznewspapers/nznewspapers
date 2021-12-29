@@ -1,0 +1,64 @@
+{
+  "stats": {
+    "placename": "Paeroa",
+    "count": 9,
+    "decades": 7
+  },
+  "papers": [
+    {
+      "id": "1501",
+      "title": "Hauraki Tribune and County of Ohinemuri Advertiser",
+      "firstYear": "1881",
+      "finalYear": "1896"
+    },
+    {
+      "id": "1502",
+      "title": "Ohinemuri Gazette",
+      "firstYear": "1891",
+      "finalYear": "1921",
+      "urlDigitized": "http://paperspast.natlib.govt.nz/cgi-bin/paperspast?a=d&cl=CL1.OG"
+    },
+    {
+      "id": "1506",
+      "title": "Hauraki Plains Gazette",
+      "firstYear": "1921",
+      "finalYear": "1977"
+    },
+    {
+      "id": "1509",
+      "title": "Coromandel & Mercury Bay Gazette (1956)",
+      "firstYear": "1956",
+      "finalYear": "1973"
+    },
+    {
+      "id": "1510",
+      "title": "Chat",
+      "firstYear": "1964",
+      "finalYear": "1966"
+    },
+    {
+      "id": "1511",
+      "title": "Sunday Chat",
+      "firstYear": "1966",
+      "finalYear": "1967"
+    },
+    {
+      "id": "1512",
+      "title": "Thames and Peninsula Gazette",
+      "firstYear": "1973",
+      "finalYear": "1976"
+    },
+    {
+      "id": "1513",
+      "title": "Paeroa Star",
+      "firstYear": "1981",
+      "finalYear": "1982"
+    },
+    {
+      "id": "1515",
+      "title": "Paeroa Gazette",
+      "firstYear": "1988",
+      "finalYear": "1998"
+    }
+  ]
+}

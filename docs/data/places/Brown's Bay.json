@@ -1,0 +1,21 @@
+{
+  "stats": {
+    "placename": "Brown's Bay",
+    "count": 2,
+    "decades": 2
+  },
+  "papers": [
+    {
+      "id": "1139",
+      "title": "Bays News",
+      "firstYear": "1963",
+      "finalYear": "1967"
+    },
+    {
+      "id": "1197",
+      "title": "East Coast Bays News",
+      "firstYear": "1983",
+      "finalYear": "1987"
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "stats": {
+    "placename": "Temuka",
+    "count": 5,
+    "decades": 4
+  },
+  "papers": [
+    {
+      "id": "2520",
+      "title": "Temuka Leader",
+      "firstYear": "1877",
+      "finalYear": "1932"
+    },
+    {
+      "id": "2525",
+      "title": "Evening Standard",
+      "firstYear": "1933",
+      "finalYear": "1933"
+    },
+    {
+      "id": "2526",
+      "title": "South Canterbury Weekly Review",
+      "firstYear": "1933",
+      "finalYear": "1933"
+    },
+    {
+      "id": "2531",
+      "title": "New Leader",
+      "firstYear": "1996",
+      "finalYear": "1998"
+    },
+    {
+      "id": "2535",
+      "title": "The New Temuka Leader",
+      "firstYear": "19uu",
+      "finalYear": "1996"
+    }
+  ]
+}

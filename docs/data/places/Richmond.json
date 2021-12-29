@@ -1,0 +1,33 @@
+{
+  "stats": {
+    "placename": "Richmond",
+    "count": 4,
+    "decades": 4
+  },
+  "papers": [
+    {
+      "id": "2228",
+      "title": "Waimea Weekly",
+      "firstYear": "1940",
+      "finalYear": "uuuu"
+    },
+    {
+      "id": "2230",
+      "title": "Village News",
+      "firstYear": "1986",
+      "finalYear": "2000"
+    },
+    {
+      "id": "2234",
+      "title": "RDR : Richmond Review",
+      "firstYear": "1999",
+      "finalYear": "9999"
+    },
+    {
+      "id": "2235",
+      "title": "Village Times",
+      "firstYear": "2000",
+      "finalYear": "2001"
+    }
+  ]
+}

@@ -1,0 +1,51 @@
+{
+  "stats": {
+    "placename": "Wainuiomata",
+    "count": 7,
+    "decades": 3
+  },
+  "papers": [
+    {
+      "id": "2053",
+      "title": "Courier News",
+      "firstYear": "1973",
+      "finalYear": "1981"
+    },
+    {
+      "id": "2054",
+      "title": "Courier",
+      "firstYear": "1981",
+      "finalYear": "1982"
+    },
+    {
+      "id": "2055",
+      "title": "Weekly Courier",
+      "firstYear": "1982",
+      "finalYear": "1983"
+    },
+    {
+      "id": "2056",
+      "title": "Wainuiomata Advertiser",
+      "firstYear": "1982",
+      "finalYear": "1992"
+    },
+    {
+      "id": "2059",
+      "title": "Valley Courier",
+      "firstYear": "1983",
+      "finalYear": "uuuu"
+    },
+    {
+      "id": "2060",
+      "title": "Hutt sun",
+      "firstYear": "1986",
+      "finalYear": "1987"
+    },
+    {
+      "id": "2062",
+      "title": "Wainuiomata News",
+      "firstYear": "1992",
+      "finalYear": "9999"
+    }
+  ]
+}

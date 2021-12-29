@@ -1,0 +1,33 @@
+{
+  "stats": {
+    "placename": "Tokomaru Bay",
+    "count": 4,
+    "decades": 4
+  },
+  "papers": [
+    {
+      "id": "1714",
+      "title": "East Coast Watch and Waiapu County Advocate",
+      "firstYear": "1919",
+      "finalYear": "1924"
+    },
+    {
+      "id": "1715",
+      "title": "East Coast News and Waiapu County Gazette",
+      "firstYear": "1924",
+      "finalYear": "1931"
+    },
+    {
+      "id": "1717",
+      "title": "East Coast Press",
+      "firstYear": "1931",
+      "finalYear": "1939"
+    },
+    {
+      "id": "1723",
+      "title": "East Coast Press [1989]",
+      "firstYear": "1989",
+      "finalYear": "1990"
+    }
+  ]
+}

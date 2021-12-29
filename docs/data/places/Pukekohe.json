@@ -1,0 +1,83 @@
+{
+  "stats": {
+    "placename": "Pukekohe",
+    "count": 12,
+    "decades": 6
+  },
+  "papers": [
+    {
+      "id": "1088",
+      "title": "Pukekohe & Waiuku Times",
+      "firstYear": "1912",
+      "finalYear": "1919",
+      "urlDigitized": "http://paperspast.natlib.govt.nz/cgi-bin/paperspast?a=d&cl=CL1.PWT"
+    },
+    {
+      "id": "1092",
+      "title": "Franklin & Pukekohe Times",
+      "firstYear": "1919",
+      "finalYear": "1921",
+      "urlDigitized": "http://paperspast.natlib.govt.nz/cgi-bin/paperspast?a=d&cl=CL1.PWT"
+    },
+    {
+      "id": "1094",
+      "title": "Franklin Times",
+      "firstYear": "1921",
+      "finalYear": "1971"
+    },
+    {
+      "id": "1127",
+      "title": "Pukekohe Advocate",
+      "firstYear": "1959",
+      "finalYear": "1959"
+    },
+    {
+      "id": "1169",
+      "title": "South Auckland Courier (Franklin Ed.)",
+      "firstYear": "1972",
+      "finalYear": "1973"
+    },
+    {
+      "id": "1173",
+      "title": "Franklin Times (1973)",
+      "firstYear": "1973",
+      "finalYear": "1979"
+    },
+    {
+      "id": "1174",
+      "title": "Franklin County News",
+      "firstYear": "1973",
+      "finalYear": "2004"
+    },
+    {
+      "id": "1223",
+      "title": "Pukekohe Weekend",
+      "firstYear": "1993",
+      "finalYear": "1994"
+    },
+    {
+      "id": "1236",
+      "title": "Franklin Life Newspaper",
+      "firstYear": "1999",
+      "finalYear": "2006"
+    },
+    {
+      "id": "1260",
+      "title": "Franklin-Papakura Life Newspaper",
+      "firstYear": "2006",
+      "finalYear": "2007"
+    },
+    {
+      "id": "1263",
+      "title": "Franklin Life",
+      "firstYear": "2008",
+      "finalYear": "2008"
+    },
+    {
+      "id": "1264",
+      "title": "Franklin Papakura Life",
+      "firstYear": "2008",
+      "finalYear": "2010"
+    }
+  ]
+}

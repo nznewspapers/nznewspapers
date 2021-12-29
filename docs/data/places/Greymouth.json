@@ -1,0 +1,53 @@
+{
+  "stats": {
+    "placename": "Greymouth",
+    "count": 7,
+    "decades": 5
+  },
+  "papers": [
+    {
+      "id": "2311",
+      "title": "The Grey River Argus",
+      "firstYear": "1865",
+      "finalYear": "1966",
+      "urlDigitized": "http://paperspast.natlib.govt.nz/cgi-bin/paperspast?a=d&cl=CL1.GRA"
+    },
+    {
+      "id": "2313",
+      "title": "Greymouth Evening Star",
+      "firstYear": "1866",
+      "finalYear": "2006"
+    },
+    {
+      "id": "2315",
+      "title": "Weekly Argus",
+      "firstYear": "1870",
+      "finalYear": "1905"
+    },
+    {
+      "id": "2317",
+      "title": "Argus Leader",
+      "firstYear": "1966",
+      "finalYear": "1966"
+    },
+    {
+      "id": "2318",
+      "title": "The West Coast Messenger",
+      "firstYear": "1997",
+      "finalYear": "9999"
+    },
+    {
+      "id": "2319",
+      "title": "Coaster",
+      "firstYear": "2000",
+      "finalYear": "2001"
+    },
+    {
+      "id": "2320",
+      "title": "Greymouth Star",
+      "firstYear": "2006",
+      "finalYear": "9999",
+      "urlCurrent": "http://www.greystar.co.nz/"
+    }
+  ]
+}

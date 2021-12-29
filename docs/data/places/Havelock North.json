@@ -1,0 +1,39 @@
+{
+  "stats": {
+    "placename": "Havelock North",
+    "count": 5,
+    "decades": 4
+  },
+  "papers": [
+    {
+      "id": "1740",
+      "title": "Village News",
+      "firstYear": "1958",
+      "finalYear": "uuuu"
+    },
+    {
+      "id": "1741",
+      "title": "Taradale and District News",
+      "firstYear": "1961",
+      "finalYear": "1965"
+    },
+    {
+      "id": "1742",
+      "title": "Havelock North News",
+      "firstYear": "1962",
+      "finalYear": "1970"
+    },
+    {
+      "id": "1743",
+      "title": "Te Mata Times",
+      "firstYear": "1975",
+      "finalYear": "1984"
+    },
+    {
+      "id": "1752",
+      "title": "Sentinel",
+      "firstYear": "2002",
+      "finalYear": "2005"
+    }
+  ]
+}

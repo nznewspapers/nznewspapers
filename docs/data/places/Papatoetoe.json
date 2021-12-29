@@ -1,0 +1,45 @@
+{
+  "stats": {
+    "placename": "Papatoetoe",
+    "count": 6,
+    "decades": 3
+  },
+  "papers": [
+    {
+      "id": "1106",
+      "title": "Papatoetoe News",
+      "firstYear": "1947",
+      "finalYear": "1964"
+    },
+    {
+      "id": "1146",
+      "title": "Papatoetoe-Otara Gazette",
+      "firstYear": "1964",
+      "finalYear": "uuuu"
+    },
+    {
+      "id": "1218",
+      "title": "Samoa sun",
+      "firstYear": "1991",
+      "finalYear": "9999"
+    },
+    {
+      "id": "1227",
+      "title": "Papatoetoe Week",
+      "firstYear": "1993",
+      "finalYear": "1995"
+    },
+    {
+      "id": "1231",
+      "title": "Papatoetoe & Otahuhu Week",
+      "firstYear": "1995",
+      "finalYear": "2003"
+    },
+    {
+      "id": "1232",
+      "title": "Our Town Papakura",
+      "firstYear": "1996",
+      "finalYear": "2003"
+    }
+  ]
+}

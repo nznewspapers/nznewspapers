@@ -1,0 +1,45 @@
+{
+  "stats": {
+    "placename": "Motueka",
+    "count": 6,
+    "decades": 5
+  },
+  "papers": [
+    {
+      "id": "2220",
+      "title": "Motueka Herald and Waimea Advertiser",
+      "firstYear": "1885",
+      "finalYear": "1889"
+    },
+    {
+      "id": "2222",
+      "title": "Motueka Star",
+      "firstYear": "1901",
+      "finalYear": "1938"
+    },
+    {
+      "id": "2226",
+      "title": "Star-Times",
+      "firstYear": "1938",
+      "finalYear": "1939"
+    },
+    {
+      "id": "2227",
+      "title": "Province",
+      "firstYear": "1939",
+      "finalYear": "1939"
+    },
+    {
+      "id": "2229",
+      "title": "Motueka Press",
+      "firstYear": "1964",
+      "finalYear": "uuuu"
+    },
+    {
+      "id": "2231",
+      "title": "Guardian [Motueka]",
+      "firstYear": "1993",
+      "finalYear": "9999"
+    }
+  ]
+}

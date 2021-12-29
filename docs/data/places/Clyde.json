@@ -1,0 +1,21 @@
+{
+  "stats": {
+    "placename": "Clyde",
+    "count": 2,
+    "decades": 2
+  },
+  "papers": [
+    {
+      "id": "2562",
+      "title": "Dunstan Times",
+      "firstYear": "1864",
+      "finalYear": "1948"
+    },
+    {
+      "id": "2565",
+      "title": "Wairoa Free Press",
+      "firstYear": "1877",
+      "finalYear": "1880"
+    }
+  ]
+}

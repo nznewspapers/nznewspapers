@@ -1,0 +1,21 @@
+{
+  "stats": {
+    "placename": "Woodville",
+    "count": 2,
+    "decades": 2
+  },
+  "papers": [
+    {
+      "id": "1928",
+      "title": "Woodville Examiner",
+      "firstYear": "1883",
+      "finalYear": "1891"
+    },
+    {
+      "id": "1931",
+      "title": "Examiner",
+      "firstYear": "1892",
+      "finalYear": "1938"
+    }
+  ]
+}

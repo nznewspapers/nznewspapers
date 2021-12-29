@@ -1,0 +1,121 @@
+{
+  "stats": {
+    "placename": "Whangarei",
+    "count": 18,
+    "decades": 9
+  },
+  "papers": [
+    {
+      "id": "1034",
+      "title": "Whangarei Comet and Northern Advertiser",
+      "firstYear": "1875",
+      "finalYear": "1877"
+    },
+    {
+      "id": "1035",
+      "title": "Northern Advocate",
+      "firstYear": "1877",
+      "finalYear": "9999",
+      "urlCurrent": "http://www.northernadvocate.co.nz/",
+      "urlDigitized": "http://paperspast.natlib.govt.nz/cgi-bin/paperspast?a=d&cl=CL1.NA"
+    },
+    {
+      "id": "1037",
+      "title": "Marsden Times and Whangarei County Official Gazette",
+      "firstYear": "1892",
+      "finalYear": "1894"
+    },
+    {
+      "id": "1038",
+      "title": "Northern Chronicle",
+      "firstYear": "1902",
+      "finalYear": "1902"
+    },
+    {
+      "id": "1039",
+      "title": "Morning Press",
+      "firstYear": "1905",
+      "finalYear": "1908"
+    },
+    {
+      "id": "1040",
+      "title": "Northern Mail",
+      "firstYear": "1908",
+      "finalYear": "1913"
+    },
+    {
+      "id": "1043",
+      "title": "Whangarei Advertiser",
+      "firstYear": "1919",
+      "finalYear": "1929"
+    },
+    {
+      "id": "1044",
+      "title": "Whangarei Daily News",
+      "firstYear": "1927",
+      "finalYear": "1927"
+    },
+    {
+      "id": "1045",
+      "title": "Whangarei Wild-Cat",
+      "firstYear": "1928",
+      "finalYear": "1928"
+    },
+    {
+      "id": "1046",
+      "title": "North Auckland Advertiser",
+      "firstYear": "1928",
+      "finalYear": "19uu"
+    },
+    {
+      "id": "1047",
+      "title": "Whangarei and District Argus",
+      "firstYear": "1930",
+      "finalYear": "1931"
+    },
+    {
+      "id": "1048",
+      "title": "Mirror",
+      "firstYear": "1931",
+      "finalYear": "uuuu"
+    },
+    {
+      "id": "1049",
+      "title": "Northland Tribune",
+      "firstYear": "1932",
+      "finalYear": "1947"
+    },
+    {
+      "id": "1051",
+      "title": "Whangarei City News",
+      "firstYear": "1978",
+      "finalYear": "1982"
+    },
+    {
+      "id": "1052",
+      "title": "Weekend Magazine",
+      "firstYear": "1979",
+      "finalYear": "1982"
+    },
+    {
+      "id": "1054",
+      "title": "Whangarei Report",
+      "firstYear": "1982",
+      "finalYear": "9999",
+      "urlCurrent": "https://www.facebook.com/TheWhangareiReport"
+    },
+    {
+      "id": "1055",
+      "title": "Northern Star",
+      "firstYear": "1983",
+      "finalYear": "1987"
+    },
+    {
+      "id": "1057",
+      "title": "Whangarei Leader",
+      "firstYear": "1992",
+      "finalYear": "9999",
+      "urlCurrent": "http://i.stuff.co.nz/auckland/local-news/northland/whangarei-leader"
+    }
+  ]
+}

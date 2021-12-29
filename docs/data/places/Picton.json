@@ -1,0 +1,27 @@
+{
+  "stats": {
+    "placename": "Picton",
+    "count": 3,
+    "decades": 3
+  },
+  "papers": [
+    {
+      "id": "2262",
+      "title": "Marlborough Press",
+      "firstYear": "1860",
+      "finalYear": "1948"
+    },
+    {
+      "id": "2277",
+      "title": "Picton Paper",
+      "firstYear": "1977",
+      "finalYear": "1994"
+    },
+    {
+      "id": "2280",
+      "title": "Picton Gazette and Marlborough District Advertiser",
+      "firstYear": "1997",
+      "finalYear": "9999"
+    }
+  ]
+}

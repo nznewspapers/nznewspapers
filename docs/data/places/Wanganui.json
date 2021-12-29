@@ -1,0 +1,116 @@
+{
+  "stats": {
+    "placename": "Wanganui",
+    "count": 17,
+    "decades": 7
+  },
+  "papers": [
+    {
+      "id": "1876",
+      "title": "Wanganui Record",
+      "firstYear": "1853",
+      "finalYear": "1853"
+    },
+    {
+      "id": "1877",
+      "title": "Wanganui Chronicle",
+      "firstYear": "1856",
+      "finalYear": "9999",
+      "urlCurrent": "http://www.wanganuichronicle.co.nz/",
+      "urlDigitized": "http://paperspast.natlib.govt.nz/cgi-bin/paperspast?a=d&cl=CL1.WC"
+    },
+    {
+      "id": "1878",
+      "title": "Wanganui Times",
+      "firstYear": "1865",
+      "finalYear": "1869"
+    },
+    {
+      "id": "1879",
+      "title": "Evening Herald",
+      "firstYear": "1867",
+      "finalYear": "1876",
+      "urlDigitized": "http://paperspast.natlib.govt.nz/cgi-bin/paperspast?a=d&cl=CL1.WH"
+    },
+    {
+      "id": "1880",
+      "title": "Weekly Herald",
+      "firstYear": "1869",
+      "finalYear": "1880"
+    },
+    {
+      "id": "1881",
+      "title": "The Wanganui Herald",
+      "firstYear": "1876",
+      "finalYear": "1986",
+      "urlDigitized": "http://paperspast.natlib.govt.nz/cgi-bin/paperspast?a=d&cl=CL1.WH"
+    },
+    {
+      "id": "1882",
+      "title": "Weekly Chronicle",
+      "firstYear": "187u",
+      "finalYear": "1911"
+    },
+    {
+      "id": "1883",
+      "title": "Yeoman",
+      "firstYear": "1880",
+      "finalYear": "1906"
+    },
+    {
+      "id": "1884",
+      "title": "Taniwha",
+      "firstYear": "1881",
+      "finalYear": "uuuu"
+    },
+    {
+      "id": "1885",
+      "title": "The Jubilee",
+      "firstYear": "1898",
+      "finalYear": "1900",
+      "urlCurrent": "http://nzdl.org/cgi-bin/library?gg=_cgiarggg_&e=d-00000-00---0niupepa--00-0--0-10-0---0---0prompt-10---4-------0-1l--11-en-50---20-about---00-0-1-00-11-1-0utfZz-8-00&a=d&c=niupepa&cl=CL1.30"
+    },
+    {
+      "id": "1888",
+      "title": "Wanganui East News",
+      "firstYear": "1962",
+      "finalYear": "1965"
+    },
+    {
+      "id": "1889",
+      "title": "Gonville News",
+      "firstYear": "1963",
+      "finalYear": "1966"
+    },
+    {
+      "id": "1890",
+      "title": "News-view",
+      "firstYear": "1966",
+      "finalYear": "1972"
+    },
+    {
+      "id": "1891",
+      "title": "River City Press",
+      "firstYear": "1985",
+      "finalYear": "9999"
+    },
+    {
+      "id": "1892",
+      "title": "Herald Weekender",
+      "firstYear": "1986",
+      "finalYear": "9999"
+    },
+    {
+      "id": "1893",
+      "title": "Midweek Herald",
+      "firstYear": "1986",
+      "finalYear": "9999"
+    },
+    {
+      "id": "1894",
+      "title": "Wanganui Midweek",
+      "firstYear": "1988",
+      "finalYear": "9999"
+    }
+  ]
+}

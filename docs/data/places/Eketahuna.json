@@ -1,0 +1,21 @@
+{
+  "stats": {
+    "placename": "Eketahuna",
+    "count": 2,
+    "decades": 2
+  },
+  "papers": [
+    {
+      "id": "1933",
+      "title": "Eketahuna Express",
+      "firstYear": "1894",
+      "finalYear": "1939"
+    },
+    {
+      "id": "1940",
+      "title": "Eketahuna Star",
+      "firstYear": "1940",
+      "finalYear": "1941"
+    }
+  ]
+}

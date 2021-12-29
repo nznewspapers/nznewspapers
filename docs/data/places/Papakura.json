@@ -1,0 +1,69 @@
+{
+  "stats": {
+    "placename": "Papakura",
+    "count": 10,
+    "decades": 5
+  },
+  "papers": [
+    {
+      "id": "1108",
+      "title": "Ribbon",
+      "firstYear": "1948",
+      "finalYear": "1956"
+    },
+    {
+      "id": "1122",
+      "title": "Local",
+      "firstYear": "1956",
+      "finalYear": "uuuu"
+    },
+    {
+      "id": "1123",
+      "title": "South Auckland Advertiser and Farm Journal",
+      "firstYear": "1957",
+      "finalYear": "1961"
+    },
+    {
+      "id": "1124",
+      "title": "Ribbon News-pictorial",
+      "firstYear": "1957",
+      "finalYear": "1968"
+    },
+    {
+      "id": "1131",
+      "title": "Papakura Progress",
+      "firstYear": "1960",
+      "finalYear": "uuuu"
+    },
+    {
+      "id": "1133",
+      "title": "South Auckland News Advertiser",
+      "firstYear": "1962",
+      "finalYear": "1965"
+    },
+    {
+      "id": "1156",
+      "title": "New Ribbon News-pictorial",
+      "firstYear": "1968",
+      "finalYear": "uuuu"
+    },
+    {
+      "id": "1160",
+      "title": "South Auckland News Advertiser (1970)",
+      "firstYear": "1970",
+      "finalYear": "1971"
+    },
+    {
+      "id": "1201",
+      "title": "Papakura Ribbon",
+      "firstYear": "1985",
+      "finalYear": "1985"
+    },
+    {
+      "id": "1208",
+      "title": "Counties Courier",
+      "firstYear": "1986",
+      "finalYear": "1991"
+    }
+  ]
+}

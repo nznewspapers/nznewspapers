@@ -1,0 +1,21 @@
+{
+  "stats": {
+    "placename": "Mangaweka",
+    "count": 2,
+    "decades": 1
+  },
+  "papers": [
+    {
+      "id": "1863",
+      "title": "Mangaweka Settler",
+      "firstYear": "1897",
+      "finalYear": "1925"
+    },
+    {
+      "id": "1864",
+      "title": "Mangaweka Mail",
+      "firstYear": "1898",
+      "finalYear": "1900"
+    }
+  ]
+}

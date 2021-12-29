@@ -1,0 +1,40 @@
+{
+  "stats": {
+    "placename": "Patea",
+    "count": 5,
+    "decades": 4
+  },
+  "papers": [
+    {
+      "id": "1605",
+      "title": "Patea Mail",
+      "firstYear": "1875",
+      "finalYear": "1887"
+    },
+    {
+      "id": "1609",
+      "title": "Patea County Press",
+      "firstYear": "1887",
+      "finalYear": "1914"
+    },
+    {
+      "id": "1613",
+      "title": "The Patea Mail",
+      "firstYear": "1975",
+      "finalYear": "1999"
+    },
+    {
+      "id": "1614",
+      "title": "Waverley Newsletter",
+      "firstYear": "1998",
+      "finalYear": "1999"
+    },
+    {
+      "id": "1615",
+      "title": "Patea and Waverley Press",
+      "firstYear": "1999",
+      "finalYear": "9999",
+      "urlCurrent": "http://pateawaverleypress.wordpress.com/"
+    }
+  ]
+}
