@@ -1,5 +1,14 @@
 // console.log("Call it functional");
 
+function createLink(url, text) {
+  var link = document.createElement("a");
+  var href = document.createAttribute("href");
+  href.value = url;
+  link.setAttributeNode(href);
+  link.textContent = text;
+  return link;
+}
+
 function appendDiv(parent, className, divInnerHtml) {
   var div = document.createElement("div");
   var classAttr = document.createAttribute("class");
@@ -15,12 +24,9 @@ function appendText(parent, text) {
 }
 
 function appendLink(parent, url, text) {
-  var link = document.createElement("a");
-  var href = document.createAttribute("href");
-  href.value = url;
-  link.setAttributeNode(href);
-  link.textContent = text;
+  const link = createLink(url, text);
   parent.appendChild(link);
+  return link;
 }
 
 /**
