@@ -160,11 +160,6 @@ function linkTable(box, newspaper) {
       var direction = newspaper.links[key]["direction"];
       var targetDescription = newspaper.links[key]["target-description"];
       var relationship = newspaper.links[key]["relationship"];
-
-      console.log("targetDescription: " + targetDescription);
-      console.log("direction: " + direction);
-      console.log("relationship: " + relationship);
-
       if (relationship == null) {
         relationship = direction;
       }
