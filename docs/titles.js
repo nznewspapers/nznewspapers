@@ -46,10 +46,7 @@ function contentBox(data) {
       div = appendDiv(currentColumn, "columnitem");
       appendNewspaperInfo(div, newspaper);
 
-      //Bay of Plenty Times, since 1872, of Tauranga, is digitised and online.
-
       currentColumnCount += 1;
-
       if (currentColumnCount >= columnSize) {
         currentColumn = appendDiv(box, "columnbox");
         currentColumnCount = 0;
