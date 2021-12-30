@@ -23,11 +23,15 @@ async function getPaper() {
  * @param {*} value The value of said field
  */
 function appendRow(tbody, field, value) {
-  let row = document.createElement("tr");
-  let row_data_field = document.createElement("td");
+  var row = document.createElement("tr");
+  var row_data_field = document.createElement("td");
   row_data_field.innerHTML = field;
-  let row_data_value = document.createElement("td");
-  row_data_value.innerHTML = value;
+  var row_data_value = document.createElement("td");
+  if (typeof value == "object") {
+    row_data_value.appendChild(value);
+  } else {
+    row_data_value.innerHTML = value;
+  }
 
   row.appendChild(row_data_field);
   row.appendChild(row_data_value);
@@ -106,17 +110,12 @@ function contentBox(newspaper) {
   }
 
   // Insert Key Elements table
-  //appendElement(div, br);
   linkTable(box, newspaper);
   keyElements(box, newspaper);
 
-  //links and the numbers- do we need these in the table? the link is already there under the "View Online" section of the "About" newspaper.
-  //direction --> is this needed
-
-  // Creating and adding data to third row of the table
-
-  /* );<h3>About this title</h3>
-
+  /* We need to add the "referencews" section here, it used to look like this:
+  
+      <h3>About this title</h3>
       <p>
         <em><span id="newspaper-title">Title</span></em>
         has been published since <span class="first-year">1938</span> in
@@ -215,20 +214,38 @@ function keyElements(box, newspaper) {
   appendRow(tbody, "Title", newspaper.title);
   appendRow(tbody, "Genre", newspaper.genre);
   appendRow(tbody, "First Year", newspaper.firstYear);
-  appendRow(tbody, "Final Year", newspaper.finalYear);
-  appendRow(tbody, "District", newspaper.district);
-  appendRow(tbody, "Frequency", newspaper.frequency);
-  //took out the id numbers, is this useful?
   appendRow(tbody, "Is Current", newspaper.isCurrent);
+  if (!newspaper.isCurrent) {
+    appendRow(tbody, "Final Year", newspaper.finalYear);
+  }
+  appendRow(tbody, "Frequency", newspaper.frequency);
+  if (newspaper.urlCurrent) {
+    appendRow(
+      tbody,
+      "Current URL",
+      createLink(newspaper.urlCurrent, newspaper.urlCurrent)
+    );
+  }
+  if (newspaper.urlDigitized) {
+    var link = createLink(newspaper.urlDigitized, newspaper.urlDigitized);
+    appendRow(tbody, "Digitised URL", link);
+  }
+
+  appendRow(tbody, "NLNZ MARC Number", newspaper.idMarcControlNumber);
+  //took out the other id numbers, is this useful?
+
   // appendRow(tbody, "Placecode", newspaper.placecode);
-  appendRow(tbody, "Placename", newspaper.placename);
+  placeUrl = "place.html?place=" + newspaper.placename;
+  placeLink = createLink(placeUrl, newspaper.placename);
+  appendRow(tbody, "Place", placeLink);
+  appendRow(tbody, "District", newspaper.district);
   appendRow(tbody, "Region", newspaper.region);
   return classAttr;
 }
 
 async function render() {
   const data = await getPaper();
-  console.log("AAA newspaper");
+  console.log("A newspaper");
   console.log(data);
 
   document.title = data.title + " - Newspapers of New Zealand";
