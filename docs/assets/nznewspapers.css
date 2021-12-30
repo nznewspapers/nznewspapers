@@ -20,13 +20,21 @@ body {
 }
 
 .bannerbox {
-  /* border: 1px dotted yellow; */
-  padding-bottom: 20px;
-  padding-top: 20px;
-  font-size: 150%;
+  /* border: 1px solid blue; */
+  padding-bottom: 10px;
+  padding-top: 10px;
+  font-weight: bold;
   text-align: center;
 }
 
+div.bannerbox h2 {
+  /* border: 1px solid rgb(255, 0, 221); */
+  display: block;
+  font-size: 150%;
+  font-weight: bold;
+  margin-top: 10px;
+  margin-bottom: 10px;
+}
 .menubox {
   border-bottom: 2px solid black;
   border-top: 2px solid black;

@@ -55,39 +55,46 @@ function bannerBox(newspaper) {
 function contentBox(newspaper) {
   var box = document.querySelector(".contentbox");
 
-  var genreDiv = appendDiv(box, "genre");
-  var para = document.createElement("p");
-  var aboutText = document.createElement("em");
-  aboutText.textContent = newspaper.genre;
-  para.appendChild(aboutText);
+  var infoDiv = appendDiv(box, "genre");
+  var genre = document.createElement("em");
+  genre.textContent = newspaper.genre;
+  infoDiv.appendChild(genre);
 
+  appendText(infoDiv, " - ");
   if (newspaper.urlCurrent) {
-    appendText(para, " - ");
-    appendLink(para, newspaper.urlCurrent, newspaper.title + " Website");
+    appendLink(infoDiv, newspaper.urlCurrent, "Current Website");
+  } else if (newspaper.isCurrent) {
+    appendText(infoDiv, "No Known Website");
+  } else {
+    appendText(infoDiv, "Not Current");
   }
 
+  appendText(infoDiv, " - ");
   if (newspaper.urlDigitized) {
-    appendText(para, " - ");
-    appendLink(para, newspaper.urlDigitized, "Digitized Paper");
+    appendLink(infoDiv, newspaper.urlDigitized, "View Digitized");
+  } else {
+    appendText(infoDiv, "Not Digitised");
   }
-  genreDiv.appendChild(para);
+  box.appendChild(infoDiv);
 
   // About this title
   var aboutDiv = appendDiv(box, "about");
-  var aboutText = document.createElement("h3");
-  aboutText.textContent = "About this Title";
+  var aboutThisTitleHeading = document.createElement("h3");
+  aboutThisTitleHeading.textContent = "About this Title";
 
   // Title has been published since 1938 in Opotiki (Opotiki District, Bay of Plenty). View online.
-  aboutDiv.appendChild(aboutText);
-  appendText(aboutDiv, newspaper.title);
+  aboutDiv.appendChild(aboutThisTitleHeading);
+
+  var aboutText = document.createElement("p");
+  appendText(aboutText, newspaper.title);
   if (newspaper.finalYear == 9999) {
     appendText(
-      aboutDiv,
+      aboutText,
       " has been published since " + prettyYear(newspaper.firstYear)
     );
   } else {
     appendText(
-      aboutDiv,
+      aboutText,
       " was published from " +
         prettyYear(newspaper.firstYear) +
         " to " +
@@ -95,7 +102,7 @@ function contentBox(newspaper) {
     );
   }
   appendText(
-    aboutDiv,
+    aboutText,
     " in " +
       newspaper.placename +
       " (" +
@@ -104,10 +111,7 @@ function contentBox(newspaper) {
       newspaper.region +
       ")."
   );
-
-  if (newspaper.urlCurrent) {
-    appendLink(aboutDiv, newspaper.urlCurrent, " View Online");
-  }
+  aboutDiv.appendChild(aboutText);
 
   // Insert Key Elements table
   linkTable(box, newspaper);
