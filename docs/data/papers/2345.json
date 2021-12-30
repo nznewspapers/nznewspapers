@@ -13,6 +13,7 @@
   "placename": "Kaikoura",
   "price": "Gratis",
   "region": "Canterbury",
+  "urlDigitized": "https://paperspast.natlib.govt.nz/newspapers/kaikoura-star",
   "sources": {
     "2013-04-02T08:58:38.000Z": "Extracted from the New Zealand National Bibliography (MARC record 3531208) downloaded March 2013.",
     "2014-05-07T09:47:17.000Z": "Modified by DataBot"
