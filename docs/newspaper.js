@@ -44,8 +44,31 @@ function appendRow(tbody, field, value) {
  */
 function bannerBox(newspaper) {
   var box = document.querySelector(".bannerbox");
-  var heading2 = document.querySelector("#pagetitle");
+
+  var heading2 = document.querySelector("#newspapertitle");
   heading2.innerHTML = newspaper.title;
+
+  var infoDiv = appendDiv(box, "links");
+  appendLink(
+    infoDiv,
+    "place.html?place=" + newspaper.placename,
+    newspaper.placename + " " + newspaper.genre
+  );
+  appendText(infoDiv, " - ");
+  if (newspaper.urlCurrent) {
+    appendLink(infoDiv, newspaper.urlCurrent, "Available Online");
+  } else if (newspaper.isCurrent) {
+    appendText(infoDiv, "No Known Website");
+  } else {
+    appendText(infoDiv, "Not Current");
+  }
+  appendText(infoDiv, " - ");
+  if (newspaper.urlDigitized) {
+    appendLink(infoDiv, newspaper.urlDigitized, "Available Digitized");
+  } else {
+    appendText(infoDiv, "Not Digitised");
+  }
+  box.appendChild(infoDiv);
 }
 
 /**
@@ -54,28 +77,6 @@ function bannerBox(newspaper) {
  */
 function contentBox(newspaper) {
   var box = document.querySelector(".contentbox");
-
-  var infoDiv = appendDiv(box, "genre");
-  var genre = document.createElement("em");
-  genre.textContent = newspaper.genre;
-  infoDiv.appendChild(genre);
-
-  appendText(infoDiv, " - ");
-  if (newspaper.urlCurrent) {
-    appendLink(infoDiv, newspaper.urlCurrent, "Current Website");
-  } else if (newspaper.isCurrent) {
-    appendText(infoDiv, "No Known Website");
-  } else {
-    appendText(infoDiv, "Not Current");
-  }
-
-  appendText(infoDiv, " - ");
-  if (newspaper.urlDigitized) {
-    appendLink(infoDiv, newspaper.urlDigitized, "View Digitized");
-  } else {
-    appendText(infoDiv, "Not Digitised");
-  }
-  box.appendChild(infoDiv);
 
   // About this title
   var aboutDiv = appendDiv(box, "about");
@@ -101,16 +102,14 @@ function contentBox(newspaper) {
         prettyYear(newspaper.finalYear)
     );
   }
-  appendText(
-    aboutText,
-    " in " +
-      newspaper.placename +
-      " (" +
-      newspaper.district +
-      ", " +
-      newspaper.region +
-      ")."
-  );
+  appendText(aboutText, " in " + newspaper.placename);
+  if (newspaper.placename != "Auckland") {
+    appendText(
+      aboutText,
+      " (" + newspaper.district + ", " + newspaper.region + ")"
+    );
+  }
+  appendText(aboutText, ".");
   aboutDiv.appendChild(aboutText);
 
   // Insert Key Elements table
@@ -239,9 +238,11 @@ function keyElements(box, newspaper) {
   //took out the other id numbers, is this useful?
 
   // appendRow(tbody, "Placecode", newspaper.placecode);
-  placeUrl = "place.html?place=" + newspaper.placename;
-  placeLink = createLink(placeUrl, newspaper.placename);
-  appendRow(tbody, "Place", placeLink);
+  appendRow(
+    tbody,
+    "Place",
+    createLink("place.html?place=" + placename, placename)
+  );
   appendRow(tbody, "District", newspaper.district);
   appendRow(tbody, "Region", newspaper.region);
   return classAttr;

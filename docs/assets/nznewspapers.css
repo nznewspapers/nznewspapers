@@ -23,18 +23,29 @@ body {
   /* border: 1px solid blue; */
   padding-bottom: 10px;
   padding-top: 10px;
+}
+
+/* The human-readable title of the page sites in the banner box below the masthead. */
+h2 {
+  /* border: 1px solid rgb(255, 0, 221); */
+  display: block;
   font-weight: bold;
+  margin-top: 10px;
+  margin-bottom: 0px;
+}
+
+/* Most pages om the website will have a titles centered under the masthead... */
+#pagetitle {
+  font-size: 200%;
   text-align: center;
 }
 
-div.bannerbox h2 {
-  /* border: 1px solid rgb(255, 0, 221); */
-  display: block;
+/* ...except for the newspaper pages that will have a smaller, left-aligned title. */
+#newspapertitle {
   font-size: 150%;
-  font-weight: bold;
-  margin-top: 10px;
-  margin-bottom: 10px;
+  text-align: left;
 }
+
 .menubox {
   border-bottom: 2px solid black;
   border-top: 2px solid black;
@@ -46,7 +57,7 @@ div.bannerbox h2 {
   float: left;
   min-height: 20px;
   text-align: center;
-  width: 120px;
+  width: 140px;
 }
 
 a.menuitem {
