@@ -72,64 +72,10 @@ function bannerBox(newspaper) {
 }
 
 /**
- * Fill in the Newspaper Title and summary information.
- * @param {*} newspaper Data describing this newspaper.
+ * Display links from this newspaper to preceding/succeeding titles.
+ * @param {*} box The container element to put the links into.
+ * @param {*} newspaper The newspaper record, which possibly includes a newspaper.links element.
  */
-function contentBox(newspaper) {
-  var box = document.querySelector(".contentbox");
-
-  // About this title
-  var aboutDiv = appendDiv(box, "about");
-  var aboutThisTitleHeading = document.createElement("h3");
-  aboutThisTitleHeading.textContent = "About this Title";
-
-  // Title has been published since 1938 in Opotiki (Opotiki District, Bay of Plenty). View online.
-  aboutDiv.appendChild(aboutThisTitleHeading);
-
-  var aboutText = document.createElement("p");
-  appendText(aboutText, newspaper.title);
-  if (newspaper.finalYear == 9999) {
-    appendText(
-      aboutText,
-      " has been published since " + prettyYear(newspaper.firstYear)
-    );
-  } else {
-    appendText(
-      aboutText,
-      " was published from " +
-        prettyYear(newspaper.firstYear) +
-        " to " +
-        prettyYear(newspaper.finalYear)
-    );
-  }
-  appendText(aboutText, " in " + newspaper.placename);
-  if (newspaper.placename != "Auckland") {
-    appendText(
-      aboutText,
-      " (" + newspaper.district + ", " + newspaper.region + ")"
-    );
-  }
-  appendText(aboutText, ".");
-  aboutDiv.appendChild(aboutText);
-
-  // Insert Key Elements table
-  linkTable(box, newspaper);
-  keyElements(box, newspaper);
-
-  /* We need to add the "referencews" section here, it used to look like this:
-  
-      <h3>About this title</h3>
-      <p>
-        <em><span id="newspaper-title">Title</span></em>
-        has been published since <span class="first-year">1938</span> in
-        <a href="place?place=Opotiki">Opotiki</a>
-        (<a href="place?district=Opotiki District">Opotiki District</a>,
-        <a href="place?region=Bay of Plenty">Bay of Plenty</a>).
-
-        <a href="http://www.opotikinews.co.nz/">View online</a>.
-      </p> */
-}
-
 function linkTable(box, newspaper) {
   var linkTableDiv = appendDiv(box, "links");
 
@@ -183,6 +129,12 @@ function linkTable(box, newspaper) {
   }
 }
 
+/**
+ * Add an HTML table showing the key metadata of this newspaper.
+ * @param {*} box The container element to put the new table into.
+ * @param {*} newspaper The newspaper record, which possibly includes a newspaper.links element.
+ * @returns
+ */
 function keyElements(box, newspaper) {
   var tableDiv = appendDiv(box, "elements");
   var tableText = document.createElement("h3");
@@ -245,12 +197,73 @@ function keyElements(box, newspaper) {
   );
   appendRow(tbody, "District", newspaper.district);
   appendRow(tbody, "Region", newspaper.region);
-  return classAttr;
 }
 
+/**
+ * Fill in the Newspaper Title and summary information.
+ * @param {*} newspaper Data describing this newspaper.
+ */
+function contentBox(newspaper) {
+  var box = document.querySelector(".contentbox");
+
+  // About this title
+  var aboutDiv = appendDiv(box, "about");
+  var aboutThisTitleHeading = document.createElement("h3");
+  aboutThisTitleHeading.textContent = "About this Title";
+
+  // Title has been published since 1938 in Opotiki (Opotiki District, Bay of Plenty). View online.
+  aboutDiv.appendChild(aboutThisTitleHeading);
+
+  var aboutText = document.createElement("p");
+  appendText(aboutText, newspaper.title);
+  if (newspaper.finalYear == 9999) {
+    appendText(
+      aboutText,
+      " has been published since " + prettyYear(newspaper.firstYear)
+    );
+  } else {
+    appendText(
+      aboutText,
+      " was published from " +
+        prettyYear(newspaper.firstYear) +
+        " to " +
+        prettyYear(newspaper.finalYear)
+    );
+  }
+  appendText(aboutText, " in " + newspaper.placename);
+  if (newspaper.placename != "Auckland") {
+    appendText(
+      aboutText,
+      " (" + newspaper.district + ", " + newspaper.region + ")"
+    );
+  }
+  appendText(aboutText, ".");
+  aboutDiv.appendChild(aboutText);
+
+  // Insert Key Elements table
+  linkTable(box, newspaper);
+  keyElements(box, newspaper);
+
+  /* We need to add the "referencews" section here, it used to look like this:
+  
+      <h3>About this title</h3>
+      <p>
+        <em><span id="newspaper-title">Title</span></em>
+        has been published since <span class="first-year">1938</span> in
+        <a href="place?place=Opotiki">Opotiki</a>
+        (<a href="place?district=Opotiki District">Opotiki District</a>,
+        <a href="place?region=Bay of Plenty">Bay of Plenty</a>).
+
+        <a href="http://www.opotikinews.co.nz/">View online</a>.
+      </p> */
+}
+
+/**
+ * Display the newspaper page.
+ */
 async function render() {
   const data = await getPaper();
-  console.log("A newspaper");
+  console.log("A newspaper!");
   console.log(data);
 
   document.title = data.title + " - Newspapers of New Zealand";
