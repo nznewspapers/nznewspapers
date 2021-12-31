@@ -1,4 +1,4 @@
-# nznewspapers data-import
+# NZNewspapers: Data Import
 
 This folder is a copy of the dataset used to rebuild the nznewspapers site in 2021 from a dataset that was exported from the oiginal site on February 1st, 2015.
 
