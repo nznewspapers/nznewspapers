@@ -28,32 +28,19 @@ function bannerBox(data) {
  */
 function contentBox(data) {
   var box = document.querySelector(".contentbox");
-
-  const columnCount = 4;
-  var itemCount = data.stats.count + data.stats.headings;
-  var columnSize = Math.ceil(itemCount / columnCount);
-
-  var currentColumn = appendDiv(box, "columnbox");
-  var currentColumnCount = 0;
+  var multicolumnDiv = appendDiv(box, "multicolumnbox");
 
   for (var heading in data.lists) {
-    appendDiv(currentColumn, "columnheading", heading);
-    currentColumnCount += 1;
+    appendDiv(multicolumnDiv, "columnheading", heading);
 
     for (var i = 0; i < data.lists[heading].length; i++) {
+      div = appendDiv(multicolumnDiv, "columnitem");
       newspaper = data.lists[heading][i];
-
-      div = appendDiv(currentColumn, "columnitem");
       appendNewspaperInfo(div, newspaper);
-
-      currentColumnCount += 1;
-      if (currentColumnCount >= columnSize) {
-        currentColumn = appendDiv(box, "columnbox");
-        currentColumnCount = 0;
-      }
     }
   }
 }
+
 async function render() {
   const data = await getTitleInfo();
   console.log(data.stats.count);

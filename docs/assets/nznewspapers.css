@@ -99,6 +99,15 @@ a.menuitem {
   width: 200px;
 }
 
+.multicolumnbox {
+  /* border: 1px solid orangered; */
+  /* column-count: 4; */
+  column-fill: auto;
+  column-gap: 10px;
+  column-rule: 1px solid #2c2c2c;
+  column-width: 200px;
+}
+
 .columnsection {
   margin-top: 20px;
   font-size: 200%;
