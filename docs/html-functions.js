@@ -9,6 +9,41 @@ function createLink(url, text) {
   return link;
 }
 
+/**
+ * Helper function that adds an attribute to an HTMLelement.
+ * @param {*} parent Where we will add the new attribute.
+ * @param {string} attrbuteName The name of the new atttribute.
+ * @param {string} attributeValue The value to assign.
+ */
+function addAttribute(parent, attrbuteName, attributeValue) {
+  var newAttribute = document.createAttribute(attrbuteName);
+  newAttribute.value = attributeValue;
+  parent.setAttributeNode(newAttribute);
+}
+
+/**
+ * Helper function that creates a new HTML element and appends it to a parent element.
+ * @param {*} parent Where we will add the new element.
+ * @param {*} newElementName A required element name (e.g. "div" or "th" or "td")
+ * @param {*} newClassName An optional class attribute for the element.
+ * @param {*} newInnerHtml An Optional HTML fragment to put in the element.
+ * @returns The new element.
+ */
+function appendElement(parent, newElementName, newClassName, newInnerHtml) {
+  var newElement = document.createElement(newElementName);
+
+  if (newClassName) {
+    var classAttr = document.createAttribute("class");
+    classAttr.value = newClassName;
+    newElement.setAttributeNode(classAttr);
+  }
+
+  if (newInnerHtml) newElement.innerHTML = newInnerHtml;
+  parent.appendChild(newElement);
+
+  return newElement;
+}
+
 function appendDiv(parent, className, divInnerHtml) {
   var div = document.createElement("div");
   var classAttr = document.createAttribute("class");
@@ -90,29 +125,6 @@ function appendNewspaperInfo(div, newspaper) {
   }
 
   appendText(div, ". ");
-}
-
-/**
- * Create a new HTML element and append it to a parent element.
- * @param {*} parent Where we will add the new element.
- * @param {*} newElementName A required element name (e.g. "div" or "th" or "td")
- * @param {*} newClassName An optional class attribute for the element.
- * @param {*} newInnerHtml An Optional HTML fragment to put in the element.
- * @returns The new element.
- */
-function appendElement(parent, newElementName, newClassName, newInnerHtml) {
-  var newElement = document.createElement(newElementName);
-
-  if (newClassName) {
-    var classAttr = document.createAttribute("class");
-    classAttr.value = newClassName;
-    newElement.setAttributeNode(classAttr);
-  }
-
-  if (newInnerHtml) newElement.innerHTML = newInnerHtml;
-  parent.appendChild(newElement);
-
-  return newElement;
 }
 
 /*

@@ -101,8 +101,11 @@ function linkTable(box, newspaper) {
     // Create and add the links:
     var infoRow = appendElement(linktbody, "tr");
     var precedeCell = appendElement(infoRow, "td", null);
+    addAttribute(precedeCell, "align", "left");
     var relateCell = appendElement(infoRow, "td", null);
+    addAttribute(relateCell, "align", "center");
     var succeedCell = appendElement(infoRow, "td", null);
+    addAttribute(succeedCell, "align", "right");
 
     linkKeys.forEach(function (key) {
       var direction = newspaper.links[key]["direction"];
