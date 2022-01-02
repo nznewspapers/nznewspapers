@@ -13,7 +13,7 @@ async function getTitleInfo() {
 }
 
 /**
- * Fill in the page title information.
+ * Fill in the page banner (title information).
  * @param {*} data Data describing the page comtent.
  */
 function bannerBox(data) {
@@ -23,7 +23,7 @@ function bannerBox(data) {
 }
 
 /**
- * Fill in the page title and content.
+ * Fill in the page content.
  * @param {*} data Data describing this newspaper.
  */
 function contentBox(data) {
@@ -43,7 +43,7 @@ function contentBox(data) {
 
 async function render() {
   const data = await getTitleInfo();
-  console.log(data.stats.count);
+  console.log("Titles: " + data.stats.count);
 
   document.title =
     "Newspapers of New Zealand: " +
