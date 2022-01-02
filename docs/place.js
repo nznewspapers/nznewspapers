@@ -35,39 +35,27 @@ function bannerBox(data) {
 function contentBox(data) {
   var box = document.querySelector(".contentbox");
 
-  const numberOfColumns = 4;
-  const itemCount = data.stats.count + data.stats.decades;
-  const itemsPerColumn = Math.ceil(itemCount / numberOfColumns);
+  var multicolumnDiv = null;
+  if (data.stats.count < 6) {
+    multicolumnDiv = appendDiv(box, "columnbox");
+  } else {
+    multicolumnDiv = appendDiv(box, "multicolumnbox");
+  }
 
-  var currentColumn = appendDiv(box, "columnbox");
   var currentDecade = null;
-  var currentColumnItems = 0;
-
   data.papers.forEach(function (newspaper) {
-    // for (var id in data.papers) {
-    title = newspaper.title;
-    url = "newspaper.html?id=" + newspaper.id;
     firstYear = newspaper.firstYear;
     decade = firstYear.substring(0, 3) + "0s";
 
     // Decade heading:
     if (decade != currentDecade) {
-      currentColumnItems += 1;
-      appendDiv(currentColumn, "columnheading", decade);
+      appendDiv(multicolumnDiv, "columnheading", decade);
       currentDecade = decade;
     }
 
     // Newspapers:
-    currentColumnItems += 1;
-    div = appendDiv(currentColumn, "columnitem");
-    appendLink(div, url, title);
-    appendText(div, ", " + firstYear + "-" + newspaper.finalYear + ".");
-
-    // Start new column:
-    if (currentColumnItems >= itemsPerColumn) {
-      currentColumn = appendDiv(box, "columnbox");
-      currentColumnItems = 0;
-    }
+    div = appendDiv(multicolumnDiv, "columnitem");
+    appendNewspaperInfo(div, newspaper);
   });
 }
 
