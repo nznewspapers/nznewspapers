@@ -9,7 +9,7 @@ body {
   margin-left: auto;
   margin-right: auto;
   margin-top: 0;
-  width: 850px;
+  min-width: 650px;
 }
 
 .mastheadbox {
@@ -115,7 +115,6 @@ h2 {
 
 .multicolumnbox {
   /* border: 1px solid orangered; */
-  /* column-count: 4; */
   column-fill: auto;
   column-gap: 10px;
   column-rule: 1px solid #2c2c2c;
