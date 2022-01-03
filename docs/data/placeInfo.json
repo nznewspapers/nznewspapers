@@ -2,8 +2,8 @@
   "stats": {
     "count": 1521,
     "countCurrent": 222,
-    "countDigitized": 99,
-    "places": 232,
+    "countDigitized": 100,
+    "places": 231,
     "regions": 15,
     "districts": 66
   },
@@ -5756,14 +5756,14 @@
           "title": "Wanganui Record",
           "firstYear": "1853",
           "finalYear": "1853",
-          "placename": "Wanganui"
+          "placename": "Whanganui"
         },
         {
           "id": 1877,
           "title": "Wanganui Chronicle",
           "firstYear": "1856",
           "finalYear": "9999",
-          "placename": "Wanganui",
+          "placename": "Whanganui",
           "urlCurrent": "http://www.wanganuichronicle.co.nz/",
           "urlDigitized": "http://paperspast.natlib.govt.nz/cgi-bin/paperspast?a=d&cl=CL1.WC"
         },
@@ -5772,14 +5772,14 @@
           "title": "Wanganui Times",
           "firstYear": "1865",
           "finalYear": "1869",
-          "placename": "Wanganui"
+          "placename": "Whanganui"
         },
         {
           "id": 1879,
           "title": "Evening Herald",
           "firstYear": "1867",
           "finalYear": "1876",
-          "placename": "Wanganui",
+          "placename": "Whanganui",
           "urlDigitized": "http://paperspast.natlib.govt.nz/cgi-bin/paperspast?a=d&cl=CL1.WH"
         },
         {
@@ -5787,14 +5787,14 @@
           "title": "Weekly Herald",
           "firstYear": "1869",
           "finalYear": "1880",
-          "placename": "Wanganui"
+          "placename": "Whanganui"
         },
         {
           "id": 1881,
           "title": "The Wanganui Herald",
           "firstYear": "1876",
           "finalYear": "1986",
-          "placename": "Wanganui",
+          "placename": "Whanganui",
           "urlDigitized": "http://paperspast.natlib.govt.nz/cgi-bin/paperspast?a=d&cl=CL1.WH"
         },
         {
@@ -5802,78 +5802,29 @@
           "title": "Weekly Chronicle",
           "firstYear": "187u",
           "finalYear": "1911",
-          "placename": "Wanganui"
+          "placename": "Whanganui"
         },
         {
           "id": 1883,
           "title": "Yeoman",
           "firstYear": "1880",
           "finalYear": "1906",
-          "placename": "Wanganui"
+          "placename": "Whanganui"
         },
         {
           "id": 1884,
           "title": "Taniwha",
           "firstYear": "1881",
           "finalYear": "uuuu",
-          "placename": "Wanganui"
+          "placename": "Whanganui"
         },
         {
           "id": 1885,
           "title": "The Jubilee",
           "firstYear": "1898",
           "finalYear": "1900",
-          "placename": "Wanganui",
+          "placename": "Whanganui",
           "urlCurrent": "http://nzdl.org/cgi-bin/library?gg=_cgiarggg_&e=d-00000-00---0niupepa--00-0--0-10-0---0---0prompt-10---4-------0-1l--11-en-50---20-about---00-0-1-00-11-1-0utfZz-8-00&a=d&c=niupepa&cl=CL1.30"
-        },
-        {
-          "id": 1888,
-          "title": "Wanganui East News",
-          "firstYear": "1962",
-          "finalYear": "1965",
-          "placename": "Wanganui"
-        },
-        {
-          "id": 1889,
-          "title": "Gonville News",
-          "firstYear": "1963",
-          "finalYear": "1966",
-          "placename": "Wanganui"
-        },
-        {
-          "id": 1890,
-          "title": "News-view",
-          "firstYear": "1966",
-          "finalYear": "1972",
-          "placename": "Wanganui"
-        },
-        {
-          "id": 1891,
-          "title": "River City Press",
-          "firstYear": "1985",
-          "finalYear": "9999",
-          "placename": "Wanganui"
-        },
-        {
-          "id": 1892,
-          "title": "Herald Weekender",
-          "firstYear": "1986",
-          "finalYear": "9999",
-          "placename": "Wanganui"
-        },
-        {
-          "id": 1893,
-          "title": "Midweek Herald",
-          "firstYear": "1986",
-          "finalYear": "9999",
-          "placename": "Wanganui"
-        },
-        {
-          "id": 1894,
-          "title": "Wanganui Midweek",
-          "firstYear": "1988",
-          "finalYear": "9999",
-          "placename": "Wanganui"
         },
         {
           "id": 1886,
@@ -5887,6 +5838,55 @@
           "title": "Te Reo o te Ao",
           "firstYear": "1930",
           "finalYear": "1930",
+          "placename": "Whanganui"
+        },
+        {
+          "id": 1888,
+          "title": "Wanganui East News",
+          "firstYear": "1962",
+          "finalYear": "1965",
+          "placename": "Whanganui"
+        },
+        {
+          "id": 1889,
+          "title": "Gonville News",
+          "firstYear": "1963",
+          "finalYear": "1966",
+          "placename": "Whanganui"
+        },
+        {
+          "id": 1890,
+          "title": "News-view",
+          "firstYear": "1966",
+          "finalYear": "1972",
+          "placename": "Whanganui"
+        },
+        {
+          "id": 1891,
+          "title": "River City Press",
+          "firstYear": "1985",
+          "finalYear": "9999",
+          "placename": "Whanganui"
+        },
+        {
+          "id": 1892,
+          "title": "Herald Weekender",
+          "firstYear": "1986",
+          "finalYear": "9999",
+          "placename": "Whanganui"
+        },
+        {
+          "id": 1893,
+          "title": "Midweek Herald",
+          "firstYear": "1986",
+          "finalYear": "9999",
+          "placename": "Whanganui"
+        },
+        {
+          "id": 1894,
+          "title": "Wanganui Midweek",
+          "firstYear": "1988",
+          "finalYear": "9999",
           "placename": "Whanganui"
         }
       ],
@@ -8782,7 +8782,8 @@
           "title": "Kaikoura Star",
           "firstYear": "1880",
           "finalYear": "9999",
-          "placename": "Kaikoura"
+          "placename": "Kaikoura",
+          "urlDigitized": "https://paperspast.natlib.govt.nz/newspapers/kaikoura-star"
         },
         {
           "id": 2346,

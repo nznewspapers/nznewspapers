@@ -1,7 +1,7 @@
 {
   "stats": {
     "count": 1521,
-    "places": 232,
+    "places": 231,
     "headings": 26
   },
   "lists": {
@@ -2611,7 +2611,7 @@
         "finalYear": "1876",
         "region": "Manawatu-Wanganui",
         "district": "Wanganui District",
-        "placename": "Wanganui",
+        "placename": "Whanganui",
         "urlDigitized": "http://paperspast.natlib.govt.nz/cgi-bin/paperspast?a=d&cl=CL1.WH"
       },
       {
@@ -3444,7 +3444,7 @@
         "finalYear": "1966",
         "region": "Manawatu-Wanganui",
         "district": "Wanganui District",
-        "placename": "Wanganui"
+        "placename": "Whanganui"
       },
       {
         "id": 1452,
@@ -3974,7 +3974,7 @@
         "finalYear": "9999",
         "region": "Manawatu-Wanganui",
         "district": "Wanganui District",
-        "placename": "Wanganui"
+        "placename": "Whanganui"
       },
       {
         "id": 1204,
@@ -4637,7 +4637,7 @@
         "finalYear": "1900",
         "region": "Manawatu-Wanganui",
         "district": "Wanganui District",
-        "placename": "Wanganui",
+        "placename": "Whanganui",
         "urlCurrent": "http://nzdl.org/cgi-bin/library?gg=_cgiarggg_&e=d-00000-00---0niupepa--00-0--0-10-0---0---0prompt-10---4-------0-1l--11-en-50---20-about---00-0-1-00-11-1-0utfZz-8-00&a=d&c=niupepa&cl=CL1.30"
       },
       {
@@ -4721,7 +4721,8 @@
         "finalYear": "9999",
         "region": "Canterbury",
         "district": "Kaikoura District",
-        "placename": "Kaikoura"
+        "placename": "Kaikoura",
+        "urlDigitized": "https://paperspast.natlib.govt.nz/newspapers/kaikoura-star"
       },
       {
         "id": 2346,
@@ -6046,7 +6047,7 @@
         "finalYear": "9999",
         "region": "Manawatu-Wanganui",
         "district": "Wanganui District",
-        "placename": "Wanganui"
+        "placename": "Whanganui"
       },
       {
         "id": 2649,
@@ -6777,7 +6778,7 @@
         "finalYear": "1972",
         "region": "Manawatu-Wanganui",
         "district": "Wanganui District",
-        "placename": "Wanganui"
+        "placename": "Whanganui"
       },
       {
         "id": 1567,
@@ -9318,7 +9319,7 @@
         "finalYear": "9999",
         "region": "Manawatu-Wanganui",
         "district": "Wanganui District",
-        "placename": "Wanganui"
+        "placename": "Whanganui"
       },
       {
         "id": 2662,
@@ -10851,7 +10852,7 @@
         "finalYear": "uuuu",
         "region": "Manawatu-Wanganui",
         "district": "Wanganui District",
-        "placename": "Wanganui"
+        "placename": "Whanganui"
       },
       {
         "id": 2642,
@@ -12910,7 +12911,7 @@
         "finalYear": "9999",
         "region": "Manawatu-Wanganui",
         "district": "Wanganui District",
-        "placename": "Wanganui",
+        "placename": "Whanganui",
         "urlCurrent": "http://www.wanganuichronicle.co.nz/",
         "urlDigitized": "http://paperspast.natlib.govt.nz/cgi-bin/paperspast?a=d&cl=CL1.WC"
       },
@@ -12921,7 +12922,7 @@
         "finalYear": "1965",
         "region": "Manawatu-Wanganui",
         "district": "Wanganui District",
-        "placename": "Wanganui"
+        "placename": "Whanganui"
       },
       {
         "id": 1881,
@@ -12930,7 +12931,7 @@
         "finalYear": "1986",
         "region": "Manawatu-Wanganui",
         "district": "Wanganui District",
-        "placename": "Wanganui",
+        "placename": "Whanganui",
         "urlDigitized": "http://paperspast.natlib.govt.nz/cgi-bin/paperspast?a=d&cl=CL1.WH"
       },
       {
@@ -12940,7 +12941,7 @@
         "finalYear": "9999",
         "region": "Manawatu-Wanganui",
         "district": "Wanganui District",
-        "placename": "Wanganui"
+        "placename": "Whanganui"
       },
       {
         "id": 1876,
@@ -12949,7 +12950,7 @@
         "finalYear": "1853",
         "region": "Manawatu-Wanganui",
         "district": "Wanganui District",
-        "placename": "Wanganui"
+        "placename": "Whanganui"
       },
       {
         "id": 1878,
@@ -12958,7 +12959,7 @@
         "finalYear": "1869",
         "region": "Manawatu-Wanganui",
         "district": "Wanganui District",
-        "placename": "Wanganui"
+        "placename": "Whanganui"
       },
       {
         "id": 1614,
@@ -13058,7 +13059,7 @@
         "finalYear": "1911",
         "region": "Manawatu-Wanganui",
         "district": "Wanganui District",
-        "placename": "Wanganui"
+        "placename": "Whanganui"
       },
       {
         "id": 2055,
@@ -13103,7 +13104,7 @@
         "finalYear": "1880",
         "region": "Manawatu-Wanganui",
         "district": "Wanganui District",
-        "placename": "Wanganui"
+        "placename": "Whanganui"
       },
       {
         "id": 2117,
@@ -13915,7 +13916,7 @@
         "finalYear": "1906",
         "region": "Manawatu-Wanganui",
         "district": "Wanganui District",
-        "placename": "Wanganui"
+        "placename": "Whanganui"
       },
       {
         "id": 1451,
