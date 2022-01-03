@@ -13,10 +13,10 @@ async function getHomeInfo() {
 }
 
 /**
- * Fill in the page title information.
+ * Fill in the page banner (title information).
  * @param {*} data Data describing the page comtent.
  */
-function titleBox(data) {
+function bannerBox(data) {
   var box = document.querySelector(".bannerbox");
   var heading2 = document.querySelector("#pagetitle");
   heading2.innerHTML =
@@ -27,20 +27,15 @@ function titleBox(data) {
 }
 
 /**
- * Fill in the page title and content.
+ * Fill in the page content.
  * @param {*} data Data describing this newspaper.
  */
 function contentBox(data) {
   var box = document.querySelector(".contentbox");
+  var multicolumnDiv = appendDiv(box, "multicolumnbox");
 
-  const columnCount = 4;
-  var itemCount = data.stats.places + data.stats.regions;
-  var columnSize = Math.ceil(itemCount / columnCount);
-
-  var currentColumn = appendDiv(box, "columnbox");
-
-  appendDiv(currentColumn, "columnheading", "Welcome!");
-  introDiv = appendDiv(currentColumn, "columnitem");
+  appendDiv(multicolumnDiv, "columnheading", "Welcome!");
+  introDiv = appendDiv(multicolumnDiv, "columnitem");
   appendText(
     introDiv,
     "This website tries to list every newspaper ever published in New Zealand. "
@@ -48,38 +43,30 @@ function contentBox(data) {
   appendText(introDiv, "It's a work in progress. ");
   appendLink(introDiv, "about.html", "Find out more.");
 
-  var currentColumnCount = 0;
-
   for (var heading in data.lists) {
-    appendDiv(currentColumn, "columnheading", heading);
-    currentColumnCount += 1;
+    appendDiv(multicolumnDiv, "columnheading", heading);
 
-    for (var placename in data.lists[heading]) {
-      div = appendDiv(currentColumn, "columnitem");
+    var regionList = Object.keys(data.lists[heading]).sort();
+    regionList.forEach(function (placename) {
+      div = appendDiv(multicolumnDiv, "columnitem");
+
       url = "place.html?place=" + placename;
-
       appendLink(div, url, placename);
       appendText(div, " (" + data.lists[heading][placename] + ")");
-      currentColumnCount += 1;
-    }
-
-    if (currentColumnCount >= columnSize) {
-      currentColumn = appendDiv(box, "columnbox");
-      currentColumnCount = 0;
-    }
+    });
   }
 }
 
 async function render() {
   const data = await getHomeInfo();
-  console.log(data.stats.count);
+  console.log("NzNewspapers: " + data.stats.count);
 
   document.title =
     "Newspapers of New Zealand: " +
     data.stats.count +
     " New Zealand Newspapers";
 
-  titleBox(data);
+  bannerBox(data);
   contentBox(data);
 }
 

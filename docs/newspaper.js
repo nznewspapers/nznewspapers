@@ -94,15 +94,23 @@ function linkTable(box, newspaper) {
 
     // Creating and the link header row:
     var headerRow = appendElement(linkthead, "tr");
-    appendElement(headerRow, "th", null, "Preceded By");
-    appendElement(headerRow, "th", null, "Related To");
-    appendElement(headerRow, "th", null, "Succeeded By");
+    var pHeader = appendElement(headerRow, "th", null, "Preceded By");
+    var rHeader = appendElement(headerRow, "th", null, "Related To");
+    var sHeader = appendElement(headerRow, "th", null, "Succeeded By");
+
+    addAttribute(pHeader, "align", "left");
+    addAttribute(rHeader, "align", "center");
+    addAttribute(sHeader, "align", "right");
 
     // Create and add the links:
     var infoRow = appendElement(linktbody, "tr");
     var precedeCell = appendElement(infoRow, "td", null);
     var relateCell = appendElement(infoRow, "td", null);
     var succeedCell = appendElement(infoRow, "td", null);
+
+    addAttribute(precedeCell, "align", "left");
+    addAttribute(relateCell, "align", "center");
+    addAttribute(succeedCell, "align", "right");
 
     linkKeys.forEach(function (key) {
       var direction = newspaper.links[key]["direction"];

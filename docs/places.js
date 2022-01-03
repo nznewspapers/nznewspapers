@@ -2,7 +2,7 @@
  * Fill in the page title information.
  * @param {*} data Data describing the page comtent.
  */
-function setPageTitle(mode, data) {
+function bannerBox(mode, data) {
   // Set the web page title:
   document.title = "Newspapers of New Zealand";
   if (mode == "current") {
@@ -40,54 +40,26 @@ function setPageTitle(mode, data) {
  */
 function contentBox(mode, data) {
   var box = document.querySelector(".contentbox");
-
-  // Figure out how many columns, and howmany items in each column:
-  const columnCount = 4;
-  var itemCount = data.stats.districts + data.stats.regions;
-  if (mode == "digitised") {
-    itemCount += data.stats.countDigitized;
-  } else if (mode == "current") {
-    itemCount += data.stats.countCurrent;
-  } else {
-    itemCount += data.stats.count;
-  }
-  var columnSize = Math.ceil(itemCount / columnCount);
-
-  // Start the first column:
-  var currentColumn = appendDiv(box, "columnbox");
-  var currentColumnCount = 0;
+  var multicolumnDiv = appendDiv(box, "multicolumnbox");
 
   for (var i = 0; i < data.lists.regionList.length; i++) {
     region = data.lists.regionList[i];
-
-    appendDiv(currentColumn, "columnheading", region);
-    currentColumnCount += 1;
+    appendDiv(multicolumnDiv, "columnheading", region);
 
     districtList = data.lists[region]["districtList"];
-
     for (var j = 0; j < districtList.length; j++) {
       district = districtList[j];
-
-      appendDiv(currentColumn, "columnsubheading", district);
-      currentColumnCount += 1;
+      appendDiv(multicolumnDiv, "columnsubheading", district);
 
       newspaperList = data.lists[region][district];
-
       newspaperList.forEach(function (newspaper) {
         if (
           mode == "all" ||
           (mode == "digitised" && newspaper.urlDigitized) ||
           (mode == "current" && newspaper.finalYear == "9999")
         ) {
-          div = appendDiv(currentColumn, "columnitem");
-          currentColumnCount += 1;
+          div = appendDiv(multicolumnDiv, "columnitem");
           appendNewspaperInfo(div, newspaper);
-        }
-
-        // Start a new column:
-        if (currentColumnCount >= columnSize) {
-          currentColumn = appendDiv(box, "columnbox");
-          currentColumnCount = 0;
         }
       });
     }
@@ -107,9 +79,10 @@ async function render() {
 
   // The placeInfo file holds all the papers, organized by place:
   const data = await readJsonUrl("data/placeInfo.json");
+  console.log("Places: " + data.stats.count);
 
   // Finally, render the page:
-  setPageTitle(mode, data);
+  bannerBox(mode, data);
   contentBox(mode, data);
 }
 

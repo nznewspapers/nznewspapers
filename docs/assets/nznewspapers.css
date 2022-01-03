@@ -9,7 +9,7 @@ body {
   margin-left: auto;
   margin-right: auto;
   margin-top: 0;
-  width: 850px;
+  min-width: 650px;
 }
 
 .mastheadbox {
@@ -46,23 +46,37 @@ h2 {
   text-align: left;
 }
 
+/* The menu across the top including Home, By Title, By Place, etc... */
 .menubox {
+  /* Newspaper styles */
   border-bottom: 2px solid black;
   border-top: 2px solid black;
+
+  /* Grid Fallback (if browser does not support grids, use "flex" mode). */
+  display: flex;
+  flex-wrap: wrap;
+
+  /* Supports Grid */
+  display: grid;
+  grid-column-gap: 0.8%;
+  grid-template-columns: 16% 16% 16% 16% 16% 16%;
 }
 
+/* The individualinks appearing in the menu box. */
 .menuitem {
-  /* border: 1px dotted yellow; */
-  font-variant: small-caps;
-  float: left;
-  min-height: 20px;
-  text-align: center;
-  width: 140px;
-}
-
-a.menuitem {
+  /* Newspaper styles */
+  /* border: 1px dotted red; */
+  align-items: center;
   color: black;
+  display: flex;
+  font-variant: small-caps;
+  justify-content: center;
+  min-height: 20px;
   text-decoration: none;
+
+  /* Flex Fallback (if browser does not support grids, add some spacing) */
+  margin-left: 5px;
+  margin-right: 5px;
 }
 
 .contentbox {
@@ -97,6 +111,14 @@ a.menuitem {
   min-height: 200px;
   padding: 4px;
   width: 200px;
+}
+
+.multicolumnbox {
+  /* border: 1px solid orangered; */
+  column-fill: auto;
+  column-gap: 10px;
+  column-rule: 1px solid #2c2c2c;
+  column-width: 200px;
 }
 
 .columnsection {
@@ -143,7 +165,8 @@ a {
 table.linktable {
   border-bottom: 2px solid black;
   border-top: 2px solid black;
-  width: 95%;
+  width: 98%;
+  margin-left: 1%;
 }
 
 table.linktable th {
@@ -159,6 +182,7 @@ table.linktable td {
 table.simpletable {
   border-bottom: 2px solid black;
   border-top: 2px solid black;
+  margin-left: 1%;
 }
 
 table.simpletable th {
