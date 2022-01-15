@@ -7,7 +7,6 @@ const fs = require("fs");
 const path = require("path");
 const parse = require("csv-parse");
 const nznShared = require("./nzn-shared");
-const { getSystemErrorMap } = require("util");
 
 // Confirm the required paths and input files:
 if (!fs.existsSync(nznShared.oldIdtoNewIdFilename)) {
@@ -94,26 +93,35 @@ function parsePapersPastRows(err, records) {
   }
 
   // Find the records that newspaper data now
-  console.log("Reading existing Papers Past data");
+  console.log("Scanning existing records for Papers Past ids");
   var newspaperRecords = getNewspaperRecords();
+  var papersPastTitles = {};
   var papersPastCodes = {};
   for (const [key, value] of Object.entries(newspaperRecords)) {
-    //console.log(`${key} ${value}`); // "a 5", "b 7", "c 9"
-    // console.log(key);
+    // Save the title:
+    title = newspaperRecords[key].title;
+    if (!papersPastTitles[title]) {
+      papersPastTitles[title] = [];
+    }
+    papersPastTitles[title].push(key);
+
+    // Save the code:
     if (newspaperRecords[key].idPapersPastCode) {
       code = newspaperRecords[key].idPapersPastCode;
-
       if (!papersPastCodes[code]) {
         papersPastCodes[code] = [];
       }
       papersPastCodes[code].push(key);
-      console.log(code + " -> " + papersPastCodes[code]);
     }
   }
 
   // Read and re-write the newspaper Json:
+  console.log("Reading the Papers Past data file");
+
   var count = 0;
-  var countGenre = {};
+  var countCodeMatch = 0;
+  var countTitleMatch = 0;
+  var countNoMatch = 0;
 
   records.forEach(function (arrayItem) {
     count += 1;
@@ -122,10 +130,23 @@ function parsePapersPastRows(err, records) {
     var title = arrayItem.Title;
     var url = makePapersPastUrl(title);
     // console.log(code + " -> " + url);
+
+    if (papersPastCodes[code]) {
+      console.log("Match code, update URL for " + code);
+      countCodeMatch++;
+    } else if (papersPastTitles[title]) {
+      console.log("Match title, add code and URL for: " + title);
+      countTitleMatch++;
+    } else {
+      console.log("New code / new title: " + code + " / " + title);
+      countNoMatch++;
+    }
   });
 
   console.log("End parsePapersPastRows(): " + count + " records");
-  console.log(countGenre);
+  console.log("* Code matches: " + countCodeMatch + " records");
+  console.log("* Title matches: " + countTitleMatch + " records");
+  console.log("* No match: " + countNoMatch + " records");
 }
 var newspaperParser = parse(
   {
