@@ -107,7 +107,9 @@ function addPapersPastData(id, papersPastCode, url) {
 
   // Update the paper if we made any changes.
   if (isUpdated) {
-    nznShared.writeNewspaper(id, record);
+    nznShared.addSource(id, "Test message"); // saves record
+    nznShared.writeNewspaper(id, record); // also saves rcord!
+    process.exit();
   }
   return isUpdated;
 }

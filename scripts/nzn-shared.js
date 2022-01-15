@@ -74,6 +74,23 @@ exports.readNewspaper = function (id) {
 };
 
 /**
+ * Make a copy of an object that has its keys sorted in descending order.
+ * @param {*} inputObject The object withunsorted keys.
+ * @returns A new object with keys sorted as requeted.
+ */
+function sortObjectKeysDesc(inputObject) {
+  let sortedObject = {};
+
+  var keys = Object.keys(inputObject);
+  keys.sort().reverse();
+  for (var i = 0; i < keys.length; i++) {
+    sortedObject[keys[i]] = inputObject[keys[i]];
+  }
+
+  return sortedObject;
+}
+
+/**
  * Write the data for one newspaper.
  */
 exports.writeNewspaper = function (id, record) {
@@ -109,7 +126,7 @@ exports.writeNewspaper = function (id, record) {
 
   if (newRecord.sources) {
     delete newRecord.sources;
-    newRecord.sources = record.sources;
+    newRecord.sources = sortObjectKeysDesc(record.sources);
   }
 
   if (newRecord.revision) {
@@ -120,6 +137,25 @@ exports.writeNewspaper = function (id, record) {
   }
 
   exports.writeJsonDict(newRecord, filename);
+};
+
+/**
+ * Update a newspaper record with a new source record.
+ * @param {*} id
+ * @param {*} text
+ */
+exports.addSource = function (id, text) {
+  let record = exports.readNewspaper(id);
+  let currentdate = new Date().toISOString();
+
+  let newSources = {};
+  if (record.sources) {
+    newSources = record.sources;
+  }
+  newSources[currentdate] = text;
+  record.sources = newSources;
+
+  exports.writeNewspaper(id, record);
 };
 
 /**
