@@ -6,6 +6,7 @@ const path = require("path");
 
 exports.jsonDir = path.join(process.cwd(), "docs", "data");
 exports.paperDir = path.join(exports.jsonDir, "papers");
+exports.scriptDir = path.join(process.cwd(), "scripts");
 
 exports.oldIdtoNewIdFilename = path.join(
   exports.jsonDir,
