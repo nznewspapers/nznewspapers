@@ -28,7 +28,7 @@ function logObjectKeys(theObject, label = "Unknown") {
   console.log("Examining " + label + " (" + typeof theObject + "):");
 
   if (typeof theObject == "object") {
-    var theKeys = Object.keys(theObject);
+    let theKeys = Object.keys(theObject);
     console.log(theKeys);
     theKeys.forEach(function (key) {
       console.log(" * " + key + " -> " + typeof theObject[key]);
@@ -47,10 +47,10 @@ function logObjectKeys(theObject, label = "Unknown") {
  * Make a Papers Past URL from a Papers Past newspaper title.
  */
 function makePapersPastUrl(title) {
-  var baseUrl = "https://paperspast.natlib.govt.nz/newspapers/";
+  let baseUrl = "https://paperspast.natlib.govt.nz/newspapers/";
   const space = " +";
   const dash = "-";
-  var key = title
+  let key = title
     .toLowerCase()
     .replace(/[\W_]+/g, " ")
     .trim()
@@ -63,7 +63,7 @@ function makePapersPastUrl(title) {
  * @returns A sorted list of newspaper ids.
  */
 function getNewspaperIds() {
-  var oldIdtoNewId = nznShared.readOldIdtoNewId();
+  let oldIdtoNewId = nznShared.readOldIdtoNewId();
   return Object.values(oldIdtoNewId).sort();
 }
 
@@ -81,6 +81,38 @@ function getNewspaperRecords() {
 }
 
 /**
+ * Update a newspaper record with new Papers Past information.
+ * @param {*} id
+ * @param {*} papersPastCode
+ * @param {*} url
+ * return True if the newspaper record was updated.
+ */
+function updatePapersPastData(id, papersPastCode, url) {
+  let record = nznShared.readNewspaper(id);
+  let isUpdated = false;
+
+  // Update the Papers Past code and URL:
+  if (record.idPapersPastCode && record.idPapersPastCode == papersPastCode) {
+    // do nothing
+  } else {
+    record.idPapersPastCode = papersPastCode;
+    isUpdated = true;
+  }
+  if (record.urlDigitized && record.urlDigitized == url) {
+    // do nothing
+  } else {
+    record.urlDigitized = url;
+    isUpdated = true;
+  }
+
+  // Update the paper if we made any changes.
+  if (isUpdated) {
+    nznShared.writeNewspaper(id, record);
+  }
+  return isUpdated;
+}
+
+/**
  * Process the Papers Past information records that have been extracted from the data file.
  */
 function parsePapersPastRows(err, records) {
@@ -94,9 +126,9 @@ function parsePapersPastRows(err, records) {
 
   // Find the records that newspaper data now
   console.log("Scanning existing records for Papers Past ids");
-  var newspaperRecords = getNewspaperRecords();
-  var papersPastTitles = {};
-  var papersPastCodes = {};
+  let newspaperRecords = getNewspaperRecords();
+  let papersPastTitles = {};
+  let papersPastCodes = {};
   for (const [key, value] of Object.entries(newspaperRecords)) {
     // Save the title:
     title = newspaperRecords[key].title;
@@ -118,17 +150,18 @@ function parsePapersPastRows(err, records) {
   // Read and re-write the newspaper Json:
   console.log("Reading the Papers Past data file");
 
-  var count = 0;
-  var countCodeMatch = 0;
-  var countTitleMatch = 0;
-  var countNoMatch = 0;
+  let count = 0;
+  let countCodeMatch = 0;
+  let countTitleMatch = 0;
+  let countNoMatch = 0;
+  let countChanges = 0;
 
   records.forEach(function (arrayItem) {
     count += 1;
 
-    var code = arrayItem.Code;
-    var title = arrayItem.Title;
-    var url = makePapersPastUrl(title);
+    let code = arrayItem.Code;
+    let title = arrayItem.Title;
+    let url = makePapersPastUrl(title);
     // console.log(code + " -> " + url);
 
     if (papersPastCodes[code]) {
@@ -148,7 +181,7 @@ function parsePapersPastRows(err, records) {
   console.log("* Title matches: " + countTitleMatch + " records");
   console.log("* No match: " + countNoMatch + " records");
 }
-var newspaperParser = parse(
+const newspaperParser = parse(
   {
     columns: true,
     delimiter: "\t",
