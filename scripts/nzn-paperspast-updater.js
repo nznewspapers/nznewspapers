@@ -122,7 +122,7 @@ function addPapersPastData(id, papersPastCode, url) {
 function addPapersPastDataList(idList, papersPastCode, url) {
   updates = 0;
   for (id of idList) {
-    if (addPapersPastData(id, code, url)) {
+    if (addPapersPastData(id, papersPastCode, url)) {
       updates++;
     }
   }
@@ -182,7 +182,7 @@ function parsePapersPastRows(err, records) {
     // console.log(code + " -> " + url);
 
     if (papersPastCodes[code]) {
-      console.log("Match code, update URL for " + code);
+      console.log("Match code, update URL for " + code + " (" + title + ")");
       countCodeMatch++;
       countUpdates += addPapersPastDataList(papersPastCodes[code], code, url);
     } else if (papersPastTitles[title]) {
@@ -199,6 +199,7 @@ function parsePapersPastRows(err, records) {
   console.log("* Code matches: " + countCodeMatch + " records");
   console.log("* Title matches: " + countTitleMatch + " records");
   console.log("* No match: " + countNoMatch + " records");
+  console.log("* Total updates: " + countUpdates + " records");
 }
 const newspaperParser = parse(
   {
