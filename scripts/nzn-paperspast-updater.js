@@ -85,9 +85,9 @@ function getNewspaperRecords() {
  * @param {*} id
  * @param {*} papersPastCode
  * @param {*} url
- * return True if the newspaper record was updated.
+ * @returns True if the newspaper record was updated.
  */
-function updatePapersPastData(id, papersPastCode, url) {
+function addPapersPastData(id, papersPastCode, url) {
   let record = nznShared.readNewspaper(id);
   let isUpdated = false;
 
@@ -110,6 +110,23 @@ function updatePapersPastData(id, papersPastCode, url) {
     nznShared.writeNewspaper(id, record);
   }
   return isUpdated;
+}
+
+/**
+ * Update a list of newspaper records with new Papers Past information.
+ * @param {*} idList The list of newspaper ids to be updated.
+ * @param {*} papersPastCode
+ * @param {*} url
+ * @returns The number of newspaper records updated.
+ */
+function addPapersPastDataList(idList, papersPastCode, url) {
+  updates = 0;
+  for (id of idList) {
+    if (addPapersPastData(id, code, url)) {
+      updates++;
+    }
+  }
+  return updates;
 }
 
 /**
@@ -154,7 +171,7 @@ function parsePapersPastRows(err, records) {
   let countCodeMatch = 0;
   let countTitleMatch = 0;
   let countNoMatch = 0;
-  let countChanges = 0;
+  let countUpdates = 0;
 
   records.forEach(function (arrayItem) {
     count += 1;
@@ -167,9 +184,11 @@ function parsePapersPastRows(err, records) {
     if (papersPastCodes[code]) {
       console.log("Match code, update URL for " + code);
       countCodeMatch++;
+      countUpdates += addPapersPastDataList(papersPastCodes[code], code, url);
     } else if (papersPastTitles[title]) {
       console.log("Match title, add code and URL for: " + title);
       countTitleMatch++;
+      countUpdates += addPapersPastDataList(papersPastTitles[title], code, url);
     } else {
       console.log("New code / new title: " + code + " / " + title);
       countNoMatch++;
