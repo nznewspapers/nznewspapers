@@ -112,7 +112,6 @@ function addPapersPastData(id, papersPastCode, url) {
       record,
       "Updated Papers Past info using the nzn-paperspast-updater.js script."
     );
-    process.exit();
   }
   return isUpdated;
 }
