@@ -147,6 +147,7 @@ function parsePapersPastRows(err, records) {
 
   // Find the records that newspaper data now
   console.log("Scanning existing records for Papers Past ids");
+
   let newspaperRecords = getNewspaperRecords();
   let papersPastTitles = {};
   let papersPastCodes = {};
@@ -205,6 +206,7 @@ function parsePapersPastRows(err, records) {
   console.log("* No match: " + countNoMatch + " records");
   console.log("* Total updates: " + countUpdates + " records");
 }
+
 const newspaperParser = parse(
   {
     columns: true,
