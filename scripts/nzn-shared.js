@@ -93,12 +93,20 @@ function sortObjectKeysDesc(inputObject) {
 /**
  * Write the data for one newspaper.
  */
-exports.writeNewspaper = function (id, record) {
+exports.writeNewspaper = function (id, record, source = null) {
   const filename = path.join(exports.paperDir, id + ".json");
 
-  newRecord = {};
+  // Add the information source if one hs been supplied:
+  if (source) {
+    if (!record.sources) {
+      record.sources = {};
+    }
+    let currentdate = new Date().toISOString();
+    record.sources[currentdate] = source;
+  }
 
   // Add the entries we want to appear first:
+  newRecord = {};
   newRecord.id = record.id;
   newRecord.title = record.title;
   newRecord.genre = record.genre;
@@ -124,11 +132,13 @@ exports.writeNewspaper = function (id, record) {
     newRecord.links = record.links;
   }
 
+  // Re-insert the sources, and sort them too:
   if (newRecord.sources) {
     delete newRecord.sources;
     newRecord.sources = sortObjectKeysDesc(record.sources);
   }
 
+  // Update the file revision number, just because:
   if (newRecord.revision) {
     delete newRecord.revision;
     newRecord.revision = record.revision + 1;
@@ -137,25 +147,6 @@ exports.writeNewspaper = function (id, record) {
   }
 
   exports.writeJsonDict(newRecord, filename);
-};
-
-/**
- * Update a newspaper record with a new source record.
- * @param {*} id
- * @param {*} text
- */
-exports.addSource = function (id, text) {
-  let record = exports.readNewspaper(id);
-  let currentdate = new Date().toISOString();
-
-  let newSources = {};
-  if (record.sources) {
-    newSources = record.sources;
-  }
-  newSources[currentdate] = text;
-  record.sources = newSources;
-
-  exports.writeNewspaper(id, record);
 };
 
 /**
