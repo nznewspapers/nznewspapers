@@ -110,7 +110,7 @@ function addPapersPastData(id, papersPastCode, url) {
     nznShared.writeNewspaper(
       id,
       record,
-      "Updated Papers Past data with the nzn-paperspast-updater.js script."
+      "Updated Papers Past info using the nzn-paperspast-updater.js script."
     );
     process.exit();
   }
