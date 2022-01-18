@@ -9,13 +9,16 @@
   "firstIssueDate": "1842-08-29",
   "idMarcControlNumber": "4870955",
   "idNZNewspapersV1": "25",
+  "idPapersPastCode": "AKTIM",
   "isCurrent": false,
   "placecode": "02-01-auckland",
   "placename": "Auckland",
   "region": "Auckland",
+  "urlDigitized": "https://paperspast.natlib.govt.nz/newspapers/auckland-times",
   "sources": {
-    "2013-04-02T08:58:38.000Z": "Extracted from the New Zealand National Bibliography (MARC record 4870955) downloaded March 2013.",
-    "2013-10-31T10:01:56.000Z": "Modified by gordon.paynter"
+    "2022-01-18T05:21:02.260Z": "Updated Papers Past info using the nzn-paperspast-updater.js script.",
+    "2013-10-31T10:01:56.000Z": "Modified by gordon.paynter",
+    "2013-04-02T08:58:38.000Z": "Extracted from the New Zealand National Bibliography (MARC record 4870955) downloaded March 2013."
   },
-  "revision": 6
+  "revision": 7
 }
