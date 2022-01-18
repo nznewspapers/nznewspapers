@@ -11,13 +11,14 @@
       "firstYear": "1864",
       "finalYear": "9999",
       "urlCurrent": "http://www.stuff.co.nz/stuff/timaruherald/",
-      "urlDigitized": "http://paperspast.natlib.govt.nz/cgi-bin/paperspast?a=d&cl=CL1.THD"
+      "urlDigitized": "https://paperspast.natlib.govt.nz/newspapers/timaru-herald"
     },
     {
       "id": "2519",
       "title": "South Canterbury Times",
       "firstYear": "1873",
-      "finalYear": "1901"
+      "finalYear": "1901",
+      "urlDigitized": "https://paperspast.natlib.govt.nz/newspapers/south-canterbury-times"
     },
     {
       "id": "2521",

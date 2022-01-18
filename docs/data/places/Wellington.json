@@ -11,28 +11,28 @@
       "firstYear": "1841",
       "finalYear": "1841",
       "urlCurrent": "http://ndhadeliver.natlib.govt.nz/content-aggregator/getIEs?system=ilsdb&id=932905",
-      "urlDigitized": "http://paperspast.natlib.govt.nz/cgi-bin/paperspast?a=d&cl=CL1.VT"
+      "urlDigitized": "https://paperspast.natlib.govt.nz/newspapers/victoria-times"
     },
     {
       "id": "2097",
       "title": "The New Zealand Colonist and Port Nicholson Advertiser",
       "firstYear": "1842",
       "finalYear": "1843",
-      "urlDigitized": "http://paperspast.natlib.govt.nz/cgi-bin/paperspast?a=d&cl=CL1.NZCPNA"
+      "urlDigitized": "https://paperspast.natlib.govt.nz/newspapers/new-zealand-colonist-and-port-nicholson-advertiser"
     },
     {
       "id": "2098",
       "title": "The New Zealand Spectator and Cook's Strait Guardian",
       "firstYear": "1844",
       "finalYear": "1865",
-      "urlDigitized": "http://paperspast.natlib.govt.nz/cgi-bin/paperspast?a=d&cl=CL1.NZSCSG&e=-------10--1----0--"
+      "urlDigitized": "https://paperspast.natlib.govt.nz/newspapers/new-zealand-spectator-and-cook-s-strait-guardian"
     },
     {
       "id": "2072",
       "title": "The Wellington Independent",
       "firstYear": "1845",
       "finalYear": "1874",
-      "urlDigitized": "http://paperspast.natlib.govt.nz/cgi-bin/paperspast?a=d&cl=CL1.WI"
+      "urlDigitized": "https://paperspast.natlib.govt.nz/newspapers/wellington-independent"
     },
     {
       "id": "2099",
@@ -52,13 +52,14 @@
       "title": "The Evening Post",
       "firstYear": "1865",
       "finalYear": "2002",
-      "urlDigitized": "http://paperspast.natlib.govt.nz/cgi-bin/paperspast?a=d&cl=CL1.EP"
+      "urlDigitized": "https://paperspast.natlib.govt.nz/newspapers/evening-post"
     },
     {
       "id": "2102",
       "title": "New Zealand Times",
       "firstYear": "1867",
-      "finalYear": "1869"
+      "finalYear": "1869",
+      "urlDigitized": "https://paperspast.natlib.govt.nz/newspapers/new-zealand-times"
     },
     {
       "id": "2103",
@@ -90,7 +91,7 @@
       "title": "New Zealand Times",
       "firstYear": "1874",
       "finalYear": "1927",
-      "urlDigitized": "http://paperspast.natlib.govt.nz/cgi-bin/paperspast?a=d&cl=CL1.WI"
+      "urlDigitized": "https://paperspast.natlib.govt.nz/newspapers/wellington-independent"
     },
     {
       "id": "2107",
@@ -223,7 +224,7 @@
       "title": "Free Lance",
       "firstYear": "1900",
       "finalYear": "1960",
-      "urlDigitized": "http://paperspast.natlib.govt.nz/cgi-bin/paperspast?a=d&cl=CL1.NZFL"
+      "urlDigitized": "https://paperspast.natlib.govt.nz/newspapers/free-lance"
     },
     {
       "id": "2129",
@@ -236,7 +237,7 @@
       "title": "N.Z. Truth",
       "firstYear": "1905",
       "finalYear": "1988",
-      "urlDigitized": "http://paperspast.natlib.govt.nz/cgi-bin/paperspast?a=d&cl=CL1.NZTR"
+      "urlDigitized": "https://paperspast.natlib.govt.nz/newspapers/nz-truth"
     },
     {
       "id": "2131",
@@ -255,7 +256,7 @@
       "title": "The Dominion",
       "firstYear": "1907",
       "finalYear": "2002",
-      "urlDigitized": "http://paperspast.natlib.govt.nz/cgi-bin/paperspast?a=d&cl=CL1.DOM"
+      "urlDigitized": "https://paperspast.natlib.govt.nz/newspapers/dominion"
     },
     {
       "id": "2134",
@@ -274,7 +275,7 @@
       "title": "The Maoriland Worker",
       "firstYear": "1910",
       "finalYear": "1924",
-      "urlDigitized": "http://paperspast.natlib.govt.nz/cgi-bin/paperspast?a=d&cl=CL1.MW"
+      "urlDigitized": "https://paperspast.natlib.govt.nz/newspapers/maoriland-worker"
     },
     {
       "id": "2137",

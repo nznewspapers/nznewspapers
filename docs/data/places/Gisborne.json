@@ -16,7 +16,7 @@
       "title": "The Poverty Bay Herald",
       "firstYear": "1874",
       "finalYear": "1939",
-      "urlDigitized": "http://paperspast.natlib.govt.nz/cgi-bin/paperspast?a=d&cl=CL1.PBH"
+      "urlDigitized": "https://paperspast.natlib.govt.nz/newspapers/poverty-bay-herald"
     },
     {
       "id": "1698",
@@ -41,7 +41,8 @@
       "id": "1707",
       "title": "Takitimu",
       "firstYear": "1883",
-      "finalYear": "1883"
+      "finalYear": "1883",
+      "urlDigitized": "https://paperspast.natlib.govt.nz/newspapers/takitimu"
     },
     {
       "id": "1708",
@@ -79,7 +80,8 @@
       "id": "1713",
       "title": "Gisborne Times",
       "firstYear": "1896",
-      "finalYear": "1938"
+      "finalYear": "1938",
+      "urlDigitized": "https://paperspast.natlib.govt.nz/newspapers/gisborne-times"
     },
     {
       "id": "1716",
@@ -98,7 +100,8 @@
       "title": "Gisborne Herald",
       "firstYear": "1939",
       "finalYear": "9999",
-      "urlCurrent": "http://www.gisborneherald.co.nz/"
+      "urlCurrent": "http://www.gisborneherald.co.nz/",
+      "urlDigitized": "https://paperspast.natlib.govt.nz/newspapers/gisborne-herald"
     },
     {
       "id": "1722",

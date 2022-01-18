@@ -23,7 +23,7 @@
         "region": "Canterbury",
         "district": "Christchurch City",
         "placename": "Akaroa",
-        "urlDigitized": "http://paperspast.natlib.govt.nz/cgi-bin/paperspast?a=d&cl=CL1.AMBPA"
+        "urlDigitized": "https://paperspast.natlib.govt.nz/newspapers/akaroa-mail-and-banks-peninsula-advertiser"
       },
       {
         "id": 1233,
@@ -51,7 +51,7 @@
         "region": "Northland",
         "district": "Kaipara District",
         "placename": "Port Albert",
-        "urlDigitized": "http://paperspast.natlib.govt.nz/cgi-bin/paperspast?a=d&cl=CL1.ALG"
+        "urlDigitized": "https://paperspast.natlib.govt.nz/newspapers/albertland-gazette"
       },
       {
         "id": 1394,
@@ -70,7 +70,8 @@
         "region": "Auckland",
         "district": "Auckland",
         "placename": "Auckland",
-        "urlCurrent": "http://nzdl.org/cgi-bin/library?gg=_cgiarggg_&e=d-00000-00---off-0niupepa--00-0--0-10-0---0---0prompt-10---4-------0-1l--11-en-50---20-about---00-0-1-00-0-0-11-1-0utfZz-8-00&a=d&c=niupepa&cl=CL1.2"
+        "urlCurrent": "http://nzdl.org/cgi-bin/library?gg=_cgiarggg_&e=d-00000-00---off-0niupepa--00-0--0-10-0---0---0prompt-10---4-------0-1l--11-en-50---20-about---00-0-1-00-0-0-11-1-0utfZz-8-00&a=d&c=niupepa&cl=CL1.2",
+        "urlDigitized": "https://paperspast.natlib.govt.nz/newspapers/anglo-maori-warder"
       },
       {
         "id": 2317,
@@ -98,7 +99,7 @@
         "region": "Waikato",
         "district": "Matamata-Piako District",
         "placename": "Te Aroha",
-        "urlDigitized": "http://paperspast.natlib.govt.nz/cgi-bin/paperspast?a=d&cl=CL1.TAN"
+        "urlDigitized": "https://paperspast.natlib.govt.nz/newspapers/te-aroha-news"
       },
       {
         "id": 2514,
@@ -118,7 +119,7 @@
         "district": "Ashburton District",
         "placename": "Ashburton",
         "urlCurrent": "http://www.ashburtonguardian.co.nz/",
-        "urlDigitized": "http://paperspast.natlib.govt.nz/cgi-bin/paperspast?a=d&cl=CL1.AG"
+        "urlDigitized": "https://paperspast.natlib.govt.nz/newspapers/ashburton-guardian"
       },
       {
         "id": 2508,
@@ -127,7 +128,8 @@
         "finalYear": "1880",
         "region": "Canterbury",
         "district": "Ashburton District",
-        "placename": "Ashburton"
+        "placename": "Ashburton",
+        "urlDigitized": "https://paperspast.natlib.govt.nz/newspapers/ashburton-herald"
       },
       {
         "id": 2511,
@@ -163,7 +165,8 @@
         "finalYear": "1845",
         "region": "Auckland",
         "district": "Auckland",
-        "placename": "Auckland"
+        "placename": "Auckland",
+        "urlDigitized": "https://paperspast.natlib.govt.nz/newspapers/auckland-chronicle-and-new-zealand-colonist"
       },
       {
         "id": 1405,
@@ -254,7 +257,7 @@
         "region": "Auckland",
         "district": "Auckland",
         "placename": "Auckland",
-        "urlDigitized": "http://paperspast.natlib.govt.nz/cgi-bin/paperspast?a=d&cl=CL1.AS"
+        "urlDigitized": "https://paperspast.natlib.govt.nz/newspapers/auckland-star"
       },
       {
         "id": 1283,
@@ -263,7 +266,8 @@
         "finalYear": "1846",
         "region": "Auckland",
         "district": "Auckland",
-        "placename": "Auckland"
+        "placename": "Auckland",
+        "urlDigitized": "https://paperspast.natlib.govt.nz/newspapers/auckland-times"
       },
       {
         "id": 1334,
@@ -384,7 +388,7 @@
         "region": "Bay of Plenty",
         "district": "Whakatane District",
         "placename": "Whakatane",
-        "urlDigitized": "http://paperspast.natlib.govt.nz/cgi-bin/paperspast?a=d&cl=CL1.BPB"
+        "urlDigitized": "https://paperspast.natlib.govt.nz/newspapers/bay-of-plenty-beacon"
       },
       {
         "id": 1649,
@@ -431,7 +435,7 @@
         "district": "Tauranga City",
         "placename": "Tauranga",
         "urlCurrent": "http://www.bayofplentytimes.co.nz",
-        "urlDigitized": "http://paperspast.natlib.govt.nz/cgi-bin/paperspast?a=d&cl=CL1.BOPT"
+        "urlDigitized": "https://paperspast.natlib.govt.nz/newspapers/bay-of-plenty-times"
       },
       {
         "id": 1032,
@@ -576,7 +580,7 @@
         "region": "Otago",
         "district": "Clutha District",
         "placename": "Milton",
-        "urlDigitized": "http://paperspast.natlib.govt.nz/cgi-bin/paperspast?a=d&cl=CL1.BH"
+        "urlDigitized": "https://paperspast.natlib.govt.nz/newspapers/bruce-herald"
       },
       {
         "id": 2639,
@@ -685,7 +689,7 @@
         "region": "Manawatu-Wanganui",
         "district": "Tararua District",
         "placename": "Dannevirke",
-        "urlDigitized": "http://paperspast.natlib.govt.nz/cgi-bin/paperspast?a=d&cl=CL1.BA"
+        "urlDigitized": "https://paperspast.natlib.govt.nz/newspapers/bush-advocate"
       },
       {
         "id": 1945,
@@ -960,7 +964,7 @@
         "region": "West Coast",
         "district": "Buller District",
         "placename": "Charleston",
-        "urlDigitized": "http://paperspast.natlib.govt.nz/cgi-bin/paperspast?a=d&cl=CL1.CHARG"
+        "urlDigitized": "https://paperspast.natlib.govt.nz/newspapers/charleston-argus"
       },
       {
         "id": 2288,
@@ -1378,7 +1382,7 @@
         "district": "Clutha District",
         "placename": "Balclutha",
         "urlCurrent": "http://cluthaleader.realviewdigital.com/",
-        "urlDigitized": "http://paperspast.natlib.govt.nz/cgi-bin/paperspast?a=d&cl=CL1.CL"
+        "urlDigitized": "https://paperspast.natlib.govt.nz/newspapers/clutha-leader"
       },
       {
         "id": 2641,
@@ -1451,7 +1455,7 @@
         "region": "Top of the South",
         "district": "Nelson City",
         "placename": "Nelson",
-        "urlDigitized": "http://paperspast.natlib.govt.nz/cgi-bin/paperspast?a=d&cl=CL1.TC"
+        "urlDigitized": "https://paperspast.natlib.govt.nz/newspapers/colonist"
       },
       {
         "id": 2574,
@@ -1822,7 +1826,8 @@
         "finalYear": "1948",
         "region": "Otago",
         "district": "Central Otago District",
-        "placename": "Cromwell"
+        "placename": "Cromwell",
+        "urlDigitized": "https://paperspast.natlib.govt.nz/newspapers/cromwell-argus"
       }
     ],
     "Dd": [
@@ -1898,7 +1903,7 @@
         "region": "Auckland",
         "district": "Auckland",
         "placename": "Auckland",
-        "urlDigitized": "http://paperspast.natlib.govt.nz/cgi-bin/paperspast?a=d&cl=CL1.DSC"
+        "urlDigitized": "https://paperspast.natlib.govt.nz/newspapers/daily-southern-cross"
       },
       {
         "id": 2576,
@@ -1917,7 +1922,7 @@
         "region": "Hawke's Bay",
         "district": "Napier City",
         "placename": "Napier",
-        "urlDigitized": "http://paperspast.natlib.govt.nz/cgi-bin/paperspast?a=d&cl=CL1.DTN"
+        "urlDigitized": "https://paperspast.natlib.govt.nz/newspapers/daily-telegraph"
       },
       {
         "id": 1505,
@@ -1927,7 +1932,7 @@
         "region": "Waikato",
         "district": "Hauraki District",
         "placename": "Waihi",
-        "urlDigitized": "http://paperspast.natlib.govt.nz/cgi-bin/paperspast?a=d&cl=CL1.WHDT"
+        "urlDigitized": "https://paperspast.natlib.govt.nz/newspapers/waihi-daily-telegraph"
       },
       {
         "id": 1446,
@@ -1946,7 +1951,7 @@
         "region": "Manawatu-Wanganui",
         "district": "Tararua District",
         "placename": "Dannevirke",
-        "urlDigitized": "http://paperspast.natlib.govt.nz/cgi-bin/paperspast?a=d&cl=CL1.BA"
+        "urlDigitized": "https://paperspast.natlib.govt.nz/newspapers/bush-advocate"
       },
       {
         "id": 1946,
@@ -2083,7 +2088,7 @@
         "region": "Wellington",
         "district": "Wellington City",
         "placename": "Wellington",
-        "urlDigitized": "http://paperspast.natlib.govt.nz/cgi-bin/paperspast?a=d&cl=CL1.DOM"
+        "urlDigitized": "https://paperspast.natlib.govt.nz/newspapers/dominion"
       },
       {
         "id": 2206,
@@ -2192,7 +2197,8 @@
         "finalYear": "1948",
         "region": "Otago",
         "district": "Central Otago District",
-        "placename": "Clyde"
+        "placename": "Clyde",
+        "urlDigitized": "https://paperspast.natlib.govt.nz/newspapers/dunstan-times"
       }
     ],
     "Ee": [
@@ -2537,7 +2543,7 @@
         "region": "Canterbury",
         "district": "Selwyn District",
         "placename": "Leeston",
-        "urlDigitized": "http://paperspast.natlib.govt.nz/cgi-bin/paperspast?a=d&cl=CL1.EG"
+        "urlDigitized": "https://paperspast.natlib.govt.nz/newspapers/ellesmere-guardian"
       },
       {
         "id": 2698,
@@ -2612,7 +2618,7 @@
         "region": "Manawatu-Wanganui",
         "district": "Wanganui District",
         "placename": "Whanganui",
-        "urlDigitized": "http://paperspast.natlib.govt.nz/cgi-bin/paperspast?a=d&cl=CL1.WH"
+        "urlDigitized": "https://paperspast.natlib.govt.nz/newspapers/wanganui-herald"
       },
       {
         "id": 2604,
@@ -2640,7 +2646,7 @@
         "region": "Canterbury",
         "district": "Waitaki District",
         "placename": "Oamaru",
-        "urlDigitized": "http://paperspast.natlib.govt.nz/cgi-bin/paperspast?a=d&cl=CL1.OAM"
+        "urlDigitized": "https://paperspast.natlib.govt.nz/newspapers/oamaru-mail"
       },
       {
         "id": 2583,
@@ -2722,7 +2728,7 @@
         "region": "Wellington",
         "district": "Wellington City",
         "placename": "Wellington",
-        "urlDigitized": "http://paperspast.natlib.govt.nz/cgi-bin/paperspast?a=d&cl=CL1.EP"
+        "urlDigitized": "https://paperspast.natlib.govt.nz/newspapers/evening-post"
       },
       {
         "id": 2114,
@@ -2749,7 +2755,8 @@
         "finalYear": "1979",
         "region": "Otago",
         "district": "Dunedin City",
-        "placename": "Dunedin"
+        "placename": "Dunedin",
+        "urlDigitized": "https://paperspast.natlib.govt.nz/newspapers/evening-star"
       },
       {
         "id": 2321,
@@ -2758,7 +2765,8 @@
         "finalYear": "1884",
         "region": "West Coast",
         "district": "Westland District",
-        "placename": "Hokitika"
+        "placename": "Hokitika",
+        "urlDigitized": "https://paperspast.natlib.govt.nz/newspapers/evening-star"
       },
       {
         "id": 1471,
@@ -2767,7 +2775,8 @@
         "finalYear": "1893",
         "region": "Waikato",
         "district": "Thames-Coromandel District",
-        "placename": "Thames"
+        "placename": "Thames",
+        "urlDigitized": "https://paperspast.natlib.govt.nz/newspapers/thames-star"
       },
       {
         "id": 1299,
@@ -2777,7 +2786,7 @@
         "region": "Auckland",
         "district": "Auckland",
         "placename": "Auckland",
-        "urlDigitized": "http://paperspast.natlib.govt.nz/cgi-bin/paperspast?a=d&cl=CL1.AS"
+        "urlDigitized": "https://paperspast.natlib.govt.nz/newspapers/evening-star"
       },
       {
         "id": 1311,
@@ -2996,7 +3005,7 @@
         "region": "Manawatu-Wanganui",
         "district": "Manawatu District",
         "placename": "Feilding",
-        "urlDigitized": "http://paperspast.natlib.govt.nz/cgi-bin/paperspast?a=d&cl=CL1.FS"
+        "urlDigitized": "https://paperspast.natlib.govt.nz/newspapers/feilding-star"
       },
       {
         "id": 2209,
@@ -3115,7 +3124,7 @@
         "region": "Auckland",
         "district": "Auckland",
         "placename": "Pukekohe",
-        "urlDigitized": "http://paperspast.natlib.govt.nz/cgi-bin/paperspast?a=d&cl=CL1.PWT"
+        "urlDigitized": "https://paperspast.natlib.govt.nz/newspapers/pukekohe-waiuku-times"
       },
       {
         "id": 1094,
@@ -3124,7 +3133,8 @@
         "finalYear": "1971",
         "region": "Auckland",
         "district": "Auckland",
-        "placename": "Pukekohe"
+        "placename": "Pukekohe",
+        "urlDigitized": "https://paperspast.natlib.govt.nz/newspapers/franklin-times"
       },
       {
         "id": 1173,
@@ -3179,7 +3189,7 @@
         "region": "Wellington",
         "district": "Wellington City",
         "placename": "Wellington",
-        "urlDigitized": "http://paperspast.natlib.govt.nz/cgi-bin/paperspast?a=d&cl=CL1.NZFL"
+        "urlDigitized": "https://paperspast.natlib.govt.nz/newspapers/free-lance"
       },
       {
         "id": 2645,
@@ -3300,7 +3310,8 @@
         "region": "Gisborne",
         "district": "Gisborne District",
         "placename": "Gisborne",
-        "urlCurrent": "http://www.gisborneherald.co.nz/"
+        "urlCurrent": "http://www.gisborneherald.co.nz/",
+        "urlDigitized": "https://paperspast.natlib.govt.nz/newspapers/gisborne-herald"
       },
       {
         "id": 1711,
@@ -3318,7 +3329,8 @@
         "finalYear": "1938",
         "region": "Gisborne",
         "district": "Gisborne District",
-        "placename": "Gisborne"
+        "placename": "Gisborne",
+        "urlDigitized": "https://paperspast.natlib.govt.nz/newspapers/gisborne-times"
       },
       {
         "id": 1207,
@@ -3354,7 +3366,8 @@
         "finalYear": "1883",
         "region": "Canterbury",
         "district": "Christchurch City",
-        "placename": "Christchurch"
+        "placename": "Christchurch",
+        "urlDigitized": "https://paperspast.natlib.govt.nz/newspapers/globe"
       },
       {
         "id": 1484,
@@ -3372,7 +3385,8 @@
         "finalYear": "1915",
         "region": "Top of the South",
         "district": "Tasman District",
-        "placename": "Collingwood"
+        "placename": "Collingwood",
+        "urlDigitized": "https://paperspast.natlib.govt.nz/newspapers/golden-bay-argus"
       },
       {
         "id": 2233,
@@ -3526,7 +3540,8 @@
         "finalYear": "2006",
         "region": "West Coast",
         "district": "Grey District",
-        "placename": "Greymouth"
+        "placename": "Greymouth",
+        "urlDigitized": "https://paperspast.natlib.govt.nz/newspapers/greymouth-evening-star"
       },
       {
         "id": 2311,
@@ -3536,7 +3551,7 @@
         "region": "West Coast",
         "district": "Grey District",
         "placename": "Greymouth",
-        "urlDigitized": "http://paperspast.natlib.govt.nz/cgi-bin/paperspast?a=d&cl=CL1.GRA"
+        "urlDigitized": "https://paperspast.natlib.govt.nz/newspapers/grey-river-argus"
       },
       {
         "id": 2024,
@@ -3764,7 +3779,8 @@
         "finalYear": "1910",
         "region": "Hawke's Bay",
         "district": "Hastings District",
-        "placename": "Hastings"
+        "placename": "Hastings",
+        "urlDigitized": "https://paperspast.natlib.govt.nz/newspapers/hastings-standard"
       },
       {
         "id": 1731,
@@ -3837,7 +3853,7 @@
         "region": "Taranaki",
         "district": "South Taranaki District",
         "placename": "Hawera",
-        "urlDigitized": "http://paperspast.natlib.govt.nz/cgi-bin/paperspast?a=d&cl=CL1.HNS"
+        "urlDigitized": "https://paperspast.natlib.govt.nz/newspapers/hawera-normanby-star"
       },
       {
         "id": 1836,
@@ -3846,7 +3862,8 @@
         "finalYear": "1984",
         "region": "Taranaki",
         "district": "South Taranaki District",
-        "placename": "Hawera"
+        "placename": "Hawera",
+        "urlDigitized": "https://paperspast.natlib.govt.nz/newspapers/hawera-star"
       },
       {
         "id": 1757,
@@ -3856,7 +3873,7 @@
         "region": "Hawke's Bay",
         "district": "Napier City",
         "placename": "Napier",
-        "urlDigitized": "http://paperspast.natlib.govt.nz/cgi-bin/paperspast?a=d&cl=CL1.HBH"
+        "urlDigitized": "https://paperspast.natlib.govt.nz/newspapers/hawke-s-bay-herald"
       },
       {
         "id": 1736,
@@ -3883,7 +3900,8 @@
         "finalYear": "1874",
         "region": "Hawke's Bay",
         "district": "Napier City",
-        "placename": "Napier"
+        "placename": "Napier",
+        "urlDigitized": "https://paperspast.natlib.govt.nz/newspapers/hawke-s-bay-times"
       },
       {
         "id": 1751,
@@ -4118,7 +4136,8 @@
         "finalYear": "1988",
         "region": "West Coast",
         "district": "Westland District",
-        "placename": "Hokitika"
+        "placename": "Hokitika",
+        "urlDigitized": "https://paperspast.natlib.govt.nz/newspapers/hokitika-guardian"
       },
       {
         "id": 2343,
@@ -4184,7 +4203,8 @@
         "finalYear": "1916",
         "region": "Bay of Plenty",
         "district": "Rotorua District",
-        "placename": "Rotorua"
+        "placename": "Rotorua",
+        "urlDigitized": "https://paperspast.natlib.govt.nz/newspapers/hot-lakes-chronicle"
       },
       {
         "id": 1251,
@@ -4285,7 +4305,8 @@
         "region": "Hawke's Bay",
         "district": "Hastings District",
         "placename": "Hastings",
-        "urlCurrent": "http://nzdl.org/cgi-bin/library?gg=_cgiarggg_&e=d-00000-00---0niupepa--00-0--0-10-0---0---0prompt-10---4-------0-1l--11-en-50---20-about---00-0-1-00-11-1-0utfZz-8-00&a=d&c=niupepa&cl=CL1.25"
+        "urlCurrent": "http://nzdl.org/cgi-bin/library?gg=_cgiarggg_&e=d-00000-00---0niupepa--00-0--0-10-0---0---0prompt-10---4-------0-1l--11-en-50---20-about---00-0-1-00-11-1-0utfZz-8-00&a=d&c=niupepa&cl=CL1.25",
+        "urlDigitized": "https://paperspast.natlib.govt.nz/newspapers/huia-tangata-kotahi"
       },
       {
         "id": 1875,
@@ -4312,7 +4333,8 @@
         "finalYear": "1995",
         "region": "Waikato",
         "district": "Waikato District",
-        "placename": "Huntly"
+        "placename": "Huntly",
+        "urlDigitized": "https://paperspast.natlib.govt.nz/newspapers/huntly-press-and-district-gazette"
       },
       {
         "id": 2348,
@@ -4341,7 +4363,7 @@
         "district": "Hutt City",
         "placename": "Lower Hutt",
         "urlCurrent": "http://www.stuff.co.nz/dominion-post/news/local-papers/hutt-news",
-        "urlDigitized": "http://paperspast.natlib.govt.nz/cgi-bin/paperspast?a=d&cl=CL1.HN"
+        "urlDigitized": "https://paperspast.natlib.govt.nz/newspapers/hutt-news"
       },
       {
         "id": 2060,
@@ -4360,7 +4382,7 @@
         "region": "Wellington",
         "district": "Upper Hutt City",
         "placename": "Upper Hutt",
-        "urlDigitized": "http://paperspast.natlib.govt.nz/cgi-bin/paperspast?a=d&cl=CL1.HVI"
+        "urlDigitized": "https://paperspast.natlib.govt.nz/newspapers/hutt-valley-independent"
       },
       {
         "id": 2026,
@@ -4444,7 +4466,7 @@
         "region": "West Coast",
         "district": "Buller District",
         "placename": "Reefton",
-        "urlDigitized": "http://paperspast.natlib.govt.nz/cgi-bin/paperspast?a=d&cl=CL1.IT"
+        "urlDigitized": "https://paperspast.natlib.govt.nz/newspapers/inangahua-times"
       },
       {
         "id": 1239,
@@ -4563,7 +4585,7 @@
         "region": "Southland",
         "district": "Southland District",
         "placename": "Invercargill",
-        "urlDigitized": "http://paperspast.natlib.govt.nz/cgi-bin/paperspast?a=d&cl=CL1.ST"
+        "urlDigitized": "https://paperspast.natlib.govt.nz/newspapers/southland-times"
       },
       {
         "id": 1386,
@@ -4638,7 +4660,8 @@
         "region": "Manawatu-Wanganui",
         "district": "Wanganui District",
         "placename": "Whanganui",
-        "urlCurrent": "http://nzdl.org/cgi-bin/library?gg=_cgiarggg_&e=d-00000-00---0niupepa--00-0--0-10-0---0---0prompt-10---4-------0-1l--11-en-50---20-about---00-0-1-00-11-1-0utfZz-8-00&a=d&c=niupepa&cl=CL1.30"
+        "urlCurrent": "http://nzdl.org/cgi-bin/library?gg=_cgiarggg_&e=d-00000-00---0niupepa--00-0--0-10-0---0---0prompt-10---4-------0-1l--11-en-50---20-about---00-0-1-00-11-1-0utfZz-8-00&a=d&c=niupepa&cl=CL1.30",
+        "urlDigitized": "https://paperspast.natlib.govt.nz/newspapers/jubilee-te-tiupiri"
       },
       {
         "id": 2116,
@@ -4741,7 +4764,7 @@
         "region": "Auckland",
         "district": "Auckland",
         "placename": "Helensville",
-        "urlDigitized": "http://paperspast.natlib.govt.nz/cgi-bin/paperspast?a=d&cl=CL1.KWE"
+        "urlDigitized": "https://paperspast.natlib.govt.nz/newspapers/kaipara-and-waitemata-echo"
       },
       {
         "id": 1089,
@@ -4751,7 +4774,7 @@
         "region": "Auckland",
         "district": "Auckland",
         "placename": "Helensville",
-        "urlDigitized": "http://paperspast.natlib.govt.nz/cgi-bin/paperspast?a=d&cl=CL1.KWE"
+        "urlDigitized": "https://paperspast.natlib.govt.nz/newspapers/kaipara-and-waitemata-echo"
       },
       {
         "id": 1072,
@@ -4961,7 +4984,8 @@
         "finalYear": "1936",
         "region": "Waikato",
         "district": "Otorohanga District",
-        "placename": "Kawhia"
+        "placename": "Kawhia",
+        "urlDigitized": "https://paperspast.natlib.govt.nz/newspapers/kawhia-settler-and-raglan-advertiser"
       },
       {
         "id": 1022,
@@ -4989,7 +5013,7 @@
         "region": "Waikato",
         "district": "Waitomo District",
         "placename": "Te Kuiti",
-        "urlDigitized": "http://paperspast.natlib.govt.nz/cgi-bin/paperspast?a=d&cl=CL1.KCC"
+        "urlDigitized": "https://paperspast.natlib.govt.nz/newspapers/king-country-chronicle"
       },
       {
         "id": 1991,
@@ -5073,7 +5097,8 @@
         "finalYear": "1917",
         "region": "West Coast",
         "district": "Westland District",
-        "placename": "Kumara"
+        "placename": "Kumara",
+        "urlDigitized": "https://paperspast.natlib.govt.nz/newspapers/kumara-times"
       }
     ],
     "Ll": [
@@ -5102,7 +5127,8 @@
         "finalYear": "1948",
         "region": "Otago",
         "district": "Queenstown-Lakes District",
-        "placename": "Queenstown"
+        "placename": "Queenstown",
+        "urlDigitized": "https://paperspast.natlib.govt.nz/newspapers/lake-county-mail"
       },
       {
         "id": 2556,
@@ -5111,7 +5137,8 @@
         "finalYear": "1928",
         "region": "Otago",
         "district": "Queenstown-Lakes District",
-        "placename": "Arrowtown"
+        "placename": "Arrowtown",
+        "urlDigitized": "https://paperspast.natlib.govt.nz/newspapers/lake-county-press"
       },
       {
         "id": 2555,
@@ -5121,7 +5148,7 @@
         "region": "Otago",
         "district": "Queenstown-Lakes District",
         "placename": "Queenstown",
-        "urlDigitized": "http://paperspast.natlib.govt.nz/cgi-bin/paperspast?a=d&cl=CL1.LWM"
+        "urlDigitized": "https://paperspast.natlib.govt.nz/newspapers/lake-wakatip-mail"
       },
       {
         "id": 2331,
@@ -5340,7 +5367,7 @@
         "region": "West Coast",
         "district": "Buller District",
         "placename": "Lyell",
-        "urlDigitized": "http://paperspast.natlib.govt.nz/cgi-bin/paperspast?a=d&cl=CL1.LTCBG"
+        "urlDigitized": "https://paperspast.natlib.govt.nz/newspapers/lyell-times-and-central-buller-gazette"
       },
       {
         "id": 2379,
@@ -5359,7 +5386,7 @@
         "region": "Canterbury",
         "district": "Christchurch City",
         "placename": "Lyttelton",
-        "urlDigitized": "http://paperspast.natlib.govt.nz/cgi-bin/paperspast?a=d&cl=CL1.LT"
+        "urlDigitized": "https://paperspast.natlib.govt.nz/newspapers/lyttelton-times"
       }
     ],
     "Mm": [
@@ -5525,7 +5552,7 @@
         "region": "Manawatu-Wanganui",
         "district": "Horowhenua District",
         "placename": "Foxton",
-        "urlDigitized": "http://paperspast.natlib.govt.nz/cgi-bin/paperspast?a=d&cl=CL1.MH"
+        "urlDigitized": "https://paperspast.natlib.govt.nz/newspapers/manawatu-herald"
       },
       {
         "id": 1961,
@@ -5554,7 +5581,7 @@
         "district": "Palmerston North City",
         "placename": "Palmerston North",
         "urlCurrent": "http://www.manawatustandard.co.nz/",
-        "urlDigitized": "http://paperspast.natlib.govt.nz/cgi-bin/paperspast?a=d&cl=CL1.MS"
+        "urlDigitized": "https://paperspast.natlib.govt.nz/newspapers/manawatu-standard"
       },
       {
         "id": 1904,
@@ -5564,7 +5591,7 @@
         "region": "Manawatu-Wanganui",
         "district": "Palmerston North City",
         "placename": "Palmerston North",
-        "urlDigitized": "http://paperspast.natlib.govt.nz/cgi-bin/paperspast?a=d&cl=CL1.MT"
+        "urlDigitized": "https://paperspast.natlib.govt.nz/newspapers/manawatu-times"
       },
       {
         "id": 1436,
@@ -5790,7 +5817,7 @@
         "region": "Wellington",
         "district": "Wellington City",
         "placename": "Wellington",
-        "urlDigitized": "http://paperspast.natlib.govt.nz/cgi-bin/paperspast?a=d&cl=CL1.MW"
+        "urlDigitized": "https://paperspast.natlib.govt.nz/newspapers/maoriland-worker"
       },
       {
         "id": 1287,
@@ -5818,7 +5845,8 @@
         "finalYear": "1905",
         "region": "Top of the South",
         "district": "Marlborough District",
-        "placename": "Blenheim"
+        "placename": "Blenheim",
+        "urlDigitized": "https://paperspast.natlib.govt.nz/newspapers/marlborough-daily-times"
       },
       {
         "id": 2266,
@@ -5829,7 +5857,7 @@
         "district": "Marlborough District",
         "placename": "Blenheim",
         "urlCurrent": "http://www.marlboroughexpress.co.nz/",
-        "urlDigitized": "http://paperspast.natlib.govt.nz/cgi-bin/paperspast?a=d&cl=CL1.MEX"
+        "urlDigitized": "https://paperspast.natlib.govt.nz/newspapers/marlborough-express"
       },
       {
         "id": 2273,
@@ -5856,7 +5884,8 @@
         "finalYear": "1948",
         "region": "Top of the South",
         "district": "Marlborough District",
-        "placename": "Picton"
+        "placename": "Picton",
+        "urlDigitized": "https://paperspast.natlib.govt.nz/newspapers/marlborough-press"
       },
       {
         "id": 2268,
@@ -5946,7 +5975,8 @@
         "finalYear": "1954",
         "region": "Waikato",
         "district": "Matamata-Piako District",
-        "placename": "Matamata"
+        "placename": "Matamata",
+        "urlDigitized": "https://paperspast.natlib.govt.nz/newspapers/matamata-record"
       },
       {
         "id": 1557,
@@ -5975,7 +6005,7 @@
         "region": "Southland",
         "district": "Gore District",
         "placename": "Gore",
-        "urlDigitized": "http://paperspast.natlib.govt.nz/cgi-bin/paperspast?a=d&cl=CL1.ME"
+        "urlDigitized": "https://paperspast.natlib.govt.nz/newspapers/mataura-ensign"
       },
       {
         "id": 1986,
@@ -5984,7 +6014,8 @@
         "finalYear": "1906",
         "region": "Wellington",
         "district": "Masterton District",
-        "placename": "Masterton"
+        "placename": "Masterton",
+        "urlDigitized": "https://paperspast.natlib.govt.nz/newspapers/matuhi"
       },
       {
         "id": 1861,
@@ -6220,7 +6251,8 @@
         "finalYear": "1938",
         "region": "Top of the South",
         "district": "Tasman District",
-        "placename": "Motueka"
+        "placename": "Motueka",
+        "urlDigitized": "https://paperspast.natlib.govt.nz/newspapers/motueka-star"
       },
       {
         "id": 2558,
@@ -6267,7 +6299,7 @@
         "region": "Otago",
         "district": "Central Otago District",
         "placename": "Naseby",
-        "urlDigitized": "http://paperspast.natlib.govt.nz/cgi-bin/paperspast?a=d&cl=CL1.MIC"
+        "urlDigitized": "https://paperspast.natlib.govt.nz/newspapers/mount-ida-chronicle"
       },
       {
         "id": 1647,
@@ -6313,7 +6345,7 @@
         "region": "Otago",
         "district": "Central Otago District",
         "placename": "Roxburgh",
-        "urlDigitized": "http://paperspast.natlib.govt.nz/cgi-bin/paperspast?a=d&cl=CL1.MTBM"
+        "urlDigitized": "https://paperspast.natlib.govt.nz/newspapers/mt-benger-mail"
       },
       {
         "id": 1376,
@@ -6470,7 +6502,7 @@
         "region": "Top of the South",
         "district": "Nelson City",
         "placename": "Nelson",
-        "urlDigitized": "http://paperspast.natlib.govt.nz/cgi-bin/paperspast?a=d&cl=CL1.NEM"
+        "urlDigitized": "https://paperspast.natlib.govt.nz/newspapers/nelson-evening-mail"
       },
       {
         "id": 2237,
@@ -6480,7 +6512,7 @@
         "region": "Top of the South",
         "district": "Nelson City",
         "placename": "Nelson",
-        "urlDigitized": "http://paperspast.natlib.govt.nz/cgi-bin/paperspast?a=d&cl=CL1.NENZC"
+        "urlDigitized": "https://paperspast.natlib.govt.nz/newspapers/nelson-examiner-and-new-zealand-chronicle"
       },
       {
         "id": 2259,
@@ -6887,7 +6919,7 @@
         "region": "Northland",
         "district": "Far North District",
         "placename": "Russell",
-        "urlDigitized": "http://paperspast.natlib.govt.nz/cgi-bin/paperspast?a=d&cl=CL1.NZABIG"
+        "urlDigitized": "https://paperspast.natlib.govt.nz/newspapers/new-zealand-advertiser-and-bay-of-islands-gazette"
       },
       {
         "id": 2327,
@@ -6906,7 +6938,7 @@
         "region": "Wellington",
         "district": "Wellington City",
         "placename": "Wellington",
-        "urlDigitized": "http://paperspast.natlib.govt.nz/cgi-bin/paperspast?a=d&cl=CL1.NZCPNA"
+        "urlDigitized": "https://paperspast.natlib.govt.nz/newspapers/new-zealand-colonist-and-port-nicholson-advertiser"
       },
       {
         "id": 2141,
@@ -6925,7 +6957,7 @@
         "region": "Auckland",
         "district": "Auckland",
         "placename": "Auckland",
-        "urlDigitized": "http://paperspast.natlib.govt.nz/cgi-bin/paperspast?a=d&cl=CL1.NZ"
+        "urlDigitized": "https://paperspast.natlib.govt.nz/newspapers/new-zealander"
       },
       {
         "id": 2110,
@@ -6962,7 +6994,7 @@
         "region": "Wellington",
         "district": "Wellington City",
         "placename": "Port Nicholson",
-        "urlDigitized": "http://paperspast.natlib.govt.nz/cgi-bin/paperspast?a=d&cl=CL1.NZGWS"
+        "urlDigitized": "https://paperspast.natlib.govt.nz/newspapers/new-zealand-gazette-and-wellington-spectator"
       },
       {
         "id": 1318,
@@ -6982,7 +7014,7 @@
         "district": "Auckland",
         "placename": "Auckland",
         "urlCurrent": "http://www.nzherald.co.nz/",
-        "urlDigitized": "http://paperspast.natlib.govt.nz/cgi-bin/paperspast?a=d&cl=CL1.NZH"
+        "urlDigitized": "https://paperspast.natlib.govt.nz/newspapers/new-zealand-herald"
       },
       {
         "id": 1280,
@@ -6991,7 +7023,8 @@
         "finalYear": "1842",
         "region": "Auckland",
         "district": "Auckland",
-        "placename": "Auckland"
+        "placename": "Auckland",
+        "urlDigitized": "https://paperspast.natlib.govt.nz/newspapers/new-zealand-herald-and-auckland-gazette"
       },
       {
         "id": 1306,
@@ -7028,7 +7061,7 @@
         "region": "Auckland",
         "district": "Auckland",
         "placename": "Auckland",
-        "urlDigitized": "http://paperspast.natlib.govt.nz/cgi-bin/paperspast?a=d&cl=CL1.TO"
+        "urlDigitized": "https://paperspast.natlib.govt.nz/newspapers/observer"
       },
       {
         "id": 1601,
@@ -7056,7 +7089,8 @@
         "region": "Otago",
         "district": "Dunedin City",
         "placename": "Dunedin",
-        "urlCurrent": "http://www.westportnews.co.nz/"
+        "urlCurrent": "http://www.westportnews.co.nz/",
+        "urlDigitized": "https://paperspast.natlib.govt.nz/newspapers/waipawa-mail"
       },
       {
         "id": 2125,
@@ -7075,7 +7109,7 @@
         "region": "Wellington",
         "district": "Wellington City",
         "placename": "Wellington",
-        "urlDigitized": "http://paperspast.natlib.govt.nz/cgi-bin/paperspast?a=d&cl=CL1.NZSCSG&e=-------10--1----0--"
+        "urlDigitized": "https://paperspast.natlib.govt.nz/newspapers/new-zealand-spectator-and-cook-s-strait-guardian"
       },
       {
         "id": 2585,
@@ -7111,7 +7145,8 @@
         "finalYear": "1869",
         "region": "Wellington",
         "district": "Wellington City",
-        "placename": "Wellington"
+        "placename": "Wellington",
+        "urlDigitized": "https://paperspast.natlib.govt.nz/newspapers/new-zealand-times"
       },
       {
         "id": 2106,
@@ -7121,7 +7156,7 @@
         "region": "Wellington",
         "district": "Wellington City",
         "placename": "Wellington",
-        "urlDigitized": "http://paperspast.natlib.govt.nz/cgi-bin/paperspast?a=d&cl=CL1.WI"
+        "urlDigitized": "https://paperspast.natlib.govt.nz/newspapers/wellington-independent"
       },
       {
         "id": 1443,
@@ -7251,7 +7286,7 @@
         "district": "Whangarei District",
         "placename": "Whangarei",
         "urlCurrent": "http://www.northernadvocate.co.nz/",
-        "urlDigitized": "http://paperspast.natlib.govt.nz/cgi-bin/paperspast?a=d&cl=CL1.NA"
+        "urlDigitized": "https://paperspast.natlib.govt.nz/newspapers/northern-advocate"
       },
       {
         "id": 1038,
@@ -7414,7 +7449,8 @@
         "finalYear": "1962",
         "region": "Canterbury",
         "district": "Waimakariri District",
-        "placename": "Rangiora"
+        "placename": "Rangiora",
+        "urlDigitized": "https://paperspast.natlib.govt.nz/newspapers/north-canterbury-gazette"
       },
       {
         "id": 2442,
@@ -7468,7 +7504,8 @@
         "finalYear": "1928",
         "region": "Northland",
         "district": "Far North District",
-        "placename": "Kaitaia"
+        "placename": "Kaitaia",
+        "urlDigitized": "https://paperspast.natlib.govt.nz/newspapers/northland-age"
       },
       {
         "id": 1017,
@@ -7560,7 +7597,7 @@
         "region": "Canterbury",
         "district": "Waitaki District",
         "placename": "Oamaru",
-        "urlDigitized": "http://paperspast.natlib.govt.nz/cgi-bin/paperspast?a=d&cl=CL1.NOT"
+        "urlDigitized": "https://paperspast.natlib.govt.nz/newspapers/north-otago-times"
       },
       {
         "id": 1119,
@@ -7905,7 +7942,7 @@
         "region": "Wellington",
         "district": "Wellington City",
         "placename": "Wellington",
-        "urlDigitized": "http://paperspast.natlib.govt.nz/cgi-bin/paperspast?a=d&cl=CL1.NZTR"
+        "urlDigitized": "https://paperspast.natlib.govt.nz/newspapers/nz-truth"
       },
       {
         "id": 1325,
@@ -7927,7 +7964,7 @@
         "district": "Waitaki District",
         "placename": "Oamaru",
         "urlCurrent": "http://www.oamarumail.co.nz/",
-        "urlDigitized": "http://paperspast.natlib.govt.nz/cgi-bin/paperspast?a=d&cl=CL1.OAM"
+        "urlDigitized": "https://paperspast.natlib.govt.nz/newspapers/oamaru-mail"
       },
       {
         "id": 2547,
@@ -7937,7 +7974,7 @@
         "region": "Canterbury",
         "district": "Waitaki District",
         "placename": "Oamaru",
-        "urlDigitized": "http://paperspast.natlib.govt.nz/cgi-bin/paperspast?a=d&cl=CL1.NOT"
+        "urlDigitized": "https://paperspast.natlib.govt.nz/newspapers/north-otago-times"
       },
       {
         "id": 1308,
@@ -7947,7 +7984,7 @@
         "region": "Auckland",
         "district": "Auckland",
         "placename": "Auckland",
-        "urlDigitized": "http://paperspast.natlib.govt.nz/cgi-bin/paperspast?a=d&cl=CL1.TO"
+        "urlDigitized": "https://paperspast.natlib.govt.nz/newspapers/observer"
       },
       {
         "id": 2467,
@@ -7975,7 +8012,7 @@
         "region": "Auckland",
         "district": "Auckland",
         "placename": "Auckland",
-        "urlDigitized": "http://paperspast.natlib.govt.nz/cgi-bin/paperspast?a=d&cl=CL1.TO"
+        "urlDigitized": "https://paperspast.natlib.govt.nz/newspapers/observer"
       },
       {
         "id": 2002,
@@ -8012,7 +8049,7 @@
         "region": "Waikato",
         "district": "Hauraki District",
         "placename": "Paeroa",
-        "urlDigitized": "http://paperspast.natlib.govt.nz/cgi-bin/paperspast?a=d&cl=CL1.OG"
+        "urlDigitized": "https://paperspast.natlib.govt.nz/newspapers/ohinemuri-gazette"
       },
       {
         "id": 1849,
@@ -8103,7 +8140,8 @@
         "region": "Bay of Plenty",
         "district": "Opotiki District",
         "placename": "Opotiki",
-        "urlCurrent": "http://www.opotikinews.co.nz/"
+        "urlCurrent": "http://www.opotikinews.co.nz/",
+        "urlDigitized": "https://paperspast.natlib.govt.nz/newspapers/opotiki-news"
       },
       {
         "id": 1843,
@@ -8130,7 +8168,8 @@
         "finalYear": "1949",
         "region": "Taranaki",
         "district": "South Taranaki District",
-        "placename": "Opunake"
+        "placename": "Opunake",
+        "urlDigitized": "https://paperspast.natlib.govt.nz/newspapers/opunake-times"
       },
       {
         "id": 1359,
@@ -8168,7 +8207,7 @@
         "district": "Dunedin City",
         "placename": "Dunedin",
         "urlCurrent": "http://www.odt.co.nz/",
-        "urlDigitized": "http://paperspast.natlib.govt.nz/cgi-bin/paperspast?a=d&cl=CL1.ODT"
+        "urlDigitized": "https://paperspast.natlib.govt.nz/newspapers/otago-daily-times"
       },
       {
         "id": 2591,
@@ -8214,7 +8253,7 @@
         "region": "Otago",
         "district": "Dunedin City",
         "placename": "Dunedin",
-        "urlDigitized": "http://paperspast.natlib.govt.nz/cgi-bin/paperspast?a=d&cl=CL1.OW"
+        "urlDigitized": "https://paperspast.natlib.govt.nz/newspapers/otago-witness"
       },
       {
         "id": 2606,
@@ -8269,7 +8308,7 @@
         "region": "Southland",
         "district": "Southland District",
         "placename": "Otautau",
-        "urlDigitized": "http://paperspast.natlib.govt.nz/cgi-bin/paperspast?a=d&cl=CL1.OSWCC"
+        "urlDigitized": "https://paperspast.natlib.govt.nz/newspapers/otautau-standard-and-wallace-county-chronicle"
       },
       {
         "id": 2553,
@@ -8342,7 +8381,7 @@
         "region": "Canterbury",
         "district": "Waimakariri District",
         "placename": "East Oxford",
-        "urlDigitized": "http://paperspast.natlib.govt.nz/cgi-bin/paperspast?a=d&cl=CL1.OO"
+        "urlDigitized": "https://paperspast.natlib.govt.nz/newspapers/oxford-observer"
       }
     ],
     "Pp": [
@@ -8416,7 +8455,8 @@
         "finalYear": "1943",
         "region": "Manawatu-Wanganui",
         "district": "Tararua District",
-        "placename": "Pahiatua"
+        "placename": "Pahiatua",
+        "urlDigitized": "https://paperspast.natlib.govt.nz/newspapers/pahiatua-herald"
       },
       {
         "id": 1929,
@@ -8425,7 +8465,8 @@
         "finalYear": "1893",
         "region": "Manawatu-Wanganui",
         "district": "Tararua District",
-        "placename": "Pahiatua"
+        "placename": "Pahiatua",
+        "urlDigitized": "https://paperspast.natlib.govt.nz/newspapers/pahiatua-star-and-eketahuna-advertiser"
       },
       {
         "id": 2651,
@@ -8570,7 +8611,8 @@
         "finalYear": "1887",
         "region": "Waikato",
         "district": "South Waikato District",
-        "placename": "Patea"
+        "placename": "Patea",
+        "urlDigitized": "https://paperspast.natlib.govt.nz/newspapers/patea-mail"
       },
       {
         "id": 1613,
@@ -8633,7 +8675,8 @@
         "finalYear": "1920",
         "region": "Top of the South",
         "district": "Marlborough District",
-        "placename": "Havelock"
+        "placename": "Havelock",
+        "urlDigitized": "https://paperspast.natlib.govt.nz/newspapers/pelorus-guardian-and-miners-advocate"
       },
       {
         "id": 2274,
@@ -8950,7 +8993,7 @@
         "region": "Gisborne",
         "district": "Gisborne District",
         "placename": "Gisborne",
-        "urlDigitized": "http://paperspast.natlib.govt.nz/cgi-bin/paperspast?a=d&cl=CL1.PBH"
+        "urlDigitized": "https://paperspast.natlib.govt.nz/newspapers/poverty-bay-herald"
       },
       {
         "id": 1710,
@@ -8979,7 +9022,7 @@
         "district": "Christchurch City",
         "placename": "Christchurch",
         "urlCurrent": "http://www.thepress.co.nz/",
-        "urlDigitized": "http://paperspast.natlib.govt.nz/cgi-bin/paperspast?a=d&cl=CL1.CHP"
+        "urlDigitized": "https://paperspast.natlib.govt.nz/newspapers/press"
       },
       {
         "id": 1858,
@@ -9043,7 +9086,7 @@
         "region": "Auckland",
         "district": "Auckland",
         "placename": "Pukekohe",
-        "urlDigitized": "http://paperspast.natlib.govt.nz/cgi-bin/paperspast?a=d&cl=CL1.PWT"
+        "urlDigitized": "https://paperspast.natlib.govt.nz/newspapers/pukekohe-waiuku-times"
       },
       {
         "id": 1223,
@@ -9079,7 +9122,8 @@
         "finalYear": "1989",
         "region": "Waikato",
         "district": "South Waikato District",
-        "placename": "Putaruru"
+        "placename": "Putaruru",
+        "urlDigitized": "https://paperspast.natlib.govt.nz/newspapers/putaruru-press"
       }
     ],
     "Qq": [
@@ -9129,7 +9173,8 @@
         "finalYear": "1941",
         "region": "Manawatu-Wanganui",
         "district": "Rangitikei District",
-        "placename": "Marton"
+        "placename": "Marton",
+        "urlDigitized": "https://paperspast.natlib.govt.nz/newspapers/rangitikei-advocate-and-manawatu-argus"
       },
       {
         "id": 1874,
@@ -9365,7 +9410,7 @@
         "region": "Auckland",
         "district": "Auckland",
         "placename": "Warkworth",
-        "urlDigitized": "http://paperspast.natlib.govt.nz/cgi-bin/paperspast?a=d&cl=CL1.ROTWKG"
+        "urlDigitized": "https://paperspast.natlib.govt.nz/newspapers/rodney-and-otamatea-times-waitemata-and-kaipara-gazette"
       },
       {
         "id": 1217,
@@ -9684,7 +9729,8 @@
         "finalYear": "1940",
         "region": "Manawatu-Wanganui",
         "district": "Horowhenua District",
-        "placename": "Levin"
+        "placename": "Levin",
+        "urlDigitized": "https://paperspast.natlib.govt.nz/newspapers/shannon-news"
       },
       {
         "id": 2210,
@@ -9865,7 +9911,7 @@
         "region": "Auckland",
         "district": "Auckland",
         "placename": "Auckland",
-        "urlDigitized": "http://paperspast.natlib.govt.nz/cgi-bin/paperspast?a=d&cl=CL1.DSC"
+        "urlDigitized": "https://paperspast.natlib.govt.nz/newspapers/southern-cross"
       },
       {
         "id": 2673,
@@ -9874,7 +9920,8 @@
         "finalYear": "1946",
         "region": "Southland",
         "district": "Southland District",
-        "placename": "Invercargill"
+        "placename": "Invercargill",
+        "urlDigitized": "https://paperspast.natlib.govt.nz/newspapers/southern-cross"
       },
       {
         "id": 2650,
@@ -10090,7 +10137,8 @@
         "finalYear": "1901",
         "region": "Canterbury",
         "district": "Timaru District",
-        "placename": "Timaru"
+        "placename": "Timaru",
+        "urlDigitized": "https://paperspast.natlib.govt.nz/newspapers/south-canterbury-times"
       },
       {
         "id": 2526,
@@ -10147,7 +10195,7 @@
         "district": "Southland District",
         "placename": "Invercargill",
         "urlCurrent": "http://www.southlandtimes.co.nz/",
-        "urlDigitized": "http://paperspast.natlib.govt.nz/cgi-bin/paperspast?a=d&cl=CL1.ST"
+        "urlDigitized": "https://paperspast.natlib.govt.nz/newspapers/southland-times"
       },
       {
         "id": 1842,
@@ -10258,7 +10306,7 @@
         "region": "Canterbury",
         "district": "Christchurch City",
         "placename": "Christchurch",
-        "urlDigitized": "http://paperspast.natlib.govt.nz/cgi-bin/paperspast?a=d&cl=CL1.TS"
+        "urlDigitized": "https://paperspast.natlib.govt.nz/newspapers/star-christchurch"
       },
       {
         "id": 1841,
@@ -10431,7 +10479,8 @@
         "finalYear": "1936",
         "region": "Taranaki",
         "district": "Stratford District",
-        "placename": "Stratford"
+        "placename": "Stratford",
+        "urlDigitized": "https://paperspast.natlib.govt.nz/newspapers/stratford-evening-post"
       },
       {
         "id": 1827,
@@ -10514,7 +10563,7 @@
         "region": "Canterbury",
         "district": "Christchurch City",
         "placename": "Christchurch",
-        "urlDigitized": "http://paperspast.natlib.govt.nz/cgi-bin/paperspast?a=d&cl=CL1.SUNCH"
+        "urlDigitized": "https://paperspast.natlib.govt.nz/newspapers/sun-christchurch"
       },
       {
         "id": 1343,
@@ -10523,7 +10572,8 @@
         "finalYear": "1930",
         "region": "Auckland",
         "district": "Auckland",
-        "placename": "Auckland"
+        "placename": "Auckland",
+        "urlDigitized": "https://paperspast.natlib.govt.nz/newspapers/sun-auckland"
       },
       {
         "id": 1688,
@@ -10689,7 +10739,8 @@
         "finalYear": "1930",
         "region": "Manawatu-Wanganui",
         "district": "Rangitikei District",
-        "placename": "Taihape"
+        "placename": "Taihape",
+        "urlDigitized": "https://paperspast.natlib.govt.nz/newspapers/taihape-daily-times"
       },
       {
         "id": 1865,
@@ -10770,7 +10821,8 @@
         "finalYear": "1883",
         "region": "Gisborne",
         "district": "Gisborne District",
-        "placename": "Gisborne"
+        "placename": "Gisborne",
+        "urlDigitized": "https://paperspast.natlib.govt.nz/newspapers/takitimu"
       },
       {
         "id": 1400,
@@ -10906,7 +10958,8 @@
         "finalYear": "1937",
         "region": "Taranaki",
         "district": "Stratford District",
-        "placename": "Stratford"
+        "placename": "Stratford",
+        "urlDigitized": "https://paperspast.natlib.govt.nz/newspapers/taranaki-central-press"
       },
       {
         "id": 1796,
@@ -10917,7 +10970,7 @@
         "district": "New Plymouth District",
         "placename": "New Plymouth",
         "urlCurrent": "http://www.stuff.co.nz/taranaki-daily-news",
-        "urlDigitized": "http://paperspast.natlib.govt.nz/cgi-bin/paperspast?a=d&cl=CL1.TDN"
+        "urlDigitized": "https://paperspast.natlib.govt.nz/newspapers/taranaki-daily-news"
       },
       {
         "id": 1791,
@@ -10927,7 +10980,7 @@
         "region": "Taranaki",
         "district": "New Plymouth District",
         "placename": "New Plymouth",
-        "urlDigitized": "http://paperspast.natlib.govt.nz/cgi-bin/paperspast?a=d&cl=CL1.TH"
+        "urlDigitized": "https://paperspast.natlib.govt.nz/newspapers/taranaki-herald"
       },
       {
         "id": 1804,
@@ -11155,7 +11208,7 @@
         "region": "Waikato",
         "district": "Matamata-Piako District",
         "placename": "Te Aroha",
-        "urlDigitized": "http://paperspast.natlib.govt.nz/cgi-bin/paperspast?a=d&cl=CL1.TAN"
+        "urlDigitized": "https://paperspast.natlib.govt.nz/newspapers/te-aroha-news"
       },
       {
         "id": 1555,
@@ -11327,7 +11380,8 @@
         "finalYear": "1932",
         "region": "Canterbury",
         "district": "Timaru District",
-        "placename": "Temuka"
+        "placename": "Temuka",
+        "urlDigitized": "https://paperspast.natlib.govt.nz/newspapers/temuka-leader"
       },
       {
         "id": 1520,
@@ -11358,7 +11412,7 @@
         "region": "Bay of Plenty",
         "district": "Western Bay of Plenty District",
         "placename": "Te Puke",
-        "urlDigitized": "http://paperspast.natlib.govt.nz/cgi-bin/paperspast?a=d&cl=CL1.TPT"
+        "urlDigitized": "https://paperspast.natlib.govt.nz/newspapers/te-puke-times"
       },
       {
         "id": 1633,
@@ -11444,7 +11498,7 @@
         "region": "Waikato",
         "district": "Thames-Coromandel District",
         "placename": "Thames",
-        "urlDigitized": "http://paperspast.natlib.govt.nz/cgi-bin/paperspast?a=d&cl=CL1.THA"
+        "urlDigitized": "https://paperspast.natlib.govt.nz/newspapers/thames-advertiser"
       },
       {
         "id": 1512,
@@ -11480,7 +11534,8 @@
         "finalYear": "1872",
         "region": "Waikato",
         "district": "Thames-Coromandel District",
-        "placename": "Thames"
+        "placename": "Thames",
+        "urlDigitized": "https://paperspast.natlib.govt.nz/newspapers/thames-guardian-and-mining-record"
       },
       {
         "id": 1486,
@@ -11499,7 +11554,7 @@
         "region": "Waikato",
         "district": "Thames-Coromandel District",
         "placename": "Thames",
-        "urlDigitized": "http://paperspast.natlib.govt.nz/cgi-bin/paperspast?a=d&cl=CL1.THS"
+        "urlDigitized": "https://paperspast.natlib.govt.nz/newspapers/thames-star"
       },
       {
         "id": 1489,
@@ -11555,7 +11610,7 @@
         "district": "Timaru District",
         "placename": "Timaru",
         "urlCurrent": "http://www.stuff.co.nz/stuff/timaruherald/",
-        "urlDigitized": "http://paperspast.natlib.govt.nz/cgi-bin/paperspast?a=d&cl=CL1.THD"
+        "urlDigitized": "https://paperspast.natlib.govt.nz/newspapers/timaru-herald"
       },
       {
         "id": 2524,
@@ -11808,7 +11863,7 @@
         "region": "Otago",
         "district": "Clutha District",
         "placename": "Lawrence",
-        "urlDigitized": "http://paperspast.natlib.govt.nz/cgi-bin/paperspast?a=d&cl=CL1.TT"
+        "urlDigitized": "https://paperspast.natlib.govt.nz/newspapers/tuapeka-times"
       },
       {
         "id": 2680,
@@ -11939,7 +11994,7 @@
         "region": "Wellington",
         "district": "Upper Hutt City",
         "placename": "Upper Hutt",
-        "urlDigitized": "http://paperspast.natlib.govt.nz/cgi-bin/paperspast?a=d&cl=CL1.UHWR"
+        "urlDigitized": "https://paperspast.natlib.govt.nz/newspapers/upper-hutt-weekly-review"
       }
     ],
     "Vv": [
@@ -11961,7 +12016,7 @@
         "district": "Wellington City",
         "placename": "Wellington",
         "urlCurrent": "http://ndhadeliver.natlib.govt.nz/content-aggregator/getIEs?system=ilsdb&id=932905",
-        "urlDigitized": "http://paperspast.natlib.govt.nz/cgi-bin/paperspast?a=d&cl=CL1.VT"
+        "urlDigitized": "https://paperspast.natlib.govt.nz/newspapers/victoria-times"
       },
       {
         "id": 1740,
@@ -12082,7 +12137,7 @@
         "region": "Waikato",
         "district": "Hauraki District",
         "placename": "Waihi",
-        "urlDigitized": "http://paperspast.natlib.govt.nz/cgi-bin/paperspast?a=d&cl=CL1.WHDT"
+        "urlDigitized": "https://paperspast.natlib.govt.nz/newspapers/waihi-daily-telegraph"
       },
       {
         "id": 1508,
@@ -12154,7 +12209,8 @@
         "finalYear": "1915",
         "region": "Waikato",
         "district": "Hamilton City",
-        "placename": "Hamilton"
+        "placename": "Hamilton",
+        "urlDigitized": "https://paperspast.natlib.govt.nz/newspapers/waikato-argus"
       },
       {
         "id": 1591,
@@ -12172,7 +12228,8 @@
         "finalYear": "1966",
         "region": "Waikato",
         "district": "Waikato District",
-        "placename": "Cambridge"
+        "placename": "Cambridge",
+        "urlDigitized": "https://paperspast.natlib.govt.nz/newspapers/waikato-independent"
       },
       {
         "id": 1519,
@@ -12210,7 +12267,7 @@
         "district": "Hamilton City",
         "placename": "Hamilton",
         "urlCurrent": "http://www.stuff.co.nz/waikato-times",
-        "urlDigitized": "http://paperspast.natlib.govt.nz/cgi-bin/paperspast?a=d&cl=CL1.WT"
+        "urlDigitized": "https://paperspast.natlib.govt.nz/newspapers/waikato-times"
       },
       {
         "id": 1590,
@@ -12301,7 +12358,7 @@
         "region": "Canterbury",
         "district": "Waimate District",
         "placename": "Waimate",
-        "urlDigitized": "http://paperspast.natlib.govt.nz/cgi-bin/paperspast?a=d&cl=CL1&sp=WDA"
+        "urlDigitized": "https://paperspast.natlib.govt.nz/newspapers/waimate-daily-advertiser"
       },
       {
         "id": 2540,
@@ -12391,7 +12448,8 @@
         "finalYear": "1936",
         "region": "Waikato",
         "district": "Waipa District",
-        "placename": "Te Awamutu"
+        "placename": "Te Awamutu",
+        "urlDigitized": "https://paperspast.natlib.govt.nz/newspapers/waipa-post"
       },
       {
         "id": 1783,
@@ -12400,7 +12458,8 @@
         "finalYear": "1974",
         "region": "Hawke's Bay",
         "district": "Central Hawke's Bay District",
-        "placename": "Waipawa"
+        "placename": "Waipawa",
+        "urlDigitized": "https://paperspast.natlib.govt.nz/newspapers/waipawa-mail"
       },
       {
         "id": 1784,
@@ -12418,7 +12477,8 @@
         "finalYear": "1938",
         "region": "Wellington",
         "district": "Masterton District",
-        "placename": "Masterton"
+        "placename": "Masterton",
+        "urlDigitized": "https://paperspast.natlib.govt.nz/newspapers/wairarapa-age"
       },
       {
         "id": 1981,
@@ -12428,7 +12488,7 @@
         "region": "Wellington",
         "district": "Masterton District",
         "placename": "Masterton",
-        "urlDigitized": "http://paperspast.natlib.govt.nz/cgi-bin/paperspast?a=d&cl=CL1.WDT"
+        "urlDigitized": "https://paperspast.natlib.govt.nz/newspapers/wairarapa-daily-times"
       },
       {
         "id": 2013,
@@ -12447,7 +12507,7 @@
         "region": "Wellington",
         "district": "Masterton District",
         "placename": "Masterton",
-        "urlDigitized": "http://paperspast.natlib.govt.nz/cgi-bin/paperspast?a=d&cl=CL1.WDT"
+        "urlDigitized": "https://paperspast.natlib.govt.nz/newspapers/wairarapa-daily-times"
       },
       {
         "id": 1980,
@@ -12565,7 +12625,8 @@
         "finalYear": "1942",
         "region": "Wellington",
         "district": "South Wairarapa District",
-        "placename": "Greytown"
+        "placename": "Greytown",
+        "urlDigitized": "https://paperspast.natlib.govt.nz/newspapers/wairarapa-standard"
       },
       {
         "id": 1982,
@@ -12620,7 +12681,8 @@
         "finalYear": "1923",
         "region": "Northland",
         "district": "Kaipara District",
-        "placename": "Dargaville"
+        "placename": "Dargaville",
+        "urlDigitized": "https://paperspast.natlib.govt.nz/newspapers/wairoa-bell"
       },
       {
         "id": 2565,
@@ -12902,7 +12964,8 @@
         "region": "Hawke's Bay",
         "district": "Napier City",
         "placename": "Napier",
-        "urlCurrent": "http://nzdl.org/cgi-bin/library?gg=_cgiarggg_&e=d-00000-00---0niupepa--00-0--0-10-0---0---0prompt-10---4-------0-1l--11-en-50---20-about---00-0-1-00-11-1-0utfZz-8-00&a=d&c=niupepa&cl=CL1.16"
+        "urlCurrent": "http://nzdl.org/cgi-bin/library?gg=_cgiarggg_&e=d-00000-00---0niupepa--00-0--0-10-0---0---0prompt-10---4-------0-1l--11-en-50---20-about---00-0-1-00-11-1-0utfZz-8-00&a=d&c=niupepa&cl=CL1.16",
+        "urlDigitized": "https://paperspast.natlib.govt.nz/newspapers/wananga"
       },
       {
         "id": 1877,
@@ -12913,7 +12976,7 @@
         "district": "Wanganui District",
         "placename": "Whanganui",
         "urlCurrent": "http://www.wanganuichronicle.co.nz/",
-        "urlDigitized": "http://paperspast.natlib.govt.nz/cgi-bin/paperspast?a=d&cl=CL1.WC"
+        "urlDigitized": "https://paperspast.natlib.govt.nz/newspapers/wanganui-chronicle"
       },
       {
         "id": 1888,
@@ -12932,7 +12995,7 @@
         "region": "Manawatu-Wanganui",
         "district": "Wanganui District",
         "placename": "Whanganui",
-        "urlDigitized": "http://paperspast.natlib.govt.nz/cgi-bin/paperspast?a=d&cl=CL1.WH"
+        "urlDigitized": "https://paperspast.natlib.govt.nz/newspapers/wanganui-herald"
       },
       {
         "id": 1894,
@@ -13303,7 +13366,7 @@
         "region": "Wellington",
         "district": "Wellington City",
         "placename": "Wellington",
-        "urlDigitized": "http://paperspast.natlib.govt.nz/cgi-bin/paperspast?a=d&cl=CL1.WI"
+        "urlDigitized": "https://paperspast.natlib.govt.nz/newspapers/wellington-independent"
       },
       {
         "id": 2103,
@@ -13376,7 +13439,7 @@
         "region": "West Coast",
         "district": "Westland District",
         "placename": "Hokitika",
-        "urlDigitized": "http://paperspast.natlib.govt.nz/cgi-bin/paperspast?a=d&cl=CL1.WCT"
+        "urlDigitized": "https://paperspast.natlib.govt.nz/newspapers/west-coast-times"
       },
       {
         "id": 2342,
@@ -13466,7 +13529,8 @@
         "finalYear": "1942",
         "region": "Southland",
         "district": "Southland District",
-        "placename": "Riverton"
+        "placename": "Riverton",
+        "urlDigitized": "https://paperspast.natlib.govt.nz/newspapers/western-star"
       },
       {
         "id": 1373,
@@ -13558,7 +13622,7 @@
         "region": "West Coast",
         "district": "Buller District",
         "placename": "Westport",
-        "urlDigitized": "http://paperspast.natlib.govt.nz/cgi-bin/paperspast?a=d&cl=CL1.WEST"
+        "urlDigitized": "https://paperspast.natlib.govt.nz/newspapers/westport-times"
       },
       {
         "id": 2284,
@@ -13750,7 +13814,8 @@
         "finalYear": "1891",
         "region": "Manawatu-Wanganui",
         "district": "Tararua District",
-        "placename": "Woodville"
+        "placename": "Woodville",
+        "urlDigitized": "https://paperspast.natlib.govt.nz/newspapers/woodville-examiner"
       },
       {
         "id": 1943,

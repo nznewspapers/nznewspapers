@@ -34,7 +34,7 @@
       "title": "Wairarapa Daily",
       "firstYear": "1878",
       "finalYear": "1892",
-      "urlDigitized": "http://paperspast.natlib.govt.nz/cgi-bin/paperspast?a=d&cl=CL1.WDT"
+      "urlDigitized": "https://paperspast.natlib.govt.nz/newspapers/wairarapa-daily-times"
     },
     {
       "id": "1982",
@@ -53,19 +53,21 @@
       "title": "Wairarapa Daily Times",
       "firstYear": "1892",
       "finalYear": "1938",
-      "urlDigitized": "http://paperspast.natlib.govt.nz/cgi-bin/paperspast?a=d&cl=CL1.WDT"
+      "urlDigitized": "https://paperspast.natlib.govt.nz/newspapers/wairarapa-daily-times"
     },
     {
       "id": "1985",
       "title": "Wairarapa Age",
       "firstYear": "1902",
-      "finalYear": "1938"
+      "finalYear": "1938",
+      "urlDigitized": "https://paperspast.natlib.govt.nz/newspapers/wairarapa-age"
     },
     {
       "id": "1986",
       "title": "Matuhi",
       "firstYear": "1903",
-      "finalYear": "1906"
+      "finalYear": "1906",
+      "urlDigitized": "https://paperspast.natlib.govt.nz/newspapers/matuhi"
     },
     {
       "id": "1987",

@@ -22,13 +22,15 @@
       "title": "Huia Tangata Kotahi",
       "firstYear": "1893",
       "finalYear": "1895",
-      "urlCurrent": "http://nzdl.org/cgi-bin/library?gg=_cgiarggg_&e=d-00000-00---0niupepa--00-0--0-10-0---0---0prompt-10---4-------0-1l--11-en-50---20-about---00-0-1-00-11-1-0utfZz-8-00&a=d&c=niupepa&cl=CL1.25"
+      "urlCurrent": "http://nzdl.org/cgi-bin/library?gg=_cgiarggg_&e=d-00000-00---0niupepa--00-0--0-10-0---0---0prompt-10---4-------0-1l--11-en-50---20-about---00-0-1-00-11-1-0utfZz-8-00&a=d&c=niupepa&cl=CL1.25",
+      "urlDigitized": "https://paperspast.natlib.govt.nz/newspapers/huia-tangata-kotahi"
     },
     {
       "id": "1734",
       "title": "Hastings Standard",
       "firstYear": "1896",
-      "finalYear": "1910"
+      "finalYear": "1910",
+      "urlDigitized": "https://paperspast.natlib.govt.nz/newspapers/hastings-standard"
     },
     {
       "id": "1735",

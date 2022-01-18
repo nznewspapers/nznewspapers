@@ -2,7 +2,7 @@
   "stats": {
     "count": 1521,
     "countCurrent": 222,
-    "countDigitized": 100,
+    "countDigitized": 165,
     "places": 231,
     "regions": 15,
     "districts": 66
@@ -52,7 +52,8 @@
           "title": "Northland Age",
           "firstYear": "1918",
           "finalYear": "1928",
-          "placename": "Kaitaia"
+          "placename": "Kaitaia",
+          "urlDigitized": "https://paperspast.natlib.govt.nz/newspapers/northland-age"
         },
         {
           "id": 1013,
@@ -237,7 +238,7 @@
           "firstYear": "1840",
           "finalYear": "1840",
           "placename": "Russell",
-          "urlDigitized": "http://paperspast.natlib.govt.nz/cgi-bin/paperspast?a=d&cl=CL1.NZABIG"
+          "urlDigitized": "https://paperspast.natlib.govt.nz/newspapers/new-zealand-advertiser-and-bay-of-islands-gazette"
         },
         {
           "id": 1002,
@@ -276,7 +277,7 @@
           "finalYear": "9999",
           "placename": "Whangarei",
           "urlCurrent": "http://www.northernadvocate.co.nz/",
-          "urlDigitized": "http://paperspast.natlib.govt.nz/cgi-bin/paperspast?a=d&cl=CL1.NA"
+          "urlDigitized": "https://paperspast.natlib.govt.nz/newspapers/northern-advocate"
         },
         {
           "id": 1037,
@@ -413,7 +414,8 @@
           "title": "Wairoa Bell",
           "firstYear": "1890",
           "finalYear": "1923",
-          "placename": "Dargaville"
+          "placename": "Dargaville",
+          "urlDigitized": "https://paperspast.natlib.govt.nz/newspapers/wairoa-bell"
         },
         {
           "id": 1066,
@@ -472,7 +474,7 @@
           "firstYear": "1862",
           "finalYear": "1864",
           "placename": "Port Albert",
-          "urlDigitized": "http://paperspast.natlib.govt.nz/cgi-bin/paperspast?a=d&cl=CL1.ALG"
+          "urlDigitized": "https://paperspast.natlib.govt.nz/newspapers/albertland-gazette"
         }
       ]
     },
@@ -521,14 +523,16 @@
           "title": "The Auckland Chronicle and New Zealand Colonist",
           "firstYear": "1841",
           "finalYear": "1845",
-          "placename": "Auckland"
+          "placename": "Auckland",
+          "urlDigitized": "https://paperspast.natlib.govt.nz/newspapers/auckland-chronicle-and-new-zealand-colonist"
         },
         {
           "id": 1280,
           "title": "New Zealand Herald and Auckland Gazette",
           "firstYear": "1841",
           "finalYear": "1842",
-          "placename": "Auckland"
+          "placename": "Auckland",
+          "urlDigitized": "https://paperspast.natlib.govt.nz/newspapers/new-zealand-herald-and-auckland-gazette"
         },
         {
           "id": 1282,
@@ -542,7 +546,8 @@
           "title": "The Auckland Times",
           "firstYear": "1842",
           "finalYear": "1846",
-          "placename": "Auckland"
+          "placename": "Auckland",
+          "urlDigitized": "https://paperspast.natlib.govt.nz/newspapers/auckland-times"
         },
         {
           "id": 1284,
@@ -550,7 +555,7 @@
           "firstYear": "1843",
           "finalYear": "1862",
           "placename": "Auckland",
-          "urlDigitized": "http://paperspast.natlib.govt.nz/cgi-bin/paperspast?a=d&cl=CL1.DSC"
+          "urlDigitized": "https://paperspast.natlib.govt.nz/newspapers/southern-cross"
         },
         {
           "id": 1285,
@@ -558,7 +563,7 @@
           "firstYear": "1845",
           "finalYear": "1866",
           "placename": "Auckland",
-          "urlDigitized": "http://paperspast.natlib.govt.nz/cgi-bin/paperspast?a=d&cl=CL1.NZ"
+          "urlDigitized": "https://paperspast.natlib.govt.nz/newspapers/new-zealander"
         },
         {
           "id": 1286,
@@ -566,7 +571,8 @@
           "firstYear": "1848",
           "finalYear": "1848",
           "placename": "Auckland",
-          "urlCurrent": "http://nzdl.org/cgi-bin/library?gg=_cgiarggg_&e=d-00000-00---off-0niupepa--00-0--0-10-0---0---0prompt-10---4-------0-1l--11-en-50---20-about---00-0-1-00-0-0-11-1-0utfZz-8-00&a=d&c=niupepa&cl=CL1.2"
+          "urlCurrent": "http://nzdl.org/cgi-bin/library?gg=_cgiarggg_&e=d-00000-00---off-0niupepa--00-0--0-10-0---0---0prompt-10---4-------0-1l--11-en-50---20-about---00-0-1-00-0-0-11-1-0utfZz-8-00&a=d&c=niupepa&cl=CL1.2",
+          "urlDigitized": "https://paperspast.natlib.govt.nz/newspapers/anglo-maori-warder"
         },
         {
           "id": 1287,
@@ -610,7 +616,7 @@
           "firstYear": "1862",
           "finalYear": "1876",
           "placename": "Auckland",
-          "urlDigitized": "http://paperspast.natlib.govt.nz/cgi-bin/paperspast?a=d&cl=CL1.DSC"
+          "urlDigitized": "https://paperspast.natlib.govt.nz/newspapers/daily-southern-cross"
         },
         {
           "id": 1293,
@@ -653,7 +659,7 @@
           "firstYear": "1870",
           "finalYear": "1887",
           "placename": "Auckland",
-          "urlDigitized": "http://paperspast.natlib.govt.nz/cgi-bin/paperspast?a=d&cl=CL1.AS"
+          "urlDigitized": "https://paperspast.natlib.govt.nz/newspapers/evening-star"
         },
         {
           "id": 1298,
@@ -724,7 +730,7 @@
           "firstYear": "1880",
           "finalYear": "1885",
           "placename": "Auckland",
-          "urlDigitized": "http://paperspast.natlib.govt.nz/cgi-bin/paperspast?a=d&cl=CL1.TO"
+          "urlDigitized": "https://paperspast.natlib.govt.nz/newspapers/observer"
         },
         {
           "id": 1309,
@@ -761,7 +767,7 @@
           "firstYear": "1885",
           "finalYear": "1890",
           "placename": "Auckland",
-          "urlDigitized": "http://paperspast.natlib.govt.nz/cgi-bin/paperspast?a=d&cl=CL1.TO"
+          "urlDigitized": "https://paperspast.natlib.govt.nz/newspapers/observer"
         },
         {
           "id": 1314,
@@ -783,7 +789,7 @@
           "firstYear": "1887",
           "finalYear": "1991",
           "placename": "Auckland",
-          "urlDigitized": "http://paperspast.natlib.govt.nz/cgi-bin/paperspast?a=d&cl=CL1.AS"
+          "urlDigitized": "https://paperspast.natlib.govt.nz/newspapers/auckland-star"
         },
         {
           "id": 1317,
@@ -805,7 +811,7 @@
           "firstYear": "1890",
           "finalYear": "1954",
           "placename": "Auckland",
-          "urlDigitized": "http://paperspast.natlib.govt.nz/cgi-bin/paperspast?a=d&cl=CL1.TO"
+          "urlDigitized": "https://paperspast.natlib.govt.nz/newspapers/observer"
         },
         {
           "id": 1320,
@@ -973,7 +979,8 @@
           "title": "Sun",
           "firstYear": "1927",
           "finalYear": "1930",
-          "placename": "Auckland"
+          "placename": "Auckland",
+          "urlDigitized": "https://paperspast.natlib.govt.nz/newspapers/sun-auckland"
         },
         {
           "id": 1344,
@@ -1872,7 +1879,7 @@
           "finalYear": "9999",
           "placename": "Auckland",
           "urlCurrent": "http://www.nzherald.co.nz/",
-          "urlDigitized": "http://paperspast.natlib.govt.nz/cgi-bin/paperspast?a=d&cl=CL1.NZH"
+          "urlDigitized": "https://paperspast.natlib.govt.nz/newspapers/new-zealand-herald"
         },
         {
           "id": 1076,
@@ -2048,7 +2055,7 @@
           "firstYear": "1905",
           "finalYear": "1914",
           "placename": "Helensville",
-          "urlDigitized": "http://paperspast.natlib.govt.nz/cgi-bin/paperspast?a=d&cl=CL1.KWE"
+          "urlDigitized": "https://paperspast.natlib.govt.nz/newspapers/kaipara-and-waitemata-echo"
         },
         {
           "id": 1089,
@@ -2056,7 +2063,7 @@
           "firstYear": "1914",
           "finalYear": "1952",
           "placename": "Helensville",
-          "urlDigitized": "http://paperspast.natlib.govt.nz/cgi-bin/paperspast?a=d&cl=CL1.KWE"
+          "urlDigitized": "https://paperspast.natlib.govt.nz/newspapers/kaipara-and-waitemata-echo"
         },
         {
           "id": 1126,
@@ -2814,7 +2821,7 @@
           "firstYear": "1912",
           "finalYear": "1919",
           "placename": "Pukekohe",
-          "urlDigitized": "http://paperspast.natlib.govt.nz/cgi-bin/paperspast?a=d&cl=CL1.PWT"
+          "urlDigitized": "https://paperspast.natlib.govt.nz/newspapers/pukekohe-waiuku-times"
         },
         {
           "id": 1092,
@@ -2822,14 +2829,15 @@
           "firstYear": "1919",
           "finalYear": "1921",
           "placename": "Pukekohe",
-          "urlDigitized": "http://paperspast.natlib.govt.nz/cgi-bin/paperspast?a=d&cl=CL1.PWT"
+          "urlDigitized": "https://paperspast.natlib.govt.nz/newspapers/pukekohe-waiuku-times"
         },
         {
           "id": 1094,
           "title": "Franklin Times",
           "firstYear": "1921",
           "finalYear": "1971",
-          "placename": "Pukekohe"
+          "placename": "Pukekohe",
+          "urlDigitized": "https://paperspast.natlib.govt.nz/newspapers/franklin-times"
         },
         {
           "id": 1127,
@@ -3083,7 +3091,7 @@
           "firstYear": "1901",
           "finalYear": "1964",
           "placename": "Warkworth",
-          "urlDigitized": "http://paperspast.natlib.govt.nz/cgi-bin/paperspast?a=d&cl=CL1.ROTWKG"
+          "urlDigitized": "https://paperspast.natlib.govt.nz/newspapers/rodney-and-otamatea-times-waitemata-and-kaipara-gazette"
         },
         {
           "id": 1109,
@@ -3197,7 +3205,8 @@
           "title": "The Evening Star",
           "firstYear": "1867",
           "finalYear": "1893",
-          "placename": "Thames"
+          "placename": "Thames",
+          "urlDigitized": "https://paperspast.natlib.govt.nz/newspapers/thames-star"
         },
         {
           "id": 1473,
@@ -3205,7 +3214,7 @@
           "firstYear": "1868",
           "finalYear": "1912",
           "placename": "Thames",
-          "urlDigitized": "http://paperspast.natlib.govt.nz/cgi-bin/paperspast?a=d&cl=CL1.THA"
+          "urlDigitized": "https://paperspast.natlib.govt.nz/newspapers/thames-advertiser"
         },
         {
           "id": 1472,
@@ -3226,7 +3235,8 @@
           "title": "Thames Guardian and Mining Record",
           "firstYear": "1871",
           "finalYear": "1872",
-          "placename": "Thames"
+          "placename": "Thames",
+          "urlDigitized": "https://paperspast.natlib.govt.nz/newspapers/thames-guardian-and-mining-record"
         },
         {
           "id": 1479,
@@ -3248,7 +3258,7 @@
           "firstYear": "1893",
           "finalYear": "1998",
           "placename": "Thames",
-          "urlDigitized": "http://paperspast.natlib.govt.nz/cgi-bin/paperspast?a=d&cl=CL1.THS"
+          "urlDigitized": "https://paperspast.natlib.govt.nz/newspapers/thames-star"
         },
         {
           "id": 1486,
@@ -3371,7 +3381,7 @@
           "firstYear": "1891",
           "finalYear": "1921",
           "placename": "Paeroa",
-          "urlDigitized": "http://paperspast.natlib.govt.nz/cgi-bin/paperspast?a=d&cl=CL1.OG"
+          "urlDigitized": "https://paperspast.natlib.govt.nz/newspapers/ohinemuri-gazette"
         },
         {
           "id": 1506,
@@ -3435,7 +3445,7 @@
           "firstYear": "1901",
           "finalYear": "1908",
           "placename": "Waihi",
-          "urlDigitized": "http://paperspast.natlib.govt.nz/cgi-bin/paperspast?a=d&cl=CL1.WHDT"
+          "urlDigitized": "https://paperspast.natlib.govt.nz/newspapers/waihi-daily-telegraph"
         },
         {
           "id": 1505,
@@ -3443,7 +3453,7 @@
           "firstYear": "1908",
           "finalYear": "1923",
           "placename": "Waihi",
-          "urlDigitized": "http://paperspast.natlib.govt.nz/cgi-bin/paperspast?a=d&cl=CL1.WHDT"
+          "urlDigitized": "https://paperspast.natlib.govt.nz/newspapers/waihi-daily-telegraph"
         },
         {
           "id": 1507,
@@ -3501,7 +3511,8 @@
           "title": "Waikato Independent",
           "firstYear": "1904",
           "finalYear": "1966",
-          "placename": "Cambridge"
+          "placename": "Cambridge",
+          "urlDigitized": "https://paperspast.natlib.govt.nz/newspapers/waikato-independent"
         },
         {
           "id": 1534,
@@ -3536,7 +3547,8 @@
           "title": "Huntly Press and District Gazette",
           "firstYear": "1912",
           "finalYear": "1995",
-          "placename": "Huntly"
+          "placename": "Huntly",
+          "urlDigitized": "https://paperspast.natlib.govt.nz/newspapers/huntly-press-and-district-gazette"
         },
         {
           "id": 1536,
@@ -3654,7 +3666,8 @@
           "title": "Matamata Record",
           "firstYear": "1917",
           "finalYear": "1954",
-          "placename": "Matamata"
+          "placename": "Matamata",
+          "urlDigitized": "https://paperspast.natlib.govt.nz/newspapers/matamata-record"
         },
         {
           "id": 1556,
@@ -3746,7 +3759,7 @@
           "firstYear": "1883",
           "finalYear": "1885",
           "placename": "Te Aroha",
-          "urlDigitized": "http://paperspast.natlib.govt.nz/cgi-bin/paperspast?a=d&cl=CL1.TAN"
+          "urlDigitized": "https://paperspast.natlib.govt.nz/newspapers/te-aroha-news"
         },
         {
           "id": 1551,
@@ -3754,7 +3767,7 @@
           "firstYear": "1885",
           "finalYear": "1917",
           "placename": "Te Aroha",
-          "urlDigitized": "http://paperspast.natlib.govt.nz/cgi-bin/paperspast?a=d&cl=CL1.TAN"
+          "urlDigitized": "https://paperspast.natlib.govt.nz/newspapers/te-aroha-news"
         },
         {
           "id": 1552,
@@ -3793,14 +3806,15 @@
           "finalYear": "9999",
           "placename": "Hamilton",
           "urlCurrent": "http://www.stuff.co.nz/waikato-times",
-          "urlDigitized": "http://paperspast.natlib.govt.nz/cgi-bin/paperspast?a=d&cl=CL1.WT"
+          "urlDigitized": "https://paperspast.natlib.govt.nz/newspapers/waikato-times"
         },
         {
           "id": 1569,
           "title": "Waikato Argus",
           "firstYear": "1896",
           "finalYear": "1915",
-          "placename": "Hamilton"
+          "placename": "Hamilton",
+          "urlDigitized": "https://paperspast.natlib.govt.nz/newspapers/waikato-argus"
         },
         {
           "id": 1570,
@@ -4007,7 +4021,8 @@
           "title": "Waipa Post",
           "firstYear": "1911",
           "finalYear": "1936",
-          "placename": "Te Awamutu"
+          "placename": "Te Awamutu",
+          "urlDigitized": "https://paperspast.natlib.govt.nz/newspapers/waipa-post"
         },
         {
           "id": 1601,
@@ -4037,7 +4052,8 @@
           "title": "Patea Mail",
           "firstYear": "1875",
           "finalYear": "1887",
-          "placename": "Patea"
+          "placename": "Patea",
+          "urlDigitized": "https://paperspast.natlib.govt.nz/newspapers/patea-mail"
         },
         {
           "id": 1609,
@@ -4073,7 +4089,8 @@
           "title": "Putaruru Press",
           "firstYear": "1923",
           "finalYear": "1989",
-          "placename": "Putaruru"
+          "placename": "Putaruru",
+          "urlDigitized": "https://paperspast.natlib.govt.nz/newspapers/putaruru-press"
         },
         {
           "id": 1611,
@@ -4097,7 +4114,8 @@
           "title": "Kawhia Settler and Raglan Advertiser",
           "firstYear": "1901",
           "finalYear": "1936",
-          "placename": "Kawhia"
+          "placename": "Kawhia",
+          "urlDigitized": "https://paperspast.natlib.govt.nz/newspapers/kawhia-settler-and-raglan-advertiser"
         },
         {
           "id": 1617,
@@ -4121,7 +4139,7 @@
           "firstYear": "1906",
           "finalYear": "1980",
           "placename": "Te Kuiti",
-          "urlDigitized": "http://paperspast.natlib.govt.nz/cgi-bin/paperspast?a=d&cl=CL1.KCC"
+          "urlDigitized": "https://paperspast.natlib.govt.nz/newspapers/king-country-chronicle"
         },
         {
           "id": 1620,
@@ -4201,7 +4219,7 @@
           "firstYear": "1911",
           "finalYear": "1980",
           "placename": "Te Puke",
-          "urlDigitized": "http://paperspast.natlib.govt.nz/cgi-bin/paperspast?a=d&cl=CL1.TPT"
+          "urlDigitized": "https://paperspast.natlib.govt.nz/newspapers/te-puke-times"
         },
         {
           "id": 1632,
@@ -4248,7 +4266,7 @@
           "finalYear": "9999",
           "placename": "Tauranga",
           "urlCurrent": "http://www.bayofplentytimes.co.nz",
-          "urlDigitized": "http://paperspast.natlib.govt.nz/cgi-bin/paperspast?a=d&cl=CL1.BOPT"
+          "urlDigitized": "https://paperspast.natlib.govt.nz/newspapers/bay-of-plenty-times"
         },
         {
           "id": 1637,
@@ -4413,7 +4431,8 @@
           "firstYear": "1938",
           "finalYear": "9999",
           "placename": "Opotiki",
-          "urlCurrent": "http://www.opotikinews.co.nz/"
+          "urlCurrent": "http://www.opotikinews.co.nz/",
+          "urlDigitized": "https://paperspast.natlib.govt.nz/newspapers/opotiki-news"
         }
       ],
       "Whakatane District": [
@@ -4451,7 +4470,7 @@
           "firstYear": "1939",
           "finalYear": "1966",
           "placename": "Whakatane",
-          "urlDigitized": "http://paperspast.natlib.govt.nz/cgi-bin/paperspast?a=d&cl=CL1.BPB"
+          "urlDigitized": "https://paperspast.natlib.govt.nz/newspapers/bay-of-plenty-beacon"
         },
         {
           "id": 1668,
@@ -4489,7 +4508,8 @@
           "title": "Hot Lakes Chronicle",
           "firstYear": "1885",
           "finalYear": "1916",
-          "placename": "Rotorua"
+          "placename": "Rotorua",
+          "urlDigitized": "https://paperspast.natlib.govt.nz/newspapers/hot-lakes-chronicle"
         },
         {
           "id": 1674,
@@ -4592,7 +4612,7 @@
           "firstYear": "1874",
           "finalYear": "1939",
           "placename": "Gisborne",
-          "urlDigitized": "http://paperspast.natlib.govt.nz/cgi-bin/paperspast?a=d&cl=CL1.PBH"
+          "urlDigitized": "https://paperspast.natlib.govt.nz/newspapers/poverty-bay-herald"
         },
         {
           "id": 1698,
@@ -4621,7 +4641,8 @@
           "title": "Takitimu",
           "firstYear": "1883",
           "finalYear": "1883",
-          "placename": "Gisborne"
+          "placename": "Gisborne",
+          "urlDigitized": "https://paperspast.natlib.govt.nz/newspapers/takitimu"
         },
         {
           "id": 1708,
@@ -4665,7 +4686,8 @@
           "title": "Gisborne Times",
           "firstYear": "1896",
           "finalYear": "1938",
-          "placename": "Gisborne"
+          "placename": "Gisborne",
+          "urlDigitized": "https://paperspast.natlib.govt.nz/newspapers/gisborne-times"
         },
         {
           "id": 1716,
@@ -4687,7 +4709,8 @@
           "firstYear": "1939",
           "finalYear": "9999",
           "placename": "Gisborne",
-          "urlCurrent": "http://www.gisborneherald.co.nz/"
+          "urlCurrent": "http://www.gisborneherald.co.nz/",
+          "urlDigitized": "https://paperspast.natlib.govt.nz/newspapers/gisborne-herald"
         },
         {
           "id": 1722,
@@ -4777,14 +4800,16 @@
           "firstYear": "1893",
           "finalYear": "1895",
           "placename": "Hastings",
-          "urlCurrent": "http://nzdl.org/cgi-bin/library?gg=_cgiarggg_&e=d-00000-00---0niupepa--00-0--0-10-0---0---0prompt-10---4-------0-1l--11-en-50---20-about---00-0-1-00-11-1-0utfZz-8-00&a=d&c=niupepa&cl=CL1.25"
+          "urlCurrent": "http://nzdl.org/cgi-bin/library?gg=_cgiarggg_&e=d-00000-00---0niupepa--00-0--0-10-0---0---0prompt-10---4-------0-1l--11-en-50---20-about---00-0-1-00-11-1-0utfZz-8-00&a=d&c=niupepa&cl=CL1.25",
+          "urlDigitized": "https://paperspast.natlib.govt.nz/newspapers/huia-tangata-kotahi"
         },
         {
           "id": 1734,
           "title": "Hastings Standard",
           "firstYear": "1896",
           "finalYear": "1910",
-          "placename": "Hastings"
+          "placename": "Hastings",
+          "urlDigitized": "https://paperspast.natlib.govt.nz/newspapers/hastings-standard"
         },
         {
           "id": 1735,
@@ -4935,14 +4960,15 @@
           "firstYear": "1857",
           "finalYear": "1937",
           "placename": "Napier",
-          "urlDigitized": "http://paperspast.natlib.govt.nz/cgi-bin/paperspast?a=d&cl=CL1.HBH"
+          "urlDigitized": "https://paperspast.natlib.govt.nz/newspapers/hawke-s-bay-herald"
         },
         {
           "id": 1758,
           "title": "Hawke's Bay Times",
           "firstYear": "1861",
           "finalYear": "1874",
-          "placename": "Napier"
+          "placename": "Napier",
+          "urlDigitized": "https://paperspast.natlib.govt.nz/newspapers/hawke-s-bay-times"
         },
         {
           "id": 1759,
@@ -4958,7 +4984,7 @@
           "firstYear": "1871",
           "finalYear": "1999",
           "placename": "Napier",
-          "urlDigitized": "http://paperspast.natlib.govt.nz/cgi-bin/paperspast?a=d&cl=CL1.DTN"
+          "urlDigitized": "https://paperspast.natlib.govt.nz/newspapers/daily-telegraph"
         },
         {
           "id": 1761,
@@ -4973,7 +4999,8 @@
           "firstYear": "1874",
           "finalYear": "1878",
           "placename": "Napier",
-          "urlCurrent": "http://nzdl.org/cgi-bin/library?gg=_cgiarggg_&e=d-00000-00---0niupepa--00-0--0-10-0---0---0prompt-10---4-------0-1l--11-en-50---20-about---00-0-1-00-11-1-0utfZz-8-00&a=d&c=niupepa&cl=CL1.16"
+          "urlCurrent": "http://nzdl.org/cgi-bin/library?gg=_cgiarggg_&e=d-00000-00---0niupepa--00-0--0-10-0---0---0prompt-10---4-------0-1l--11-en-50---20-about---00-0-1-00-11-1-0utfZz-8-00&a=d&c=niupepa&cl=CL1.16",
+          "urlDigitized": "https://paperspast.natlib.govt.nz/newspapers/wananga"
         },
         {
           "id": 1764,
@@ -5115,7 +5142,8 @@
           "title": "The Waipawa Mail, Waipukurau, Kaikora and Harpenden Advertiser",
           "firstYear": "1878",
           "finalYear": "1974",
-          "placename": "Waipawa"
+          "placename": "Waipawa",
+          "urlDigitized": "https://paperspast.natlib.govt.nz/newspapers/waipawa-mail"
         },
         {
           "id": 1787,
@@ -5210,7 +5238,7 @@
           "firstYear": "1852",
           "finalYear": "1989",
           "placename": "New Plymouth",
-          "urlDigitized": "http://paperspast.natlib.govt.nz/cgi-bin/paperspast?a=d&cl=CL1.TH"
+          "urlDigitized": "https://paperspast.natlib.govt.nz/newspapers/taranaki-herald"
         },
         {
           "id": 1792,
@@ -5233,7 +5261,7 @@
           "finalYear": "9999",
           "placename": "New Plymouth",
           "urlCurrent": "http://www.stuff.co.nz/taranaki-daily-news",
-          "urlDigitized": "http://paperspast.natlib.govt.nz/cgi-bin/paperspast?a=d&cl=CL1.TDN"
+          "urlDigitized": "https://paperspast.natlib.govt.nz/newspapers/taranaki-daily-news"
         },
         {
           "id": 1795,
@@ -5368,14 +5396,16 @@
           "title": "Stratford Evening Post",
           "firstYear": "1903",
           "finalYear": "1936",
-          "placename": "Stratford"
+          "placename": "Stratford",
+          "urlDigitized": "https://paperspast.natlib.govt.nz/newspapers/stratford-evening-post"
         },
         {
           "id": 1823,
           "title": "Taranaki Central Press",
           "firstYear": "1936",
           "finalYear": "1937",
-          "placename": "Stratford"
+          "placename": "Stratford",
+          "urlDigitized": "https://paperspast.natlib.govt.nz/newspapers/taranaki-central-press"
         },
         {
           "id": 1824,
@@ -5421,14 +5451,15 @@
           "firstYear": "1880",
           "finalYear": "1924",
           "placename": "Hawera",
-          "urlDigitized": "http://paperspast.natlib.govt.nz/cgi-bin/paperspast?a=d&cl=CL1.HNS"
+          "urlDigitized": "https://paperspast.natlib.govt.nz/newspapers/hawera-normanby-star"
         },
         {
           "id": 1836,
           "title": "Hawera Star",
           "firstYear": "1924",
           "finalYear": "1984",
-          "placename": "Hawera"
+          "placename": "Hawera",
+          "urlDigitized": "https://paperspast.natlib.govt.nz/newspapers/hawera-star"
         },
         {
           "id": 1840,
@@ -5506,7 +5537,8 @@
           "title": "Opunake Times",
           "firstYear": "1894",
           "finalYear": "1949",
-          "placename": "Opunake"
+          "placename": "Opunake",
+          "urlDigitized": "https://paperspast.natlib.govt.nz/newspapers/opunake-times"
         },
         {
           "id": 1838,
@@ -5676,7 +5708,8 @@
           "title": "Rangitikei Advocate and Manawatu Argus",
           "firstYear": "1875",
           "finalYear": "1941",
-          "placename": "Marton"
+          "placename": "Marton",
+          "urlDigitized": "https://paperspast.natlib.govt.nz/newspapers/rangitikei-advocate-and-manawatu-argus"
         },
         {
           "id": 1861,
@@ -5726,7 +5759,8 @@
           "title": "Taihape Daily Times",
           "firstYear": "1906",
           "finalYear": "1930",
-          "placename": "Taihape"
+          "placename": "Taihape",
+          "urlDigitized": "https://paperspast.natlib.govt.nz/newspapers/taihape-daily-times"
         },
         {
           "id": 1868,
@@ -5765,7 +5799,7 @@
           "finalYear": "9999",
           "placename": "Whanganui",
           "urlCurrent": "http://www.wanganuichronicle.co.nz/",
-          "urlDigitized": "http://paperspast.natlib.govt.nz/cgi-bin/paperspast?a=d&cl=CL1.WC"
+          "urlDigitized": "https://paperspast.natlib.govt.nz/newspapers/wanganui-chronicle"
         },
         {
           "id": 1878,
@@ -5780,7 +5814,7 @@
           "firstYear": "1867",
           "finalYear": "1876",
           "placename": "Whanganui",
-          "urlDigitized": "http://paperspast.natlib.govt.nz/cgi-bin/paperspast?a=d&cl=CL1.WH"
+          "urlDigitized": "https://paperspast.natlib.govt.nz/newspapers/wanganui-herald"
         },
         {
           "id": 1880,
@@ -5795,7 +5829,7 @@
           "firstYear": "1876",
           "finalYear": "1986",
           "placename": "Whanganui",
-          "urlDigitized": "http://paperspast.natlib.govt.nz/cgi-bin/paperspast?a=d&cl=CL1.WH"
+          "urlDigitized": "https://paperspast.natlib.govt.nz/newspapers/wanganui-herald"
         },
         {
           "id": 1882,
@@ -5824,7 +5858,8 @@
           "firstYear": "1898",
           "finalYear": "1900",
           "placename": "Whanganui",
-          "urlCurrent": "http://nzdl.org/cgi-bin/library?gg=_cgiarggg_&e=d-00000-00---0niupepa--00-0--0-10-0---0---0prompt-10---4-------0-1l--11-en-50---20-about---00-0-1-00-11-1-0utfZz-8-00&a=d&c=niupepa&cl=CL1.30"
+          "urlCurrent": "http://nzdl.org/cgi-bin/library?gg=_cgiarggg_&e=d-00000-00---0niupepa--00-0--0-10-0---0---0prompt-10---4-------0-1l--11-en-50---20-about---00-0-1-00-11-1-0utfZz-8-00&a=d&c=niupepa&cl=CL1.30",
+          "urlDigitized": "https://paperspast.natlib.govt.nz/newspapers/jubilee-te-tiupiri"
         },
         {
           "id": 1886,
@@ -5904,7 +5939,7 @@
           "firstYear": "1882",
           "finalYear": "1939",
           "placename": "Feilding",
-          "urlDigitized": "http://paperspast.natlib.govt.nz/cgi-bin/paperspast?a=d&cl=CL1.FS"
+          "urlDigitized": "https://paperspast.natlib.govt.nz/newspapers/feilding-star"
         },
         {
           "id": 1898,
@@ -5956,7 +5991,7 @@
           "firstYear": "1875",
           "finalYear": "1963",
           "placename": "Palmerston North",
-          "urlDigitized": "http://paperspast.natlib.govt.nz/cgi-bin/paperspast?a=d&cl=CL1.MT"
+          "urlDigitized": "https://paperspast.natlib.govt.nz/newspapers/manawatu-times"
         },
         {
           "id": 1905,
@@ -5972,7 +6007,7 @@
           "finalYear": "9999",
           "placename": "Palmerston North",
           "urlCurrent": "http://www.manawatustandard.co.nz/",
-          "urlDigitized": "http://paperspast.natlib.govt.nz/cgi-bin/paperspast?a=d&cl=CL1.MS"
+          "urlDigitized": "https://paperspast.natlib.govt.nz/newspapers/manawatu-standard"
         },
         {
           "id": 1912,
@@ -6074,7 +6109,7 @@
           "firstYear": "1888",
           "finalYear": "1901",
           "placename": "Dannevirke",
-          "urlDigitized": "http://paperspast.natlib.govt.nz/cgi-bin/paperspast?a=d&cl=CL1.BA"
+          "urlDigitized": "https://paperspast.natlib.govt.nz/newspapers/bush-advocate"
         },
         {
           "id": 1935,
@@ -6089,7 +6124,7 @@
           "firstYear": "1901",
           "finalYear": "1912",
           "placename": "Dannevirke",
-          "urlDigitized": "http://paperspast.natlib.govt.nz/cgi-bin/paperspast?a=d&cl=CL1.BA"
+          "urlDigitized": "https://paperspast.natlib.govt.nz/newspapers/bush-advocate"
         },
         {
           "id": 1938,
@@ -6145,14 +6180,16 @@
           "title": "Pahiatua Star and Eketahuna Advertiser",
           "firstYear": "1886",
           "finalYear": "1893",
-          "placename": "Pahiatua"
+          "placename": "Pahiatua",
+          "urlDigitized": "https://paperspast.natlib.govt.nz/newspapers/pahiatua-star-and-eketahuna-advertiser"
         },
         {
           "id": 1932,
           "title": "Pahiatua Herald",
           "firstYear": "1893",
           "finalYear": "1943",
-          "placename": "Pahiatua"
+          "placename": "Pahiatua",
+          "urlDigitized": "https://paperspast.natlib.govt.nz/newspapers/pahiatua-herald"
         },
         {
           "id": 1934,
@@ -6201,7 +6238,8 @@
           "title": "Woodville Examiner",
           "firstYear": "1883",
           "finalYear": "1891",
-          "placename": "Woodville"
+          "placename": "Woodville",
+          "urlDigitized": "https://paperspast.natlib.govt.nz/newspapers/woodville-examiner"
         },
         {
           "id": 1931,
@@ -6218,7 +6256,7 @@
           "firstYear": "1878",
           "finalYear": "1955",
           "placename": "Foxton",
-          "urlDigitized": "http://paperspast.natlib.govt.nz/cgi-bin/paperspast?a=d&cl=CL1.MH"
+          "urlDigitized": "https://paperspast.natlib.govt.nz/newspapers/manawatu-herald"
         },
         {
           "id": 1959,
@@ -6254,7 +6292,8 @@
           "title": "Shannon News",
           "firstYear": "1920",
           "finalYear": "1940",
-          "placename": "Levin"
+          "placename": "Levin",
+          "urlDigitized": "https://paperspast.natlib.govt.nz/newspapers/shannon-news"
         },
         {
           "id": 1955,
@@ -6340,7 +6379,7 @@
           "firstYear": "1878",
           "finalYear": "1892",
           "placename": "Masterton",
-          "urlDigitized": "http://paperspast.natlib.govt.nz/cgi-bin/paperspast?a=d&cl=CL1.WDT"
+          "urlDigitized": "https://paperspast.natlib.govt.nz/newspapers/wairarapa-daily-times"
         },
         {
           "id": 1980,
@@ -6369,21 +6408,23 @@
           "firstYear": "1892",
           "finalYear": "1938",
           "placename": "Masterton",
-          "urlDigitized": "http://paperspast.natlib.govt.nz/cgi-bin/paperspast?a=d&cl=CL1.WDT"
+          "urlDigitized": "https://paperspast.natlib.govt.nz/newspapers/wairarapa-daily-times"
         },
         {
           "id": 1985,
           "title": "Wairarapa Age",
           "firstYear": "1902",
           "finalYear": "1938",
-          "placename": "Masterton"
+          "placename": "Masterton",
+          "urlDigitized": "https://paperspast.natlib.govt.nz/newspapers/wairarapa-age"
         },
         {
           "id": 1986,
           "title": "Matuhi",
           "firstYear": "1903",
           "finalYear": "1906",
-          "placename": "Masterton"
+          "placename": "Masterton",
+          "urlDigitized": "https://paperspast.natlib.govt.nz/newspapers/matuhi"
         },
         {
           "id": 1987,
@@ -6610,7 +6651,8 @@
           "title": "Wairarapa Standard",
           "firstYear": "1872",
           "finalYear": "1942",
-          "placename": "Greytown"
+          "placename": "Greytown",
+          "urlDigitized": "https://paperspast.natlib.govt.nz/newspapers/wairarapa-standard"
         },
         {
           "id": 2024,
@@ -6634,7 +6676,7 @@
           "firstYear": "1911",
           "finalYear": "1930",
           "placename": "Upper Hutt",
-          "urlDigitized": "http://paperspast.natlib.govt.nz/cgi-bin/paperspast?a=d&cl=CL1.HVI"
+          "urlDigitized": "https://paperspast.natlib.govt.nz/newspapers/hutt-valley-independent"
         },
         {
           "id": 2026,
@@ -6656,7 +6698,7 @@
           "firstYear": "1935",
           "finalYear": "1939",
           "placename": "Upper Hutt",
-          "urlDigitized": "http://paperspast.natlib.govt.nz/cgi-bin/paperspast?a=d&cl=CL1.UHWR"
+          "urlDigitized": "https://paperspast.natlib.govt.nz/newspapers/upper-hutt-weekly-review"
         },
         {
           "id": 2031,
@@ -6792,7 +6834,7 @@
           "finalYear": "9999",
           "placename": "Lower Hutt",
           "urlCurrent": "http://www.stuff.co.nz/dominion-post/news/local-papers/hutt-news",
-          "urlDigitized": "http://paperspast.natlib.govt.nz/cgi-bin/paperspast?a=d&cl=CL1.HN"
+          "urlDigitized": "https://paperspast.natlib.govt.nz/newspapers/hutt-news"
         },
         {
           "id": 2047,
@@ -6985,7 +7027,7 @@
           "firstYear": "1839",
           "finalYear": "1844",
           "placename": "Port Nicholson",
-          "urlDigitized": "http://paperspast.natlib.govt.nz/cgi-bin/paperspast?a=d&cl=CL1.NZGWS"
+          "urlDigitized": "https://paperspast.natlib.govt.nz/newspapers/new-zealand-gazette-and-wellington-spectator"
         },
         {
           "id": 2077,
@@ -7015,7 +7057,7 @@
           "finalYear": "1841",
           "placename": "Wellington",
           "urlCurrent": "http://ndhadeliver.natlib.govt.nz/content-aggregator/getIEs?system=ilsdb&id=932905",
-          "urlDigitized": "http://paperspast.natlib.govt.nz/cgi-bin/paperspast?a=d&cl=CL1.VT"
+          "urlDigitized": "https://paperspast.natlib.govt.nz/newspapers/victoria-times"
         },
         {
           "id": 2097,
@@ -7023,7 +7065,7 @@
           "firstYear": "1842",
           "finalYear": "1843",
           "placename": "Wellington",
-          "urlDigitized": "http://paperspast.natlib.govt.nz/cgi-bin/paperspast?a=d&cl=CL1.NZCPNA"
+          "urlDigitized": "https://paperspast.natlib.govt.nz/newspapers/new-zealand-colonist-and-port-nicholson-advertiser"
         },
         {
           "id": 2098,
@@ -7031,7 +7073,7 @@
           "firstYear": "1844",
           "finalYear": "1865",
           "placename": "Wellington",
-          "urlDigitized": "http://paperspast.natlib.govt.nz/cgi-bin/paperspast?a=d&cl=CL1.NZSCSG&e=-------10--1----0--"
+          "urlDigitized": "https://paperspast.natlib.govt.nz/newspapers/new-zealand-spectator-and-cook-s-strait-guardian"
         },
         {
           "id": 2099,
@@ -7054,14 +7096,15 @@
           "firstYear": "1865",
           "finalYear": "2002",
           "placename": "Wellington",
-          "urlDigitized": "http://paperspast.natlib.govt.nz/cgi-bin/paperspast?a=d&cl=CL1.EP"
+          "urlDigitized": "https://paperspast.natlib.govt.nz/newspapers/evening-post"
         },
         {
           "id": 2102,
           "title": "New Zealand Times",
           "firstYear": "1867",
           "finalYear": "1869",
-          "placename": "Wellington"
+          "placename": "Wellington",
+          "urlDigitized": "https://paperspast.natlib.govt.nz/newspapers/new-zealand-times"
         },
         {
           "id": 2103,
@@ -7083,7 +7126,7 @@
           "firstYear": "1874",
           "finalYear": "1927",
           "placename": "Wellington",
-          "urlDigitized": "http://paperspast.natlib.govt.nz/cgi-bin/paperspast?a=d&cl=CL1.WI"
+          "urlDigitized": "https://paperspast.natlib.govt.nz/newspapers/wellington-independent"
         },
         {
           "id": 2105,
@@ -7245,7 +7288,7 @@
           "firstYear": "1900",
           "finalYear": "1960",
           "placename": "Wellington",
-          "urlDigitized": "http://paperspast.natlib.govt.nz/cgi-bin/paperspast?a=d&cl=CL1.NZFL"
+          "urlDigitized": "https://paperspast.natlib.govt.nz/newspapers/free-lance"
         },
         {
           "id": 2129,
@@ -7260,7 +7303,7 @@
           "firstYear": "1905",
           "finalYear": "1988",
           "placename": "Wellington",
-          "urlDigitized": "http://paperspast.natlib.govt.nz/cgi-bin/paperspast?a=d&cl=CL1.NZTR"
+          "urlDigitized": "https://paperspast.natlib.govt.nz/newspapers/nz-truth"
         },
         {
           "id": 2131,
@@ -7275,7 +7318,7 @@
           "firstYear": "1907",
           "finalYear": "2002",
           "placename": "Wellington",
-          "urlDigitized": "http://paperspast.natlib.govt.nz/cgi-bin/paperspast?a=d&cl=CL1.DOM"
+          "urlDigitized": "https://paperspast.natlib.govt.nz/newspapers/dominion"
         },
         {
           "id": 2132,
@@ -7304,7 +7347,7 @@
           "firstYear": "1910",
           "finalYear": "1924",
           "placename": "Wellington",
-          "urlDigitized": "http://paperspast.natlib.govt.nz/cgi-bin/paperspast?a=d&cl=CL1.MW"
+          "urlDigitized": "https://paperspast.natlib.govt.nz/newspapers/maoriland-worker"
         },
         {
           "id": 2137,
@@ -7881,7 +7924,7 @@
           "firstYear": "1845",
           "finalYear": "1874",
           "placename": "Wellington",
-          "urlDigitized": "http://paperspast.natlib.govt.nz/cgi-bin/paperspast?a=d&cl=CL1.WI"
+          "urlDigitized": "https://paperspast.natlib.govt.nz/newspapers/wellington-independent"
         },
         {
           "id": 2074,
@@ -7976,7 +8019,8 @@
           "title": "Golden Bay Argus",
           "firstYear": "1883",
           "finalYear": "1915",
-          "placename": "Collingwood"
+          "placename": "Collingwood",
+          "urlDigitized": "https://paperspast.natlib.govt.nz/newspapers/golden-bay-argus"
         },
         {
           "id": 2220,
@@ -7990,7 +8034,8 @@
           "title": "Motueka Star",
           "firstYear": "1901",
           "finalYear": "1938",
-          "placename": "Motueka"
+          "placename": "Motueka",
+          "urlDigitized": "https://paperspast.natlib.govt.nz/newspapers/motueka-star"
         },
         {
           "id": 2226,
@@ -8098,7 +8143,7 @@
           "firstYear": "1842",
           "finalYear": "1874",
           "placename": "Nelson",
-          "urlDigitized": "http://paperspast.natlib.govt.nz/cgi-bin/paperspast?a=d&cl=CL1.NENZC"
+          "urlDigitized": "https://paperspast.natlib.govt.nz/newspapers/nelson-examiner-and-new-zealand-chronicle"
         },
         {
           "id": 2239,
@@ -8106,7 +8151,7 @@
           "firstYear": "1857",
           "finalYear": "1920",
           "placename": "Nelson",
-          "urlDigitized": "http://paperspast.natlib.govt.nz/cgi-bin/paperspast?a=d&cl=CL1.TC"
+          "urlDigitized": "https://paperspast.natlib.govt.nz/newspapers/colonist"
         },
         {
           "id": 2240,
@@ -8121,7 +8166,7 @@
           "firstYear": "1866",
           "finalYear": "1995",
           "placename": "Nelson",
-          "urlDigitized": "http://paperspast.natlib.govt.nz/cgi-bin/paperspast?a=d&cl=CL1.NEM"
+          "urlDigitized": "https://paperspast.natlib.govt.nz/newspapers/nelson-evening-mail"
         },
         {
           "id": 2245,
@@ -8247,7 +8292,7 @@
           "finalYear": "9999",
           "placename": "Blenheim",
           "urlCurrent": "http://www.marlboroughexpress.co.nz/",
-          "urlDigitized": "http://paperspast.natlib.govt.nz/cgi-bin/paperspast?a=d&cl=CL1.MEX"
+          "urlDigitized": "https://paperspast.natlib.govt.nz/newspapers/marlborough-express"
         },
         {
           "id": 2267,
@@ -8275,7 +8320,8 @@
           "title": "Marlborough Daily Times",
           "firstYear": "1882",
           "finalYear": "1905",
-          "placename": "Blenheim"
+          "placename": "Blenheim",
+          "urlDigitized": "https://paperspast.natlib.govt.nz/newspapers/marlborough-daily-times"
         },
         {
           "id": 2271,
@@ -8331,7 +8377,8 @@
           "title": "Pelorus Guardian and Miners' Advocate",
           "firstYear": "1890",
           "finalYear": "1920",
-          "placename": "Havelock"
+          "placename": "Havelock",
+          "urlDigitized": "https://paperspast.natlib.govt.nz/newspapers/pelorus-guardian-and-miners-advocate"
         },
         {
           "id": 2274,
@@ -8352,7 +8399,8 @@
           "title": "Marlborough Press",
           "firstYear": "1860",
           "finalYear": "1948",
-          "placename": "Picton"
+          "placename": "Picton",
+          "urlDigitized": "https://paperspast.natlib.govt.nz/newspapers/marlborough-press"
         },
         {
           "id": 2277,
@@ -8383,7 +8431,7 @@
           "firstYear": "1867",
           "finalYear": "1867",
           "placename": "Charleston",
-          "urlDigitized": "http://paperspast.natlib.govt.nz/cgi-bin/paperspast?a=d&cl=CL1.CHARG"
+          "urlDigitized": "https://paperspast.natlib.govt.nz/newspapers/charleston-argus"
         },
         {
           "id": 2288,
@@ -8405,7 +8453,7 @@
           "firstYear": "1881",
           "finalYear": "1898",
           "placename": "Lyell",
-          "urlDigitized": "http://paperspast.natlib.govt.nz/cgi-bin/paperspast?a=d&cl=CL1.LTCBG"
+          "urlDigitized": "https://paperspast.natlib.govt.nz/newspapers/lyell-times-and-central-buller-gazette"
         },
         {
           "id": 2291,
@@ -8427,7 +8475,7 @@
           "firstYear": "1875",
           "finalYear": "1942",
           "placename": "Reefton",
-          "urlDigitized": "http://paperspast.natlib.govt.nz/cgi-bin/paperspast?a=d&cl=CL1.IT"
+          "urlDigitized": "https://paperspast.natlib.govt.nz/newspapers/inangahua-times"
         },
         {
           "id": 2303,
@@ -8477,7 +8525,7 @@
           "firstYear": "1869",
           "finalYear": "1892",
           "placename": "Westport",
-          "urlDigitized": "http://paperspast.natlib.govt.nz/cgi-bin/paperspast?a=d&cl=CL1.WEST"
+          "urlDigitized": "https://paperspast.natlib.govt.nz/newspapers/westport-times"
         },
         {
           "id": 2290,
@@ -8544,14 +8592,15 @@
           "firstYear": "1865",
           "finalYear": "1966",
           "placename": "Greymouth",
-          "urlDigitized": "http://paperspast.natlib.govt.nz/cgi-bin/paperspast?a=d&cl=CL1.GRA"
+          "urlDigitized": "https://paperspast.natlib.govt.nz/newspapers/grey-river-argus"
         },
         {
           "id": 2313,
           "title": "Greymouth Evening Star",
           "firstYear": "1866",
           "finalYear": "2006",
-          "placename": "Greymouth"
+          "placename": "Greymouth",
+          "urlDigitized": "https://paperspast.natlib.govt.nz/newspapers/greymouth-evening-star"
         },
         {
           "id": 2315,
@@ -8596,7 +8645,8 @@
           "title": "Evening Star",
           "firstYear": "1865",
           "finalYear": "1884",
-          "placename": "Hokitika"
+          "placename": "Hokitika",
+          "urlDigitized": "https://paperspast.natlib.govt.nz/newspapers/evening-star"
         },
         {
           "id": 2324,
@@ -8618,7 +8668,7 @@
           "firstYear": "1865",
           "finalYear": "1917",
           "placename": "Hokitika",
-          "urlDigitized": "http://paperspast.natlib.govt.nz/cgi-bin/paperspast?a=d&cl=CL1.WCT"
+          "urlDigitized": "https://paperspast.natlib.govt.nz/newspapers/west-coast-times"
         },
         {
           "id": 2326,
@@ -8674,7 +8724,8 @@
           "title": "Hokitika Guardian [1881]",
           "firstYear": "1881",
           "finalYear": "1988",
-          "placename": "Hokitika"
+          "placename": "Hokitika",
+          "urlDigitized": "https://paperspast.natlib.govt.nz/newspapers/hokitika-guardian"
         },
         {
           "id": 2340,
@@ -8703,7 +8754,8 @@
           "title": "Kumara Times",
           "firstYear": "1876",
           "finalYear": "1917",
-          "placename": "Kumara"
+          "placename": "Kumara",
+          "urlDigitized": "https://paperspast.natlib.govt.nz/newspapers/kumara-times"
         },
         {
           "id": 2339,
@@ -8858,7 +8910,7 @@
           "firstYear": "1880",
           "finalYear": "1981",
           "placename": "Leeston",
-          "urlDigitized": "http://paperspast.natlib.govt.nz/cgi-bin/paperspast?a=d&cl=CL1.EG"
+          "urlDigitized": "https://paperspast.natlib.govt.nz/newspapers/ellesmere-guardian"
         },
         {
           "id": 2354,
@@ -8903,7 +8955,7 @@
           "firstYear": "1889",
           "finalYear": "1901",
           "placename": "East Oxford",
-          "urlDigitized": "http://paperspast.natlib.govt.nz/cgi-bin/paperspast?a=d&cl=CL1.OO"
+          "urlDigitized": "https://paperspast.natlib.govt.nz/newspapers/oxford-observer"
         },
         {
           "id": 2364,
@@ -8973,7 +9025,8 @@
           "title": "North Canterbury Gazette",
           "firstYear": "1932",
           "finalYear": "1962",
-          "placename": "Rangiora"
+          "placename": "Rangiora",
+          "urlDigitized": "https://paperspast.natlib.govt.nz/newspapers/north-canterbury-gazette"
         },
         {
           "id": 2373,
@@ -9011,7 +9064,7 @@
           "firstYear": "1876",
           "finalYear": "9999",
           "placename": "Akaroa",
-          "urlDigitized": "http://paperspast.natlib.govt.nz/cgi-bin/paperspast?a=d&cl=CL1.AMBPA"
+          "urlDigitized": "https://paperspast.natlib.govt.nz/newspapers/akaroa-mail-and-banks-peninsula-advertiser"
         },
         {
           "id": 2410,
@@ -9027,7 +9080,7 @@
           "finalYear": "9999",
           "placename": "Christchurch",
           "urlCurrent": "http://www.thepress.co.nz/",
-          "urlDigitized": "http://paperspast.natlib.govt.nz/cgi-bin/paperspast?a=d&cl=CL1.CHP"
+          "urlDigitized": "https://paperspast.natlib.govt.nz/newspapers/press"
         },
         {
           "id": 2412,
@@ -9056,14 +9109,15 @@
           "firstYear": "1868",
           "finalYear": "1935",
           "placename": "Christchurch",
-          "urlDigitized": "http://paperspast.natlib.govt.nz/cgi-bin/paperspast?a=d&cl=CL1.TS"
+          "urlDigitized": "https://paperspast.natlib.govt.nz/newspapers/star-christchurch"
         },
         {
           "id": 2416,
           "title": "Globe",
           "firstYear": "1874",
           "finalYear": "1883",
-          "placename": "Christchurch"
+          "placename": "Christchurch",
+          "urlDigitized": "https://paperspast.natlib.govt.nz/newspapers/globe"
         },
         {
           "id": 2417,
@@ -9702,7 +9756,7 @@
           "firstYear": "1914",
           "finalYear": "1935",
           "placename": "Christchurch",
-          "urlDigitized": "http://paperspast.natlib.govt.nz/cgi-bin/paperspast?a=d&cl=CL1.SUNCH"
+          "urlDigitized": "https://paperspast.natlib.govt.nz/newspapers/sun-christchurch"
         },
         {
           "id": 2384,
@@ -9831,7 +9885,7 @@
           "firstYear": "1851",
           "finalYear": "1929",
           "placename": "Lyttelton",
-          "urlDigitized": "http://paperspast.natlib.govt.nz/cgi-bin/paperspast?a=d&cl=CL1.LT"
+          "urlDigitized": "https://paperspast.natlib.govt.nz/newspapers/lyttelton-times"
         },
         {
           "id": 2379,
@@ -9905,14 +9959,15 @@
           "finalYear": "9999",
           "placename": "Ashburton",
           "urlCurrent": "http://www.ashburtonguardian.co.nz/",
-          "urlDigitized": "http://paperspast.natlib.govt.nz/cgi-bin/paperspast?a=d&cl=CL1.AG"
+          "urlDigitized": "https://paperspast.natlib.govt.nz/newspapers/ashburton-guardian"
         },
         {
           "id": 2508,
           "title": "Ashburton Herald",
           "firstYear": "1879",
           "finalYear": "1880",
-          "placename": "Ashburton"
+          "placename": "Ashburton",
+          "urlDigitized": "https://paperspast.natlib.govt.nz/newspapers/ashburton-herald"
         },
         {
           "id": 2510,
@@ -9987,7 +10042,8 @@
           "title": "Temuka Leader",
           "firstYear": "1877",
           "finalYear": "1932",
-          "placename": "Temuka"
+          "placename": "Temuka",
+          "urlDigitized": "https://paperspast.natlib.govt.nz/newspapers/temuka-leader"
         },
         {
           "id": 2525,
@@ -10024,14 +10080,15 @@
           "finalYear": "9999",
           "placename": "Timaru",
           "urlCurrent": "http://www.stuff.co.nz/stuff/timaruherald/",
-          "urlDigitized": "http://paperspast.natlib.govt.nz/cgi-bin/paperspast?a=d&cl=CL1.THD"
+          "urlDigitized": "https://paperspast.natlib.govt.nz/newspapers/timaru-herald"
         },
         {
           "id": 2519,
           "title": "South Canterbury Times",
           "firstYear": "1873",
           "finalYear": "1901",
-          "placename": "Timaru"
+          "placename": "Timaru",
+          "urlDigitized": "https://paperspast.natlib.govt.nz/newspapers/south-canterbury-times"
         },
         {
           "id": 2521,
@@ -10140,7 +10197,7 @@
           "firstYear": "1898",
           "finalYear": "1980",
           "placename": "Waimate",
-          "urlDigitized": "http://paperspast.natlib.govt.nz/cgi-bin/paperspast?a=d&cl=CL1&sp=WDA"
+          "urlDigitized": "https://paperspast.natlib.govt.nz/newspapers/waimate-daily-advertiser"
         }
       ],
       "Waitaki District": [
@@ -10150,7 +10207,7 @@
           "firstYear": "1864",
           "finalYear": "1872",
           "placename": "Oamaru",
-          "urlDigitized": "http://paperspast.natlib.govt.nz/cgi-bin/paperspast?a=d&cl=CL1.NOT"
+          "urlDigitized": "https://paperspast.natlib.govt.nz/newspapers/north-otago-times"
         },
         {
           "id": 2548,
@@ -10158,7 +10215,7 @@
           "firstYear": "1872",
           "finalYear": "1932",
           "placename": "Oamaru",
-          "urlDigitized": "http://paperspast.natlib.govt.nz/cgi-bin/paperspast?a=d&cl=CL1.NOT"
+          "urlDigitized": "https://paperspast.natlib.govt.nz/newspapers/north-otago-times"
         },
         {
           "id": 2549,
@@ -10166,7 +10223,7 @@
           "firstYear": "1876",
           "finalYear": "1879",
           "placename": "Oamaru",
-          "urlDigitized": "http://paperspast.natlib.govt.nz/cgi-bin/paperspast?a=d&cl=CL1.OAM"
+          "urlDigitized": "https://paperspast.natlib.govt.nz/newspapers/oamaru-mail"
         },
         {
           "id": 2551,
@@ -10175,7 +10232,7 @@
           "finalYear": "9999",
           "placename": "Oamaru",
           "urlCurrent": "http://www.oamarumail.co.nz/",
-          "urlDigitized": "http://paperspast.natlib.govt.nz/cgi-bin/paperspast?a=d&cl=CL1.OAM"
+          "urlDigitized": "https://paperspast.natlib.govt.nz/newspapers/oamaru-mail"
         },
         {
           "id": 2552,
@@ -10207,7 +10264,8 @@
           "title": "Lake County Press",
           "firstYear": "1882",
           "finalYear": "1928",
-          "placename": "Arrowtown"
+          "placename": "Arrowtown",
+          "urlDigitized": "https://paperspast.natlib.govt.nz/newspapers/lake-county-press"
         },
         {
           "id": 2555,
@@ -10215,14 +10273,15 @@
           "firstYear": "1863",
           "finalYear": "1953",
           "placename": "Queenstown",
-          "urlDigitized": "http://paperspast.natlib.govt.nz/cgi-bin/paperspast?a=d&cl=CL1.LWM"
+          "urlDigitized": "https://paperspast.natlib.govt.nz/newspapers/lake-wakatip-mail"
         },
         {
           "id": 2557,
           "title": "Lake County Mail",
           "firstYear": "1947",
           "finalYear": "1948",
-          "placename": "Queenstown"
+          "placename": "Queenstown",
+          "urlDigitized": "https://paperspast.natlib.govt.nz/newspapers/lake-county-mail"
         },
         {
           "id": 2558,
@@ -10275,7 +10334,8 @@
           "title": "Dunstan Times",
           "firstYear": "1864",
           "finalYear": "1948",
-          "placename": "Clyde"
+          "placename": "Clyde",
+          "urlDigitized": "https://paperspast.natlib.govt.nz/newspapers/dunstan-times"
         },
         {
           "id": 2565,
@@ -10289,7 +10349,8 @@
           "title": "The Cromwell Argus, and Northern Gold-fields Gazette",
           "firstYear": "1869",
           "finalYear": "1948",
-          "placename": "Cromwell"
+          "placename": "Cromwell",
+          "urlDigitized": "https://paperspast.natlib.govt.nz/newspapers/cromwell-argus"
         },
         {
           "id": 2563,
@@ -10297,7 +10358,7 @@
           "firstYear": "1869",
           "finalYear": "1926",
           "placename": "Naseby",
-          "urlDigitized": "http://paperspast.natlib.govt.nz/cgi-bin/paperspast?a=d&cl=CL1.MIC"
+          "urlDigitized": "https://paperspast.natlib.govt.nz/newspapers/mount-ida-chronicle"
         },
         {
           "id": 2566,
@@ -10305,7 +10366,7 @@
           "firstYear": "1880",
           "finalYear": "1941",
           "placename": "Roxburgh",
-          "urlDigitized": "http://paperspast.natlib.govt.nz/cgi-bin/paperspast?a=d&cl=CL1.MTBM"
+          "urlDigitized": "https://paperspast.natlib.govt.nz/newspapers/mt-benger-mail"
         },
         {
           "id": 2567,
@@ -10329,7 +10390,7 @@
           "firstYear": "1851",
           "finalYear": "1932",
           "placename": "Dunedin",
-          "urlDigitized": "http://paperspast.natlib.govt.nz/cgi-bin/paperspast?a=d&cl=CL1.OW"
+          "urlDigitized": "https://paperspast.natlib.govt.nz/newspapers/otago-witness"
         },
         {
           "id": 2572,
@@ -10345,7 +10406,7 @@
           "finalYear": "9999",
           "placename": "Dunedin",
           "urlCurrent": "http://www.odt.co.nz/",
-          "urlDigitized": "http://paperspast.natlib.govt.nz/cgi-bin/paperspast?a=d&cl=CL1.ODT"
+          "urlDigitized": "https://paperspast.natlib.govt.nz/newspapers/otago-daily-times"
         },
         {
           "id": 2574,
@@ -10380,7 +10441,8 @@
           "title": "Evening Star",
           "firstYear": "1863",
           "finalYear": "1979",
-          "placename": "Dunedin"
+          "placename": "Dunedin",
+          "urlDigitized": "https://paperspast.natlib.govt.nz/newspapers/evening-star"
         },
         {
           "id": 2579,
@@ -10458,7 +10520,8 @@
           "firstYear": "1875",
           "finalYear": "1893",
           "placename": "Dunedin",
-          "urlCurrent": "http://www.westportnews.co.nz/"
+          "urlCurrent": "http://www.westportnews.co.nz/",
+          "urlDigitized": "https://paperspast.natlib.govt.nz/newspapers/waipawa-mail"
         },
         {
           "id": 2596,
@@ -10722,7 +10785,7 @@
           "finalYear": "9999",
           "placename": "Balclutha",
           "urlCurrent": "http://cluthaleader.realviewdigital.com/",
-          "urlDigitized": "http://paperspast.natlib.govt.nz/cgi-bin/paperspast?a=d&cl=CL1.CL"
+          "urlDigitized": "https://paperspast.natlib.govt.nz/newspapers/clutha-leader"
         },
         {
           "id": 2641,
@@ -10779,7 +10842,7 @@
           "firstYear": "1868",
           "finalYear": "1941",
           "placename": "Lawrence",
-          "urlDigitized": "http://paperspast.natlib.govt.nz/cgi-bin/paperspast?a=d&cl=CL1.TT"
+          "urlDigitized": "https://paperspast.natlib.govt.nz/newspapers/tuapeka-times"
         },
         {
           "id": 2644,
@@ -10801,7 +10864,7 @@
           "firstYear": "1864",
           "finalYear": "1971",
           "placename": "Milton",
-          "urlDigitized": "http://paperspast.natlib.govt.nz/cgi-bin/paperspast?a=d&cl=CL1.BH"
+          "urlDigitized": "https://paperspast.natlib.govt.nz/newspapers/bruce-herald"
         },
         {
           "id": 2647,
@@ -10875,7 +10938,7 @@
           "firstYear": "1862",
           "finalYear": "1864",
           "placename": "Invercargill",
-          "urlDigitized": "http://paperspast.natlib.govt.nz/cgi-bin/paperspast?a=d&cl=CL1.ST"
+          "urlDigitized": "https://paperspast.natlib.govt.nz/newspapers/southland-times"
         },
         {
           "id": 2658,
@@ -10898,7 +10961,7 @@
           "finalYear": "9999",
           "placename": "Invercargill",
           "urlCurrent": "http://www.southlandtimes.co.nz/",
-          "urlDigitized": "http://paperspast.natlib.govt.nz/cgi-bin/paperspast?a=d&cl=CL1.ST"
+          "urlDigitized": "https://paperspast.natlib.govt.nz/newspapers/southland-times"
         },
         {
           "id": 2666,
@@ -10919,7 +10982,8 @@
           "title": "Southern Cross",
           "firstYear": "1893",
           "finalYear": "1946",
-          "placename": "Invercargill"
+          "placename": "Invercargill",
+          "urlDigitized": "https://paperspast.natlib.govt.nz/newspapers/southern-cross"
         },
         {
           "id": 2681,
@@ -11000,7 +11064,7 @@
           "firstYear": "1905",
           "finalYear": "1946",
           "placename": "Otautau",
-          "urlDigitized": "http://paperspast.natlib.govt.nz/cgi-bin/paperspast?a=d&cl=CL1.OSWCC"
+          "urlDigitized": "https://paperspast.natlib.govt.nz/newspapers/otautau-standard-and-wallace-county-chronicle"
         },
         {
           "id": 2679,
@@ -11028,7 +11092,8 @@
           "title": "Western Star",
           "firstYear": "1873",
           "finalYear": "1942",
-          "placename": "Riverton"
+          "placename": "Riverton",
+          "urlDigitized": "https://paperspast.natlib.govt.nz/newspapers/western-star"
         },
         {
           "id": 2686,
@@ -11095,7 +11160,7 @@
           "firstYear": "1878",
           "finalYear": "1973",
           "placename": "Gore",
-          "urlDigitized": "http://paperspast.natlib.govt.nz/cgi-bin/paperspast?a=d&cl=CL1.ME"
+          "urlDigitized": "https://paperspast.natlib.govt.nz/newspapers/mataura-ensign"
         },
         {
           "id": 2696,

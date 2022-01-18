@@ -10,13 +10,14 @@
       "title": "The Hawke's Bay Herald",
       "firstYear": "1857",
       "finalYear": "1937",
-      "urlDigitized": "http://paperspast.natlib.govt.nz/cgi-bin/paperspast?a=d&cl=CL1.HBH"
+      "urlDigitized": "https://paperspast.natlib.govt.nz/newspapers/hawke-s-bay-herald"
     },
     {
       "id": "1758",
       "title": "Hawke's Bay Times",
       "firstYear": "1861",
-      "finalYear": "1874"
+      "finalYear": "1874",
+      "urlDigitized": "https://paperspast.natlib.govt.nz/newspapers/hawke-s-bay-times"
     },
     {
       "id": "1759",
@@ -36,14 +37,15 @@
       "title": "The Daily Telegraph",
       "firstYear": "1871",
       "finalYear": "1999",
-      "urlDigitized": "http://paperspast.natlib.govt.nz/cgi-bin/paperspast?a=d&cl=CL1.DTN"
+      "urlDigitized": "https://paperspast.natlib.govt.nz/newspapers/daily-telegraph"
     },
     {
       "id": "1763",
       "title": "Wananga",
       "firstYear": "1874",
       "finalYear": "1878",
-      "urlCurrent": "http://nzdl.org/cgi-bin/library?gg=_cgiarggg_&e=d-00000-00---0niupepa--00-0--0-10-0---0---0prompt-10---4-------0-1l--11-en-50---20-about---00-0-1-00-11-1-0utfZz-8-00&a=d&c=niupepa&cl=CL1.16"
+      "urlCurrent": "http://nzdl.org/cgi-bin/library?gg=_cgiarggg_&e=d-00000-00---0niupepa--00-0--0-10-0---0---0prompt-10---4-------0-1l--11-en-50---20-about---00-0-1-00-11-1-0utfZz-8-00&a=d&c=niupepa&cl=CL1.16",
+      "urlDigitized": "https://paperspast.natlib.govt.nz/newspapers/wananga"
     },
     {
       "id": "1764",

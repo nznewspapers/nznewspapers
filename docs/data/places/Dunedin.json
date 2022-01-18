@@ -16,7 +16,7 @@
       "title": "The Otago Witness",
       "firstYear": "1851",
       "finalYear": "1932",
-      "urlDigitized": "http://paperspast.natlib.govt.nz/cgi-bin/paperspast?a=d&cl=CL1.OW"
+      "urlDigitized": "https://paperspast.natlib.govt.nz/newspapers/otago-witness"
     },
     {
       "id": "2572",
@@ -30,7 +30,7 @@
       "firstYear": "1861",
       "finalYear": "9999",
       "urlCurrent": "http://www.odt.co.nz/",
-      "urlDigitized": "http://paperspast.natlib.govt.nz/cgi-bin/paperspast?a=d&cl=CL1.ODT"
+      "urlDigitized": "https://paperspast.natlib.govt.nz/newspapers/otago-daily-times"
     },
     {
       "id": "2574",
@@ -60,7 +60,8 @@
       "id": "2578",
       "title": "Evening Star",
       "firstYear": "1863",
-      "finalYear": "1979"
+      "finalYear": "1979",
+      "urlDigitized": "https://paperspast.natlib.govt.nz/newspapers/evening-star"
     },
     {
       "id": "2579",
@@ -127,7 +128,8 @@
       "title": "New Zealand Public Opinion, Sportsman and Saturday Advertiser",
       "firstYear": "1875",
       "finalYear": "1893",
-      "urlCurrent": "http://www.westportnews.co.nz/"
+      "urlCurrent": "http://www.westportnews.co.nz/",
+      "urlDigitized": "https://paperspast.natlib.govt.nz/newspapers/waipawa-mail"
     },
     {
       "id": "2596",
