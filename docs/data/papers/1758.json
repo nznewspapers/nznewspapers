@@ -8,10 +8,12 @@
   "frequency": "Daily",
   "idMarcControlNumber": "4871233",
   "idNZNewspapersV1": "4035",
+  "idPapersPastCode": "HBT",
   "isCurrent": false,
   "placecode": "06-03",
   "placename": "Napier",
   "region": "Hawke's Bay",
+  "urlDigitized": "https://paperspast.natlib.govt.nz/newspapers/hawke-s-bay-times",
   "links": {
     "1760": {
       "direction": "Has Edition",
@@ -19,8 +21,9 @@
     }
   },
   "sources": {
-    "2013-04-02T08:58:38.000Z": "Extracted from the New Zealand National Bibliography (MARC record 4871233) downloaded March 2013.",
-    "2014-04-10T10:28:24.000Z": "Modified by gordon.paynter"
+    "2022-01-18T04:19:28.895Z": "Updated Papers Past info using the nzn-paperspast-updater.js script.",
+    "2014-04-10T10:28:24.000Z": "Modified by gordon.paynter",
+    "2013-04-02T08:58:38.000Z": "Extracted from the New Zealand National Bibliography (MARC record 4871233) downloaded March 2013."
   },
-  "revision": 5
+  "revision": 6
 }

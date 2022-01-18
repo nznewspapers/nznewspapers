@@ -6,10 +6,12 @@
   "finalYear": "1916",
   "district": "Rotorua District",
   "idNZNewspapersV1": "399001",
+  "idPapersPastCode": "HLC",
   "isCurrent": false,
   "placecode": "04-05",
   "placename": "Rotorua",
   "region": "Bay of Plenty",
+  "urlDigitized": "https://paperspast.natlib.govt.nz/newspapers/hot-lakes-chronicle",
   "links": {
     "1673": {
       "direction": "Has Edition",
@@ -22,7 +24,8 @@
     }
   },
   "sources": {
+    "2022-01-18T04:19:28.897Z": "Updated Papers Past info using the nzn-paperspast-updater.js script.",
     "2013-09-13T08:50:25.000Z": "Modified by gordon.paynter"
   },
-  "revision": 4
+  "revision": 5
 }

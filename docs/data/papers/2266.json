@@ -16,7 +16,7 @@
   "price": "Gratis",
   "region": "Top of the South",
   "urlCurrent": "http://www.marlboroughexpress.co.nz/",
-  "urlDigitized": "http://paperspast.natlib.govt.nz/cgi-bin/paperspast?a=d&cl=CL1.MEX",
+  "urlDigitized": "https://paperspast.natlib.govt.nz/newspapers/marlborough-express",
   "notes": {
     "179002": "Saturday Edition is called 'Saturday Express'."
   },
@@ -32,8 +32,9 @@
     }
   },
   "sources": {
-    "2013-04-02T08:58:38.000Z": "Extracted from the New Zealand National Bibliography (MARC record 3531187) downloaded March 2013.",
-    "2014-05-07T09:47:09.000Z": "Modified by DataBot"
+    "2022-01-18T04:19:28.928Z": "Updated Papers Past info using the nzn-paperspast-updater.js script.",
+    "2014-05-07T09:47:09.000Z": "Modified by DataBot",
+    "2013-04-02T08:58:38.000Z": "Extracted from the New Zealand National Bibliography (MARC record 3531187) downloaded March 2013."
   },
-  "revision": 14
+  "revision": 15
 }

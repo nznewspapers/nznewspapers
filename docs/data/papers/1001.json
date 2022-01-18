@@ -15,10 +15,11 @@
   "placecode": "01-01",
   "placename": "Russell",
   "region": "Northland",
-  "urlDigitized": "http://paperspast.natlib.govt.nz/cgi-bin/paperspast?a=d&cl=CL1.NZABIG",
+  "urlDigitized": "https://paperspast.natlib.govt.nz/newspapers/new-zealand-advertiser-and-bay-of-islands-gazette",
   "sources": {
-    "2013-04-02T08:58:38.000Z": "Extracted from the New Zealand National Bibliography (MARC record 7665176) downloaded March 2013.",
-    "2014-05-07T09:13:35.000Z": "Modified by DataBot"
+    "2022-01-18T04:19:28.935Z": "Updated Papers Past info using the nzn-paperspast-updater.js script.",
+    "2014-05-07T09:13:35.000Z": "Modified by DataBot",
+    "2013-04-02T08:58:38.000Z": "Extracted from the New Zealand National Bibliography (MARC record 7665176) downloaded March 2013."
   },
-  "revision": 10
+  "revision": 11
 }

@@ -8,10 +8,12 @@
   "frequency": "Weekly",
   "idMarcControlNumber": "8157166",
   "idNZNewspapersV1": "59085",
+  "idPapersPastCode": "HPDG",
   "isCurrent": false,
   "placecode": "03-03",
   "placename": "Huntly",
   "region": "Waikato",
+  "urlDigitized": "https://paperspast.natlib.govt.nz/newspapers/huntly-press-and-district-gazette",
   "links": {
     "1529": {
       "direction": "Is Masthead Of",
@@ -23,8 +25,9 @@
     }
   },
   "sources": {
-    "2013-04-02T08:58:38.000Z": "Extracted from the New Zealand National Bibliography (MARC record 8157166) downloaded March 2013.",
-    "2014-05-18T11:29:27.000Z": "Modified by DataBot"
+    "2022-01-18T04:19:28.899Z": "Updated Papers Past info using the nzn-paperspast-updater.js script.",
+    "2014-05-18T11:29:27.000Z": "Modified by DataBot",
+    "2013-04-02T08:58:38.000Z": "Extracted from the New Zealand National Bibliography (MARC record 8157166) downloaded March 2013."
   },
-  "revision": 6
+  "revision": 7
 }

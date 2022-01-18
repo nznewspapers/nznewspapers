@@ -8,10 +8,12 @@
   "frequency": "Two issues per week",
   "idMarcControlNumber": "8185433",
   "idNZNewspapersV1": "72159",
+  "idPapersPastCode": "WAIBE",
   "isCurrent": false,
   "placecode": "01-03",
   "placename": "Dargaville",
   "region": "Northland",
+  "urlDigitized": "https://paperspast.natlib.govt.nz/newspapers/wairoa-bell",
   "links": {
     "1064": {
       "direction": "Continues",
@@ -19,8 +21,9 @@
     }
   },
   "sources": {
-    "2013-04-02T08:58:38.000Z": "Extracted from the New Zealand National Bibliography (MARC record 8185433) downloaded March 2013.",
-    "2014-05-07T09:07:35.000Z": "Modified by DataBot"
+    "2022-01-18T04:19:29.001Z": "Updated Papers Past info using the nzn-paperspast-updater.js script.",
+    "2014-05-07T09:07:35.000Z": "Modified by DataBot",
+    "2013-04-02T08:58:38.000Z": "Extracted from the New Zealand National Bibliography (MARC record 8185433) downloaded March 2013."
   },
-  "revision": 5
+  "revision": 6
 }

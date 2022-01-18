@@ -8,13 +8,16 @@
   "frequency": "Weekly",
   "idMarcControlNumber": "8138517",
   "idNZNewspapersV1": "70069",
+  "idPapersPastCode": "DUNST",
   "isCurrent": false,
   "placecode": "13-02",
   "placename": "Clyde",
   "region": "Otago",
+  "urlDigitized": "https://paperspast.natlib.govt.nz/newspapers/dunstan-times",
   "sources": {
-    "2013-04-02T08:58:38.000Z": "Extracted from the New Zealand National Bibliography (MARC record 8138517) downloaded March 2013.",
-    "2014-05-07T09:14:55.000Z": "Modified by DataBot"
+    "2022-01-18T04:19:28.881Z": "Updated Papers Past info using the nzn-paperspast-updater.js script.",
+    "2014-05-07T09:14:55.000Z": "Modified by DataBot",
+    "2013-04-02T08:58:38.000Z": "Extracted from the New Zealand National Bibliography (MARC record 8138517) downloaded March 2013."
   },
-  "revision": 4
+  "revision": 5
 }

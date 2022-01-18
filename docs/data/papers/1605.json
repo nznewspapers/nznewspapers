@@ -7,10 +7,12 @@
   "district": "South Waikato District",
   "idMarcControlNumber": "5586787",
   "idNZNewspapersV1": "14362625",
+  "idPapersPastCode": "PATM",
   "isCurrent": false,
   "placecode": "03-07",
   "placename": "Patea",
   "region": "Waikato",
+  "urlDigitized": "https://paperspast.natlib.govt.nz/newspapers/patea-mail",
   "links": {
     "1604": {
       "direction": "Has Masthead",
@@ -30,8 +32,9 @@
     }
   },
   "sources": {
-    "2013-04-02T08:58:38.000Z": "Extracted from the New Zealand National Bibliography (MARC record 5586787) downloaded March 2013.",
-    "2014-05-31T08:59:22.000Z": "Modified by DataBot"
+    "2022-01-18T04:19:28.951Z": "Updated Papers Past info using the nzn-paperspast-updater.js script.",
+    "2014-05-31T08:59:22.000Z": "Modified by DataBot",
+    "2013-04-02T08:58:38.000Z": "Extracted from the New Zealand National Bibliography (MARC record 5586787) downloaded March 2013."
   },
-  "revision": 6
+  "revision": 7
 }

@@ -8,13 +8,16 @@
   "frequency": "Two issues per week",
   "idMarcControlNumber": "8177835",
   "idNZNewspapersV1": "59128",
+  "idPapersPastCode": "PSEA",
   "isCurrent": false,
   "placecode": "08-06",
   "placename": "Pahiatua",
   "region": "Manawatu-Wanganui",
+  "urlDigitized": "https://paperspast.natlib.govt.nz/newspapers/pahiatua-star-and-eketahuna-advertiser",
   "sources": {
-    "2013-04-02T08:58:38.000Z": "Extracted from the New Zealand National Bibliography (MARC record 8177835) downloaded March 2013.",
-    "2014-05-07T09:07:04.000Z": "Modified by DataBot"
+    "2022-01-18T04:19:28.950Z": "Updated Papers Past info using the nzn-paperspast-updater.js script.",
+    "2014-05-07T09:07:04.000Z": "Modified by DataBot",
+    "2013-04-02T08:58:38.000Z": "Extracted from the New Zealand National Bibliography (MARC record 8177835) downloaded March 2013."
   },
-  "revision": 4
+  "revision": 5
 }

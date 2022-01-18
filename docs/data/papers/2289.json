@@ -13,7 +13,7 @@
   "placecode": "11-01",
   "placename": "Westport",
   "region": "West Coast",
-  "urlDigitized": "http://paperspast.natlib.govt.nz/cgi-bin/paperspast?a=d&cl=CL1.WEST",
+  "urlDigitized": "https://paperspast.natlib.govt.nz/newspapers/westport-times",
   "links": {
     "2286": {
       "direction": "Continues",
@@ -26,8 +26,9 @@
     }
   },
   "sources": {
-    "2013-04-02T08:58:38.000Z": "Extracted from the New Zealand National Bibliography (MARC record 8187807) downloaded March 2013.",
-    "2014-05-16T02:37:58.000Z": "Modified by gordon.paynter"
+    "2022-01-18T04:19:29.008Z": "Updated Papers Past info using the nzn-paperspast-updater.js script.",
+    "2014-05-16T02:37:58.000Z": "Modified by gordon.paynter",
+    "2013-04-02T08:58:38.000Z": "Extracted from the New Zealand National Bibliography (MARC record 8187807) downloaded March 2013."
   },
-  "revision": 8
+  "revision": 9
 }

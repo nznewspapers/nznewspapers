@@ -7,16 +7,19 @@
   "district": "South Taranaki District",
   "idMarcControlNumber": "3561174",
   "idNZNewspapersV1": "10010",
+  "idPapersPastCode": "HAWST",
   "isCurrent": true,
   "placecode": "07-03",
   "placename": "Hawera",
   "region": "Taranaki",
+  "urlDigitized": "https://paperspast.natlib.govt.nz/newspapers/hawera-star",
   "notes": {
     "11820249": "Microfilm reproduction."
   },
   "sources": {
-    "2013-04-02T08:58:38.000Z": "Extracted from the New Zealand National Bibliography (MARC record 3561174) downloaded March 2013.",
-    "2014-04-10T11:17:00.000Z": "Modified by gordon.paynter"
+    "2022-01-18T04:19:28.893Z": "Updated Papers Past info using the nzn-paperspast-updater.js script.",
+    "2014-04-10T11:17:00.000Z": "Modified by gordon.paynter",
+    "2013-04-02T08:58:38.000Z": "Extracted from the New Zealand National Bibliography (MARC record 3561174) downloaded March 2013."
   },
-  "revision": 4
+  "revision": 5
 }

@@ -8,14 +8,17 @@
   "frequency": "Weekly",
   "idMarcControlNumber": "4906557",
   "idNZNewspapersV1": "4038",
+  "idPapersPastCode": "WANANG",
   "isCurrent": false,
   "placecode": "06-03",
   "placename": "Napier",
   "region": "Hawke's Bay",
   "urlCurrent": "http://nzdl.org/cgi-bin/library?gg=_cgiarggg_&e=d-00000-00---0niupepa--00-0--0-10-0---0---0prompt-10---4-------0-1l--11-en-50---20-about---00-0-1-00-11-1-0utfZz-8-00&a=d&c=niupepa&cl=CL1.16",
+  "urlDigitized": "https://paperspast.natlib.govt.nz/newspapers/wananga",
   "sources": {
-    "2013-04-02T08:58:38.000Z": "Extracted from the New Zealand National Bibliography (MARC record 4906557) downloaded March 2013.",
-    "2014-05-07T09:12:16.000Z": "Modified by DataBot"
+    "2022-01-18T04:19:29.001Z": "Updated Papers Past info using the nzn-paperspast-updater.js script.",
+    "2014-05-07T09:12:16.000Z": "Modified by DataBot",
+    "2013-04-02T08:58:38.000Z": "Extracted from the New Zealand National Bibliography (MARC record 4906557) downloaded March 2013."
   },
-  "revision": 4
+  "revision": 5
 }

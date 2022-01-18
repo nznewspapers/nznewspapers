@@ -13,7 +13,7 @@
   "placecode": "14-02",
   "placename": "Gore",
   "region": "Southland",
-  "urlDigitized": "http://paperspast.natlib.govt.nz/cgi-bin/paperspast?a=d&cl=CL1.ME",
+  "urlDigitized": "https://paperspast.natlib.govt.nz/newspapers/mataura-ensign",
   "links": {
     "2698": {
       "direction": "Succeeding",
@@ -22,8 +22,9 @@
     }
   },
   "sources": {
-    "2013-04-02T08:58:38.000Z": "Extracted from the New Zealand National Bibliography (MARC record 4716789) downloaded March 2013.",
-    "2013-05-09T10:58:16.000Z": "Modified by gordon.paynter"
+    "2022-01-18T04:19:28.930Z": "Updated Papers Past info using the nzn-paperspast-updater.js script.",
+    "2013-05-09T10:58:16.000Z": "Modified by gordon.paynter",
+    "2013-04-02T08:58:38.000Z": "Extracted from the New Zealand National Bibliography (MARC record 4716789) downloaded March 2013."
   },
-  "revision": 7
+  "revision": 8
 }

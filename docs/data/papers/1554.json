@@ -8,13 +8,16 @@
   "frequency": "Two issues per week",
   "idMarcControlNumber": "8167631",
   "idNZNewspapersV1": "67109",
+  "idPapersPastCode": "MATREC",
   "isCurrent": false,
   "placecode": "03-04",
   "placename": "Matamata",
   "region": "Waikato",
+  "urlDigitized": "https://paperspast.natlib.govt.nz/newspapers/matamata-record",
   "sources": {
-    "2013-04-02T08:58:38.000Z": "Extracted from the New Zealand National Bibliography (MARC record 8167631) downloaded March 2013.",
-    "2014-05-07T09:06:45.000Z": "Modified by DataBot"
+    "2022-01-18T04:19:28.929Z": "Updated Papers Past info using the nzn-paperspast-updater.js script.",
+    "2014-05-07T09:06:45.000Z": "Modified by DataBot",
+    "2013-04-02T08:58:38.000Z": "Extracted from the New Zealand National Bibliography (MARC record 8167631) downloaded March 2013."
   },
-  "revision": 4
+  "revision": 5
 }

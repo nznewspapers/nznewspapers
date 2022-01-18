@@ -8,13 +8,16 @@
   "frequency": "Three issues per week",
   "idMarcControlNumber": "8185417",
   "idNZNewspapersV1": "66177",
+  "idPapersPastCode": "WAIST",
   "isCurrent": false,
   "placecode": "09-04",
   "placename": "Greytown",
   "region": "Wellington",
+  "urlDigitized": "https://paperspast.natlib.govt.nz/newspapers/wairarapa-standard",
   "sources": {
-    "2013-04-02T08:58:38.000Z": "Extracted from the New Zealand National Bibliography (MARC record 8185417) downloaded March 2013.",
-    "2014-05-07T09:05:00.000Z": "Modified by DataBot"
+    "2022-01-18T04:19:29.001Z": "Updated Papers Past info using the nzn-paperspast-updater.js script.",
+    "2014-05-07T09:05:00.000Z": "Modified by DataBot",
+    "2013-04-02T08:58:38.000Z": "Extracted from the New Zealand National Bibliography (MARC record 8185417) downloaded March 2013."
   },
-  "revision": 4
+  "revision": 5
 }

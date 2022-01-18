@@ -13,9 +13,10 @@
   "placecode": "09-08-wellington",
   "placename": "Wellington",
   "region": "Wellington",
-  "urlDigitized": "http://paperspast.natlib.govt.nz/cgi-bin/paperspast?a=d&cl=CL1.NZCPNA",
+  "urlDigitized": "https://paperspast.natlib.govt.nz/newspapers/new-zealand-advertiser-and-bay-of-islands-gazette",
   "sources": {
+    "2022-01-18T04:19:28.935Z": "Updated Papers Past info using the nzn-paperspast-updater.js script.",
     "2013-05-16T11:40:23.000Z": "Modified by gordon.paynter"
   },
-  "revision": 8
+  "revision": 9
 }

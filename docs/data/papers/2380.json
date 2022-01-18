@@ -14,13 +14,14 @@
   "placecode": "12-05",
   "placename": "Akaroa",
   "region": "Canterbury",
-  "urlDigitized": "http://paperspast.natlib.govt.nz/cgi-bin/paperspast?a=d&cl=CL1.AMBPA",
+  "urlDigitized": "https://paperspast.natlib.govt.nz/newspapers/akaroa-mail-and-banks-peninsula-advertiser",
   "notes": {
     "108006": "Independent"
   },
   "sources": {
-    "2013-04-02T08:58:38.000Z": "Extracted from the New Zealand National Bibliography (MARC record 3531235) downloaded March 2013.",
-    "2014-08-21T20:25:14.000Z": "Modified by gordon.paynter"
+    "2022-01-18T04:19:28.871Z": "Updated Papers Past info using the nzn-paperspast-updater.js script.",
+    "2014-08-21T20:25:14.000Z": "Modified by gordon.paynter",
+    "2013-04-02T08:58:38.000Z": "Extracted from the New Zealand National Bibliography (MARC record 3531235) downloaded March 2013."
   },
-  "revision": 10
+  "revision": 11
 }
