@@ -9,7 +9,8 @@
       "id": "2321",
       "title": "Evening Star",
       "firstYear": "1865",
-      "finalYear": "1884"
+      "finalYear": "1884",
+      "urlDigitized": "https://paperspast.natlib.govt.nz/newspapers/evening-star"
     },
     {
       "id": "2322",
@@ -22,7 +23,7 @@
       "title": "West Coast Times [1865]",
       "firstYear": "1865",
       "finalYear": "1917",
-      "urlDigitized": "http://paperspast.natlib.govt.nz/cgi-bin/paperspast?a=d&cl=CL1.WCT"
+      "urlDigitized": "https://paperspast.natlib.govt.nz/newspapers/west-coast-times"
     },
     {
       "id": "2324",
@@ -76,7 +77,8 @@
       "id": "2337",
       "title": "Hokitika Guardian [1881]",
       "firstYear": "1881",
-      "finalYear": "1988"
+      "finalYear": "1988",
+      "urlDigitized": "https://paperspast.natlib.govt.nz/newspapers/hokitika-guardian"
     },
     {
       "id": "2340",

@@ -10,20 +10,21 @@
       "title": "Pukekohe & Waiuku Times",
       "firstYear": "1912",
       "finalYear": "1919",
-      "urlDigitized": "http://paperspast.natlib.govt.nz/cgi-bin/paperspast?a=d&cl=CL1.PWT"
+      "urlDigitized": "https://paperspast.natlib.govt.nz/newspapers/pukekohe-waiuku-times"
     },
     {
       "id": "1092",
       "title": "Franklin & Pukekohe Times",
       "firstYear": "1919",
       "finalYear": "1921",
-      "urlDigitized": "http://paperspast.natlib.govt.nz/cgi-bin/paperspast?a=d&cl=CL1.PWT"
+      "urlDigitized": "https://paperspast.natlib.govt.nz/newspapers/pukekohe-waiuku-times"
     },
     {
       "id": "1094",
       "title": "Franklin Times",
       "firstYear": "1921",
-      "finalYear": "1971"
+      "finalYear": "1971",
+      "urlDigitized": "https://paperspast.natlib.govt.nz/newspapers/franklin-times"
     },
     {
       "id": "1127",

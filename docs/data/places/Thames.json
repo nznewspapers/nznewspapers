@@ -9,7 +9,8 @@
       "id": "1471",
       "title": "The Evening Star",
       "firstYear": "1867",
-      "finalYear": "1893"
+      "finalYear": "1893",
+      "urlDigitized": "https://paperspast.natlib.govt.nz/newspapers/thames-star"
     },
     {
       "id": "1472",
@@ -22,7 +23,7 @@
       "title": "Thames Advertiser",
       "firstYear": "1868",
       "finalYear": "1912",
-      "urlDigitized": "http://paperspast.natlib.govt.nz/cgi-bin/paperspast?a=d&cl=CL1.THA"
+      "urlDigitized": "https://paperspast.natlib.govt.nz/newspapers/thames-advertiser"
     },
     {
       "id": "1474",
@@ -34,7 +35,8 @@
       "id": "1476",
       "title": "Thames Guardian and Mining Record",
       "firstYear": "1871",
-      "finalYear": "1872"
+      "finalYear": "1872",
+      "urlDigitized": "https://paperspast.natlib.govt.nz/newspapers/thames-guardian-and-mining-record"
     },
     {
       "id": "1479",
@@ -53,7 +55,7 @@
       "title": "Thames Star",
       "firstYear": "1893",
       "finalYear": "1998",
-      "urlDigitized": "http://paperspast.natlib.govt.nz/cgi-bin/paperspast?a=d&cl=CL1.THS"
+      "urlDigitized": "https://paperspast.natlib.govt.nz/newspapers/thames-star"
     },
     {
       "id": "1486",

@@ -11,13 +11,14 @@
       "firstYear": "1872",
       "finalYear": "9999",
       "urlCurrent": "http://www.stuff.co.nz/waikato-times",
-      "urlDigitized": "http://paperspast.natlib.govt.nz/cgi-bin/paperspast?a=d&cl=CL1.WT"
+      "urlDigitized": "https://paperspast.natlib.govt.nz/newspapers/waikato-times"
     },
     {
       "id": "1569",
       "title": "Waikato Argus",
       "firstYear": "1896",
-      "finalYear": "1915"
+      "finalYear": "1915",
+      "urlDigitized": "https://paperspast.natlib.govt.nz/newspapers/waikato-argus"
     },
     {
       "id": "1570",
