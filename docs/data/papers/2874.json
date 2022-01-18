@@ -8,13 +8,16 @@
   "frequency": "Monthly",
   "idMarcControlNumber": "12882599",
   "idNZNewspapersV1": "12046",
+  "idPapersPastCode": "INDU",
   "isCurrent": false,
   "placecode": "09-08-wellington",
   "placename": "Wellington",
   "region": "Wellington",
+  "urlDigitized": "https://paperspast.natlib.govt.nz/newspapers/industrial-unionist",
   "sources": {
-    "2013-04-02T08:58:38.000Z": "Extracted from the New Zealand National Bibliography (MARC record 12882599) downloaded March 2013.",
-    "2014-05-07T08:59:49.000Z": "Modified by DataBot"
+    "2022-01-18T05:01:26.688Z": "Updated Papers Past info using the nzn-paperspast-updater.js script.",
+    "2014-05-07T08:59:49.000Z": "Modified by DataBot",
+    "2013-04-02T08:58:38.000Z": "Extracted from the New Zealand National Bibliography (MARC record 12882599) downloaded March 2013."
   },
-  "revision": 4
+  "revision": 5
 }

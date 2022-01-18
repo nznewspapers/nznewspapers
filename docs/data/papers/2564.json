@@ -8,13 +8,16 @@
   "frequency": "Weekly",
   "idMarcControlNumber": "5094216",
   "idNZNewspapersV1": "14028",
+  "idPapersPastCode": "CROMARG",
   "isCurrent": false,
   "placecode": "13-02",
   "placename": "Cromwell",
   "region": "Otago",
+  "urlDigitized": "https://paperspast.natlib.govt.nz/newspapers/cromwell-argus",
   "sources": {
-    "2013-04-02T08:58:38.000Z": "Extracted from the New Zealand National Bibliography (MARC record 5094216) downloaded March 2013.",
-    "2014-05-07T09:12:33.000Z": "Modified by DataBot"
+    "2022-01-18T05:01:26.683Z": "Updated Papers Past info using the nzn-paperspast-updater.js script.",
+    "2014-05-07T09:12:33.000Z": "Modified by DataBot",
+    "2013-04-02T08:58:38.000Z": "Extracted from the New Zealand National Bibliography (MARC record 5094216) downloaded March 2013."
   },
-  "revision": 4
+  "revision": 5
 }
