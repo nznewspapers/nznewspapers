@@ -14,7 +14,7 @@
   "placecode": "08-07",
   "placename": "Levin",
   "region": "Manawatu-Wanganui",
-  "urlDigitized": "http://paperspast.natlib.govt.nz/cgi-bin/paperspast?a=d&cl=CL1.HC",
+  "urlDigitized": "https://paperspast.natlib.govt.nz/newspapers/horowhenua-chronicle",
   "links": {
     "1950": {
       "direction": "Is Masthead Of",
@@ -30,8 +30,9 @@
     }
   },
   "sources": {
-    "2013-04-02T08:58:38.000Z": "Extracted from the New Zealand National Bibliography (MARC record 8164499) downloaded March 2013.",
-    "2014-04-10T12:05:17.000Z": "Modified by gordon.paynter"
+    "2022-01-18T04:19:28.897Z": "Updated Papers Past info using the nzn-paperspast-updater.js script.",
+    "2014-04-10T12:05:17.000Z": "Modified by gordon.paynter",
+    "2013-04-02T08:58:38.000Z": "Extracted from the New Zealand National Bibliography (MARC record 8164499) downloaded March 2013."
   },
-  "revision": 11
+  "revision": 12
 }

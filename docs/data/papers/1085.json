@@ -12,7 +12,7 @@
   "placecode": "02-01",
   "placename": "Helensville",
   "region": "Auckland",
-  "urlDigitized": "http://paperspast.natlib.govt.nz/cgi-bin/paperspast?a=d&cl=CL1.KWE",
+  "urlDigitized": "https://paperspast.natlib.govt.nz/newspapers/kaipara-and-waitemata-echo",
   "links": {
     "1089": {
       "direction": "Succeeding",
@@ -21,7 +21,8 @@
     }
   },
   "sources": {
+    "2022-01-18T04:19:28.903Z": "Updated Papers Past info using the nzn-paperspast-updater.js script.",
     "2013-04-27T09:59:32.000Z": "Modified by gordon.paynter"
   },
-  "revision": 7
+  "revision": 8
 }

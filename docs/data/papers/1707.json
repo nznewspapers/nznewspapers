@@ -7,12 +7,15 @@
   "district": "Gisborne District",
   "idMarcControlNumber": "4189294",
   "idNZNewspapersV1": "63013",
+  "idPapersPastCode": "TAKIT",
   "isCurrent": false,
   "placecode": "05-01",
   "placename": "Gisborne",
   "region": "Gisborne",
+  "urlDigitized": "https://paperspast.natlib.govt.nz/newspapers/takitimu",
   "sources": {
+    "2022-01-18T04:19:28.966Z": "Updated Papers Past info using the nzn-paperspast-updater.js script.",
     "2013-04-02T08:58:38.000Z": "Extracted from the New Zealand National Bibliography (MARC record 4189294) downloaded March 2013."
   },
-  "revision": 2
+  "revision": 3
 }

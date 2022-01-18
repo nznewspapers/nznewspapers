@@ -18,13 +18,14 @@
   "placecode": "01-03",
   "placename": "Port Albert",
   "region": "Northland",
-  "urlDigitized": "http://paperspast.natlib.govt.nz/cgi-bin/paperspast?a=d&cl=CL1.ALG",
+  "urlDigitized": "https://paperspast.natlib.govt.nz/newspapers/albertland-gazette",
   "notes": {
     "542002": "First two issues produced at sea, and have lat/long coordinates on the final page."
   },
   "sources": {
-    "2013-04-02T08:58:38.000Z": "Extracted from the New Zealand National Bibliography (MARC record 4907666) downloaded March 2013.",
-    "2014-05-07T09:00:40.000Z": "Modified by DataBot"
+    "2022-01-18T04:19:28.872Z": "Updated Papers Past info using the nzn-paperspast-updater.js script.",
+    "2014-05-07T09:00:40.000Z": "Modified by DataBot",
+    "2013-04-02T08:58:38.000Z": "Extracted from the New Zealand National Bibliography (MARC record 4907666) downloaded March 2013."
   },
-  "revision": 14
+  "revision": 15
 }

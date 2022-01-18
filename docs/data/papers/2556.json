@@ -8,10 +8,12 @@
   "frequency": "Weekly",
   "idMarcControlNumber": "8164402",
   "idNZNewspapersV1": "69115",
+  "idPapersPastCode": "LCP",
   "isCurrent": false,
   "placecode": "13-01",
   "placename": "Arrowtown",
   "region": "Otago",
+  "urlDigitized": "https://paperspast.natlib.govt.nz/newspapers/lake-county-press",
   "links": {
     "2555": {
       "direction": "Succeeding",
@@ -20,8 +22,9 @@
     }
   },
   "sources": {
-    "2013-04-02T08:58:38.000Z": "Extracted from the New Zealand National Bibliography (MARC record 8164402) downloaded March 2013.",
-    "2014-08-20T09:03:31.000Z": "Modified by gordon.paynter"
+    "2022-01-18T04:19:28.907Z": "Updated Papers Past info using the nzn-paperspast-updater.js script.",
+    "2014-08-20T09:03:31.000Z": "Modified by gordon.paynter",
+    "2013-04-02T08:58:38.000Z": "Extracted from the New Zealand National Bibliography (MARC record 8164402) downloaded March 2013."
   },
-  "revision": 5
+  "revision": 6
 }

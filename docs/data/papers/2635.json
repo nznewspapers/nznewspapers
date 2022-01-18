@@ -15,13 +15,14 @@
   "placecode": "13-04",
   "placename": "Milton",
   "region": "Otago",
-  "urlDigitized": "http://paperspast.natlib.govt.nz/cgi-bin/paperspast?a=d&cl=CL1.BH",
+  "urlDigitized": "https://paperspast.natlib.govt.nz/newspapers/bruce-herald",
   "notes": {
     "102015": "Place Tokomairiro until 1907."
   },
   "sources": {
-    "2013-04-02T08:58:38.000Z": "Extracted from the New Zealand National Bibliography (MARC record 8131982) downloaded March 2013.",
-    "2014-05-07T09:06:01.000Z": "Modified by DataBot"
+    "2022-01-18T04:19:28.876Z": "Updated Papers Past info using the nzn-paperspast-updater.js script.",
+    "2014-05-07T09:06:01.000Z": "Modified by DataBot",
+    "2013-04-02T08:58:38.000Z": "Extracted from the New Zealand National Bibliography (MARC record 8131982) downloaded March 2013."
   },
-  "revision": 12
+  "revision": 13
 }

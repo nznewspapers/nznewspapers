@@ -13,7 +13,7 @@
   "placename": "Hamilton",
   "region": "Waikato",
   "urlCurrent": "http://www.stuff.co.nz/waikato-times",
-  "urlDigitized": "http://paperspast.natlib.govt.nz/cgi-bin/paperspast?a=d&cl=CL1.WT",
+  "urlDigitized": "https://paperspast.natlib.govt.nz/newspapers/waikato-times",
   "links": {
     "1518": {
       "direction": "Has Masthead",
@@ -34,7 +34,8 @@
     }
   },
   "sources": {
+    "2022-01-18T04:19:28.992Z": "Updated Papers Past info using the nzn-paperspast-updater.js script.",
     "2014-04-10T09:37:32.000Z": "Modified by gordon.paynter"
   },
-  "revision": 10
+  "revision": 11
 }

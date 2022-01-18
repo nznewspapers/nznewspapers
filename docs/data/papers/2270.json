@@ -8,10 +8,12 @@
   "frequency": "Daily",
   "idMarcControlNumber": "8167472",
   "idNZNewspapersV1": "71093",
+  "idPapersPastCode": "MDTIM",
   "isCurrent": false,
   "placecode": "10-03",
   "placename": "Blenheim",
   "region": "Top of the South",
+  "urlDigitized": "https://paperspast.natlib.govt.nz/newspapers/marlborough-daily-times",
   "links": {
     "2266": {
       "direction": "Succeeding",
@@ -24,8 +26,9 @@
     }
   },
   "sources": {
-    "2013-04-02T08:58:38.000Z": "Extracted from the New Zealand National Bibliography (MARC record 8167472) downloaded March 2013.",
-    "2014-04-12T11:14:17.000Z": "Modified by DataBot"
+    "2022-01-18T04:19:28.922Z": "Updated Papers Past info using the nzn-paperspast-updater.js script.",
+    "2014-04-12T11:14:17.000Z": "Modified by DataBot",
+    "2013-04-02T08:58:38.000Z": "Extracted from the New Zealand National Bibliography (MARC record 8167472) downloaded March 2013."
   },
-  "revision": 6
+  "revision": 7
 }

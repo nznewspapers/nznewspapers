@@ -8,10 +8,12 @@
   "frequency": "Two issues per week",
   "idMarcControlNumber": "8181391",
   "idNZNewspapersV1": "67138",
+  "idPapersPastCode": "PUP",
   "isCurrent": false,
   "placecode": "03-07",
   "placename": "Putaruru",
   "region": "Waikato",
+  "urlDigitized": "https://paperspast.natlib.govt.nz/newspapers/putaruru-press",
   "links": {
     "1612": {
       "direction": "Continued By",
@@ -20,8 +22,9 @@
     }
   },
   "sources": {
-    "2013-04-02T08:58:38.000Z": "Extracted from the New Zealand National Bibliography (MARC record 8181391) downloaded March 2013.",
-    "2014-05-16T02:31:23.000Z": "Modified by gordon.paynter"
+    "2022-01-18T04:19:28.956Z": "Updated Papers Past info using the nzn-paperspast-updater.js script.",
+    "2014-05-16T02:31:23.000Z": "Modified by gordon.paynter",
+    "2013-04-02T08:58:38.000Z": "Extracted from the New Zealand National Bibliography (MARC record 8181391) downloaded March 2013."
   },
-  "revision": 5
+  "revision": 6
 }

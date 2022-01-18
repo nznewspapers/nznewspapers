@@ -13,7 +13,7 @@
   "placecode": "10-02",
   "placename": "Nelson",
   "region": "Top of the South",
-  "urlDigitized": "http://paperspast.natlib.govt.nz/cgi-bin/paperspast?a=d&cl=CL1.NENZC",
+  "urlDigitized": "https://paperspast.natlib.govt.nz/newspapers/nelson-examiner-and-new-zealand-chronicle",
   "links": {
     "2236": {
       "direction": "Has Masthead",
@@ -37,7 +37,8 @@
     }
   },
   "sources": {
+    "2022-01-18T04:19:28.933Z": "Updated Papers Past info using the nzn-paperspast-updater.js script.",
     "2013-10-01T23:18:33.000Z": "Modified by gordon.paynter"
   },
-  "revision": 13
+  "revision": 14
 }

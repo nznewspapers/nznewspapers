@@ -8,14 +8,17 @@
   "frequency": "Monthly",
   "idMarcControlNumber": "4916697",
   "idNZNewspapersV1": "3031",
+  "idPapersPastCode": "HAEATA",
   "isCurrent": false,
   "placecode": "02-01-auckland",
   "placename": "Auckland",
   "region": "Auckland",
   "urlCurrent": "http://nzdl.org/cgi-bin/library?gg=_cgiarggg_&e=d-00000-00---0niupepa--00-0--0-10-0---0---0prompt-10---4-------0-1l--11-en-50---20-about---00-0-1-00-11-1-0utfZz-8-00&a=d&c=niupepa&cl=CL1.8",
+  "urlDigitized": "https://paperspast.natlib.govt.nz/newspapers/haeata",
   "sources": {
-    "2013-04-02T08:58:38.000Z": "Extracted from the New Zealand National Bibliography (MARC record 4916697) downloaded March 2013.",
-    "2014-05-07T09:00:41.000Z": "Modified by DataBot"
+    "2022-01-18T05:01:26.686Z": "Updated Papers Past info using the nzn-paperspast-updater.js script.",
+    "2014-05-07T09:00:41.000Z": "Modified by DataBot",
+    "2013-04-02T08:58:38.000Z": "Extracted from the New Zealand National Bibliography (MARC record 4916697) downloaded March 2013."
   },
-  "revision": 4
+  "revision": 5
 }

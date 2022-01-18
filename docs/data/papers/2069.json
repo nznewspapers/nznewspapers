@@ -13,7 +13,7 @@
   "placecode": "09-08",
   "placename": "Port Nicholson",
   "region": "Wellington",
-  "urlDigitized": "http://paperspast.natlib.govt.nz/cgi-bin/paperspast?a=d&cl=CL1.NZGWS",
+  "urlDigitized": "https://paperspast.natlib.govt.nz/newspapers/new-zealand-gazette-and-wellington-spectator",
   "links": {
     "2068": {
       "direction": "Has Masthead",
@@ -29,7 +29,8 @@
     }
   },
   "sources": {
+    "2022-01-18T04:19:28.936Z": "Updated Papers Past info using the nzn-paperspast-updater.js script.",
     "2013-09-26T00:47:15.000Z": "Modified by gordon.paynter"
   },
-  "revision": 11
+  "revision": 12
 }

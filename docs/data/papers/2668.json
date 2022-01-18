@@ -8,13 +8,16 @@
   "frequency": "Weekly",
   "idMarcControlNumber": "8187796",
   "idNZNewspapersV1": "65183",
+  "idPapersPastCode": "WSTAR",
   "isCurrent": false,
   "placecode": "14-01",
   "placename": "Riverton",
   "region": "Southland",
+  "urlDigitized": "https://paperspast.natlib.govt.nz/newspapers/western-star",
   "sources": {
-    "2013-04-02T08:58:38.000Z": "Extracted from the New Zealand National Bibliography (MARC record 8187796) downloaded March 2013.",
-    "2014-05-07T09:23:01.000Z": "Modified by DataBot"
+    "2022-01-18T04:19:29.008Z": "Updated Papers Past info using the nzn-paperspast-updater.js script.",
+    "2014-05-07T09:23:01.000Z": "Modified by DataBot",
+    "2013-04-02T08:58:38.000Z": "Extracted from the New Zealand National Bibliography (MARC record 8187796) downloaded March 2013."
   },
-  "revision": 4
+  "revision": 5
 }

@@ -14,7 +14,7 @@
   "placecode": "12-05-christchur",
   "placename": "Christchurch",
   "region": "Canterbury",
-  "urlDigitized": "http://paperspast.natlib.govt.nz/cgi-bin/paperspast?a=d&cl=CL1.TS",
+  "urlDigitized": "https://paperspast.natlib.govt.nz/newspapers/star-christchurch",
   "links": {
     "2431": {
       "direction": "Succeeding",
@@ -23,8 +23,9 @@
     }
   },
   "sources": {
-    "2013-04-02T08:58:38.000Z": "Extracted from the New Zealand National Bibliography (MARC record 6963014) downloaded March 2013.",
-    "2014-03-21T11:48:54.000Z": "Modified by DataBot"
+    "2022-01-18T04:19:28.962Z": "Updated Papers Past info using the nzn-paperspast-updater.js script.",
+    "2014-03-21T11:48:54.000Z": "Modified by DataBot",
+    "2013-04-02T08:58:38.000Z": "Extracted from the New Zealand National Bibliography (MARC record 6963014) downloaded March 2013."
   },
-  "revision": 9
+  "revision": 10
 }

@@ -15,7 +15,7 @@
   "placecode": "06-03",
   "placename": "Napier",
   "region": "Hawke's Bay",
-  "urlDigitized": "http://paperspast.natlib.govt.nz/cgi-bin/paperspast?a=d&cl=CL1.DTN",
+  "urlDigitized": "https://paperspast.natlib.govt.nz/newspapers/daily-telegraph",
   "links": {
     "1751": {
       "direction": "Succeeding",
@@ -29,8 +29,9 @@
     }
   },
   "sources": {
-    "2013-04-02T08:58:38.000Z": "Extracted from the New Zealand National Bibliography (MARC record 3531190) downloaded March 2013.",
-    "2014-04-10T10:45:23.000Z": "Modified by gordon.paynter"
+    "2022-01-18T04:19:28.879Z": "Updated Papers Past info using the nzn-paperspast-updater.js script.",
+    "2014-04-10T10:45:23.000Z": "Modified by gordon.paynter",
+    "2013-04-02T08:58:38.000Z": "Extracted from the New Zealand National Bibliography (MARC record 3531190) downloaded March 2013."
   },
-  "revision": 12
+  "revision": 13
 }

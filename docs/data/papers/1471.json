@@ -12,6 +12,7 @@
   "placecode": "03-01",
   "placename": "Thames",
   "region": "Waikato",
+  "urlDigitized": "https://paperspast.natlib.govt.nz/newspapers/thames-star",
   "links": {
     "1483": {
       "direction": "Succeeding",
@@ -20,7 +21,8 @@
     }
   },
   "sources": {
+    "2022-01-18T04:19:28.983Z": "Updated Papers Past info using the nzn-paperspast-updater.js script.",
     "2014-04-10T09:06:32.000Z": "Modified by gordon.paynter"
   },
-  "revision": 7
+  "revision": 8
 }

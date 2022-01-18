@@ -15,7 +15,7 @@
   "placename": "Dunedin",
   "region": "Otago",
   "urlCurrent": "http://www.odt.co.nz/",
-  "urlDigitized": "http://paperspast.natlib.govt.nz/cgi-bin/paperspast?a=d&cl=CL1.ODT",
+  "urlDigitized": "https://paperspast.natlib.govt.nz/newspapers/otago-daily-times",
   "links": {
     "2591": {
       "direction": "Preceding",
@@ -24,8 +24,9 @@
     }
   },
   "sources": {
-    "2013-04-02T08:58:38.000Z": "Extracted from the New Zealand National Bibliography (MARC record 4676041) downloaded March 2013.",
-    "2014-04-12T12:38:44.000Z": "Modified by gordon.paynter"
+    "2022-01-18T04:19:28.948Z": "Updated Papers Past info using the nzn-paperspast-updater.js script.",
+    "2014-04-12T12:38:44.000Z": "Modified by gordon.paynter",
+    "2013-04-02T08:58:38.000Z": "Extracted from the New Zealand National Bibliography (MARC record 4676041) downloaded March 2013."
   },
-  "revision": 9
+  "revision": 10
 }

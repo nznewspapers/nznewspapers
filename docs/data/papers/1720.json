@@ -6,11 +6,13 @@
   "finalYear": "9999",
   "district": "Gisborne District",
   "idNZNewspapersV1": "506001",
+  "idPapersPastCode": "GISH",
   "isCurrent": true,
   "placecode": "05-01",
   "placename": "Gisborne",
   "region": "Gisborne",
   "urlCurrent": "http://www.gisborneherald.co.nz/",
+  "urlDigitized": "https://paperspast.natlib.govt.nz/newspapers/gisborne-herald",
   "links": {
     "1697": {
       "direction": "Continues",
@@ -38,7 +40,8 @@
     }
   },
   "sources": {
+    "2022-01-18T04:19:28.887Z": "Updated Papers Past info using the nzn-paperspast-updater.js script.",
     "2013-09-18T10:38:52.000Z": "Modified by gordon.paynter"
   },
-  "revision": 8
+  "revision": 9
 }

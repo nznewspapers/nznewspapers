@@ -14,7 +14,7 @@
   "placecode": "12-09",
   "placename": "Waimate",
   "region": "Canterbury",
-  "urlDigitized": "http://paperspast.natlib.govt.nz/cgi-bin/paperspast?a=d&cl=CL1&sp=WDA",
+  "urlDigitized": "https://paperspast.natlib.govt.nz/newspapers/waimate-daily-advertiser",
   "links": {
     "2541": {
       "direction": "Has Masthead",
@@ -38,7 +38,8 @@
     }
   },
   "sources": {
+    "2022-01-18T04:19:28.993Z": "Updated Papers Past info using the nzn-paperspast-updater.js script.",
     "2014-04-12T12:28:31.000Z": "Modified by gordon.paynter"
   },
-  "revision": 15
+  "revision": 16
 }
