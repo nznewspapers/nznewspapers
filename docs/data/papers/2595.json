@@ -6,11 +6,13 @@
   "finalYear": "1893",
   "district": "Dunedin City",
   "idNZNewspapersV1": "14054",
+  "idPapersPastCode": "WAIPM",
   "isCurrent": false,
   "placecode": "13-03",
   "placename": "Dunedin",
   "region": "Otago",
   "urlCurrent": "http://www.westportnews.co.nz/",
+  "urlDigitized": "https://paperspast.natlib.govt.nz/newspapers/waipawa-mail",
   "links": {
     "2593": {
       "direction": "Has Masthead",
@@ -30,7 +32,8 @@
     }
   },
   "sources": {
+    "2022-01-18T05:05:59.390Z": "Updated Papers Past info using the nzn-paperspast-updater.js script.",
     "2014-06-01T09:07:00.000Z": "Modified by DataBot"
   },
-  "revision": 6
+  "revision": 7
 }
