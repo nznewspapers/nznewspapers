@@ -115,7 +115,6 @@ h2 {
 
 .multicolumnbox {
   /* border: 1px solid orangered; */
-  column-fill: auto;
   column-gap: 10px;
   column-rule: 1px solid #2c2c2c;
   column-width: 200px;
