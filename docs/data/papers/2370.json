@@ -8,13 +8,16 @@
   "frequency": "Weekly",
   "idMarcControlNumber": "8173707",
   "idNZNewspapersV1": "63109",
+  "idPapersPastCode": "NCGAZ",
   "isCurrent": false,
   "placecode": "12-04",
   "placename": "Rangiora",
   "region": "Canterbury",
+  "urlDigitized": "https://paperspast.natlib.govt.nz/newspapers/north-canterbury-gazette",
   "sources": {
-    "2013-04-02T08:58:38.000Z": "Extracted from the New Zealand National Bibliography (MARC record 8173707) downloaded March 2013.",
-    "2014-05-07T09:18:30.000Z": "Modified by DataBot"
+    "2022-01-18T04:19:28.941Z": "Updated Papers Past info using the nzn-paperspast-updater.js script.",
+    "2014-05-07T09:18:30.000Z": "Modified by DataBot",
+    "2013-04-02T08:58:38.000Z": "Extracted from the New Zealand National Bibliography (MARC record 8173707) downloaded March 2013."
   },
-  "revision": 4
+  "revision": 5
 }

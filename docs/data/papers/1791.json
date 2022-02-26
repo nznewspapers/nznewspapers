@@ -14,10 +14,11 @@
   "placecode": "07-01",
   "placename": "New Plymouth",
   "region": "Taranaki",
-  "urlDigitized": "http://paperspast.natlib.govt.nz/cgi-bin/paperspast?a=d&cl=CL1.TH",
+  "urlDigitized": "https://paperspast.natlib.govt.nz/newspapers/taranaki-herald",
   "sources": {
-    "2013-04-02T08:58:38.000Z": "Extracted from the New Zealand National Bibliography (MARC record 2807004) downloaded March 2013.",
-    "2014-03-21T11:49:35.000Z": "Modified by DataBot"
+    "2022-01-18T04:19:28.979Z": "Updated Papers Past info using the nzn-paperspast-updater.js script.",
+    "2014-03-21T11:49:35.000Z": "Modified by DataBot",
+    "2013-04-02T08:58:38.000Z": "Extracted from the New Zealand National Bibliography (MARC record 2807004) downloaded March 2013."
   },
-  "revision": 8
+  "revision": 9
 }

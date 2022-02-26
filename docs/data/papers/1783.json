@@ -7,10 +7,12 @@
   "district": "Central Hawke's Bay District",
   "idMarcControlNumber": "4110552",
   "idNZNewspapersV1": "12014",
+  "idPapersPastCode": "WAIPM",
   "isCurrent": false,
   "placecode": "06-04",
   "placename": "Waipawa",
   "region": "Hawke's Bay",
+  "urlDigitized": "https://paperspast.natlib.govt.nz/newspapers/waipawa-mail",
   "links": {
     "undefined-unknown": {
       "direction": "Succeeding",
@@ -19,7 +21,8 @@
     }
   },
   "sources": {
+    "2022-01-18T05:21:02.279Z": "Updated Papers Past info using the nzn-paperspast-updater.js script.",
     "2013-04-02T08:58:38.000Z": "Extracted from the New Zealand National Bibliography (MARC record 4110552) downloaded March 2013."
   },
-  "revision": 3
+  "revision": 4
 }

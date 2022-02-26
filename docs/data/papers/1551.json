@@ -15,7 +15,7 @@
   "placecode": "03-04",
   "placename": "Te Aroha",
   "region": "Waikato",
-  "urlDigitized": "http://paperspast.natlib.govt.nz/cgi-bin/paperspast?a=d&cl=CL1.TAN",
+  "urlDigitized": "https://paperspast.natlib.govt.nz/newspapers/te-aroha-news",
   "links": {
     "1550": {
       "direction": "Preceding",
@@ -29,8 +29,9 @@
     }
   },
   "sources": {
-    "2013-04-02T08:58:38.000Z": "Extracted from the New Zealand National Bibliography (MARC record 6652716) downloaded March 2013.",
-    "2014-05-07T09:05:55.000Z": "Modified by DataBot"
+    "2022-01-18T04:19:28.980Z": "Updated Papers Past info using the nzn-paperspast-updater.js script.",
+    "2014-05-07T09:05:55.000Z": "Modified by DataBot",
+    "2013-04-02T08:58:38.000Z": "Extracted from the New Zealand National Bibliography (MARC record 6652716) downloaded March 2013."
   },
-  "revision": 12
+  "revision": 13
 }

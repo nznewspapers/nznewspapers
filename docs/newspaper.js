@@ -153,9 +153,9 @@ function keyElements(box, newspaper) {
   let thead = document.createElement("thead");
   let tbody = document.createElement("tbody");
 
-  var classAttr = document.createAttribute("class");
-  classAttr.value = "simpletable";
-  table.setAttributeNode(classAttr);
+  var srcAttr = document.createAttribute("class");
+  srcAttr.value = "simpletable";
+  table.setAttributeNode(srcAttr);
 
   table.appendChild(thead);
   table.appendChild(tbody);
@@ -195,16 +195,99 @@ function keyElements(box, newspaper) {
   }
 
   appendRow(tbody, "NLNZ MARC Number", newspaper.idMarcControlNumber);
-  //took out the other id numbers, is this useful?
+
+  if (newspaper.idPapersPastCode) {
+    appendRow(tbody, "Papers Past Code", newspaper.idPapersPastCode);
+
+    let img = document.createElement("img");
+    srcAttr = document.createAttribute("src");
+    srcAttr.value =
+      "https://paperspast.natlib.govt.nz/assets/mastheads/" +
+      newspaper.idPapersPastCode +
+      ".gif";
+    img.setAttributeNode(srcAttr);
+
+    appendRow(tbody, "Papers Past Masthead", img);
+  }
 
   // appendRow(tbody, "Placecode", newspaper.placecode);
   appendRow(
     tbody,
     "Place",
-    createLink("place.html?place=" + placename, placename)
+    createLink("place.html?place=" + newspaper.placename, newspaper.placename)
   );
   appendRow(tbody, "District", newspaper.district);
   appendRow(tbody, "Region", newspaper.region);
+}
+
+/**
+ * Display source info specific to this newspaper record.
+ * @param {*} box The container element to put the links into.
+ * @param {*} newspaper The newspaper record, which possibly includes a newspaper.links element.
+ */
+function sourceInfo(box, newspaper) {
+  let sourceInfoDiv = appendDiv(box, "sources");
+  appendElement(sourceInfoDiv, "h3", null, "Sources");
+
+  // Set up a table
+  let table = appendElement(sourceInfoDiv, "table", "simpletable");
+  let thead = appendElement(table, "thead");
+  let tbody = appendElement(table, "tbody");
+
+  // Creating and the link header row:
+  let headerRow = appendElement(thead, "tr");
+  let timeHeader = appendElement(headerRow, "th", null, "Timestamp");
+  let messageHeader = appendElement(headerRow, "th", null, "Source");
+  addAttribute(timeHeader, "align", "center");
+  addAttribute(messageHeader, "align", "left");
+
+  // Create and add the source Info:
+  var firstRow = appendElement(tbody, "tr");
+  var leftCell = appendElement(firstRow, "td", null, "2022");
+  var rightCell = appendElement(firstRow, "td", null);
+  addAttribute(leftCell, "align", "center");
+  addAttribute(rightCell, "align", "left");
+
+  gitlabUrl =
+    "https://github.com" +
+    "/nznewspapers/nznewspapers/blame/master/docs/data/papers/" +
+    newspaper.id +
+    ".json";
+  appendLink(rightCell, gitlabUrl, "Modification history in GitLab");
+
+  // Get the sources from the newpaper JSON:
+  var sourceKeys = [];
+  if (newspaper.sources != null) {
+    var sourceKeys = Object.keys(newspaper.sources);
+  }
+
+  sourceKeys.forEach(function (key) {
+    var value = newspaper.sources[key];
+
+    // Create and add the source Info:
+    var firstRow = appendElement(tbody, "tr");
+    var leftCell = appendElement(firstRow, "td", null, key.substring(0, 10));
+    var rightCell = appendElement(firstRow, "td", null, value);
+  });
+
+  // Link to Internet Archive
+  if (newspaper.idNZNewspapersV1) {
+    var row = appendElement(tbody, "tr");
+    var leftCell = appendElement(row, "td", null, "2013-2016");
+    var rightCell = appendElement(row, "td", null);
+    addAttribute(leftCell, "align", "center");
+    addAttribute(rightCell, "align", "left");
+
+    let url =
+      "https://web.archive.org/web/*/http://nznewspapers.appspot.com/view?id=" +
+      newspaper.idNZNewspapersV1;
+
+    appendLink(
+      rightCell,
+      url,
+      "Archived copies of the original Newspapers of New Zealand data may be available in the Internet Archive."
+    );
+  }
 }
 
 /**
@@ -251,19 +334,10 @@ function contentBox(newspaper) {
   // Insert Key Elements table
   linkTable(box, newspaper);
   keyElements(box, newspaper);
+  sourceInfo(box, newspaper);
 
-  /* We need to add the "referencews" section here, it used to look like this:
-  
-      <h3>About this title</h3>
-      <p>
-        <em><span id="newspaper-title">Title</span></em>
-        has been published since <span class="first-year">1938</span> in
-        <a href="place?place=Opotiki">Opotiki</a>
-        (<a href="place?district=Opotiki District">Opotiki District</a>,
-        <a href="place?region=Bay of Plenty">Bay of Plenty</a>).
-
-        <a href="http://www.opotikinews.co.nz/">View online</a>.
-      </p> */
+  // We should add the "referencews" section here, see the
+  // Opotiki News in the Wayback machine for an example.
 }
 
 /**

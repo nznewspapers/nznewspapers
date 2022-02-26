@@ -6,6 +6,7 @@ const path = require("path");
 
 exports.jsonDir = path.join(process.cwd(), "docs", "data");
 exports.paperDir = path.join(exports.jsonDir, "papers");
+exports.scriptDir = path.join(process.cwd(), "scripts");
 
 exports.oldIdtoNewIdFilename = path.join(
   exports.jsonDir,
@@ -73,14 +74,39 @@ exports.readNewspaper = function (id) {
 };
 
 /**
+ * Make a copy of an object that has its keys sorted in descending order.
+ * @param {*} inputObject The object withunsorted keys.
+ * @returns A new object with keys sorted as requeted.
+ */
+function sortObjectKeysDesc(inputObject) {
+  let sortedObject = {};
+
+  var keys = Object.keys(inputObject);
+  keys.sort().reverse();
+  for (var i = 0; i < keys.length; i++) {
+    sortedObject[keys[i]] = inputObject[keys[i]];
+  }
+
+  return sortedObject;
+}
+
+/**
  * Write the data for one newspaper.
  */
-exports.writeNewspaper = function (id, record) {
+exports.writeNewspaper = function (id, record, source = null) {
   const filename = path.join(exports.paperDir, id + ".json");
 
-  newRecord = {};
+  // Add the information source if one hs been supplied:
+  if (source) {
+    if (!record.sources) {
+      record.sources = {};
+    }
+    let currentdate = new Date().toISOString();
+    record.sources[currentdate] = source;
+  }
 
   // Add the entries we want to appear first:
+  newRecord = {};
   newRecord.id = record.id;
   newRecord.title = record.title;
   newRecord.genre = record.genre;
@@ -106,11 +132,13 @@ exports.writeNewspaper = function (id, record) {
     newRecord.links = record.links;
   }
 
+  // Re-insert the sources, and sort them too:
   if (newRecord.sources) {
     delete newRecord.sources;
-    newRecord.sources = record.sources;
+    newRecord.sources = sortObjectKeysDesc(record.sources);
   }
 
+  // Update the file revision number, just because:
   if (newRecord.revision) {
     delete newRecord.revision;
     newRecord.revision = record.revision + 1;

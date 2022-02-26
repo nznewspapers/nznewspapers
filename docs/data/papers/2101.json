@@ -15,7 +15,7 @@
   "placecode": "09-08-wellington",
   "placename": "Wellington",
   "region": "Wellington",
-  "urlDigitized": "http://paperspast.natlib.govt.nz/cgi-bin/paperspast?a=d&cl=CL1.EP",
+  "urlDigitized": "https://paperspast.natlib.govt.nz/newspapers/evening-post",
   "links": {
     "2073": {
       "direction": "Has Edition",
@@ -32,8 +32,9 @@
     }
   },
   "sources": {
-    "2013-04-02T08:58:38.000Z": "Extracted from the New Zealand National Bibliography (MARC record 4724155) downloaded March 2013.",
-    "2014-04-12T10:31:12.000Z": "Modified by gordon.paynter"
+    "2022-01-18T04:19:28.883Z": "Updated Papers Past info using the nzn-paperspast-updater.js script.",
+    "2014-04-12T10:31:12.000Z": "Modified by gordon.paynter",
+    "2013-04-02T08:58:38.000Z": "Extracted from the New Zealand National Bibliography (MARC record 4724155) downloaded March 2013."
   },
-  "revision": 13
+  "revision": 14
 }

@@ -14,7 +14,7 @@
   "placecode": "05-01",
   "placename": "Gisborne",
   "region": "Gisborne",
-  "urlDigitized": "http://paperspast.natlib.govt.nz/cgi-bin/paperspast?a=d&cl=CL1.PBH",
+  "urlDigitized": "https://paperspast.natlib.govt.nz/newspapers/poverty-bay-herald",
   "links": {
     "1713": {
       "direction": "Preceding",
@@ -27,8 +27,9 @@
     }
   },
   "sources": {
-    "2013-04-02T08:58:38.000Z": "Extracted from the New Zealand National Bibliography (MARC record 6309965) downloaded March 2013.",
-    "2014-03-21T11:48:48.000Z": "Modified by DataBot"
+    "2022-01-18T04:19:28.953Z": "Updated Papers Past info using the nzn-paperspast-updater.js script.",
+    "2014-03-21T11:48:48.000Z": "Modified by DataBot",
+    "2013-04-02T08:58:38.000Z": "Extracted from the New Zealand National Bibliography (MARC record 6309965) downloaded March 2013."
   },
-  "revision": 10
+  "revision": 11
 }

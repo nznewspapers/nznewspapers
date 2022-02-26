@@ -15,7 +15,7 @@
   "placecode": "12-05",
   "placename": "Lyttelton",
   "region": "Canterbury",
-  "urlDigitized": "http://paperspast.natlib.govt.nz/cgi-bin/paperspast?a=d&cl=CL1.LT",
+  "urlDigitized": "https://paperspast.natlib.govt.nz/newspapers/lyttelton-times",
   "links": {
     "2385": {
       "direction": "Succeeding",
@@ -24,8 +24,9 @@
     }
   },
   "sources": {
-    "2013-04-02T08:58:38.000Z": "Extracted from the New Zealand National Bibliography (MARC record 2766479) downloaded March 2013.",
-    "2014-05-07T08:58:32.000Z": "Modified by DataBot"
+    "2022-01-18T04:19:28.909Z": "Updated Papers Past info using the nzn-paperspast-updater.js script.",
+    "2014-05-07T08:58:32.000Z": "Modified by DataBot",
+    "2013-04-02T08:58:38.000Z": "Extracted from the New Zealand National Bibliography (MARC record 2766479) downloaded March 2013."
   },
-  "revision": 11
+  "revision": 12
 }

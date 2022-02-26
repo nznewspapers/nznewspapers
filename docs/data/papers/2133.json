@@ -15,7 +15,7 @@
   "placecode": "09-08-wellington",
   "placename": "Wellington",
   "region": "Wellington",
-  "urlDigitized": "http://paperspast.natlib.govt.nz/cgi-bin/paperspast?a=d&cl=CL1.DOM",
+  "urlDigitized": "https://paperspast.natlib.govt.nz/newspapers/dominion",
   "links": {
     "2106": {
       "direction": "Preceding",
@@ -29,8 +29,9 @@
     }
   },
   "sources": {
-    "2013-04-02T08:58:38.000Z": "Extracted from the New Zealand National Bibliography (MARC record 4928119) downloaded March 2013.",
-    "2014-03-21T11:48:24.000Z": "Modified by DataBot"
+    "2022-01-18T04:19:28.880Z": "Updated Papers Past info using the nzn-paperspast-updater.js script.",
+    "2014-03-21T11:48:24.000Z": "Modified by DataBot",
+    "2013-04-02T08:58:38.000Z": "Extracted from the New Zealand National Bibliography (MARC record 4928119) downloaded March 2013."
   },
-  "revision": 12
+  "revision": 13
 }

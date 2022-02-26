@@ -9,13 +9,15 @@
       "id": "1280",
       "title": "New Zealand Herald and Auckland Gazette",
       "firstYear": "1841",
-      "finalYear": "1842"
+      "finalYear": "1842",
+      "urlDigitized": "https://paperspast.natlib.govt.nz/newspapers/new-zealand-herald-and-auckland-gazette"
     },
     {
       "id": "1281",
       "title": "The Auckland Chronicle and New Zealand Colonist",
       "firstYear": "1841",
-      "finalYear": "1845"
+      "finalYear": "1845",
+      "urlDigitized": "https://paperspast.natlib.govt.nz/newspapers/auckland-chronicle-and-new-zealand-colonist"
     },
     {
       "id": "1282",
@@ -27,28 +29,30 @@
       "id": "1283",
       "title": "The Auckland Times",
       "firstYear": "1842",
-      "finalYear": "1846"
+      "finalYear": "1846",
+      "urlDigitized": "https://paperspast.natlib.govt.nz/newspapers/auckland-times"
     },
     {
       "id": "1284",
       "title": "Southern Cross",
       "firstYear": "1843",
       "finalYear": "1862",
-      "urlDigitized": "http://paperspast.natlib.govt.nz/cgi-bin/paperspast?a=d&cl=CL1.DSC"
+      "urlDigitized": "https://paperspast.natlib.govt.nz/newspapers/southern-cross"
     },
     {
       "id": "1285",
       "title": "The New Zealander [Auckland]",
       "firstYear": "1845",
       "finalYear": "1866",
-      "urlDigitized": "http://paperspast.natlib.govt.nz/cgi-bin/paperspast?a=d&cl=CL1.NZ"
+      "urlDigitized": "https://paperspast.natlib.govt.nz/newspapers/new-zealander"
     },
     {
       "id": "1286",
       "title": "The Anglo-Maori Warder",
       "firstYear": "1848",
       "finalYear": "1848",
-      "urlCurrent": "http://nzdl.org/cgi-bin/library?gg=_cgiarggg_&e=d-00000-00---off-0niupepa--00-0--0-10-0---0---0prompt-10---4-------0-1l--11-en-50---20-about---00-0-1-00-0-0-11-1-0utfZz-8-00&a=d&c=niupepa&cl=CL1.2"
+      "urlCurrent": "http://nzdl.org/cgi-bin/library?gg=_cgiarggg_&e=d-00000-00---off-0niupepa--00-0--0-10-0---0---0prompt-10---4-------0-1l--11-en-50---20-about---00-0-1-00-0-0-11-1-0utfZz-8-00&a=d&c=niupepa&cl=CL1.2",
+      "urlDigitized": "https://paperspast.natlib.govt.nz/newspapers/anglo-maori-warder"
     },
     {
       "id": "1287",
@@ -86,7 +90,7 @@
       "title": "The Daily Southern Cross",
       "firstYear": "1862",
       "finalYear": "1876",
-      "urlDigitized": "http://paperspast.natlib.govt.nz/cgi-bin/paperspast?a=d&cl=CL1.DSC"
+      "urlDigitized": "https://paperspast.natlib.govt.nz/newspapers/daily-southern-cross"
     },
     {
       "id": "1293",
@@ -106,7 +110,7 @@
       "firstYear": "1863",
       "finalYear": "9999",
       "urlCurrent": "http://www.nzherald.co.nz/",
-      "urlDigitized": "http://paperspast.natlib.govt.nz/cgi-bin/paperspast?a=d&cl=CL1.NZH"
+      "urlDigitized": "https://paperspast.natlib.govt.nz/newspapers/new-zealand-herald"
     },
     {
       "id": "1295",
@@ -143,7 +147,7 @@
       "title": "Evening Star",
       "firstYear": "1870",
       "finalYear": "1887",
-      "urlDigitized": "http://paperspast.natlib.govt.nz/cgi-bin/paperspast?a=d&cl=CL1.AS"
+      "urlDigitized": "https://paperspast.natlib.govt.nz/newspapers/evening-star"
     },
     {
       "id": "1300",
@@ -198,7 +202,7 @@
       "title": "Observer",
       "firstYear": "1880",
       "finalYear": "1885",
-      "urlDigitized": "http://paperspast.natlib.govt.nz/cgi-bin/paperspast?a=d&cl=CL1.TO"
+      "urlDigitized": "https://paperspast.natlib.govt.nz/newspapers/observer"
     },
     {
       "id": "1309",
@@ -230,7 +234,7 @@
       "title": "Observer and Free Lance",
       "firstYear": "1885",
       "finalYear": "1890",
-      "urlDigitized": "http://paperspast.natlib.govt.nz/cgi-bin/paperspast?a=d&cl=CL1.TO"
+      "urlDigitized": "https://paperspast.natlib.govt.nz/newspapers/observer"
     },
     {
       "id": "1314",
@@ -249,7 +253,7 @@
       "title": "Auckland Star",
       "firstYear": "1887",
       "finalYear": "1991",
-      "urlDigitized": "http://paperspast.natlib.govt.nz/cgi-bin/paperspast?a=d&cl=CL1.AS"
+      "urlDigitized": "https://paperspast.natlib.govt.nz/newspapers/auckland-star"
     },
     {
       "id": "1317",
@@ -268,7 +272,7 @@
       "title": "The New Zealand Observer and Free Lance",
       "firstYear": "1890",
       "finalYear": "1954",
-      "urlDigitized": "http://paperspast.natlib.govt.nz/cgi-bin/paperspast?a=d&cl=CL1.TO"
+      "urlDigitized": "https://paperspast.natlib.govt.nz/newspapers/observer"
     },
     {
       "id": "1320",
@@ -412,7 +416,8 @@
       "id": "1343",
       "title": "Sun",
       "firstYear": "1927",
-      "finalYear": "1930"
+      "finalYear": "1930",
+      "urlDigitized": "https://paperspast.natlib.govt.nz/newspapers/sun-auckland"
     },
     {
       "id": "1344",

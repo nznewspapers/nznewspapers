@@ -8,14 +8,17 @@
   "frequency": "Monthly",
   "idMarcControlNumber": "4875274",
   "idNZNewspapersV1": "1036",
+  "idPapersPastCode": "HOKIOI",
   "isCurrent": false,
   "placecode": "03-03",
   "placename": "Ngaruawahia",
   "region": "Waikato",
   "urlCurrent": "http://nzdl.org/cgi-bin/library?gg=_cgiarggg_&e=d-00000-00---off-0niupepa--00-0--0-10-0---0---0prompt-10---4-------0-1l--11-en-50---20-about---00-0-1-00-0-0-11-1-0utfZz-8-00&a=d&c=niupepa&cl=CL1.12",
+  "urlDigitized": "https://paperspast.natlib.govt.nz/newspapers/hokioi-o-nui-tireni-e-rere-atuna",
   "sources": {
-    "2013-04-02T08:58:38.000Z": "Extracted from the New Zealand National Bibliography (MARC record 4875274) downloaded March 2013.",
-    "2014-05-07T09:00:38.000Z": "Modified by DataBot"
+    "2022-01-18T05:21:02.265Z": "Updated Papers Past info using the nzn-paperspast-updater.js script.",
+    "2014-05-07T09:00:38.000Z": "Modified by DataBot",
+    "2013-04-02T08:58:38.000Z": "Extracted from the New Zealand National Bibliography (MARC record 4875274) downloaded March 2013."
   },
-  "revision": 4
+  "revision": 5
 }

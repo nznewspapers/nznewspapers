@@ -8,13 +8,16 @@
   "firstIssueDate": "1841-11-08",
   "idMarcControlNumber": "4870364",
   "idNZNewspapersV1": "64034",
+  "idPapersPastCode": "ACNZC",
   "isCurrent": false,
   "placecode": "02-01-auckland",
   "placename": "Auckland",
   "region": "Auckland",
+  "urlDigitized": "https://paperspast.natlib.govt.nz/newspapers/auckland-chronicle-and-new-zealand-colonist",
   "sources": {
-    "2013-04-02T08:58:38.000Z": "Extracted from the New Zealand National Bibliography (MARC record 4870364) downloaded March 2013.",
-    "2013-10-27T18:57:23.000Z": "Modified by gordon.paynter"
+    "2022-01-18T05:01:26.682Z": "Updated Papers Past info using the nzn-paperspast-updater.js script.",
+    "2013-10-27T18:57:23.000Z": "Modified by gordon.paynter",
+    "2013-04-02T08:58:38.000Z": "Extracted from the New Zealand National Bibliography (MARC record 4870364) downloaded March 2013."
   },
-  "revision": 4
+  "revision": 5
 }

@@ -13,7 +13,7 @@
   "placename": "Palmerston North",
   "region": "Manawatu-Wanganui",
   "urlCurrent": "http://www.manawatustandard.co.nz/",
-  "urlDigitized": "http://paperspast.natlib.govt.nz/cgi-bin/paperspast?a=d&cl=CL1.MS",
+  "urlDigitized": "https://paperspast.natlib.govt.nz/newspapers/manawatu-standard",
   "links": {
     "1906": {
       "direction": "Has Masthead",
@@ -37,7 +37,8 @@
     }
   },
   "sources": {
+    "2022-01-18T04:19:28.914Z": "Updated Papers Past info using the nzn-paperspast-updater.js script.",
     "2013-09-22T09:49:28.000Z": "Modified by gordon.paynter"
   },
-  "revision": 11
+  "revision": 12
 }

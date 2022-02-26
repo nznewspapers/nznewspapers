@@ -8,13 +8,16 @@
   "frequency": "Two issues per week",
   "idMarcControlNumber": "8181723",
   "idNZNewspapersV1": "58131",
+  "idPapersPastCode": "SNEWS",
   "isCurrent": false,
   "placecode": "08-07",
   "placename": "Levin",
   "region": "Manawatu-Wanganui",
+  "urlDigitized": "https://paperspast.natlib.govt.nz/newspapers/shannon-news",
   "sources": {
-    "2013-04-02T08:58:38.000Z": "Extracted from the New Zealand National Bibliography (MARC record 8181723) downloaded March 2013.",
-    "2014-05-19T08:47:34.000Z": "Modified by gordon.paynter"
+    "2022-01-18T04:19:28.958Z": "Updated Papers Past info using the nzn-paperspast-updater.js script.",
+    "2014-05-19T08:47:34.000Z": "Modified by gordon.paynter",
+    "2013-04-02T08:58:38.000Z": "Extracted from the New Zealand National Bibliography (MARC record 8181723) downloaded March 2013."
   },
-  "revision": 4
+  "revision": 5
 }

@@ -8,13 +8,16 @@
   "frequency": "Weekly",
   "idMarcControlNumber": "8142283",
   "idNZNewspapersV1": "62066",
+  "idPapersPastCode": "GBARG",
   "isCurrent": false,
   "placecode": "10-01",
   "placename": "Collingwood",
   "region": "Top of the South",
+  "urlDigitized": "https://paperspast.natlib.govt.nz/newspapers/golden-bay-argus",
   "sources": {
-    "2013-04-02T08:58:38.000Z": "Extracted from the New Zealand National Bibliography (MARC record 8142283) downloaded March 2013.",
-    "2014-05-07T09:15:40.000Z": "Modified by DataBot"
+    "2022-01-18T04:19:28.889Z": "Updated Papers Past info using the nzn-paperspast-updater.js script.",
+    "2014-05-07T09:15:40.000Z": "Modified by DataBot",
+    "2013-04-02T08:58:38.000Z": "Extracted from the New Zealand National Bibliography (MARC record 8142283) downloaded March 2013."
   },
-  "revision": 4
+  "revision": 5
 }

@@ -12,7 +12,7 @@
   "placename": "New Plymouth",
   "region": "Taranaki",
   "urlCurrent": "http://www.stuff.co.nz/taranaki-daily-news",
-  "urlDigitized": "http://paperspast.natlib.govt.nz/cgi-bin/paperspast?a=d&cl=CL1.TDN",
+  "urlDigitized": "https://paperspast.natlib.govt.nz/newspapers/taranaki-daily-news",
   "links": {
     "1800": {
       "direction": "Has Masthead",
@@ -32,7 +32,8 @@
     }
   },
   "sources": {
+    "2022-01-18T04:19:28.978Z": "Updated Papers Past info using the nzn-paperspast-updater.js script.",
     "2014-06-01T09:42:04.000Z": "Modified by gordon.paynter"
   },
-  "revision": 8
+  "revision": 9
 }

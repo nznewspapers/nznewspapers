@@ -17,7 +17,7 @@
       "firstYear": "1861",
       "finalYear": "9999",
       "urlCurrent": "http://www.thepress.co.nz/",
-      "urlDigitized": "http://paperspast.natlib.govt.nz/cgi-bin/paperspast?a=d&cl=CL1.CHP"
+      "urlDigitized": "https://paperspast.natlib.govt.nz/newspapers/press"
     },
     {
       "id": "2412",
@@ -42,13 +42,14 @@
       "title": "The Star",
       "firstYear": "1868",
       "finalYear": "1935",
-      "urlDigitized": "http://paperspast.natlib.govt.nz/cgi-bin/paperspast?a=d&cl=CL1.TS"
+      "urlDigitized": "https://paperspast.natlib.govt.nz/newspapers/star-christchurch"
     },
     {
       "id": "2416",
       "title": "Globe",
       "firstYear": "1874",
-      "finalYear": "1883"
+      "finalYear": "1883",
+      "urlDigitized": "https://paperspast.natlib.govt.nz/newspapers/globe"
     },
     {
       "id": "2417",
@@ -139,7 +140,7 @@
       "title": "Sun",
       "firstYear": "1914",
       "finalYear": "1935",
-      "urlDigitized": "http://paperspast.natlib.govt.nz/cgi-bin/paperspast?a=d&cl=CL1.SUNCH"
+      "urlDigitized": "https://paperspast.natlib.govt.nz/newspapers/sun-christchurch"
     },
     {
       "id": "2384",

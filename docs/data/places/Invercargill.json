@@ -16,7 +16,7 @@
       "title": "Invercargill Times",
       "firstYear": "1862",
       "finalYear": "1864",
-      "urlDigitized": "http://paperspast.natlib.govt.nz/cgi-bin/paperspast?a=d&cl=CL1.ST"
+      "urlDigitized": "https://paperspast.natlib.govt.nz/newspapers/southland-times"
     },
     {
       "id": "2658",
@@ -36,7 +36,7 @@
       "firstYear": "1864",
       "finalYear": "9999",
       "urlCurrent": "http://www.southlandtimes.co.nz/",
-      "urlDigitized": "http://paperspast.natlib.govt.nz/cgi-bin/paperspast?a=d&cl=CL1.ST"
+      "urlDigitized": "https://paperspast.natlib.govt.nz/newspapers/southland-times"
     },
     {
       "id": "2666",
@@ -54,7 +54,8 @@
       "id": "2673",
       "title": "Southern Cross",
       "firstYear": "1893",
-      "finalYear": "1946"
+      "finalYear": "1946",
+      "urlDigitized": "https://paperspast.natlib.govt.nz/newspapers/southern-cross"
     },
     {
       "id": "2681",

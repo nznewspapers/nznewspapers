@@ -8,10 +8,12 @@
   "frequency": "Weekly",
   "idMarcControlNumber": "8176671",
   "idNZNewspapersV1": "14044",
+  "idPapersPastCode": "NORAG",
   "isCurrent": false,
   "placecode": "01-01",
   "placename": "Kaitaia",
   "region": "Northland",
+  "urlDigitized": "https://paperspast.natlib.govt.nz/newspapers/northland-age",
   "links": {
     "1007": {
       "direction": "Preceding",
@@ -25,8 +27,9 @@
     }
   },
   "sources": {
-    "2013-04-02T08:58:38.000Z": "Extracted from the New Zealand National Bibliography (MARC record 8176671) downloaded March 2013.",
-    "2014-05-07T09:18:56.000Z": "Modified by DataBot"
+    "2022-01-18T04:19:28.943Z": "Updated Papers Past info using the nzn-paperspast-updater.js script.",
+    "2014-05-07T09:18:56.000Z": "Modified by DataBot",
+    "2013-04-02T08:58:38.000Z": "Extracted from the New Zealand National Bibliography (MARC record 8176671) downloaded March 2013."
   },
-  "revision": 6
+  "revision": 7
 }

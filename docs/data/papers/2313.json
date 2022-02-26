@@ -6,10 +6,12 @@
   "finalYear": "2006",
   "district": "Grey District",
   "idNZNewspapersV1": "11931353",
+  "idPapersPastCode": "GEST",
   "isCurrent": false,
   "placecode": "11-02",
   "placename": "Greymouth",
   "region": "West Coast",
+  "urlDigitized": "https://paperspast.natlib.govt.nz/newspapers/greymouth-evening-star",
   "links": {
     "2312": {
       "direction": "Has Masthead",
@@ -25,7 +27,8 @@
     }
   },
   "sources": {
+    "2022-01-18T04:19:28.890Z": "Updated Papers Past info using the nzn-paperspast-updater.js script.",
     "2014-04-12T11:37:27.000Z": "Modified by gordon.paynter"
   },
-  "revision": 5
+  "revision": 6
 }

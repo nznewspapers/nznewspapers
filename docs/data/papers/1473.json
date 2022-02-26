@@ -15,7 +15,7 @@
   "placecode": "03-01",
   "placename": "Thames",
   "region": "Waikato",
-  "urlDigitized": "http://paperspast.natlib.govt.nz/cgi-bin/paperspast?a=d&cl=CL1.THA",
+  "urlDigitized": "https://paperspast.natlib.govt.nz/newspapers/thames-advertiser",
   "links": {
     "1483": {
       "direction": "Succeeding",
@@ -24,8 +24,9 @@
     }
   },
   "sources": {
-    "2013-04-02T08:58:38.000Z": "Extracted from the New Zealand National Bibliography (MARC record 8183951) downloaded March 2013.",
-    "2014-03-21T11:42:16.000Z": "Modified by DataBot"
+    "2022-01-18T04:19:28.982Z": "Updated Papers Past info using the nzn-paperspast-updater.js script.",
+    "2014-03-21T11:42:16.000Z": "Modified by DataBot",
+    "2013-04-02T08:58:38.000Z": "Extracted from the New Zealand National Bibliography (MARC record 8183951) downloaded March 2013."
   },
-  "revision": 11
+  "revision": 12
 }

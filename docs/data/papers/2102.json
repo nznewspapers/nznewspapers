@@ -13,8 +13,8 @@
   "placename": "Wellington",
   "region": "Wellington",
   "sources": {
-    "2013-04-02T08:58:38.000Z": "Extracted from the New Zealand National Bibliography (MARC record 8172579) downloaded March 2013.",
-    "2014-03-21T11:38:56.000Z": "Modified by DataBot"
+    "2014-03-21T11:38:56.000Z": "Modified by DataBot",
+    "2013-04-02T08:58:38.000Z": "Extracted from the New Zealand National Bibliography (MARC record 8172579) downloaded March 2013."
   },
-  "revision": 4
+  "revision": 5
 }

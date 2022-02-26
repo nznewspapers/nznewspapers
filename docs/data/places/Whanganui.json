@@ -17,7 +17,7 @@
       "firstYear": "1856",
       "finalYear": "9999",
       "urlCurrent": "http://www.wanganuichronicle.co.nz/",
-      "urlDigitized": "http://paperspast.natlib.govt.nz/cgi-bin/paperspast?a=d&cl=CL1.WC"
+      "urlDigitized": "https://paperspast.natlib.govt.nz/newspapers/wanganui-chronicle"
     },
     {
       "id": "1878",
@@ -30,7 +30,7 @@
       "title": "Evening Herald",
       "firstYear": "1867",
       "finalYear": "1876",
-      "urlDigitized": "http://paperspast.natlib.govt.nz/cgi-bin/paperspast?a=d&cl=CL1.WH"
+      "urlDigitized": "https://paperspast.natlib.govt.nz/newspapers/wanganui-herald"
     },
     {
       "id": "1880",
@@ -43,7 +43,7 @@
       "title": "The Wanganui Herald",
       "firstYear": "1876",
       "finalYear": "1986",
-      "urlDigitized": "http://paperspast.natlib.govt.nz/cgi-bin/paperspast?a=d&cl=CL1.WH"
+      "urlDigitized": "https://paperspast.natlib.govt.nz/newspapers/wanganui-herald"
     },
     {
       "id": "1882",
@@ -68,7 +68,8 @@
       "title": "The Jubilee",
       "firstYear": "1898",
       "finalYear": "1900",
-      "urlCurrent": "http://nzdl.org/cgi-bin/library?gg=_cgiarggg_&e=d-00000-00---0niupepa--00-0--0-10-0---0---0prompt-10---4-------0-1l--11-en-50---20-about---00-0-1-00-11-1-0utfZz-8-00&a=d&c=niupepa&cl=CL1.30"
+      "urlCurrent": "http://nzdl.org/cgi-bin/library?gg=_cgiarggg_&e=d-00000-00---0niupepa--00-0--0-10-0---0---0prompt-10---4-------0-1l--11-en-50---20-about---00-0-1-00-11-1-0utfZz-8-00&a=d&c=niupepa&cl=CL1.30",
+      "urlDigitized": "https://paperspast.natlib.govt.nz/newspapers/jubilee-te-tiupiri"
     },
     {
       "id": "1886",

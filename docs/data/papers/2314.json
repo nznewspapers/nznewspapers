@@ -8,10 +8,12 @@
   "frequency": "Daily (except Sunday)",
   "idMarcControlNumber": "4870349",
   "idNZNewspapersV1": "10032",
+  "idPapersPastCode": "GEST",
   "isCurrent": false,
   "placecode": "11-02",
   "placename": "Greymouth",
   "region": "West Coast",
+  "urlDigitized": "https://paperspast.natlib.govt.nz/newspapers/greymouth-evening-star",
   "links": {
     "2312": {
       "direction": "Continues",
@@ -23,8 +25,9 @@
     }
   },
   "sources": {
-    "2013-04-02T08:58:38.000Z": "Extracted from the New Zealand National Bibliography (MARC record 4870349) downloaded March 2013.",
-    "2014-04-12T11:36:33.000Z": "Modified by gordon.paynter"
+    "2022-01-18T04:19:28.891Z": "Updated Papers Past info using the nzn-paperspast-updater.js script.",
+    "2014-04-12T11:36:33.000Z": "Modified by gordon.paynter",
+    "2013-04-02T08:58:38.000Z": "Extracted from the New Zealand National Bibliography (MARC record 4870349) downloaded March 2013."
   },
-  "revision": 6
+  "revision": 7
 }
