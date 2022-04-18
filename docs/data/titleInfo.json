@@ -7089,8 +7089,7 @@
         "region": "Otago",
         "district": "Dunedin City",
         "placename": "Dunedin",
-        "urlCurrent": "http://www.westportnews.co.nz/",
-        "urlDigitized": "https://paperspast.natlib.govt.nz/newspapers/waipawa-mail"
+        "urlDigitized": "https://paperspast.natlib.govt.nz/newspapers/saturday-advertiser"
       },
       {
         "id": 2125,
@@ -7145,8 +7144,7 @@
         "finalYear": "1869",
         "region": "Wellington",
         "district": "Wellington City",
-        "placename": "Wellington",
-        "urlDigitized": "https://paperspast.natlib.govt.nz/newspapers/new-zealand-times"
+        "placename": "Wellington"
       },
       {
         "id": 2106,
@@ -13475,7 +13473,8 @@
         "finalYear": "9999",
         "region": "Auckland",
         "district": "Auckland",
-        "placename": "Auckland"
+        "placename": "Auckland",
+        "urlCurrent": "https://www.stuff.co.nz/auckland/local-news/western-leader"
       },
       {
         "id": 2479,

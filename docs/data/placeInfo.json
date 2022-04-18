@@ -2,7 +2,7 @@
   "stats": {
     "count": 1521,
     "countCurrent": 222,
-    "countDigitized": 165,
+    "countDigitized": 164,
     "places": 231,
     "regions": 15,
     "districts": 66
@@ -1309,7 +1309,8 @@
           "title": "Western Leader (Auckland)",
           "firstYear": "196u",
           "finalYear": "9999",
-          "placename": "Auckland"
+          "placename": "Auckland",
+          "urlCurrent": "https://www.stuff.co.nz/auckland/local-news/western-leader"
         },
         {
           "id": 1393,
@@ -7103,8 +7104,7 @@
           "title": "New Zealand Times",
           "firstYear": "1867",
           "finalYear": "1869",
-          "placename": "Wellington",
-          "urlDigitized": "https://paperspast.natlib.govt.nz/newspapers/new-zealand-times"
+          "placename": "Wellington"
         },
         {
           "id": 2103,
@@ -10520,8 +10520,7 @@
           "firstYear": "1875",
           "finalYear": "1893",
           "placename": "Dunedin",
-          "urlCurrent": "http://www.westportnews.co.nz/",
-          "urlDigitized": "https://paperspast.natlib.govt.nz/newspapers/waipawa-mail"
+          "urlDigitized": "https://paperspast.natlib.govt.nz/newspapers/saturday-advertiser"
         },
         {
           "id": 2596,
