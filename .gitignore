@@ -105,3 +105,5 @@ dist
 
 # Application-specific
 # docs/data/
+bib-edited.text
+*.mrc
