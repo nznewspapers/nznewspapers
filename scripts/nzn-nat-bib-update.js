@@ -113,6 +113,7 @@ function readMarcFile(marcFile) {
         newspaperCounter += 1;
 
         // MARC Control Number:
+        // TODO: Check for duplicate MARC Control Numbers (e.g. 8000996)
         let marcControlNumber = null;
         record.get(/035/).forEach((field) => {
           field["subf"].forEach((pair) => {
