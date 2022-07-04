@@ -170,10 +170,13 @@ exports.getNewspaperIds = function () {
  * @returns A dict that maps from newspaper Id to a newspaper record.
  */
 exports.getNewspaperRecords = function () {
-  results = {};
+  let results = {};
   const newspaperIdList = exports.getNewspaperIds();
   for (const id of newspaperIdList) {
-    results[id] = exports.readNewspaper(id);
+    let result = exports.readNewspaper(id);
+    if (result) {
+      results[id] = result;
+    }
   }
   return results;
 };
