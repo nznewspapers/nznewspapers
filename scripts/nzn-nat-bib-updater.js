@@ -35,12 +35,12 @@ for (const [key, value] of Object.entries(newspaperRecords)) {
   marcNumber = newspaperRecords[key].idMarcControlNumber;
   if (!marcNumber) {
     // No MARC number, ignore for now.
-    // TODO: Report on newspapers with no NatLib MARC Control Number (many such have an OCLC MARC Control Number).
+    // Often the MARC Control Number refers to a Masthead or related record.
   } else if (!marcNumberToNewspaperId[marcNumber]) {
     marcNumberToNewspaperId[marcNumber] = key;
   } else {
     let message =
-      "Duplicate MARC number '" +
+      "Error: Duplicate MARC number '" +
       marcNumber +
       "': " +
       key +
@@ -55,7 +55,7 @@ for (const [key, value] of Object.entries(newspaperRecords)) {
       newspaperRecords[marcNumberToNewspaperId[marcNumber]].title +
       ")";
     console.log(message);
-    // throw message;
+    throw message;
   }
 }
 
@@ -69,6 +69,10 @@ function readMarcFile(marcFile) {
   let serialCounter = 0;
   let newspaperCounter = 0;
 
+  let countNoNatLibMarc = 0;
+  let countMatch = 0;
+  let countNoMatch = 0;
+
   // Every 5 seconds, a progress update:
   let tick = setInterval(() => {
     console.log(
@@ -78,6 +82,15 @@ function readMarcFile(marcFile) {
         serialCounter +
         " / " +
         reader.count
+    );
+    console.log(
+      "Stats: " +
+        countNoNatLibMarc +
+        " missing control number, " +
+        countMatch +
+        " match, " +
+        countNoMatch +
+        " don't match."
     );
   }, 5000);
 
@@ -115,10 +128,16 @@ function readMarcFile(marcFile) {
         // MARC Control Number:
         // TODO: Check for duplicate MARC Control Numbers (e.g. 8000996)
         let marcControlNumber = null;
+        let marcControlNumberList = [];
+        let newspaperIdMatch = null;
         record.get(/035/).forEach((field) => {
           field["subf"].forEach((pair) => {
             if (pair[0] == "a" && pair[1].startsWith("(Nz)")) {
               marcControlNumber = pair[1].substring(4);
+              marcControlNumberList.push(marcControlNumber);
+              if (marcNumberToNewspaperId[marcControlNumber]) {
+                newspaperIdMatch = marcNumberToNewspaperId[marcControlNumber];
+              }
             }
           });
         });
@@ -168,6 +187,22 @@ function readMarcFile(marcFile) {
           console.log(" * Placename:  " + placename);
         }
 
+        // Does this Marc Control Number match a known record?
+        if (!marcControlNumber) {
+          countNoNatLibMarc += 1;
+        } else if (newspaperIdMatch) {
+          // console.log("Match " + marcControlNumber + " -> " + newspaperIdMatch);
+          countMatch += 1;
+        } else {
+          countNoMatch += 1;
+          console.log("Marc has no match (" + countNoMatch + "):");
+          console.log(" * MARC Ctrl#: " + marcControlNumber);
+          console.log(" * Title:      " + title);
+          console.log(" * Date Range: " + date1 + "-" + date2);
+          console.log(" * Genre:      " + genre);
+          console.log(" * Placename:  " + placename);
+        }
+
         writers.forEach((writer) => writer.write(record));
       }
     }
@@ -185,6 +220,15 @@ function readMarcFile(marcFile) {
         serialCounter +
         " / " +
         reader.count
+    );
+    console.log(
+      "Stats: " +
+        countNoNatLibMarc +
+        " missing control number, " +
+        countMatch +
+        " match, " +
+        countNoMatch +
+        " don't match."
     );
     clearInterval(tick);
   });

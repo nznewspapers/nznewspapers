@@ -174,7 +174,7 @@ exports.getNewspaperRecords = function () {
   const newspaperIdList = exports.getNewspaperIds();
   for (const id of newspaperIdList) {
     let result = exports.readNewspaper(id);
-    if (result) {
+    if (result && Object.keys(result).length > 0) {
       results[id] = result;
     }
   }
