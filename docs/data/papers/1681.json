@@ -11,6 +11,13 @@
   "placecode": "04-05",
   "placename": "Rotorua",
   "region": "Bay of Plenty",
+  "links": {
+    "undefined-unknown": {
+      "direction": "Preceding",
+      "relationship": "Continues",
+      "target-description": "Reparoa report"
+    }
+  },
   "sources": {
     "2013-04-02T08:58:38.000Z": "Extracted from the New Zealand National Bibliography (MARC record 3604343) downloaded March 2013.",
     "2014-04-23T10:12:39.000Z": "Modified by MarcLoaderBot"
