@@ -1,7 +1,7 @@
 {
   "id": 2918,
   "title": "North Canterbury Outlook",
-  "genre": "Periodical",
+  "genre": "Newspaper",
   "firstYear": "1988",
   "finalYear": "1990",
   "district": "Waimakariri District",
@@ -13,10 +13,15 @@
   "placename": "Rangiora",
   "region": "Canterbury",
   "links": {
-    "undefined-unknown": {
+    "2373": {
       "direction": "Preceding",
       "relationship": "Continues",
-      "target-description": "Northern outlook (1990)"
+      "target-description": "Northern Outlook (1982)"
+    },
+    "2375": {
+      "direction": "Succeeding",
+      "relationship": "Continued by",
+      "target-description": "Northern Outlook"
     }
   },
   "sources": {

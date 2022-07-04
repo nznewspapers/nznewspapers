@@ -1,6 +1,6 @@
 {
   "id": 2373,
-  "title": "Northern Outlook",
+  "title": "Northern Outlook (1982)",
   "genre": "Newspaper",
   "firstYear": "1982",
   "finalYear": "1988",
@@ -17,7 +17,7 @@
     "2918": {
       "direction": "Succeeding",
       "relationship": "Continued by",
-      "target-description": "North Canterbury outlook."
+      "target-description": "North Canterbury Outlook."
     }
   },
   "sources": {
