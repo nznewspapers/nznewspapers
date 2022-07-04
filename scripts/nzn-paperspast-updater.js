@@ -59,28 +59,6 @@ function makePapersPastUrl(title) {
 }
 
 /**
- * Get the complete list of valid newspaper ids.
- * @returns A sorted list of newspaper ids.
- */
-function getNewspaperIds() {
-  let oldIdtoNewId = nznShared.readOldIdtoNewId();
-  return Object.values(oldIdtoNewId).sort();
-}
-
-/**
- * Get the complete set of newspaper records.
- * @returns A dict that maps from newspaper Id to a newspaper record.
- */
-function getNewspaperRecords() {
-  results = {};
-  const newspaperIdList = getNewspaperIds();
-  for (const id of newspaperIdList) {
-    results[id] = nznShared.readNewspaper(id);
-  }
-  return results;
-}
-
-/**
  * Update a newspaper record with new Papers Past information.
  * @param {*} id
  * @param {*} papersPastCode
@@ -148,7 +126,7 @@ function parsePapersPastRows(err, records) {
   // Find the records that newspaper data now
   console.log("Scanning existing records for Papers Past ids");
 
-  let newspaperRecords = getNewspaperRecords();
+  let newspaperRecords = nznShared.getNewspaperRecords();
   let papersPastTitles = {};
   let papersPastCodes = {};
   for (const [key, value] of Object.entries(newspaperRecords)) {

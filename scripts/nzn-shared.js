@@ -155,3 +155,25 @@ exports.writeNewspaper = function (id, record, source = null) {
 exports.readOldIdtoNewId = function () {
   return exports.readJsonDictSync(exports.oldIdtoNewIdFilename);
 };
+
+/**
+ * Get the complete list of valid newspaper ids.
+ * @returns A sorted list of newspaper ids.
+ */
+exports.getNewspaperIds = function () {
+  let oldIdtoNewId = exports.readOldIdtoNewId();
+  return Object.values(oldIdtoNewId).sort();
+};
+
+/**
+ * Get the complete set of newspaper records.
+ * @returns A dict that maps from newspaper Id to a newspaper record.
+ */
+exports.getNewspaperRecords = function () {
+  results = {};
+  const newspaperIdList = exports.getNewspaperIds();
+  for (const id of newspaperIdList) {
+    results[id] = exports.readNewspaper(id);
+  }
+  return results;
+};
