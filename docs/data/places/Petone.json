@@ -1,8 +1,8 @@
 {
   "stats": {
     "placename": "Petone",
-    "count": 8,
-    "decades": 5
+    "count": 7,
+    "decades": 4
   },
   "papers": [
     {
@@ -22,12 +22,6 @@
       "title": "Petone News",
       "firstYear": "1983",
       "finalYear": "1983"
-    },
-    {
-      "id": "2063",
-      "title": "Petone and Harbour Ward Herald",
-      "firstYear": "1996",
-      "finalYear": "9999"
     },
     {
       "id": "2064",

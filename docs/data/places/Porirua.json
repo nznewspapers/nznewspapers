@@ -37,17 +37,17 @@
       "urlCurrent": "http://www.poriruacity.com/porirua_city_news.mv"
     },
     {
-      "id": "2041",
-      "title": "Norwester",
-      "firstYear": "2006",
-      "finalYear": "2008"
-    },
-    {
       "id": "2042",
       "title": "Citylife (Porirua Ed.)",
       "firstYear": "2006",
       "finalYear": "2009",
       "urlCurrent": "http://www.poriruacity.com/go.mv?city_life_porirua"
+    },
+    {
+      "id": "2855",
+      "title": "Norwester",
+      "firstYear": "2006",
+      "finalYear": "2008"
     },
     {
       "id": "2043",

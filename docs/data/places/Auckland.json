@@ -1,7 +1,7 @@
 {
   "stats": {
     "placename": "Auckland",
-    "count": 202,
+    "count": 201,
     "decades": 19
   },
   "papers": [
@@ -1121,12 +1121,6 @@
       "firstYear": "2003",
       "finalYear": "9999",
       "urlCurrent": "http://www.tewahanui.info/"
-    },
-    {
-      "id": "1252",
-      "title": "Karere Maori News",
-      "firstYear": "2004",
-      "finalYear": "2006"
     },
     {
       "id": "1253",

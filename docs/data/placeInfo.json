@@ -1,6 +1,6 @@
 {
   "stats": {
-    "count": 1521,
+    "count": 1520,
     "countCurrent": 222,
     "countDigitized": 164,
     "places": 231,
@@ -1939,13 +1939,6 @@
           "placename": "Auckland"
         },
         {
-          "id": 1252,
-          "title": "Karere Maori News",
-          "firstYear": "2004",
-          "finalYear": "2006",
-          "placename": "Auckland"
-        },
-        {
           "id": 1253,
           "title": "Karere Maori News [2004]",
           "firstYear": "2004",
@@ -2346,6 +2339,13 @@
           "firstYear": "1964",
           "finalYear": "uuuu",
           "placename": "New Lynn"
+        },
+        {
+          "id": 2706,
+          "title": "Newmarket Suburban News",
+          "firstYear": "1948",
+          "finalYear": "1953",
+          "placename": "Newmarket"
         },
         {
           "id": 1224,
@@ -4658,7 +4658,6 @@
           "firstYear": "1884",
           "finalYear": "1884",
           "placename": "Gisborne",
-          "urlCurrent": "http://nzdl.org/cgi-bin/library?gg=_cgiarggg_&e=d-00000-00---0niupepa--00-0--0-10-0---0---0prompt-10---4-------0-1l--11-en-50---20-about---00-0-1-00-11-1-0utfZz-8-00&a=d&c=niupepa&cl=CL1.21",
           "urlDigitized": "http://nzdl.org/cgi-bin/library?gg=_cgiarggg_&e=d-00000-00---0niupepa--00-0--0-10-0---0---0prompt-10---4-------0-1l--11-en-50---20-about---00-0-1-00-11-1-0utfZz-8-00&a=d&c=niupepa&cl=CL1.21"
         },
         {
@@ -6771,7 +6770,7 @@
           "urlCurrent": "http://www.poriruacity.com/go.mv?city_life_porirua"
         },
         {
-          "id": 2041,
+          "id": 2855,
           "title": "Norwester",
           "firstYear": "2006",
           "finalYear": "2008",
@@ -6877,13 +6876,6 @@
           "title": "Petone News",
           "firstYear": "1983",
           "finalYear": "1983",
-          "placename": "Petone"
-        },
-        {
-          "id": 2063,
-          "title": "Petone and Harbour Ward Herald",
-          "firstYear": "1996",
-          "finalYear": "9999",
           "placename": "Petone"
         },
         {
@@ -7045,13 +7037,6 @@
           "placename": "Tawa"
         },
         {
-          "id": 2089,
-          "title": "Tawa Times",
-          "firstYear": "1997",
-          "finalYear": "2001",
-          "placename": "Tawa"
-        },
-        {
           "id": 2096,
           "title": "Victoria Times",
           "firstYear": "1841",
@@ -7119,6 +7104,14 @@
           "firstYear": "1870",
           "finalYear": "1871",
           "placename": "Wellington"
+        },
+        {
+          "id": 2871,
+          "title": "Waka Maori o Niu Tirani",
+          "firstYear": "1871",
+          "finalYear": "1877",
+          "placename": "Wellington",
+          "urlCurrent": "http://nzdl.org/cgi-bin/library?gg=_cgiarggg_&e=d-00000-00---0niupepa--00-0--0-10-0---0---0prompt-10---4-------0-1l--11-en-50---20-about---00-0-1-00-11-1-0utfZz-8-00&a=d&c=niupepa&cl=CL1.15"
         },
         {
           "id": 2106,
@@ -7410,6 +7403,13 @@
           "title": "Standard",
           "firstYear": "1935",
           "finalYear": "1959",
+          "placename": "Wellington"
+        },
+        {
+          "id": 2876,
+          "title": "Unemployed Leader: Official Organ of the National Unemployed Worker's Movement of New Zealand",
+          "firstYear": "1935",
+          "finalYear": "19uu",
           "placename": "Wellington"
         },
         {
@@ -7798,6 +7798,20 @@
           "placename": "Wellington"
         },
         {
+          "id": 2893,
+          "title": "Petone and Harbour Ward Herald",
+          "firstYear": "1996",
+          "finalYear": "9999",
+          "placename": "Wellington"
+        },
+        {
+          "id": 2895,
+          "title": "Tawa Times",
+          "firstYear": "1997",
+          "finalYear": "2001",
+          "placename": "Wellington"
+        },
+        {
           "id": 2202,
           "title": "Capital Chinese News",
           "firstYear": "1998",
@@ -7808,6 +7822,20 @@
           "id": 2203,
           "title": "Xiang yin",
           "firstYear": "1998",
+          "finalYear": "9999",
+          "placename": "Wellington"
+        },
+        {
+          "id": 2897,
+          "title": "Newlands/Paparangi Post",
+          "firstYear": "19uu",
+          "finalYear": "2001",
+          "placename": "Wellington"
+        },
+        {
+          "id": 2898,
+          "title": "Northern Courier",
+          "firstYear": "2001",
           "finalYear": "9999",
           "placename": "Wellington"
         },
@@ -7927,21 +7955,6 @@
           "urlDigitized": "https://paperspast.natlib.govt.nz/newspapers/wellington-independent"
         },
         {
-          "id": 2074,
-          "title": "Waka Maori o Niu Tirani",
-          "firstYear": "1871",
-          "finalYear": "1877",
-          "placename": "Wellington",
-          "urlCurrent": "http://nzdl.org/cgi-bin/library?gg=_cgiarggg_&e=d-00000-00---0niupepa--00-0--0-10-0---0---0prompt-10---4-------0-1l--11-en-50---20-about---00-0-1-00-11-1-0utfZz-8-00&a=d&c=niupepa&cl=CL1.15"
-        },
-        {
-          "id": 2076,
-          "title": "Unemployed Leader",
-          "firstYear": "1935",
-          "finalYear": "19uu",
-          "placename": "Wellington"
-        },
-        {
           "id": 2083,
           "title": "National Business Review",
           "firstYear": "1970",
@@ -7967,20 +7980,6 @@
           "id": 2090,
           "title": "Wellingtonian",
           "firstYear": "199u",
-          "finalYear": "9999",
-          "placename": "Wellington"
-        },
-        {
-          "id": 2091,
-          "title": "Newlands/Paparangi Post",
-          "firstYear": "19uu",
-          "finalYear": "2001",
-          "placename": "Wellington"
-        },
-        {
-          "id": 2092,
-          "title": "Northern Courier",
-          "firstYear": "2001",
           "finalYear": "9999",
           "placename": "Wellington"
         },
@@ -8920,7 +8919,7 @@
           "placename": "Leeston"
         },
         {
-          "id": 2357,
+          "id": 2915,
           "title": "Plains Express",
           "firstYear": "1988",
           "finalYear": "1996",
@@ -9030,13 +9029,13 @@
         },
         {
           "id": 2373,
-          "title": "Northern Outlook",
+          "title": "Northern Outlook (1982)",
           "firstYear": "1982",
           "finalYear": "1988",
           "placename": "Rangiora"
         },
         {
-          "id": 2374,
+          "id": 2918,
           "title": "North Canterbury Outlook",
           "firstYear": "1988",
           "finalYear": "1990",
@@ -9044,7 +9043,7 @@
         },
         {
           "id": 2375,
-          "title": "Northern Outlook (1990)",
+          "title": "Northern Outlook",
           "firstYear": "1990",
           "finalYear": "9999",
           "placename": "Rangiora"
@@ -9162,6 +9161,13 @@
           "placename": "Christchurch"
         },
         {
+          "id": 2928,
+          "title": "Prohibitionist",
+          "firstYear": "1890",
+          "finalYear": "1893",
+          "placename": "Christchurch"
+        },
+        {
           "id": 2425,
           "title": "Echo",
           "firstYear": "1893",
@@ -9213,6 +9219,13 @@
         {
           "id": 2430,
           "title": "Maoriland Thinker",
+          "firstYear": "1918",
+          "finalYear": "19uu",
+          "placename": "Christchurch"
+        },
+        {
+          "id": 2929,
+          "title": "Punchi",
           "firstYear": "1918",
           "finalYear": "19uu",
           "placename": "Christchurch"
@@ -9744,26 +9757,12 @@
           "placename": "Christchurch"
         },
         {
-          "id": 2382,
-          "title": "Prohibitionist",
-          "firstYear": "1890",
-          "finalYear": "1893",
-          "placename": "Christchurch"
-        },
-        {
           "id": 2383,
           "title": "Sun",
           "firstYear": "1914",
           "finalYear": "1935",
           "placename": "Christchurch",
           "urlDigitized": "https://paperspast.natlib.govt.nz/newspapers/sun-christchurch"
-        },
-        {
-          "id": 2384,
-          "title": "Punchi",
-          "firstYear": "1918",
-          "finalYear": "19uu",
-          "placename": "Christchurch"
         },
         {
           "id": 2387,
@@ -9781,13 +9780,6 @@
         },
         {
           "id": 2396,
-          "title": "The North West Herald",
-          "firstYear": "1993",
-          "finalYear": "1995",
-          "placename": "Christchurch"
-        },
-        {
-          "id": 2397,
           "title": "The North West Herald",
           "firstYear": "1993",
           "finalYear": "1995",
@@ -9837,13 +9829,6 @@
         },
         {
           "id": 2405,
-          "title": "Tai Yang Bao",
-          "firstYear": "2005",
-          "finalYear": "9999",
-          "placename": "Christchurch"
-        },
-        {
-          "id": 2406,
           "title": "Tai Yang Bao",
           "firstYear": "2005",
           "finalYear": "9999",
@@ -10060,14 +10045,14 @@
           "placename": "Temuka"
         },
         {
-          "id": 2531,
+          "id": 2952,
           "title": "New Leader",
           "firstYear": "1996",
           "finalYear": "1998",
           "placename": "Temuka"
         },
         {
-          "id": 2535,
+          "id": 2953,
           "title": "The New Temuka Leader",
           "firstYear": "19uu",
           "finalYear": "1996",
@@ -10127,6 +10112,14 @@
         },
         {
           "id": 2530,
+          "title": "Courier",
+          "firstYear": "1993",
+          "finalYear": "9999",
+          "placename": "Timaru",
+          "urlCurrent": "http://timarucourier.co.nz/"
+        },
+        {
+          "id": 3028,
           "title": "Courier",
           "firstYear": "1993",
           "finalYear": "9999",
@@ -10236,7 +10229,7 @@
         },
         {
           "id": 2552,
-          "title": "The Mail Minor",
+          "title": "The Mail Minor: for the Young Folk",
           "firstYear": "1939",
           "finalYear": "1942",
           "placename": "Oamaru"

@@ -1,7 +1,7 @@
 {
   "stats": {
     "placename": "Wellington",
-    "count": 134,
+    "count": 136,
     "decades": 19
   },
   "papers": [
@@ -58,8 +58,7 @@
       "id": "2102",
       "title": "New Zealand Times",
       "firstYear": "1867",
-      "finalYear": "1869",
-      "urlDigitized": "https://paperspast.natlib.govt.nz/newspapers/new-zealand-times"
+      "finalYear": "1869"
     },
     {
       "id": "2103",
@@ -74,7 +73,7 @@
       "finalYear": "1871"
     },
     {
-      "id": "2074",
+      "id": "2871",
       "title": "Waka Maori o Niu Tirani",
       "firstYear": "1871",
       "finalYear": "1877",
@@ -326,16 +325,16 @@
       "finalYear": "uuuu"
     },
     {
-      "id": "2076",
-      "title": "Unemployed Leader",
-      "firstYear": "1935",
-      "finalYear": "19uu"
-    },
-    {
       "id": "2145",
       "title": "Standard",
       "firstYear": "1935",
       "finalYear": "1959"
+    },
+    {
+      "id": "2876",
+      "title": "Unemployed Leader: Official Organ of the National Unemployed Worker's Movement of New Zealand",
+      "firstYear": "1935",
+      "finalYear": "19uu"
     },
     {
       "id": "2147",
@@ -687,6 +686,18 @@
       "finalYear": "2003"
     },
     {
+      "id": "2893",
+      "title": "Petone and Harbour Ward Herald",
+      "firstYear": "1996",
+      "finalYear": "9999"
+    },
+    {
+      "id": "2895",
+      "title": "Tawa Times",
+      "firstYear": "1997",
+      "finalYear": "2001"
+    },
+    {
       "id": "2202",
       "title": "Capital Chinese News",
       "firstYear": "1998",
@@ -705,16 +716,10 @@
       "finalYear": "9999"
     },
     {
-      "id": "2091",
+      "id": "2897",
       "title": "Newlands/Paparangi Post",
       "firstYear": "19uu",
       "finalYear": "2001"
-    },
-    {
-      "id": "2092",
-      "title": "Northern Courier",
-      "firstYear": "2001",
-      "finalYear": "9999"
     },
     {
       "id": "2204",
@@ -728,6 +733,12 @@
       "firstYear": "2001",
       "finalYear": "2002",
       "urlCurrent": "http://www.infotech.co.nz"
+    },
+    {
+      "id": "2898",
+      "title": "Northern Courier",
+      "firstYear": "2001",
+      "finalYear": "9999"
     },
     {
       "id": "2206",

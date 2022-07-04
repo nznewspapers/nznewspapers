@@ -1,7 +1,7 @@
 {
   "stats": {
     "placename": "Timaru",
-    "count": 14,
+    "count": 15,
     "decades": 8
   },
   "papers": [
@@ -52,6 +52,13 @@
     },
     {
       "id": "2530",
+      "title": "Courier",
+      "firstYear": "1993",
+      "finalYear": "9999",
+      "urlCurrent": "http://timarucourier.co.nz/"
+    },
+    {
+      "id": "3028",
       "title": "Courier",
       "firstYear": "1993",
       "finalYear": "9999",

@@ -1,6 +1,6 @@
 {
   "stats": {
-    "count": 1521,
+    "count": 1520,
     "places": 231,
     "headings": 26
   },
@@ -1685,6 +1685,16 @@
       },
       {
         "id": 2530,
+        "title": "Courier",
+        "firstYear": "1993",
+        "finalYear": "9999",
+        "region": "Canterbury",
+        "district": "Timaru District",
+        "placename": "Timaru",
+        "urlCurrent": "http://timarucourier.co.nz/"
+      },
+      {
+        "id": 3028,
         "title": "Courier",
         "firstYear": "1993",
         "finalYear": "9999",
@@ -4897,15 +4907,6 @@
         "placename": "Auckland"
       },
       {
-        "id": 1252,
-        "title": "Karere Maori News",
-        "firstYear": "2004",
-        "finalYear": "2006",
-        "region": "Auckland",
-        "district": "Auckland",
-        "placename": "Auckland"
-      },
-      {
         "id": 1253,
         "title": "Karere Maori News [2004]",
         "firstYear": "2004",
@@ -5437,7 +5438,7 @@
       },
       {
         "id": 2552,
-        "title": "The Mail Minor",
+        "title": "The Mail Minor: for the Young Folk",
         "firstYear": "1939",
         "finalYear": "1942",
         "region": "Canterbury",
@@ -6588,7 +6589,7 @@
         "placename": "Wellington"
       },
       {
-        "id": 2091,
+        "id": 2897,
         "title": "Newlands/Paparangi Post",
         "firstYear": "19uu",
         "finalYear": "2001",
@@ -6597,7 +6598,7 @@
         "placename": "Wellington"
       },
       {
-        "id": 2531,
+        "id": 2952,
         "title": "New Leader",
         "firstYear": "1996",
         "finalYear": "1998",
@@ -6631,6 +6632,15 @@
         "region": "Auckland",
         "district": "Auckland",
         "placename": "Auckland"
+      },
+      {
+        "id": 2706,
+        "title": "Newmarket Suburban News",
+        "firstYear": "1948",
+        "finalYear": "1953",
+        "region": "Auckland",
+        "district": "Auckland",
+        "placename": "Newmarket"
       },
       {
         "id": 1815,
@@ -6822,7 +6832,7 @@
         "placename": "Morrinsville"
       },
       {
-        "id": 2535,
+        "id": 2953,
         "title": "The New Temuka Leader",
         "firstYear": "19uu",
         "finalYear": "1996",
@@ -7296,7 +7306,7 @@
         "placename": "Whangarei"
       },
       {
-        "id": 2092,
+        "id": 2898,
         "title": "Northern Courier",
         "firstYear": "2001",
         "finalYear": "9999",
@@ -7351,19 +7361,19 @@
         "urlCurrent": "http://www.stuff.co.nz/auckland/local-news/northland/northern-news"
       },
       {
-        "id": 2373,
+        "id": 2375,
         "title": "Northern Outlook",
-        "firstYear": "1982",
-        "finalYear": "1988",
+        "firstYear": "1990",
+        "finalYear": "9999",
         "region": "Canterbury",
         "district": "Waimakariri District",
         "placename": "Rangiora"
       },
       {
-        "id": 2375,
-        "title": "Northern Outlook (1990)",
-        "firstYear": "1990",
-        "finalYear": "9999",
+        "id": 2373,
+        "title": "Northern Outlook (1982)",
+        "firstYear": "1982",
+        "finalYear": "1988",
         "region": "Canterbury",
         "district": "Waimakariri District",
         "placename": "Rangiora"
@@ -7469,7 +7479,7 @@
         "placename": "Kaiapoi"
       },
       {
-        "id": 2374,
+        "id": 2918,
         "title": "North Canterbury Outlook",
         "firstYear": "1988",
         "finalYear": "1990",
@@ -7752,15 +7762,6 @@
         "placename": "Christchurch"
       },
       {
-        "id": 2397,
-        "title": "The North West Herald",
-        "firstYear": "1993",
-        "finalYear": "1995",
-        "region": "Canterbury",
-        "district": "Christchurch City",
-        "placename": "Christchurch"
-      },
-      {
         "id": 1210,
         "title": "Northwest Newsbrief",
         "firstYear": "1987",
@@ -7788,7 +7789,7 @@
         "placename": "Wellington"
       },
       {
-        "id": 2041,
+        "id": 2855,
         "title": "Norwester",
         "firstYear": "2006",
         "finalYear": "2008",
@@ -8749,13 +8750,13 @@
         "placename": "Auckland"
       },
       {
-        "id": 2063,
+        "id": 2893,
         "title": "Petone and Harbour Ward Herald",
         "firstYear": "1996",
         "finalYear": "9999",
         "region": "Wellington",
-        "district": "Hutt City",
-        "placename": "Petone"
+        "district": "Wellington City",
+        "placename": "Wellington"
       },
       {
         "id": 2048,
@@ -8821,7 +8822,7 @@
         "placename": "Pio Pio"
       },
       {
-        "id": 2357,
+        "id": 2915,
         "title": "Plains Express",
         "firstYear": "1988",
         "finalYear": "1996",
@@ -9032,7 +9033,7 @@
         "placename": "Taumarunui"
       },
       {
-        "id": 2382,
+        "id": 2928,
         "title": "Prohibitionist",
         "firstYear": "1890",
         "finalYear": "1893",
@@ -9105,7 +9106,7 @@
         "placename": "Pukerua Bay"
       },
       {
-        "id": 2384,
+        "id": 2929,
         "title": "Punchi",
         "firstYear": "1918",
         "finalYear": "19uu",
@@ -10786,15 +10787,6 @@
         "placename": "Christchurch"
       },
       {
-        "id": 2406,
-        "title": "Tai Yang Bao",
-        "firstYear": "2005",
-        "finalYear": "9999",
-        "region": "Canterbury",
-        "district": "Christchurch City",
-        "placename": "Christchurch"
-      },
-      {
         "id": 1117,
         "title": "Takapuna and North Shore News",
         "firstYear": "1952",
@@ -11154,13 +11146,13 @@
         "placename": "Tawa"
       },
       {
-        "id": 2089,
+        "id": 2895,
         "title": "Tawa Times",
         "firstYear": "1997",
         "finalYear": "2001",
         "region": "Wellington",
         "district": "Wellington City",
-        "placename": "Tawa"
+        "placename": "Wellington"
       },
       {
         "id": 2166,
@@ -11476,7 +11468,6 @@
         "region": "Gisborne",
         "district": "Gisborne District",
         "placename": "Gisborne",
-        "urlCurrent": "http://nzdl.org/cgi-bin/library?gg=_cgiarggg_&e=d-00000-00---0niupepa--00-0--0-10-0---0---0prompt-10---4-------0-1l--11-en-50---20-about---00-0-1-00-11-1-0utfZz-8-00&a=d&c=niupepa&cl=CL1.21",
         "urlDigitized": "http://nzdl.org/cgi-bin/library?gg=_cgiarggg_&e=d-00000-00---0niupepa--00-0--0-10-0---0---0prompt-10---4-------0-1l--11-en-50---20-about---00-0-1-00-11-1-0utfZz-8-00&a=d&c=niupepa&cl=CL1.21"
       },
       {
@@ -11920,8 +11911,8 @@
     ],
     "Uu": [
       {
-        "id": 2076,
-        "title": "Unemployed Leader",
+        "id": 2876,
+        "title": "Unemployed Leader: Official Organ of the National Unemployed Worker's Movement of New Zealand",
         "firstYear": "1935",
         "finalYear": "19uu",
         "region": "Wellington",
@@ -12899,7 +12890,7 @@
         "placename": "Waiuku"
       },
       {
-        "id": 2074,
+        "id": 2871,
         "title": "Waka Maori o Niu Tirani",
         "firstYear": "1871",
         "finalYear": "1877",
