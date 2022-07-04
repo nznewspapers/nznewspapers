@@ -1,6 +1,7 @@
 {
   "dependencies": {
-    "csv-parse": "^4.16.3"
+    "csv-parse": "^4.16.3",
+    "marcjs": "^2.0.1"
   },
   "scripts": {
     "nzn-import-newspapers": "node data-import/nzn-import-newspapers.js",
