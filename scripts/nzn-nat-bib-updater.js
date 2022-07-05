@@ -262,9 +262,8 @@ function readMarcFile(marcFile) {
           countMatch += 1;
         } else {
           addStats("count-no-match");
-          console.log(
-            "Marc has no match (" + stats["count-no-id-match"] + "):"
-          );
+
+          console.log("Marc has no match (" + stats["count-no-match"] + "):");
           console.log(" * MARC Ctrl#: " + marcControlNumber);
           console.log(" * Date added: " + dateOnFile);
 
@@ -281,6 +280,7 @@ function readMarcFile(marcFile) {
           if (uniformTitle) {
             console.log("   * Uniform Title: " + uniformTitle);
           }
+
           console.log(" * Date Range: " + date1 + "-" + date2);
           console.log("   * Current?: " + isCurrentlyPublished);
           console.log(" * Genre:      " + genre);
