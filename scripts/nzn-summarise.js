@@ -255,13 +255,15 @@ function summarise(idList) {
   // Generate data about each place:
   generatePlaceData(newspaperList);
 
-  console.log("End summarise(): " + newspaperCount + " records");
-  console.log("End summarise(): " + skipped + " records.");
+  console.log("End summarise(): " + newspaperCount + " newspaper records");
+  console.log("End summarise(): " + skipped + " skipped records");
 }
 
-console.log("Starting Read");
-const oldIdtoNewId = nznShared.readOldIdtoNewId();
+console.log("Starting Summarise");
+const newspaperIds = nznShared.getNewspaperIds();
+summarise(newspaperIds);
 
-summarise(Object.values(oldIdtoNewId));
+console.log("Rewriting Genre Index");
+nznShared.generateIdToGenreFile();
 
 console.log("Ending");

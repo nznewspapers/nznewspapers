@@ -150,6 +150,27 @@ exports.writeNewspaper = function (id, record, source = null) {
 };
 
 /**
+ * Read all the Newspaper JSON files on disk and generate an index file from them.
+ * Call this at the end of any script that adds/removes newspaper files.
+ */
+exports.generateIdToGenreFile = function () {
+  var genreInfo = {};
+
+  const filenames = fs.readdirSync(exports.paperDir).sort();
+
+  for (const filename of filenames) {
+    if (filename.endsWith(".json")) {
+      const filePath = path.join(exports.paperDir, filename);
+      const newspaper = exports.readJsonDictSync(filePath);
+      genreInfo[newspaper.id] = newspaper.genre;
+    }
+  }
+
+  const filename = path.join(exports.jsonDir, "newspaperIdToGenre.json");
+  exports.writeJsonDict(genreInfo, filename);
+};
+
+/**
  * Read the mapping from old ids to new ids.
  */
 exports.readOldIdtoNewId = function () {
