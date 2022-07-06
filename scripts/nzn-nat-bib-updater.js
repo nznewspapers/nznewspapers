@@ -217,12 +217,24 @@ function readMarcFile(marcFile) {
           });
         });
 
+        // Edition:
+        let frequency = null;
+        record.get(/310/).forEach((field) => {
+          field["subf"].forEach((pair) => {
+            if (pair[0] == "a") {
+              frequency = pair[1];
+            }
+          });
+        });
+
         // Genre:
         let genre = null;
         record.get(/655/).forEach((field) => {
           field["subf"].forEach((pair) => {
             if (pair[0] == "a") {
-              genre = pair[1];
+              if (pair[1].startsWith("New Zealand newspapers")) {
+                genre = pair[1];
+              }
             }
           });
         });
@@ -237,7 +249,7 @@ function readMarcFile(marcFile) {
           });
         });
 
-        if (newspaperCounter < 2) {
+        if (newspaperCounter < 0) {
           console.log("Sample Newspaper Record (" + marcControlNumber + "):");
           console.log(" * Leader:     " + record.leader);
           console.log(" * Title:      " + title);
@@ -263,29 +275,34 @@ function readMarcFile(marcFile) {
         } else {
           addStats("count-no-match");
 
-          console.log("Marc has no match (" + stats["count-no-match"] + "):");
-          console.log(" * MARC Ctrl#: " + marcControlNumber);
-          console.log(" * Date added: " + dateOnFile);
+          // A new record? Last load was: 2013-04-02
+          const newRecord = dateOnFile > "130402";
+          if (newRecord) addStats("count-no-match-and-new-record");
 
-          // Last load was: 2013-04-02
-          if (dateOnFile > "130402") {
-            console.log("   * NEW RECORD!!!");
-            addStats("count-no-match-and-new-record");
-          }
+          // Infrequent or not?
+          const infrequent =
+            frequency &&
+            ["Annual", "Semiannual", "Quarterly"].includes(frequency);
+          if (infrequent) addStats("count-no-match-but-infrequent");
 
-          console.log(" * Title:      " + title);
-          if (edition) {
-            console.log("   * Edition: " + edition);
+          if (!newRecord && !infrequent) {
+            console.log("Marc has no match (" + stats["count-no-match"] + "):");
+            console.log(" * MARC Ctrl#: " + marcControlNumber);
+            console.log(" * Date added: " + dateOnFile);
+            if (newRecord) console.log("   * NEW RECORD!!!");
+            console.log(" * Title:      " + title);
+            if (edition) console.log("   * Edition: " + edition);
+            if (uniformTitle)
+              console.log("   * Uniform Title: " + uniformTitle);
+            console.log(" * Date Range: " + date1 + "-" + date2);
+            console.log("   * Current?: " + isCurrentlyPublished);
+            console.log(" * Frequency:  " + frequency);
+            if (infrequent) console.log("   * INFREQUENT");
+            console.log(" * Genre:      " + genre);
+            console.log(" * Placename:  " + placename);
+            // console.log();
+            console.log(statsToString());
           }
-          if (uniformTitle) {
-            console.log("   * Uniform Title: " + uniformTitle);
-          }
-
-          console.log(" * Date Range: " + date1 + "-" + date2);
-          console.log("   * Current?: " + isCurrentlyPublished);
-          console.log(" * Genre:      " + genre);
-          console.log(" * Placename:  " + placename);
-          console.log(statsToString());
         }
 
         writers.forEach((writer) => writer.write(record));
