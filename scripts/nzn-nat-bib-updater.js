@@ -83,6 +83,37 @@ function statsToString() {
   return str;
 }
 
+/**
+ * Given a placename from a MARC record, return a idier version of a New Zealand placename, or null.
+ */
+function placeCleanUp(rawName) {
+  if (!rawName) return null;
+
+  let name = rawName;
+  if (
+    name.includes("Apia") ||
+    name.includes("Egypt") ||
+    name.includes("London") ||
+    name.includes("Sydney")
+  )
+    return null;
+
+  if (name.charAt(0) == "[") name = name.substring(1);
+  if (name.search("N.Z") != -1) {
+    const comma = name.indexOf(",");
+    if (comma > 1) name = name.substring(0, comma);
+    const nz = name.search("N.Z");
+    if (nz > 1) name = name.substring(0, nz);
+    const sqb = name.indexOf("[");
+    if (sqb > 1) name = name.substring(0, sqb);
+  }
+
+  name = name.replace(/\?/, "");
+  name = name.replace(/ +$/, "");
+  // addStats("Name: '" + name + "' <--- " + rawName);
+  return name;
+}
+
 function readMarcFile(marcFile) {
   // Set up a MARC reader for the NatBib records
   let reader = Marc.stream(fs.createReadStream(marcFile), "Iso2709");
@@ -241,10 +272,10 @@ function readMarcFile(marcFile) {
 
         // Placename:
         let placename = null;
-        record.get(/651/).forEach((field) => {
+        record.get(/260/).forEach((field) => {
           field["subf"].forEach((pair) => {
             if (pair[0] == "a") {
-              placename = pair[1];
+              placename = placeCleanUp(pair[1]);
             }
           });
         });
@@ -268,6 +299,9 @@ function readMarcFile(marcFile) {
         } else if (isElectronicResource) {
           // Ignore records for digitised and born-digital materials:
           addStats("count-skipped-electronic");
+        } else if (!placename) {
+          // Ignore records for overseas and unknown places:
+          addStats("count-skipped-placename");
         } else if (newspaperIdMatch) {
           // console.log("Match " + marcControlNumber + " -> " + newspaperIdMatch);
           addStats("count-match-yay");
