@@ -319,7 +319,7 @@ function readMarcFile(marcFile) {
             ["Annual", "Semiannual", "Quarterly"].includes(frequency);
           if (infrequent) addStats("count-no-match-but-infrequent");
 
-          if (!newRecord && !infrequent) {
+          if (!infrequent) {
             console.log("Marc has no match (" + stats["count-no-match"] + "):");
             console.log(" * MARC Ctrl#: " + marcControlNumber);
             console.log(" * Date added: " + dateOnFile);
