@@ -208,6 +208,44 @@ function generatePlaceData(newspaperList) {
 }
 
 /**
+ * Generate sitemaps as simple text files.
+ * @param {*} newspaperList A list records, each describihg one newspaper.
+ */
+function generateSitemaps(newspaperList) {
+  console.log("Writing SiteMaps");
+
+  // Extract the valid newspaper ids and placenames:
+  let paperUrlSet = new Set();
+  let placeUrlSet = new Set();
+
+  newspaperList.forEach(function (newspaper) {
+    let id = newspaper.id;
+    let genre = newspaper.genre;
+
+    if (
+      genre == "Newspaper" ||
+      genre == "Masthead" ||
+      genre.includes("Edition")
+    ) {
+      let paperUrl = "https://www.nznewspapers.org/newspaper.html?id=" + id;
+      paperUrlSet.add(paperUrl);
+
+      let placename = newspaper.placename;
+      let placeUrl =
+        "https://www.nznewspapers.org/place.html?place=" + placename;
+      placeUrlSet.add(placeUrl);
+    }
+  });
+
+  // Write the data:
+  const paperFilename = path.join(nznShared.docsDir, "sitemap-papers.txt");
+  nznShared.writeDataToTextFile(paperUrlSet, paperFilename);
+
+  const placeFilename = path.join(nznShared.docsDir, "sitemap-places.txt");
+  nznShared.writeDataToTextFile(placeUrlSet, placeFilename);
+}
+
+/**
  * Read the newspaper data and create summary JSON files.
  * @param {*} idList A list of the newspaper identifier that we're going to summarise.
  */
@@ -254,6 +292,9 @@ function summarise(idList) {
 
   // Generate data about each place:
   generatePlaceData(newspaperList);
+
+  // Generate up-to-date sitemaps:
+  generateSitemaps(newspaperList);
 
   console.log("End summarise(): " + newspaperCount + " newspaper records");
   console.log("End summarise(): " + skipped + " skipped records");

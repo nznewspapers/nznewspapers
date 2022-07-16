@@ -4,7 +4,8 @@
 const fs = require("fs");
 const path = require("path");
 
-exports.jsonDir = path.join(process.cwd(), "docs", "data");
+exports.docsDir = path.join(process.cwd(), "docs");
+exports.jsonDir = path.join(exports.docsDir, "data");
 exports.paperDir = path.join(exports.jsonDir, "papers");
 exports.scriptDir = path.join(process.cwd(), "scripts");
 
@@ -63,6 +64,25 @@ exports.writeJsonDict = function (dict, filename) {
       process.exit(1);
     }
   });
+};
+
+/**
+ * Write a set to a text file, one line at a time. Useful for sitemaps.
+ * @param {*} data A set of strings.
+ * @param {*} path The path of the file to write.
+ */
+exports.writeDataToTextFile = function (data, path) {
+  let arr = Array.from(data).sort();
+  let file = fs.createWriteStream(path);
+
+  file.on("error", function (err) {
+    /* error handling */
+    console.log("Error writing '" + paperFilename + "': " + err);
+  });
+  arr.forEach(function (v) {
+    file.write(v + "\n");
+  });
+  file.end();
 };
 
 /**
