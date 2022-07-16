@@ -1,7 +1,7 @@
 {
   "stats": {
     "placename": "Auckland",
-    "count": 202,
+    "count": 201,
     "decades": 19
   },
   "papers": [
@@ -699,7 +699,8 @@
       "id": "1390",
       "title": "Western Leader (Auckland)",
       "firstYear": "196u",
-      "finalYear": "9999"
+      "finalYear": "9999",
+      "urlCurrent": "https://www.stuff.co.nz/auckland/local-news/western-leader"
     },
     {
       "id": "1391",
@@ -1120,12 +1121,6 @@
       "firstYear": "2003",
       "finalYear": "9999",
       "urlCurrent": "http://www.tewahanui.info/"
-    },
-    {
-      "id": "1252",
-      "title": "Karere Maori News",
-      "firstYear": "2004",
-      "finalYear": "2006"
     },
     {
       "id": "1253",

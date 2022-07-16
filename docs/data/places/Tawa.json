@@ -1,8 +1,8 @@
 {
   "stats": {
     "placename": "Tawa",
-    "count": 3,
-    "decades": 2
+    "count": 2,
+    "decades": 1
   },
   "papers": [
     {
@@ -16,12 +16,6 @@
       "title": "Tatler",
       "firstYear": "1949",
       "finalYear": "uuuu"
-    },
-    {
-      "id": "2089",
-      "title": "Tawa Times",
-      "firstYear": "1997",
-      "finalYear": "2001"
     }
   ]
 }

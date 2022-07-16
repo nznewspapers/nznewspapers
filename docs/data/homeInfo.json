@@ -1,6 +1,6 @@
 {
   "stats": {
-    "count": 1521,
+    "count": 1520,
     "places": 231,
     "regions": 15
   },
@@ -24,7 +24,7 @@
     "Auckland": {
       "Akarana": 2,
       "Albany": 3,
-      "Auckland": 202,
+      "Auckland": 201,
       "Birkenhead": 2,
       "Brown's Bay": 2,
       "Devonport": 6,
@@ -40,7 +40,7 @@
       "Mount Roskill": 3,
       "Mt Roskill": 1,
       "New Lynn": 3,
-      "Newmarket": 2,
+      "Newmarket": 3,
       "Newton": 4,
       "Onehunga": 7,
       "Orewa": 3,
@@ -163,15 +163,15 @@
       "Eastbourne": 5,
       "Lower Hutt": 3,
       "Naenae": 1,
-      "Petone": 8,
+      "Petone": 7,
       "Wainuiomata": 7,
       "Johnsonville": 3,
       "Karori": 3,
       "Miramar": 1,
       "Ngaio": 1,
       "Port Nicholson": 1,
-      "Tawa": 3,
-      "Wellington": 134
+      "Tawa": 2,
+      "Wellington": 136
     },
     "Top of the South": {
       "Collingwood": 1,
@@ -210,7 +210,7 @@
       "Kaiapoi": 5,
       "Rangiora": 9,
       "Akaroa": 1,
-      "Christchurch": 114,
+      "Christchurch": 112,
       "Hornby": 1,
       "Lyttelton": 6,
       "Papanui": 2,
@@ -220,7 +220,7 @@
       "Twizel": 2,
       "Geraldine": 2,
       "Temuka": 5,
-      "Timaru": 14,
+      "Timaru": 15,
       "Waimate": 3,
       "Oamaru": 5,
       "Otematata": 1

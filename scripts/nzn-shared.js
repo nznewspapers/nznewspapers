@@ -150,8 +150,54 @@ exports.writeNewspaper = function (id, record, source = null) {
 };
 
 /**
+ * Read all the Newspaper JSON files on disk and generate an index file from them.
+ * Call this at the end of any script that adds/removes newspaper files.
+ */
+exports.generateIdToGenreFile = function () {
+  var genreInfo = {};
+
+  const filenames = fs.readdirSync(exports.paperDir).sort();
+
+  for (const filename of filenames) {
+    if (filename.endsWith(".json")) {
+      const filePath = path.join(exports.paperDir, filename);
+      const newspaper = exports.readJsonDictSync(filePath);
+      genreInfo[newspaper.id] = newspaper.genre;
+    }
+  }
+
+  const filename = path.join(exports.jsonDir, "newspaperIdToGenre.json");
+  exports.writeJsonDict(genreInfo, filename);
+};
+
+/**
  * Read the mapping from old ids to new ids.
  */
 exports.readOldIdtoNewId = function () {
   return exports.readJsonDictSync(exports.oldIdtoNewIdFilename);
+};
+
+/**
+ * Get the complete list of valid newspaper ids.
+ * @returns A sorted list of newspaper ids.
+ */
+exports.getNewspaperIds = function () {
+  let oldIdtoNewId = exports.readOldIdtoNewId();
+  return Object.values(oldIdtoNewId).sort();
+};
+
+/**
+ * Get the complete set of newspaper records.
+ * @returns A dict that maps from newspaper Id to a newspaper record.
+ */
+exports.getNewspaperRecords = function () {
+  let results = {};
+  const newspaperIdList = exports.getNewspaperIds();
+  for (const id of newspaperIdList) {
+    let result = exports.readNewspaper(id);
+    if (result && Object.keys(result).length > 0) {
+      results[id] = result;
+    }
+  }
+  return results;
 };

@@ -1,11 +1,10 @@
 {
   "id": 3028,
   "title": "Courier",
-  "genre": "Unknown",
+  "genre": "Newspaper",
   "firstYear": "1993",
   "finalYear": "9999",
   "district": "Timaru District",
-  "idMarcControlNumber": "9042560",
   "idNZNewspapersV1": "14342643",
   "isCurrent": true,
   "placecode": "12-08",

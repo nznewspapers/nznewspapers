@@ -1,7 +1,7 @@
 {
   "stats": {
     "placename": "Christchurch",
-    "count": 114,
+    "count": 112,
     "decades": 16
   },
   "papers": [
@@ -88,7 +88,7 @@
       "finalYear": "1890"
     },
     {
-      "id": "2382",
+      "id": "2928",
       "title": "Prohibitionist",
       "firstYear": "1890",
       "finalYear": "1893"
@@ -143,14 +143,14 @@
       "urlDigitized": "https://paperspast.natlib.govt.nz/newspapers/sun-christchurch"
     },
     {
-      "id": "2384",
-      "title": "Punchi",
+      "id": "2430",
+      "title": "Maoriland Thinker",
       "firstYear": "1918",
       "finalYear": "19uu"
     },
     {
-      "id": "2430",
-      "title": "Maoriland Thinker",
+      "id": "2929",
+      "title": "Punchi",
       "firstYear": "1918",
       "finalYear": "19uu"
     },
@@ -389,12 +389,6 @@
       "finalYear": "1995"
     },
     {
-      "id": "2397",
-      "title": "The North West Herald",
-      "firstYear": "1993",
-      "finalYear": "1995"
-    },
-    {
       "id": "2467",
       "title": "Observer",
       "firstYear": "1996",
@@ -540,12 +534,6 @@
     },
     {
       "id": "2405",
-      "title": "Tai Yang Bao",
-      "firstYear": "2005",
-      "finalYear": "9999"
-    },
-    {
-      "id": "2406",
       "title": "Tai Yang Bao",
       "firstYear": "2005",
       "finalYear": "9999"

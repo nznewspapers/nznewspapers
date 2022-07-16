@@ -1,11 +1,13 @@
 {
   "dependencies": {
-    "csv-parse": "^4.16.3"
+    "csv-parse": "^4.16.3",
+    "marcjs": "^2.0.1"
   },
   "scripts": {
     "nzn-import-newspapers": "node data-import/nzn-import-newspapers.js",
     "nzn-import-links": "node data-import/nzn-import-links.js",
     "nzn-import-fields": "node data-import/nzn-import-fields.js",
+    "nzn-nat-bib-updater": "node scripts/nzn-nat-bib-updater.js",
     "nzn-paperspast-updater": "node scripts/nzn-paperspast-updater.js",
     "nzn-summarise": "node scripts/nzn-summarise.js"
   }

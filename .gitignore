@@ -104,4 +104,6 @@ dist
 .tern-port
 
 # Application-specific
-# docs/data/
+*.mrc
+bib-edited.text
+marc.text
