@@ -15,18 +15,41 @@ if (!fs.existsSync(nznShared.oldIdtoNewIdFilename)) {
   process.exit(1);
 }
 
-const marcFile = path.join(nznShared.scriptDir, "Pubsnzapril2022.mrc");
-if (!fs.existsSync(marcFile)) {
-  console.error("Missing MARC file: " + marcFile);
+const marcFilePath = path.join(nznShared.scriptDir, "Pubsnzapril2022.mrc");
+if (!fs.existsSync(marcFilePath)) {
+  console.error("Missing MARC file: " + marcFilePath);
   process.exit(1);
 }
 
 console.log("Running: " + process.argv[1]);
-console.log(" * MARC file: " + marcFile);
+console.log(" * MARC file: " + marcFilePath);
 console.log(" * Data dir:  " + nznShared.paperDir);
 
-// Find the records that newspaper data now
-console.log("Scanning existing records");
+// Figure out a mode of operation...
+const commandArgs = process.argv.slice(2);
+let mode = "report";
+console.log(" * Args: ", commandArgs);
+switch (commandArgs[0].toLowerCase()) {
+  case "report":
+    mode = "report";
+    break;
+  case "add-new-records":
+    mode = "add-new-records";
+    break;
+  case "update-existing-records":
+    mode = "update-existing-records";
+    break;
+  case "update-marc-files":
+    mode = "update-marc-files";
+    break;
+  default:
+    console.log("Warning: mode not specified, defaulting to 'report'");
+    mode = "report";
+}
+console.log(" * Mode: ", mode);
+
+// Find the records that newspaper data now...
+console.log("Scanning existing nznewspapers.org records");
 
 let newspaperRecords = nznShared.getNewspaperRecords();
 let marcNumberToNewspaperId = {};
@@ -61,11 +84,16 @@ for (const [key, value] of Object.entries(newspaperRecords)) {
 }
 
 console.log(
-  "Read " + Object.keys(newspaperRecords).length + " newspaper records"
+  " * Read " +
+    Object.keys(newspaperRecords).length +
+    " records with MARC numbers"
 );
 
 // Gather some stats as we go...
 let stats = {};
+let recordCounter = 0;
+let serialCounter = 0;
+let newspaperCounter = 0;
 
 function addStats(label) {
   if (stats[label]) {
@@ -77,14 +105,33 @@ function addStats(label) {
 
 function statsToString() {
   let str = "Stats\n";
-  for (const [key, value] of Object.entries(stats)) {
-    str += " * " + key + " -> " + value + "\n";
+  for (const key of Object.keys(stats).slice().sort()) {
+    str += " * " + key + " -> " + stats[key] + "\n";
   }
+
   return str;
 }
 
+function logStats() {
+  console.log(
+    "Parser mode: '" +
+      mode +
+      "': " +
+      newspaperCounter +
+      " papers / " +
+      serialCounter +
+      " serials / " +
+      recordCounter +
+      " records"
+  );
+  console.log(statsToString());
+}
+
 /**
- * Given a placename from a MARC record, return a idier version of a New Zealand placename, or null.
+ * Given a placename from a MARC record, return a tidier version of a placename of interest.
+ *
+ * @param {*} rawName The unprocessed place name read from the MARC file.
+ * @returns A cleaner version of the name, or null if it not a location we are intereted in.
  */
 function placeCleanUp(rawName) {
   if (!rawName) return null;
@@ -110,15 +157,17 @@ function placeCleanUp(rawName) {
 
   name = name.replace(/\?/, "");
   name = name.replace(/ +$/, "");
-  // addStats("Name: '" + name + "' <--- " + rawName);
   return name;
 }
 
-function readMarcFile(marcFile) {
+/**
+ * Read a MARC file and compare it to the existing nznewspaper records.
+ *
+ * @param {str} marcFileName The path of the MRC file to read.
+ */
+function readMarcFile(marcFileName, operatingMode) {
   // Set up a MARC reader for the NatBib records
-  let reader = Marc.stream(fs.createReadStream(marcFile), "Iso2709");
-  let serialCounter = 0;
-  let newspaperCounter = 0;
+  let reader = Marc.stream(fs.createReadStream(marcFileName), "Iso2709");
 
   let countNoNatLibMarc = 0;
   let countMatch = 0;
@@ -126,15 +175,16 @@ function readMarcFile(marcFile) {
 
   // Every 5 seconds, a progress update:
   let tick = setInterval(() => {
-    console.log(
-      "papers / serials / total: " +
-        newspaperCounter +
-        " / " +
-        serialCounter +
-        " / " +
-        reader.count
-    );
+    logStats();
   }, 5000);
+
+  // At the end, a final message:
+  reader.on("end", () => {
+    writers.forEach((writer) => writer.end());
+    console.log("Finished processing MARC records...");
+    logStats();
+    clearInterval(tick);
+  });
 
   // Set up a bunch of writers (we don't need):
   //let writers = ["marcxml", "iso2709", "json", "text"].map((type) =>
@@ -146,6 +196,7 @@ function readMarcFile(marcFile) {
 
   // Read each MARC record, and write it:
   reader.on("data", (record) => {
+    recordCounter += 1;
     const recordType = record.leader.charAt(6);
     const recordBibLevel = record.leader.charAt(7);
 
@@ -249,11 +300,15 @@ function readMarcFile(marcFile) {
         });
 
         // Edition:
+        let infrequent = false;
         let frequency = null;
         record.get(/310/).forEach((field) => {
           field["subf"].forEach((pair) => {
             if (pair[0] == "a") {
               frequency = pair[1];
+              infrequent = ["Annual", "Semiannual", "Quarterly"].includes(
+                frequency
+              );
             }
           });
         });
@@ -292,38 +347,38 @@ function readMarcFile(marcFile) {
 
         // Does this Marc Control Number match a known record?
         if (!marcControlNumber) {
-          addStats("count-skpped-no-nz-control-number");
+          addStats("count-skipped-no-nz-control-number");
         } else if (isMicroformResource) {
           // Ignore records for micrfilm and mocroform materials:
-          addStats("count-skpped-micoform");
+          addStats("count-skipped-micoform");
         } else if (isElectronicResource) {
           // Ignore records for digitised and born-digital materials:
           addStats("count-skipped-electronic");
+        } else if (infrequent) {
+          // Ignore records that are published too infrequently:
+          addStats("count-skipped-infrequent");
         } else if (!placename) {
           // Ignore records for overseas and unknown places:
           addStats("count-skipped-placename");
         } else if (newspaperIdMatch) {
           // console.log("Match " + marcControlNumber + " -> " + newspaperIdMatch);
-          addStats("count-match-yay");
+          addStats("count-match-existing-record");
           countMatch += 1;
         } else {
-          addStats("count-no-match");
+          addStats("count-new-record");
 
           // A new record? Last load was: 2013-04-02
-          const newRecord = dateOnFile > "130402";
-          if (newRecord) addStats("count-no-match-and-new-record");
+          const newRecordSinceLastLoad = dateOnFile > "130402";
+          if (newRecordSinceLastLoad)
+            addStats("count-new-record-since-last-load");
 
-          // Infrequent or not?
-          const infrequent =
-            frequency &&
-            ["Annual", "Semiannual", "Quarterly"].includes(frequency);
-          if (infrequent) addStats("count-no-match-but-infrequent");
-
-          if (!infrequent) {
-            console.log("Marc has no match (" + stats["count-no-match"] + "):");
+          // Debug mode: dump out a record
+          const verbose = false;
+          if (verbose) {
+            console.log("Marc record:");
             console.log(" * MARC Ctrl#: " + marcControlNumber);
             console.log(" * Date added: " + dateOnFile);
-            if (newRecord) console.log("   * NEW RECORD!!!");
+            if (newRecordSinceLastLoad) console.log("   * NEW RECORD!!!");
             console.log(" * Title:      " + title);
             if (edition) console.log("   * Edition: " + edition);
             if (uniformTitle)
@@ -334,8 +389,6 @@ function readMarcFile(marcFile) {
             if (infrequent) console.log("   * INFREQUENT");
             console.log(" * Genre:      " + genre);
             console.log(" * Placename:  " + placename);
-            // console.log();
-            console.log(statsToString());
           }
         }
 
@@ -344,17 +397,7 @@ function readMarcFile(marcFile) {
     }
     // throw new Error("blah");
   });
-
-  // What happens at the end:
-  reader.on("end", () => {
-    writers.forEach((writer) => writer.end());
-    console.log("Number of processed biblio records: " + reader.count);
-    console.log(statsToString());
-
-    clearInterval(tick);
-  });
 }
 
-console.log("Launching MARC Parser for " + marcFile);
-readMarcFile(marcFile);
-console.log("Launched MARC Parser");
+console.log("Launching MARC Parser for " + marcFilePath);
+readMarcFile(marcFilePath, mode);
