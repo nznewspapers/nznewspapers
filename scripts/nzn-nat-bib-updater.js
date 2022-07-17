@@ -318,9 +318,13 @@ function readMarcFile(marcFileName, operatingMode) {
           field["subf"].forEach((pair) => {
             if (pair[0] == "a") {
               frequency = pair[1];
-              infrequent = ["Annual", "Semiannual", "Quarterly"].includes(
-                frequency
-              );
+              frequency = frequency.trim().replace(/[\.\,]+$/, "");
+              infrequent = [
+                "Annual",
+                "Semiannual",
+                "Quarterly",
+                "Monthly",
+              ].includes(frequency);
             }
           });
         });
@@ -411,7 +415,7 @@ function readMarcFile(marcFileName, operatingMode) {
           newRecord.isCurrent = isCurrentlyPublished;
           newRecord.firstYear = date1;
           newRecord.finalYear = date2;
-          newRecord.frequency = frequency;
+          if (frequency) newRecord.frequency = frequency;
 
           newRecord.placename = placename;
           if (placeData[placename]) {
