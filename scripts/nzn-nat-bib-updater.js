@@ -89,6 +89,13 @@ console.log(
     " records with MARC numbers"
 );
 
+// Assign nre record numbers...
+var nextRecordId = 5000;
+function getNextRecordId() {
+  nextRecordId += 1;
+  return nextRecordId;
+}
+
 // Gather some stats as we go...
 let stats = {};
 let recordCounter = 0;
@@ -373,7 +380,7 @@ function readMarcFile(marcFileName, operatingMode) {
             addStats("count-new-record-since-last-load");
 
           // Debug mode: dump out a record
-          const verbose = false;
+          var verbose = false;
           if (verbose) {
             console.log("Marc record:");
             console.log(" * MARC Ctrl#: " + marcControlNumber);
@@ -390,6 +397,29 @@ function readMarcFile(marcFileName, operatingMode) {
             console.log(" * Genre:      " + genre);
             console.log(" * Placename:  " + placename);
           }
+
+          // Add the entries we want to appear first:
+          newRecord = {};
+          newRecord.id = getNextRecordId();
+          newRecord.title = title;
+          newRecord.genre = "Automatic";
+          newRecord.idMarcControlNumber = marcControlNumber;
+          newRecord.isCurrent = isCurrentlyPublished;
+          newRecord.firstYear = date1;
+          newRecord.finalYear = date2;
+          newRecord.placecode = "unknown";
+          newRecord.placename = placename;
+          newRecord.frequency = frequency;
+
+          nznShared.writeNewspaper(
+            newRecord.id,
+            newRecord,
+            (source =
+              "Extracted from the New Zealand National Bibliography " +
+              "(MARC record " +
+              marcControlNumber +
+              ") downloaded June 2022.")
+          );
         }
 
         writers.forEach((writer) => writer.write(record));
