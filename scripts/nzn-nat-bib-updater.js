@@ -163,7 +163,7 @@ function placeCleanUp(rawName) {
   }
 
   name = name.replace(/\?/, "");
-  name = name.replace(/ +$/, "");
+  name = nznShared.titleCleanup(name);
   return name;
 }
 
@@ -175,10 +175,6 @@ function placeCleanUp(rawName) {
 function readMarcFile(marcFileName, operatingMode) {
   // Set up a MARC reader for the NatBib records
   let reader = Marc.stream(fs.createReadStream(marcFileName), "Iso2709");
-
-  let countNoNatLibMarc = 0;
-  let countMatch = 0;
-  let countNoMatch = 0;
 
   // Every 5 seconds, a progress update:
   let tick = setInterval(() => {
@@ -370,7 +366,6 @@ function readMarcFile(marcFileName, operatingMode) {
         } else if (newspaperIdMatch) {
           // console.log("Match " + marcControlNumber + " -> " + newspaperIdMatch);
           addStats("count-match-existing-record");
-          countMatch += 1;
         } else {
           addStats("count-new-record");
 
@@ -401,7 +396,7 @@ function readMarcFile(marcFileName, operatingMode) {
           // Add the entries we want to appear first:
           newRecord = {};
           newRecord.id = getNextRecordId();
-          newRecord.title = title;
+          newRecord.title = nznShared.titleCleanup(title);
           newRecord.genre = "Automatic";
           newRecord.idMarcControlNumber = marcControlNumber;
           newRecord.isCurrent = isCurrentlyPublished;
