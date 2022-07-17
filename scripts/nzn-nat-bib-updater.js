@@ -53,13 +53,13 @@ console.log("Scanning existing nznewspapers.org records");
 
 let newspaperRecords = nznShared.getNewspaperRecords();
 let marcNumberToNewspaperId = {};
-for (const [key, value] of Object.entries(newspaperRecords)) {
-  // Save the title:
-  marcNumber = newspaperRecords[key].idMarcControlNumber;
+let placeData = {};
 
+for (const [key, value] of Object.entries(newspaperRecords)) {
+  // Grab the MARC number:
+  marcNumber = newspaperRecords[key].idMarcControlNumber;
   if (!marcNumber) {
-    // No MARC number, ignore for now.
-    // Often the MARC Control Number refers to a Masthead or related record.
+    // No MARC number on this record, ignore for now.
   } else if (!marcNumberToNewspaperId[marcNumber]) {
     marcNumberToNewspaperId[marcNumber] = key;
   } else {
@@ -80,6 +80,15 @@ for (const [key, value] of Object.entries(newspaperRecords)) {
       ")";
     console.log(message);
     throw message;
+  }
+
+  // Log placename data for later lookups:
+  var pname = newspaperRecords[key].placename;
+  if (!placeData[pname]) {
+    placeData[pname] = {};
+    placeData[pname]["placecode"] = newspaperRecords[key].placecode;
+    placeData[pname]["district"] = newspaperRecords[key].district;
+    placeData[pname]["region"] = newspaperRecords[key].region;
   }
 }
 
@@ -402,9 +411,18 @@ function readMarcFile(marcFileName, operatingMode) {
           newRecord.isCurrent = isCurrentlyPublished;
           newRecord.firstYear = date1;
           newRecord.finalYear = date2;
-          newRecord.placecode = "unknown";
-          newRecord.placename = placename;
           newRecord.frequency = frequency;
+
+          newRecord.placename = placename;
+          if (placeData[placename]) {
+            newRecord.placecode = placeData[pname]["placecode"];
+            newRecord.district = placeData[pname]["district"];
+            newRecord.region = placeData[pname]["region"];
+          } else {
+            newRecord.placecode = "unknown";
+            newRecord.district = "Unknown District";
+            newRecord.region = "Unknown Region";
+          }
 
           nznShared.writeNewspaper(
             newRecord.id,
