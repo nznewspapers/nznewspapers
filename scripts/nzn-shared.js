@@ -113,6 +113,7 @@ exports.writeDataToTextFile = function (data, path) {
  * Read the data for one newspaper.
  */
 exports.readNewspaper = function (id) {
+  if (!id) throw new Error("Error: no id passed to readNewspaper.");
   const filename = path.join(exports.paperDir, id + ".json");
   return exports.readJsonDictSync(filename);
 };
