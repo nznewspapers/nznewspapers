@@ -55,23 +55,23 @@ let newspaperRecords = nznShared.getNewspaperRecords();
 let marcNumberToNewspaperId = {};
 let placeData = {};
 
-for (const [key, value] of Object.entries(newspaperRecords)) {
+for (const [id, newspaper] of Object.entries(newspaperRecords)) {
   // Grab the MARC number:
-  marcNumber = newspaperRecords[key].idMarcControlNumber;
+  marcNumber = newspaper.idMarcControlNumber;
   if (!marcNumber) {
     // No MARC number on this record, ignore for now.
   } else if (!marcNumberToNewspaperId[marcNumber]) {
-    marcNumberToNewspaperId[marcNumber] = key;
+    marcNumberToNewspaperId[marcNumber] = id;
   } else {
     let message =
       "Error: Duplicate MARC number '" +
       marcNumber +
       "': " +
-      key +
+      id +
       " (" +
-      newspaperRecords[key].title +
+      newspaper.title +
       " / " +
-      newspaperRecords[key].genre +
+      newspaper.genre +
       ")" +
       " matches " +
       marcNumberToNewspaperId[marcNumber] +
@@ -83,12 +83,12 @@ for (const [key, value] of Object.entries(newspaperRecords)) {
   }
 
   // Log placename data for later lookups:
-  var pname = newspaperRecords[key].placename;
+  var pname = newspaper.placename;
   if (!placeData[pname]) {
     placeData[pname] = {};
-    placeData[pname]["placecode"] = newspaperRecords[key].placecode;
-    placeData[pname]["district"] = newspaperRecords[key].district;
-    placeData[pname]["region"] = newspaperRecords[key].region;
+    placeData[pname]["placecode"] = newspaper.placecode;
+    placeData[pname]["district"] = newspaper.district;
+    placeData[pname]["region"] = newspaper.region;
   }
 }
 
@@ -419,9 +419,9 @@ function readMarcFile(marcFileName, operatingMode) {
 
           newRecord.placename = placename;
           if (placeData[placename]) {
-            newRecord.placecode = placeData[pname]["placecode"];
-            newRecord.district = placeData[pname]["district"];
-            newRecord.region = placeData[pname]["region"];
+            newRecord.placecode = placeData[placename]["placecode"];
+            newRecord.district = placeData[placename]["district"];
+            newRecord.region = placeData[placename]["region"];
           } else {
             newRecord.placecode = "unknown";
             newRecord.district = "Unknown District";
