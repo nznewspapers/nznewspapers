@@ -28,6 +28,30 @@ exports.camelize = function (str) {
 };
 
 /**
+ * Convert a string to Title Case.
+ * @param {string} String to convert.
+ * @returns String In Title Case.
+ */
+exports.titleCase = function (str) {
+  var splitStr = str.toLowerCase().split(" ");
+  for (var i = 0; i < splitStr.length; i++) {
+    splitStr[i] =
+      splitStr[i].charAt(0).toUpperCase() + splitStr[i].substring(1);
+  }
+  return splitStr.join(" ");
+};
+
+/**
+ * Clean up a string that is being used as a title or placename and return in Title Case
+ * @param {string} String The string to clean up.
+ * @returns A better version of the string, hopefully.
+ */
+exports.titleCleanup = function (str) {
+  let tidyStr = str.trim().replace(/[\.\: ]+$/, "");
+  return exports.titleCase(tidyStr);
+};
+
+/**
  * Read a JSON file to a dict or die trying.
  */
 exports.readJsonDictSync = function (filename) {
