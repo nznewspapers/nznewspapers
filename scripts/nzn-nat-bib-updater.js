@@ -377,9 +377,46 @@ function readMarcFile(marcFileName, operatingMode) {
           // Ignore records for overseas and unknown places:
           addStats("count-skipped-placename");
         } else if (newspaperIdMatch) {
+          // We've matched an existing record to a MARC record... are there changes we an make?
           // console.log("Match " + marcControlNumber + " -> " + newspaperIdMatch);
-          addStats("count-match-existing-record");
+          addStats("count-existing-record");
+          id = marcNumberToNewspaperId[marcControlNumber];
+          newspaper = nznShared.readNewspaper(id);
+          updated = false;
+
+          if (newspaper.isCurrent != isCurrentlyPublished) {
+            // TODO: Catch the case where isCurrentlyPublished and date2 are not consistent
+            // TODO: Favor the most specific info
+            newspaper.isCurrent = isCurrentlyPublished;
+            updated = true;
+          }
+          if (newspaper.firstYear != date1) {
+            // TODO: Favor the most specific info
+            newspaper.firstYear = date1;
+            updated = true;
+          }
+          if (
+            newspaper.finalYear != date2
+            // TODO: Favor the most specific info
+          ) {
+            newspaper.finalYear = date2;
+            updated = true;
+          }
+          if (updated) {
+            addStats("count-existing-record-updated");
+            console.log("Updating record " + id);
+
+            nznShared.writeNewspaper(
+              id,
+              newspaper,
+              "Date updated from the New Zealand National Bibliography " +
+                "(MARC record " +
+                marcControlNumber +
+                ") downloaded June 2022."
+            );
+          }
         } else {
+          // We've found an unrecognized MARC record, so let's add a new NZNewspapers record:
           addStats("count-new-record");
 
           // A new record? Last load was: 2013-04-02
