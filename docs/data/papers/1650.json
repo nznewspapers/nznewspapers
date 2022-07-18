@@ -3,7 +3,7 @@
   "title": "Greerton Gazette",
   "genre": "Newspaper",
   "firstYear": "1981",
-  "finalYear": "uuuu",
+  "finalYear": "198u",
   "district": "Tauranga City",
   "idMarcControlNumber": "8144651",
   "idNZNewspapersV1": "72066",
@@ -12,8 +12,9 @@
   "placename": "Tauranga",
   "region": "Bay of Plenty",
   "sources": {
-    "2013-04-02T08:58:38.000Z": "Extracted from the New Zealand National Bibliography (MARC record 8144651) downloaded March 2013.",
-    "2013-08-07T10:31:44.000Z": "Modified by gordon.paynter"
+    "2022-07-18T04:38:44.375Z": "Date updated from the New Zealand National Bibliography (MARC record 8144651) downloaded June 2022.",
+    "2013-08-07T10:31:44.000Z": "Modified by gordon.paynter",
+    "2013-04-02T08:58:38.000Z": "Extracted from the New Zealand National Bibliography (MARC record 8144651) downloaded March 2013."
   },
-  "revision": 2
+  "revision": 3
 }

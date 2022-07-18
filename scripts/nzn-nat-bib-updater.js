@@ -176,6 +176,40 @@ function placeCleanUp(rawName) {
   return name;
 }
 
+function isNewDateMoreSpecific(currentDate, newDate) {
+  // Trivial case 1 -> Current date is fully specific -> false:
+  if (!currentDate.endsWith("u")) return false;
+
+  // Trivial case 2 -> New date is not at all specific -> false:
+  if (newDate == "9999" || newDate == "uuuu") return false;
+
+  // Trivial case 3 -> Current date is not at all specific -> true:
+  if (currentDate == "9999" || currentDate == "uuuu") return true;
+
+  // Current date is a millenia:
+  // "1uuu", "19uu" -> true
+  // "1uuu", "1uuu" -> true
+  // "1uuu", "uuuu" -> false (but caught above)
+  if (currentDate.endsWith("uuu")) return true;
+
+  // Current date is a century:
+  // "19uu", "1970" -> true
+  // "19uu", "197u" -> true
+  // "19uu", "19uu" -> true
+  // "19uu", "1uuu" -> false
+  if (currentDate.endsWith("uu")) return !newDate.endsWith("uuu");
+
+  // Current date is a decade:
+  // "197u", "1970" -> true
+  // "197u", "197u" -> true
+  // "197u", "19uu" -> false
+  // "197u", "1uuu" -> false
+  if (currentDate.endsWith("u")) return !newDate.endsWith("uu");
+
+  // Should never get here:
+  return false;
+}
+
 /**
  * Read a MARC file and compare it to the existing nznewspaper records.
  *
@@ -377,34 +411,53 @@ function readMarcFile(marcFileName, operatingMode) {
           // Ignore records for overseas and unknown places:
           addStats("count-skipped-placename");
         } else if (newspaperIdMatch) {
-          // We've matched an existing record to a MARC record... are there changes we an make?
+          // We've matched an existing record to a MARC record... are there updates we can make?
           // console.log("Match " + marcControlNumber + " -> " + newspaperIdMatch);
           addStats("count-existing-record");
           id = marcNumberToNewspaperId[marcControlNumber];
           newspaper = nznShared.readNewspaper(id);
           updated = false;
 
-          if (newspaper.isCurrent != isCurrentlyPublished) {
-            // TODO: Catch the case where isCurrentlyPublished and date2 are not consistent
-            // TODO: Favor the most specific info
-            newspaper.isCurrent = isCurrentlyPublished;
-            updated = true;
+          // TODO: Favor the most specific info
+          // Update the first and final years:
+          if (id == 1041) {
+            console.log("Marc record:");
+            console.log(" * MARC Ctrl#: " + marcControlNumber);
+            console.log(" * Date added: " + dateOnFile);
+            console.log(" * Title:      " + title);
+            console.log(" * Date Range: " + date1 + "-" + date2);
+            console.log(newspaper.firstYear + " - " + newspaper.finalYear);
+            console.log(isNewDateMoreSpecific(newspaper.firstYear, date1));
+            console.log(isNewDateMoreSpecific(newspaper.finalYear, date2));
+            console.log("Test");
+            console.log(!newspaper.finalYear.endsWith("u"));
           }
-          if (newspaper.firstYear != date1) {
-            // TODO: Favor the most specific info
+          if (
+            newspaper.firstYear != date1 &&
+            isNewDateMoreSpecific(newspaper.firstYear, date1)
+          ) {
             newspaper.firstYear = date1;
             updated = true;
           }
+
           if (
-            newspaper.finalYear != date2
-            // TODO: Favor the most specific info
+            newspaper.finalYear != date2 &&
+            isNewDateMoreSpecific(newspaper.finalYear, date2)
           ) {
             newspaper.finalYear = date2;
             updated = true;
           }
+
+          // Update the isCurrentlyPublished to match final year:
+          isCurrentlyPublished = newspaper.finalYear == "9999";
+          if (newspaper.isCurrent != isCurrentlyPublished) {
+            newspaper.isCurrent = isCurrentlyPublished;
+            updated = true;
+          }
+
           if (updated) {
             addStats("count-existing-record-updated");
-            console.log("Updating record " + id);
+            // console.log("Updating record " + id);
 
             nznShared.writeNewspaper(
               id,
@@ -426,6 +479,7 @@ function readMarcFile(marcFileName, operatingMode) {
 
           // Debug mode: dump out a record
           var verbose = false;
+
           if (verbose) {
             console.log("Marc record:");
             console.log(" * MARC Ctrl#: " + marcControlNumber);

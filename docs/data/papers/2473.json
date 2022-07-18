@@ -2,7 +2,7 @@
   "id": 2473,
   "title": "Korea Review (Christchurch)",
   "genre": "Newspaper",
-  "firstYear": "199u",
+  "firstYear": "1995",
   "finalYear": "9999",
   "district": "Christchurch City",
   "frequency": "Weekly",
@@ -13,8 +13,9 @@
   "placename": "Christchurch",
   "region": "Canterbury",
   "sources": {
-    "2013-04-02T08:58:38.000Z": "Extracted from the New Zealand National Bibliography (MARC record 2603472) downloaded March 2013.",
-    "2014-05-07T09:10:21.000Z": "Modified by DataBot"
+    "2022-07-18T04:38:39.983Z": "Date updated from the New Zealand National Bibliography (MARC record 2603472) downloaded June 2022.",
+    "2014-05-07T09:10:21.000Z": "Modified by DataBot",
+    "2013-04-02T08:58:38.000Z": "Extracted from the New Zealand National Bibliography (MARC record 2603472) downloaded March 2013."
   },
-  "revision": 4
+  "revision": 5
 }
