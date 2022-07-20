@@ -265,3 +265,22 @@ exports.getNewspaperRecords = function () {
   }
   return results;
 };
+
+/** The highest newspaper ID in the current dataset, if known. */
+var maxNewspaperId = null;
+
+/**
+ * Get the next available newspaper Id so we can create a new record.
+ * @returns The next available Id.
+ */
+exports.getNextNewspaperId = function () {
+  if (!maxNewspaperId) {
+    maxNewspaperId = 0;
+    for (id of exports.getNewspaperIds()) {
+      newspaperId = parseInt(id);
+      if (newspaperId > maxNewspaperId) maxNewspaperId = newspaperId;
+    }
+  }
+  maxNewspaperId += 1;
+  return maxNewspaperId;
+};

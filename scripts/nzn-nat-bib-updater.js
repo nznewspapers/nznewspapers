@@ -103,13 +103,6 @@ console.log(
     " records with MARC numbers"
 );
 
-// Assign nre record numbers...
-var nextRecordId = 5000;
-function getNextRecordId() {
-  nextRecordId += 1;
-  return nextRecordId;
-}
-
 // Gather some stats as we go...
 let stats = {};
 let recordCounter = 0;
@@ -474,7 +467,7 @@ function readMarcFile(marcFileName, operatingMode) {
         } else {
           // We've found an unrecognized MARC record, so let's add a new NZNewspapers record:
           addStats("count-new-record");
-          newspaperId = getNextRecordId();
+          newspaperId = nznShared.getNextNewspaperId();
 
           // A new record? Last load was: 2013-04-02
           const newRecordSinceLastLoad = dateOnFile > "130402";
@@ -505,7 +498,7 @@ function readMarcFile(marcFileName, operatingMode) {
           newRecord = {};
           newRecord.id = newspaperId;
           newRecord.title = nznShared.titleCleanup(title);
-          newRecord.genre = "Automatic";
+          newRecord.genre = "Unknown";
           newRecord.idMarcControlNumber = marcControlNumber;
           newRecord.isCurrent = isCurrentlyPublished;
           newRecord.firstYear = date1;
