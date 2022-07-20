@@ -22,8 +22,13 @@ if (!fs.existsSync(marcFilePath)) {
 }
 
 console.log("Running: " + process.argv[1]);
-console.log(" * MARC file: " + marcFilePath);
-console.log(" * Data dir:  " + nznShared.paperDir);
+console.log(" * MARC input:    " + marcFilePath);
+console.log(" * Newspaper dir: " + nznShared.paperDir);
+
+console.log(" * MARC outputs:  " + nznShared.paperDir);
+if (!fs.existsSync(nznShared.marcDir)) {
+  fs.mkdirSync(nznShared.marcDir, { recursive: true });
+}
 
 // Figure out a mode of operation...
 const commandArgs = process.argv.slice(2);
@@ -176,6 +181,12 @@ function placeCleanUp(rawName) {
   return name;
 }
 
+/**
+ * Helper function for comparing two MARC dates to determine if the new date is more specific than the current.
+ * @param {*} currentDate
+ * @param {*} newDate
+ * @returns
+ */
 function isNewDateMoreSpecific(currentDate, newDate) {
   // Trivial case 1 -> Current date is fully specific -> false:
   if (!currentDate.endsWith("u")) return false;
@@ -226,19 +237,10 @@ function readMarcFile(marcFileName, operatingMode) {
 
   // At the end, a final message:
   reader.on("end", () => {
-    writers.forEach((writer) => writer.end());
-    console.log("Finished processing MARC records...");
+    console.log("Finished processing MARC record...");
     logStats();
     clearInterval(tick);
   });
-
-  // Set up a bunch of writers (we don't need):
-  //let writers = ["marcxml", "iso2709", "json", "text"].map((type) =>
-  //  Marc.stream(fs.createWriteStream("bib-edited." + type), type)
-  //);
-  let writers = ["text"].map((type) =>
-    Marc.stream(fs.createWriteStream("bib-edited." + type), type)
-  );
 
   // Read each MARC record, and write it:
   reader.on("data", (record) => {
@@ -271,16 +273,16 @@ function readMarcFile(marcFileName, operatingMode) {
 
         // MARC Control Number:
         // TODO: Check for duplicate MARC Control Numbers (e.g. 8000996)
+        let newspaperId = null;
         let marcControlNumber = null;
         let marcControlNumberList = [];
-        let newspaperIdMatch = null;
         record.get(/035/).forEach((field) => {
           field["subf"].forEach((pair) => {
             if (pair[0] == "a" && pair[1].startsWith("(Nz)")) {
               marcControlNumber = pair[1].substring(4);
               marcControlNumberList.push(marcControlNumber);
               if (marcNumberToNewspaperId[marcControlNumber]) {
-                newspaperIdMatch = marcNumberToNewspaperId[marcControlNumber];
+                newspaperId = marcNumberToNewspaperId[marcControlNumber];
               }
             }
           });
@@ -410,17 +412,15 @@ function readMarcFile(marcFileName, operatingMode) {
         } else if (!placename) {
           // Ignore records for overseas and unknown places:
           addStats("count-skipped-placename");
-        } else if (newspaperIdMatch) {
-          // We've matched an existing record to a MARC record... are there updates we can make?
-          // console.log("Match " + marcControlNumber + " -> " + newspaperIdMatch);
+        } else if (newspaperId) {
+          // We've matched an existing newspaper record to a MARC record... are there updates we can make?
           addStats("count-existing-record");
-          id = marcNumberToNewspaperId[marcControlNumber];
-          newspaper = nznShared.readNewspaper(id);
+
+          newspaper = nznShared.readNewspaper(newspaperId);
           updated = false;
 
-          // TODO: Favor the most specific info
-          // Update the first and final years:
-          if (id == 1041) {
+          let debug = false;
+          if (debug) {
             console.log("Marc record:");
             console.log(" * MARC Ctrl#: " + marcControlNumber);
             console.log(" * Date added: " + dateOnFile);
@@ -432,6 +432,8 @@ function readMarcFile(marcFileName, operatingMode) {
             console.log("Test");
             console.log(!newspaper.finalYear.endsWith("u"));
           }
+
+          // Update the first year:
           if (
             newspaper.firstYear != date1 &&
             isNewDateMoreSpecific(newspaper.firstYear, date1)
@@ -440,6 +442,7 @@ function readMarcFile(marcFileName, operatingMode) {
             updated = true;
           }
 
+          // Update the final year:
           if (
             newspaper.finalYear != date2 &&
             isNewDateMoreSpecific(newspaper.finalYear, date2)
@@ -460,7 +463,7 @@ function readMarcFile(marcFileName, operatingMode) {
             // console.log("Updating record " + id);
 
             nznShared.writeNewspaper(
-              id,
+              newspaperId,
               newspaper,
               "Date updated from the New Zealand National Bibliography " +
                 "(MARC record " +
@@ -471,6 +474,7 @@ function readMarcFile(marcFileName, operatingMode) {
         } else {
           // We've found an unrecognized MARC record, so let's add a new NZNewspapers record:
           addStats("count-new-record");
+          newspaperId = getNextRecordId();
 
           // A new record? Last load was: 2013-04-02
           const newRecordSinceLastLoad = dateOnFile > "130402";
@@ -499,7 +503,7 @@ function readMarcFile(marcFileName, operatingMode) {
 
           // Add the entries we want to appear first:
           newRecord = {};
-          newRecord.id = getNextRecordId();
+          newRecord.id = newspaperId;
           newRecord.title = nznShared.titleCleanup(title);
           newRecord.genre = "Automatic";
           newRecord.idMarcControlNumber = marcControlNumber;
@@ -520,7 +524,7 @@ function readMarcFile(marcFileName, operatingMode) {
           }
 
           nznShared.writeNewspaper(
-            newRecord.id,
+            newspaperId,
             newRecord,
             (source =
               "Extracted from the New Zealand National Bibliography " +
@@ -530,7 +534,14 @@ function readMarcFile(marcFileName, operatingMode) {
           );
         }
 
-        writers.forEach((writer) => writer.write(record));
+        // Write out the MARC record:
+        if (newspaperId && marcControlNumber) {
+          let filename = nznShared.getNewspaperMarcPath(newspaperId);
+
+          let writer = Marc.stream(fs.createWriteStream(filename), "text");
+          writer.write(record);
+          writer.end();
+        }
       }
     }
     // throw new Error("blah");
