@@ -2,7 +2,7 @@
   "stats": {
     "placename": "Wellington",
     "count": 136,
-    "decades": 19
+    "decades": 18
   },
   "papers": [
     {
@@ -692,6 +692,12 @@
       "finalYear": "9999"
     },
     {
+      "id": "2897",
+      "title": "Newlands/Paparangi Post",
+      "firstYear": "1996",
+      "finalYear": "2001"
+    },
+    {
       "id": "2895",
       "title": "Tawa Times",
       "firstYear": "1997",
@@ -714,12 +720,6 @@
       "title": "Wellingtonian",
       "firstYear": "199u",
       "finalYear": "9999"
-    },
-    {
-      "id": "2897",
-      "title": "Newlands/Paparangi Post",
-      "firstYear": "19uu",
-      "finalYear": "2001"
     },
     {
       "id": "2204",

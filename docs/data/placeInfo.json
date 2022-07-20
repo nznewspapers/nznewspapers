@@ -253,7 +253,7 @@
           "id": 1036,
           "title": "Kamo & Hikurangi Echo",
           "firstYear": "1891",
-          "finalYear": "189u",
+          "finalYear": "1892",
           "placename": "Kamo"
         },
         {
@@ -872,8 +872,8 @@
         {
           "id": 1328,
           "title": "New Zealand Leader",
-          "firstYear": "190u",
-          "finalYear": "uuuu",
+          "firstYear": "1909",
+          "finalYear": "1910",
           "placename": "Auckland"
         },
         {
@@ -1575,6 +1575,14 @@
           "placename": "Auckland"
         },
         {
+          "id": 1443,
+          "title": "The New Zealand Times",
+          "firstYear": "1996",
+          "finalYear": "9999",
+          "placename": "Auckland",
+          "urlCurrent": "http://www.koreatimes.co.nz/"
+        },
+        {
           "id": 1426,
           "title": "Te Maori News (1996)",
           "firstYear": "1996",
@@ -1664,14 +1672,6 @@
           "firstYear": "19uu",
           "finalYear": "19uu",
           "placename": "Auckland"
-        },
-        {
-          "id": 1443,
-          "title": "The New Zealand Times",
-          "firstYear": "19uu",
-          "finalYear": "9999",
-          "placename": "Auckland",
-          "urlCurrent": "http://www.koreatimes.co.nz/"
         },
         {
           "id": 1441,
@@ -2144,6 +2144,13 @@
           "placename": "Howick"
         },
         {
+          "id": 1238,
+          "title": "The Howick Post",
+          "firstYear": "1953",
+          "finalYear": "1972",
+          "placename": "Howick"
+        },
+        {
           "id": 1189,
           "title": "East City Advertiser",
           "firstYear": "1980",
@@ -2183,13 +2190,6 @@
           "title": "Ellerslie & Panmure Times",
           "firstYear": "1999",
           "finalYear": "2000",
-          "placename": "Howick"
-        },
-        {
-          "id": 1238,
-          "title": "The Howick Post",
-          "firstYear": "19uu",
-          "finalYear": "19uu",
           "placename": "Howick"
         },
         {
@@ -2920,7 +2920,7 @@
         {
           "id": 1279,
           "title": "Hibiscus Coaster",
-          "firstYear": "uuuu",
+          "firstYear": "1985",
           "finalYear": "1982",
           "placename": "Silverdale"
         },
@@ -3082,7 +3082,7 @@
         {
           "id": 1270,
           "title": "Post",
-          "firstYear": "200u",
+          "firstYear": "2006",
           "finalYear": "9999",
           "placename": "Waiuku"
         },
@@ -4357,7 +4357,7 @@
           "id": 1650,
           "title": "Greerton Gazette",
           "firstYear": "1981",
-          "finalYear": "uuuu",
+          "finalYear": "198u",
           "placename": "Tauranga"
         },
         {
@@ -7798,6 +7798,13 @@
           "placename": "Wellington"
         },
         {
+          "id": 2897,
+          "title": "Newlands/Paparangi Post",
+          "firstYear": "1996",
+          "finalYear": "2001",
+          "placename": "Wellington"
+        },
+        {
           "id": 2893,
           "title": "Petone and Harbour Ward Herald",
           "firstYear": "1996",
@@ -7823,13 +7830,6 @@
           "title": "Xiang yin",
           "firstYear": "1998",
           "finalYear": "9999",
-          "placename": "Wellington"
-        },
-        {
-          "id": 2897,
-          "title": "Newlands/Paparangi Post",
-          "firstYear": "19uu",
-          "finalYear": "2001",
           "placename": "Wellington"
         },
         {
@@ -9381,7 +9381,7 @@
           "id": 2452,
           "title": "Weekly Courier",
           "firstYear": "1982",
-          "finalYear": "uuuu",
+          "finalYear": "1983",
           "placename": "Christchurch"
         },
         {
@@ -9483,6 +9483,13 @@
           "placename": "Christchurch"
         },
         {
+          "id": 2473,
+          "title": "Korea Review (Christchurch)",
+          "firstYear": "1995",
+          "finalYear": "9999",
+          "placename": "Christchurch"
+        },
+        {
           "id": 2469,
           "title": "Canterbury Times (1996)",
           "firstYear": "1996",
@@ -9521,13 +9528,6 @@
           "id": 2472,
           "title": "Central Today",
           "firstYear": "1999",
-          "finalYear": "9999",
-          "placename": "Christchurch"
-        },
-        {
-          "id": 2473,
-          "title": "Korea Review (Christchurch)",
-          "firstYear": "199u",
           "finalYear": "9999",
           "placename": "Christchurch"
         },
@@ -10936,7 +10936,7 @@
           "id": 2658,
           "title": "Weekly News",
           "firstYear": "1862",
-          "finalYear": "uuuu",
+          "finalYear": "18uu",
           "placename": "Invercargill"
         },
         {

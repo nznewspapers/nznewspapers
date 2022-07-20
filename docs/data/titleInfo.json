@@ -3519,7 +3519,7 @@
         "id": 1650,
         "title": "Greerton Gazette",
         "firstYear": "1981",
-        "finalYear": "uuuu",
+        "finalYear": "198u",
         "region": "Bay of Plenty",
         "district": "Tauranga City",
         "placename": "Tauranga"
@@ -4016,7 +4016,7 @@
       {
         "id": 1279,
         "title": "Hibiscus Coaster",
-        "firstYear": "uuuu",
+        "firstYear": "1985",
         "finalYear": "1982",
         "region": "Auckland",
         "district": "Auckland",
@@ -4247,8 +4247,8 @@
       {
         "id": 1238,
         "title": "The Howick Post",
-        "firstYear": "19uu",
-        "finalYear": "19uu",
+        "firstYear": "1953",
+        "finalYear": "1972",
         "region": "Auckland",
         "district": "Auckland",
         "placename": "Howick"
@@ -4800,7 +4800,7 @@
         "id": 1036,
         "title": "Kamo & Hikurangi Echo",
         "firstYear": "1891",
-        "finalYear": "189u",
+        "finalYear": "1892",
         "region": "Northland",
         "district": "Whangarei District",
         "placename": "Kamo"
@@ -5065,7 +5065,7 @@
       {
         "id": 2473,
         "title": "Korea Review (Christchurch)",
-        "firstYear": "199u",
+        "firstYear": "1995",
         "finalYear": "9999",
         "region": "Canterbury",
         "district": "Christchurch City",
@@ -6591,7 +6591,7 @@
       {
         "id": 2897,
         "title": "Newlands/Paparangi Post",
-        "firstYear": "19uu",
+        "firstYear": "1996",
         "finalYear": "2001",
         "region": "Wellington",
         "district": "Wellington City",
@@ -7057,8 +7057,8 @@
       {
         "id": 1328,
         "title": "New Zealand Leader",
-        "firstYear": "190u",
-        "finalYear": "uuuu",
+        "firstYear": "1909",
+        "finalYear": "1910",
         "region": "Auckland",
         "district": "Auckland",
         "placename": "Auckland"
@@ -7169,7 +7169,7 @@
       {
         "id": 1443,
         "title": "The New Zealand Times",
-        "firstYear": "19uu",
+        "firstYear": "1996",
         "finalYear": "9999",
         "region": "Auckland",
         "district": "Auckland",
@@ -8978,7 +8978,7 @@
       {
         "id": 1270,
         "title": "Post",
-        "firstYear": "200u",
+        "firstYear": "2006",
         "finalYear": "9999",
         "region": "Auckland",
         "district": "Auckland",
@@ -13126,7 +13126,7 @@
         "id": 2452,
         "title": "Weekly Courier",
         "firstYear": "1982",
-        "finalYear": "uuuu",
+        "finalYear": "1983",
         "region": "Canterbury",
         "district": "Christchurch City",
         "placename": "Christchurch"
@@ -13198,7 +13198,7 @@
         "id": 2658,
         "title": "Weekly News",
         "firstYear": "1862",
-        "finalYear": "uuuu",
+        "finalYear": "18uu",
         "region": "Southland",
         "district": "Southland District",
         "placename": "Invercargill"

@@ -296,7 +296,7 @@
       "id": "2452",
       "title": "Weekly Courier",
       "firstYear": "1982",
-      "finalYear": "uuuu"
+      "finalYear": "1983"
     },
     {
       "id": "2453",
@@ -389,6 +389,12 @@
       "finalYear": "1995"
     },
     {
+      "id": "2473",
+      "title": "Korea Review (Christchurch)",
+      "firstYear": "1995",
+      "finalYear": "9999"
+    },
+    {
       "id": "2467",
       "title": "Observer",
       "firstYear": "1996",
@@ -434,12 +440,6 @@
       "id": "2472",
       "title": "Central Today",
       "firstYear": "1999",
-      "finalYear": "9999"
-    },
-    {
-      "id": "2473",
-      "title": "Korea Review (Christchurch)",
-      "firstYear": "199u",
       "finalYear": "9999"
     },
     {

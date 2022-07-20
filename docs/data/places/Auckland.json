@@ -325,8 +325,8 @@
     {
       "id": "1328",
       "title": "New Zealand Leader",
-      "firstYear": "190u",
-      "finalYear": "uuuu"
+      "firstYear": "1909",
+      "finalYear": "1910"
     },
     {
       "id": "1329",
@@ -946,6 +946,13 @@
       "finalYear": "2004"
     },
     {
+      "id": "1443",
+      "title": "The New Zealand Times",
+      "firstYear": "1996",
+      "finalYear": "9999",
+      "urlCurrent": "http://www.koreatimes.co.nz/"
+    },
+    {
       "id": "1429",
       "title": "Shore Weekender",
       "firstYear": "1997",
@@ -1046,13 +1053,6 @@
       "title": "Asian Times",
       "firstYear": "19uu",
       "finalYear": "2003"
-    },
-    {
-      "id": "1443",
-      "title": "The New Zealand Times",
-      "firstYear": "19uu",
-      "finalYear": "9999",
-      "urlCurrent": "http://www.koreatimes.co.nz/"
     },
     {
       "id": "1444",
