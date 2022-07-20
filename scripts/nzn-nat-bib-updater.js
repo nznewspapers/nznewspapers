@@ -498,7 +498,7 @@ function readMarcFile(marcFileName, operatingMode) {
           newRecord = {};
           newRecord.id = newspaperId;
           newRecord.title = nznShared.titleCleanup(title);
-          newRecord.genre = "Unknown";
+          newRecord.genre = "Undetermined";
           newRecord.idMarcControlNumber = marcControlNumber;
           newRecord.isCurrent = isCurrentlyPublished;
           newRecord.firstYear = date1;
