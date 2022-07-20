@@ -7,12 +7,31 @@ const path = require("path");
 exports.docsDir = path.join(process.cwd(), "docs");
 exports.jsonDir = path.join(exports.docsDir, "data");
 exports.paperDir = path.join(exports.jsonDir, "papers");
+exports.marcDir = path.join(exports.jsonDir, "marc");
 exports.scriptDir = path.join(process.cwd(), "scripts");
 
 exports.oldIdtoNewIdFilename = path.join(
   exports.jsonDir,
   "old_id_to_new_id.json"
 );
+
+/**
+ * Get the JSON filename for newspaper data.
+ * @param {*} id The newspaper identifier
+ * @returns The JSON file path
+ */
+exports.getNewspaperJsonPath = function (id) {
+  return path.join(exports.paperDir, id + ".json");
+};
+
+/**
+ * Get the MARC filename for newspaper data.
+ * @param {*} id The newspaper identifier
+ * @returns The MARC file path
+ */
+exports.getNewspaperMarcPath = function (id) {
+  return path.join(exports.marcDir, id + ".text");
+};
 
 /**
  * Convert a string to camelCase, as per https://stackoverflow.com/a/2970667
@@ -114,7 +133,7 @@ exports.writeDataToTextFile = function (data, path) {
  */
 exports.readNewspaper = function (id) {
   if (!id) throw new Error("Error: no id passed to readNewspaper.");
-  const filename = path.join(exports.paperDir, id + ".json");
+  const filename = exports.getNewspaperJsonPath(id);
   return exports.readJsonDictSync(filename);
 };
 
@@ -139,7 +158,7 @@ function sortObjectKeysDesc(inputObject) {
  * Write the data for one newspaper.
  */
 exports.writeNewspaper = function (id, record, source = null) {
-  const filename = path.join(exports.paperDir, id + ".json");
+  const filename = exports.getNewspaperJsonPath(id);
 
   // Add the information source if one hs been supplied:
   if (source) {
