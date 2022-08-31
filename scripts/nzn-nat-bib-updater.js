@@ -32,17 +32,17 @@ if (!fs.existsSync(nznShared.marcDir)) {
 
 // Figure out a mode of operation...
 const commandArgs = process.argv.slice(2);
-let mode = "report";
+let mode = "add-new-records";
 console.log(" * Args: ", commandArgs);
 switch (commandArgs[0].toLowerCase()) {
   case "report":
     mode = "report";
     break;
   case "add-new-records":
-    mode = "add-new-records";
+    mode = "ADD_NEW_RECORDS";
     break;
   case "update-existing-records":
-    mode = "update-existing-records";
+    mode = "UPDATE_EXISTING_RECORDS";
     break;
   case "update-marc-files":
     mode = "update-marc-files";
@@ -167,6 +167,8 @@ function placeCleanUp(rawName) {
     if (nz > 1) name = name.substring(0, nz);
     const sqb = name.indexOf("[");
     if (sqb > 1) name = name.substring(0, sqb);
+    const sqb2 = name.indexOf("]");
+    if (sqb2 > 1) name = name.substring(0, sqb2);
   }
 
   name = name.replace(/\?/, "");
@@ -380,6 +382,106 @@ function readMarcFile(marcFileName, operatingMode) {
           });
         });
 
+        // Links to Preceding and Succeeding entries
+        let links = {};
+        record.get(/780/).forEach((field) => {
+          /*
+            https://www.loc.gov/marc/bibliographic/bd760787.html
+            0 - Continues
+            1 - Continues in part
+            2 - Supersedes
+            3 - Supersedes in part
+            4 - Formed by the union of ... and ...
+            5 - Absorbed
+            6 - Absorbed in part
+            7 - Separated from
+          */
+          let direction = "Preceding";
+          let relationship = "Unknown";
+          switch (Number(field["ind2"])) {
+            case 0:
+            case 1:
+              relationship = "Continues";
+              break;
+            case 2:
+            case 3:
+              relationship = "Supersedes";
+              break;
+            case 4:
+              relationship = "Formed by the union";
+              break;
+            case 5:
+            case 6:
+              relationship = "Absorbed";
+              break;
+            case 7:
+              relationship = "Separated from";
+          }
+          let title = "Unknown";
+          field["subf"].forEach((pair) => {
+            if (pair[0] == "t") {
+              title = pair[1];
+            }
+          });
+          const key = "unknown-" + (Object.keys(links).length + 1);
+          links[key.toString()] = {
+            direction: direction,
+            relationship: relationship,
+            "target-description": title,
+          };
+        });
+        record.get(/785/).forEach((field) => {
+          /*
+            https://www.loc.gov/marc/bibliographic/bd760787.html
+              785 - Type of relationship
+              0 - Continued by
+              1 - Continued in part by
+              2 - Superseded by
+              3 - Superseded in part by
+              7 - Merged with ... to form ...
+              4 - Absorbed by
+              5 - Absorbed in part by
+              6 - Split into ... and ...
+              8 - Changed back to
+          */
+          let direction = "Succeeding";
+          let relationship = "Unknown";
+          switch (Number(field["ind2"])) {
+            case 0:
+            case 1:
+              relationship = "Continued by";
+              break;
+            case 2:
+            case 3:
+              relationship = "Superseded by";
+              break;
+            case 4:
+            case 5:
+              relationship = "Absorbed by";
+              break;
+            case 6:
+              relationship = "Split";
+              break;
+            case 7:
+              relationship = "Merged";
+              break;
+            case 8:
+              relationship = "Changed back to";
+          }
+          let title = "Unknown";
+          field["subf"].forEach((pair) => {
+            if (pair[0] == "t") {
+              title = pair[1];
+            }
+          });
+          const key = "unknown-" + (Object.keys(links).length + 1);
+          links[key] = {
+            direction: direction,
+            relationship: relationship,
+            "target-description": title,
+          };
+        });
+
         if (newspaperCounter < 0) {
           console.log("Sample Newspaper Record (" + marcControlNumber + "):");
           console.log(" * Leader:     " + record.leader);
@@ -451,18 +553,22 @@ function readMarcFile(marcFileName, operatingMode) {
             updated = true;
           }
 
-          if (updated) {
-            addStats("count-existing-record-updated");
-            // console.log("Updating record " + id);
+          // We're not ging to update the links because the old metadata tends to be better
 
-            nznShared.writeNewspaper(
-              newspaperId,
-              newspaper,
-              "Date updated from the New Zealand National Bibliography " +
-                "(MARC record " +
-                marcControlNumber +
-                ") downloaded June 2022."
-            );
+          if (updated) {
+            if (mode == "UPDATE_EXISTING_RECORDS") {
+              addStats("count-existing-record-updated");
+              // console.log("Updating record " + id);
+
+              nznShared.writeNewspaper(
+                newspaperId,
+                newspaper,
+                "Date updated from the New Zealand National Bibliography " +
+                  "(MARC record " +
+                  marcControlNumber +
+                  ") downloaded June 2022."
+              );
+            }
           }
         } else {
           // We've found an unrecognized MARC record, so let's add a new NZNewspapers record:
@@ -492,6 +598,18 @@ function readMarcFile(marcFileName, operatingMode) {
             if (infrequent) console.log("   * INFREQUENT");
             console.log(" * Genre:      " + genre);
             console.log(" * Placename:  " + placename);
+            for (const [key, record] of Object.entries(links)) {
+              console.log(
+                " * Link " +
+                  key +
+                  ": " +
+                  record["direction"] +
+                  " / " +
+                  record["relationship"] +
+                  " / " +
+                  record["target-description"]
+              );
+            }
           }
 
           // Add the entries we want to appear first:
@@ -516,15 +634,25 @@ function readMarcFile(marcFileName, operatingMode) {
             newRecord.region = "Unknown Region";
           }
 
-          nznShared.writeNewspaper(
-            newspaperId,
-            newRecord,
-            (source =
-              "Extracted from the New Zealand National Bibliography " +
-              "(MARC record " +
-              marcControlNumber +
-              ") downloaded June 2022.")
-          );
+          if (links && Object.keys(links).length > 0) newRecord.links = links;
+
+          // Make this an official newspaper record if the data quality checks out:
+          if (newRecord.placecode != "unknown") newRecord.genre = "Newspaper";
+
+          // Write the newspaper (sometimes):
+          if (mode == "ADD_NEW_RECORDS") {
+            addStats("count-new-record-added");
+
+            nznShared.writeNewspaper(
+              newspaperId,
+              newRecord,
+              (source =
+                "Extracted from the New Zealand National Bibliography " +
+                "(MARC record " +
+                marcControlNumber +
+                ") downloaded June 2022.")
+            );
+          }
         }
 
         // Write out the MARC record:
