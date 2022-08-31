@@ -15,7 +15,7 @@ if (!fs.existsSync(nznShared.oldIdtoNewIdFilename)) {
   process.exit(1);
 }
 
-const marcFilePath = path.join(nznShared.scriptDir, "Pubsnzapril2022.mrc");
+const marcFilePath = path.join(nznShared.scriptDir, "PubsNZ.mrc");
 if (!fs.existsSync(marcFilePath)) {
   console.error("Missing MARC file: " + marcFilePath);
   process.exit(1);
