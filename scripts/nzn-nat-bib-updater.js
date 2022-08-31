@@ -509,7 +509,7 @@ function readMarcFile(marcFileName, operatingMode) {
           addStats("count-skipped-placename");
         } else if (newspaperId) {
           // We've matched an existing newspaper record to a MARC record... are there updates we can make?
-          addStats("count-existing-record");
+          addStats("count-existing-record-found");
 
           newspaper = nznShared.readNewspaper(newspaperId);
           updated = false;
@@ -572,13 +572,8 @@ function readMarcFile(marcFileName, operatingMode) {
           }
         } else {
           // We've found an unrecognized MARC record, so let's add a new NZNewspapers record:
-          addStats("count-new-record");
+          addStats("count-new-record-found");
           newspaperId = nznShared.getNextNewspaperId();
-
-          // A new record? Last load was: 2013-04-02
-          const newRecordSinceLastLoad = dateOnFile > "130402";
-          if (newRecordSinceLastLoad)
-            addStats("count-new-record-since-last-load");
 
           // Debug mode: dump out a record
           var verbose = false;
