@@ -1,0 +1,17 @@
+{
+  "id": 3088,
+  "title": "Thames Valley Farmer",
+  "genre": "Newspaper",
+  "firstYear": "198u",
+  "finalYear": "198u",
+  "district": "Thames-Coromandel District",
+  "idMarcControlNumber": "8183961",
+  "isCurrent": false,
+  "placecode": "03-01",
+  "placename": "Thames",
+  "region": "Waikato",
+  "sources": {
+    "2022-08-31T04:35:35.308Z": "Extracted from the New Zealand National Bibliography (MARC record 8183961) downloaded June 2022."
+  },
+  "revision": 1
+}

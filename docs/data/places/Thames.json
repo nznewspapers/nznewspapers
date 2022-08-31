@@ -1,8 +1,8 @@
 {
   "stats": {
     "placename": "Thames",
-    "count": 16,
-    "decades": 9
+    "count": 18,
+    "decades": 10
   },
   "papers": [
     {
@@ -24,6 +24,12 @@
       "firstYear": "1868",
       "finalYear": "1912",
       "urlDigitized": "https://paperspast.natlib.govt.nz/newspapers/thames-advertiser"
+    },
+    {
+      "id": "3043",
+      "title": "Evening Star",
+      "firstYear": "1869",
+      "finalYear": "1893"
     },
     {
       "id": "1474",
@@ -86,6 +92,12 @@
       "title": "Hauraki Herald",
       "firstYear": "1979",
       "finalYear": "9999"
+    },
+    {
+      "id": "3088",
+      "title": "Thames Valley Farmer",
+      "firstYear": "198u",
+      "finalYear": "198u"
     },
     {
       "id": "1495",

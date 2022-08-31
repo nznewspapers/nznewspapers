@@ -1,0 +1,31 @@
+01500cas a2200385 a 4500
+001 999256243502836
+003 Nz
+005 20210401181219.0
+008 891221d19841999nz wrzne      0   a0eng  
+022 0  $a 1170-053X $y 0117-053X
+035    $a (nzNZBN)5177488
+035    $a zbn89078932
+035    $a (Nz)2600515
+035    $a (NLNZils)925624
+035    $a (NLNZils)925624-ilsdb
+035    $a (OCoLC)173326328
+040    $a NZNB $c NZNB
+042    $a nznb
+043    $a u-nz---
+082 04 $a 079.9375 $2 20NZ
+222  0 $a High country herald
+245 04 $a The High Country herald.
+260    $a [Timaru? N.Z. : $b Timaru Herald?, $c 1984-1999]
+300    $a v. : $b ill., ports. ; $c 42 cm.
+362 1  $a Began with  Nov. 1 1984. $z C.f. Harvey, D. R. Union list of newspapers ... in New Zealand; ceased in July 1999.
+500    $a "The central South Island's community newspaper."
+500    $a Includes advertising.
+500    $a Includes The Timaru herald farm review.
+500    $a Description based on: Wednesday 13 Sept. 1989; title masthead.
+580    $a Split into: Community high country herald (Mid Canterbury), Community high country herald (North Otago), and: Community high country herald (South Canterbury)
+651  0 $a Canterbury, South (N.Z.) $v Periodicals.
+655  7 $a New Zealand newspapers. $2 local $5 Nz
+785 06 $t Community high country herald (Mid Canterbury)
+785 06 $t Community high country herald (South Canterbury)
+785 06 $t Community high country herald (North Otago)

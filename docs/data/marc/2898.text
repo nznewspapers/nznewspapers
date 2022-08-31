@@ -1,0 +1,29 @@
+01186cas a2200361 a 4500
+001 997137233502836
+003 Nz
+005 20161223145943.0
+008 020403d20012015nz er ne |    0   a0eng  
+035    $a (NLNZils)713723
+035    $a (Nz)6830291
+035    $a (NLNZils)713723-ilsdb
+035    $a (OCoLC)173397455
+040    $a NZNB $c NZNB
+042    $a nznb
+043    $a u-nz---
+082 04 $a 079.936305 $2 21
+130 0  $a Northern courier (Wellington, N.Z.)
+245 00 $a Northern courier.
+260    $a Wellington [N.Z. : $b Local media], $c [2001-2014]
+300    $a v. : $b ill. ; $c 40 cm.
+310    $a Biweekly
+362 0  $a 28 May 2001-Dec. 17/Jan. 31 (2014/2015)
+500    $a "Incorporating Newlands/Paparangi post , Tawa times"--Masthead.
+500    $a Community newspaper.
+500    $a Title from masthead.
+580    $a Merger of: Tawa times, and: Newlands/Paparangi post.
+588    $a Latest issue consulted: Dec. 17/Jan. 31 (2014/2015)
+651  0 $a Wellington (N.Z.) $v Newspapers.
+655  7 $a New Zealand newspapers. $2 local $5 Nz
+776 0  $i Online version: $t Northern courier (Wellington, N.Z. : Online)
+780 04 $t Tawa times
+780 04 $t Newlands/Paparangi post

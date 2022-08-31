@@ -1,0 +1,29 @@
+01076cas a2200361 a 4500
+001 991739703502836
+003 Nz
+005 20210401182710.0
+008 160814d19uu1997nz mr|n       0   a0chi  
+035    $z 519907
+035    $a (nzNZBN)8498539
+035    $a zbn97040755
+035    $a (Nz)4394423
+035    $a (NLNZils)173970
+035    $a (NLNZils)173970-ilsdb
+035    $a (OCoLC)173342405
+040    $a NZNB $c NZNB
+041 0  $a chi $a eng
+042    $a nznb
+043    $a u-nz---
+082 0  $a 305.89510938305 $2 21
+245 00 $a Christchurch Chinese monthly news.
+260    $a Christchurch [N.Z.] : $b Chung Wah Printing Press, $c [-1997]
+300    $a v. : $b ill., ports. ; $c 42 cm.
+310    $a Monthly
+362 0  $a -Feb. 1997.
+500    $a Includes advertising.
+500    $a Description based on: Nov. 1994; title from caption.
+546    $a Text chiefly in Chinese with some English.
+650  0 $a Chinese $z New Zealand $v Newspapers.
+655  7 $a New Zealand newspapers. $2 local $5 Nz
+655  7 $a Chinese newspapers. $2 local $5 Nz
+785 00 $t Christchurch Chinese news

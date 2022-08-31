@@ -1,0 +1,17 @@
+{
+  "id": 3052,
+  "title": "Bay Sun Spree",
+  "genre": "Newspaper",
+  "firstYear": "198u",
+  "finalYear": "198u",
+  "district": "Tauranga City",
+  "idMarcControlNumber": "8131869",
+  "isCurrent": false,
+  "placecode": "04-02",
+  "placename": "Tauranga",
+  "region": "Bay of Plenty",
+  "sources": {
+    "2022-08-31T04:35:28.661Z": "Extracted from the New Zealand National Bibliography (MARC record 8131869) downloaded June 2022."
+  },
+  "revision": 1
+}

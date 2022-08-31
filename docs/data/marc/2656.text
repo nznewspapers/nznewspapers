@@ -1,0 +1,30 @@
+01589cas a2200373 a 4500
+001 9911751183502836
+003 Nz
+005 20210310144601.0
+007 hdraf|###b|ca
+008 040105d18621864nz cr|nea     0   a0eng  
+035    $a 8159352
+035    $a (NLNZils)1175118
+035    $a (Nz)8159352
+035    $a (NLNZils)1175118-ilsdb
+035    $a (OCoLC)946790410
+040    $a NZNB $c NZNB
+042    $a nznb
+043    $a u-nz---
+082 04 $a 079.9398 $2 22
+245 00 $a Invercargill times $h [microform]
+260    $a [Wellington, N.Z.] : $b Microfilmed for National Library of New Zealand by New Zealand Micrographic Services, $c 2005.
+300    $a 1 microfilm reel ; $c 35 mm.
+310    $a Semiweekly
+362 1  $a Began with Nov. 11, 1862.
+362 0  $a -v. 3, no. 52 (1864, Mar.7).
+500    $a Description based on: Vol. 1, no. 24 (Jan.1, 1864); title from title frame.
+500    $a Filmed with later title: Southland times (Afternoon ed.)
+515    $a 2 no. a week, 3 no.a week by 1863 Sep.28. 1862 Nov.14 = vol.1 no.2. Continued by Southland times (not published between 1864 Mar.7 and 1864 Jun.2) - Scholefield.
+533    $a Digital file $b Wellington, N.Z. $c National Library of New Zealand $d 2007 $m Nov. 14, 1862-Mar. 7, 1864 $n Digital files scanned from 35 mm microfilm.
+534    $a Reproduction. Originally published: $c Invercargill, N.Z. : [s.n.], 1862-1864.
+651  0 $a Invercargill (N.Z.) $v Newspapers.
+655  7 $a New Zealand newspapers. $2 local $5 Nz
+776 08 $i Online version: $t Invercargill times $w (Nz)9914608853502836
+785 00 $t Southland times (Afternoon ed.)

@@ -1,0 +1,25 @@
+00977cas a22003131a 4500
+001 999297103502836
+003 Nz
+005 20200721095147.0
+008 040106d19471948nz wr|ne      0   a0eng  
+035    $a (NLNZils)929710
+035    $a (Nz)8164380
+035    $a (NLNZils)929710-ilsdb
+035    $a (OCoLC)946808912
+040    $a NZNB $c NZNB
+042    $a nznb
+043    $a u-nz---
+082 04 $a 079.9395 $2 23
+245 00 $a Lake County mail.
+260    $a Dunedin [N.Z.] : $b R.C. Wilson, $c 1947-1948.
+300    $a 50 v. ; $c 43 cm.
+310    $a Weekly
+362 0  $a No. 1 (May 29, 1947)-no. 50 (May 19, 1948)
+500    $a Merged with Alexandra herald, and Dunstan times, to form Central Otago news.
+651  0 $a Queenstown-Lakes District (N.Z.) $v Newspapers.
+655  7 $a New Zealand newspapers. $2 local $5 Nz
+776 08 $i Online version: $t Lake County mail $w (Nz)9917303463502836
+785 17 $t Alexandra herald
+785 17 $t Dunstan times
+785 17 $t Central Otago news $x 1170-0149

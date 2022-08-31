@@ -1,7 +1,7 @@
 {
   "stats": {
     "placename": "Kaponga",
-    "count": 3,
+    "count": 4,
     "decades": 2
   },
   "papers": [
@@ -16,6 +16,12 @@
       "title": "Kaponga Mail and District Advertiser",
       "firstYear": "1904",
       "finalYear": "1904"
+    },
+    {
+      "id": "3122",
+      "title": "Kaponga Mail",
+      "firstYear": "1904",
+      "finalYear": "1905"
     },
     {
       "id": "1837",

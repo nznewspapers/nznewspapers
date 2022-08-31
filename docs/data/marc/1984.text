@@ -1,0 +1,26 @@
+00975aas a2200325 a 4500
+001 999331593502836
+003 Nz
+005 20220117135741.0
+008 040114d18921938nz dr|ne      0   a0eng  
+035    $a (NLNZils)933159
+035    $a (Nz)8185373
+035    $a (NLNZils)933159-ilsdb
+035    $a (OCoLC)946808992
+040    $a NZNB $c NZNB
+042    $a nznb
+043    $a u-nz---
+082 04 $a 079.9366 $2 22
+245 00 $a Wairarapa daily times.
+260    $a [Masterton, N.Z. : $b Joseph Payton, $c 1892-1938]
+300    $a v. ; $c 56 cm.
+310    $a Daily
+362 0  $a Mar. 15, 1892-Mar. 31, 1938.
+580    $a Merged with: Wairarapa age; to form: Wairarapa times-age.
+588    $a Title from masthead.
+651  0 $a Wairarapa (N.Z.) $v Newspapers.
+655  7 $a New Zealand newspapers. $2 local $5 Nz
+776 08 $i Online version: $t Wairarapa daily times $w (Nz)9915346863502836
+780 00 $t Wairarapa daily
+785 17 $t Wairarapa age
+785 17 $t Wairarapa times-age $x 1170-0009

@@ -1,0 +1,28 @@
+01267cas a2200349 a 4500
+001 996355403502836
+003 Nz
+005 20200930091219.0
+008 920310d18451874nz dr|ne      0   a0eng  
+035    $a (nzNZBN)6894155
+035    $a abn90166203
+035    $a (NLNZils)635540
+035    $a (Nz)4869489
+035    $a (NLNZils)635540-ilsdb
+035    $a (OCoLC)173353271
+040    $a NZNB $c ABN $d NZNB
+042    $a nznb
+043    $a u-nz---
+082 04 $a 079.936 $2 22
+245 04 $a The Wellington independent.
+260    $a Port Nicholson, N.Z. : $b Edward Roe, William Edward Vincent, Thomas M'Kenzie, James Muir and George Fellingham, $c [1845-1874]
+300    $a 29 v. ; $c 45 cm.
+310    $a Daily, $b Jan. 16, 1871-
+321    $a Three issues a week, $b July 1862-Jan. 14, 1871
+321    $a Semiweekly, $b -June 1862
+362 0  $a Vol. 1, no. 1 (Apr. 2, 1845)-v. 29, no. 4117 (May 30, 1874)
+500    $a Title from caption.
+530    $a Available on microfilm from the Microfilm Production Unit, National Library of New Zealand.
+651  0 $a Wellington (N.Z.) $v Newspapers.
+655  7 $a New Zealand newspapers. $2 local $5 Nz
+776 08 $i Online version: $t Wellington independent $w (Nz)9914735813502836
+785 00 $t New Zealand times (Wellington, New Zealand : 1874)

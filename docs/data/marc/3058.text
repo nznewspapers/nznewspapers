@@ -1,0 +1,21 @@
+00745cas a2200265 a 4500
+001 999251123502836
+003 Nz
+005 20190131153149.0
+008 031213d19871988nz  r ne      0   a0eng  
+035    $a (NLNZils)925112
+035    $a (Nz)8123383
+035    $a (NLNZils)925112-ilsdb
+035    $a (OCoLC)1080153681
+040    $a NZNB $c NZNB
+042    $a nznb
+043    $a u-nz---
+130 0  $a Advertiser (Wakatipu, N.Z.)
+245 00 $a Advertiser.
+260    $a [Queenstown, N.Z. : $b s.n., $c 1987-1988]
+310    $a Weekly
+362 0  $a 1987 Oct.26-1988 Dec.19
+500    $a Subtitle "the news weekly of the Lakes district".
+651  0 $a Queenstown (N.Z.) $v Newspapers.
+655  7 $a New Zealand newspapers. $2 local $5 Nz
+780 00 $t Wakatipu advertiser

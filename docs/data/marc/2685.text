@@ -1,0 +1,30 @@
+01179cas a2200373 a 4500
+001 994804633502836
+003 Nz
+005 20210401185058.0
+008 160813d19871993nz wr|n       0   a0eng  
+022 0  $a 1170-0750 $y 0117-0750 $2 _g
+035    $a (nzNZBN)5177491
+035    $a zbn89078911
+035    $z 292195
+035    $a (Nz)3889254
+035    $a (NLNZils)480463
+035    $a (NLNZils)480463-ilsdb
+035    $a (OCoLC)173337058
+040    $a NZNB $c NZNB
+042    $a nznb
+043    $a u-nz---
+082 04 $a 079.9385 $2 20NZ
+130 0  $a Mirror (Invercargill, N.Z.)
+222  0 $a Mirror $b (Invercargill)
+245 14 $a The Mirror.
+260    $a Invercargill [N.Z.] : $b Southland Times, $c 1987-1993.
+300    $a v. : $b ill. (some col.), form, ports. (some col.) ; $c 42 cm.
+362 1  $a 1987 Apr.8-1993 Oct.13
+500    $a "Your free community newspaper."
+500    $a Includes advertising.
+500    $a Description based on: Vol. 3, no. 24 (Wednesday Sept. 27 [1989]); title from masthead.
+651  0 $a Southland (N.Z.) $v Periodicals.
+655  7 $a New Zealand newspapers. $2 local $5 Nz
+785 00 $t Mirror (Central Otago ed.)
+785 00 $t Mirror (Queenstown-Lakes ed.)

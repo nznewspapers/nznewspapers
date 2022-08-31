@@ -1,0 +1,21 @@
+00709cas a22002651a 4500
+001 999335873502836
+003 Nz
+005 20161223153245.0
+008 040115d18921898nz  r ne      0   0 eng  
+035    $a (NLNZils)933587
+035    $a (Nz)8187813
+035    $a (NLNZils)933587-ilsdb
+035    $a (OCoLC)173423879
+040    $a NZNB $c NZNB
+042    $a nznb
+043    $a u-nz---
+245 00 $a Westport times and evening star.
+260    $a [Westport, N.Z. : $b s.n., $c 1892-1898?]
+310    $a Daily
+362 0  $a 1892 Mar.21?-1898?
+651  0 $a Westport (N.Z.) $v Newspapers.
+655  7 $a New Zealand newspapers. $2 local $5 Nz
+780 04 $t Westport times
+780 04 $t Westport star
+785 00 $t Westport times & star

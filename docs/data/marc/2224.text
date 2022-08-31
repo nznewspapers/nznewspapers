@@ -1,0 +1,23 @@
+00807cas a22002891a 4500
+001 999287843502836
+003 Nz
+005 20181112115600.0
+008 031223d19091938nz  r ne      0   0 eng d
+035    $a (NLNZils)928784
+035    $a (Nz)8142288
+035    $a (NLNZils)928784-ilsdb
+035    $a (OCoLC)173421295
+040    $a WN $c WN
+042    $a nznb
+043    $a u-nz---
+245 00 $a Golden Bay times.
+260    $a [Takaka, N.Z. : $b s.n., $c 1909?-1938]
+310    $a Weekly
+362 1  $a Began in 1909? Ceased with July 21, 1938
+580    $a Merged with Motueka star to form Star-times.
+651  0 $a Tasman District (N.Z.) $v Newspapers.
+655  7 $a New Zealand newspapers. $2 local $5 Nz
+780 00 $t Golden Bay news
+780 05 $t Golden Bay argus $g 1915
+785 17 $t Motueka star
+785 17 $t Star-times

@@ -1,0 +1,26 @@
+01039cas a2200325 a 4500
+001 999299403502836
+003 Nz
+005 20210401181302.0
+008 970902d19941997nz wr n       0   a0eng  
+035    $a (nzNZBN)10464658
+035    $a zbn97080921
+035    $a (NLNZils)929940
+035    $a (Nz)4798193
+035    $a (NLNZils)929940-ilsdb
+035    $a (OCoLC)173349860
+040    $a NZNB $c NZNB
+042    $a nznb
+043    $a u-nz---
+082 04 $a 079.937505 $2 21
+130 0  $a Marlborough times (Nelson, N.Z. : 1994)
+245 10 $a Marlborough times : $b incorporating the Picton paper.
+260    $a Nelson [N.Z.] : $b Nelson Evening Mail, $c 1994-1997.
+300    $a v. : $b ill., ports. (some col.) ; $c 40 cm.
+310    $a Weekly
+362 1  $a Began with 2 Nov. 1994; ceased with 13 Aug. 1997.
+500    $a Community newspaper.
+500    $a Description based on: Apr. 24 1996; title from caption.
+651  0 $a Nelson-Marlborough (N.Z.) $v Periodicals.
+655  7 $a New Zealand newspapers. $2 local $5 Nz
+780 00 $t Picton paper $x 1170-1641

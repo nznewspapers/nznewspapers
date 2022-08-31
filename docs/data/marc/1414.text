@@ -1,0 +1,32 @@
+01448cas a2200397 a 4500
+001 994773573502836
+003 Nz
+005 20210401184709.0
+008 160813d19891991nz wrzne n    0   a0chi  
+022 0  $a 0114-538X $2 _g
+035    $a (nzNZBN)4568729
+035    $a zbn89055958
+035    $z 288741
+035    $a (Nz)3489453
+035    $a (NLNZils)477357
+035    $a (NLNZils)477357-ilsdb
+035    $a (OCoLC)173332842
+040    $a NZNB $c NZNB
+042    $a nznb
+043    $a u-nz---
+082 04 $a 305.895109305 $a 079.93 $2 20
+222  0 $a Sing Tao weekly New Zealand
+245 00 $a Sing Tao weekly : $b New Zealand = Hsing Tao chou pao.
+246 31 $a Hsing Tao chou pao
+260    $a Auckland, N.Z. : $b Sing Tao Newspapers (New Zealand), $c 1989-1991.
+300    $a 3 v. : $b ill. (some col.) ; $c 39 cm.
+362 0  $a Vol. 1, no. 001 (Feb.  2, 1989)-v. 3, no. 37 (Oct. 17, 1991)
+500    $a Text in English and Chinese, with Chinese text on inverted pages.
+500    $a Title from caption.
+500    $a Available from Sing Tao Newspapers (New Zealand), 6 Cawley Str., Ellerslie, Auckland, N.Z.
+515    $a Issue for May 11, 1989 erroneously numbered v. 1, no. 005, but constitutes v. 1, no. 015.
+650  0 $a Chinese $z New Zealand $v Newspapers.
+655  7 $a New Zealand newspapers. $2 local $5 Nz
+655  7 $a Chinese newspapers. $2 local $5 Nz
+710 2  $a Sing Tao Newspapers (New Zealand)
+785 00 $a Sing Tao daily (New Zealand edition)

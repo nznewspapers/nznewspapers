@@ -1,0 +1,36 @@
+01799cas a2200445 a 4500
+001 9913551083502836
+003 Nz
+005 20160921091042.0
+006 m        d        
+007 cr mn |||a||||
+008 091013c19979999nz mr|n s     0   a0eng  
+022 0  $a 1179-4895 $y 1178-721X $2 _g
+035    $a (Nz)13100181
+035    $a (NLNZils)1355108
+035    $a (NLNZils)1355108-ilsdb
+035    $a (OCoLC)462094915
+040    $a NZNB $c NZNB
+042    $a nznb
+043    $a u-nz---
+082 04 $a 079.9332305 $2 22
+130 0  $a Coromandel town chronicle (Online)
+210 1  $a Coromandel town chron. $b (Online)
+222  0 $a Coromandel town chronicle $b (Online)
+245 10 $a Coromandel town chronicle $h [electronic resource].
+260    $a Coromandel [N.Z.] : $b Jude Pub. on behalf of CBA-Completely Coromandel
+300    $a electronic documents : $b ill., PDF files.
+310    $a Monthly
+362 1  $a Print began with v. 1, issue 1 (1997)
+500    $a Archived by the National Library of New Zealand.
+500    $a Hypertext links contained in the archived instances of this title are non-functional. $5 Nz
+500    $a Community newspaper.
+520    $a Monthly community newspaper for Coromandel. Latest issue available in full-text.
+538    $a Mode of access: World Wide Web.
+588    $a Description based on: Vol. 13, issue 10 (Oct. 2009); title from PDF cover (viewed on Oct. 20, 2009).
+588    $a Latest issue consulted: Vol. 18, issue 8 (Aug. 2014) (viewed on September 8, 2014).
+651  0 $a Coromandel (N.Z.) $v Newspapers.
+655  7 $a New Zealand newspapers. $2 local $5 Nz
+710 2  $a Coromandel Business Association.
+776 0  $i Print version: $t Coromandel town chronicle $x 1178-721X
+856 40 $u http://www.coromandeltownchronicle.co.nz/ $z Coromandel Town Chronicle

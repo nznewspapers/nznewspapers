@@ -1,0 +1,33 @@
+01395cas a2200409 a 4500
+001 999096993502836
+003 Nz
+005 20190201155359.0
+008 030925d20032008nz wr ne |    0   a0eng  
+035    $a (NLNZils)909699
+035    $a (Nz)7974163
+035    $a (NLNZils)909699-ilsdb
+035    $a (OCoLC)946531253
+040    $a NZNB $c AP $d NZNB
+042    $a nznb
+043    $a u-nz---
+082 04 $a 079.932 $2 21
+130 0  $a Aucklander (East ed.)
+245 04 $a The Aucklander : $b the New Zealand herald community publication.
+246 1  $i Also known as: $a East Aucklander
+250    $a East ed.
+260    $a [Auckland, N.Z. : $b New Zealand Herald Community Publications], $c 2003-2008
+300    $a v. : $b col. ill. ; $c 38 cm.
+310    $a Weekly
+362 1  $a Began with Sept. 17, 2003; ceased with July 9, 2008.
+500    $a Community newspaper.
+500    $a Title from cover.
+500    $a Final issue consulted.
+580    $a Merged with: Aucklander (City ed.), Aucklander (Tamaki), and Aucklander (Central ed.) to form: The Aucklander City.
+650  0 $a Community newspapers $z New Zealand $z Auckland.
+651  0 $a Auckland (N.Z.) $v Newspapers.
+651  0 $a Manukau (N.Z.) $v Newspapers.
+655  7 $a New Zealand newspapers. $2 local $5 Nz
+785 07 $t Aucklander (City ed.)
+785 07 $t Aucklander (Central ed.)
+785 07 $t Aucklander (Tamaki)
+785 07 $t The Aucklander city

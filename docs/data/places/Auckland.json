@@ -1,8 +1,8 @@
 {
   "stats": {
     "placename": "Auckland",
-    "count": 201,
-    "decades": 19
+    "count": 225,
+    "decades": 20
   },
   "papers": [
     {
@@ -86,6 +86,24 @@
       "finalYear": "1860"
     },
     {
+      "id": "3113",
+      "title": "Auckland Telegraph",
+      "firstYear": "1859",
+      "finalYear": "uuuu"
+    },
+    {
+      "id": "3107",
+      "title": "Auckland Morning Post And Provincial Advocate",
+      "firstYear": "1860",
+      "finalYear": "uuuu"
+    },
+    {
+      "id": "3103",
+      "title": "Aucklander",
+      "firstYear": "1861",
+      "finalYear": "1863"
+    },
+    {
       "id": "1292",
       "title": "The Daily Southern Cross",
       "firstYear": "1862",
@@ -119,6 +137,24 @@
       "finalYear": "1877"
     },
     {
+      "id": "3102",
+      "title": "Auckland Weekly News And Farmers' Gazette",
+      "firstYear": "1863",
+      "finalYear": "1863"
+    },
+    {
+      "id": "3111",
+      "title": "Auckland Evening Post",
+      "firstYear": "1864",
+      "finalYear": "uuuu"
+    },
+    {
+      "id": "3075",
+      "title": "Auckland Weekly Argus",
+      "firstYear": "1865",
+      "finalYear": "1866"
+    },
+    {
       "id": "1296",
       "title": "Weekly Herald",
       "firstYear": "1866",
@@ -135,6 +171,24 @@
       "title": "Evening News",
       "firstYear": "1867",
       "finalYear": "1871"
+    },
+    {
+      "id": "3100",
+      "title": "Auckland Free Press",
+      "firstYear": "1868",
+      "finalYear": "19uu"
+    },
+    {
+      "id": "3082",
+      "title": "Auckland And Thames Leader",
+      "firstYear": "1869",
+      "finalYear": "1870"
+    },
+    {
+      "id": "3106",
+      "title": "Auckland Daily News",
+      "firstYear": "1869",
+      "finalYear": "    "
     },
     {
       "id": "1298",
@@ -190,6 +244,12 @@
       "title": "New Zealand Lantern",
       "firstYear": "1879",
       "finalYear": "uuuu"
+    },
+    {
+      "id": "3099",
+      "title": "Auckland Evening Star",
+      "firstYear": "1879",
+      "finalYear": "1887"
     },
     {
       "id": "1307",
@@ -299,6 +359,12 @@
       "finalYear": "uuuu"
     },
     {
+      "id": "3110",
+      "title": "Auckland City And Suburban Advertiser",
+      "firstYear": "1898",
+      "finalYear": "uuuu"
+    },
+    {
       "id": "1324",
       "title": "Bratska Sloga",
       "firstYear": "1899",
@@ -311,16 +377,34 @@
       "finalYear": "1910"
     },
     {
+      "id": "3081",
+      "title": "Auckland Advocate",
+      "firstYear": "1905",
+      "finalYear": "9999"
+    },
+    {
       "id": "1326",
       "title": "Napredak (progress)",
       "firstYear": "1906",
       "finalYear": "1909"
     },
     {
+      "id": "3108",
+      "title": "Auckland Argus",
+      "firstYear": "1907",
+      "finalYear": "uuuu"
+    },
+    {
       "id": "1327",
       "title": "Weekly Graphic and New Zealand Mail",
       "firstYear": "1908",
       "finalYear": "1913"
+    },
+    {
+      "id": "3109",
+      "title": "Auckland Argus",
+      "firstYear": "1908",
+      "finalYear": "uuuu"
     },
     {
       "id": "1328",
@@ -690,6 +774,24 @@
       "finalYear": "uuuu"
     },
     {
+      "id": "3112",
+      "title": "Auckland Life",
+      "firstYear": "1967",
+      "finalYear": "    "
+    },
+    {
+      "id": "3146",
+      "title": "The Gazette",
+      "firstYear": "1967",
+      "finalYear": "1970"
+    },
+    {
+      "id": "3140",
+      "title": "Pacific Islands Trade News",
+      "firstYear": "1969",
+      "finalYear": "1974"
+    },
+    {
       "id": "1389",
       "title": "Tamaki Times (196-?)",
       "firstYear": "196u",
@@ -831,6 +933,12 @@
       "finalYear": "1993"
     },
     {
+      "id": "3101",
+      "title": "Auckland Sun",
+      "firstYear": "1987",
+      "finalYear": "1988"
+    },
+    {
       "id": "1411",
       "title": "New Truth & TV Extra",
       "firstYear": "1988",
@@ -867,6 +975,18 @@
       "finalYear": "1990"
     },
     {
+      "id": "3131",
+      "title": "Newslink",
+      "firstYear": "1990",
+      "finalYear": "2018"
+    },
+    {
+      "id": "3050",
+      "title": "Sing Tao Daily",
+      "firstYear": "1991",
+      "finalYear": "2000"
+    },
+    {
       "id": "1416",
       "title": "Independent (Auckland)",
       "firstYear": "1992",
@@ -887,6 +1007,12 @@
     {
       "id": "1419",
       "title": "East & Bays Courier",
+      "firstYear": "1993",
+      "finalYear": "9999"
+    },
+    {
+      "id": "3105",
+      "title": "Pohutukawa Coast Times",
       "firstYear": "1993",
       "finalYear": "9999"
     },
@@ -920,6 +1046,12 @@
       "firstYear": "1994",
       "finalYear": "9999",
       "urlCurrent": "http://www.sundaystartimes.co.nz/"
+    },
+    {
+      "id": "3094",
+      "title": "Central Hawke's Bay Mail",
+      "firstYear": "1994",
+      "finalYear": "9999"
     },
     {
       "id": "1425",
@@ -999,6 +1131,12 @@
       "title": "Karere Maori News",
       "firstYear": "1999",
       "finalYear": "2002"
+    },
+    {
+      "id": "3055",
+      "title": "West Weekly",
+      "firstYear": "1999",
+      "finalYear": "9999"
     },
     {
       "id": "1436",
@@ -1237,6 +1375,12 @@
       "title": "The United Press",
       "firstYear": "2010",
       "finalYear": "2011"
+    },
+    {
+      "id": "3057",
+      "title": "Eight (8) O'clock",
+      "firstYear": "uuuu",
+      "finalYear": "1985"
     }
   ]
 }

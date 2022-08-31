@@ -1,0 +1,32 @@
+01222cas a2200397 a 4500
+001 998266813502836
+003 Nz
+005 20161223151904.0
+008 030227d20032009nz er|ne |    0   e0chi  
+022 0  $a 1176-1539 $2 _g
+035    $a (Nz)7583481
+035    $a (NLNZils)826681
+035    $a (NLNZils)826681-ilsdb
+035    $a (OCoLC)173411051
+040    $a NZNB $c NZNB
+041 0  $a chi $a eng
+042    $a nznb
+043    $a u-nz---
+082 04 $a 305.895109305 $2 21
+130 0  $a Jing bao (Christchurch, N.Z.)
+210 0  $a Jing bao $b (Christch.)
+222  0 $a Jing bao $b (Christchurch)
+245 00 $a Jing bao = $b New Zealand mirror.
+246 13 $a Xinxilan jing bao
+246 31 $a New Zealand mirror
+260    $a Christchurch, N.Z. : $b New Zealand Mirror, $c [2003-2009]
+300    $a v. : $b ill. (some col.) ; $c 43 cm.
+310    $a Biweekly
+362 0  $a 9 (21/2/2003)-31/9/2009.
+500    $a Title from caption.
+515    $a Continues numbering of previous title.
+546    $a Title in Chinese; text in Chinese with some headings in English.
+650  0 $a Chinese $z New Zealand $v Newspapers.
+655  7 $a New Zealand newspapers. $2 local $5 Nz
+655  7 $a Chinese newspapers. $2 local $5 Nz
+780 00 $t Jin ri Xin Hua

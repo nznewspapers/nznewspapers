@@ -1,0 +1,26 @@
+00939cas a2200325 a 4500
+001 999256283502836
+003 Nz
+005 20161223153709.0
+008 031215d20012001nz wr ne      0   a0eng d
+035    $a (NLNZils)925628
+035    $a (Nz)8128209
+035    $a (NLNZils)925628-ilsdb
+035    $a (OCoLC)173420311
+040    $a WN $c WN
+042    $a nznb
+043    $a u-nz---
+082 04 $a 079.9359 $2 22
+245 00 $a Horowhenua news.
+246 17 $a Horowhenua weekly news
+246 17 $a Horowhenua Kapiti weekly news
+260    $a [Levin, N.Z. : $b Wilson & Horton, $c 2001]
+300    $a v. : $b ill. ; $c 40 cm.
+310    $a Weekly
+362 0  $a Jan. 17, 2001-Dec. 19, 2001.
+500    $a Title from caption.
+651  0 $a Horowhenua District (N.Z.) $v Newspapers.
+651  0 $a Kapiti Coast District (N.Z.) $v Newspapers.
+655  7 $a New Zealand newspapers. $2 local $5 Nz
+780 00 $t Kapiti-Horowhenua news
+785 00 $t Horowhenua & Kapiti news

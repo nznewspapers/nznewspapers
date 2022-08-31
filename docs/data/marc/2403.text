@@ -1,0 +1,30 @@
+01296cas a2200373 a 4500
+001 9911099023502836
+003 Nz
+005 20161223160000.0
+008 050315d20032011nz er ne |    0   a0eng  
+035    $a (NLNZils)1109902
+035    $a (Nz)8920364
+035    $a (NLNZils)1109902-ilsdb
+035    $a (OCoLC)173440382
+040    $a NZNB $c CU $d NZNB
+042    $a nznb
+043    $a u-nz---
+082 04 $a 079.9383 $2 22
+130 0  $a Nor'west news (Christchurch, N.Z.)
+245 10 $a Nor'west news.
+246 3  $a Norwest news
+260    $a [Christchurch, N.Z. : $b Nor' West News, $c -2011]
+300    $a v. : $b ill. (chiefly col.) ; $c 40 cm.
+310    $a Fortnightly
+362 1  $a Began with 2 July 2003; ceased with Feb. 16, 2011.
+500    $a "Featuring news and local events from Merivale, Fendalton, Riccarton, Papanui, Avonhead, Bishopdale & Northwood."
+500    $a Community newspaper.
+580    $a Merged with: Southern view; and Pegasus Bay News; to form: Mainland press.
+588    $a Description based on: 19 May 2004; title from masthead.
+588    $a Latest issue consulted: Feb. 16, 2011
+651  0 $a Christchurch Region (N.Z.) $v Newspapers.
+655  7 $a New Zealand newspapers. $2 local $5 Nz
+785 07 $t Pegasus Bay news
+785 07 $t Southern view
+785 07 $t Mainland press

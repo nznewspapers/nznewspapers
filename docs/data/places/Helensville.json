@@ -1,7 +1,7 @@
 {
   "stats": {
     "placename": "Helensville",
-    "count": 6,
+    "count": 7,
     "decades": 5
   },
   "papers": [
@@ -11,6 +11,12 @@
       "firstYear": "1905",
       "finalYear": "1914",
       "urlDigitized": "https://paperspast.natlib.govt.nz/newspapers/kaipara-and-waitemata-echo"
+    },
+    {
+      "id": "3070",
+      "title": "Kaipara Advertiser And Waitemata Chronicle",
+      "firstYear": "1905",
+      "finalYear": "1914"
     },
     {
       "id": "1089",

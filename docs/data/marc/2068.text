@@ -1,0 +1,31 @@
+01648cas a2200385 a 4500
+001 999305653502836
+003 Nz
+005 20210401181255.0
+008 920310d18391840nz wr ne |    0   a0eng  
+035    $a (nzNZBN)7087520
+035    $a (NLNZils)930565
+035    $a abn90173026
+035    $a (Nz)4692627
+035    $a (NLNZils)930565-ilsdb
+035    $a (OCoLC)173347112
+040    $a NZNB $c ABN $d NZNB
+042    $a nznb
+043    $a u-nz---
+082 04 $a 079.93 $2 22
+130 0  $a New Zealand gazette (Port Nicholson, N.Z.)
+245 14 $a The New Zealand gazette.
+260    $a Port Nicholson, N.Z. : $b New Zealand Gazette, $c [1839-1840]
+300    $a 1 v. ; $c 43 cm.
+310    $a Weekly
+362 0  $a [Vol. 1], no. 1 (Aug. 21, 1839) ; [new ser.], [v. 1], no. 1 (Sept. 6, 1839)-v. 1, no. 19 (Aug. 15, 1840)
+500    $a Title from masthead.
+515    $a Vol. numbering added from v. 1, no. 2 (Apr. 18, 1840); [new ser.], [v. 1], no. 1 (Sept. 6, 1839) also called 2nd ed.
+515    $a [Vol. 1], no. 1 (Aug. 21, 1839) and [new ser.], [v. 1], no. 1 (Sept. 6, 1839) published as specimen issues, in London.  Not published Sept. 13, 1839 to Apr. 11, 1840, with the next issue, v. 1, no. 2 (Apr. 18, 1840), published in Port Nicholson, following the establishment of the settlement.
+525    $a Supplements accompany some issues.
+550    $a Issued by: New Zealand Land Company.
+651  0 $a Wellington (N.Z.) $v Newspapers.
+655  7 $a New Zealand newspapers. $2 local $5 Nz
+710 2  $a New Zealand Company.
+776 08 $i Online version: $t New Zealand gazette $w (Nz)9914669883502836
+785 00 $t New Zealand gazette and Britannia spectator

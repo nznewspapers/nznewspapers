@@ -1,0 +1,30 @@
+01071cas a2200373 a 4500
+001 999285223502836
+003 Nz
+005 20210401181224.0
+008 930908d19931994nz wr|ne      0   a0eng  
+022 0  $a 1172-6547 $2 _g
+035    $a (nzNZBN)7948561
+035    $a (NLNZils)928522
+035    $a zbn93089378
+035    $a (Nz)4274905
+035    $a (NLNZils)928522-ilsdb
+035    $a (OCoLC)173341332
+040    $a NZNB $c NZNB
+042    $a nznb
+043    $a u-nz---
+082 04 $a 079.9333 $2 20
+130 0  $a Expressions (Huntly, N.Z.)
+210 1  $a Expressions $b (Huntly)
+222  0 $a Expressions $b (Huntly)
+245 10 $a Expressions : $c the Huntly & districts press.
+246 37 $a Huntly Press expressions
+260    $a Huntly [N.Z.] : $b Waikato Community Newspapers, $c [1993-1994]
+300    $a v. : $b ill., ports. ; $c 42 cm.
+310    $a Weekly
+362 0  $a 1993 Jul.9-1994 Apr.29
+500    $a Community newspaper.
+500    $a Title from caption.
+651  0 $a Huntly (N.Z.)
+655  7 $a New Zealand newspapers. $2 local $5 Nz
+787 0  $t Huntly press $x 1170-0556

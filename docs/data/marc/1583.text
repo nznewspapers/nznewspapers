@@ -1,0 +1,31 @@
+01322cas a2200385 a 4500
+001 999331243502836
+003 Nz
+005 20210401181139.0
+008 900601d19771992nz wr|ne      0   a0eng  
+022 0  $a 1170-1412 $y 0117-1412 $2 _g
+035    $a (nzNZBN)5435651
+035    $a zbn90036665
+035    $a (NLNZils)933124
+035    $a (Nz)3827814
+035    $a (NLNZils)933124-ilsdb
+035    $a (OCoLC)173336308
+040    $a NZNB $c NZNB
+042    $a nznb
+043    $a u-nz---
+082 04 $a 079.9315 $2 20NZ
+210 1  $a Waikato weekend. mag.
+222  0 $a Waikato weekender magazine
+245 00 $a Waikato weekender magazine.
+246 30 $a Weekender
+260    $a Hamilton [N.Z.] : $b [Waikato Weekender Magazine?, $c 1977-1992]
+300    $a ? v. : $b ill., form, maps, ports. ; $c 43 cm.
+362 1  $a Began June 25, 1977. $z Cf. Harvey, D. R. Union list of newspapers ... in New Zealand.
+362 1  $a Ceased Sept. 26, 1992.
+500    $a Community newspaper.
+500    $a Includes advertising.
+500    $a Description based on: v. 15, no. 36 (Friday, Sept. 22, 1989) ; title from masthead.
+530    $a Available on microfilm from Microfilm Production Unit, National Library of New Zealand.
+651  0 $a Waikato (N.Z.) $v Periodicals.
+655  7 $a New Zealand newspapers. $2 local $5 Nz
+780 00 $t Country weekender

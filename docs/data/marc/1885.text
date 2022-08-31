@@ -1,0 +1,45 @@
+02224cas a2200553 a 4500
+001 996673113502836
+003 Nz
+005 20200903160601.0
+008 891222d18981900nz  x n       0   a0mao  
+035    $a (nzNZBN)5250444
+035    $a (Nz)4916709
+035    $a zbn89093847
+035    $a (NLNZils)667311
+035    $a (NLNZils)667311-ilsdb
+035    $a (OCoLC)173354585
+040    $a NZNB $c NZNB
+041 0  $a eng $a mao
+042    $a nznb
+043    $a u-nz---
+082 04 $a 079.93 $2 20
+245 03 $a The jubilee = $b Te tiupiri : Maori newspaper.
+246 31 $a Tiupiri
+246 1  $i Supplement entitled: $a Kupu whaka uru mote pepa
+260    $a Whanganui [N.Z.] : $b He mea perehi na Teoni D. Kuini, ki tona tari ta pepa i Ritiwe Tiriti o Whanganui, Niu Tireni = Printed by John D. Quin, at his registered printing works, $c [1898-1900]
+300    $a 3 v. : $b ill., $c 25-28 cm.
+310    $a Irregular, $b Maehe 8, 1900-
+321    $a Fortnightly, $b Oketopa 6, 1898-Pepuere 15, 1900
+321    $a Weekly, $b Jan. 4, 1898-Hepetema 27, 1898
+362 0  $a Vol. 1, no. 1 (Jan. 4, 1898)-
+362 1  $a Ceased with v. 3, no. 80 (Hurae 19, 1900)?
+500    $a Title from cover.
+500    $a Subtitle varies.
+500    $a Editors: H.T. Whatahoro and Wi Hipango; v. 1, no. 1-v. 1, no. 39 printed by J.D. Quin, v. 1, no. 40- printed by Vine and Vine and published by Waata Wiremu Hipango under the authority of the General Maori Committee of Wanganui.
+500    $a Includes advertising.
+510 4  $a Williams, $c 975
+510 4  $a Books in Māori, $c S40
+515    $a Issue numbering is continuous; some issues misnumbered.
+520    $a "The Jubilee, a weekly/fortnightly newspaper published in Wanganui"--BIM.
+525    $a Vol. 2, no. 67 has supplement.
+546    $a Text chiefly in Māori with some English.
+650  0 $a Maori (New Zealand people) $v Newspapers.
+655  7 $a Maori newspapers. $2 local $5 Nz
+655  7 $a New Zealand newspapers. $2 local $5 Nz
+700 1  $a Whatahoro, H. T.
+700 1  $a Hipango, Wi.
+700 1  $a Quin, John D. $e printer.
+710 2  $a Vine and Vine. $e printer.
+710 2  $a General Maori Committee of Wanganui.
+776 08 $i Online version: $t Jubilee $w (Nz)9916611563502836

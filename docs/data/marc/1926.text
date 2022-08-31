@@ -1,0 +1,28 @@
+01121cas a2200349 a 4500
+001 9914046143502836
+003 Nz
+005 20220401153555.0
+008 100923c20109999nz wr|ne      0   a0eng  
+035    $a (NLNZils)1404614
+035    $a (Nz)13465800
+035    $a (NLNZils)1404614-ilsdb
+035    $a (OCoLC)667616362
+040    $a NZNB $c NZNB
+042    $a nznb
+043    $a u-nz---
+082 04 $a 079.935 $2 22
+245 00 $a Manawatu guardian.
+246 17 $a Guardian
+260    $3 2010- : $a [Palmerston North, N.Z. : $b Manawatu Guardian], $c 2010-
+260 3  $3 <2022-> : $a [Auckland, N.Z.?] : $b NZME
+300    $a v. : $b ill. ; $c 40 cm.
+310    $a Weekly
+362 1  $a Began with Sept. 16, 2010.
+500    $a Community newspaper.
+500    $a Description based on: Sept. 16, 2010.
+500    $a Latest issue consulted: March 3, 2022.
+525    $a Some issues have supplement: Guardian country.
+651  0 $a Manawatu (N.Z.) $v Periodicals.
+655  7 $a New Zealand newspapers. $2 local $5 Nz
+776 08 $i Online version: $t Manawatu guardian $w (Nz)9916677343502836
+780 00 $t Guardian (Palmerston North, N.Z.) $x 1170-0475

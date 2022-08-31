@@ -1,0 +1,35 @@
+01509cas a2200433 a 4500
+001 9911456273502836
+003 Nz
+005 20170905165638.0
+008 050725d20052017nz sr|ne |    0   e0chi  
+022 0  $a 1177-0325 $y 1177-032 $2 _g
+035    $a (Nz)10169237
+035    $a (NLNZils)1145627
+035    $a (NLNZils)1145627-ilsdb
+035    $a (OCoLC)173320957
+040    $a NZNB $c NZNB
+041 0  $a chi $a eng
+042    $a nznb
+043    $a u-nz--- $a a-cc---
+082 04 $a 305.895109305 $2 22
+210 1  $a Tai yang bao $b (Christch.)
+222  0 $a Tai yang bao $b (Christchurch)
+245 00 $a Tai yang bao = $b The Sun bilingual newspaper.
+246 11 $a Sun bilingual newspaper
+246 17 $a Sun newspaper
+246 1  $a Sun paper $f 16 Mar. 2012-
+246 3  $a Sun billingual newspaper $f 14 July 2005
+246 3  $a Sun news $f 2 Mar. 2012
+260    $a Christchurch, N.Z. : $b The Sun
+300    $a v. : $b ill. (some col.), ports. (some col.) ; $c 43 cm.
+310    $a Semimonthly, $b 13 May 2011-
+321    $a Weekly, $b June 2005-29 Apr. 2011
+362 1  $a Began in June 2005; ceased with issue 431 (April 2017).
+500    $a Parallel title varies.
+500    $a Description based on: Issue 06 (14 July, 2005); title from caption.
+546    $a Text in Chinese with some headings and articles in English.
+588    $a Latest issue consulted: Issue 321 (26 Oct. 2012).
+650  0 $a Chinese $z New Zealand $v Newspapers.
+655  7 $a New Zealand newspapers. $2 local $5 Nz
+655  7 $a Chinese newspapers. $2 local $5 Nz

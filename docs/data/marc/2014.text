@@ -1,0 +1,35 @@
+01530cas a2200433 a 4500
+001 999267563502836
+003 Nz
+005 20210401181340.0
+008 900126d19401992nz zrzne      0   a0eng  
+022 0  $a 1170-0963 $y 0117-0963
+035    $a (nzNZBN)5278362
+035    $a (NLNZils)926756
+035    $a zbn90004826
+035    $a (Nz)3604371
+035    $a (NLNZils)926756-ilsdb
+035    $a (OCoLC)173334222
+040    $a NZNB $c NZNB
+042    $a nznb
+043    $a u-nz---
+082 04 $a 079.9343 $2 20NZ
+222  0 $a Wairarapa news
+245 00 $a Wairarapa news.
+260    $a [Carterton, N.Z. : $b Wairarapa News, $c 1940-1992]
+300    $a ? v. : $b ill., forms, maps, ports. ; $c 41 cm.
+310    $a Weekly $b July? 1940-
+321    $a Daily
+362 1  $a Ceased with 30 June 1992.
+362 1  $a Began with July 1940? $z Cf. Harvey, D. R. Union list of newspapers ... in New Zealand.
+500    $a Community newspaper.
+500    $a 1940 issues include two columns with title Featherston chronicle
+500    $a Includes Valley farmer.
+500    $a Description based on: Tuesday Aug. 29, 1989; title from masthead.
+500    $a Available from Wairarapa News, PO Box 18, Carterton, N.Z.
+530    $a Also available on microfilm from Microfilm Production Unit, National Library of New Zealand.
+651  0 $a Wairarapa (N.Z.)
+655  7 $a New Zealand newspapers. $2 local $5 Nz
+780 00 $t Wairarapa daily news
+785 07 $t Chronicle (Featherston, N.Z.) $x 1170-0165
+785 07 $t Wairarapa news & the chronicle $x 1171-9028

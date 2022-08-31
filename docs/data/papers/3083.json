@@ -1,0 +1,18 @@
+{
+  "id": 3083,
+  "title": "The Mangakino Chronicle",
+  "genre": "Newspaper",
+  "firstYear": "1948",
+  "finalYear": "1973",
+  "district": "Hamilton City",
+  "frequency": "Weekly",
+  "idMarcControlNumber": "8164690",
+  "isCurrent": false,
+  "placecode": "03-05",
+  "placename": "Mangakino",
+  "region": "Waikato",
+  "sources": {
+    "2022-08-31T04:35:33.877Z": "Extracted from the New Zealand National Bibliography (MARC record 8164690) downloaded June 2022."
+  },
+  "revision": 1
+}

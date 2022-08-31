@@ -1,0 +1,25 @@
+01049cas a2200313 a 4500
+001 999309363502836
+003 Nz
+005 20211124172425.0
+008 040109d19181928nz wrzne      0   a0eng  
+035    $a (NLNZils)930936
+035    $a (Nz)8176671
+035    $a (NLNZils)930936-ilsdb
+035    $a (OCoLC)173422342
+040    $a WN $c WN
+042    $a nznb
+043    $a u-nz---
+130 0  $a Northland age (1918)
+245 10 $a Northland age.
+260    $a Kaitaia [N.Z.] : $b printed and published for the proprietors, the Mangonui Newspaper Company Limited, by Frederick Blackwell Rowe, $c 1918-[1928]
+300    $a v. ; $c 37 cm.
+310    $a Weekly $b July 1928
+321    $a Biweekly $b July 1927-June 1928
+321    $a Weekly $b -June 1927
+362 1  $a Began with vol. 15, no. 21 (Jan. 31st, 1918); ceased with Nov. 21 1928?
+651  0 $a Kaitaia (N.Z.) $v Newspapers.
+655  7 $a New Zealand newspapers. $2 local $5 Nz
+776 08 $i Online version: $t Northland age $w (Nz)9918878967202836
+780 00 $t North Auckland age
+785 00 $t Guardian (Kaitaia, N.Z.)

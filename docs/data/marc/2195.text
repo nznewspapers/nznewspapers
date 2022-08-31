@@ -1,0 +1,27 @@
+01005cas a2200337 a 4500
+001 994932403502836
+003 Nz
+005 20210401185152.0
+008 160813d19901991nz wrzne      0   a0eng  
+022 0  $a 1170-0785 $y 0117-0785
+035    $a (nzNZBN)5397011
+035    $a (NLNZils)493240
+035    $a zbn90081757
+035    $z 305730
+035    $a (Nz)3651915
+035    $a (NLNZils)493240-ilsdb
+035    $a (OCoLC)173334762
+040    $a NZNB $c NZNB
+042    $a nznb
+043    $a u-nz---
+082 04 $a 079.934105 $2 20NZ
+222  0 $a Contact weekender
+245 00 $a Contact weekender.
+260    $a Wellington [N.Z.] : $b Wellington Newspapers, $c [1990-1991]
+300    $a ? v. : $b ill., form, maps, ports. ; $c 39 cm.
+362 0  $a 6 April 1990-Sept. 12 1991.
+500    $a Title from masthead.
+651  0 $a Wellington (N.Z. : Region)
+655  7 $a New Zealand newspapers. $2 local $5 Nz
+780 00 $t Contact (Wellington, N.Z. : 1969) $x 1170-0211
+785 00 $t Contact (Wellington, N.Z. : 1991) $x 1171-0985

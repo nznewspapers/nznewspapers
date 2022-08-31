@@ -1,0 +1,33 @@
+01415cas a2200409 a 4500
+001 994836803502836
+003 Nz
+005 20210401185352.0
+008 160813d19702011nz wr|ne      0   a0eng  
+022 0  $a 1170-1374 $y 0117-1374 $2 _g
+035    $a (nzNZBN)5278367
+035    $a zbn90004861
+035    $z 295688
+035    $a (Nz)4751032
+035    $a (NLNZils)483680
+035    $a (NLNZils)483680-ilsdb
+035    $a (OCoLC)173348854
+040    $a NZNB $c NZNB
+042    $a nznb
+043    $a u-nz---
+082 04 $a 919.342005 $2 22
+222  0 $a Thermalair
+245 00 $a Thermalair.
+260    $a Rotorua, [N.Z.] : $b Rotorua Newspapers, $c -[2011]
+300    $a v. : $b ill. (some col.), maps (some col.), ports. ; $c 33-45 cm.
+310    $a Weekly
+362 1  $a Began with 1 (9 Oct. 1970); ceased with Mar. 25, 2011.
+500    $a Description based on: Vol. 6, no. 13 (Jan. 19, 1976); title from masthead.
+500    $a Latest issue consulted: Mar. 25, 2011.
+501    $a Issued with: 'Southern splendour', with title on inverted pages <1976>
+651  0 $a Rotorua District (N.Z.) $v Periodicals.
+651  0 $a Taupo District (N.Z.) $v Periodicals.
+651  0 $a Rotorua District (N.Z.) $x Description and travel $v Periodicals.
+651  0 $a Taupo District (N.Z.) $x Description and travel $v Periodicals.
+777 0  $t Southern splendour $g <1976>
+785 00 $t Rotorua visitors' guide
+787 0  $t Thermalair householder

@@ -1,0 +1,35 @@
+01247cas a2200433 a 4500
+001 993752703502836
+003 Nz
+005 20210811083814.0
+008 160814d19981999nz wrgn       0   a0eng  
+022 0  $a 1174-7285
+035    $a (nzNZBN)10995930
+035    $a (NLNZils)375270
+035    $a zbn98081279
+035    $z 638990
+035    $a (Nz)4899261
+035    $a (NLNZils)375270-ilsdb
+035    $a (OCoLC)173354178
+040    $a NZNB $c NZNB
+042    $a nznb
+043    $a u-nz---
+082 04 $a 079.93323 $a 079.93327 $2 21
+130 0  $a Thames Valley gazette (1998)
+210 0  $a Thames Val. gaz.
+222  0 $a Thames Valley gazette
+245 00 $a Thames Valley gazette.
+260    $a [Thames, N.Z.] : $b Thames Valley gazette, $c 1998-1999.
+300    $a v. : $b ill. ; $c 42 cm.
+310    $a Weekly
+362 0  $a 1st Sept. 1998-
+362 1  $a ceased with Apr. 28, 1999.
+500    $a Community newspaper.
+500    $a Title from caption.
+651  0 $a Thames (N.Z.) $v Periodicals.
+651  0 $a Paeroa (N.Z.) $v Periodicals.
+651  0 $a Te Aroha (N.Z.) $v Periodicals.
+651  0 $a Ngatea (N.Z.) $v Periodicals.
+655  7 $a New Zealand newspapers. $2 local $5 Nz
+780 04 $t Paeroa gazette $x 1170-1196
+780 04 $t Thames star $x 1170-1110

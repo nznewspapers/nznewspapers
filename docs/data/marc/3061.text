@@ -1,0 +1,26 @@
+01066cas a22003251a 4500
+001 999251223502836
+003 Nz
+005 20200716173531.0
+008 031213d18991948nz  r ne      0   a0eng  
+035    $a (NZDU)172699
+035    $a (NLNZils)925122
+035    $a (Nz)8123452
+035    $a (NLNZils)925122-ilsdb
+035    $a (OCoLC)935686131
+040    $a NZNB $c NZNB
+042    $a nznb
+043    $a u-nz---
+082 04 $a 079.9394 $2 23
+245 00 $a Alexandra herald $b and Central Otago gazette.
+260    $a Alexandra, N.Z. : $b William John Scott for the proprietor John Duncan Buchanan
+300    $a v. ; $c 52 cm
+310    $a Weekly
+362 1  $a Began with Jan. 2, 1899; ceased with May19 1948
+580    $a Merged with Lake County mail, and Dunstan times, to form Central Otago news.
+651  0 $a Central Otago District (N.Z.) $v Newspapers.
+655  7 $a New Zealand newspapers. $2 local $5 Nz
+776 08 $i Online version: $t Alexandra herald $w (Nz)9916882953502836
+785 17 $t Lake County mail
+785 17 $t Dunstan times
+785 07 $t Central Otago news $x 1170-0149

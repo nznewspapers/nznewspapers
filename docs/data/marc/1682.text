@@ -1,0 +1,30 @@
+01129cas a2200373 a 4500
+001 999262663502836
+003 Nz
+005 20180904151100.0
+008 031217d19842018nz wr|ne      0   a0eng  
+022 0  $a 1170-1560 $2 _g
+035    $a (NLNZils)926266
+035    $a (Nz)8130653
+035    $a (NLNZils)926266-ilsdb
+035    $a (OCoLC)946531394
+040    $a NZNB $c NZNB
+042    $a nznb
+043    $a u-nz---
+082 04 $a 079.93423 $2 21
+130 0  $a Rotorua review (1984)
+210 1  $a Rotorua rev. $b (1984)
+222  0 $a Rotorua review $b (1984)
+245 10 $a Rotorua review.
+260    $a [Rotorua, N.Z. : $b Rotorua Review, $c 1984-]
+260 2  $3 <2015-[2018]>- $a [Auckland, N.Z. : $b Fairfax Media]
+260 3  $3 <February 2018-> $a [Auckland, N.Z. : $b Stuff Limited]
+300    $a v. : $b ill. ; $c 41 cm.
+310    $a Weekly
+362 0  $a 1984 Oct.5-
+362 1  $a Ceased with May 30, 2018.
+500    $a Title from masthead.
+500    $a Nga huinga korero o Rotorua.
+651  0 $a Rotorua (N.Z.) $v Newspapers.
+655  7 $a New Zealand newspapers. $2 local $5 Nz
+776 08 $i Online version: $t Rotorua review $w (Nz)9917966553502836

@@ -1,0 +1,30 @@
+01186cas a2200373 a 4500
+001 994890133502836
+003 Nz
+005 20210401185132.0
+008 160813d19901998nz mr|ne      0   a0eng  
+022 0  $a 1170-0424 $y 0117-0424
+035    $a (nzNZBN)5349204
+035    $a zbn90044160
+035    $z 301327
+035    $a (Nz)3588306
+035    $a (NLNZils)489013
+035    $a (NLNZils)489013-ilsdb
+035    $a (OCoLC)173333979
+040    $a NZNB $c NZNB
+042    $a nznb
+043    $a u-nz---
+082 04 $a 079.9315 $2 20NZ
+222  0 $a Riversider $b (Hamilton)
+245 04 $a The Riversider : $b monthly community newspaper.
+260    $a Frankton [N.Z.] : $b Riverside Publishing, $c [1990]-
+300    $a v. : $b ill. (some col.), map, ports. (some col.) ; $c 43 cm.
+362 0  $a Vol. no. 1, no. 1 (Mar. 1990)-
+362 1  $a Ceased with no. 19 (1998)?
+500    $a Title from masthead.
+500    $a Includes advertising.
+500    $a Available from Riverside Publishing, P.O. Box 5538, Frankton, New Zealand.
+651  0 $a Hamilton (N.Z.) $x Periodicals.
+655  7 $a New Zealand newspapers. $2 local $5 Nz
+780 01 $t Eastsider (Hamilton, N.Z.)
+780 01 $t Westsider (Hamilton, N.Z.)

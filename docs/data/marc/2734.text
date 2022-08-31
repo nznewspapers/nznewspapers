@@ -1,0 +1,28 @@
+01048cas a2200349 a 4500
+001 997764213502836
+003 Nz
+005 20210401180727.0
+008 900202d191u191unz mn n       0   a0mao  
+035    $a (nzNZBN)5264565
+035    $a zbn90001481
+035    $a (Nz)3813917
+035    $a (NLNZils)776421
+035    $a (NLNZils)776421-ilsdb
+035    $a (OCoLC)173336127
+040    $a NZNB $c NZNB
+042    $a nznb
+043    $a u-nz---
+082 04 $a 079.93 $2 20
+245 03 $a Te Matakokiri.
+260    $a [Auckland, N.Z.] : $b Tamati Toka, $e (Auckland : $f D.J. Wright and A.H. Jaques)
+300    $a v. ; $c 28-39 cm.
+310    $a Monthly
+362 1  $a Began in 1912?, ceased 1915?
+500    $a Includes advertising.
+500    $a Description based on: No. 28 (July 31, 1913); title from masthead.
+650  0 $a Maori (New Zealand people) $v Newspapers.
+655  7 $a Maori newspapers. $2 local $5 Nz
+655  7 $a New Zealand newspapers. $2 local $5 Nz
+700 1  $a Toka, Tamati.
+780 00 $t Matakokiri taima (1911)
+785 00 $t Matakokiri taima (1917)

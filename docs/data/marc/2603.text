@@ -1,0 +1,23 @@
+00868cas a2200289 a 4500
+001 9917733593502836
+003 Nz
+005 20210401183122.0
+008 940808d18831uuunz wr ne      0   a0eng d
+035    $a (nzNZBN)8727172
+035    $a abn94192448
+035    $a (Nz)4716788
+035    $a (OCoLC)173347744
+035    $a (NLNZils)1773359-ilsdb
+040    $a ABN $d WN
+042    $a nznb
+043    $a u-nz---
+245 04 $a The Port Chalmers independent.
+260    $a Port Chalmers [N.Z.] : $b A.W. Johnson,
+300    $a v. ; $c 57 cm.
+362 0  $a 1883 Jun.1-?
+500    $a Description based on: No. 87 (Friday, Jan. 23, 1885)
+500    $a "With which is incorporated the Port Chalmers watch"
+651  0 $a Port Chalmers (Dunedin, N.Z.) $v Newspapers.
+655  7 $a New Zealand newspapers. $2 local $5 Nz
+752    $a New Zealand $d Port Chalmers.
+780 00 $t Port Chalmers watch

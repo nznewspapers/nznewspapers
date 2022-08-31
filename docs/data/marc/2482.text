@@ -1,0 +1,29 @@
+01268cas a2200361 a 4500
+001 999353773502836
+003 Nz
+005 20161223153402.0
+008 040122d20032008nz wr ne |    0   a0eng  
+035    $a (NLNZils)935377
+035    $a (Nz)8282002
+035    $a (NLNZils)935377-ilsdb
+035    $a (OCoLC)946531368
+040    $a NZNB $c NZNB
+042    $a nznb
+043    $a u-nz---
+082 04 $a 079.9383 $2 22
+130 0  $a Christchurch mail (Waimairi, Papanui, Riccarton, Fendalton)
+245 10 $a Christchurch mail.
+250    $a Waimairi, Papanui, Riccarton, Fendalton.
+260    $a Christchurch [N.Z.] : $b Christchurch Mail, $c 2003-[2008]
+300    $a v. : $b ill. ; $c 41 cm.
+310    $a Weekly
+362 1  $a Began with Oct. 8, 2003; ceased with July 2, 2008.
+500    $a Community newspaper.
+500    $a Description based on: Jan. 14, 2004; title from caption.
+500    $a Final issue consulted.
+580    $a Formed by the merger of: Northern mail (Christchurch, N.Z.) and: Western mail (Christchurch, N.Z.)
+651  0 $a Christchurch (N.Z.) $v Newspapers.
+655  7 $a New Zealand newspapers. $2 local $5 Nz
+780 04 $t Northern mail (Christchurch, N.Z.)
+780 04 $t Western mail (Christchurch, N.Z.)
+785 00 $t Christchurch mail (North-western ed.)

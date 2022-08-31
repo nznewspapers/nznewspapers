@@ -1,8 +1,8 @@
 {
   "stats": {
     "placename": "Havelock North",
-    "count": 5,
-    "decades": 4
+    "count": 6,
+    "decades": 5
   },
   "papers": [
     {
@@ -28,6 +28,12 @@
       "title": "Te Mata Times",
       "firstYear": "1975",
       "finalYear": "1984"
+    },
+    {
+      "id": "3093",
+      "title": "Havelock North Village Press",
+      "firstYear": "1992",
+      "finalYear": "9999"
     },
     {
       "id": "1752",

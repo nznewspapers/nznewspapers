@@ -1,0 +1,36 @@
+01472cas a2200445 a 4500
+001 995085323502836
+003 Nz
+005 20210401190627.0
+008 160813d19911995nz mr|n       0   b0eng  
+022 0  $a 1171-0446 $2 _g
+035    $z 321806
+035    $a (nzNZBN)5799416
+035    $a zbn91084823
+035    $a (Nz)5065237
+035    $a (NLNZils)508532
+035    $a (NLNZils)508532-ilsdb
+035    $a (OCoLC)173361155
+040    $a NZNB $c NZNB
+041 0  $a eng $a mao
+042    $a nznb
+043    $a u-nz---
+082 04 $a 305.899405 $a 079.93 $2 20
+210 1  $a Kahungunu $b (Havelock North)
+222  0 $a Kahungunu $b (Havelock North)
+245 00 $a Kahungunu.
+260    $a Havelock North [N.Z.] : $b Kahungunu Iwi Newspaper Project, $c 1991-1995.
+300    $a v. : $b ill., ports. ; $c 44 cm.
+310    $a Monthly
+362 0  $a Feb. 1991-
+362 1  $a Ceased with no. 7 (1995)
+500    $a Title from masthead.
+500    $a Available from Kahungunu Newspaper Project, 9 Von Dadelszen Place, Havelock North, N.Z.
+510 1  $a Index New Zealand $x 0113-6526, $b Oct. 1992-no. 5 (1995)
+515    $a Vol. numbering begins in 1993. Vol. numbering begins with 1 each year.
+546    $a Some text in Maori.
+650  0 $a Maori (New Zealand people) $v Newspapers.
+650  0 $a Ngāti Kahungunu (New Zealand people) $v Newspapers.
+655  7 $a New Zealand newspapers. $2 local $5 Nz
+655  7 $a Maori newspapers. $2 local $5 Nz
+710 2  $a Kahungunu Iwi Newspaper Project.

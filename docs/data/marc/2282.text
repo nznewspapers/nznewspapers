@@ -1,0 +1,31 @@
+01204cas a2200385 a 4500
+001 9910736373502836
+003 Nz
+005 20180918123618.0
+008 041213c20049999nz wr ne |    0   a0eng  
+022 0  $a 2463-7467 $2 _g
+035    $a (NLNZils)1073637
+035    $a (Nz)9027715
+035    $a (NLNZils)1073637-ilsdb
+035    $a (OCoLC)173441931
+040    $a NZNB $c NZNB
+042    $a nznb
+043    $a u-nz---
+082 04 $a 079.9375 $2 22
+210 1  $a Marlbgh. midweek
+222  0 $a Marlborough midweek
+245 00 $a Marlborough midweek : $b your local community newspaper.
+246 30 $a Midweek
+260    $a [Blenheim, N.Z.] : $b Marlborough Express, $c [2004]-
+260 2  $3 <2015>- $a [Auckland, N.Z. : $b Fairfax Media]
+260 3  $3 <February 2018-> $a [Auckland, N.Z. : $b Stuff Limited]
+300    $a v. : $b col. ill. ; $c 40 cm.
+310    $a Weekly
+362 0  $a Nov. 10, 2004-
+500    $a Title from caption.
+500    $a Community newspaper.
+580    $a Insert published monthly as: Over the gate.
+651  0 $a Marlborough District (N.Z.) $v Newspapers.
+655  7 $a New Zealand newspapers. $2 local $5 Nz
+776 08 $i Online version: $t Marlborough midweek $x 2463-7475
+787 0  $t Over the gate

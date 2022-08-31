@@ -1,0 +1,26 @@
+01120cas a2200325 a 4500
+001 996514293502836
+003 Nz
+005 20210401180440.0
+008 910920d19391966nz wr n       0   a0eng  
+035    $a (nzNZBN)6045842
+035    $a zbn91093156
+035    $a (NLNZils)651429
+035    $a (Nz)3904646
+035    $a (NLNZils)651429-ilsdb
+035    $a (OCoLC)145328816
+040    $a NZNB $c NZNB
+042    $a nznb
+043    $a u-nz---
+082 04 $a 324.2931075 $2 20
+130 0  $a People's voice (Auckland, N.Z. : 1939)
+245 00 $a People's voice.
+260    $a Auckland [N.Z.] : $b People's Voice Press, $c 1939-1966.
+300    $a 23 v. : $b ill., ports. ; $c 34-42 cm.
+362 0  $a Vol. 1, no. 1 (Friday Jul. 7 1939) - v. 23, no. 47 (Wednesday Dec. 14, 1966)
+500    $a "For the welfare and freedom of the N.Z. people."
+500    $a Published illegally during 1940-1941, as were other regional editions of People's voice.
+650  0 $a Communism $z New Zealand $v Periodicals.
+655  7 $a New Zealand newspapers. $2 local $5 Nz
+780 05 $t In print (Auckland, N.Z. : 1941) $g 1943
+785 00 $t New Zealand people's voice.

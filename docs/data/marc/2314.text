@@ -1,0 +1,32 @@
+01416cas a2200397 a 4500
+001 994802533502836
+003 Nz
+005 20201222154311.0
+008 d190u2d18692006nz dn|ne      0   a0eng  
+022 0  $a 1170-0467 $y 0117-0467 $2 _g
+035    $a (nzNZBN)5123689
+035    $a (NLNZils)480253
+035    $a (Nz)4870349
+035    $a (NLNZils)480253-ilsdb
+035    $a (OCoLC)946805704
+040    $a NZNB $c NZNB
+042    $a nznb
+043    $a u-nz---
+082 04 $a 079.93 $2 20
+210 1  $a Greymouth evening star
+222  0 $a Greymouth evening star
+245 04 $a The Greymouth evening star.
+260    $a Greymouth, N.Z. : $b Greymouth Evening Star
+300    $a v. : $b ill., form, maps, ports. ; $c 58 cm.
+310    $a Daily (except Sunday)
+362 1  $a Began with June 1st. 1869; ceased with Mar. 17, 2006.
+500    $a Includes advertising.
+500    $a Description based on: Saturday Aug. 19, 1989; title from masthead.
+510 2  $a Index New Zealand, $x 0113-6526, $b Jun. 8, 1990-Feb. 7, 2006.
+525    $a Issue for Aug. 4, 1923 has title: Otira Tunnel supplement.
+530    $a Available on microfilm from Microfilm Production Unit, National Library of New Zealand.
+651  0 $a Greymouth (N.Z.) $v Newspapers.
+655  7 $a New Zealand newspapers. $2 local $5 Nz
+776 08 $i Online version: $t Greymouth evening star $x 2744-4074
+780 00 $t Evening star (Greymouth, N.Z.)
+785 00 $t Greymouth star

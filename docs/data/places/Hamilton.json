@@ -1,7 +1,7 @@
 {
   "stats": {
     "placename": "Hamilton",
-    "count": 29,
+    "count": 30,
     "decades": 11
   },
   "papers": [
@@ -127,6 +127,12 @@
       "title": "Northeast Link",
       "firstYear": "1987",
       "finalYear": "uuuu"
+    },
+    {
+      "id": "3125",
+      "title": "Out Of Towner",
+      "firstYear": "198u",
+      "finalYear": "198u"
     },
     {
       "id": "1590",

@@ -1,0 +1,30 @@
+01227cas a2200373 a 4500
+001 9912681293502836
+003 Nz
+005 20161223162617.0
+008 071120d20072011nz er|ne      0   a0eng  
+035    $a (Nz)11549634
+035    $a (NLNZils)1268129
+035    $a (NLNZils)1268129-ilsdb
+035    $a (OCoLC)181667506
+040    $a NZNB $c CU $d NZNB
+042    $a nznb
+043    $a u-nz---
+082 04 $a 079.93805 $2 22
+245 00 $a Southern view.
+260    $a Christchurch [N.Z.] : $b Mainland Press, $c [2007-2011]
+300    $a v. : $b ill. (chiefly col.) ; $c 40 cm.
+310    $a Biweekly
+362 0  $a 7 Nov. 2007-
+362 1  $a Ceased with Feb. 16, 2011
+500    $a Title from masthead.
+500    $a Community newspaper.
+500    $a "Featuring news & local events from Cashmere, Beckenham, St. Martins, Hillborough, Halswell, West Morland, Rolleston, Lincoln."
+580    $a Merged with: Nor'West News; and Pegasus Bay News; to form: Mainland press.
+588    $a Latest issue consulted: Feb. 16, 2011.
+651  0 $a Christchurch (N.Z.) $v Newspapers.
+655  7 $a New Zealand newspapers. $2 local $5 Nz
+785 07 $t Nor'West news
+785 07 $t Bay Harbour news
+785 07 $t Southern view
+785 07 $t Mainland press

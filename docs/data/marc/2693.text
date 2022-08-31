@@ -1,0 +1,31 @@
+01203cas a2200385 a 4500
+001 9914699583502836
+003 Nz
+005 20180813164918.0
+008 110329d20102018nz wr|n       0   a0eng  
+022 0  $a 2463-6983 $2 _g
+035    $a (NLNZils)1469958
+035    $a (Nz)13630857
+035    $a (NLNZils)1469958-ilsdb
+035    $a (OCoLC)713021970
+040    $a NZNB $c NZNB
+042    $a nznb
+043    $a u-nz---
+082 04 $a 079.9398 $2 22
+130 0  $a Eye (Invercargill, N.Z.)
+210 1  $a Eye $b (Invercargill)
+222  0 $a Eye $b (Invercargill)
+245 14 $a The eye.
+260    $a [Invercargill, N.Z. : $b Southland Times, $c 2010]-
+260 2  $3 <2015>- $a [Auckland, N.Z. : $b Fairfax Media]
+260 31 $3 <February 2018-> $a [Auckland, N.Z. : $b Stuff Limited]
+300    $a v. : $b ill. ; $c 41 cm.
+310    $a Weekly
+362 1  $a Began with Sept. 30, 2010; ceased with June 21, 2018.
+500    $a Community newspaper.
+500    $a Description based on: Sept. 30, 2010.
+500    $a Latest issue consulted: Mar. 24, 2011.
+651  0 $a Invercargill (N.Z.) $v Newspapers.
+655  7 $a New Zealand newspapers. $2 local $5 Nz
+776 08 $i Online version: $t Eye $x 2463-6991
+780 00 $t Invercargill eye

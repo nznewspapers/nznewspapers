@@ -1,0 +1,33 @@
+01349cas a2200409 a 4500
+001 999253423502836
+003 Nz
+005 20210401181212.0
+008 930223d19922016nz wr|ne      0   a0eng  
+022 0  $a 1172-2185 $2 _g
+035    $a (nzNZBN)7418302
+035    $a zbn93010259
+035    $a (NLNZils)925342
+035    $a (Nz)4148107
+035    $a (NLNZils)925342-ilsdb
+035    $a (OCoLC)173340078
+040    $a NZNB $c NZNB
+042    $a nznb
+043    $a u-nz---
+082 04 $a 079.9318 $2 20
+082 04 $a 079.9312 $2 20NZ
+222  0 $a Dargaville & districts news
+245 00 $a Dargaville & districts news.
+246 1  $a Dargaville and districts news
+246 1  $i Also known as: $a Dargaville news
+246 30 $a News
+260    $a Dargaville [N.Z.] : $b Vision Media, $c 1992-
+264 33 $3 <2010-> $a Dargaville, (N.Z.) : $b Fairfax Media
+300    $a v. : $b ill., ports. ; $c 42 cm.
+310    $a Weekly $b 3 Nov. 1992-
+321    $a Fortnightly, $b 18 Feb. 1992-27 Oct. 1992
+362 1  $a Began on 18 Feb. 1992; ceased with Feb. 24, 2016.
+500    $a Community newspaper.
+588    $a Description based on: Vol. 1, no. 25 (Tuesday Dec. 8, 1992); title from masthead.
+651  0 $a Dargaville (N.Z.) $v Newspapers.
+655  7 $a New Zealand newspapers. $2 local $5 Nz
+776 08 $i Online version: $t Dargaville and districts news $w (Nz)9917930123502836

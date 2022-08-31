@@ -1,0 +1,31 @@
+01364cas a2200385 a 4500
+001 9912849663502836
+003 Nz
+005 20161110144055.0
+008 080409d20082014nz wr|n       0   a0eng  
+022 0  $a 2230-6498 $y 1176-564X $2 _g
+035    $a (NLNZils)1284966
+035    $a (Nz)11669437
+035    $a (NLNZils)1284966-ilsdb
+035    $a (OCoLC)224088905
+040    $a NZNB $c NZNB
+042    $a nznb
+043    $a u-nz---
+082 04 $a 079.93323 $2 22
+210 1  $a Coromandel Penins. post
+222  0 $a Coromandel Peninsula post
+245 04 $a The Coromandel Peninsula post : $b covering the top half of the Coromandel Peninsula.
+246 17 $a Peninsula post
+260    $a [Whitianga, N.Z. : $b S. Collins, $c 2008-2014]
+300    $a v. : $b col. ill. ; $c 38 cm.
+310    $a Weekly
+362 1  $a Began with no. 001 (3 Apr. 2008); ceased with no. 319 (8 May, 2014)
+500    $a Issues from 16 May 2013-8 May 2014 have title: Peninsula post.
+500    $a Community newspaper.
+500    $a Description based on first issue; title from caption.
+588    $a Latest issue consulted: no. 319 (8 May, 2014)
+651  0 $a Coromandel Peninsula (N.Z.) $v Newspapers.
+655  7 $a New Zealand newspapers. $2 local $5 Nz
+776 0  $i Online version: $t Coromandel Peninsula post (Online) $x 2230-6501
+780 04 $t Bay beacon (Whitianga, N.Z.)
+780 04 $t Moehau messenger

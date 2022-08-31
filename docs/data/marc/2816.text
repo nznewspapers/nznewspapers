@@ -1,0 +1,31 @@
+01237cas a2200385 a 4500
+001 9917691983502836
+003 Nz
+005 20210401182613.0
+008 900202d19291929nz mr n       0   a0mao  
+035    $a (nzNZBN)5264554
+035    $a zbn90001426
+035    $a (Nz)3727677
+035    $a (NLNZils)1769198-ilsdb
+035    $a (OCoLC)1088797489
+040    $a NZNB $c NZNB
+042    $a nznb
+043    $a u-nz---
+082 04 $a 059.994 $2 20
+130 0  $a Reo o Aotearoa (1929)
+245 03 $a Te Reo o Aotearoa.
+260    $a Hastings [N.Z.] : $b P. Hakiwai me P.H. Tamoana, $c 1929. $e (Hastings : $f Cliff Press).
+300    $a 5 v. ; $c 24 cm.
+362 0  $a Nama 89 (Hanuere 1, 1929)-nama 93 (Mei 1929).
+500    $a Title from masthead.
+500    $a "With which is incorporated Te toa Takitini."
+500    $a Editors: P. Hakiwai and P.H. Tamoana.
+650  0 $a Maori (New Zealand people) $v Newspapers.
+650  7 $a Tāngata whenua. $2 reo
+650  7 $a Nūpepa. $2 reo
+655  7 $a Maori newspapers. $2 local $5 Nz
+655  7 $a New Zealand newspapers. $2 local $5 Nz
+700 1  $a Hakiwai, P. $q (Peni), $d -1935.
+700 1  $a Tomoana, P. H. $q (Paraire Henare), $d 1874 or 1875-1946.
+780 00 $t Toa takitini (1921)
+785 00 $t Toa takitini (1929)

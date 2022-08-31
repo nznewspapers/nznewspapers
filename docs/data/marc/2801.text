@@ -1,0 +1,31 @@
+01287cas a2200385 a 4500
+001 999932273502836
+003 Nz
+005 20210401181542.0
+008 891127d19891989nz mr|n       0   a0eng  
+022 0  $a 0114-7390 $2 _g
+035    $a (nzNZBN)5217025
+035    $a zbn89088529
+035    $a (Nz)3523159
+035    $a (NLNZils)993227
+035    $a (NLNZils)993227-ilsdb
+035    $a (OCoLC)173333158
+040    $a NZNB $c NZNB
+042    $a nznb
+043    $a u-nz---
+082 04 $a 993.16004994 $2 20NZ
+130 0  $a Tui (Tauranga, N.Z.)
+222  0 $a Tui $b (Tauranga)
+245 10 $a Tui.
+260    $a Tauranga [N.Z.] : $b Tui Communications,
+300    $a v. : $b ill. (some col.), ports. (some col.) ; $c 43 cm.
+310    $a Monthly
+362 1  $a Began in 1989; ceased with Sept. 1989?
+500    $a "Maori community newspaper which encompasses the area between Otawhiwhi and Otamarakau"--P. 2.
+500    $a Description based on: July ed. [1989]; title from caption.
+500    $a Available from Tui Communications, P.O. Box 867, Tauranga, N.Z.
+510 0  $a Index New Zealand $x 0113-6526
+650  0 $a Maori (New Zealand people) $v Newspapers.
+651  0 $a Tauranga County (N.Z.) $v Newspapers.
+655  7 $a Maori newspapers. $2 local $5 Nz
+655  7 $a New Zealand newspapers. $2 local $5 Nz

@@ -1,0 +1,37 @@
+01767cas a2200457 a 4500
+001 994794463502836
+003 Nz
+005 20210401184735.0
+008 051109d18792020nz dn|ne      0   a0eng  
+022 0  $a 1170-0025 $y 0117-0025 $2 _g
+035    $z 291040
+035    $a (nzNZBN)5123699
+035    $a zbn89070624
+035    $a (NLNZils)479446
+035    $a (Nz)4725615
+035    $a (NLNZils)479446-ilsdb
+035    $a (OCoLC)173348084
+040    $a NZNB $c NZNB
+042    $a nznb
+043    $a u-nz---
+082 04 $a 079.93 $2 20
+222  0 $a Ashburton guardian
+245 00 $a Ashburton guardian.
+246 1  $i Weekend issue titled: $a Weekend guardian
+246 13 $a Guardian today
+246 13 $i Issue for Māori Language Week has title: $a Hakatere Kaitiaki
+260    $a Ashburton [N.Z.] : $b Ashburton Guardian
+300    $a v. : $b ill., map, ports. ; $c 40-58 cm.
+310    $a Daily (except Sunday)
+362 1  $a Began with Sept. 27, 1879; ceased with Aug. 1, 2020. $z Cf. Harvey, D. R. Union list of newspapers ... in New Zealand.
+500    $a Description based on: Wednesday Aug. 16, 1989; title from masthead.
+500    $a Includes advertising.
+510 2  $a Index New Zealand, $x 0113-6526, $b Jun. 11, 1990-Jan. 6, 2020
+525    $a Has supplement: Your magazine.
+530    $a Available on microfilm from Microfilm Production Unit, National Library of New Zealand.
+651  0 $a Ashburton (N.Z.) $v Newspapers.
+655  7 $a New Zealand newspapers. $2 local $5 Nz
+775 1  $t Guardian today (Ashburton, N.Z.)
+776 08 $i Online version: $t Ashburton guardian $x 2744-3221
+785 00 $t Guardian (Ashburton, N.Z.) $x 2744-3191
+856 41 $u https://paperspast.natlib.govt.nz/newspapers/ashburton-guardian $z Papers Past | Newspapers | Explore | Ashburton Guardian

@@ -1,0 +1,25 @@
+{
+  "id": 3070,
+  "title": "Kaipara Advertiser And Waitemata Chronicle",
+  "genre": "Newspaper",
+  "firstYear": "1905",
+  "finalYear": "1914",
+  "district": "Auckland",
+  "frequency": "Weekly",
+  "idMarcControlNumber": "5095826",
+  "isCurrent": false,
+  "placecode": "02-01",
+  "placename": "Helensville",
+  "region": "Auckland",
+  "links": {
+    "unknown-1": {
+      "direction": "Succeeding",
+      "relationship": "Continued by",
+      "target-description": "Kaipara and Waitemata echo"
+    }
+  },
+  "sources": {
+    "2022-08-31T04:35:31.376Z": "Extracted from the New Zealand National Bibliography (MARC record 5095826) downloaded June 2022."
+  },
+  "revision": 1
+}

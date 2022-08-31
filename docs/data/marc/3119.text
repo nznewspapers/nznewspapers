@@ -1,0 +1,19 @@
+00660cas a22002411a 4500
+001 999260833502836
+003 Nz
+005 20190107085802.0
+008 031216d18751876nz tr ne      000 a0eng d
+035    $a (NLNZils)926083
+035    $a (Nz)8130430
+035    $a (NLNZils)926083-ilsdb
+040    $a WN $c WN
+042    $a nznb
+043    $a u-nz---
+130 0  $a North Canterbury news (1875)
+245 00 $a North Canterbury news.
+260    $a [Rangiora, N.Z. : $b s.n., $c 1875-1876?]
+310    $a Three no. a week
+362 0  $a 1875 Dec.22?-1876?
+651  0 $a Canterbury (N.Z.) $v Newspapers.
+655  7 $a New Zealand newspapers. $2 local $5 Nz
+780 00 $t Canterbury news (1875)

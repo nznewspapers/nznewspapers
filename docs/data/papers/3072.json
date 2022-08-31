@@ -1,0 +1,18 @@
+{
+  "id": 3072,
+  "title": "Coromandel & Mercury Bay Gazette",
+  "genre": "Newspaper",
+  "firstYear": "1931",
+  "finalYear": "1942",
+  "district": "Hauraki District",
+  "frequency": "Weekly",
+  "idMarcControlNumber": "5094173",
+  "isCurrent": false,
+  "placecode": "03-02",
+  "placename": "Paeroa",
+  "region": "Waikato",
+  "sources": {
+    "2022-08-31T04:35:32.001Z": "Extracted from the New Zealand National Bibliography (MARC record 5094173) downloaded June 2022."
+  },
+  "revision": 1
+}

@@ -1,8 +1,8 @@
 {
   "stats": {
     "placename": "Takapuna",
-    "count": 11,
-    "decades": 7
+    "count": 12,
+    "decades": 8
   },
   "papers": [
     {
@@ -64,6 +64,12 @@
       "title": "Bays' News",
       "firstYear": "1981",
       "finalYear": "1983"
+    },
+    {
+      "id": "3053",
+      "title": "All Aboard",
+      "firstYear": "1997",
+      "finalYear": "9999"
     },
     {
       "id": "1256",

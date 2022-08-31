@@ -1,0 +1,32 @@
+01284cas a2200397 a 4500
+001 993422143502836
+003 Nz
+005 20210401185845.0
+008 160813d19952003nz wr ne      0   a0eng  
+035    $z 613494
+035    $a (eLGAR).b25194331
+035    $a (nzNZBN)10427113
+035    $a zbn97070916
+035    $a (NLNZils)342214
+035    $a (Nz)4788287
+035    $a (NLNZils)342214-ilsdb
+035    $a (OCoLC)173349670
+040    $a NZNB $c NZNB
+042    $a nznb
+043    $a u-nz---
+082 0  $a 079.932505 $a 079.9392405 $2 21
+245 00 $a Papatoetoe & Otahuhu week.
+260    $a Papatoetoe [N.Z.] : $b Papatoetoe & Otahuhu Week, $c 1995-2003.
+300    $a v. : $b ill. ports. (some col.) ; $c 43 cm.
+310    $a Weekly
+362 1  $a Began with 5 July 1995; ceased in Sept. 2003.
+500    $a Community newspaper.
+500    $a Description based on: 15 Jan. 1997; title from caption.
+580    $a Merged with: Manurewa week and: Our town Papakura, to form: Aucklander (South ed.).
+651  0 $a Papatoetoe (Auckland, N.Z.) $v Periodicals.
+651  0 $a Otahuhu (Auckland, N.Z.) $v Periodicals.
+655  7 $a New Zealand newspapers. $2 local $5 Nz
+780 00 $t Papatoetoe week
+785 07 $t Manurewa week
+785 07 $t Our town Papakura
+785 00 $t Aucklander (South ed.)

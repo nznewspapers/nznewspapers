@@ -1,0 +1,35 @@
+01602cas a2200433 a 4500
+001 996005863502836
+003 Nz
+005 20210401180608.0
+008 900115c19859999nz wrzne      0   a0eng  
+022    $a 1170-1293 $y 0117-1293 $2 _g
+035    $a (nzNZBN)5264623
+035    $a zbn90001529
+035    $a (Nz)3534515
+035    $a (NLNZils)600586
+035    $a (NLNZils)600586-ilsdb
+035    $a (OCoLC)173333344
+040    $a NZNB $c NZNB
+042    $a nznb
+043    $a u-nz---
+082 04 $a 079.9356 $2 20NZ
+130 0  $a Saturday express (Blenheim, N.Z.)
+222  0 $a Saturday express $b (Blenheim)
+245 04 $a The Saturday express.
+260    $a Blenheim [N.Z.] : $b Marlborough Express Newspapers
+260 2  $3 <2015>- $a [Auckland, N.Z. : $b Fairfax Media]
+260 3  $3 <February 2018-> $a [Auckland, N.Z. : $b Stuff Limited]
+300    $a v. : $b ill., map, ports. ; $c 42 cm.
+310    $a Weekly
+362 1  $a Began with Mar. 16 1985. $z Cf. Harvey, D. R. Union list of newspapers ... in New Zealand.
+500    $a Community newspaper.
+500    $a Published weekly, delivered free Saturdays throughout Marlborough.
+500    $a Includes advertising.
+500    $a Description based on: Vol. 5, no. 38 (Sept. 23 1989); title from masthead.
+510 2  $a Index New Zealand, $x 0113-6526, $b Jul. 12, 2008-Dec. 21, 2019
+580    $a Published as Saturday issue of: Marlborough express.
+651  0 $a Marlborough (N.Z.) $v Newspapers.
+655  7 $a New Zealand newspapers. $2 local $5 Nz
+776 08 $i Online version: $t Saturday express $w (Nz)9917907173502836
+787 0  $t Marlborough express $x 1170-070X

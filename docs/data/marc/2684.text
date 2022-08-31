@@ -1,0 +1,23 @@
+00778cas a22002891a 4500
+001 999319753502836
+003 Nz
+005 20210401181345.0
+008 040113d19681976nz dr|ne      0   a0eng  
+035    $a 5099276
+035    $a (NLNZils)931975
+035    $a (Nz)8181914
+035    $a (NLNZils)931975-ilsdb
+035    $a (OCoLC)173422984
+040    $a NZNB $c NZNB
+042    $a nznb
+043    $a u-nz---
+082 04 $a 079.9396 $2 23
+130 0  $a Southland times (Afternoon ed.)
+245 10 $a Southland times.
+250    $a Afternoon ed.
+260    $a [Invercargill, N.Z. : $b s.n., $c 1968-1976]
+310    $a Daily
+362 0  $a 1968 Feb.3-1976 Aug.31
+500    $a Incorporates Southland news.
+651  0 $a Southland (N.Z.) $v Newspapers.
+655  7 $a New Zealand newspapers. $2 local $5 Nz

@@ -1,0 +1,26 @@
+01069cas a2200325 a 4500
+001 9911817503502836
+003 Nz
+005 20170720134543.0
+008 060323c20069999nz dn|n       0   a0eng  
+035    $a (NLNZils)1181750
+035    $a (Nz)10738391
+035    $a (NLNZils)1181750-ilsdb
+035    $a (OCoLC)173323279
+040    $a NZNB $c NZNB
+042    $a nznb
+043    $a u-nz---
+082 04 $a 079.93 $2 22
+245 00 $a Greymouth star.
+260    $a Greymouth [N.Z.] : $b Greymouth Evening Star, $c [2006]-
+300    $a v. : $b ill ; $c 58 cm.
+310    $a Daily (except Sunday)
+362 0  $a Saturday, Mar. 18, 2006-
+500    $a Title from masthead.
+510 2  $a Index New Zealand, $x 0113-6526, $b Mar. 31, 2006-
+525    $a Special supplement accompanies the first issue, entitled: 140 years.
+530    $a Some articles also available in an electronic ed.
+651  0 $a Greymouth (N.Z.) $v Newspapers.
+655  7 $a New Zealand newspapers. $2 local $5 Nz
+776 0  $i Online version: $t Greymouth star $w (Nz)9913923543502836
+780 00 $t Greymouth evening star $x 1170-0467

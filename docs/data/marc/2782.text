@@ -1,0 +1,26 @@
+00970cas a2200325 a 4500
+001 9911845863502836
+003 Nz
+005 20161223160900.0
+008 060411d20062007nz mr ne      0   a0eng  
+035    $a (NLNZils)1184586
+035    $a (Nz)10773828
+035    $a (NLNZils)1184586-ilsdb
+035    $a (OCoLC)173323384
+040    $a NZNB $c NZNB
+042    $a nznb
+043    $a u-nz---
+082 04 $a 079.933 $2 22
+130 0  $a Country (Matamata, N.Z.)
+245 10 $a Country : $b local people, local lifestyles.
+260    $a [Matamata, N.Z.?] : $b Waikato Regional Community Newspaper, $c [2006]-2007.
+300    $a 2 v. : $b col. ill., ; $c 41 cm.
+310    $a Monthly
+362 0  $a Mar. 2006-Aug. 2007.
+500    $a Title from cover.
+500    $a Community newspaper.
+651  0 $a Matamata (N.Z.) $v Newspapers.
+651  0 $a Waikato (N.Z.) $v Newspapers.
+655  7 $a New Zealand newspapers. $2 local $5 Nz
+780 00 $t East Waikato country $x 1173-3209
+785 00 $t Urban&Country

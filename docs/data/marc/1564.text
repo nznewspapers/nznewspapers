@@ -1,0 +1,35 @@
+01533cas a2200433 a 4500
+001 999261403502836
+003 Nz
+005 20210401181219.0
+008 891013c19779999nz wrzne      0   a0eng  
+022 0  $a 1170-103X $y 0117-103X
+035    $a (nzNZBN)5164368
+035    $a zbn89076117
+035    $a (NLNZils)926140
+035    $a (Nz)3531216
+035    $a (NLNZils)926140-ilsdb
+035    $a (OCoLC)173333277
+040    $a NZNB $c NZNB
+042    $a nznb
+043    $a u-nz---
+082 04 $a 079.9335 $2 20NZ
+222  0 $a Piako post
+245 00 $a Piako post.
+246 13 $a Te Karere o Piako $f 25 July 2007
+260    $a Morrinsville [N.Z.] : $b Piako Post, $c 1977-
+260 2  $3 <2015>- $a [Auckland, N.Z. : $b Fairfax Media]
+260 3  $3 <February 2018-> $a [Auckland, N.Z. : $b Stuff Limited]
+300    $a v. : $b ill., map, ports. ; $c 44 cm.
+310    $a Weekly
+362 1  $a Began with Dec. 7, 1977. $z Cf. Harvey, D. R. Union list of newspapers ... in New Zealand.
+500    $a "Circulated free throughout Morrinsville, Te Aroha and Piako County."
+500    $a Includes advertising.
+500    $a Description based on: Vol. 13, no. 34 (Wednesday Sept. 6, 1989); title from masthead.
+500    $a Community newspaper.
+530    $a Available on microfilm from Microfilm Production Unit, National Library of New Zealand.
+651  0 $a Waikato (N.Z.) $x Periodicals.
+655  7 $a New Zealand newspapers. $2 local $5 Nz
+776 08 $i Online version: $t Piako post $w (Nz)9917966443502836
+780 04 $t Arrow
+780 04 $t Morrinsville star

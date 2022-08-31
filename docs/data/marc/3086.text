@@ -1,0 +1,28 @@
+01130cas a2200349 a 4500
+001 999252083502836
+003 Nz
+005 20191017090247.0
+008 031215d19902018nz wr|ne      0   a0eng  
+035    $a (Nz)8127452
+035    $a (NLNZils)925208
+035    $a (NLNZils)925208-ilsdb
+035    $a (OCoLC)173420281
+040    $a NZNB $c NZNB
+042    $a nznb
+043    $a u-nz---
+130 0  $a Bay news (Tauranga, N.Z.)
+245 10 $a Bay news.
+260    $a [Tauranga, N.Z. : $b s.n., $c 1990-2018]
+260 3  $3 <2010>- $a [Tauranga, N.Z. : $b APN NZ Media]
+300    $a v. : $b col. ill. ; $c 41 cm.
+310    $a Weekly
+362 0  $a 1990 Oct.3-2018 Dec. 18.
+500    $a Merger of Mount news and Timescan.
+500    $a Has separately titled section, July 11, 2007-  : Mount & Papamoa news.
+500    $a Includes monthly separately titled section, Dec. 19, 2007-  : Echo.
+588    $a Latest issue consulted: Aug. 22, 2013.
+650  0 $a Bay of Plenty (N.Z. : Region) $v Newspapers.
+651  0 $a Tauranga (N.Z.) $v Newspapers.
+655  7 $a New Zealand newspapers. $2 local $5 Nz
+740 02 $a Mount & Papamoa news.
+740 02 $a Echo

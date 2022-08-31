@@ -1,8 +1,8 @@
 {
   "stats": {
     "placename": "Patea",
-    "count": 5,
-    "decades": 4
+    "count": 6,
+    "decades": 5
   },
   "papers": [
     {
@@ -17,6 +17,12 @@
       "title": "Patea County Press",
       "firstYear": "1887",
       "finalYear": "1914"
+    },
+    {
+      "id": "3134",
+      "title": "Patea & Waverley Press",
+      "firstYear": "1946",
+      "finalYear": "uuuu"
     },
     {
       "id": "1613",

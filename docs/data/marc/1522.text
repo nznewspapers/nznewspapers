@@ -1,0 +1,32 @@
+01556cas a2200397 a 4500
+001 9912117903502836
+003 Nz
+005 20200909081153.0
+008 060929d189u189unz uu|n       0   b0mao  
+035    $a (Nz)11051493
+035    $a (NLNZils)1211790
+035    $a (NLNZils)1211790-ilsdb
+035    $a (OCoLC)173324082
+040    $a NZNB $c NZNB
+042    $a nznb
+043    $a u-nz---
+082 04 $a 346.930432026905 $2 22
+245 00 $a Ko te kahiti tuturu mo Aotearoa, me te Waipounamu : $b he mea ta i runga i te "mana" o te Kiingitanga Motuhake o te iwi Maori.
+246 1  $i At head of title: $a Ko te Mana Motuhake
+246 17 $a Kahiti Whakawa Whenua Maori
+260    $a [Maungakawa, N.Z. : $b Printed at the Kingitanga Press]
+300    $a v. ; $c 30 cm.
+500    $a Some issues lack subtitle.
+500    $a "I taia i runga i te mana o te Kiingitanga e T. Wiremu Kereama raua ko K. Hena Tio, Pai [sic] ta nupepa"--Colophon, no. 5 (Hepetema 29, 1896).
+500    $a Description based on: No. 3 (Oketopa 20, 1895); title from caption.
+510 4  $a Williams (suppl.), $c 903a
+510 4  $a Books in Māori, $c S36
+515    $a Continues the numbering of its predecessor.
+520    $a "Kingitanga land court gazette"--BIM.
+650  0 $a Maori (New Zealand people) $x Land tenure $v Newspapers.
+650  7 $a Ture whenua. $2 reo
+655  7 $a Maori newspapers. $2 local $5 Nz
+655  7 $a New Zealand newspapers. $2 local $5 Nz
+700 1  $a Graham, Tuatara Wiremu. $e printer.
+700 1  $a Tio, K. Hena. $e printer.
+780 00 $t Ko te paunui [i.e. panui] o Aotearoa

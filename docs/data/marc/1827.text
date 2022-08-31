@@ -1,0 +1,35 @@
+01674cas a2200433 a 4500
+001 999264513502836
+003 Nz
+005 20220401154543.0
+008 891031c19609999nz wrzne      0   a0eng  
+022 0  $a 1170-1064 $y 0117-1064 $2 _g
+035    $a (nzNZBN)5192429
+035    $a zbn89081907
+035    $a (Nz)3531253
+035    $a (NLNZils)926451
+035    $a (NLNZils)926451-ilsdb
+035    $a (OCoLC)173333306
+040    $a NZNB $c NZNB
+042    $a nznb
+043    $a u-nz---
+082 04 $a 079.932 $2 20NZ
+222  0 $a Stratford press
+245 00 $a Stratford press.
+246 30 $a Press
+260    $3 1960- : $a Stratford [N.Z.] : $b Stratford Press and Printing Co., $c 1960-
+260 3  $3 <2022-> : $a [Auckland, N.Z.?] : $b NZME
+300    $a v. : $b ill., ports. ; $c 44 cm.
+310    $a Weekly
+362 1  $a Began with Feb. 11, 1960. $z Cf. Harvey, D. R. Union list of newspapers ... in New Zealand.
+500    $a Community newspaper.
+500    $a Includes advertising.
+500    $a Description based on: Vol. 30, no. 33 (Sept. 6, 1989); title from masthead.
+500    $a Latest issue consulted: March 16, 2022.
+530    $a Available on microfilm from Microfilm Production Unit, National Library of New Zealand.
+580    $a Contains section called: Council comment : update from the Stratford District Council; which supersedes: Town & country crier, previously issued as a separate publication.
+651  0 $a South Taranaki District (N.Z.) $v Newspapers.
+655  7 $a New Zealand newspapers. $2 local $5 Nz
+710 12 $a Stratford District (N.Z.). $b District Council. $t Council comment.
+740 02 $a Council comment.
+780 05 $t Town & country crier $g 6 Nov. 2002

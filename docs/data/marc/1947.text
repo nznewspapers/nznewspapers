@@ -1,0 +1,31 @@
+01357cas a2200385 a 4500
+001 999269723502836
+003 Nz
+005 20181204122052.0
+008 031218d20032013nz dn|ne      0   a0eng  
+022 0  $a 1176-497X $2 _g
+035    $a (Nz)8175930
+035    $a (NLNZils)926972
+035    $a (NLNZils)926972-ilsdb
+035    $a (OCoLC)173422286
+040    $a NZNB $c NZNB
+042    $a nznb
+043    $a u-nz---
+082 04 $a 079.9357 $2 22
+210 1  $a Dannevirke news
+222  0 $a Dannevirke news
+245 00 $a Dannevirke news.
+260    $a Dannevirke [N.Z.] : $b Dannevirke Evening News, $c [2003-2013]
+300    $a v. : $b ill. ; $c 58 cm.
+310    $a Weekly $b Jan. 28, 2012-
+321    $a Daily (except Sunday) $b -Jan. 14, 2012
+362 0  $a Dec. 1, 2003-Mar. 9, 2013.
+500    $a Title from caption.
+510 2  $a Index New Zealand, $x 0113-6526, $b Jan. 16, 2012-
+580    $a Issued with: Hawke's Bay today (in the Dannevirke and Tararua areas only), Mar. 1, 2004-Jan. 14, 2012. Issue for Jan. 21 published as part of Hawke's Bay today.
+588    $a Latest issue consulted: Mar. 9, 2013.
+651  0 $a Dannevirke (N.Z.) $v Newspapers.
+655  7 $a New Zealand newspapers. $2 local $5 Nz
+777 1  $t Hawke's Bay today $g Mar. 1, 2004-Jan. 21, 2012 $x 1174-9792
+780 00 $t Dannevirke and district evening news $x 1170-0378
+785 04 $t Hawke's Bay today

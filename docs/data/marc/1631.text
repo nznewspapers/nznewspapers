@@ -1,0 +1,32 @@
+01474cas a2200397 a 4500
+001 999257303502836
+003 Nz
+005 20220401153351.0
+008 891010c19699999nz wr|ne      0   a0eng  
+022 0  $a 1170-0610 $y 0117-0610 $2 _g
+035    $a (nzNZBN)5164359
+035    $a zbn89076343
+035    $a (NLNZils)925730
+035    $a (Nz)3531209
+035    $a (NLNZils)925730-ilsdb
+035    $a (OCoLC)173333270
+040    $a NZNB $c NZNB
+042    $a nznb
+043    $a u-nz---
+082 04 $a 079.9316 $a 079.9315 $2 20NZ
+222  0 $a Katikati advertiser
+245 00 $a Katikati advertiser.
+260    $3 1969- : $a [Tauranga, N.Z. : $b Bay of Plenty Times, $c 1969]-
+260 3  $3 <2022-> : $a [Auckland, N.Z.?] : $b NZME
+300    $a v. : $b ill., ports. ; $c 42 cm.
+310    $a Weekly, $b Nov. 1? 1982-
+321    $a Fortnightly, $b Sept. 12 1979.
+362 1  $a Began with Jan? 1969. $z Cf. Harvey, D. R. Union list of newspapers ... in New Zealand.
+500    $a "Delivered to every household in Katikati, Waihi Beach and surrounding districts weekly.
+500    $a Includes advertising.
+500    $a Description based on: Tuesday Sept. 26, 1989; title from masthead.
+530    $a Available on microfilm from Microfilm Production Unit, National Library of New Zealand.
+546    $a Latest issue consulted: March 17, 2022.
+651  0 $a Tauranga County (N.Z.) $v Periodicals.
+651  0 $a Coromandel Peninsula (N.Z.) $v Periodicals.
+655  7 $a New Zealand newspapers. $2 local $5 Nz

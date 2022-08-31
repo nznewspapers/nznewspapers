@@ -1,0 +1,24 @@
+01076cas a22003011a 4500
+001 999303793502836
+003 Nz
+005 20160321142706.0
+008 040107d18731874nz dr|ne      0   a0eng  
+035    $a (NLNZils)930379
+035    $a (Nz)8169314
+035    $a (NLNZils)930379-ilsdb
+035    $a (OCoLC)868227205
+040    $a NZNB $c NZNB
+042    $a nznb
+043    $a u-nz---
+082 04 $a 079.9376 $2 22
+245 00 $a Nelson daily examiner.
+260    $a Nelson, N.Z. : $b Charles Elliott for and on the behalf of the 'Nelson Examiner Company', $c [1873-1874]
+300    $a 2 v. ; $c 56 cm.
+310    $a Daily
+362 1  $a Began with vol. 32, no. 53 (July 2, 1873); ceased with vol. 33, no. 12 (Jan. 15, 1874).
+515    $a Continues the numbering of its predecessor.
+530    $a Also available in an electronic ed.
+651  0 $a Nelson (N.Z.) $v Newspapers.
+655  7 $a New Zealand newspapers. $2 local $5 Nz
+780 00 $t Nelson examiner
+856 41 $u http://paperspast.natlib.govt.nz/cgi-bin/paperspast?a=d&cl=CL1.NENZC $z Papers Past - Nelson Examiner and New Zealand Chronicle

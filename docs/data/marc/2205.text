@@ -1,0 +1,33 @@
+01340cas a2200409 a 4500
+001 996321823502836
+003 Nz
+005 20200408144654.0
+008 010517c20019999nz wrzne      0   a0eng  
+022 0  $a 1175-6012
+035    $a (Nz)6279971
+035    $a (NLNZils)632182
+035    $a (NLNZils)632182-ilsdb
+035    $a (OCoLC)173387727
+040    $a NZNB $c AP $d NZNB
+042    $a nznb
+043    $a u-nz---
+082 04 $a 004.05 $2 21
+210 0  $a NZ InfoTech
+222  0 $a NZ InfoTech
+245 00 $a NZ InfoTech.
+246 3  $a NZ info tech
+246 3  $a New Zealand InfoTech
+246 3  $a New Zealand Info Tech
+260    $a [Wellington, N.Z.] : $b Infotech, $c [2001-
+300    $a v. : $b ill. (some col.), ports. (some col.) ; $c 58 cm.
+310    $a Weekly
+362 0  $a No. 489 (May 13, 2001)-
+500    $a Title from caption.
+500    $a "e-news for business".
+510 2  $a Index New Zealand, $x 0113-6526, $b 2 May 1994-30 September 2002
+515    $a Continues the numbering of its predecessor.
+580    $a Distributed each Monday with: Dominion, -1 July 2002; with: Dominion post, 8 July 2002-
+650  0 $a Information technology $z New Zealand $v Periodicals.
+780 00 $t New Zealand Infotech weekly $x 1172-8566
+787 0  $t Dominion (Wellington, N.Z.) $x 0113-941X
+787 0  $t Dominion post (Wellington, N.Z.) $x 1175-9488

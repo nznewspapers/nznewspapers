@@ -1,0 +1,31 @@
+01172cas a2200385 a 4500
+001 999268283502836
+003 Nz
+005 20210401181339.0
+008 891220d19882008nz dn|ne      0   a0eng  
+022 0  $a 1170-1463 $y 0117-1463 $2 _g
+035    $a (nzNZBN)5250475
+035    $a (NLNZils)926828
+035    $a zbn89093914
+035    $a (Nz)3530511
+035    $a (NLNZils)926828-ilsdb
+035    $a (OCoLC)173333236
+040    $a NZNB $c NZNB
+042    $a nznb
+043    $a u-nz---
+082 04 $a 079.9316 $2 20NZ
+222  0 $a West Coast times
+245 00 $a West Coast times.
+260    $a [Hokitika, N.Z. : $b West Coast Times?], $c -2008.
+300    $a 21 v. : $b ill., map, plan, ports. ; $c 43 cm.
+310    $a Daily (except Sunday)
+362 1  $a Began with May 2 1988.
+362 0  $a -Feb. 1, 2008.
+500    $a Community newspaper.
+500    $a Includes advertising.
+500    $a Description based on: Monday Oct. 9 1989; title from masthead.
+515    $a Suspended Nov. 19 1988, resumed Mar. 6 1989.
+651  0 $a West Coast (N.Z.) $v Periodicals.
+655  7 $a New Zealand newspapers. $2 local $5 Nz
+780 00 $t Hokitika guardian
+785 00 $t Hokitika guardian (2008)

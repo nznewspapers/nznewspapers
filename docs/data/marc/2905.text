@@ -1,0 +1,31 @@
+01203cas a2200385 a 4500
+001 995194613502836
+003 Nz
+005 20210401191111.0
+008 160813d19uu1996nz mrgn       0uuua0eng d
+022 0  $a 1172-157X
+035    $z 333934
+035    $a (nzNZBN)6039735
+035    $a (NLNZils)519461
+035    $a zbn92111022
+035    $a (Nz)3936909
+035    $a (NLNZils)519461-ilsdb
+035    $a (OCoLC)173337604
+040    $a NZNB $c NZNB
+042    $a nznb
+043    $a u-nz---
+082 0  $a 079.935 $2 20NZ
+130 0  $a Community news (Takaka, N.Z.)
+222  0 $a Community news $b (Takaka)
+245 00 $a Community news : $b Golden Bay.
+246 13 $a Golden Bay community news
+260    $a Takaka [N.Z.] : $b Community News, $c [-1996]
+300    $a 18 v. : $b ill., form ; $c 26 cm.
+362 0  $a -v. 18, no. 2 (June 1996)
+500    $a Community newspaper.
+500    $a Description based on: Vol. 13, no. 4 (Aug. 1991); title from cover.
+515    $a Vol. 14, no. 6 (Oct. '92) wrongly numbered as: Vol. 12, no. 6 (Oct. '92)
+651  0 $a Golden Bay/Mohua (N.Z.)
+651  0 $a Takaka (N.Z.)
+655  7 $a New Zealand newspapers. $2 local $5 Nz
+785 00 $t Community views (Takaka, N.Z.) $x 1173-9541

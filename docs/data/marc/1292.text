@@ -1,0 +1,26 @@
+01046cas a2200325 a 4500
+001 996881663502836
+003 Nz
+005 20200810084433.0
+008 921127d18621876nz dr|ne      0   a0eng  
+035    $a (nzNZBN)7378755
+035    $a (NLNZils)688166
+035    $a (Nz)4106106
+035    $a (NLNZils)688166-ilsdb
+035    $a (OCoLC)173339561
+040    $a NZNB $c ABN $d NZNB
+042    $a nznb
+043    $a u-nz---
+082 04 $a 079.932 $2 22
+245 04 $a The daily southern cross.
+260    $a Auckland, N.Z. : $b R.J. Creighton, A. Scales and C. Tothill, $c 1862-[1876]
+300    $a 15 v. ; $c 63 cm.
+310    $a Daily
+362 0  $a Vol. 18, no 1505 (Tuesday, May 20, 1862)-v. 32, no. 5370 (Dec. 30, 1876).
+580    $a Had weekly supplement: Saturday night, 1874-1875.
+651  0 $a Auckland (N.Z.) $v Newspapers.
+655  7 $a New Zealand newspapers. $2 local $5 Nz
+776 08 $i Online version: $t Daily southern cross $w (Nz)9914428673502836
+780 00 $t Southern cross (Auckland, N.Z.)
+785 04 $t New Zealand herald
+787 1  $t Saturday night

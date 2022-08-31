@@ -1,0 +1,37 @@
+01639cas a2200457 a 4500
+001 999264853502836
+003 Nz
+005 20220401155026.0
+008 891110c19369999nz cr|ne      0   b0eng  
+022 0  $a 1170-1099 $y 0117-1099 $2 _g
+035    $a (nzNZBN)5192435
+035    $a zbn89081899
+035    $a (NLNZils)926485
+035    $a (Nz)3531258
+035    $a (NLNZils)926485-ilsdb
+035    $a (OCoLC)173333311
+040    $a NZNB $c NZNB
+042    $a nznb
+043    $a u-nz---
+082 04 $a 079.9315 $2 20NZ
+222  0 $a Te Awamutu courier
+245 00 $a Te Awamutu courier.
+246 30 $a Courier
+246 1  $i Title to mark Māori language week: $a Te Karere o O-Tāwhao
+260    $3 1936- : $a [Te Awamutu, N.Z. : $b Te Awamutu Courier, $c 1936-]
+260 3  $3 <2022-> : $a [Auckland, N.Z.?] : $b NZME
+300    $a v. : $b ill., maps, plans, ports. ; $c 43 cm.
+310    $a Weekly
+321    $a Semiweekly $b July 2 1974-
+321    $a Three times a week
+362 1  $a Began with vol. 52, no. 3744 (Apr. 17, 1936)
+500    $a Community newspaper.
+500    $a Includes advertising.
+500    $a The Tuesday issue of the Te Awamutu Courier has been replaced by the Waipa Post (2018).
+530    $a Available on microfilm from Microfilm Production Unit, National Library of New Zealand.
+546    $a Latest issue consulted: March 17, 2022.
+588    $a Description based on: Vol. 127, no. 6521 (Tuesday Sept. 12, 1989); title from masthead.
+651  0 $a Waikato (N.Z.) $v Newspapers.
+655  7 $a New Zealand newspapers $2 local $5 Nz
+776 0  $i Online version: $t Te Awamutu courier (Online) $x 2253-4075
+780 00 $t Waipa post

@@ -1,0 +1,25 @@
+{
+  "id": 3137,
+  "title": "Guardian",
+  "genre": "Newspaper",
+  "firstYear": "1873",
+  "finalYear": "1873",
+  "district": "Dunedin City",
+  "frequency": "Daily",
+  "idMarcControlNumber": "5095045",
+  "isCurrent": false,
+  "placecode": "13-03",
+  "placename": "Dunedin",
+  "region": "Otago",
+  "links": {
+    "unknown-1": {
+      "direction": "Succeeding",
+      "relationship": "Continued by",
+      "target-description": "Otago guardian"
+    }
+  },
+  "sources": {
+    "2022-08-31T04:35:49.907Z": "Extracted from the New Zealand National Bibliography (MARC record 5095045) downloaded June 2022."
+  },
+  "revision": 1
+}

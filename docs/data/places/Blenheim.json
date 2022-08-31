@@ -1,7 +1,7 @@
 {
   "stats": {
     "placename": "Blenheim",
-    "count": 13,
+    "count": 14,
     "decades": 7
   },
   "papers": [
@@ -49,6 +49,12 @@
       "firstYear": "1882",
       "finalYear": "1905",
       "urlDigitized": "https://paperspast.natlib.govt.nz/newspapers/marlborough-daily-times"
+    },
+    {
+      "id": "3147",
+      "title": "Marlborough Express Weekly Edition",
+      "firstYear": "1882",
+      "finalYear": "1887"
     },
     {
       "id": "2271",

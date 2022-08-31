@@ -1,8 +1,8 @@
 {
   "stats": {
     "placename": "Hawera",
-    "count": 7,
-    "decades": 5
+    "count": 9,
+    "decades": 6
   },
   "papers": [
     {
@@ -13,11 +13,23 @@
       "urlDigitized": "https://paperspast.natlib.govt.nz/newspapers/hawera-normanby-star"
     },
     {
+      "id": "3079",
+      "title": "Hawera Morning Post",
+      "firstYear": "1894",
+      "finalYear": "1900"
+    },
+    {
       "id": "1836",
       "title": "Hawera Star",
       "firstYear": "1924",
       "finalYear": "1984",
       "urlDigitized": "https://paperspast.natlib.govt.nz/newspapers/hawera-star"
+    },
+    {
+      "id": "3049",
+      "title": "Hawera Star",
+      "firstYear": "1924",
+      "finalYear": "1981"
     },
     {
       "id": "1840",

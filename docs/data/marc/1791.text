@@ -1,0 +1,33 @@
+01293cas a2200409 a 4500
+001 997370613502836
+003 Nz
+005 20200928101235.0
+008 940718d18521989nz dn ne      0   a0eng  
+035    $a (nzNZBN)8567734
+035    $a abn94170926
+035    $a 737061
+035    $a (NLNZils)737061
+035    $a (Nz)2807004
+035    $a (NLNZils)737061-ilsdb
+035    $a (OCoLC)173327382
+040    $a NZNB $c ABN $d NZNB
+042    $a nznb
+043    $a u-nz---
+082 04 $a 079.93 $2 21
+245 04 $a The Taranaki herald.
+260    $a New Plymouth, N.Z. : $b G.W. Woon and W. Collins, $c [1852-1989]
+300    $a v. ; $c 42-44 cm.
+310    $a Daily (except Sunday), $b -1989
+321    $a Semiweekly, $b 1869-
+321    $a Weekly, $b Aug. 4, 1862-
+362 0  $a Vol. 1, no. 1 (Aug. 4, 1852)-
+362 1  $a Ceased in 1989.
+500    $a Title from masthead.
+515    $a Not published 12 May 1860.
+525    $a Includes supplement.
+530    $a Available on microfilm from Microfilm Production Unit, National Library of New Zealand.
+651  0 $a Taranaki (N.Z.) $v Newspapers.
+651  0 $a New Plymouth (N.Z.) $v Newspapers.
+655  7 $a New Zealand newspapers. $2 local $5 Nz
+752    $a New Zealand $d New Plymouth.
+776 08 $i Online version: $t Taranaki herald $w (Nz)9914724713502836

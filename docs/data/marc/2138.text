@@ -1,0 +1,31 @@
+01758cas a2200385 a 4500
+001 995605753502836
+003 Nz
+005 20161223143605.0
+007 hd|afa   bucu
+008 000622d19211922nz zr n       0   a0eng  
+035    $z 8164650
+035    $a (Nz)5623083
+035    $a (NLNZils)560575
+035    $a (NLNZils)560575-ilsdb
+035    $a (OCoLC)233979775
+040    $a NZNB $c NZNB
+041 1  $a chi $a eng
+042    $a nznb
+043    $a a-cc--- $a u-nz---
+082 04 $a 951.04105 $2 21
+245 04 $a The man sing times = $b Min sheng bao.
+246 13 $a Min sheng bao
+260    $a Wellington, N.Z. : $b Chan Shiu Fong, $c 1921-1922.
+300    $a v. : $b ill., ports. ; $c 40 cm.
+310    $a Every 10 days
+362 0  $a Vol. 1, no. 1 (July 11th 1921)-vol. 2, no. 8 (12 Oct. 1922)
+520 8  $a "Is an official organ of Chinese Republicans in New Zealand and Australia, and also circulates throughout America, the Straits ..., the Pacific Island[s], Hong Kong, Canton and other parts of China. It is published every ten days and containing the latest news regarding affairs in China and other parts of the world"--Special notice.
+533    $a Reproduced in microfilm. $m v. 1, no. 1 (July 1, 1921)-v. 2, no. 8 (Oct. 12, 1922). $b Wellington, N.Z. : $c National Library of New Zealand, $d 2000. $e 1microfilm reel ; 35 mm.
+546    $a In Chinese, with some English.
+550    $a Printed and published by Chan Shiu Fong ... for the proprietors Ngan Gam Kwong, Wong Shek Poi, Ping Ming and Jong Luen--v. 1, no. 11 (Oct 25, 1921).
+650 00 $a Chinese $z New Zealand $v Newspapers.
+651  0 $a Wellington (N.Z.) $v Newspapers.
+655  7 $a New Zealand newspapers. $2 local $5 Nz
+655  7 $a Chinese newspapers. $2 local $5 Nz
+710 2  $a National Library of New Zealand.

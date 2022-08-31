@@ -1,0 +1,27 @@
+01014cas a22003375i 4500
+001 9912200043502836
+003 Nz
+005 20161223161828.0
+008 061127c200u9999nz mr|n       0   a0eng  
+035    $a (NLNZils)1220004
+035    $a (Nz)11147179
+035    $a (NLNZils)1220004-ilsdb
+035    $a (OCoLC)173324467
+040    $a NZNB $c NZNB
+042    $a nznb
+043    $a u-nz---
+082 04 $a 079.939105 $2 22
+130 0  $a Oamaru mail extra (2006)
+245 04 $a The Oamaru mail extra.
+246 1  $a Extra
+260    $3 -<Apr. 2013> : $a Oamaru [N.Z. : $b Oamaru Mail]
+260 3  $3 <May 2013>- : $a Oamaru [N.Z.] : $b Oamaru Media
+300    $a v. : $b col. ill. ; $c 40 cm.
+310    $a Monthly
+500    $a Description based on: Issue 75, (Oct. 2006); title from masthead.
+500    $a Community newspaper.
+650  0 $a Community newspapers $z New Zealand $z Oamaru.
+651  0 $a Oamaru (N.Z.) $v Newspapers.
+655  7 $a New Zealand newspapers. $2 local $5 Nz
+772 0  $t Oamaru mail
+780 00 $t Oamaru mail extra.

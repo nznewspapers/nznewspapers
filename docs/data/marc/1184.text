@@ -1,0 +1,24 @@
+00870cas a22003011a 4500
+001 999298783502836
+003 Nz
+005 20160321142654.0
+008 040106d19791984nz  r ne      0   0 eng d
+035    $a (NLNZils)929878
+035    $a (Nz)8164699
+035    $a (NLNZils)929878-ilsdb
+035    $a (OCoLC)173421787
+040    $a WN $c WN
+042    $a nznb
+043    $a u-nz---
+130 0  $a Manukau courier (Manukau ed. : 1979)
+245 10 $a Manukau courier.
+250    $a Manukau ed.
+260    $a [Otahuhu, N.Z. : $b s.n., $c 1979-1984]
+310    $a Semiweekly
+362 0  $a 1979 Aug.4-1984 Apr.?
+500    $a Insert 1981 Mar.17-1984? Franklin courier.
+651  0 $a Manukau (N.Z.) $v Newspapers.
+655  7 $a New Zealand newspapers. $2 local $5 Nz
+780 00 $t Courier (Manukau, N.Z.)
+785 00 $t Courier (Manukau central ed.)
+785 00 $t Courier (Manukau & Franklin ed.)

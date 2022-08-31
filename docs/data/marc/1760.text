@@ -1,0 +1,23 @@
+01004cas a2200289 a 4500
+001 996355893502836
+003 Nz
+005 20201023093142.0
+008 010606d18651868nz wr|ne      0   a0eng  
+035    $a (NLNZils)635589
+035    $a (Nz)6310565
+035    $a (NLNZils)635589-ilsdb
+035    $a (OCoLC)173388094
+040    $a NZNB $c NZNB
+042    $a nznb
+043    $a u-nz---
+082 04 $a 079.9346 $2 22
+245 04 $a The Hawke's Bay weekly times.
+260    $a Napier [N.Z. : $b T.B. Harding, $c -1868]
+300    $a v. ; $c 43 cm.
+310    $a Weekly
+362 1  $a Began with 6 Feb. 1865; new series began with vol. 1 (new ser.) 1 (7 Jan. 1867); ceased with v. 2 (new ser.) 104 (Dec. 28, 1868).
+500    $a Title from caption.
+530    $a Available on microfilm from the Microfilm Production Unit, National Library of New Zealand.
+651  0 $a Hawke's Bay (N.Z.) $v Newspapers.
+655  7 $a New Zealand newspapers. $2 local $5 Nz
+776 08 $i Online version: $t Hawke's Bay weekly times $w (Nz)9914703503502836

@@ -1,0 +1,30 @@
+{
+  "id": 3069,
+  "title": "Coaster",
+  "genre": "Newspaper",
+  "firstYear": "1983",
+  "finalYear": "1985",
+  "district": "Auckland",
+  "frequency": "Weekly",
+  "idMarcControlNumber": "8127579",
+  "isCurrent": false,
+  "placecode": "02-01",
+  "placename": "Orewa",
+  "region": "Auckland",
+  "links": {
+    "unknown-1": {
+      "direction": "Preceding",
+      "relationship": "Continues",
+      "target-description": "Hibiscus coaster"
+    },
+    "unknown-2": {
+      "direction": "Succeeding",
+      "relationship": "Continued by",
+      "target-description": "Hibiscus coaster (1985)"
+    }
+  },
+  "sources": {
+    "2022-08-31T04:35:31.052Z": "Extracted from the New Zealand National Bibliography (MARC record 8127579) downloaded June 2022."
+  },
+  "revision": 1
+}

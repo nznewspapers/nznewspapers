@@ -1,8 +1,8 @@
 {
   "stats": {
     "placename": "Paeroa",
-    "count": 9,
-    "decades": 7
+    "count": 11,
+    "decades": 8
   },
   "papers": [
     {
@@ -23,6 +23,18 @@
       "title": "Hauraki Plains Gazette",
       "firstYear": "1921",
       "finalYear": "1977"
+    },
+    {
+      "id": "3124",
+      "title": "Hauraki Plains Gazette",
+      "firstYear": "1921",
+      "finalYear": "1977"
+    },
+    {
+      "id": "3072",
+      "title": "Coromandel & Mercury Bay Gazette",
+      "firstYear": "1931",
+      "finalYear": "1942"
     },
     {
       "id": "1509",

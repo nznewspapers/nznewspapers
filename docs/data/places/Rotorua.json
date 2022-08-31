@@ -1,8 +1,8 @@
 {
   "stats": {
     "placename": "Rotorua",
-    "count": 10,
-    "decades": 8
+    "count": 13,
+    "decades": 9
   },
   "papers": [
     {
@@ -11,6 +11,12 @@
       "firstYear": "1885",
       "finalYear": "1916",
       "urlDigitized": "https://paperspast.natlib.govt.nz/newspapers/hot-lakes-chronicle"
+    },
+    {
+      "id": "3116",
+      "title": "Hot Lakes Chronicle",
+      "firstYear": "1885",
+      "finalYear": "1916"
     },
     {
       "id": "1674",
@@ -26,6 +32,12 @@
     },
     {
       "id": "1676",
+      "title": "Rotorua Chronicle",
+      "firstYear": "1916",
+      "finalYear": "1931"
+    },
+    {
+      "id": "3048",
       "title": "Rotorua Chronicle",
       "firstYear": "1916",
       "finalYear": "1931"
@@ -67,6 +79,12 @@
       "firstYear": "1984",
       "finalYear": "9999",
       "urlCurrent": "http://www.stuff.co.nz/waikato-times/rotorua-review"
+    },
+    {
+      "id": "3045",
+      "title": "Rotorua Daily Post",
+      "firstYear": "2013",
+      "finalYear": "9999"
     }
   ]
 }

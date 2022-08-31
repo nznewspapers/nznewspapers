@@ -1,0 +1,27 @@
+01112cas a2200337 a 4500
+001 999305633502836
+003 Nz
+005 20200810101547.0
+008 040108d19001923nz wr|ne      0   a0eng  
+035    $z 5096956
+035    $a (NLNZils)930563
+035    $a (Nz)8171579
+035    $a (NLNZils)930563-ilsdb
+035    $a (OCoLC)946531405
+040    $a NZNB $c NZNB
+042    $a nznb
+043    $a u-nz---
+082 04 $a 079.936 $2 22
+130 0  $a Free lance (Wellington, N.Z.)
+245 10 $a Free lance : $b an illustrated journal of information and racy comment upon the topics of the hour.
+246 1  $i First two issues have title: $a New Zealand free lance
+246 14 $a New Zealand free lance $f <June 1917>-
+260    $a [Wellington, N.Z. : $b Geddis and Blomfield, $c 1900-1923]
+300    $a 23 v. : $b ill. ; $c 40 cm.
+310    $a Weekly
+362 0  $a Vol. 1, no. 1 (July 7, 1900)-
+362 1  $a Ceased with no. 50 (June 20, 1923)
+655  7 $a New Zealand newspapers. $2 local $5 Nz
+776 08 $i Online version: $t Free lance $w (Nz)9914705643502836
+780 01 $t New Zealand observer
+785 00 $t New Zealand free lance

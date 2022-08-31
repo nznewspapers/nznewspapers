@@ -1,0 +1,30 @@
+01234cas a2200373 a 4500
+001 9913103963502836
+003 Nz
+005 20220401160617.0
+008 081030c20089999nz er|ne      0   a0eng  
+035    $a (NLNZils)1310396
+035    $a (Nz)12536627
+035    $a (NLNZils)1310396-ilsdb
+035    $a (OCoLC)946513918
+040    $a NZNB $c NZNB
+042    $a nznb
+043    $a u-nz---
+082 04 $a 079.9359 $2 22
+130 0  $a Horowhenua chronicle (2008)
+245 10 $a Horowhenua chronicle.
+260    $3 2008- : $a Levin [N.Z.] : $b Horowhenua Chronicle, $c [2008]-
+260 3  $3 <2022-> : $a [Auckland, N.Z.?] : $b NZME
+300    $a v. : $b ill. (chiefly col.) ; $c 40 cm.
+310    $a Biweekly
+362 1  $a Began with Oct. 25, 2008.
+500    $a Title from masthead.
+500    $a "Love this paper - love this place".
+500    $a Community newspaper.
+500    $a Published by APN NZ Media <2013>-
+588    $a Latest issue consulted: March 11, 2022.
+651  0 $a Horowhenua District (N.Z.) $v Newspapers.
+655  7 $a New Zealand newspapers. $2 local $5 Nz
+776 08 $i Online version: $t Horowhenua chronicle (2008) $w (Nz)9916685063502836
+780 00 $t Chronicle (Levin, N.Z. : 2008)
+780 05 $t Community connection (Levin, N.Z.)

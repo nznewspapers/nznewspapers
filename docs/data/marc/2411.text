@@ -1,0 +1,45 @@
+02288cas a2200553 a 4500
+001 994802653502836
+003 Nz
+005 20210518083453.0
+008 051109c18619999nz dn|ne      0   a0eng  
+022 0  $a 0113-9762 $2 _g
+035    $z 291974
+035    $a (nzNZBN)5123678
+035    $a zbn89077179
+035    $a (NLNZils)480265
+035    $a (Nz)3531175
+035    $a (NLNZils)480265-ilsdb
+035    $a (OCoLC)941693407
+040    $a NZNB $c NZNB
+042    $a nznb
+043    $a u-nz---
+082 0  $a 079.93 $2 20
+130 0  $a Press (Christchurch, N.Z.)
+222  0 $a Press $b (Christchurch)
+245 14 $a The Press.
+246 13 $i Issue for Māori Language Week has title: $a Matatika
+246 1  $i At head of title: $a Matatika $f Nov. 28, 30 (2020)
+250    $a Christchurch ed.
+260    $a Christchurch [N.Z. : $b The Press, $c 1861-]
+260 2  $3 <2008>- $a [New Zealand : $b Fairfax Media]
+260 3  $3 <February 2018-> $a [Auckland] : $b [Stuff Limited]
+300    $a v. : $b ill., (some col.), forms, col. map, ports. (some col.) ; $c 40-58 cm.
+310    $a Daily (except Sunday)
+321    $a Semiweekly $b Oct 22 1862-Mar 14 1863
+321    $a Weekly $b -Oct 18 1862
+362 1  $a Began with May 25, 1861 $z Cf. Harvey, D. R. Union list of newspapers ... in New Zealand.
+500    $a Publication temporarily suspended from Mar. 28, 2011 due to Feb. 22, 2011 Christchurch earthquake. Resumed publication on Mar. 1, 2012.
+500    $a Also issued in a South Island ed.
+500    $a Includes advertising.
+500    $a From >2021< title during New Zealand Sign Language Week also given in NZSL finger spellings.
+510 2  $a Index New Zealand, $x 0113-6526, $b Sept. 30, 1988-
+515    $a Some issues bear incorrect designation.
+525    $a Special supplement Aug. 4, 1923 with title: Linking of east & west : the story of a great work.
+530    $a Available on microfilm from Microfilm Production Unit, National Library of New Zealand.
+588    $a Description based on: Tuesday Aug. 29, 1989; title from masthead.
+651  0 $a Christchurch (N.Z.) $v Newspapers.
+655  7 $a New Zealand newspapers. $2 local $5 Nz
+770 0  $t Press junior $g July 5, 1934-
+775 0  $t Press (Christchurch, N.Z. : South Island ed.)
+776 0  $i Online version: $t Press $x 2744-6018

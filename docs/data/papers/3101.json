@@ -1,0 +1,18 @@
+{
+  "id": 3101,
+  "title": "Auckland Sun",
+  "genre": "Newspaper",
+  "firstYear": "1987",
+  "finalYear": "1988",
+  "district": "Auckland",
+  "frequency": "Daily",
+  "idMarcControlNumber": "8131329",
+  "isCurrent": false,
+  "placecode": "02-01",
+  "placename": "Auckland",
+  "region": "Auckland",
+  "sources": {
+    "2022-08-31T04:35:39.851Z": "Extracted from the New Zealand National Bibliography (MARC record 8131329) downloaded June 2022."
+  },
+  "revision": 1
+}

@@ -1,0 +1,29 @@
+01129cas a2200361 a 4500
+001 999285303502836
+003 Nz
+005 20210401181225.0
+008 930611d19931994nz erzne      0   a0eng  
+022 0  $a 1172-403X
+035    $a (nzNZBN)7810528
+035    $a zbn93050026
+035    $a (NLNZils)928530
+035    $a (Nz)5053220
+035    $a (NLNZils)928530-ilsdb
+035    $a (OCoLC)173360407
+040    $a NZNB $c NZNB
+042    $a nznb
+043    $a u-nz---
+082 04 $a 079.9313 $2 20
+222  0 $a Far north penny pincher
+245 04 $a The Far north penny pincher.
+246 30 $a Penny pincher
+260    $a Kaitaia [N.Z.] : $b Speckled Hen Graphics, $c 1993-1994.
+300    $a ? v. : $b ill., ports. ; $c 44 cm.
+362 1  $a Began 6 Apr. 1993; ceased with Mar. 30, 1994.
+500    $a Community newspaper.
+500    $a "A free fortnightly magazine."
+500    $a Description based on: Tuesday May 4, 1993; title from caption.
+500    $a Available from Speckled Hen Graphics Ltd., RD 3, Kaitaia, N.Z.
+651  0 $a Kaitaia (N.Z.)
+655  7 $a New Zealand newspapers. $2 local $5 Nz
+785 00 $t Far north times $x 1172-9880

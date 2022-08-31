@@ -1,0 +1,26 @@
+00982cas a2200325 a 4500
+001 999309473502836
+003 Nz
+005 20160321142717.0
+008 040109d19761977nz wr ne      0   a0eng  
+035    $a (NLNZils)930947
+035    $a (Nz)8176871
+035    $a (NLNZils)930947-ilsdb
+035    $a (OCoLC)173422374
+040    $a NZNB $c NZNB
+042    $a nznb
+043    $a u-nz---
+082 04 $a 079.9363 $2 23
+130 0  $a Nor'wester (Wellington, N.Z. : 1976)
+245 10 $a Nor'wester.
+260    $a [Wellington, N.Z. : $b s.n., $c 1976-1977]
+300    $a v. : $b ill. ; $c 44 cm.
+310    $a Weekly
+362 0  $a 1976 Mar.2-1977 Sep.13.
+500    $a Community newspaper.
+580    $a Companion to: The sentinel.
+588    $a Latest issue consulted: Vol. 2, no. 34 (July 26, 1977).
+651  0 $a Wellington (N.Z. : Region) $v Newspapers.
+655  7 $a New Zealand newspapers. $2 local $5 Nz
+780 00 $t Norwester (Wellington, N.Z. : 1972)
+787 1  $t Sentinel (Wellington, N.Z. : 1976)

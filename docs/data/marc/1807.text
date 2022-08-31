@@ -1,0 +1,33 @@
+01470cas a2200409 a 4500
+001 994801803502836
+003 Nz
+005 20210401184905.0
+008 d19602d19602004nz dnzne      0   a0eng  
+022 0  $a 1170-0246 $y 0117-0246
+035    $a (nzNZBN)5164349
+035    $a zbn89076546
+035    $a (NLNZils)480180
+035    $z 291861
+035    $a (Nz)3531202
+035    $a (NLNZils)480180-ilsdb
+035    $a (OCoLC)173333263
+040    $a NZNB $c NZNB
+042    $a nznb
+043    $a u-nz---
+082 04 $a 079.93 $2 20
+130 0  $a Daily news (New Plymouth, N.Z.)
+222  0 $a Daily news $b (New Plymouth)
+245 14 $a The Daily news.
+260    $a New Plymouth [N.Z.] : $b Taranaki Newspapers, $c 1960-2004.
+300    $a v. : $b ill., maps, ports. (some col.) ; $c 58 cm.
+310    $a Daily (except Sunday)
+362 1  $a Began with Jun. 21, 1960. $z Cf. Harvey, D. R. Union list of newspapers ... in New Zealand; ceased with Aug. 20, 2004.
+500    $a "New Plymouth."
+500    $a Includes advertising.
+500    $a Description based on: Wednesday Sept. 20, 1989; title from masthead.
+510 2  $a Index New Zealand, $x 0113-6526, $b May 14 1988-Aug. 20, 2004
+530    $a Available on microfilm from Microfilm Production Unit, National Library of New Zealand.
+651  0 $a Taranaki (N.Z.) $v Newspapers.
+655  7 $a New Zealand newspapers. $2 local $5 Nz
+780 00 $t Taranaki daily news
+785 00 $t Taranaki daily news (New Plymouth, N.Z. : 2004) $x 1176-7596

@@ -1,0 +1,30 @@
+{
+  "id": 3049,
+  "title": "Hawera Star",
+  "genre": "Newspaper",
+  "firstYear": "1924",
+  "finalYear": "1981",
+  "district": "South Taranaki District",
+  "frequency": "Semiweekly",
+  "idMarcControlNumber": "5095132",
+  "isCurrent": false,
+  "placecode": "07-03",
+  "placename": "Hawera",
+  "region": "Taranaki",
+  "links": {
+    "unknown-1": {
+      "direction": "Preceding",
+      "relationship": "Continues",
+      "target-description": "Hawera & Normanby star"
+    },
+    "unknown-2": {
+      "direction": "Succeeding",
+      "relationship": "Continued by",
+      "target-description": "Star (Hawera, N.Z.)"
+    }
+  },
+  "sources": {
+    "2022-08-31T04:35:26.000Z": "Extracted from the New Zealand National Bibliography (MARC record 5095132) downloaded June 2022."
+  },
+  "revision": 1
+}

@@ -1,0 +1,27 @@
+01051cas a2200337 a 4500
+001 999261383502836
+003 Nz
+005 20210401181205.0
+008 900926d19661989nz erzne      0   a0eng  
+022 0  $a 1170-4373
+035    $a (NLNZils)926138
+035    $a (nzNZBN)3555973
+035    $a zbn90082284
+035    $a (Nz)4074931
+035    $a (NLNZils)926138-ilsdb
+035    $a (OCoLC)173339191
+040    $a NZNB $c NZNB
+042    $a nznb
+043    $a u-nz---
+082 04 $a 079.937105 $2 20NZ
+222  0 $a Pegasus post
+245 00 $a Pegasus post.
+260    $a [Christchurch, N.Z. : $b Pegasus Post, $c 1966-1989]
+300    $a ? v. : $b ill., facsim., ports. ; $c 42 cm.
+362 1  $a Ceased with 14 April 1989.
+362 1  $a Began 25 May 1966 $z New Zealand National Bibliography.
+500    $a Community newspaper.
+500    $a Description based on: Monday June 3 1985; title from masthead.
+651  0 $a Christchurch Region (N.Z.) $x Periodicals.
+655  7 $a New Zealand newspapers. $2 local $5 Nz
+785 00 $t Community news (Pegasus post ed.) $x 1170-117X

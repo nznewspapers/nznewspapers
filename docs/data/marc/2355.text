@@ -1,0 +1,33 @@
+01388cas a2200409 a 4500
+001 999252383502836
+003 Nz
+005 20210401181321.0
+008 891013d19831989nz wrzne      0   a0eng  
+022 0  $a 1170-0114 $y 0117-0114
+035    $a (nzNZBN)5164343
+035    $a zbn89076561
+035    $a (NLNZils)925238
+035    $a (Nz)3531200
+035    $a (NLNZils)925238-ilsdb
+035    $a (OCoLC)173333261
+040    $a NZNB $c NZNB
+042    $a nznb
+043    $a u-nz---
+082 04 $a 079.937 $2 20NZ
+222  0 $a Central Canterbury news
+245 00 $a Central Canterbury news.
+246 30 $a News
+260    $a [Darfield?, N.Z. : $b Central Canterbury News, $c 1983-1989]
+300    $a ?v. : $b ill., ports. ; $c 42 cm.
+362 1  $a Began with May 4, 1983. $z Cf. Harvey, D. R. Union list of newspapers ... in New Zealand.
+362 1  $a Ceased with 25 Oct. 1989.
+500    $a Community newspaper.
+500    $a "Incorporating Ellesmere guardian."
+500    $a Includes advertising
+500    $a Description based on: Vol. 7, no. 35 (Wednesday Sept. 13, 1989); title from masthead.
+530    $a Available on microfilm from Microfilm Production Unit, National Library of New Zealand.
+651  0 $a Canterbury (N.Z.) $v Periodicals.
+655  7 $a New Zealand newspapers. $2 local $5 Nz
+780 04 $t Guardian (Leeston, N.Z.)
+780 04 $t Malvern record
+785 00 $t News plus $x 1170-0327

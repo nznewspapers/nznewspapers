@@ -1,0 +1,38 @@
+01778cas a2200469 a 4500
+001 998652563502836
+003 Nz
+005 20210518081735.0
+008 971211c19959999nz  r|ne      0   a0eng  
+022 0  $a 1173-5678 $2 _g
+035    $a (nzNZBN)10597076
+035    $a (NLNZils)865256
+035    $a zbn97120298
+035    $a 4835380
+035    $a (Nz)4835380
+035    $a (NLNZils)865256-ilsdb
+035    $a (OCoLC)173350635
+040    $a NZNB $c NZNB
+042    $a nznb
+043    $a u-nz---
+082 04 $a 079.93 $2 21
+210 1  $a Nelson mail
+222  0 $a Nelson mail
+245 04 $a The Nelson mail.
+246 13 $i Issue for Maori Language Week has title: $a Karere O Whakatū
+260    $a [Nelson, N.Z.] : $b Nelson Mail, $c [1995-
+260 2  $3 <2015>- $a [Auckland, N.Z. : $b Fairfax Media]
+260 3  $3 <February 2018-> $a [Auckland, N.Z. : $b Stuff Limited]
+300    $a v. : $b ill., ports. ; $c 40-59 cm.
+310    $a Four days a week
+362 1  $a Began with 12th June 1995?
+500    $a Description based on: Apr. 30, 1997; title from caption.
+500    $a Issue for Mar. 5, 2016 includes reprint of pages 1-4 of the Mar. 5, 1866 issue of the Nelson evening mail.
+500    $a Karere O Whakatū continues as subtitle from September 17, 2018.
+500    $a From >2021< title during New Zealand Sign Language Week also given in NZSL finger spellings.
+510 2  $a Index New Zealand, $x 0113-6526, $b 12th June 1995-
+530    $a Available on microfilm from Microfilm Production Unit, National Library of New Zealand.
+530    $a Some content available in an electronic ed.
+651  0 $a Nelson (N.Z.) $v Newspapers.
+655  7 $a New Zealand newspapers. $2 local $5 Nz
+776 08 $i Online version: $t Nelson mail $x 2744-600X
+780 00 $t Nelson evening mail $x 1170-0270

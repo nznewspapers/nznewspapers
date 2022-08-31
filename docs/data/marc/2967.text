@@ -1,0 +1,27 @@
+01051cas a2200337 a 4500
+001 999103203502836
+003 Nz
+005 20210401181045.0
+008 920916d197u2008nz mr|ne      0   a0eng  
+022 0  $a 1171-8579 $y 1171-8580 $2 _g
+035    $a (nzNZBN)7196936
+035    $a (NLNZils)910320
+035    $a zbn92088476
+035    $a (Nz)4706904
+035    $a (NLNZils)910320-ilsdb
+035    $a (OCoLC)173347443
+040    $a NZNB $c NZNB
+042    $a nznb
+043    $a u-nz---
+082 04 $a 079.9385 $2 20NZ
+222  0 $a Winton record
+245 00 $a Winton record.
+260    $a Winton [N.Z.] : $b Winton Record Printing Co., $c [197-?-2008]
+300    $a v. : $b ill., ports. ; $c 42 cm.
+310    $a Monthly
+362 1  $a Ceased with No. 400 (Mar. 2008).
+500    $a Description based on: No. 208 (Feb. 1992); title from caption.
+500    $a Available from Winton Record Printing Co. Ltd., 319 Great North Rd., Winton, N.Z.
+651  0 $a Winton (N.Z.) $v Periodicals.
+655  7 $a New Zealand newspapers. $2 local $5 Nz
+785 00 $t Record (Winton (N.Z.))

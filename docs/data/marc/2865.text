@@ -1,0 +1,34 @@
+01433cas a2200421 a 4500
+001 999328973502836
+003 Nz
+005 20210401181144.0
+008 940228d19921993nz zngne      0   a0eng  
+022 0  $a 1172-9422
+035    $a (nzNZBN)8158880
+035    $a (NLNZils)932897
+035    $a zbn94015362
+035    $a (Nz)4335049
+035    $a (NLNZils)932897-ilsdb
+035    $a (OCoLC)173341872
+040    $a NZNB $c NZNB
+042    $a nznb
+043    $a u-nz---
+082 04 $a 079.9364 $a 079.9365 $2 20
+210 0  $a Val. weekend.
+222  0 $a Valley weekender
+245 00 $a Valley weekender.
+260    $a Lower Hutt, N.Z. : $b [Central Community Newspapers], $c 1992-1993.
+300    $a v. : $b ill., ports. ; $c 43 cm.
+310    $a Biweekly, Oct.-Dec.
+362 1  $a Began in 1992; ceased with Dec. 16 1993.
+500    $a Joint publication with Hutt News and Upper Hutt leader.
+500    $a Community newspaper.
+500    $a Description based on: Thursday 21 Oct. 1993; title from caption.
+500    $a Available from Central Community Newspapers, P.O. Box 30-041 Lower Hutt, N.Z.
+580    $a Complemented by: Summer in the valley, Dec. - Mar. each year.
+651  0 $a Lower Hutt (N.Z.) $v Periodicals.
+651  0 $a Upper Hutt (N.Z.) $v Periodicals.
+655  7 $a New Zealand newspapers. $2 local $5 Nz
+787 1  $t Summer in the valley $x 1172-9430
+787 1  $t Hutt news $x 1170-0564
+787 1  $t Upper Hutt leader $x 1170-0947

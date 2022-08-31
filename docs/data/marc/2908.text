@@ -1,0 +1,33 @@
+01242cas a2200409 a 4500
+001 999278233502836
+003 Nz
+005 20210401181345.0
+008 930302d19921993nz erzne      0   a0eng  
+022 0  $a 1172-2576
+035    $a (nzNZBN)7418289
+035    $a (NLNZils)927823
+035    $a zbn93015470
+035    $a (Nz)4151138
+035    $a (NLNZils)927823-ilsdb
+035    $a (OCoLC)173340126
+040    $a NZNB $c NZNB
+042    $a nznb
+043    $a u-nz---
+082 04 $a 079.9351 $2 20NZ
+082 04 $a 079.9375 $2 20
+130 0  $a Community leader (Nelson, N.Z.)
+222  0 $a Community leader
+245 00 $a Community leader : $b your community newspaper.
+246 37 $a Leader
+260    $a Nelson [N.Z. : $b Community Leader, $c 1992-1993]
+300    $a ? v. : $b ill., ports. ; $c 42 cm.
+362 1  $a Ceased with Nov. 4 1993.
+362 0  $a Vol. 17 (July 31 1992)-
+500    $a Title from caption.
+500    $a Available from Community Leader, P.O. Box 706, Nelson, N.Z.
+515    $a Continues the numbering of its predecessor.
+651  0 $a Nelson (N.Z.) $v Newspapers.
+655  7 $a New Zealand newspapers. $2 local $5 Nz
+780 00 $t Richmond leader
+785 07 $t Motueka sun $x 1171-980X
+785 07 $t Leader (Nelson, N.Z.) $x 1172-7322

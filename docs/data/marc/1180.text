@@ -1,0 +1,24 @@
+00991cas a22003011a 4500
+001 999298753502836
+003 Nz
+005 20161223153031.0
+008 040106d19781979nz  r ne      0   0 eng d
+035    $a (NLNZils)929875
+035    $a (Nz)8164697
+035    $a (NLNZils)929875-ilsdb
+035    $a (OCoLC)173421781
+040    $a WN $c WN
+042    $a nznb
+043    $a u-nz---
+130 0  $a Manukau courier (Central ed. : 1978)
+245 10 $a Manukau courier.
+260    $a [Otahuhu, N.Z. : $b s.n., $c 1978-1979]
+310    $a Semiweekly
+362 0  $a 1978 Mar.2-1979 Jul.?
+500    $a Insert Otahuhu Monday booster, eg 1978.
+580    $a Merger of: Manukau courier (Manukau ed. : 1977) and: South Auckland courier (Central ed. : 1977-1978).
+651  0 $a Manukau (N.Z.) $v Newspapers.
+655  7 $a New Zealand newspapers. $2 local $5 Nz
+780 04 $t Manukau courier (Manukau ed. : 1977)
+780 04 $t South Auckland courier. Central ed. : 1977)
+785 00 $t Central courier (Otahuhu, N.Z. : 1979)

@@ -1,0 +1,28 @@
+01123cas a2200349 a 4500
+001 997350423502836
+003 Nz
+005 20200828200144.0
+008 020529d18681929nz dn ne      0   a0eng  
+035    $a (NLNZils)735042
+035    $a (Nz)6963014
+035    $a (NLNZils)735042-ilsdb
+035    $a (OCoLC)173399972
+040    $a NZNB $c NZNB
+042    $a nznb
+043    $a u-nz---
+082 04 $a 079.93 $2 21
+130 0  $a Star (Christchurch, N.Z. : 1868)
+245 14 $a The star.
+260    $a Christchurch [N.Z.] : $b J. Wilkin, $c 1868-1929.
+300    $a v. ; $c 46 cm.
+310    $a Daily (except Sunday)
+362 0  $a May 14, 1868-
+362 1  $a Ceased with 31 July 1929
+530    $a Available on microfilm from Microfilm Production Unit, National Library of New Zealand.
+580    $a Accompanied by annual supplement called: Star pictorial annual, <1928>
+588    $a Title from masthead.
+651  0 $a Canterbury (N.Z.) $v Newspapers.
+655  7 $a New Zealand newspapers. $2 local $5 Nz
+770 0  $t Star pictorial annual $g <1928>
+776 08 $i Online version: $t Star $w (Nz)9914662623502836
+785 00 $t Christchurch star.

@@ -1,0 +1,26 @@
+01023cas a2200325 a 4500
+001 9910772303502836
+003 Nz
+005 20180706111702.0
+008 041221c19uu9999nz wr ne      0   a0eng  
+035    $a (Nz)9130759
+035    $a (NLNZils)1077230
+035    $a (NLNZils)1077230-ilsdb
+035    $a (OCoLC)173442772
+040    $a NZNB $c NZNB
+042    $a nznb
+043    $a u-nz---
+082 04 $a 079.9366 $2 22
+245 00 $a Wairarapa midweek.
+246 13 $a Wairarapa Times-Age midweek
+246 17 $a Midweek
+260    $a [Masterton, N.Z. : $b Wairarapa Times-Age Co.]
+260 2  $3 <2013-2016> $a [Masterton, N.Z. : $b APN NZ Media]
+260 3  $3 <2016>- $a [Masterton, N.Z. : $b Wairarapa Times-Age]
+300    $a v. : $b col. ill. ; $c 40 cm.
+310    $a Weekly
+500    $a Community newspaper.
+588    $a Description based on: Dec. 14, 2004; title from caption.
+588    $a Latest issue consulted: August 27, 2013.
+651  0 $a South Wairarapa District (N.Z.) $v Newspapers.
+655  7 $a New Zealand newspapers. $2 local $5 Nz

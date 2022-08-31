@@ -1,0 +1,36 @@
+01505cas a2200445 a 4500
+001 995254943502836
+003 Nz
+005 20210401191129.0
+008 160813d19922020nz mr|n       0   a0eng  
+022 0  $a 1171-9117 $2 _g
+035    $z 341537
+035    $a (nzNZBN)7144786
+035    $a zbn92092198
+035    $a (NLNZils)525494
+035    $a (Nz)4082336
+035    $a (NLNZils)525494-ilsdb
+035    $a (OCoLC)173339282
+040    $a NZNB $c NZNB
+042    $a nznb
+043    $a u-nz---
+082 04 $a 079.9399 $2 23
+210 1  $a Chatham islander
+222  0 $a Chatham islander
+245 04 $a The Chatham islander : $b newsletter of the Chatham Islands Enterprise Trust.
+260    $a Chatham Islands, N.Z. : $b The Trust, $c [1992-2020]
+260 3  $3 Jan. 2011- $a Christchurch [N.Z.] : $b Rosemary Jackson
+260 3  $3 Dec. 2014-Mar. 2020 : $a Christchurch : $b Rosemary Graham, Rose Communications
+300    $a v. : $b ill. ; $c 30-42 cm.
+310    $a Monthly, $b Sept. 15, 1992-
+321    $a Biweekly, $b -12 Aug. 1992>
+362 0  $a No. 1 (Apr. 1992)-Mar. 2020.
+500    $a Title from caption.
+500    $a "Rosemary Jackson, Jan. 2011."
+500    $a Subtitle varies.
+550    $a Issued by: Media East, Apr. 11, 2006-
+588    $a Latest issue consulted: Mar. 2020.
+610 20 $a Chatham Islands Enterprise Trust $v Periodicals.
+651  0 $a Chatham Islands (N.Z.) $v Periodicals.
+710 2  $a Chatham Islands Enterprise Trust.
+776 0  $i Online version: $t Chatham islander (Online) $x 2324-2434

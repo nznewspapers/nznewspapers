@@ -1,0 +1,33 @@
+01378cas a2200409 a 4500
+001 9915658603502836
+003 Nz
+005 20161223170721.0
+008 120813d20112013nz wr|n       0   a0eng  
+035    $a (NLNZils)1565860
+035    $a (Nz)14317107
+035    $a (NLNZils)1565860-ilsdb
+035    $a (OCoLC)806980359
+040    $a NZNB $c NZNB
+042    $a nznb
+043    $a u-nz---
+082 04 $a 079.9383 $2 22
+130 0  $a Mainland press (Nor'west news ed.)
+245 10 $a Mainland press.
+250    $a Nor'west news ed.
+260    $a Christchurch [N.Z.] : $b Mainland Press, $c -[2013]
+300    $a v. : $b col. ill. ; $c 40 cm.
+310    $a Weekly $b Mar. 2012-
+321    $a Irregular $b -Feb. 2012
+362 1  $a Ceased with May 16, 2013.
+500    $a Community newspaper.
+525    $a Includes separately paginated section with title: Nor'west news.
+580    $a Also issued in Southern view and Pegasus Bay news eds.
+588    $a Description based on: Nov. 2, 2011.
+588    $a Latest issue consulted: May 16, 2013.
+651  0 $a Christchurch (N.Z.) $v Newspapers.
+655  7 $a New Zealand newspapers. $2 local $5 Nz
+740 02 $a Nor'west news
+776 0  $i Online version: $t Mainland press (Online) $w (Nz)9915761213502836
+780 07 $t Mainland press
+785 07 $t News advertiser (Christchurch, N.Z. : 2009)
+785 07 $t Nor'west news (Christchurch, N.Z. : 2013)

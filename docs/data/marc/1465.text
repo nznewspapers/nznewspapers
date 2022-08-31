@@ -1,0 +1,26 @@
+01031cas a2200325 a 4500
+001 996495653502836
+003 Nz
+005 20161223145342.0
+008 010731d200u2004nz wr|ne      0   e0chi  
+035    $a (Nz)6515432
+035    $a (NLNZils)649565
+035    $a (NLNZils)649565-ilsdb
+035    $a (OCoLC)173391161
+040    $a NZNB $c DU $d NZNB
+041 0  $a chi $a eng
+042    $a nznb
+043    $a u-nz---
+082 04 $a 305.895109305 $2 21
+245 10 $6 880-01 $a Hua ren shang bao = $b Chinese business times.
+880 00 $6 245-01 $a 華人商報 = $b Chinese business times.
+246 11 $a Chinese business times
+260    $a Auckland, N.Z. : $b MingShan Pub., $c -[2004]
+300    $a v. : $b col. ill. ; $c 43 cm.
+310    $a Weekly
+362 0  $a -no. 173 (Dec. 15, 2004)
+500    $a Description based on: 009 (Aug. 23, 2001); title from caption.
+546    $a Text in Chinese with some English.
+650  0 $a Chinese $z New Zealand $v Newspapers.
+655  7 $a New Zealand newspapers. $2 local $5 Nz
+655  7 $a Chinese newspapers. $2 local $5 Nz

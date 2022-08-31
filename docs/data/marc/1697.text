@@ -1,0 +1,27 @@
+01152cas a2200337 a 4500
+001 996355673502836
+003 Nz
+005 20200925113146.0
+008 010606d18741939nz dngne      0   a0eng  
+035    $a (NLNZils)635567
+035    $a (Nz)6309965
+035    $a (NLNZils)635567-ilsdb
+035    $a (OCoLC)173388090
+040    $a NZNB $c NZNB
+042    $a nznb
+043    $a u-nz---
+082 04 $a 079.93 $2 21
+245 04 $a The Poverty Bay herald : $b and East Coast news letter.
+260    $a Gisborne [N.Z. : $b Carlile and Co., $c 1874-1939]
+300    $a v. ; $c 63 cm.
+310    $a Daily (except Sunday) $b <Jan. 1879>-
+321    $a Semiweekly
+362 1  $a Began with v. 1, no. 1 (Jan. 5, 1874)
+362 1  $a Ceased in 1939.
+500    $a Description based on: Thursday Nov. 5, 1874; title from caption.
+530    $a Available on microfilm from Microfilm Production Unit, National Library of New Zealand.
+651  0 $a Gisborne District (N.Z.) $v Newspapers.
+655  7 $a New Zealand newspapers. $2 local $5 Nz
+776 08 $i Online version: $t Poverty Bay herald $w (Nz)9914473793502836
+780 05 $t Gisborne times $g 1938
+785 00 $t Gisborne herald $x 1170-0432

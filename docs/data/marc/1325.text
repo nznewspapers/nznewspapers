@@ -1,0 +1,29 @@
+01256cas a2200361 a 4500
+001 9910574203502836
+003 Nz
+005 20161223155238.0
+008 040107d19051910nz wr ne      0   0 eng  
+035    $a (NLNZils)1057420
+035    $a (Nz)8169276
+035    $a (NLNZils)1057420-ilsdb
+035    $a (OCoLC)173421964
+040    $a NZNB $c NZNB
+042    $a nznb
+043    $a u-nz---
+082 04 $a 331.88099305 $2 22
+245 00 $a N.Z. worker : $b the organ of the working class, the Political Labour League and the official organ of the Auckland Gum Diggers Union.
+246 3  $a New Zealand worker
+246 3  $a NZ worker
+260    $a Auckland [N.Z.] : $b Robert Frederick Way, $c [1905-1910?]
+300    $a v. : $b ill. ; $c 45 cm.
+310    $a Weekly
+362 1  $a Began with Sept. 1905; ceased in 1910?
+500    $a Description based on: Vol. 2, no. 91 (June 19, 1907); title from caption.
+610 20 $a Political Labour League $v Newspapers.
+610 20 $a Auckland Gum Diggers Union $v Newspapers.
+650  0 $a Labor unions $z New Zealand $v Newspapers.
+650  0 $a Labor $z New Zealand $v Newspapers.
+655  7 $a New Zealand newspapers. $2 local $5 Nz
+710 2  $a Political Labour League.
+710 2  $a Auckland Gum Diggers Union.
+785 00 $t Voice of labour

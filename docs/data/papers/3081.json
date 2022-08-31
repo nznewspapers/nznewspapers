@@ -1,0 +1,18 @@
+{
+  "id": 3081,
+  "title": "Auckland Advocate",
+  "genre": "Newspaper",
+  "firstYear": "1905",
+  "finalYear": "9999",
+  "district": "Auckland",
+  "frequency": "Frequency varies",
+  "idMarcControlNumber": "8131118",
+  "isCurrent": false,
+  "placecode": "02-01",
+  "placename": "Auckland",
+  "region": "Auckland",
+  "sources": {
+    "2022-08-31T04:35:33.125Z": "Extracted from the New Zealand National Bibliography (MARC record 8131118) downloaded June 2022."
+  },
+  "revision": 1
+}

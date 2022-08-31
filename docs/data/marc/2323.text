@@ -1,0 +1,27 @@
+01135cas a2200337 a 4500
+001 998448853502836
+003 Nz
+005 20200930092447.0
+008 891220d18651917nz dr ne      0   a0eng  
+035    $z 844885
+035    $a (NLNZils)844885
+035    $a (Nz)8187777
+035    $a (NLNZils)844885-ilsdb
+035    $a (OCoLC)173423816
+040    $a NZNB $c NZNB
+042    $a nznb
+043    $a u-nz---
+082 04 $a 079.93 $2 21
+130 0  $a West Coast times (Hokitika, N.Z. : 1865)
+245 14 $a The West Coast times.
+260    $a Hokitika [N.Z.] : $b William Shaw, $c 1865-1917.
+300    $a v. ; $c 59 cm.
+310    $a Daily, $b Jan. 1866-
+321    $a Weekly, $b May 3 1865-Dec. 1865
+362 1  $a Began with May 3 1865. $z Cf. Scholefield, Guy H. Newspapers in New Zealand.
+362 1  $a Ceased with June 2, 1917. $z Hokitika Guardian supplement, Feb. 1, 2008.
+500    $a Description based on: No. 188 (Apr. 26, 1866); title from caption.
+651  0 $a West Coast (N.Z.) $v Newspapers.
+655  7 $a New Zealand newspapers. $2 local $5 Nz
+776 08 $i Online version: $t West Coast times $w (Nz)9914726253502836
+785 04 $t Hokitika guardian

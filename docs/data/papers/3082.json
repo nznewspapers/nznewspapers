@@ -1,0 +1,18 @@
+{
+  "id": 3082,
+  "title": "Auckland And Thames Leader",
+  "genre": "Newspaper",
+  "firstYear": "1869",
+  "finalYear": "1870",
+  "district": "Auckland",
+  "frequency": "Weekly",
+  "idMarcControlNumber": "8131130",
+  "isCurrent": false,
+  "placecode": "02-01",
+  "placename": "Auckland",
+  "region": "Auckland",
+  "sources": {
+    "2022-08-31T04:35:33.125Z": "Extracted from the New Zealand National Bibliography (MARC record 8131130) downloaded June 2022."
+  },
+  "revision": 1
+}

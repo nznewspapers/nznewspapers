@@ -1,0 +1,38 @@
+01645cas a2200469 a 4500
+001 994801583502836
+003 Nz
+005 20210401184742.0
+008 c19739c19739999nz cr|ne      0   a0eng  
+022 0  $a 1170-0416 $y 0117-0416 $2 _g
+035    $a (nzNZBN)5164351
+035    $a (NLNZils)480158
+035    $a zbn89076380
+035    $a 3531204
+035    $z 291838
+035    $a (Nz)3531204
+035    $a (NLNZils)480158-ilsdb
+035    $a (OCoLC)173333265
+040    $a NZNB $c NZNB
+042    $a nznb
+043    $a u-nz---
+082 04 $a 079.9311 $2 20NZ
+210 1  $a Frankl. cty. news $b (Pukekohe)
+222  0 $a Franklin County news $b (Pukekohe)
+245 00 $a Franklin county news.
+260    $a Pukekohe [N.Z.] : $b Alpine Printers, $c 1973-
+260 2  $3 <2015>- $a [Auckland, N.Z. : $b Fairfax Media]
+260 3  $3 <February 2018-> $a [Auckland, N.Z. : $b Stuff Limited]
+300    $a v. : $b ill., map, ports. ; $c 44 cm.
+310    $a Semiweekly
+321    $a Weekly
+362 1  $a Began with 1 (Apr. 4, 1973). $z Cf. New Zealand national bibliography.
+500    $a Community newspaper.
+500    $a Includes advertising.
+530    $a Available on microfilm from Microfilm Production Unit, National Library of New Zealand.
+588    $a Description based on: Vol. 16, no. 36 (Tuesday Sept. 19, 1989); title from masthead.
+588    $a Latest issue consulted: Feb. 4, 2016.
+651  0 $a Franklin District (N.Z.) $v Newspapers.
+655  7 $a New Zealand newspapers. $2 local $5 Nz
+776 08 $i Online version: $t Franklin county news $x 2463-7084
+780 05 $t Country living (Pukekohe, N.Z.) $x 1173-3195
+780 00 $t County news (Pukekohe, N.Z.)

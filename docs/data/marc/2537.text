@@ -1,0 +1,34 @@
+01584cas a2200421 a 4500
+001 9914987313502836
+003 Nz
+005 20211102161001.0
+008 110726d20102016nz wr|n       0   a0eng  
+035    $a (NLNZils)1498731
+035    $a (Nz)13753112
+035    $a (NLNZils)1498731-ilsdb
+035    $a (OCoLC)745899126
+040    $a NZNB $c NZNB
+042    $a nznb
+043    $a u-nz---
+082 04 $a 630.993805 $2 22
+245 00 $a Central South Island farmer.
+250    $a South Canterbury ed.
+260    $a [Timaru, N.Z. : $b Timaru Herald], $c -[2016]
+260 3  $3 <2015>- $a [Auckland, N.Z. : $b Fairfax Media]
+300    $a v. : $b col. ill. ; $c 40 cm.
+310    $a Weekly
+362 1  $a Ceased with April 27, 2016
+500    $a Community newspaper.
+500    $a Continues Central South Island farm review.
+500    $a Edition statement varies: Southern edition, 24 July, 2013-
+580    $a Issued with: Mid Canterbury herald, <Feb. 9, 2011>-; South Canterbury herald, <Mar. 30, 2011>-; Waitaki herald, <Dec. 22, 2010>-
+580    $a Merged with: Central South Island farmer (Northern edition), to form: Canterbury farmer (2016).
+588    $a Description based on Nov. 17, 2010; title from caption.
+588    $a Latest issue consulted: April 27, 2016.
+650  0 $a Agriculture $z New Zealand $z Canterbury $v Periodicals.
+655  7 $a New Zealand newspapers. $2 local $5 Nz
+777 0  $t Mid Canterbury herald
+777 0  $t South Canterbury herald
+777 0  $t Waitaki herald
+785 17 $t Central South Island farmer (Northern edition)
+785 17 $t Canterbury farmer (2016)

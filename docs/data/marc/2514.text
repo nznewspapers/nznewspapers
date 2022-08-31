@@ -1,0 +1,27 @@
+01153cas a2200337 a 4500
+001 9915491673502836
+003 Nz
+005 20190521133501.0
+008 120405c20129999nz wr n       0   a0eng  
+035    $a (Nz)14202335
+035    $a (NLNZils)1549167
+035    $a (NLNZils)1549167-ilsdb
+035    $a (OCoLC)789663978
+040    $a NZNB $c NZNB
+042    $a nznb
+043    $a u-nz---
+082 04 $a 079.938605 $2 23
+245 04 $a The Ashburton courier.
+246 17 $a Ashburton's the courier
+260    $a Ashburton [N.Z. : $b Ashburton Courier, $c 2012]-
+300    $a v. : $b ill., ports. (some col.) ; $c 41 cm.
+310    $a Weekly
+362 1  $a Began with Jan. 19, 2012.
+500    $a Community newspaper.
+500    $a "From the Rakaia to the Rangitata, including Geraldine, and from the mountains to the sea."
+588    $a Description based on: Jan. 19, 2012; title from caption.
+588    $a Latest issue consulted: Mar. 29, 2012.
+651  0 $a Ashburton District (N.Z.) $v Newspapers.
+655  7 $a New Zealand newspapers. $2 local $5 Nz
+776 08 $i Online version: $t Ashburton courier $w (Nz)9918591570102836
+780 00 $t Courier (Ashburton, N.Z. : 1995)

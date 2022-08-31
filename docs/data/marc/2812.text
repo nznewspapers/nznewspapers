@@ -1,0 +1,33 @@
+01252cas a2200409 a 4500
+001 999296193502836
+003 Nz
+005 20210401181301.0
+008 891215d19131921nz mr n       0   a0mao  
+035    $a (nzNZBN)5250445
+035    $a (NLNZils)929619
+035    $a (Nz)4766365
+035    $a zbn89093853
+035    $a (NLNZils)929619-ilsdb
+035    $a (OCoLC)173349183
+040    $a NZNB $c NZNB
+042    $a nznb
+043    $a u-nz---
+082 04 $a 059.994 $2 20
+245 03 $a Te kopara.
+260    $a Gisborne, N.Z. : $b H.W. Williams, $c 1913-1921.
+300    $a 89 v. ; $c 23 cm.
+310    $a Monthly
+362 0  $a Nama 1 (Oketopa 1913)-nama 89 (Hurae 30, 1921).
+500    $a Title from masthead.
+500    $a Editor: Wi Paraire Rangihuna.
+500    $a Includes advertising.
+550    $a Issued by The Church of England Waiapu Diocese.
+650  0 $a Maori (New Zealand people) $v Newspapers.
+650  7 $a Nūpepa. $2 reo
+655  7 $a Maori newspapers. $2 local $5 Nz
+655  7 $a New Zealand newspapers. $2 local $5 Nz
+700 1  $a Rangihuna, Wi Paraire.
+710 2  $a Church of the Province of New Zealand. $b Diocese of Waiapu.
+776 08 $i Online version: $t Kopara $w (Nz)9917067643502836
+780 00 $t Pipiwharauroa
+785 00 $t Toa takitini

@@ -1,0 +1,41 @@
+01799cas a2200505 a 4500
+001 991136203502836
+003 Nz
+005 20210401175941.0
+008 940204d19932003nz mr|n       0   b0eng  
+022 0  $a 1172-9082
+035    $z 484427
+035    $a (nzNZBN)8183314
+035    $z zbn94009371
+035    $a (NLNZils)113620
+035    $a zbn94009371
+035    $a 113620
+035    $a (Nz)4607047
+035    $a (NLNZils)113620-ilsdb
+035    $a (OCoLC)173345120
+040    $a NZNB $c NZNB
+041 0  $a eng $a mao
+042    $a nznb
+043    $a u-nz---
+082 04 $a 079.9344 $2 20
+210 0  $a Turanganui a Kiwa pipiwharauroa
+222  0 $a Turanganui a Kiwa pipiwharauroa
+245 00 $a Tūranganui ā Kiwa pīpīwharauroa.
+246 33 $a Pīpīwharauroa Tūranganui ā Kiwa $f July 1999
+246 37 $a Pīpīwharauroa
+260    $a [Gisborne, N.Z.] : $b Te Rūnanga O Tūranganui ā Kiwa, $c [1993-2003]
+300    $a v. : $b ill., ports. ; $c 42 cm.
+362 0  $a Vol. 1 (Whiringa-a-nuku 1993)-
+362 1  $a Ceased with v. 11, no. 6 (Hōngoingoi 2003)
+500    $a Community newspaper.
+500    $a Title from caption.
+500    $a Available from Te Rūnanga o Tūranganui ā Kiwa, Cnr. Lowe St. and Reads Quay, Gisborne, N.Z.
+510 2  $a Index New Zealand, $x 0113-6526, $b vol. 1 (Whiringa-a-nuku 1993)-vol. 11, no. 6 (Hōngoingoi 2003)
+546    $a Some articles in Māori.
+650  0 $a Maori (New Zealand people) $z New Zealand $z Gisborne $v Newspapers.
+650  0 $a Maori (New Zealand people) $v Newspapers.
+651  0 $a Gisborne District (N.Z.) $v Newspapers.
+655  7 $a New Zealand newspapers. $2 local $5 Nz
+655  7 $a Maori newspapers. $2 local $5 Nz
+710 2  $a Te Runanga o Turanganui a Kiwa.
+785 00 $t Pīpīwharauroa (Gisborne, N.Z.) $x 1176-4228

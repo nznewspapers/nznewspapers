@@ -1,0 +1,21 @@
+00716cas a22002651a 4500
+001 999281223502836
+003 Nz
+005 20160321142621.0
+008 031222d18661866nz  r ne      0   0 eng d
+035    $a (NLNZils)928122
+035    $a (Nz)8137794
+035    $a (NLNZils)928122-ilsdb
+035    $a (OCoLC)173420924
+040    $a WN $c WN
+042    $a nznb
+043    $a u-nz---
+130 0  $a Daily news (Invercargill, N.Z. : 1866)
+245 10 $a Daily news.
+260    $a [Invercargill, N.Z. : $b s.n., $c 1866]
+310    $a Daily
+362 0  $a 1866 May1-Sep.29
+651  0 $a Invercargill (N.Z.) $v Newspapers.
+655  7 $a New Zealand newspapers. $2 local $5 Nz
+780 00 $t Southland news (1864)
+785 00 $t Southland news (1866)

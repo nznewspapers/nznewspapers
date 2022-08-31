@@ -1,0 +1,34 @@
+01462cas a2200421 a 4500
+001 997804703502836
+003 Nz
+005 20161223150739.0
+008 021003d19992002nz  xzne |    0   a0eng  
+022 0  $a 1176-0362 $y 1175-0685 $2 _g
+035    $a (Nz)7257627
+035    $a (NLNZils)780470
+035    $a (NLNZils)780470-ilsdb
+035    $a (OCoLC)173406897
+040    $a NZNB $c NZNB
+041 0  $a eng $a mao
+042    $a nznb
+043    $a u-nz---
+082 04 $a 305.89944205 $a 079.93 $2 21
+210 0  $a Karere Maori news
+222  0 $a Karere Maori news
+245 03 $a Te karere Maori news : $b nga hui hui nga korero o Aotearoa.
+246 10 $a Maori news
+246 1  $i Some issues have running title: $a Karere Maori
+246 1  $i Some issues have running title: $a TKM news - nga korero Aotearoa
+260    $a Auckland [N.Z.] : $b Maori Online,
+300    $a v. : $b ill. (some col.) ; $c 43 cm.
+310    $a Irregular
+362 1  $a Began with v. 4, no. 33 (Dec. 1999)?; ceased with v. 2, no. 4 (Mar. 2002)?
+500    $a Description based on: Vol. 4, no. 33 (Dec. 1999); title from caption.
+510 0  $a Index New Zealand, $x 0113-6526
+515    $a Continues numbering of its predecessor; numbering erratic.
+546    $a Some text in Maori.
+650  0 $a Maori (New Zealand people) $v Newspapers.
+655  7 $a New Zealand newspapers. $2 local $5 Nz
+655  7 $a Maori newspapers. $2 local $5 Nz
+780 00 $t Karere Maori $x 1175-0685
+785 00 $t Karere news $x 1176-0370

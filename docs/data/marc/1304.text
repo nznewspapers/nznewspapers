@@ -1,0 +1,27 @@
+01231cas a22003373  4500
+001 999270103502836
+003 Nz
+005 20210401181352.0
+008 990929d18791885nz wr|ne      |   b0eng  
+035    $a 14600
+035    $a fin00000985
+035    $a (NLNZils)927010
+035    $a (Nz)5092894
+035    $a (NLNZils)927010-ilsdb
+040    $a NZNB $c NZNB
+042    $a nznb
+043    $a u-nz---
+082 04 $a 079.93 $2 22
+245 00 $a Auckland free lance.
+260    $a [Auckland, N.Z. : $b J.D. Wickham?, $c 1879]-
+300    $a v. : $b ill. ; $c 42 cm.
+310    $a Weekly
+362 0  $a 1879 Jan. 11-
+362 1  $a Ceased in 1885.
+500    $a Weekly, 2 no. a week by 1879 Aug.16. Subtitle in editorial 1879 Jan.11 "Thames exchange" & "Thames County chronicle". Subtitle "and business advertiser" 1880-1885. Editorial 1879 Jan.11 notes place formerly Thames, established Thames 1874.
+580    $a Merged with: Observer (Auckland, N.Z.), and: Evening telephone (Auckland, N.Z.), to form: Observer and free lance.
+651  0 $a Auckland (N.Z.) $v Newspapers.
+655  7 $a New Zealand newspapers. $2 local $5 Nz
+785 17 $t Observer (Auckland, N.Z.)
+785 17 $t Evening telephone (Auckland, N.Z.)
+785 17 $t Observer and free lance

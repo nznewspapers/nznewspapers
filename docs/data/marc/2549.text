@@ -1,0 +1,23 @@
+00920cas a2200289 a 4500
+001 999283753502836
+003 Nz
+005 20200921090441.0
+008 031223d18761879nz dn|ne      0   a0eng  
+035    $a (NLNZils)928375
+035    $a (Nz)8141796
+035    $a (NLNZils)928375-ilsdb
+035    $a (OCoLC)946808459
+040    $a NZNB $c NZNB
+042    $a nznb
+043    $a u-nz---
+082 04 $a 079.9391 $2 23
+130 0  $a Evening mail (Oamaru, N.Z.)
+245 10 $a Evening mail.
+260    $a Oamaru [N.Z.] : $b Evening and Weekly Mail Company, $c [1876-1879]
+300    $a 4 v. : $b ill. ; $c 44-50 cm.
+310    $a Daily (except Sunday)
+362 1  $a Began with vol. 1, no. 1 (Apr. 22, 1876)?; ceased with vol. 4, No. 897 (Mar. 1, 1879)?
+651  0 $a Oamaru (N.Z.) $v Newspapers.
+655  7 $a New Zealand newspapers. $2 local $5 Nz
+776 08 $i Online version: $t Evening mail $w (Nz)9915985543502836
+785 00 $t Oamaru mail $x 1170-0793

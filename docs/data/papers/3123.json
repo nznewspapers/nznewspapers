@@ -1,0 +1,18 @@
+{
+  "id": 3123,
+  "title": "Dunedin Gazette",
+  "genre": "Newspaper",
+  "firstYear": "1973",
+  "finalYear": "1973",
+  "district": "Dunedin City",
+  "frequency": "Weekly",
+  "idMarcControlNumber": "5094435",
+  "isCurrent": false,
+  "placecode": "13-03",
+  "placename": "Dunedin",
+  "region": "Otago",
+  "sources": {
+    "2022-08-31T04:35:45.180Z": "Extracted from the New Zealand National Bibliography (MARC record 5094435) downloaded June 2022."
+  },
+  "revision": 1
+}

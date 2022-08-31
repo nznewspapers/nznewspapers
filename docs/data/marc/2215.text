@@ -1,0 +1,31 @@
+01188cas a2200385 a 4500
+001 9911953133502836
+003 Nz
+005 20161223161450.0
+008 060626d20062008nz wr|ne      0   a0eng  
+035    $a (NLNZils)1195313
+035    $a (Nz)10906048
+035    $a (NLNZils)1195313-ilsdb
+035    $a (OCoLC)173323697
+040    $a NZNB $c NZNB
+042    $a nznb
+043    $a u-nz---
+082 04 $a 079.9341 $2 22
+130 0  $a Citylife (West ed.)
+245 00 $a Citylife.
+246 1  $i Has subtitle: $a Wellington west $f 3 May 2007-
+246 3  $a City life
+250    $a West ed.
+260    $a [Wellington, N.Z.] : $b APN News & Media, $c [2006-2008]
+300    $a 3 v. : $b col. ill. ; $c 38 cm.
+310    $a Weekly
+362 1  $a Began with June 22, 06; ceased with Aug. 27, 2008.
+500    $a Title from cover.
+500    $a Community newspaper.
+500    $a "It's all about you."
+500    $a Final issue consulted.
+580    $a Merged with: Citylife (North ed.) to form: West & north citylife.
+651  0 $a Wellington (N.Z.) $v Newspapers.
+655  7 $a New Zealand newspapers. $2 local $5 Nz
+780 00 $t Western news (Wellington, N.Z.) $x 1170-1587
+785 07 $t West & north citylife

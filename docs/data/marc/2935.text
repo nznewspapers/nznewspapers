@@ -1,0 +1,28 @@
+01081cas a2200349 a 4500
+001 994836683502836
+003 Nz
+005 20210401185351.0
+008 160813d19891990nz mrzne      0   a0eng  
+022 0  $a 1170-0874 $y 0117-0874
+035    $a (nzNZBN)5278369
+035    $a zbn90004724
+035    $a (NLNZils)483668
+035    $z 295657
+035    $a (Nz)3540049
+035    $a (NLNZils)483668-ilsdb
+035    $a (OCoLC)173333393
+040    $a NZNB $c NZNB
+042    $a nznb
+043    $a u-nz---
+082 04 $a 079.9371 $2 20NZ
+222  0 $a Heathcote-Ferrymead news
+245 00 $a Heathcote-Ferrymead news.
+246 30 $a News
+246 37 $a Heathcote Ferrymead news
+260    $a [Christchurch, N.Z.] : $b Huge Oaks Publishing, $c 1989-1990.
+300    $a ? v. : $b ill. (some col.), map, ports. (some col.) ; $c 41 cm.
+362 1  $a Began with Aug. 1989; ceased with June 1990.
+500    $a Description based on: Oct. 1989; title from masthead.
+651  0 $a Christchurch (N.Z.) $v Periodicals.
+655  7 $a New Zealand newspapers. $2 local $5 Nz
+780 00 $t Heathcote County news $x 0114-5304

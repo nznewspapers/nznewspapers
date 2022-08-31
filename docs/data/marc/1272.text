@@ -1,0 +1,27 @@
+01067cas a2200337 a 4500
+001 9913914683502836
+003 Nz
+005 20161223163932.0
+008 100624d20102011nz wr|ne      0   a0eng  
+035    $a (NLNZils)1391468
+035    $a (Nz)13323458
+035    $a (NLNZils)1391468-ilsdb
+035    $a (OCoLC)644155046
+040    $a NZNB $c NZNB
+042    $a nznb
+043    $a u-nz---
+082 04 $a 079.932 $2 22
+245 04 $a The Aucklander. $p Central.
+246 30 $a Central
+260    $a Auckland [N.Z.] : $b APN NZ, $c [2010-2011]
+300    $a v. : $b col. ill. ; $c 38 cm.
+310    $a Weekly
+362 1  $a Began with 24 June 2010; ceased with 9 June 2011.
+500    $a Community newspaper.
+500    $a Description based on: 24 June 2010; title from cover.
+500    $a Latest issue consulted: 9 June 2011.
+580    $a Merged with Aucklander. Central, North, South & East, and West to form Aucklander (2011).
+651  0 $a Auckland (N.Z.) $v Newspapers.
+655  7 $a New Zealand newspapers. $2 local $5 Nz
+780 00 $t Aucklander City
+785 07 $t Aucklander (2011)

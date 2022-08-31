@@ -1,0 +1,27 @@
+01003cas a2200337 a 4500
+001 999261363502836
+003 Nz
+005 20161223153708.0
+008 031216c19999999nz mr|ne      0   a0eng  
+022    $y 1170-165X
+035    $a (NLNZils)926136
+035    $a (Nz)8130479
+035    $a (NLNZils)926136-ilsdb
+035    $a (OCoLC)946531388
+040    $a NZNB $c NZNB
+042    $a nznb
+043    $a u-nz---
+082 04 $a 079.93488 $2 23
+130 0  $a Patea and Waverley press (1999)
+245 10 $a Patea and Waverley press.
+246 3  $a Patea & Waverley press
+246 1  $i Title to mark Māori Language Week: $a Karere o Pātea me te Wairoaiti
+260    $a [Patea, N.Z. : $b s.n., $c 1999-]
+300    $a v. : $b ill. ; $c 40 cm.
+310    $a Monthly
+362 0  $a 1999 Mar.-
+588    $a Latest issue consulted: July 2013.
+651  0 $a South Taranaki District (N.Z.) $v Newspapers.
+655  7 $a New Zealand newspapers. $2 local $5 Nz
+780 04 $t Patea mail (1975) $x 1170-165X
+780 04 $t Waverley newsletter

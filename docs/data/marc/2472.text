@@ -1,0 +1,37 @@
+01642cas a2200457 a 4500
+001 994135413502836
+003 Nz
+005 20210401182427.0
+008 160813d19992018nz  x|n       0   a0eng  
+022 0  $a 1174-9520 $2 _g
+035    $z 660068
+035    $a (nzNZBN)11315109
+035    $a zbn99038335
+035    $a (Nz)5107819
+035    $a (NLNZils)413541
+035    $a (NLNZils)413541-ilsdb
+035    $a (OCoLC)173366962
+040    $a NZNB $c NZNB
+042    $a nznb
+043    $a u-nz---
+082 0  $a 380.10993405 $a 380.10993505 $2 21
+210 1  $a Cent. today
+222  0 $a Central today
+245 00 $a Central today : $b the business voice of the Central Region.
+246 17 $a Wellington today - central today
+260    $a Christchurch, N.Z. : $b A-Mark Publishing New Zealand, $c [1999]-
+300    $a v. : $b ill. (some col.), ; $c 39-40 cm.
+310    $a Irregular
+362 0  $a May 1999-issue 80.
+500    $a Title from caption.
+500    $a Subtitle varies.
+500    $a "Bay of Plenty, Gisborne, Hawkes Bay, Rotorua, Taranaki, Tauranga, Thames, Wanganui."
+515    $a None published in 2015 and 2016.
+580    $a Affiliated with: Wellington today.
+588    $a Latest issue consulted: issue 76 (Apr./May 2017)
+650  0 $a Business enterprises $z New Zealand $z Bay of Plenty (Region) $v Periodicals.
+650  0 $a Business enterprises $z New Zealand $z Manawatu-Wanganui $v Periodicals.
+651  0 $a Bay of Plenty (N.Z. : Region) $x Commerce $v Periodicals.
+651  0 $a Manawatu-Wanganui (N.Z.) $x Commerce $v Periodicals.
+776 0  $i Online version: $t Central today (Online) $x 2230-4991
+787 0  $a Wellington today $x 1173-1524

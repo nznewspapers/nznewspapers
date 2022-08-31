@@ -1,0 +1,37 @@
+01613cas a2200457 a 4500
+001 994807993502836
+003 Nz
+005 20210518092222.0
+008 051109c197u9999nz wrzn       0   a0eng  
+022 0  $a 1170-0882 $y 0117-0882 $2 _g
+035    $a (nzNZBN)5192430
+035    $a zbn89081905
+035    $z 292565
+035    $a (Nz)3531254
+035    $a (NLNZils)480799
+035    $a (NLNZils)480799-ilsdb
+035    $a (OCoLC)173333307
+040    $a NZNB $c NZNB
+042    $a nznb
+043    $a u-nz---
+082 04 $a 079.93 $2 20
+130 0  $a Sunday news (Auckland, N.Z.)
+222  0 $a Sunday news $b (Auckland)
+245 00 $a Sunday news.
+246 1  $i Issues from 7 February 2021 have parallel title: $a Kōrero rātapu
+246 30 $a News.
+260    $a Auckland [N.Z.] : $b News Media (Auckland),
+260 2  $3 <2015>- $a [Auckland, N.Z. : $b Fairfax Media]
+260 3  $3 <February 2018-> $a [Auckland, N.Z. : $b Stuff Limited]
+300    $a v. : $b ill., forms, ports. ; $c 42 cm.
+310    $a Weekly
+362 1  $a Began 197? $z Cf. Harvey, D. R. Union list of newspapers ... in New Zealand.
+500    $a Masthead title.
+500    $a Includes advertising.
+500    $a Description based on: Aug. 27 1989.
+500    $a From >2021< title during New Zealand Sign Language Week also given in NZSL finger spellings.
+530    $a Available on microfilm from Microfilm Production Unit, National Library of New Zealand.
+655  7 $a New Zealand newspapers. $2 local $5 Nz
+770 0  $t Sunday magazine $g 1989-1990 $x 1171-0640
+776 08 $i Online version: $t Sunday news $x 2744-6069
+780 00 $t Sunday news (Northern ed.)

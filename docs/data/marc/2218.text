@@ -1,0 +1,31 @@
+01201cas a2200385 a 4500
+001 9915534923502836
+003 Nz
+005 20161223165845.0
+008 120511d20122013nz wr|n       0   e0chi  
+022 0  $a 2253-4407 $2 _g
+035    $a (Nz)14210374
+035    $a (NLNZils)1553492
+035    $a (NLNZils)1553492-ilsdb
+035    $a (OCoLC)796462110
+040    $a NZNB $c NZNB
+041    $a chi $a eng
+042    $a nznb
+043    $a u-nz---
+082 04 $a 079.93 $2 23
+210 1  $a Hua ren you bao
+222  0 $a Hua ren you bao
+245 00 $a Hua ren you bao = $b The Chinese post.
+246 13 $a Chinese post
+260    $a Wellington, N.Z. : $b [s.n., $c 2012]-
+300    $a v. : $b col. ill. ; $c 40 cm.
+310    $a Weekly
+362 1  $a Began with 01 (2012); ceased with issue 45 (August 2013).
+530    $a Also available in an electronic ed.
+546    $a In Chinese with some English.
+588    $a Description based on: 01 (2012); title from cover.
+588    $a Latest issue consulted: 02 (2012)
+650  0 $a Chinese $z New Zealand $v Newspapers.
+650  0 $a Chinese $z New Zealand $z Wellington $v Newspapers.
+655  7 $a Chinese newspapers. $2 local $5 Nz
+655  7 $a New Zealand newspapers. $2 local $5 Nz

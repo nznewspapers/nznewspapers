@@ -1,0 +1,35 @@
+01534cas a2200433 a 4500
+001 9911544843502836
+003 Nz
+005 20190201155401.0
+008 050926d20032007nz wr|ne      0   a0eng  
+035    $a (NLNZils)1154484
+035    $a (Nz)10512335
+035    $a (NLNZils)1154484-ilsdb
+035    $a (OCoLC)946509888
+040    $a NZNB $c NZNB
+042    $a nznb
+043    $a u-nz---
+082 04 $a 079.9321 $2 22
+130 0  $a Aucklander (North ed.)
+245 04 $a The Aucklander : $b the New Zealand herald community publication.
+246 13 $a Aucklander real estate
+246 13 $a North Aucklander $f <30 Mar. 2005>-
+246 3  $a Aucklander north
+250    $a North ed.
+260    $a [Auckland, N.Z. : $b New Zealand Herald Community Publications], $c 2003-[2007]
+300    $a v. : $b col. ill. ; $c 39 cm.
+310    $a Weekly
+362 0  $a 27 Nov. 2003-5 Sept. 2007.
+500    $a Community newspaper.
+500    $a Has inverted back section on real estate with cover title: Aucklander real estate<-15 July 2004.
+515    $a Vol. numbering began with v. 2, no. 2 (22 Jan. 2004).
+580    $a Merged with: Aucklander (Shore : 2005), to form: North Shore Aucklander.
+650  0 $a Community newspapers $z New Zealand $z Auckland.
+651  0 $a Auckland (N.Z.) $v Newspapers.
+651  0 $a Rodney District (N.Z.) $v Newspapers.
+655  7 $a New Zealand newspapers. $2 local $5 Nz
+780 00 $t Aucklander (Shore ed.)
+785 01 $t Aucklander (Shore : 2005)
+785 07 $t Aucklander (Shore : 2005)
+785 07 $t North Shore Aucklander

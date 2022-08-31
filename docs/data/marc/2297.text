@@ -1,0 +1,31 @@
+01370cas a2200385 a 4500
+001 997369603502836
+003 Nz
+005 20200903145250.0
+008 020605d18751942nz dn ne      0   a0eng  
+035    $a (NLNZils)736960
+035    $a (Nz)6963040
+035    $a (NLNZils)736960-ilsdb
+035    $a (OCoLC)173399975
+040    $a NZNB $c NZNB
+042    $a nznb
+043    $a u-nz---
+082 04 $a 079.9373 $2 21
+245 04 $a The Inangahua times.
+260    $a Reefton, N.Z. : $b W.J. Potts, $c 1875-1942.
+300    $a v. ; $c 56 cm.
+310    $a Daily (except Sunday), $b 1894-1942
+321    $a Triweekly, $b 1875-1894
+362 1  $a Began in 1875; ceased in 1942. $z Cf. Scholefield, Guy H. Newspapers in New Zealand.
+500    $a "With which is incorporated the Reefton courier."
+500    $a Publisher varies.
+500    $a Includes advertising.
+500    $a Description based on: Vol. 1, no. 19 (June 4, 1875); title from masthead.
+530    $a Available on microfilm from Microfilm Production Unit, National Library of New Zealand.
+651  0 $a Reefton (N.Z.) $v Newspapers.
+655  7 $a New Zealand newspapers. $2 local $5 Nz
+776 08 $i Online version: $t Inangahua times $w (Nz)9914703943502836
+780 00 $t Reefton courier and Inangahua advertiser
+780 05 $t Reefton guardian $g 1894-
+780 05 $t Inangahua herald $g 1936-
+785 00 $t Inangahua-Murchison times

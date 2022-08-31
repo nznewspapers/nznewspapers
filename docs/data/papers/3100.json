@@ -1,0 +1,18 @@
+{
+  "id": 3100,
+  "title": "Auckland Free Press",
+  "genre": "Newspaper",
+  "firstYear": "1868",
+  "finalYear": "19uu",
+  "district": "Auckland",
+  "frequency": "Daily",
+  "idMarcControlNumber": "5092895",
+  "isCurrent": false,
+  "placecode": "02-01",
+  "placename": "Auckland",
+  "region": "Auckland",
+  "sources": {
+    "2022-08-31T04:35:39.851Z": "Extracted from the New Zealand National Bibliography (MARC record 5092895) downloaded June 2022."
+  },
+  "revision": 1
+}

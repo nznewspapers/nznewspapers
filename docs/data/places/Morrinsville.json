@@ -1,7 +1,7 @@
 {
   "stats": {
     "placename": "Morrinsville",
-    "count": 4,
+    "count": 5,
     "decades": 4
   },
   "papers": [
@@ -16,6 +16,12 @@
       "title": "Morrinsville & District News-view",
       "firstYear": "1963",
       "finalYear": "1967"
+    },
+    {
+      "id": "3066",
+      "title": "Arrow",
+      "firstYear": "1972",
+      "finalYear": "1977"
     },
     {
       "id": "1564",

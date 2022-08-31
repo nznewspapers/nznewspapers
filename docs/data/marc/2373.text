@@ -1,0 +1,28 @@
+01095cas a2200349 a 4500
+001 999261083502836
+003 Nz
+005 20210401181215.0
+008 921215d19821988nz wr|ne      0   a0eng  
+022 0  $a 1172-1111 $2 _g
+035    $a (nzNZBN)7289053
+035    $a zbn92110992
+035    $a (Nz)2750499
+035    $a (NLNZils)926108
+035    $a (NLNZils)926108-ilsdb
+035    $a (OCoLC)173327070
+040    $a NZNB $c NZNB
+042    $a nznb
+043    $a u-nz---
+082 04 $a 079.9372 $2 20NZ
+222  0 $a Northern outlook
+245 04 $a The Northern outlook.
+260    $a Rangiora [N.Z. : $b L. Whiteside, $c 1982-1988]
+300    $a v. : $b ill., ports. ; $c 41 cm.
+310    $a Weekly
+362 1  $a Began on Sept. 16, 1982; ceased with v. 6, no. 33 (Sept. 5, 1988)
+500    $a Community newspaper.
+500    $a Available from L. Whiteside, P.O. Box 114, Rangiora, N.Z.
+588    $a Latest issue consulted: Vol. 6, no. 33 (Sept. 5, 1988)
+651  0 $a Rangiora District (N.Z.) $v Newspapers.
+655  7 $a New Zealand newspapers. $2 local $5 Nz
+785 00 $t North Canterbury outlook $x 1170-1668

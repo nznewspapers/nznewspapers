@@ -1,0 +1,29 @@
+01156cas a2200361 a 4500
+001 998378023502836
+003 Nz
+005 20161223151550.0
+008 030401d200u2003nz wrzne |    0   a0chi  
+022 0  $a 1176-2535 $2 _g
+035    $a (Nz)7597977
+035    $a (NLNZils)837802
+035    $a (NLNZils)837802-ilsdb
+035    $a (OCoLC)173411298
+040    $a NZNB $c DU $d NZNB
+041 0  $a chi $a eng
+042    $a nznb
+043    $a u-nz---
+082 04 $a 305.895109305 $2 21
+210 0  $a Hua ren sheng huo zhou kan
+222  0 $a Hua ren sheng huo zhou kan
+245 10 $a Hua ren sheng huo zhou kan  = $b Chinese life weekly.
+246 11 $a Chinese life weekly
+260    $a [Auckland, N.Z.] : $b Hua qiao fu wu zhong xin
+300    $a v. : $b ill. (some col.) ; $c 40 cm.
+310    $a Weekly
+362 1  $a Ceased with Apr. 17, 2003.
+500    $a Description based on: Zong di 6 qi (Mar. 7-13, 2003); title from caption.
+546    $a Text in Chinese with some headings in English.
+650  0 $a Chinese $z New Zealand $v Newspapers.
+655  7 $a New Zealand newspapers. $2 local $5 Nz
+655  7 $a Chinese newspapers. $2 local $5 Nz
+710 2  $a Hua qiao fu wu zhong xin.

@@ -1,0 +1,22 @@
+00784cas a22002771a 4500
+001 999734603502836
+003 Nz
+005 20161223154123.0
+008 040113d18801881nz  r ne      0   0 eng d
+035    $a (NLNZils)973460
+035    $a (Nz)8181981
+035    $a (NLNZils)973460-ilsdb
+035    $a (OCoLC)173423035
+040    $a WN $c WN
+042    $a nznb
+043    $a u-nz---
+130 0  $a Standard (Gisborne, N.Z. : 1880)
+245 00 $a Standard.
+260    $a [Gisborne, N.Z. : $b s.n., $c 1880?-1881]
+310    $a Semiweekly
+362 0  $a 1880?-1881 Apr.2
+500    $a Running title Poverty Bay standard.
+651  0 $a Gisborne District (N.Z.) $v Newspapers.
+655  7 $a New Zealand newspapers. $2 local $5 Nz
+780 00 $t Poverty Bay standard (1879)
+785 00 $t Poverty Bay standard (1881)

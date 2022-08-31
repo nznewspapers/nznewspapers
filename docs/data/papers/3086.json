@@ -1,0 +1,18 @@
+{
+  "id": 3086,
+  "title": "Bay News",
+  "genre": "Newspaper",
+  "firstYear": "1990",
+  "finalYear": "2018",
+  "district": "Tauranga City",
+  "frequency": "Weekly",
+  "idMarcControlNumber": "8127452",
+  "isCurrent": false,
+  "placecode": "04-02",
+  "placename": "Tauranga",
+  "region": "Bay of Plenty",
+  "sources": {
+    "2022-08-31T04:35:34.602Z": "Extracted from the New Zealand National Bibliography (MARC record 8127452) downloaded June 2022."
+  },
+  "revision": 1
+}

@@ -1,0 +1,32 @@
+01283cas a2200397 a 4500
+001 999285093502836
+003 Nz
+005 20210401181237.0
+008 901030d19901991nz wr|ne      0   a0eng  
+022 0  $a 1177-5629 $2 _g
+035    $a (nzNZBN)5577582
+035    $a zbn92000023
+035    $a (NLNZils)928509
+035    $a (Nz)4685274
+035    $a (NLNZils)928509-ilsdb
+035    $a (OCoLC)173346972
+040    $a NZNB $c NZNB
+042    $a nznb
+043    $a u-nz---
+082 04 $a 380.099305 $2 20
+130 0  $a Examiner (Auckland, N.Z.)
+210 1  $a Examiner $b (Auckl.)
+222  0 $a Examiner $b (Auckland)
+245 14 $a The Examiner.
+246 30 $a Business journal of New Zealand
+260    $a Auckland [N.Z.] : $b Examiner Newspapers, $c [1990-1991]
+300    $a v. : $b ill., ports. ; $c 43 cm.
+362 1  $a Began in Oct. 1990.
+362 0  $a -Thursday Sept. 5, 1991.
+500    $a "The business journal of New Zealand".
+500    $a Description based on: Thursday Sept. 5, 1991; title from masthead.
+510 2  $a Index New Zealand, $x 0113-6526, $b Oct. 25 1990-Sept. 5, 1991
+650  0 $a Business $v Periodicals.
+651  0 $a New Zealand $x Economic conditions $y 1945- $v Periodicals.
+655  7 $a New Zealand newspapers. $2 local $5 Nz
+785 04 $t National business review $x 0110-6813

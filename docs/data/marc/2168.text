@@ -1,0 +1,36 @@
+01480cas a2200445 a 4500
+001 994801813502836
+003 Nz
+005 20210401184849.0
+008 160813d19691990nz wrzne      0   a0eng  
+022 0  $a 1170-0211 $y 0117-0211
+035    $a (nzNZBN)5164347
+035    $a zbn89076553
+035    $z 291863
+035    $a (NLNZils)480181
+035    $a (Nz)3601354
+035    $a (NLNZils)480181-ilsdb
+035    $a (OCoLC)173334161
+040    $a NZNB $c NZNB
+042    $a nznb
+043    $a u-nz---
+082 04 $a 079.9341 $2 20NZ
+130 0  $a Contact (Wellington, N.Z. : 1969)
+222  0 $a Contact $b (Wellington)
+245 00 $a Contact : $b newspaper
+246 37 $a Contact
+260    $a Wellington [N.Z.] : $b Wellington Newspapers, $c [1969-1990]
+300    $a ?v. : $b ill., form, maps, ports. ; $c 39 cm.
+310    $a Weekly $b Nov. 1970-
+321    $a Fortnightly $b 1969
+362 0  $a -30 March 1990.
+362 1  $a Began 1 (Nov. 14, 1969). $z Cf. New Zealand national bibliography.
+500    $a Title from masthead.
+500    $a Earlier subtitle: the employment guide for greater Wellington.
+500    $a Includes advertising.
+500    $a Description based on: July 21, 1989.
+530    $a Available on microfilm from Microfilm Production Unit, National Library of New Zealand.
+550    $a Earlier issues published by Contact newspaper.
+651  0 $a Wellington (N.Z. : Region)
+655  7 $a New Zealand newspapers. $2 local $5 Nz
+785 00 $t Contact weekender $x 1170-0785

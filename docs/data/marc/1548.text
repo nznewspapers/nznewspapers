@@ -1,0 +1,36 @@
+01832cas a2200445 a 4500
+001 999733863502836
+003 Nz
+005 20200212151547.0
+008 040503c20049999nz wr n  |    0   a0eng  
+035    $a (NLNZils)973386
+035    $a (Nz)8417657
+035    $a (NLNZils)973386-ilsdb
+035    $a (OCoLC)946532051
+040    $a NZNB $c NZNB
+042    $a nznb
+043    $a u-nz---
+082 04 $a 079.9333 $2 22
+245 00 $a Raglan chronicle : $b Raglan community news.
+246 10 $a Raglan community news
+246 1  $i At head of title: $a Whaingaroa news for you weekly
+246 1  $i Title to mark Māori Language Week: $a Ripo o Whāingaroa
+246 1  $a Local rag
+260    $a Raglan [N.Z.] : $b Raglan Community Print, $c [2004]-
+260 3  $3 10 May 2006- $a Raglan [N.Z.] : $b Raglan Ink Ltd.
+300    $a v. : $b ill. ; $c 30-41 cm.
+310    $a Weekly
+362 0  $a Issue 347 (28th April 2004)-
+500    $a Title from caption.
+500    $a Community newspaper.
+500    $a Subtitle varies.
+500    $a From August 2015 the title Ripo o Whāingaroa is given as a parallel title on all issues, and continues to appear as the sole title on issues published in Maori Language Week.
+500    $a From August 2019 the first issue for some months has title: Local rag : Raglan chronicle magazine issue.
+515    $a Vol. numbering begins with 1 (10 May 2006). Issues not published between 26 Apr. and 10 May 2006.
+515    $a Designation in Māori during Māori Language Week.
+525    $a Has supplement: Raglan summer holiday guide.
+651  0 $a Raglan (N.Z.) $v Periodicals.
+655  7 $a New Zealand newspapers. $2 local $5 Nz
+730 02 $i Container of (work): $a Raglan summer holiday guide
+776 0  $i Online version: $t Raglan chronicle (Online) $w (Nz)998788463502836
+780 00 $t New chronicle (Raglan, N.Z.)

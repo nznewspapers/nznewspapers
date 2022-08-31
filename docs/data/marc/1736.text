@@ -1,0 +1,35 @@
+01680cas a2200433 a 4500
+001 999289523502836
+003 Nz
+005 20210401181232.0
+008 891011d19371999nz dnzne |    0   a0eng  
+022 0  $a 1170-0505
+035    $a (nzNZBN)5123688
+035    $a zbn89077125
+035    $a (NLNZils)928952
+035    $a (Nz)3531188
+035    $a (NLNZils)928952-ilsdb
+035    $a (OCoLC)173333255
+040    $a NZNB $c NZNB
+042    $a nznb
+043    $a u-nz---
+082 04 $a 079.93 $2 20
+222  0 $a Hawke's Bay herald-tribune
+245 00 $a Hawke's Bay herald-tribune.
+246 30 $a Herald-tribune
+260    $a Hastings [N.Z.] : $b [Hawke's Bay Herald-Tribune, $c 1937-1999]
+300    $a v. : $b ill. (some col.), col. map, ports. (some col.) ; $c 68 cm.
+310    $a Daily (except Sunday)
+362 1  $a Began with Jan. 16, 1937. $z Cf. Harvey, D. R. Union list of newspapers ... in New Zealand. ; ceased with May 1, 1999?
+500    $a Includes advertising.
+500    $a Description based on: Friday Aug. 18, 1989; title from masthead.
+500    $a Available from Hawkes Bay Herald-Tribune, P.O. Box 180, Hastings, N.Z.
+510 2  $a Index New Zealand, $x 0113-6526, $b Sep. 2, 1989-Apr. 29, 1999
+525    $a Vol. 99, no. 296 (Sept. 8, 1956) has supplement with title: City celebrations souvenir number.
+530    $a Available on microfilm from Microfilm Production Unit, National Library of New Zealand.
+651  0 $a Hawke's Bay (N.Z.) $v Newspapers.
+655  7 $a New Zealand newspapers. $2 local $5 Nz
+780 04 $t Hawke's Bay herald
+780 04 $t Hawke's Bay tribune
+785 07 $t Daily telegraph (Napier, N.Z.) $x 1170-0262
+785 07 $t Hawke's Bay today $x 1174-9792

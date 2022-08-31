@@ -1,7 +1,7 @@
 {
   "stats": {
     "placename": "Lyell",
-    "count": 2,
+    "count": 3,
     "decades": 2
   },
   "papers": [
@@ -10,6 +10,12 @@
       "title": "Lyell Argus",
       "firstYear": "1873",
       "finalYear": "1898"
+    },
+    {
+      "id": "3063",
+      "title": "Argus",
+      "firstYear": "1875",
+      "finalYear": "1877"
     },
     {
       "id": "2300",

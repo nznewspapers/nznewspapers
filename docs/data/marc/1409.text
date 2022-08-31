@@ -1,0 +1,28 @@
+01057cas a2200349 a 4500
+001 999315893502836
+003 Nz
+005 20210401181341.0
+008 891102d19871991nz wrzn       0   a0eng  
+022 0  $a 1170-1544 $y 0117-1544
+035    $a (nzNZBN)5177497
+035    $a (NLNZils)931589
+035    $a zbn89078584
+035    $a (Nz)5079859
+035    $a (NLNZils)931589-ilsdb
+035    $a (OCoLC)946808948
+040    $a NZNB $c NZNB
+042    $a nznb
+043    $a u-nz---
+082 04 $a 079.9311 $2 20NZ
+222  0 $a Remuera times
+245 00 $a Remuera times.
+246 30 $a Times
+260    $a [Auckland, N.Z.]: $b Business Media Newspapers, $c 1987-1991.
+300    $a ? v. : $b ill., form, maps, ports. ; $c 43 cm.
+362 1  $a Began with Nov. 7 1987; ceased July 3 1991.
+500    $a Community newspaper.
+500    $a Includes advertising.
+500    $a Description based on: Vol. 3, no. 37 (Sept. 26 1989); title from masthead.
+651  0 $a Auckland (N.Z.)
+655  7 $a New Zealand newspapers. $2 local $5 Nz
+785 00 $t Bays and Remuera times $x 1171-9036

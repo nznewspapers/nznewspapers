@@ -1,0 +1,18 @@
+{
+  "id": 3040,
+  "title": "Sunday News",
+  "genre": "Newspaper",
+  "firstYear": "1963",
+  "finalYear": "9999",
+  "district": "Wellington City",
+  "frequency": "Weekly",
+  "idMarcControlNumber": "8182262",
+  "isCurrent": false,
+  "placecode": "09-08",
+  "placename": "Wellington",
+  "region": "Wellington",
+  "sources": {
+    "2022-08-31T04:35:17.817Z": "Extracted from the New Zealand National Bibliography (MARC record 8182262) downloaded June 2022."
+  },
+  "revision": 1
+}

@@ -1,0 +1,31 @@
+01341cas a2200385 a 4500
+001 999321063502836
+003 Nz
+005 20200925135030.0
+008 040113d18831883nz er ne      0   a0mao  
+035    $a (Nz)8183198
+035    $a (NLNZils)932106
+035    $a (NLNZils)932106-ilsdb
+035    $a (OCoLC)173423167
+040    $a NZNB $c NZNB
+042    $a nznb
+043    $a u-nz---
+082 04 $a 079.93 $2 22
+245 00 $a Takitimu.
+260    $a Gisborne, N.Z. : $b Printed and published by the proprietor Charles Henry Collins Webb, at his registered printing office, $c -[1883]
+300    $a 2 v. : $b ill. ; $c 28 cm.
+310    $a Fortnightly
+362 1  $a Began with nama 1 (Mei 8?, 1883)
+362 0  $a -nama 2 (Mei 22, 1883)
+500    $a "Hoea te Waka, ha!"
+500    $a Includes advertisements.
+500    $a Description based on: Nama 2 (Mei 22, 1883); title from masthead.
+510 4  $a Williams, $c 668
+510 4  $a Books in Māori, $c S26
+520    $a "Takitimu; fortnightly paper published in Gisborne"--BIM.
+650  0 $a Tākitimu (New Zealand people) $v Newspapers.
+651  0 $a Gisborne District (N.Z.) $v Newspapers.
+655  7 $a Maori newspapers. $2 local $5 Nz
+655  7 $a New Zealand newspapers. $2 local $5 Nz
+700 1  $a Webb, Charles Henry Collins, $e printer.
+776 08 $i Online version: $t Takitimu $w (Nz)9916612643502836

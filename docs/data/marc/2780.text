@@ -1,0 +1,30 @@
+01087cas a2200373 a 4500
+001 999255403502836
+003 Nz
+005 20210401181217.0
+008 950126d19942006nz mr|n       0   a0eng  
+022 0  $a 1173-3209 $2 _g
+035    $a (nzNZBN)8885911
+035    $a zbn95004096
+035    $a (NLNZils)925540
+035    $a 925540
+035    $a (Nz)3420340
+035    $a (NLNZils)925540-ilsdb
+035    $a (OCoLC)173332089
+040    $a NZNB $c NZNB
+042    $a nznb
+043    $a u-nz---
+082 04 $a 919.3335305 $a 919.33305 $2 20
+210 1  $a East Waikato ctry.
+222  0 $a East Waikato country
+245 00 $a East Waikato country.
+260    $a Matamata [N.Z.] : $b Matamata Press, $c [1994]-
+300    $a v. : $b ill. (some col.), ports. (some col.) ; $c 43 cm.
+362 0  $a May 1994-
+362 1  $a Ceased with Feb. 2006.
+500    $a "For people who live in the country."
+500    $a Title from caption.
+651  0 $a Matamata (N.Z.) $v Periodicals.
+651  0 $a Waikato (N.Z.) $v Periodicals.
+655  7 $a New Zealand newspapers. $2 local $5 Nz
+785 00 $t Country (Matamata, N.Z.)

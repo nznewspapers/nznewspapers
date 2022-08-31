@@ -1,0 +1,34 @@
+01682cas a2200421 a 4500
+001 999324473502836
+003 Nz
+005 20211116120046.0
+008 891110d18931998nz cr|ne      0   a0eng  
+022 0  $a 1170-1110 $y 0117-1110 $2 _g
+035    $a (NLNZils)932447
+035    $a (nzNZBN)5192437
+035    $a zbn89081897
+035    $a (Nz)3531260
+035    $a (NLNZils)932447-ilsdb
+035    $a (OCoLC)173333313
+040    $a NZNB $c NZNB $d AR $d NZNB
+042    $a nznb
+043    $a u-nz---
+082 04 $a 079.9315 $2 20NZ
+222  0 $a Thames Star
+245 00 $a Thames star.
+260    $a Thames [N.Z.] : $b Hauraki Publishers, $c 1893-1998.
+300    $a v. : $b ill., ports (some col.) ; $c 43 cm.
+310    $a Semiweekly $b Apr 1 1980-
+321    $a Daily
+362 1  $a Began with July 15, 1893; ceased with 25 Aug. 1998.
+500    $a "Serving the Thames, Coromandel and Hauraki Districts."
+500    $a Publisher changed. Douglas Charles Stevens for Thames Star at Sealy St, Thames (issues 26 June 1952-14 Aug 1952). Leo Edward White, 257 Mackay St, Thames (issues 22 Oct 1952-10 May 1955). Thames Star Company Ltd and Hauraki Daily News at 106 Sealy St, New Zealand (5 Aug 1968).
+500    $a Description based on: Thursday Sept. 7 1989; title from masthead.
+530    $a Available on microfilm from Microfilm Production Unit, National Library of New Zealand.
+651  0 $a Thames (N.Z.) $v Newspapers.
+655  7 $a New Zealand newspapers. $2 local $5 Nz
+776 08 $i Online version: $t Thames star $x 2744-4090
+780 00 $t Evening star (Thames, N.Z.)
+780 05 $t Paeroa star $g 1982
+785 07 $a Paeroa gazette $x 1170-1196
+785 07 $a Thames Valley gazette (1998) $x 1174-7285

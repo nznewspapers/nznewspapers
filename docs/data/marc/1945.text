@@ -1,0 +1,34 @@
+01559cas a2200421 a 4500
+001 999252203502836
+003 Nz
+005 20220401150400.0
+008 891013c19779999nz wrzne      0   a0eng  
+022 0  $a 1170-0084 $y 0117-0084 $2 _g
+035    $a (nzNZBN)5164340
+035    $a zbn89076580
+035    $a (Nz)3531198
+035    $a (NLNZils)925220
+035    $a (NLNZils)925220-ilsdb
+035    $a (OCoLC)173333259
+040    $a NZNB $c NZNB
+042    $a nznb
+043    $a u-nz---
+082 04 $a 079.9343 $a 079.993 $2 20NZ
+130 0  $a Bush telegraph (Pahiatua, N.Z.)
+222  0 $a Bush telegraph $b (Pahiatua)
+245 10 $a Bush telegraph.
+246 13 $a Bush telegraph Tararua
+260    $3 1977- : $a Pahiatua [N.Z.] : $b North Wairarapa News, $c 1977-
+260 2  $3 <2013-> : $a [Masterton, N.Z. : $b Wairarapa Times-Age]
+260 3  $3 <2022-> : $a [Auckland?] : $b NZME
+300    $a v. : $b ill., ports ; $c 42 cm.
+310    $a Weekly
+362 1  $a Began with Dec. 20, 1977. $z Cf. Harvey, D. R. Union list of newspapers ... in New Zealand.
+500    $a "Every home between Mount Bruce in the south to Dannevirke in the north receives a free copy."
+530    $a Available on microfilm from Microfilm Production Unit, National Library of New Zealand.
+588    $a Description based on: Tuesday Sept. 19, 1989; title from masthead.
+588    $a Latest issue consulted: March 21, 2022.
+651  0 $a Tararua District (N.Z.) $v Newspapers.
+651  0 $a Wairarapa (N.Z.) $v Newspapers.
+655  7 $a New Zealand newspapers. $2 local $5 Nz
+780 00 $t North Wairarapa news

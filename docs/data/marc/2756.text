@@ -1,0 +1,31 @@
+01278cas a2200385 a 4500
+001 993408713502836
+003 Nz
+005 20210401185822.0
+008 160813d19971998nz mr|n       0   a0eng  
+022 0  $a 1174-328X $y 1174-3271 $2 _g
+035    $z 612254
+035    $a (nzNZBN)10502477
+035    $a zbn97104544
+035    $a (Nz)4122430
+035    $a (NLNZils)340871
+035    $a (NLNZils)340871-ilsdb
+035    $a (OCoLC)173339708
+040    $a NZNB $c NZNB
+042    $a nznb
+043    $a u-nz---
+082 0  $a 641.21099305 $2 21
+210 1  $a Food beverage liquor news
+222  0 $a Food and beverage liquor news
+245 10 $a Food & beverage liquor news : $b F&B.
+246 13 $a F&B liquor news
+246 10 $a Liquor news
+260    $a Auckland [N.Z.] : $b TPL Media, $c [1997-1998]
+300    $a v. : $b col. ill., ports. (some col.) ; $c 42 cm.
+310    $a Monthly
+362 0  $a Vol. 1, no. 1 (Sept. 1997)-v. 2, no. 5 (June 1998)
+500    $a Title from caption.
+515    $a Vol. 1, no. 4 (Dec. 1997) incorrectly numbered as v. 5, no. 3.
+650  0 $a Liquor industry $z New Zealand $x Periodicals.
+650  0 $a Alcoholic beverages $z New Zealand $x Periodicals.
+777 0  $t Food and beverage news (Auckland, N.Z.) $g v. 5, no. 8 (Sept. 1997)-v. 6, no. 5 (June 1998) $x 1174-3271

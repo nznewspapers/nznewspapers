@@ -1,0 +1,40 @@
+02038cas a2200493 a 4500
+001 998021963502836
+003 Nz
+005 20210401180855.0
+008 891027d19572016nz wr|ne      0   a0eng  
+022 0  $a 1170-0408 $y 0117-0408 $2 _g
+035    $a (nzNZBN)5168653
+035    $a (NLNZils)802196
+035    $a zbn89077010
+035    $a (Nz)3531223
+035    $a (NLNZils)802196-ilsdb
+035    $a (OCoLC)173333284
+040    $a NZNB $c NZNB
+042    $a nznb
+043    $a u-nz---
+082 04 $a 079.9345 $2 20
+222  0 $a Feilding herald
+245 00 $a Feilding herald.
+260    $a [Feilding, N.Z. : $b Feilding Herald, $c 1957-2016]
+260 3  $3 <2015>- $a [Auckland, N.Z. : $b Fairfax Media]
+300    $a v. : $b ill., ports. ; $c 41 cm.
+310    $a Weekly
+321    $a Twice a week $b May 2 1963-Nov. 28 2002
+362 1  $a Began with Oct. 17, 1957? $z Cf. Harvey, D. R. Union list of newspapers ... in New Zealand.
+362 1  $a Ceased with Mar. 31, 2016.
+500    $a "Feilding & districts own newspaper."
+500    $a Includes advertising.
+500    $a Available from Feilding Herald, 21 Manchester Sqaure, Feilding, N.Z.
+530    $a Available on microfilm from Microfilm Production Unit, National Library of New Zealand.
+580    $a Tuesday issue merged with: Rangitikei mail, to form: Feilding herald Rangitikei mail; continues to be published separately on Thursdays. Merged with: Central district times, and: Rangitikei mail (2005), to form: Feilding-Rangitikei herald.
+588    $a Description based on: Thursday Aug. 31, 1989; title from masthead.
+588    $a Latest issue consulted: Thursday Mar. 31, 2016.
+651  0 $a Manawatu District (N.Z.) $v Periodicals.
+655  7 $a New Zealand newspapers. $2 local $5 Nz
+776 08 $i Online version: $t Feilding herald $w (Nz)9917919593502836
+785 17 $t Rangitikei mail $x 1170-1048
+785 17 $t Feilding herald Rangitikei mail
+785 17 $t Central district times $x 1170-0122
+785 17 $t Rangitikei mail (2005)
+785 17 $t Feilding-Rangitikei herald $x 2463-5731

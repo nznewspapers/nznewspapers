@@ -1,0 +1,24 @@
+00932cas a22003011a 4500
+001 999284383502836
+003 Nz
+005 20191113084037.0
+008 031223d18701879nz dr|ne      0   a0eng  
+035    $a (NLNZils)928438
+035    $a (Nz)8141884
+035    $a (NLNZils)928438-ilsdb
+035    $a (OCoLC)946808540
+040    $a NZNB $c NZNB
+042    $a nznb
+043    $a u-nz---
+082 04 $a 079.932 $2 23
+130 0  $a Evening star (Auckland, N.Z.)
+245 10 $a Evening star.
+260    $a Auckland, N.Z. : $b Reed, Ferrar & Co., $c [1870-1879]
+300    $a v. ; $c 47 cm.
+310    $a Daily
+362 0  $a Began with Jan. 8, 1870; ceased with Mar. 7, 1879.
+500    $a Incorporates Evening news (Auckland), Echo (Auckland), Morning press.
+651  0 $a Auckland (N.Z.) $v Newspapers.
+655  7 $a New Zealand newspapers. $2 local $5 Nz.
+776 08 $i Online version: $t Evening star $w (Nz)9914850733502836
+785 00 $t Auckland evening star

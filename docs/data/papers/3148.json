@@ -1,0 +1,35 @@
+{
+  "id": 3148,
+  "title": "Cook Strait News",
+  "genre": "Newspaper",
+  "firstYear": "1994",
+  "finalYear": "2006",
+  "district": "Wellington City",
+  "frequency": "Weekly",
+  "idMarcControlNumber": "8127605",
+  "isCurrent": false,
+  "placecode": "09-08",
+  "placename": "Wellington",
+  "region": "Wellington",
+  "links": {
+    "unknown-1": {
+      "direction": "Preceding",
+      "relationship": "Continues",
+      "target-description": "Eastern news (Wellington, N.Z.)"
+    },
+    "unknown-2": {
+      "direction": "Preceding",
+      "relationship": "Continues",
+      "target-description": "Southern news (Wellington, N.Z.)"
+    },
+    "unknown-3": {
+      "direction": "Succeeding",
+      "relationship": "Continued by",
+      "target-description": "Citylife (South ed.)"
+    }
+  },
+  "sources": {
+    "2022-08-31T04:35:54.295Z": "Extracted from the New Zealand National Bibliography (MARC record 8127605) downloaded June 2022."
+  },
+  "revision": 1
+}

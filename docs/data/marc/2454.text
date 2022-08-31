@@ -1,0 +1,30 @@
+01217cas a2200373 a 4500
+001 997047023502836
+003 Nz
+005 20210401180847.0
+008 891102d19851990nz wrgn       0   a0eng  
+022 0  $a 1170-0157 $y 0117-0157
+035    $a (nzNZBN)5177479
+035    $a (NLNZils)704702
+035    $a zbn89079001
+035    $a (Nz)3601357
+035    $a (NLNZils)704702-ilsdb
+035    $a (OCoLC)173334164
+040    $a NZNB $c NZNB
+042    $a nznb
+043    $a u-nz---
+082 04 $a 079.9371 $2 20NZ
+222  0 $a Christchurch mid-week mail
+245 04 $a The Christchurch mid-week mail.
+246 30 $a Mail
+246 30 $a Mid-week mail
+260    $a Christchurch [N.Z. : $b Christchurch Mid-week Mail Ltd.], $c 1985-1990.
+300    $a ?v. : $b ill., form, map, ports. ; $c 42 cm.
+362 1  $a Began with Sept. 24 1985. $z C.f. Harvey, D. R. Union list of newspapers ... in New Zealand.
+362 1  $a Ceased with 12 March 1990.
+500    $a Community newspaper.
+500    $a Includes advertising.
+500    $a Description based on: Sept. 19 1989; title from masthead.
+651  0 $a Christchurch Region (N.Z.) $v Periodicals.
+655  7 $a New Zealand newspapers. $2 local $5 Nz
+785 00 $t Christchurch mail $x 1170-1277

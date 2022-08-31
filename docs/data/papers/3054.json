@@ -1,0 +1,25 @@
+{
+  "id": 3054,
+  "title": "New Zealand Free Lance",
+  "genre": "Newspaper",
+  "firstYear": "1923",
+  "finalYear": "1960",
+  "district": "Wellington City",
+  "frequency": "Weekly",
+  "idMarcControlNumber": "13881120",
+  "isCurrent": false,
+  "placecode": "09-08",
+  "placename": "Wellington",
+  "region": "Wellington",
+  "links": {
+    "unknown-1": {
+      "direction": "Preceding",
+      "relationship": "Continues",
+      "target-description": "Free lance (Wellington, N.Z.)"
+    }
+  },
+  "sources": {
+    "2022-08-31T04:35:28.875Z": "Extracted from the New Zealand National Bibliography (MARC record 13881120) downloaded June 2022."
+  },
+  "revision": 1
+}

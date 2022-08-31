@@ -1,0 +1,18 @@
+{
+  "id": 3107,
+  "title": "Auckland Morning Post And Provincial Advocate",
+  "genre": "Newspaper",
+  "firstYear": "1860",
+  "finalYear": "uuuu",
+  "district": "Auckland",
+  "frequency": "Semiweekly",
+  "idMarcControlNumber": "8131259",
+  "isCurrent": false,
+  "placecode": "02-01",
+  "placename": "Auckland",
+  "region": "Auckland",
+  "sources": {
+    "2022-08-31T04:35:41.465Z": "Extracted from the New Zealand National Bibliography (MARC record 8131259) downloaded June 2022."
+  },
+  "revision": 1
+}

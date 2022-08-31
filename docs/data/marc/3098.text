@@ -1,0 +1,27 @@
+01173cas a22003371a 4500
+001 9912781123502836
+003 Nz
+005 20211221090149.0
+008 031215d19291935nz dr ne      000 a0eng d
+035    $a (Nz)8127551
+035    $a (NLNZils)1278112
+035    $a NLNZils)1278112-ilsdb
+035    $a (OCoLC)751717284
+040    $a WN $c WN
+042    $a nznb
+043    $a u-nz---
+245 00 $a Christchurch star.
+260    $a Christchurch [N.Z.] : $b Thomas Edward Robson for New Zealand Newspapers Ltd., $c 1929-
+300    $a 7 v. : $b ill.; $c 38 cm.
+310    $a Daily
+362 0  $a [no.] 18,829 (Aug. 1 1929)-vol. LXVI, no. 20,653 (June 29 1935)
+580    $a Merged with: Sun (Christchurch, N.Z. : 1914), and: Christchurch times to form: Christchurch star-sun.
+651  0 $a Canterbury (N.Z.) $v Newspapers.
+651  0 $a Christchurch (N.Z.) $v Newspapers.
+655  7 $a New Zealand newspapers. $2 local $5 Nz
+770 0  $t Star pictorial annual
+776 08 $i Online version: $t Christchurch star $w (Nz)9918995968302836
+780 00 $t Star (Christchurch, N.Z. : 1868)
+785 07 $t Sun (Christchurch, N.Z. : 1914)
+785 07 $t Christchurch times
+785 07 $t Christchurch star-sun

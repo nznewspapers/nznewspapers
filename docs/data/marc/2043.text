@@ -1,0 +1,26 @@
+01038cas a2200325 a 4500
+001 9913252283502836
+003 Nz
+005 20161223163019.0
+008 090302d20092013nz wr|n       0   a0eng  
+035    $a (NLNZils)1325228
+035    $a (Nz)12846468
+035    $a (NLNZils)1325228-ilsdb
+035    $a (OCoLC)313744735
+040    $a NZNB $c NZNB
+042    $a nznb
+043    $a u-nz---
+082 04 $a 079.9362 $2 22
+245 00 $a Citylife Porirua news.
+246 30 $a Porirua news
+260    $a Petone [N.Z.] : $b Citylife, $c 2009-[2013]
+300    $a v. : $b col. ill. ; $c 38 cm.
+310    $a Weekly
+362 1  $a Began with Feb. 25, 2009; ceased with Apr. 3, 2013.
+500    $a Description based on first issue; title from caption.
+500    $a Community newspaper.
+588    $a Latest issue consulted: Apr. 3, 2013.
+651  0 $a Porirua (N.Z.) $v Newspapers.
+655  7 $a New Zealand newspapers. $2 local $5 Nz
+776 0  $i Online version: $t Citylife Porirua news [electronic resource] $w (Nz)9914851483502836
+780 00 $t Citylife (Porirua ed.)

@@ -1,0 +1,29 @@
+01078cas a2200361 a 4500
+001 995006843502836
+003 Nz
+005 20211210103028.0
+008 160813d19911993nz  x n       0uuua0eng d
+035    $z 313418
+035    $a (nzNZBN)5787301
+035    $a zbn98000373
+035    $a (Nz)3822654
+035    $a (NLNZils)500684
+035    $a (NLNZils)500684-ilsdb
+035    $a (OCoLC)173336239
+040    $a WN $c WN
+042    $a nznb
+043    $a u-nz---
+082 0  $a 700.9936305 $2 21
+130 0  $a Creativity network (Wellington, N.Z.)
+245 10 $a Creativity network : $b mindbiz.
+246 10 $a Mindbiz
+260    $a Wellington [N.Z.] : $b The Learning Connexion, $c [1991-1993]
+300    $a 7 v. : $b ill. ; $c 42 cm.
+310    $a Irregular
+362 0  $a 8 (Feb.-Apr. 1991)-no. 14 (Jan. 1993-Apr. 1993).
+500    $a Title from caption.
+515    $a Continues numbering of its predecessor.
+650  0 $a Art schools $z New Zealand $z Wellington $x Periodicals.
+710 2  $a Learning Connexion (Art school)
+780 00 $t Art & creativity
+785 00 $t Learning Connexion (Series)

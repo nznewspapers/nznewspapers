@@ -1,0 +1,27 @@
+01012cas a2200337 a 4500
+001 999303783502836
+003 Nz
+005 20210401181304.0
+008 891031d19801995nz mrzne      0   a0eng  
+022 0  $a 1170-1633 $y 0117-1633
+035    $a (nzNZBN)5192420
+035    $a (NLNZils)930378
+035    $a zbn89081952
+035    $a (Nz)3531246
+035    $a (NLNZils)930378-ilsdb
+035    $a (OCoLC)173333299
+040    $a NZNB $c NZNB
+042    $a nznb
+043    $a u-nz---
+082 04 $a 079.9315 $2 20NZ
+222  0 $a Nawton news
+245 00 $a Nawton news.
+260    $a Hamilton [N.Z.] : $b Nawton Community Association, $c 1980-1995.
+300    $a v. : $b map, ports. ; $c 43 cm.
+362 1  $a Began with Feb. 1980 ; ceased with Aug. 1995.
+500    $a Community newspaper.
+500    $a Includes advertising.
+500    $a Description based on: Sept. 1989; title from masthead.
+651  0 $a Hamilton (N.Z.) $x Periodicals.
+655  7 $a New Zealand newspapers. $2 local $5 Nz
+785 00 $t Westside news (Hamilton, N.Z.)

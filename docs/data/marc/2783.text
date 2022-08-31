@@ -1,0 +1,30 @@
+01149cas a2200373 a 4500
+001 9912608483502836
+003 Nz
+005 20180820165122.0
+008 070926d20072018nz mr ne      0   a0eng  
+035    $a (NLNZils)1260848
+035    $a (Nz)11524975
+035    $a (NLNZils)1260848-ilsdb
+035    $a (OCoLC)174111932
+040    $a NZNB $c NZNB
+042    $a nznb
+043    $a u-nz---
+082 04 $a 079.933 $2 22
+245 00 $a Urban&Country : $b it's all about you.
+246 13 $a Urban & Country
+246 3  $a Urban and Country
+260    $a [Matamata, N.Z.?] : $b Urban&Country, $c 2007-
+260 2  $3 <2015>- $a [Auckland, N.Z. : $b Fairfax Media]
+260 3  $3 <February 2018-> $a [Auckland, N.Z. : $b Stuff Limited]
+300    $a v. : $b col. ill. ; $c 39 cm.
+310    $a Monthly
+362 0  $a Sept. 2007-
+362 1  $a Ceased with Apr. 2018.
+500    $a Title from cover.
+500    $a Community newspaper.
+651  0 $a Waikato (N.Z.) $v Newspapers.
+651  0 $a Matamata (N.Z.) $v Newspapers.
+655  7 $a New Zealand newspapers. $2 local $5 Nz
+776 08 $i Online version: $t Urban and country $w (Nz)9917975793502836
+780 00 $t Country (Matamata, N.Z.)

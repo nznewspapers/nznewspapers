@@ -1,0 +1,29 @@
+01006cas a2200361 a 4500
+001 9911960083502836
+003 Nz
+005 20161223161520.0
+008 060629d20062007nz wr|n       0   a0eng  
+035    $a (NLNZils)1196008
+035    $a (Nz)10906053
+035    $a (NLNZils)1196008-ilsdb
+035    $a (OCoLC)946511221
+040    $a NZNB $c NZNB
+042    $a nznb
+043    $a u-nz---
+082 04 $a 079.9362 $2 22
+130 0  $a Citylife (South ed.)
+245 10 $a Citylife.
+246 3  $a City life
+250    $a South ed.
+260    $a [Wellington, N.Z.] : $b APN News & Media, $c [2006]-
+300    $a 2 v. : $b col. ill. ; $c 38 cm.
+310    $a Weekly
+362 0  $a June 20, 06-
+362 1  $a Ceased with July 10, 2007.
+500    $a Title from cover.
+500    $a Community newspaper.
+500    $a "It's all about you."
+651  0 $a Wellington (N.Z.) $v Newspapers.
+655  7 $a New Zealand newspapers. $2 local $5 Nz
+780 00 $t Cook strait news
+785 00 $t City Life (Wellington, N.Z. : South & East)

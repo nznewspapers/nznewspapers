@@ -1,0 +1,37 @@
+01595cas a2200457 a 4500
+001 9910500463502836
+003 Nz
+005 20200910160126.0
+007 hd#afa###baca
+008 041027c20049999nz wr|ne      0   a0eng  
+022 0  $a 1176-7405 $2 _g
+035    $a (Nz)8948358
+035    $a (NLNZils)1050046
+035    $a (NLNZils)1050046-ilsdb
+035    $a (OCoLC)298439161
+040    $a NZNB $c NZNB
+042    $a nznb
+043    $a u-nz---
+082 04 $a 079.9324 $2 22
+130 0  $a Herald on Sunday (Auckland, N.Z.)
+210 1  $a Her. Sunday $b (Auckl.)
+222  0 $a Herald on Sunday $b (Auckland)
+245 00 $a Herald on Sunday.
+246 1  $i At head of title: $a New Zealand Herald
+260    $a [Auckland, N.Z.] : $b New Zealand Herald, $c [2004]-
+300    $a v. : $b ill. ; $c 40 cm.
+310    $a Weekly (On Sunday)
+362 0  $a 1st ed. (Oct. 3, 2004)-
+500    $a Title from caption.
+500    $a Has some supplements.
+510 2  $a Index New Zealand, $x 0113-6526, $b 13th ed. (Jan. 2, 2005)-
+525    $a Includes sections entitled: Sunday life; View.
+533    $a Reproduction in microfilm. $m 1st ed (Oct. 3, 2004)- $b Wellington, N.Z. : $c Microfilm Production Unit, National Library of New Zealand. $n Filmed with: New Zealand herald.
+588    $a Latest issue consulted: May 12, 2013.
+651  0 $a Auckland (N.Z.) $v Newspapers.
+655  7 $a New Zealand newspapers. $2 local $5 Nz
+740 02 $a Sunday life.
+740 02 $a View.
+775 0  $a Herald on Sunday (Auckland, N.Z. : Metro edition)
+787 0  $t New Zealand herald $x 0112-8787
+787 0  $t New Zealand herald (Auckland ed.)

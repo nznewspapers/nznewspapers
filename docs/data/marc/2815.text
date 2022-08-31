@@ -1,0 +1,40 @@
+01938cas a2200493 a 4500
+001 998932513502836
+003 Nz
+005 20220218120657.0
+008 030916c20039999nz mr|ne |    0   b0eng  
+022 0  $a 1176-4228 $y 1176-42288 $y 1172-9082 $2 _g
+035    $a (NLNZils)893251
+035    $a (Nz)7969212
+035    $a (NLNZils)893251-ilsdb
+035    $a (OCoLC)946530936
+040    $a NZNB $c NZNB
+041 0  $a eng $a mao
+042    $a nznb
+043    $a u-nz---
+082 04 $a 305.89944209934405 $2 21
+130 0  $a Pīpīwharauroa (Gisborne, N.Z.)
+210 1  $a Pīpīwharauroa $b (Gisborne)
+222  0 $a Pīpīwharauroa $b (Gisborne)
+245 00 $a Pīpīwharauroa / $c Te Rūnanga o Tūranganui ā Kiwa.
+260    $a Gisborne [N.Z.] : $b Te Rūnanga o Tūranganui ā Kiwa, $c [2003]-
+300    $a v. : $b ill. (some col.) ; $c 40 cm.
+310    $a Monthly
+362 0  $a Vol. 11, no 7 (Here-turi-kōkā 2003)-
+500    $a Community newspaper.
+510 2  $a Index New Zealand, $x 0113-6526, $b vol. 11, no. 7 (Here-turi-kōkā 2003)-
+515    $a Continues the numbering of its predecessor.
+515    $a Vol. 11, no. 8 (Mahuru 2003) misnumbered v. 11, no. 9.
+546    $a Text in English and Māori.
+588    $a Title from caption.
+588    $a Latest issue consulted: Pukapuka: 19, panui: 1 (Kohitātea 2022)
+650  0 $a Maori (New Zealand people) $z New Zealand $z Gisborne District $v Newspapers.
+650  0 $a Maori (New Zealand people) $v Newspapers.
+651  0 $a Gisborne District (N.Z.) $v Newspapers.
+651  0 $a Gisborne District (N.Z.) $x Politics and government $v Newspapers.
+655  7 $a New Zealand newspapers. $2 local $5 Nz
+655  7 $a Maori newspapers. $2 local $5 Nz
+710 2  $a Te Runanga o Turanganui a Kiwa.
+776 08 $i Online version: $t Pīpīwharauroa $x 2357-187X
+777 0  $t Gisborne herald (Gisborne, N.Z. : 2000) $x 1175-4672
+780 00 $t Tūranganui ā Kiwa pīpīwharauroa $x 1172-9082

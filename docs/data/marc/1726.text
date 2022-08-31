@@ -1,0 +1,32 @@
+01184cas a2200397 a 4500
+001 993979473502836
+003 Nz
+005 20210401181751.0
+008 990216d19992000nz drzne      0   a0eng  
+022    $a 1175-0324
+035    $z 651364
+035    $a (nzNZBN)11217070
+035    $z zbn99011426
+035    $a (NLNZils)397947
+035    $a zbn99011426
+035    $a (Nz)4813216
+035    $a (NLNZils)397947-ilsdb
+035    $a (OCoLC)173350188
+040    $a NZNB $c NZNB
+042    $a nznb
+043    $a u-nz---
+082 04 $a 079.9344 $2 21
+130 0  $a Herald (Gisborne, N.Z.)
+210 1  $a Herald $b (Gisborne)
+222  0 $a Herald $b (Gisborne)
+245 14 $a The Herald.
+260    $a Gisborne [N.Z.] : $b Gisborne Herald, $c [1999-2000]
+300    $a 2 v. : $b ill. (some col.) ; $c 40 cm.
+310    $a Daily (except Sunday)
+362 0  $a Feb. 2, 1999-Oct. 14, 2000.
+500    $a Title from caption.
+510 2  $a Index New Zealand, $x 0113-6526, $b Feb. 2, 1999-Oct. 13, 2000.
+651  0 $a Gisborne District (N.Z.) $v Newspapers.
+655  7 $a New Zealand newspapers. $2 local $5 Nz
+780 00 $t Gisborne herald $x 1170-0432
+785 00 $t Gisborne herald (Gisborne, N.Z. : 2000) $x 1175-4672

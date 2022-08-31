@@ -1,0 +1,18 @@
+{
+  "id": 3080,
+  "title": "Manuwera Week",
+  "genre": "Newspaper",
+  "firstYear": "1993",
+  "finalYear": "9999",
+  "district": "Auckland",
+  "frequency": "Weekly",
+  "idMarcControlNumber": "8129629",
+  "isCurrent": false,
+  "placecode": "02-01",
+  "placename": "Papatoetoe",
+  "region": "Auckland",
+  "sources": {
+    "2022-08-31T04:35:33.124Z": "Extracted from the New Zealand National Bibliography (MARC record 8129629) downloaded June 2022."
+  },
+  "revision": 1
+}

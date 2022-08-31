@@ -1,0 +1,31 @@
+01182cas a2200385 a 4500
+001 999269673502836
+003 Nz
+005 20210401181344.0
+008 920916d19921994nz wrzne      0   a0eng  
+022 0  $a 1171-9028
+035    $a (nzNZBN)7123203
+035    $a (NLNZils)926967
+035    $a zbn92079173
+035    $a (Nz)4076140
+035    $a (NLNZils)926967-ilsdb
+035    $a (OCoLC)173339206
+040    $a NZNB $c NZNB
+042    $a nznb
+043    $a u-nz---
+082 04 $a 079.9343 $2 20NZ
+222  0 $a Wairarapa news & the chronicle
+245 00 $a Wairarapa news & the chronicle.
+246 3  $a Wairarapa news and the chronicle
+246 30 $a Chronicle
+260    $a Carterton, N.Z. : $b [Wairarapa News, $c 1992-1994]
+300    $a v. : $b ill. (some col.), ports. ; $c 42 cm.
+362 0  $a Friday July 3 1992- May 20 1994.
+500    $a Community newspaper.
+500    $a Title from masthead.
+500    $a Available from Wairarapa News, P.O. Box 18, Carterton, N.Z.
+651  0 $a Wairarapa (N.Z.)
+655  7 $a New Zealand newspapers. $2 local $5 Nz
+780 04 $t Wairarapa news $x 1170-0963
+780 04 $t Chronicle (Featherston, N.Z.) $x 1170-0165
+785 00 $t Wairarapa news (1994)

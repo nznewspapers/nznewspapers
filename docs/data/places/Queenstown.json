@@ -1,7 +1,7 @@
 {
   "stats": {
     "placename": "Queenstown",
-    "count": 5,
+    "count": 6,
     "decades": 5
   },
   "papers": [
@@ -31,6 +31,12 @@
       "title": "Wakatipu Advertiser",
       "firstYear": "1984",
       "finalYear": "1987"
+    },
+    {
+      "id": "3058",
+      "title": "Advertiser",
+      "firstYear": "1987",
+      "finalYear": "1988"
     },
     {
       "id": "2561",

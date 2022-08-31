@@ -1,0 +1,35 @@
+01378cas a2200433 a 4500
+001 999260893502836
+003 Nz
+005 20210401181216.0
+008 900115c19899999nz wr|ne      0   a0eng  
+022 0  $a 1170-151X $y 0117-151X $2 _g
+035    $a (nzNZBN)5264622
+035    $a zbn90001550
+035    $a (NLNZils)926089
+035    $a (Nz)3534514
+035    $a (NLNZils)926089-ilsdb
+035    $a (OCoLC)173333343
+040    $a NZNB $c NZNB
+042    $a nznb
+043    $a u-nz---
+082 04 $a 079.932 $2 20NZ
+222  0 $a North Taranaki midweek
+245 00 $a North Taranaki midweek.
+246 37 $a Midweek
+260    $a New Plymouth [N.Z.] : $b Taranaki Newspapers, $c [1989]-
+260 2  $3 <2015>- $a [Auckland, N.Z. : $b Fairfax Media]
+260 3  $3 <February 2018-> $a [Auckland, N.Z. : $b Stuff Limited]
+300    $a v. : $b ill (some col.), ports. ; $c 41 cm.
+310    $a Weekly
+362 0  $a June 7, 1989-
+500    $a Title from masthead.
+500    $a "Your community newspaper"
+500    $a "Including the Taranaki herald"--Publishing statement.
+500    $a Includes advertising
+588    $a Latest issue consulted: Dec. 19, 2012.
+651  0 $a Taranaki, North (N.Z.) $v Newspapers.
+655  7 $a New Zealand newspapers. $2 local $5 Nz
+776 08 $i Online version: $t North Taranaki midweek $w (Nz)9917923443502836
+780 04 $t Northern star
+780 04 $t Sunday express

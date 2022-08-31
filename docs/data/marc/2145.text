@@ -1,0 +1,27 @@
+01094cas a2200337 a 4500
+001 999319913502836
+003 Nz
+005 20210401181336.0
+008 980717d19351959nz wr n       0   a0eng  
+035    $a (nzNZBN)10909933
+035    $a ocm39476928
+035    $a (Nz)4930179
+035    $a (NLNZils)931991
+035    $a (NLNZils)931991-ilsdb
+035    $a (OCoLC)39476928
+040    $a NZNB $c OCoLC $d NZNB
+042    $a nznb
+082 04 $a 331.88099305 $2 22
+130 0  $a Standard (Wellington, N.Z.)
+245 14 $a The Standard.
+260    $a Wellington, N.Z. : $b New Zealand Worker Print. and Pub. Co., $c 1935-1959.
+300    $a 25 v. : $b ill. ; $c 34-63 cm.
+310    $a Weekly
+362 0  $a Vol. 1, [no. 1] (Oct. 9, 1935)-v. 25, no. 49 [i.e. 51] (Dec. 23, 1959).
+500    $a "Official organ of the N.Z. labour movement".
+515    $a Various mistakes in numbering.
+592    $a COPYRIGHT OCLC 1978-1998
+650  0 $a Labor movement $z New Zealand $v Newspapers.
+650  0 $a Labor unions $z New Zealand $v Newspapers.
+655  7 $a New Zealand newspapers. $2 local $5 Nz
+780 00 $t New Zealand worker

@@ -1,0 +1,31 @@
+01244cas a2200385 a 4500
+001 999277283502836
+003 Nz
+005 20210401181345.0
+008 921009d19922001nz mrzne      0   a0eng  
+022 0  $a 1171-9680 $y 1170-1420
+035    $a (nzNZBN)7229967
+035    $a (NLNZils)927728
+035    $a zbn92095073
+035    $a (Nz)4090287
+035    $a (NLNZils)927728-ilsdb
+035    $a (OCoLC)173339419
+040    $a NZNB $c NZNB $d NZNB
+042    $a nznb
+043    $a u-nz---
+082 04 $a 079.9371 $2 20NZ
+222  0 $a West city times
+245 00 $a West city times : $b (incorporating The Riccarton & Hornby times)
+246 30 $a Christchurch west city times
+260    $a Christchurch, N.Z. : $b West City Times, $c [1992-2001]
+300    $a v. : $b ill. (some col.) ports. (some col.) ; $c 40 cm.
+362 0  $a Tuesday July 28th 1992-
+362 1  $a Ceased with Jan. 2001.
+500    $a Community newspaper.
+500    $a Title from caption.
+500    $a At head of title: Christchurch.
+500    $a Available from West City News, P.O. Box 35050, Christchurch, N.Z.
+500    $a Suspended Jan.-June 1994.
+651  0 $a Christchurch (N.Z.)
+655  7 $a New Zealand newspapers. $2 local $5 Nz
+780 00 $t Riccarton & Hornby times $x 1170-1420

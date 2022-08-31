@@ -1,8 +1,8 @@
 {
   "stats": {
     "placename": "Papatoetoe",
-    "count": 6,
-    "decades": 3
+    "count": 8,
+    "decades": 4
   },
   "papers": [
     {
@@ -30,6 +30,12 @@
       "finalYear": "1995"
     },
     {
+      "id": "3080",
+      "title": "Manuwera Week",
+      "firstYear": "1993",
+      "finalYear": "9999"
+    },
+    {
       "id": "1231",
       "title": "Papatoetoe & Otahuhu Week",
       "firstYear": "1995",
@@ -40,6 +46,12 @@
       "title": "Our Town Papakura",
       "firstYear": "1996",
       "finalYear": "2003"
+    },
+    {
+      "id": "3056",
+      "title": "The Dawn",
+      "firstYear": "2008",
+      "finalYear": "2009"
     }
   ]
 }

@@ -1,8 +1,8 @@
 {
   "stats": {
     "placename": "Dargaville",
-    "count": 9,
-    "decades": 6
+    "count": 10,
+    "decades": 7
   },
   "papers": [
     {
@@ -60,6 +60,12 @@
       "title": "Northland Times and Rodney Reporter",
       "firstYear": "1999",
       "finalYear": "2000"
+    },
+    {
+      "id": "3074",
+      "title": "Kaipara Lifestyler",
+      "firstYear": "200u",
+      "finalYear": "9999"
     }
   ]
 }

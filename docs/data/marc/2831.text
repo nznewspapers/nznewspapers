@@ -1,0 +1,28 @@
+01013cas a2200349 a 4500
+001 9912633023502836
+003 Nz
+005 20200629092924.0
+008 071015d20072020nz mr|n       0   a0eng  
+035    $a (NLNZils)1263302
+035    $a (Nz)11538684
+035    $a (NLNZils)1263302-ilsdb
+035    $a (OCoLC)180190520
+040    $a NZNB $c NZNB
+042    $a nznb
+043    $a u-nz---
+082 04 $a 079.93482 $2 22
+130 0  $a TOM (Oakura ed.)
+245 10 $a TOM : $b Oakura.
+246 3  $a Oakura Messenger
+260    $a Oakura [N.Z.] : $b The Oakura Messenger, $c [2007-2020]
+300    $a v. : $b ill. ; $c 30 cm.
+310    $a Monthly
+362 0  $a Oct. 2007-Feb. 2020.
+500    $a Title from caption.
+500    $a Community newspaper.
+588    $a Latest issue consulted: Feb. 2020.
+651  0 $a Oakura (N.Z.) $v Newspapers.
+655  7 $a New Zealand newspapers. $2 local $5 Nz
+776 0  $i Online version: $t TOM (Oakura ed. : Online) $w (Nz)9915610673502836
+780 00 $t Oakura messenger
+785 00 $t Ōākura post

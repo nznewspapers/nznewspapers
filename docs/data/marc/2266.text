@@ -1,0 +1,38 @@
+01821cas a2200469 a 4500
+001 994802543502836
+003 Nz
+005 20210517151036.0
+008 051109c18669999nz  n|ne      0   a0eng  
+022 0  $a 1170-070X $y 0117-070X $2 _g
+035    $z 291963
+035    $a (nzNZBN)5123686
+035    $a zbn89077135
+035    $a (NLNZils)480254
+035    $a (Nz)3531187
+035    $a (NLNZils)480254-ilsdb
+035    $a (OCoLC)173333254
+040    $a NZNB $c NZNB
+042    $a nznb
+043    $a u-nz---
+082 04 $a 079.93 $2 21
+210 1  $a Marlbgh. express
+222  0 $a Marlborough express
+245 04 $a The Marlborough express : $b and weekly commercial reporter.
+246 1  $i Issues from 14 September 2020 have parallel title: $a Karere o Wairau
+260    $a Blenheim, N.Z. : $b Samuel and Thomas Johnson, $c [1866]-
+260 2  $3 <2015>- $a [Auckland, N.Z. : $b Fairfax Media]
+260 3  $3 <February 2018-> $a [Auckland, N.Z. : $b Stuff Limi
+300    $a v. : $b ill. ; $c 41-59 cm.
+310    $a Four times a week
+321    $a Biweekly, $b June 21 1871-Dec. 1879
+321    $a Weekly, $b Apr. 21 1866-June 14 1871
+362 0  $a No. 1 (Apr. 21, 1866)-no. 53 (Apr. 13, 1867) ; v. 2, no. 54 (Apr. 20, 1867)-
+500    $a Title from caption.
+500    $a From >2021< title during New Zealand Sign Language Week also given in NZSL finger spellings.
+510 2  $a Index New Zealand, $x 0113-6526, $b May 21, 1990-Dec. 27, 2019
+530    $a Available on microfilm from Microfilm Production Unit, National Library of New Zealand.
+580    $a Saturday issue published as: Saturday express (Blenheim, N.Z.)
+651  0 $a Marlborough (N.Z.) $v Newspapers.
+655  7 $a New Zealand newspapers. $2 local $5 Nz
+776 0  $i Online version: $t Marlborough express $x 2463-7459
+787 0  $t Saturday express (Blenheim, N.Z.) $x 1170-1293

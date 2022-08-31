@@ -1,0 +1,31 @@
+01144cas a2200385 a 4500
+001 999261203502836
+003 Nz
+005 20161223153707.0
+008 940923d19962005nz wr ne      0   a0eng d
+035    $a (nzNZBN)8681327
+035    $a zbn94079871
+035    $a (NLNZils)926120
+035    $a (Nz)4451472
+035    $a (NLNZils)926120-ilsdb
+035    $a (OCoLC)173343054
+040    $a CU $c CU $d WN
+042    $a nznb
+043    $a u-nz---
+082 04 $a 079.9383 $2 22
+130 0  $a Observer (Christchurch, N.Z. : 1996)
+245 00 $a Observer.
+260    $a Christchurch, [N.Z.] : $b Community News, $c [1996]-
+300    $a v. : $b ill. ; $c 40 cm.
+310    $a Weekly
+362 0  $a Nov. 25, 1996-
+362 1  $a Ceased with 4 Sept. 2005.
+500    $a Title from masthead.
+500    $a "Incorporating Lyttelton times."
+500    $a Community newspaper.
+580    $a Merged with: Shore news to form Star community.
+651  0 $a Christchurch (N.Z.) $v Periodicals.
+655  7 $a New Zealand newspapers. $2 local $5 Nz
+780 00 $t Community news (Observer ed.)
+785 07 $t Shore news (Christchurch, N.Z.)
+785 07 $t Star community (Southern)

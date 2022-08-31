@@ -1,0 +1,36 @@
+01371cas a2200445 a 4500
+001 999264473502836
+003 Nz
+005 20210401181346.0
+008 900330d19842004nz wr|n       0   a0eng  
+022 0  $a 1170-1595 $y 0117-1595 $2 _g
+035    $a (nzNZBN)5367814
+035    $a zbn90020307
+035    $a (Nz)3561170
+035    $a (NLNZils)926447
+035    $a (NLNZils)926447-ilsdb
+035    $a (OCoLC)173333796
+040    $a NZNB $c NZNB
+042    $a nznb
+043    $a u-nz---
+082 04 $a 079.932 $2 20NZ
+130 0  $a Star (Hawera, N.Z.)
+210 1  $a Star $b (Harewa)
+222  0 $a Star $b (Hawera)
+245 04 $a The Star.
+246 37 $a Hawera Star
+260    $a Hawera [N.Z.] : $b Hawera Star, $c -2004.
+300    $a v. : $b ill., form, ports. ; $c 41 cm.
+310    $a Weekly
+321    $a Semiweekly
+321    $a Daily
+362 1  $a Began with Sept. 4 1984; ceased with July 29, 2004.
+500    $a "Serving the community since 1880."
+500    $a Includes advertising.
+500    $a Description based on: Friday, Sept. 8 1989; title from masthead.
+500    $a Latest issue consulted: July 29, 2004.
+530    $a Available on microfilm from Microfilm Production Unit, National Library of New Zealand.
+651  0 $a Hawera (N.Z.) $v Periodicals.
+655  7 $a New Zealand newspapers. $2 local $5 Nz
+780 00 $t Hawera Star
+785 00 $t South Taranaki star

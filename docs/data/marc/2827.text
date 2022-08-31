@@ -1,0 +1,30 @@
+01260cas a2200373 a 4500
+001 999323253502836
+003 Nz
+005 20210401181145.0
+008 931115d19921993nz mr|n       0   a0eng  
+022 0  $a 1172-8078 $2 _g
+035    $a (nzNZBN)8012226
+035    $a zbn93112150
+035    $a (NLNZils)932325
+035    $a (Nz)4205719
+035    $a (NLNZils)932325-ilsdb
+035    $a (OCoLC)173340660
+040    $a NZNB $c NZNB
+042    $a nznb
+043    $a u-nz---
+082 04 $a 079.9348 $2 20
+210 0  $a Te Maunga Korero
+222  0 $a Te Maunga Korero
+245 03 $a Te Maunga Korero.
+260    $a New Plymouth, N.Z. : $b Te Maunga Korero
+300    $a v. : $b ill., ports. ; $c 42 cm. folded to 29 cm.
+362 1  $a Began with Nov. 1992? Ceased with vol. 2, no. 1 (Nov 1993)?
+500    $a Community newspaper.
+500    $a Available from: Te Maunga Korero, P.O. Box 4247, New Plymouth.
+588    $a Description based on: Issue 5 (Pipiri 1993); title from masthead.
+588    $a Latest issue consulted: Vol. 2, no. 1 (Nov 1993)
+650  0 $a Maori (New Zealand people) $z New Zealand $z Taranaki $v Newspapers.
+650  0 $a Maori (New Zealand people) $v Newspapers.
+655  7 $a New Zealand newspapers. $2 local $5 Nz
+655  7 $a Maori newspapers. $2 local $5 Nz

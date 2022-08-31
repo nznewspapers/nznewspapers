@@ -1,0 +1,23 @@
+00897cas a22002891a 4500
+001 999269973502836
+003 Nz
+005 20191113100746.0
+008 031218d18791887nz dr|ne      0   a0eng  
+035    $a (NLNZils)926997
+035    $a (Nz)8131203
+035    $a (NLNZils)926997-ilsdb
+035    $a (OCoLC)946808779
+040    $a NZNB $c NZNB
+042    $a nznb
+043    $a u-nz---
+082 04 $a 079.932 $2 23
+245 00 $a Auckland evening star.
+260    $a Auckland, N.Z. : $b Henry Brett, $c 1879-1887.
+300    $a v. ; $c 56 cm.
+310    $a Daily
+362 1  $a Began with Vol. 10, no. 2767 (Mar. 8, 1879); ceased with Vol. 18, no. 85 (Apr. 12, 1887)
+651  0 $a Auckland (N.Z.) $v Newspapers.
+655  7 $a New Zealand newspapers. $2 local $5 Nz.
+776 08 $i Online version: $t Auckland evening star $w (Nz)9914850773502836
+780 00 $t Evening star (Auckland, N.Z.)
+785 00 $t Auckland star $x 0004-7449

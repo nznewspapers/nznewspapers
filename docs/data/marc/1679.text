@@ -1,0 +1,36 @@
+01522cas a2200445 a 4500
+001 994794563502836
+003 Nz
+005 20210401184736.0
+008 051109d19602013nz dn|ne      0   a0eng  
+022 0  $a 1170-0254 $2 _g
+035    $a (nzNZBN)5123695
+035    $a zbn89070659
+035    $a (NLNZils)479456
+035    $z 291050
+035    $a (Nz)4789176
+035    $a (NLNZils)479456-ilsdb
+035    $a (OCoLC)173349692
+040    $a NZNB $c NZNB
+041 0  $a eng
+042    $a nznb
+043    $a u-nz---
+082 04 $a 079.9316 $2 20NZ
+130 0  $a Daily post (Rotorua, N.Z.)
+222  0 $a Daily post $b (Rotorua)
+245 14 $a The daily post.
+260    $a Rotorua, N.Z. : $b Rotorua Newspapers, $c [1960-]
+300    $a v. : $b ill., form, maps, ports. ; $c 59 cm.
+310    $a Daily (except Sunday)
+362 1  $a Began with Aug. 30, 1960. $z Cf. Harvey, D. R. Union list of newspapers ... in New Zealand.
+362 1  $a Ceased with Mar. 9, 2013.
+500    $a Includes advertising
+500    $a Description based on: Monday Aug. 21, 1989; title from masthead.
+500    $a Available from Rotorua Newspapers, P.O. Box 1442, Rotorua, N.Z.
+510 2  $a Index New Zealand, $x 0113-6526, $b Apr. 18, 1990-Mar. 9, 2013.
+530    $a Available on microfilm from Microfilm Production Unit, National Library of New Zealand.
+651  0 $a Rotorua (N.Z.) $v Newspapers.
+655  7 $a New Zealand newspapers. $2 local $5 Nz
+770 0  $t Rotorua district news $x 1171-6924
+780 00 $t Rotorua post
+785 00 $t Rotorua daily post

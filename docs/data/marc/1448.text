@@ -1,0 +1,30 @@
+01192cas a2200373 a 4500
+001 998886283502836
+003 Nz
+005 20161223152245.0
+008 030902d20022009nz wrzne |    0   e0chi  
+022 0  $a 1176-4376 $2 _g
+035    $a (Nz)7949650
+035    $a (NLNZils)888628
+035    $a (NLNZils)888628-ilsdb
+035    $a (OCoLC)173417207
+040    $a NZNB $c DU $d NZNB
+041 0  $a chi $a eng
+042    $a nznb
+043    $a u-nz---
+082 04 $a 305.895109305 $2 21
+210 1  $a Dong fang shi bao
+222  0 $a Dong fang shi bao
+245 00 $a Dong fang shi bao = $b Oriental times.
+246 11 $a Oriental times
+246 17 $a Guang gao zhuan ban
+260    $a Auckland [N.Z.] : $b Oriental Times, $c [2002?-2009]
+300    $a v. : $b ill. (some col.) ; $c 43 cm.
+310    $a Weekly
+362 1  $a Began in 2002?; ceased with issue 342 (Aug. 28, 2009)
+500    $a Description based on: Di 042 qi (2003 nian 8 yue 12 ri xing qi er); title from caption.
+546    $a Text in Chinese with some headings in English.
+650  0 $a Chinese $z New Zealand $v Newspapers.
+655  7 $a New Zealand newspapers. $2 local $5 Nz
+655  7 $a Chinese newspapers. $2 local $5 Nz
+785 00 $t Dong fang zhan kan

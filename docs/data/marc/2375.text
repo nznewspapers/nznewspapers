@@ -1,0 +1,32 @@
+01368cas a2200397 a 4500
+001 999261063502836
+003 Nz
+005 20210401181212.0
+008 031216c19909999nz wr|ne      0   a0eng  
+035    $a 926106
+035    $a (Nz)8130452
+035    $a (NLNZils)926106
+035    $a (NLNZils)926106-ilsdb
+035    $a (OCoLC)946808266
+040    $a NZNB $c NZNB
+042    $a nznb
+043    $a u-nz---
+082 04 $a 079.9382 $2 22
+130 0  $a Northern outlook (1990)
+245 10 $a Northern outlook.
+246 1  $i Title during Maori language week: $a Te Tohu a Tawera
+260    $a [Rangiora, N.Z. : $b s.n., $c 1990]-
+260 3  $3 <2011>- $a [Christchurch, N.Z.] : $b The Press, a division of Fairfax Media NZ
+300    $a v. : $b col. ill. ; $c 40 cm.
+310    $a Semiweekly $b <Sept. 13, 1993>-
+321    $a Weekly
+362 1  $a Began with Sept. 19, 1990.
+500    $a Latest issue consulted: Apr. 2, 2011.
+500    $a Some issued accompanied by: Central South Island farmer [quarterly].
+515    $a By July 28, 2004 absorbed: The Kaiapoi Leader.
+651  0 $a Canterbury (N.Z.) $v Newspapers.
+655  7 $a New Zealand newspapers. $2 local $5 Nz
+776 08 $i Online version: $t Northern outlook $w (Nz)9918190442202836
+777 0  $t Central South Island farmer (quarterly)
+780 00 $t North Canterbury outlook $x 1170-1668
+780 05 $t Kaiapoi leader $g 28 July 2004-

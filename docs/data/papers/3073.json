@@ -1,0 +1,18 @@
+{
+  "id": 3073,
+  "title": "Coromandel Sun",
+  "genre": "Newspaper",
+  "firstYear": "1896",
+  "finalYear": "1899",
+  "district": "Thames-Coromandel District",
+  "frequency": "Semiweekly",
+  "idMarcControlNumber": "8136938",
+  "isCurrent": false,
+  "placecode": "03-01",
+  "placename": "Coromandel",
+  "region": "Waikato",
+  "sources": {
+    "2022-08-31T04:35:32.001Z": "Extracted from the New Zealand National Bibliography (MARC record 8136938) downloaded June 2022."
+  },
+  "revision": 1
+}

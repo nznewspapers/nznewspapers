@@ -1,0 +1,27 @@
+01048cas a2200337 a 4500
+001 996354583502836
+003 Nz
+005 20210401180537.0
+008 010605d18451866nz dn n       0   a0eng  
+035    $a (NLNZils)635458
+035    $a (nzNZBN)3696104
+035    $a abn85252633
+035    $a (Nz)3323873
+035    $a (NLNZils)635458-ilsdb
+035    $a (OCoLC)731034573
+040    $a NZNB $c NZNB
+042    $a nznb
+043    $a u-nz---
+082 04 $a 079.93 $2 21
+130 0  $a New Zealander (Auckland, N.Z. : 1845)
+245 14 $a The New-Zealander.
+260    $a Auckland [N.Z.] : $b John Williamson, $c 1845-1866.
+300    $a v. ; $c 42 cm.
+310    $a Daily
+321    $a Semiweekly $b June 1847-<Dec. 1852>
+321    $a Weekly $b -May 1847
+362 0  $a Vol. 1, no. 1 (June 7, 1845)-May 2, 1866.
+500    $a Title from caption.
+530    $a Available on microfilm from Microfilm Production Unit, National Library of New  Zealand.
+655  7 $a New Zealand newspapers. $2 local $5 Nz
+776 08 $i Online version: $t New-Zealander $w (Nz)9914707223502836

@@ -1,0 +1,18 @@
+{
+  "id": 3106,
+  "title": "Auckland Daily News",
+  "genre": "Newspaper",
+  "firstYear": "1869",
+  "finalYear": "    ",
+  "district": "Auckland",
+  "frequency": "Daily",
+  "idMarcControlNumber": "8131175",
+  "isCurrent": false,
+  "placecode": "02-01",
+  "placename": "Auckland",
+  "region": "Auckland",
+  "sources": {
+    "2022-08-31T04:35:41.465Z": "Extracted from the New Zealand National Bibliography (MARC record 8131175) downloaded June 2022."
+  },
+  "revision": 1
+}

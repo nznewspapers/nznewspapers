@@ -1,0 +1,30 @@
+{
+  "id": 3102,
+  "title": "Auckland Weekly News And Farmers' Gazette",
+  "genre": "Newspaper",
+  "firstYear": "1863",
+  "finalYear": "1863",
+  "district": "Auckland",
+  "frequency": "Weekly",
+  "idMarcControlNumber": "8131546",
+  "isCurrent": false,
+  "placecode": "02-01",
+  "placename": "Auckland",
+  "region": "Auckland",
+  "links": {
+    "unknown-1": {
+      "direction": "Preceding",
+      "relationship": "Continues",
+      "target-description": "Aucklander"
+    },
+    "unknown-2": {
+      "direction": "Succeeding",
+      "relationship": "Continued by",
+      "target-description": "Weekly news (Auckland, N.Z.)"
+    }
+  },
+  "sources": {
+    "2022-08-31T04:35:39.852Z": "Extracted from the New Zealand National Bibliography (MARC record 8131546) downloaded June 2022."
+  },
+  "revision": 1
+}

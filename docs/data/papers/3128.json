@@ -1,0 +1,18 @@
+{
+  "id": 3128,
+  "title": "Echo",
+  "genre": "Newspaper",
+  "firstYear": "1869",
+  "finalYear": "1883",
+  "district": "Dunedin City",
+  "frequency": "Daily",
+  "idMarcControlNumber": "5094456",
+  "isCurrent": false,
+  "placecode": "13-03",
+  "placename": "Dunedin",
+  "region": "Otago",
+  "sources": {
+    "2022-08-31T04:35:46.915Z": "Extracted from the New Zealand National Bibliography (MARC record 5094456) downloaded June 2022."
+  },
+  "revision": 1
+}

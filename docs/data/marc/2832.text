@@ -1,0 +1,27 @@
+00954cas a2200337 a 4500
+001 9912633063502836
+003 Nz
+005 20190118085309.0
+008 071015d20072012nz mr|n       0   a0eng  
+035    $a (Nz)11538685
+035    $a (NLNZils)1263306
+035    $a (NLNZils)1263306-ilsdb
+035    $a (OCoLC)180190521
+040    $a NZNB $c NZNB
+042    $a nznb
+043    $a u-nz---
+082 04 $a 079.93482 $2 22
+130 0  $a TOM (Okato ed.)
+245 10 $a TOM : $b Okato.
+246 3  $a Take one moment Okato
+246 13 $a TOM Okato
+260    $a Oakura [N.Z.] : $b The Oakura Messenger, $c [2007-2012]
+300    $a v. : $b ill. ; $c 30 cm.
+310    $a Monthly
+362 0  $a Oct. 2007-May 2012.
+500    $a Title from caption.
+500    $a Community newspaper.
+588    $a Latest issue consulted: May 2012.
+651  0 $a Oakura (N.Z.) $v Newspapers.
+655  7 $a New Zealand newspapers. $2 local $5 Nz
+776 0  $i Online version: $t TOM (Okato ed. : Online)

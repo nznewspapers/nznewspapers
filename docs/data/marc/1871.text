@@ -1,0 +1,40 @@
+01811cas a2200493 a 4500
+001 999252453502836
+003 Nz
+005 20210401181314.0
+008 891011d19592016nz wrzne      0   a0eng  
+022 0  $a 1170-0122 $y 0117-0122 $2 _g
+035    $a (nzNZBN)5168646
+035    $a zbn89077098
+035    $a (NLNZils)925245
+035    $a (Nz)3531218
+035    $a (NLNZils)925245-ilsdb
+035    $a (OCoLC)173333279
+040    $a NZNB $c NZNB
+042    $a nznb
+043    $a u-nz---
+082 04 $a 079.9319 $a 079.9344 $2 1920NZ
+222  0 $a Central district times
+245 00 $a Central district times.
+246 30 $a Times
+260    $a Taihape [N.Z.] : $b Taihape Times, $c 1959-
+260 3  $3 <2015>- $a [Auckland, N.Z. : $b Fairfax Media]
+300    $a v. : $b ill., ports. ; $c 42 cm.
+310    $a Weekly $b June 1 1986
+321    $a Semi-weekly
+362 1  $a Began with Mar 3, 1959. $z C.f. Harvey, D. R. Union list of newspapers ... in New Zealand.
+500    $a "Raetihi, Ohakune, Waiouru, Taihape, Utiku, Mangaweka and districts."
+500    $a Includes advertising.
+500    $a Available from Taihape Times, P.O. Box 30, Taihape, N.Z.
+580    $a Merged with: Feilding herald, and: Rangitikei mail (2005), to form: Feilding-Rangitikei herald.
+588    $a Description based on: Tuesday Aug. 29, 1989; title from masthead.
+588    $a Latest issue consulted: Mar. 29, 2016.
+651  0 $a Ruapehu District (N.Z.) $v Periodicals.
+651  0 $a Rangitikei District (N.Z.) $v Periodicals.
+655  7 $a New Zealand newspapers. $2 local $5 Nz
+776 08 $i Online version: $t Central district times $w (Nz)9917960673502836
+780 04 $t Taihape times
+780 04 $t Waimarino news
+785 17 $t Feilding herald $x 1170-0408
+785 17 $t Rangitikei mail (2005)
+785 17 $t Feilding-Rangitikei herald $x 2463-5731

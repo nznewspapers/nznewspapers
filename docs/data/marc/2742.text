@@ -1,0 +1,28 @@
+01031cas a2200349 a 4500
+001 994338583502836
+003 Nz
+005 20210401182851.0
+008 160813d19801987nz mn|ne      0   a0eng  
+022 0  $a 0111-6843 $2 _g
+035    $z 260264
+035    $a (nzNZBN)3882974
+035    $a zbn87052269
+035    $a (Nz)3172799
+035    $a (NLNZils)433858
+035    $a (NLNZils)433858-ilsdb
+035    $a (OCoLC)173329797
+040    $a NZNB $c DU $d PU $d NZNB
+042    $a nznb
+043    $a u-nz---
+082 0  $a 338.4766409931 $2 19
+222  0 $a Food industry $b (Auckland)
+245 00 $a Food industry.
+260    $a [Auckland, N.Z. : $b Product Publications, $c 1980-1987]
+300    $a 8 v. : $b ill. ; $c 44 cm.
+310    $a 11 no. a year
+362 0  $a No. 1 (Apr. 1980)-v. 8, no. 5 (June 1987).
+500    $a Caption title.
+515    $a Vol. numbering introduced with: Vol. 3, no. 2 (1982).
+650  0 $a Food industry and trade $z New Zealand $v Periodicals.
+780 05 $t 4 quarter $x 0111-1213
+785 00 $t Food industry news $x 0113-8901

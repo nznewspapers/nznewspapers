@@ -1,0 +1,37 @@
+01629cas a2200457 a 4500
+001 994794583502836
+003 Nz
+005 20210401184736.0
+008 c19739c19739999nz cxzne      0   a0eng  
+022 0  $a 1170-036X $y 0117-036X
+035    $a (nzNZBN)5123693
+035    $a zbn89070667
+035    $a (NLNZils)479458
+035    $z 291052
+035    $a (Nz)3531189
+035    $a (NLNZils)479458-ilsdb
+035    $a (OCoLC)173333256
+040    $a NZNB $c NZNB
+042    $a nznb
+043    $a u-nz---
+082 04 $a 079.93 $2 20
+130 0  $a Ensign (Gore, N.Z.)
+222  0 $a Ensign $b (Gore)
+245 14 $a The ensign.
+260    $a Gore [N.Z.] : $b Gore Publishing, $c 1973-
+300    $a v. : $b ill., forms, ports. ; $c 58 cm.
+310    $a Weekly, $b May 2020-
+321    $a Semi-weekly
+321    $a Daily (except Sunday)
+362 1  $a Began with Aug. 20, 1973. $z Cf. Harvey, D. R. Union list of newspapers ... in New Zealand.
+500    $a Includes advertising.
+500    $a Community newspaper.
+500    $a Description based on: Tuesday Sept. 5, 1989; title from masthead.
+500    $a Available from Gore Publishing, P.O. Box 182, Gore, N.Z.
+510 2  $a Index New Zealand, $x 0113-6526, $b Nov. 1, 1990-Jul. 30, 1999
+525    $a July 20, 2012 issue includes special Gore 150th anniversary supplement: Glancing back: a chronicle of Gore.
+530    $a Available on microfilm from Microfilm Production Unit, National Library of New Zealand.
+655  7 $a New Zealand newspapers. $2 local $5 Nz
+740 02 $a Glancing back : a chronicle of Gore.
+776 08 $i Online version: $t Ensign $x 2624-4519
+780 00 $t Mataura ensign

@@ -1,0 +1,31 @@
+01439cas a2200385 a 4500
+001 998021933502836
+003 Nz
+005 20210401180848.0
+008 891013d19552002nz wrzn       0   a0eng  
+022 0  $a 1170-1048 $y 0117-1048
+035    $a (nzNZBN)5164369
+035    $a zbn89076089
+035    $a (NLNZils)802193
+035    $a (Nz)3531217
+035    $a (NLNZils)802193-ilsdb
+035    $a (OCoLC)173333278
+040    $a NZNB $c NZNB
+042    $a nznb
+043    $a u-nz---
+082 04 $a 079.9344 $2 20NZ
+222  0 $a Rangitikei mail
+245 04 $a The Rangitikei mail.
+260    $a [Marton, N.Z. : $b Rangitikei Mail, $c 1955-2002]
+300    $a v. : $b ill., ports. ; $c 41 cm.
+362 1  $a Began with Dec. 22, 1955. $z Cf. Harvey, D. R. Union list of newspapers ... in New Zealand.
+362 0  $a -Oct. 15, 2002.
+500    $a Community newspaper.
+500    $a Includes advertising.
+500    $a Description based on: Thursday Aug. 24; 1989; title from masthead.
+530    $a Available on microfilm from Microfilm Production Unit, National Library of New Zealand.
+580    $a Merged with the Tuesday issue of: Feilding herald; to form: Feilding herald Rangitikei mail.  Thursday issue of Feilding herald continues to be published separately.
+651  0 $a Rangitikei District (N.Z.) $v Periodicals.
+655  7 $a New Zealand newspapers. $2 local $5 Nz
+785 07 $t Feilding herald $x 1170-0408
+785 07 $t Feilding herald Rangitikei mail

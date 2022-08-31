@@ -1,0 +1,38 @@
+01673cas a2200469 a 4500
+001 999261423502836
+003 Nz
+005 20210401181208.0
+008 891222d18981913nz mr n       0   a0mao  
+035    $a (nzNZBN)5156721
+035    $a (NLNZils)926142
+035    $a (Nz)4671764
+035    $a zbn89093630
+035    $a (NLNZils)926142-ilsdb
+035    $a (OCoLC)243690864
+040    $a NZNB $c NZNB
+042    $a nznb
+043    $a u-nz---
+082 04 $a 059.994 $2 20
+245 03 $a Te pipiwharauroa : $b he kupu whakamarama.
+246 1  $i Also known as: $a Pipi
+246 14 $a Pipi-wharauroa $f nama 18-nama 26
+246 17 $a Kupu whakamarama $f nama 18-nama 27
+260    $a Gisborne [N.Z.] : $b Printed by H.W. Williams at the Te Rau Press, $c [1899-1913]
+300    $a 163 v. ; $c 23-25 cm.
+310    $a Monthly
+362 0  $a Nama 18 (Akuhata 1899)-nama 180 (Hurae 1913)
+500    $a Title from masthead.
+500    $a From nama 123 (Hune 1908), masthead and running titles incorporate new characters to represent "wh".
+500    $a Editor: R.T. Kohere.
+510 4  $a Williams, $c 967
+510 4  $a Books in Māori, $c S42
+515    $a Continues numbering of its predecessor; some issues combined.
+520    $a "The shining cuckoo, a monthly paper published in ... Gisborne"--BIM.
+525    $a Nos. 18-19 and no. 177 accompanied by He apiti ki te Pipiwharauroa.
+650  0 $a Maori (New Zealand people) $v Newspapers.
+655  7 $a Maori newspapers. $2 local $5 Nz
+655  7 $a New Zealand newspapers. $2 local $5 Nz
+700 1  $a Kohere, Reweti T. $q (Reweti Tuhorouta), $d 1871-1954.
+710 2  $a Te Rau Press. $e printer.
+780 00 $t Kupu whakamarama
+785 00 $t Kopara

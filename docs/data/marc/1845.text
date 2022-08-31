@@ -1,0 +1,30 @@
+01185cas a2200373 a 4500
+001 9910157553502836
+003 Nz
+005 20161223154842.0
+008 040810d20042014nz wr ne |    0   a0eng  
+035    $a (Nz)8730051
+035    $a (NLNZils)1015755
+035    $a (NLNZils)1015755-ilsdb
+035    $a (OCoLC)173437131
+040    $a NZNB $c AP $d NZNB
+042    $a nznb
+043    $a u-nz---
+082 04 $a 079.93488 $2 22
+245 00 $a South Taranaki star.
+246 30 $a Star
+260    $a [Hawera, N.Z.] : $b South Taranaki Star, $c [2004-2014]
+300    $a v. : $b ill. (some col.) ; $c 41 cm.
+310    $a Weekly
+362 0  $a Aug. 5, 2004-
+362 1  $a Ceased with Jan. 30, 2014.
+500    $a Title from caption.
+500    $a Community newspaper.
+515    $a Not published 26 Dec. 2013 and 2 Jan. 2014.
+530    $a Available on microfilm from Microfilm Production Unit, National Library of New Zealand.
+588    $a Latest issue consulted: Jan. 30, 2014.
+651  0 $a Hawera (N.Z.) $v Newspapers.
+651  0 $a South Taranaki District (N.Z.) $v Newspapers.
+655  7 $a New Zealand newspapers. $2 local $5 Nz
+780 00 $t Star (Hawera, N.Z.) $x 1170-1595
+785 00 $t Taranaki star

@@ -1,10 +1,16 @@
 {
   "stats": {
     "placename": "Clyde",
-    "count": 2,
+    "count": 3,
     "decades": 2
   },
   "papers": [
+    {
+      "id": "3077",
+      "title": "Dunstan News And Wakatipu Advertiser",
+      "firstYear": "1862",
+      "finalYear": "1864"
+    },
     {
       "id": "2562",
       "title": "Dunstan Times",

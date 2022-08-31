@@ -1,0 +1,34 @@
+01260cas a2200421 a 4500
+001 999255183502836
+003 Nz
+005 20210719112910.0
+008 930702c19939999nz wr|ne      0   a0eng  
+022 0  $a 1172-529X $2 _g
+035    $a (nzNZBN)7883820
+035    $a zbn93060294
+035    $a (NLNZils)925518
+035    $a (Nz)4236173
+035    $a (NLNZils)925518-ilsdb
+035    $a (OCoLC)173340979
+040    $a NZNB $c NZNB
+042    $a nznb
+043    $a u-nz---
+082 04 $a 079.9324 $2 20
+210 1  $a East bays cour.
+222  0 $a East & bays courier
+245 00 $a East & bays courier.
+246 3  $a East and bays courier
+246 30 $a Courier
+260    $a [Auckland, N.Z.] : $b Suburban Newspapers, $c [1993]-
+260 2  $3 <2015>- $a [Auckland, N.Z. : $b Fairfax Media]
+260 3  $3 <February 2018-> $a [Auckland, N.Z. : $b Stuff Limited]
+300    $a v. : $b ill., ports. ; $c 40 cm.
+310    $a Weekly, $b October 2017-
+321    $a Semiweekly
+362 0  $a Wednesday, May 5, 1993-
+500    $a Community newspaper.
+500    $a Title from caption.
+651  0 $a Auckland (N.Z.) $v Newspapers.
+655  7 $a New Zealand newspapers. $2 local $5 Nz
+780 07 $t Eastern courier $x 1170-0335
+776 08 $i Online version: $t East & bays courier $x 2463-6967

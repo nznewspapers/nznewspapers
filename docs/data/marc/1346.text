@@ -1,0 +1,30 @@
+01088cas a22003737a 4500
+001 999334453502836
+003 Nz
+005 20210401181140.0
+008 931129d19341964nz wr ne      0    0eng  
+010    $a sn 93049234 
+035    $a (DLC)sn 93049234
+035    $a (nzNZBN)8218563
+035    $a sn 93049234
+035    $a (Nz)1235073
+035    $a (NLNZils)933445
+035    $a (NLNZils)933445-ilsdb
+035    $a (OCoLC)29121953
+040    $a NZNB $c DLC $d NZNB
+042    $a msc $a nznb
+043    $a u-nz---
+050 00 $a Newspaper 2807
+130 0  $a Weekly news (Auckland, N.Z. : 1934)
+245 14 $a The Weekly news.
+260    $a Auckland [New Zealand] : $b Wilson and Horton, $c 1934-1964.
+300    $a v. : $b ill. ; $c 45 cm.
+310    $a Weekly
+362 1  $a Began May 9, 1934.
+362 0  $a -no. 5275 (Dec. 30, 1964).
+500    $a Description based on: No. 4555 (Mar. 14, 1951).
+651  0 $a Auckland (N.Z.) $v Newspapers.
+655  7 $a New Zealand newspapers. $2 local $5 Nz
+752    $a New Zealand $d Auckland.
+780 00 $t Auckland weekly news
+785 00 $t New Zealand weekly news

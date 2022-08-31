@@ -1,0 +1,17 @@
+{
+  "id": 3087,
+  "title": "The Pictorial New Zealander",
+  "genre": "Newspaper",
+  "firstYear": "1888",
+  "finalYear": "18uu",
+  "district": "Dunedin City",
+  "idMarcControlNumber": "8051064",
+  "isCurrent": false,
+  "placecode": "13-03",
+  "placename": "Dunedin",
+  "region": "Otago",
+  "sources": {
+    "2022-08-31T04:35:35.012Z": "Extracted from the New Zealand National Bibliography (MARC record 8051064) downloaded June 2022."
+  },
+  "revision": 1
+}

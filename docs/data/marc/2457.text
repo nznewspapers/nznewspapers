@@ -1,0 +1,30 @@
+01273cas a2200373 a 4500
+001 999308383502836
+003 Nz
+005 20210401181336.0
+008 900921d19891990nz wrzne      0   a0eng  
+022 0  $a 1170-0327
+035    $a (nzNZBN)5559811
+035    $a zbn90079382
+035    $a (NLNZils)930838
+035    $a (Nz)3678323
+035    $a (NLNZils)930838-ilsdb
+035    $a (OCoLC)173334901
+040    $a NZNB $c NZNB
+042    $a nznb
+043    $a u-nz---
+082 04 $a 079.93705 $2 20NZ
+222  0 $a NewsPlus $b (Christchurch)
+245 00 $a NewsPlus : $b your own local weekly newspaper.
+246 33 $a News plus
+260    $a [Christchurch, N.Z. : $b NewsPlus, $c 1989-1990]
+300    $a 2 v. : $b ill., form, ports. ; $c 42 cm.
+362 1  $a Began with Vol. 1, no. 1 (Wednesday Nov. 1 1989)
+362 0  $a -v. 2, no. 26 (Wednesday July 11 1990)
+500    $a "Hornby and Selwyn district."
+500    $a Description based on: Vol. 1, no. 2 (Wednesday Nov. 8 1989); title from masthead.
+500    $a Available  from NewsPlus, P.O. Box 9038, Addington, Christchurch, N.Z.
+651  0 $a Canterbury (N.Z.) $x Periodicals.
+655  7 $a New Zealand newspapers. $2 local $5 Nz
+780 00 $t Central Canterbury news $x 1170-0114
+785 00 $t Central Canterbury news (1990) $x 1170-1439

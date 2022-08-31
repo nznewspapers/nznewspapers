@@ -1,0 +1,35 @@
+01641cas a2200433 a 4500
+001 999256013502836
+003 Nz
+005 20211108112052.0
+008 891011d19391999nz dn|ne      0   a0eng  
+022 0  $a 1170-0432 $y 0117-0432 $2 _g
+035    $a (nzNZBN)5123690
+035    $a zbn89077109
+035    $a (NLNZils)925601
+035    $a (Nz)3736763
+035    $a (NLNZils)925601-ilsdb
+035    $a (OCoLC)173335390
+040    $a NZNB $c NZNB
+042    $a nznb
+043    $a u-nz---
+082 04 $a 079.93 $2 20
+210 1  $a Gisborne her.
+222  0 $a Gisborne herald
+245 00 $a Gisborne herald.
+260    $a Gisborne [N.Z.] : $b Gisborne Herald, $c [1939-1999]
+300    $a v. : $b ill., map, ports. ; $c 63 cm.
+310    $a Daily (except Sunday)
+362 1  $a Began with July 3, 1939. $z Cf. Harvey, D. R. Union list of newspapers ... in New Zealand.
+362 0  $a -Jan. 30, 1999.
+500    $a Includes advertising.
+500    $a Description based on: Friday Aug. 18, 1989; title from masthead.
+500    $a Available from Gisborne Herald, P.O. Box 1143, Gisborne, N.Z.
+510 2  $a Index New Zealand, $x 0113-6526, $b Dec. 5, 1995-Jan. 30, 1999.
+525    $a Supplement with title: Newspaper '79 (Aug. 1979). Gisborne Herald publication for 35th Annual Conference of Advertising Managers.
+530    $a Available on microfilm from Microfilm Production Unit, National Library of New Zealand.
+651  0 $a Gisborne District (N.Z.) $v Newspapers.
+655  7 $a New Zealand newspapers. $2 local $5 Nz
+780 00 $t Poverty Bay herald
+785 00 $t Herald (Gisborne, N.Z.) $x 1175-0324
+776 08 $i Online version: $t Gisborne herald $x 2744-7693

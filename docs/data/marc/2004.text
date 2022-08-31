@@ -1,0 +1,37 @@
+01772cas a2200457 a 4500
+001 999257283502836
+003 Nz
+005 20210401181212.0
+008 891010c19799999nz wr|ne      0   a0eng  
+022 0  $a 1170-0602 $y 0117-0602 $2 _g
+035    $a (nzNZBN)5168659
+035    $a zbn89076919
+035    $a (NLNZils)925728
+035    $a (Nz)3531226
+035    $a (NLNZils)925728-ilsdb
+035    $a (OCoLC)946531182
+040    $a NZNB $c NZNB
+042    $a nznb
+043    $a u-nz---
+082 04 $a 079.9341 $2 20NZ
+210 1  $a Kapiti observ.
+222  0 $a Kapiti observer
+245 00 $a Kapiti observer.
+246 30 $a Observer
+260    $a Wellington [N.Z.] : $b Inprint, $c [1979]-
+260 2  $3 <2015>- $a [Auckland, N.Z. : $b Fairfax Media]
+260 3  $3 <February 2018-> $a [Auckland, N.Z. : $b Stuff Limited]
+300    $a v. : $b ill. (some col.), forms, ports. (some col.) ; $c 44 cm.
+310    $a Weekly
+362 1  $a Began with v. 8, no 23 (June 25, 1979)
+500    $a Description based on: Aug. 28, 1989; title from masthead.
+500    $a Community newspaper.
+500    $a Includes advertising.
+500    $a Some issues include supplement: The local rag : your community newspaper closest to the people.
+515    $a Continues the numbering of its predecessor: vol. numbering ceased with v. 8, no. 48 (17 Dec. 1979).
+533    $a Reproduced in microfilm from Microfilm Production Unit, National Library of New Zealand. Filmed with issues v. 8, no. 1 (Jan. 23, 1979)-v. 8, no. 7 (Mar. 5, 1979) of former title.
+651  0 $a Kapiti Coast District (N.Z.) $v Newspapers.
+655  7 $a New Zealand newspapers. $2 local $5 Nz
+776 08 $i Online version: $t Kapiti observer $x 2463-7416
+780 04 $t Kapiti observer news shopper
+780 04 $t Golden Coast news shopper

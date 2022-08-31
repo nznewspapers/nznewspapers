@@ -1,0 +1,18 @@
+{
+  "id": 3096,
+  "title": "Southern Rural Life",
+  "genre": "Newspaper",
+  "firstYear": "1994",
+  "finalYear": "9999",
+  "district": "Gore District",
+  "frequency": "Weekly",
+  "idMarcControlNumber": "5753372",
+  "isCurrent": true,
+  "placecode": "14-02",
+  "placename": "Gore",
+  "region": "Southland",
+  "sources": {
+    "2022-08-31T04:35:38.637Z": "Extracted from the New Zealand National Bibliography (MARC record 5753372) downloaded June 2022."
+  },
+  "revision": 1
+}

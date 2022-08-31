@@ -1,0 +1,31 @@
+01230cas a2200385 a 4500
+001 998652493502836
+003 Nz
+005 20160321141606.0
+008 991028d19992007nz dn|ne      0   a0eng  
+022 0  $a 1177-195X $2 _g
+035    $a (NLNZils)865249
+035    $a (Nz)5343990
+035    $a (NLNZils)865249-ilsdb
+035    $a (OCoLC)173371543
+040    $a NZNB $c AP $d NZNB
+042    $a nznb
+043    $a u-nz---
+082 04 $a 079.9359 $2 21
+210 1  $a Horowhenua-Kapiti chron.
+222  0 $a Horowhenua-Kapiti chronicle
+245 00 $a Horowhenua-Kapiti chronicle.
+246 30 $a Chronicle
+260    $a [Levin, N.Z. : $b The Chronicle, $c 1999]-
+300    $a v. : $b ill., ports. ; $c 40 cm.
+310    $a Daily (except Sunday)
+362 0  $a Oct. 23, 1999-
+362 1  $a Ceased with Jan. 27, 2007.
+500    $a Title from caption.
+651  0 $a Horowhenua District (N.Z.) $v Newspapers.
+651  0 $a Kapiti Coast District (N.Z.) $v Newspapers.
+655  7 $a New Zealand newspapers. $2 local $5 Nz
+752    $a New Zealand $c Manawatu-Wanganui Region $d Horowhenua District.
+752    $a New Zealand $c Wellington Region $d Kapiti Coast District.
+780 00 $t Chronicle (Levin, N.Z.) $x 1170-0173
+785 00 $t Daily chronicle (Levin, N.Z.)

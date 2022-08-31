@@ -1,0 +1,31 @@
+01407cas a2200385 a 4500
+001 9915527113502836
+003 Nz
+005 20161223165818.0
+008 120507d20122015nz mr|n       0   e0chi  
+022 0  $a 2253-4288 $2 _g
+035    $a (Nz)14207445
+035    $a (NLNZils)1552711
+035    $a (NLNZils)1552711-ilsdb
+035    $a (OCoLC)795360683
+040    $a NZNB $c NZNB
+041 0  $a chi $a eng
+042    $a nznb
+043    $a u-nz---
+082 04 $a 079.93 $2 23
+130 0  $a Xin-sheng huo (Wellington, N.Z.)
+210 1  $a Xin-sheng huo $b (Wellingt.)
+222  0 $a Xin-sheng huo $b (Wellington)
+245 10 $a Xin-sheng huo = $b The new life.
+246 11 $a New life
+260    $a [Wellington, N.Z.] : $b DMV Media, $c [2012-2015]
+300    $a v. : $b col. ill. ; $c 41 cm.
+310    $a Bi-weekly $b July 2012-
+321    $a Monthly $b May 2012-Jun 2012
+362 1  $a Began with 2012 nian 5 yue 18 ri xing qi wu [i.e. May 18, 2012]; ceased with [i.e. issue 119 (Jan. 30, 2015)]
+546    $a Chiefly in Chinese with some text in English.
+588    $a Description based on: 2012 nian 5 yue 18 ri xing qi wu [i.e. May 18, 2012]; title from cover.
+588    $a Latest issue consulted: 2012 nian 5 yue 18 ri xing qi wu [i.e. May 18, 2012].
+655  7 $a Chinese newspapers $2 local $5 Nz
+655  7 $a New Zealand newspapers $2 local $5 Nz
+776 0  $i Online version: $t Xin-sheng huo (Wellington, N.Z. : Online) $x 2253-4296

@@ -1,0 +1,17 @@
+{
+  "id": 3141,
+  "title": "Kiwi Cooee",
+  "genre": "Undetermined",
+  "firstYear": "1988",
+  "finalYear": "9999",
+  "district": "Unknown District",
+  "idMarcControlNumber": "3459605",
+  "isCurrent": true,
+  "placecode": "unknown",
+  "placename": "Maroubra Junction, N.s.w",
+  "region": "Unknown Region",
+  "sources": {
+    "2022-08-31T04:35:51.436Z": "Extracted from the New Zealand National Bibliography (MARC record 3459605) downloaded June 2022."
+  },
+  "revision": 1
+}

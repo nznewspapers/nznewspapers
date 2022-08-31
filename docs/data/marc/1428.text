@@ -1,0 +1,29 @@
+01051cas a2200361 a 4500
+001 992647943502836
+003 Nz
+005 20210401184544.0
+008 051109d19962004nz cr|n       0   a0eng  
+035    $a (nzNZBN)9651357
+035    $a zbn96056552
+035    $z 570753
+035    $a (Nz)4684398
+035    $a (NLNZils)264794
+035    $a (NLNZils)264794-ilsdb
+035    $a (OCoLC)173346957
+040    $a NZNB $c NZNB
+042    $a nznb
+043    $a u-nz---
+082 04 $a 305.8951099305 $2 20
+245 00 $a Mandarin times.
+260    $a Auckland [N.Z. : $b Mandarin Times, $c 1996-2004]
+300    $a v. : $b ill. ; $c 58 cm.
+310    $a Semiweekly
+362 0  $a #202 (7th May '96)-
+362 1  $a Ceased with no. 1404 (2004.10.04)
+500    $a Continues numbering of its predecessor.
+546    $a Text chiefly in Chinese with some English.
+650  0 $a Chinese $z New Zealand $v Newspapers.
+655  7 $a New Zealand newspapers. $2 local $5 Nz
+655  7 $a Chinese newspapers. $2 local $5 Nz
+780 00 $t Mandarin pages weekly
+785 00 $t Hua ye $x 1176-8231

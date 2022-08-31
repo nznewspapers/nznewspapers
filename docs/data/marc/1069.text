@@ -1,0 +1,33 @@
+01433cas a2200409 a 4500
+001 999309403502836
+003 Nz
+005 20210401181347.0
+008 891013d19491999nz dnzne      0   a0eng  
+022 0  $a 1170-1013 $y 0117-1013
+035    $a (nzNZBN)5164365
+035    $a zbn89076130
+035    $a (NLNZils)930940
+035    $a (Nz)3531214
+035    $a (NLNZils)930940-ilsdb
+035    $a (OCoLC)173333275
+040    $a NZNB $c NZNB
+042    $a nznb
+043    $a u-nz---
+082 04 $a 079.93 $2 20
+130 0  $a Northland times (Dargaville, N.Z.)
+222  0 $a Northland times
+245 00 $a Northland times.
+260    $a [Dargaville, N.Z. : $b Northland Times, $c 1949-1999]
+300    $a v. : $b ill., form, ports. ; $c 58 cm.
+310    $a Daily (except Sunday)
+362 1  $a Began with Oct? 1949. $z Cf. Harvey, D. R. Union list of newspapers ... in New Zealand.
+362 1  $a Ceased with 10 Sep. 1999.
+500    $a "Serving the new Kaipara District."
+500    $a Includes advertising.
+500    $a Available on microfilm from Microfilm Production Unit, National Library of New Zealand.
+500    $a Description based on: Tuesday Sept. 12, 1989); title from masthead.
+510 2  $a Index New Zealand, $x 0113-6526, $b May 13, 1995-Sep. 10, 1999
+651  0 $a Northland (N.Z.) $x Periodicals.
+655  7 $a New Zealand newspapers. $2 local $5 Nz
+780 00 $t North Auckland times
+785 00 $t Northland times and Rodney reporter

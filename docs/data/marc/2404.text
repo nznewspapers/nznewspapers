@@ -1,0 +1,29 @@
+01110cas a2200361 a 4500
+001 999470813502836
+003 Nz
+005 20161027090205.0
+008 040225c20039999nz wr|ne      0   e0chi  
+022 0  $a 1176-7642 $2 _g
+035    $a (Nz)8341195
+035    $a (NLNZils)947081
+035    $a (NLNZils)947081-ilsdb
+035    $a (OCoLC)173426331
+040    $a NZNB $c NZNB
+041 0  $a chi $a eng
+042    $a nznb
+043    $a u-nz--- $a a-cc---
+082 04 $a 305.895109305 $2 22
+210 1  $a Xinxilan xin bao
+222  0 $a Xinxilan xin bao
+245 00 $a Xinxilan xin bao = $b The New Zealand messenger.
+246 11 $a New Zealand messenger
+246 30 $a Messenger
+260    $a Christchurch, N.Z. : $b New Zealand Messengers Ltd.
+300    $a v. : $b ill. ; $c 44 cm.
+310    $a Weekly
+362 1  $a Began in 2003.
+500    $a Description based on: Zong di ba qi (2004 nian 1 yue 20 ri); title from caption.
+546    $a Text in Chinese with some headings in English.
+650  0 $a Chinese $z New Zealand $v Newspapers.
+655  7 $a New Zealand newspapers. $2 local $5 Nz
+655  7 $a Chinese newspapers. $2 local $5 Nz

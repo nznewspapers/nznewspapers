@@ -1,0 +1,30 @@
+01122cas a2200373 a 4500
+001 999276893502836
+003 Nz
+005 20210401181338.0
+008 891031d19881993nz wrgn       0   a0eng  
+022 0  $a 1170-0645 $y 0117-0645
+035    $a (nzNZBN)5177478
+035    $a zbn89079003
+035    $a (Nz)3601356
+035    $a (NLNZils)927689
+035    $a (NLNZils)927689-ilsdb
+035    $a (OCoLC)173334163
+040    $a NZNB $c NZNB
+042    $a nznb
+043    $a u-nz---
+082 04 $a 079.933 $2 20NZ
+222  0 $a CHB mail
+245 04 $a The CHB mail.
+246 3  $a Central Hawkes Bay mail
+246 37 $a Mail
+260    $a Waipukurau [N.Z.] : $b Central Hawke's Bay Printers and Publishers, $c 1988-1993.
+300    $a v. : $b ill., ports. ; $c 42 cm.
+362 1  $a 1988 Aug.2-1993 Dec.21.
+500    $a "From the heart of the bay."
+500    $a Includes advertising.
+500    $a Description based on: Tuesday, Jan. 10 1989; title from masthead.
+651  0 $a Waipukurau (N.Z.) $v Periodicals.
+655  7 $a New Zealand newspapers. $2 local $5 Nz
+780 00 $t Mail (Waipukurau, N.Z.)
+785 00 $a Central Hawke's Bay mail.

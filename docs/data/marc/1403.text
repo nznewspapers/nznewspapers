@@ -1,0 +1,29 @@
+01156cas a2200361 a 4500
+001 999282283502836
+003 Nz
+005 20210401181222.0
+008 891013d19811991nz wrzne      0   a0eng  
+022 0  $a 1170-0319 $y 0117-0319
+035    $a (nzNZBN)5164350
+035    $a zbn89076382
+035    $a (NLNZils)928228
+035    $a (Nz)3531203
+035    $a (NLNZils)928228-ilsdb
+035    $a (OCoLC)173333264
+040    $a NZNB $c NZNB
+042    $a nznb
+043    $a u-nz---
+082 04 $a 079.9311 $2 20NZ
+222  0 $a East city news
+245 00 $a East city news.
+246 30 $a News
+260    $a [Auckland, N.Z.] : $b East City News, $c 1981-1991.
+300    $a ? v. : $b ill., maps, ports. (some col.) ; $c 43 cm.
+362 1  $a Began with Jun 17, 1981. $z Cf. Harvey, D. R. Union list of newspapers ... in New Zealand.
+362 1  $a Ceased with Apr. 4, 1991.
+500    $a Community newspaper.
+500    $a Includes advertising
+500    $a Description based on: Vol. 6, no. 35 (Thursday Sept. 14, 1989); title from masthead.
+651  0 $a Auckland (N.Z.) $x Periodicals.
+655  7 $a New Zealand newspapers. $2 local $5 Nz
+780 00 $t East city news advertiser

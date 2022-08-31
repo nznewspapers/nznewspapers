@@ -1,0 +1,32 @@
+01413cas a2200397 a 4500
+001 999258733502836
+003 Nz
+005 20210401181200.0
+008 891101c19729999nz wr|ne      0   a0eng  
+022 0  $a 1170-1625 $y 0117-1625 $2 _g
+035    $a (nzNZBN)5192418
+035    $a zbn89082490
+035    $a (NLNZils)925873
+035    $a (Nz)3531245
+035    $a (NLNZils)925873-ilsdb
+035    $a (OCoLC)173333298
+040    $a NZNB $c NZNB
+042    $a nznb
+043    $a u-nz---
+082 04 $a 079.9383 $2 20NZ
+222  0 $a Mountain scene
+245 00 $a Mountain scene.
+246 30 $a Scene
+260    $a Queenstown, N.Z. : $b Mountain Scene Ltd, $c 1972-
+300    $a v. : $b ill., ports. ; $c 43 cm.
+310    $a Weekly $b Nov. 1 1973-
+321    $a Fortnightly
+362 1  $a Began with 1 (Nov. 1, 1972). $z Cf. New Zealand national bibliography.
+500    $a "Serving the lakes district South Island."
+500    $a Free news weekly of the southern lakes, Cromwell, Arrowtown, Queenstown, Fiordland, Wanaka."
+500    $a Includes advertising.
+500    $a Description based on: Vol. 17, no. 44 (Sept. 21, 1989); title from masthead.
+530    $a Available on mircofilm from Microfilm Production Unit, National Library of New Zealand.
+651  0 $a Queenstown-Lakes District (N.Z.) $v Newspapers.
+655  7 $a New Zealand newspapers. $2 local $5 Nz
+776 0  $i Online version: $t Mountain scene (Online) $x 2230-553X

@@ -1,9 +1,9 @@
 {
   "stats": {
-    "count": 1520,
-    "countCurrent": 222,
+    "count": 1627,
+    "countCurrent": 237,
     "countDigitized": 164,
-    "places": 231,
+    "places": 237,
     "regions": 15,
     "districts": 66
   },
@@ -18,12 +18,12 @@
       "Taranaki",
       "Manawatu-Wanganui",
       "Wellington",
+      "Unknown Region",
       "Top of the South",
       "West Coast",
       "Canterbury",
       "Otago",
-      "Southland",
-      "Unknown Region"
+      "Southland"
     ],
     "Northland": {
       "districtList": [
@@ -45,6 +45,13 @@
           "title": "Bay Chronicle",
           "firstYear": "1986",
           "finalYear": "1988",
+          "placename": "Kaikohe"
+        },
+        {
+          "id": 3095,
+          "title": "Chronicle",
+          "firstYear": "1988",
+          "finalYear": "9999",
           "placename": "Kaikohe"
         },
         {
@@ -241,6 +248,13 @@
           "urlDigitized": "https://paperspast.natlib.govt.nz/newspapers/new-zealand-advertiser-and-bay-of-islands-gazette"
         },
         {
+          "id": 3051,
+          "title": "Bay Of Islands Observer",
+          "firstYear": "1842",
+          "finalYear": "1842",
+          "placename": "Russell"
+        },
+        {
           "id": 1002,
           "title": "Bay of Islands Advocate",
           "firstYear": "1843",
@@ -396,6 +410,13 @@
       ],
       "Kaipara District": [
         {
+          "id": 3062,
+          "title": "Aratapu Gazette",
+          "firstYear": "1884",
+          "finalYear": "1885",
+          "placename": "Aratapu"
+        },
+        {
           "id": 1063,
           "title": "Northern Wairoa Gazette",
           "firstYear": "1883",
@@ -461,6 +482,13 @@
           "placename": "Dargaville"
         },
         {
+          "id": 3074,
+          "title": "Kaipara Lifestyler",
+          "firstYear": "200u",
+          "finalYear": "9999",
+          "placename": "Dargaville"
+        },
+        {
           "id": 1072,
           "title": "Kaiwaka Bugle",
           "firstYear": "200u",
@@ -475,6 +503,13 @@
           "finalYear": "1864",
           "placename": "Port Albert",
           "urlDigitized": "https://paperspast.natlib.govt.nz/newspapers/albertland-gazette"
+        },
+        {
+          "id": 3089,
+          "title": "Kopuru Bell",
+          "firstYear": "1889",
+          "finalYear": "1890",
+          "placename": "Te Kopuru"
         }
       ]
     },
@@ -1874,6 +1909,34 @@
           "placename": "Auckland"
         },
         {
+          "id": 3113,
+          "title": "Auckland Telegraph",
+          "firstYear": "1859",
+          "finalYear": "uuuu",
+          "placename": "Auckland"
+        },
+        {
+          "id": 3107,
+          "title": "Auckland Morning Post And Provincial Advocate",
+          "firstYear": "1860",
+          "finalYear": "uuuu",
+          "placename": "Auckland"
+        },
+        {
+          "id": 3103,
+          "title": "Aucklander",
+          "firstYear": "1861",
+          "finalYear": "1863",
+          "placename": "Auckland"
+        },
+        {
+          "id": 3102,
+          "title": "Auckland Weekly News And Farmers' Gazette",
+          "firstYear": "1863",
+          "finalYear": "1863",
+          "placename": "Auckland"
+        },
+        {
           "id": 1073,
           "title": "New Zealand Herald",
           "firstYear": "1863",
@@ -1883,10 +1946,101 @@
           "urlDigitized": "https://paperspast.natlib.govt.nz/newspapers/new-zealand-herald"
         },
         {
+          "id": 3111,
+          "title": "Auckland Evening Post",
+          "firstYear": "1864",
+          "finalYear": "uuuu",
+          "placename": "Auckland"
+        },
+        {
+          "id": 3075,
+          "title": "Auckland Weekly Argus",
+          "firstYear": "1865",
+          "finalYear": "1866",
+          "placename": "Auckland"
+        },
+        {
           "id": 1076,
           "title": "The Auckland Budget",
           "firstYear": "1867",
           "finalYear": "1uuu",
+          "placename": "Auckland"
+        },
+        {
+          "id": 3100,
+          "title": "Auckland Free Press",
+          "firstYear": "1868",
+          "finalYear": "19uu",
+          "placename": "Auckland"
+        },
+        {
+          "id": 3082,
+          "title": "Auckland And Thames Leader",
+          "firstYear": "1869",
+          "finalYear": "1870",
+          "placename": "Auckland"
+        },
+        {
+          "id": 3106,
+          "title": "Auckland Daily News",
+          "firstYear": "1869",
+          "finalYear": "    ",
+          "placename": "Auckland"
+        },
+        {
+          "id": 3099,
+          "title": "Auckland Evening Star",
+          "firstYear": "1879",
+          "finalYear": "1887",
+          "placename": "Auckland"
+        },
+        {
+          "id": 3110,
+          "title": "Auckland City And Suburban Advertiser",
+          "firstYear": "1898",
+          "finalYear": "uuuu",
+          "placename": "Auckland"
+        },
+        {
+          "id": 3081,
+          "title": "Auckland Advocate",
+          "firstYear": "1905",
+          "finalYear": "9999",
+          "placename": "Auckland"
+        },
+        {
+          "id": 3108,
+          "title": "Auckland Argus",
+          "firstYear": "1907",
+          "finalYear": "uuuu",
+          "placename": "Auckland"
+        },
+        {
+          "id": 3109,
+          "title": "Auckland Argus",
+          "firstYear": "1908",
+          "finalYear": "uuuu",
+          "placename": "Auckland"
+        },
+        {
+          "id": 3112,
+          "title": "Auckland Life",
+          "firstYear": "1967",
+          "finalYear": "    ",
+          "placename": "Auckland"
+        },
+        {
+          "id": 3146,
+          "title": "The Gazette",
+          "firstYear": "1967",
+          "finalYear": "1970",
+          "placename": "Auckland"
+        },
+        {
+          "id": 3140,
+          "title": "Pacific Islands Trade News",
+          "firstYear": "1969",
+          "finalYear": "1974",
           "placename": "Auckland"
         },
         {
@@ -1897,6 +2051,13 @@
           "placename": "Auckland"
         },
         {
+          "id": 3101,
+          "title": "Auckland Sun",
+          "firstYear": "1987",
+          "finalYear": "1988",
+          "placename": "Auckland"
+        },
+        {
           "id": 1214,
           "title": "The Examiner",
           "firstYear": "1990",
@@ -1904,10 +2065,45 @@
           "placename": "Auckland"
         },
         {
+          "id": 3131,
+          "title": "Newslink",
+          "firstYear": "1990",
+          "finalYear": "2018",
+          "placename": "Auckland"
+        },
+        {
+          "id": 3050,
+          "title": "Sing Tao Daily",
+          "firstYear": "1991",
+          "finalYear": "2000",
+          "placename": "Auckland"
+        },
+        {
+          "id": 3105,
+          "title": "Pohutukawa Coast Times",
+          "firstYear": "1993",
+          "finalYear": "9999",
+          "placename": "Auckland"
+        },
+        {
+          "id": 3094,
+          "title": "Central Hawke's Bay Mail",
+          "firstYear": "1994",
+          "finalYear": "9999",
+          "placename": "Auckland"
+        },
+        {
           "id": 1234,
           "title": "Daily News",
           "firstYear": "1999",
           "finalYear": "1999",
+          "placename": "Auckland"
+        },
+        {
+          "id": 3055,
+          "title": "West Weekly",
+          "firstYear": "1999",
+          "finalYear": "9999",
           "placename": "Auckland"
         },
         {
@@ -1953,6 +2149,13 @@
           "placename": "Auckland"
         },
         {
+          "id": 3057,
+          "title": "Eight (8) O'clock",
+          "firstYear": "uuuu",
+          "finalYear": "1985",
+          "placename": "Auckland"
+        },
+        {
           "id": 1121,
           "title": "Waitemata News (1956)",
           "firstYear": "1956",
@@ -1971,6 +2174,13 @@
           "title": "Bays News",
           "firstYear": "1963",
           "finalYear": "1967",
+          "placename": "Brown's Bay"
+        },
+        {
+          "id": 3114,
+          "title": "Bay City Beacon",
+          "firstYear": "1981",
+          "finalYear": "uuuu",
           "placename": "Brown's Bay"
         },
         {
@@ -2050,6 +2260,13 @@
           "finalYear": "1914",
           "placename": "Helensville",
           "urlDigitized": "https://paperspast.natlib.govt.nz/newspapers/kaipara-and-waitemata-echo"
+        },
+        {
+          "id": 3070,
+          "title": "Kaipara Advertiser And Waitemata Chronicle",
+          "firstYear": "1905",
+          "finalYear": "1914",
+          "placename": "Helensville"
         },
         {
           "id": 1089,
@@ -2446,6 +2663,13 @@
           "placename": "Orewa"
         },
         {
+          "id": 3069,
+          "title": "Coaster",
+          "firstYear": "1983",
+          "finalYear": "1985",
+          "placename": "Orewa"
+        },
+        {
           "id": 1204,
           "title": "Hibiscus Coaster",
           "firstYear": "1985",
@@ -2527,6 +2751,13 @@
           "title": "Central Courier",
           "firstYear": "1976",
           "finalYear": "1976",
+          "placename": "Otahuhu"
+        },
+        {
+          "id": 3092,
+          "title": "Eastern Courier",
+          "firstYear": "1976",
+          "finalYear": "1984",
           "placename": "Otahuhu"
         },
         {
@@ -2775,6 +3006,13 @@
           "placename": "Papatoetoe"
         },
         {
+          "id": 3080,
+          "title": "Manuwera Week",
+          "firstYear": "1993",
+          "finalYear": "9999",
+          "placename": "Papatoetoe"
+        },
+        {
           "id": 1227,
           "title": "Papatoetoe Week",
           "firstYear": "1993",
@@ -2793,6 +3031,13 @@
           "title": "Our Town Papakura",
           "firstYear": "1996",
           "finalYear": "2003",
+          "placename": "Papatoetoe"
+        },
+        {
+          "id": 3056,
+          "title": "The Dawn",
+          "firstYear": "2008",
+          "finalYear": "2009",
           "placename": "Papatoetoe"
         },
         {
@@ -2995,6 +3240,13 @@
           "placename": "Takapuna"
         },
         {
+          "id": 3053,
+          "title": "All Aboard",
+          "firstYear": "1997",
+          "finalYear": "9999",
+          "placename": "Takapuna"
+        },
+        {
           "id": 1256,
           "title": "North Shore Times",
           "firstYear": "2004",
@@ -3066,10 +3318,24 @@
           "placename": "Waiheke Island"
         },
         {
+          "id": 3090,
+          "title": "Waiuku Advocate And Franklin County Chronicle",
+          "firstYear": "1914",
+          "finalYear": "191u",
+          "placename": "Waiuku"
+        },
+        {
           "id": 1090,
           "title": "Waiuku News and Franklin County Gazette",
           "firstYear": "1915",
           "finalYear": "1964",
+          "placename": "Waiuku"
+        },
+        {
+          "id": 3127,
+          "title": "Waiuku Gazette And West Franklin Weekly News",
+          "firstYear": "1964",
+          "finalYear": "1969",
           "placename": "Waiuku"
         },
         {
@@ -3188,6 +3454,20 @@
           "placename": "Coromandel"
         },
         {
+          "id": 3073,
+          "title": "Coromandel Sun",
+          "firstYear": "1896",
+          "finalYear": "1899",
+          "placename": "Coromandel"
+        },
+        {
+          "id": 3060,
+          "title": "Advocate",
+          "firstYear": "1948",
+          "finalYear": "1950",
+          "placename": "Coromandel"
+        },
+        {
           "id": 1485,
           "title": "Goldfield's Advocate",
           "firstYear": "1897",
@@ -3222,6 +3502,13 @@
           "title": "Times and Thames Miners' Advocate",
           "firstYear": "1868",
           "finalYear": "1870",
+          "placename": "Thames"
+        },
+        {
+          "id": 3043,
+          "title": "Evening Star",
+          "firstYear": "1869",
+          "finalYear": "1893",
           "placename": "Thames"
         },
         {
@@ -3294,6 +3581,13 @@
           "title": "Hauraki Herald",
           "firstYear": "1979",
           "finalYear": "9999",
+          "placename": "Thames"
+        },
+        {
+          "id": 3088,
+          "title": "Thames Valley Farmer",
+          "firstYear": "198u",
+          "finalYear": "198u",
           "placename": "Thames"
         },
         {
@@ -3389,6 +3683,20 @@
           "title": "Hauraki Plains Gazette",
           "firstYear": "1921",
           "finalYear": "1977",
+          "placename": "Paeroa"
+        },
+        {
+          "id": 3124,
+          "title": "Hauraki Plains Gazette",
+          "firstYear": "1921",
+          "finalYear": "1977",
+          "placename": "Paeroa"
+        },
+        {
+          "id": 3072,
+          "title": "Coromandel & Mercury Bay Gazette",
+          "firstYear": "1931",
+          "finalYear": "1942",
           "placename": "Paeroa"
         },
         {
@@ -3734,6 +4042,13 @@
           "placename": "Morrinsville"
         },
         {
+          "id": 3066,
+          "title": "Arrow",
+          "firstYear": "1972",
+          "finalYear": "1977",
+          "placename": "Morrinsville"
+        },
+        {
           "id": 1564,
           "title": "Piako Post",
           "firstYear": "1977",
@@ -3769,6 +4084,13 @@
           "finalYear": "1917",
           "placename": "Te Aroha",
           "urlDigitized": "https://paperspast.natlib.govt.nz/newspapers/te-aroha-news"
+        },
+        {
+          "id": 3065,
+          "title": "Aroha Gazette, Waiorongomai, Piako And Ohinemuri Advocate",
+          "firstYear": "1888",
+          "finalYear": "1888",
+          "placename": "Te Aroha"
         },
         {
           "id": 1552,
@@ -3944,6 +4266,13 @@
           "placename": "Hamilton"
         },
         {
+          "id": 3125,
+          "title": "Out Of Towner",
+          "firstYear": "198u",
+          "finalYear": "198u",
+          "placename": "Hamilton"
+        },
+        {
           "id": 1591,
           "title": "Waikato & Districts Trader",
           "firstYear": "1990",
@@ -4005,6 +4334,13 @@
           "firstYear": "2010",
           "finalYear": "9999",
           "placename": "Hamilton"
+        },
+        {
+          "id": 3083,
+          "title": "The Mangakino Chronicle",
+          "firstYear": "1948",
+          "finalYear": "1973",
+          "placename": "Mangakino"
         }
       ],
       "Waipa District": [
@@ -4061,6 +4397,13 @@
           "title": "Patea County Press",
           "firstYear": "1887",
           "finalYear": "1914",
+          "placename": "Patea"
+        },
+        {
+          "id": 3134,
+          "title": "Patea & Waverley Press",
+          "firstYear": "1946",
+          "finalYear": "uuuu",
           "placename": "Patea"
         },
         {
@@ -4180,6 +4523,13 @@
           "finalYear": "9999",
           "placename": "Taupo",
           "urlCurrent": "http://www.facebook.com/pages/Taupo-Weekender/105073816244171"
+        },
+        {
+          "id": 3121,
+          "title": "Taupo Midweek",
+          "firstYear": "1986",
+          "finalYear": "9999",
+          "placename": "Taupo"
         },
         {
           "id": 1625,
@@ -4326,6 +4676,13 @@
           "placename": "Tauranga"
         },
         {
+          "id": 3046,
+          "title": "Bay Of Plenty Mirror",
+          "firstYear": "1971",
+          "finalYear": "1974",
+          "placename": "Tauranga"
+        },
+        {
           "id": 1646,
           "title": "Bay of Plenty Mirror (Eastern Ed.)",
           "firstYear": "1972",
@@ -4375,10 +4732,24 @@
           "placename": "Tauranga"
         },
         {
+          "id": 3052,
+          "title": "Bay Sun Spree",
+          "firstYear": "198u",
+          "finalYear": "198u",
+          "placename": "Tauranga"
+        },
+        {
           "id": 1654,
           "title": "Greerton-Gate Pa Express",
           "firstYear": "198u",
           "finalYear": "uuuu",
+          "placename": "Tauranga"
+        },
+        {
+          "id": 3086,
+          "title": "Bay News",
+          "firstYear": "1990",
+          "finalYear": "2018",
           "placename": "Tauranga"
         },
         {
@@ -4513,6 +4884,13 @@
           "urlDigitized": "https://paperspast.natlib.govt.nz/newspapers/hot-lakes-chronicle"
         },
         {
+          "id": 3116,
+          "title": "Hot Lakes Chronicle",
+          "firstYear": "1885",
+          "finalYear": "1916",
+          "placename": "Rotorua"
+        },
+        {
           "id": 1674,
           "title": "Wonderland Gazette and Rotorua Times",
           "firstYear": "1906",
@@ -4528,6 +4906,13 @@
         },
         {
           "id": 1676,
+          "title": "Rotorua Chronicle",
+          "firstYear": "1916",
+          "finalYear": "1931",
+          "placename": "Rotorua"
+        },
+        {
+          "id": 3048,
           "title": "Rotorua Chronicle",
           "firstYear": "1916",
           "finalYear": "1931",
@@ -4576,6 +4961,13 @@
           "finalYear": "9999",
           "placename": "Rotorua",
           "urlCurrent": "http://www.stuff.co.nz/waikato-times/rotorua-review"
+        },
+        {
+          "id": 3045,
+          "title": "Rotorua Daily Post",
+          "firstYear": "2013",
+          "finalYear": "9999",
+          "placename": "Rotorua"
         }
       ],
       "Kawerau District": [
@@ -4819,6 +5211,20 @@
           "placename": "Hastings"
         },
         {
+          "id": 3135,
+          "title": "Hawke's Bay Tribune",
+          "firstYear": "1910",
+          "finalYear": "1937",
+          "placename": "Hastings"
+        },
+        {
+          "id": 3042,
+          "title": "Te Reo O Aotearoa",
+          "firstYear": "1932",
+          "finalYear": "1934",
+          "placename": "Hastings"
+        },
+        {
           "id": 1736,
           "title": "Hawke's Bay Herald-Tribune",
           "firstYear": "1937",
@@ -4943,6 +5349,13 @@
           "title": "Te Mata Times",
           "firstYear": "1975",
           "finalYear": "1984",
+          "placename": "Havelock North"
+        },
+        {
+          "id": 3093,
+          "title": "Havelock North Village Press",
+          "firstYear": "1992",
+          "finalYear": "9999",
           "placename": "Havelock North"
         },
         {
@@ -5392,6 +5805,13 @@
       ],
       "Stratford District": [
         {
+          "id": 3129,
+          "title": "Egmont Settler",
+          "firstYear": "1890",
+          "finalYear": "1903",
+          "placename": "Stratford"
+        },
+        {
           "id": 1822,
           "title": "Stratford Evening Post",
           "firstYear": "1903",
@@ -5446,6 +5866,13 @@
       ],
       "South Taranaki District": [
         {
+          "id": 3130,
+          "title": "The Eltham Argus",
+          "firstYear": "1897",
+          "finalYear": "1967",
+          "placename": "Eltham"
+        },
+        {
           "id": 1829,
           "title": "Hawera & Normanby Star",
           "firstYear": "1880",
@@ -5454,12 +5881,26 @@
           "urlDigitized": "https://paperspast.natlib.govt.nz/newspapers/hawera-normanby-star"
         },
         {
+          "id": 3079,
+          "title": "Hawera Morning Post",
+          "firstYear": "1894",
+          "finalYear": "1900",
+          "placename": "Hawera"
+        },
+        {
           "id": 1836,
           "title": "Hawera Star",
           "firstYear": "1924",
           "finalYear": "1984",
           "placename": "Hawera",
           "urlDigitized": "https://paperspast.natlib.govt.nz/newspapers/hawera-star"
+        },
+        {
+          "id": 3049,
+          "title": "Hawera Star",
+          "firstYear": "1924",
+          "finalYear": "1981",
+          "placename": "Hawera"
         },
         {
           "id": 1840,
@@ -5502,6 +5943,13 @@
           "title": "Kaponga Advocate",
           "firstYear": "1903",
           "finalYear": "1904",
+          "placename": "Kaponga"
+        },
+        {
+          "id": 3122,
+          "title": "Kaponga Mail",
+          "firstYear": "1904",
+          "finalYear": "1905",
           "placename": "Kaponga"
         },
         {
@@ -5723,6 +6171,13 @@
           "title": "Rangitikei News",
           "firstYear": "1948",
           "finalYear": "1955",
+          "placename": "Marton"
+        },
+        {
+          "id": 3142,
+          "title": "The Rangitikei Mail",
+          "firstYear": "1955",
+          "finalYear": "2002",
           "placename": "Marton"
         },
         {
@@ -6008,6 +6463,20 @@
           "placename": "Palmerston North",
           "urlCurrent": "http://www.manawatustandard.co.nz/",
           "urlDigitized": "https://paperspast.natlib.govt.nz/newspapers/manawatu-standard"
+        },
+        {
+          "id": 3084,
+          "title": "Manawatu Evening Standard",
+          "firstYear": "1899",
+          "finalYear": "1902",
+          "placename": "Palmerston North"
+        },
+        {
+          "id": 3085,
+          "title": "Manawatu Standard",
+          "firstYear": "1903",
+          "finalYear": "1905",
+          "placename": "Palmerston North"
         },
         {
           "id": 1912,
@@ -6480,6 +6949,13 @@
           "placename": "Otaki"
         },
         {
+          "id": 3133,
+          "title": "Otaki Mail",
+          "firstYear": "1897",
+          "finalYear": "1946",
+          "placename": "Otaki"
+        },
+        {
           "id": 1997,
           "title": "Paekakariki Progress",
           "firstYear": "1949",
@@ -6492,6 +6968,13 @@
           "firstYear": "1952",
           "finalYear": "uuuu",
           "placename": "Paekakariki"
+        },
+        {
+          "id": 3138,
+          "title": "Kapiti Observer",
+          "firstYear": "1949",
+          "finalYear": "1972",
+          "placename": "Paraparaumu"
         },
         {
           "id": 2000,
@@ -7955,12 +8438,40 @@
           "urlDigitized": "https://paperspast.natlib.govt.nz/newspapers/wellington-independent"
         },
         {
+          "id": 3064,
+          "title": "Argus And Newtown Chronicle",
+          "firstYear": "1894",
+          "finalYear": "uuuu",
+          "placename": "Wellington"
+        },
+        {
+          "id": 3054,
+          "title": "New Zealand Free Lance",
+          "firstYear": "1923",
+          "finalYear": "1960",
+          "placename": "Wellington"
+        },
+        {
+          "id": 3040,
+          "title": "Sunday News",
+          "firstYear": "1963",
+          "finalYear": "9999",
+          "placename": "Wellington"
+        },
+        {
           "id": 2083,
           "title": "National Business Review",
           "firstYear": "1970",
           "finalYear": "9999",
           "placename": "Wellington",
           "urlCurrent": "http://www.nbr.co.nz/"
+        },
+        {
+          "id": 3097,
+          "title": "The New Zealand Chronicle",
+          "firstYear": "1975",
+          "finalYear": "9999",
+          "placename": "Wellington"
         },
         {
           "id": 2085,
@@ -7974,6 +8485,13 @@
           "title": "Sunday Times [1992]",
           "firstYear": "1992",
           "finalYear": "1994",
+          "placename": "Wellington"
+        },
+        {
+          "id": 3148,
+          "title": "Cook Strait News",
+          "firstYear": "1994",
+          "finalYear": "2006",
           "placename": "Wellington"
         },
         {
@@ -8003,6 +8521,27 @@
           "firstYear": "2012",
           "finalYear": "9999",
           "placename": "Wellington"
+        }
+      ]
+    },
+    "Unknown Region": {
+      "districtList": [
+        "Unknown District"
+      ],
+      "Unknown District": [
+        {
+          "id": 3104,
+          "title": "Wairarapa News",
+          "firstYear": "1994",
+          "finalYear": "2018",
+          "placename": "Wellington"
+        },
+        {
+          "id": 2699,
+          "title": "Waitangi Times",
+          "firstYear": "1883",
+          "finalYear": "1883",
+          "placename": "On board ship"
         }
       ]
     },
@@ -8323,6 +8862,13 @@
           "urlDigitized": "https://paperspast.natlib.govt.nz/newspapers/marlborough-daily-times"
         },
         {
+          "id": 3147,
+          "title": "Marlborough Express Weekly Edition",
+          "firstYear": "1882",
+          "finalYear": "1887",
+          "placename": "Blenheim"
+        },
+        {
           "id": 2271,
           "title": "Marlborough Weekly News",
           "firstYear": "1887",
@@ -8444,6 +8990,13 @@
           "title": "Lyell Argus",
           "firstYear": "1873",
           "finalYear": "1898",
+          "placename": "Lyell"
+        },
+        {
+          "id": 3063,
+          "title": "Argus",
+          "firstYear": "1875",
+          "finalYear": "1877",
           "placename": "Lyell"
         },
         {
@@ -8707,6 +9260,13 @@
         {
           "id": 2331,
           "title": "Lantern",
+          "firstYear": "1870",
+          "finalYear": "1870",
+          "placename": "Hokitika"
+        },
+        {
+          "id": 3136,
+          "title": "The Tomahawk",
           "firstYear": "1870",
           "finalYear": "1870",
           "placename": "Hokitika"
@@ -8999,6 +9559,13 @@
           "placename": "Rangiora"
         },
         {
+          "id": 3119,
+          "title": "North Canterbury News",
+          "firstYear": "1875",
+          "finalYear": "1876",
+          "placename": "Rangiora"
+        },
+        {
           "id": 2362,
           "title": "North Canterbury Standard",
           "firstYear": "1876",
@@ -9064,6 +9631,20 @@
           "finalYear": "9999",
           "placename": "Akaroa",
           "urlDigitized": "https://paperspast.natlib.govt.nz/newspapers/akaroa-mail-and-banks-peninsula-advertiser"
+        },
+        {
+          "id": 3144,
+          "title": "The Akaroa Mail And Banks Peninsula Advertiser",
+          "firstYear": "1876",
+          "finalYear": "19uu",
+          "placename": "Akaroa"
+        },
+        {
+          "id": 3143,
+          "title": "The Akaroa Mail",
+          "firstYear": "19uu",
+          "finalYear": "1985",
+          "placename": "Akaroa"
         },
         {
           "id": 2410,
@@ -9757,6 +10338,13 @@
           "placename": "Christchurch"
         },
         {
+          "id": 3071,
+          "title": "Canterbury Standard",
+          "firstYear": "1854",
+          "finalYear": "1866",
+          "placename": "Christchurch"
+        },
+        {
           "id": 2383,
           "title": "Sun",
           "firstYear": "1914",
@@ -9765,10 +10353,31 @@
           "urlDigitized": "https://paperspast.natlib.govt.nz/newspapers/sun-christchurch"
         },
         {
+          "id": 3098,
+          "title": "Christchurch Star",
+          "firstYear": "1929",
+          "finalYear": "1935",
+          "placename": "Christchurch"
+        },
+        {
+          "id": 3044,
+          "title": "Sun Sports Review",
+          "firstYear": "192u",
+          "finalYear": "192u",
+          "placename": "Christchurch"
+        },
+        {
           "id": 2387,
           "title": "Christchurch Star",
           "firstYear": "1958",
           "finalYear": "2005",
+          "placename": "Christchurch"
+        },
+        {
+          "id": 3120,
+          "title": "Observer",
+          "firstYear": "1960",
+          "finalYear": "1989",
           "placename": "Christchurch"
         },
         {
@@ -9848,6 +10457,13 @@
           "finalYear": "9999",
           "placename": "Christchurch",
           "urlCurrent": "http://www.tekorako.maori.nz/"
+        },
+        {
+          "id": 3118,
+          "title": "Coastal Mail",
+          "firstYear": "2009",
+          "finalYear": "9999",
+          "placename": "Christchurch"
         },
         {
           "id": 2409,
@@ -9930,6 +10546,13 @@
         }
       ],
       "Ashburton District": [
+        {
+          "id": 3068,
+          "title": "Ashburton Mail",
+          "firstYear": "1877",
+          "finalYear": "1932",
+          "placename": "Ashburton"
+        },
         {
           "id": 2507,
           "title": "Evening Echo",
@@ -10023,6 +10646,13 @@
           "urlCurrent": "http://geraldinenews.co.nz/"
         },
         {
+          "id": 3091,
+          "title": "Pleasant Point Mail",
+          "firstYear": "1898",
+          "finalYear": "1899",
+          "placename": "Pleasant Point"
+        },
+        {
           "id": 2520,
           "title": "Temuka Leader",
           "firstYear": "1877",
@@ -10042,6 +10672,13 @@
           "title": "South Canterbury Weekly Review",
           "firstYear": "1933",
           "finalYear": "1933",
+          "placename": "Temuka"
+        },
+        {
+          "id": 3059,
+          "title": "Advocate",
+          "firstYear": "1934",
+          "finalYear": "1934",
           "placename": "Temuka"
         },
         {
@@ -10097,10 +10734,24 @@
           "placename": "Timaru"
         },
         {
+          "id": 3145,
+          "title": "South Canterbury Illustrated",
+          "firstYear": "1933",
+          "finalYear": "1939",
+          "placename": "Timaru"
+        },
+        {
           "id": 2527,
           "title": "High Country Herald",
           "firstYear": "1984",
           "finalYear": "2001",
+          "placename": "Timaru"
+        },
+        {
+          "id": 3126,
+          "title": "Photo News",
+          "firstYear": "198u",
+          "finalYear": "198u",
           "placename": "Timaru"
         },
         {
@@ -10253,6 +10904,13 @@
       ],
       "Queenstown-Lakes District": [
         {
+          "id": 3067,
+          "title": "Arrow Observer And Lakes District Chronicle",
+          "firstYear": "1871",
+          "finalYear": "1882",
+          "placename": "Arrowtown"
+        },
+        {
           "id": 2556,
           "title": "Lake County Press",
           "firstYear": "1882",
@@ -10292,6 +10950,13 @@
           "placename": "Queenstown"
         },
         {
+          "id": 3058,
+          "title": "Advertiser",
+          "firstYear": "1987",
+          "finalYear": "1988",
+          "placename": "Queenstown"
+        },
+        {
           "id": 2561,
           "title": "Queenstown Times",
           "firstYear": "2008",
@@ -10309,6 +10974,13 @@
       ],
       "Central Otago District": [
         {
+          "id": 3061,
+          "title": "Alexandra Herald",
+          "firstYear": "1899",
+          "finalYear": "1948",
+          "placename": "Alexandra"
+        },
+        {
           "id": 2568,
           "title": "Central Otago News",
           "firstYear": "1948",
@@ -10321,6 +10993,20 @@
           "firstYear": "1982",
           "finalYear": "1982",
           "placename": "Alexandra"
+        },
+        {
+          "id": 3139,
+          "title": "News",
+          "firstYear": "1999",
+          "finalYear": "2017",
+          "placename": "Alexandra"
+        },
+        {
+          "id": 3077,
+          "title": "Dunstan News And Wakatipu Advertiser",
+          "firstYear": "1862",
+          "finalYear": "1864",
+          "placename": "Clyde"
         },
         {
           "id": 2562,
@@ -10409,6 +11095,13 @@
           "placename": "Dunedin"
         },
         {
+          "id": 3076,
+          "title": "Dunedin Advertiser And Business Directory",
+          "firstYear": "1862",
+          "finalYear": "uuuu",
+          "placename": "Dunedin"
+        },
+        {
           "id": 2575,
           "title": "Evening News",
           "firstYear": "1862",
@@ -10487,10 +11180,31 @@
           "placename": "Dunedin"
         },
         {
+          "id": 3128,
+          "title": "Echo",
+          "firstYear": "1869",
+          "finalYear": "1883",
+          "placename": "Dunedin"
+        },
+        {
+          "id": 3078,
+          "title": "Evening Independent",
+          "firstYear": "1869",
+          "finalYear": "1869",
+          "placename": "Dunedin"
+        },
+        {
           "id": 2589,
           "title": "Southern League and Daily Advertiser",
           "firstYear": "1871",
           "finalYear": "1871",
+          "placename": "Dunedin"
+        },
+        {
+          "id": 3137,
+          "title": "Guardian",
+          "firstYear": "1873",
+          "finalYear": "1873",
           "placename": "Dunedin"
         },
         {
@@ -10572,6 +11286,13 @@
           "placename": "Dunedin"
         },
         {
+          "id": 3087,
+          "title": "The Pictorial New Zealander",
+          "firstYear": "1888",
+          "finalYear": "18uu",
+          "placename": "Dunedin"
+        },
+        {
           "id": 2608,
           "title": "North East Valley Weekly Advertiser",
           "firstYear": "188u",
@@ -10607,6 +11328,13 @@
           "placename": "Dunedin"
         },
         {
+          "id": 3115,
+          "title": "The Democrat",
+          "firstYear": "1896",
+          "finalYear": "1898",
+          "placename": "Dunedin"
+        },
+        {
           "id": 2613,
           "title": "Sketch",
           "firstYear": "1898",
@@ -10618,6 +11346,13 @@
           "title": "Beacon",
           "firstYear": "1906",
           "finalYear": "1907",
+          "placename": "Dunedin"
+        },
+        {
+          "id": 3039,
+          "title": "The New Zealand Tribune",
+          "firstYear": "1906",
+          "finalYear": "1917",
           "placename": "Dunedin"
         },
         {
@@ -10667,6 +11402,13 @@
           "title": "Pine Hill News",
           "firstYear": "1958",
           "finalYear": "1976",
+          "placename": "Dunedin"
+        },
+        {
+          "id": 3123,
+          "title": "Dunedin Gazette",
+          "firstYear": "1973",
+          "finalYear": "1973",
           "placename": "Dunedin"
         },
         {
@@ -10918,6 +11660,13 @@
       ],
       "Southland District": [
         {
+          "id": 3047,
+          "title": "Bluff Press And Stewart Island Gazette",
+          "firstYear": "1908",
+          "finalYear": "1931",
+          "placename": "Bluff"
+        },
+        {
           "id": 2655,
           "title": "Southland Daily News",
           "firstYear": "1861",
@@ -11021,6 +11770,13 @@
           "finalYear": "9999",
           "placename": "Invercargill",
           "urlCurrent": "http://fairfaxmedia.newspaperdirect.com/epaper/viewer.aspx"
+        },
+        {
+          "id": 3132,
+          "title": "Newslink",
+          "firstYear": "1993",
+          "finalYear": "1998",
+          "placename": "Invercargill"
         },
         {
           "id": 2692,
@@ -11175,20 +11931,13 @@
           "finalYear": "9999",
           "placename": "Gore",
           "urlCurrent": "http://www.theensign.co.nz"
-        }
-      ]
-    },
-    "Unknown Region": {
-      "districtList": [
-        "Unknown District"
-      ],
-      "Unknown District": [
+        },
         {
-          "id": 2699,
-          "title": "Waitangi Times",
-          "firstYear": "1883",
-          "finalYear": "1883",
-          "placename": "On board ship"
+          "id": 3096,
+          "title": "Southern Rural Life",
+          "firstYear": "1994",
+          "finalYear": "9999",
+          "placename": "Gore"
         }
       ]
     }

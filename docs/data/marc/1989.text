@@ -1,0 +1,36 @@
+01563cas a2200445 a 4500
+001 994802693502836
+003 Nz
+005 20220117104409.0
+008 160813c19389999nz dn|ne      0   a0eng  
+022 0  $a 1170-0009 $y 0117-0009 $2 _g
+035    $a (NLNZils)480269
+035    $a (nzNZBN)5123673
+035    $a zbn89077197
+035    $z 291978
+035    $a (Nz)3531185
+035    $a (NLNZils)480269-ilsdb
+035    $a (OCoLC)173333251
+040    $a NZNB $c NZNB
+042    $a nznb
+043    $a u-nz---
+082 04 $a 079.93 $2 20
+210 1  $a Wairarapa times-age
+222  0 $a Wairarapa times-age
+245 00 $a Wairarapa times-age.
+246 12 $a Wairarapa-Bush times-age $f 15 Oct. 2005
+246 11 $a Te Purongo a rohe O Wairarapa $f 11-17 Sep. 2017
+260    $a Masterton [N.Z.] : $b Wairarapa Times-Age, $c 1938-
+300    $a v. : $b ill., map, ports. ; $c 58 cm.
+310    $a Daily (except Sunday)
+362 1  $a Began with Apr. 1, 1938 $z Cf. Harvey, D. R. Union list of newspapers ... in New Zealand.
+510 2  $a Index New Zealand, $x 0113-6526, $b Jul. 23, 1990-Nov. 2, 2019
+525    $a Has some supplements.
+530    $a Available on microfilm from Microfilm Production Unit, National Library of New Zealand.
+588    $a Description based on: Monday Aug. 28, 1989; title from masthead.
+651  0 $a Wairarapa (N.Z.) $v Newspapers.
+655  7 $a New Zealand newspapers. $2 local $5 Nz
+770 0  $t Year that was (Masterton, N.Z.)
+776 08 $i Online version: $t Wairarapa times-age $x 2815-7214
+780 04 $t Wairarapa age
+780 04 $t Wairarapa daily times

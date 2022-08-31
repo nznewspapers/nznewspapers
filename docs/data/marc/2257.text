@@ -1,0 +1,37 @@
+01440cas a2200457 a 4500
+001 991079923502836
+003 Nz
+005 20210401175833.0
+008 160813c19939999nz wrgne      0   a0eng  
+022 0  $a 1172-7322
+035    $a (nzNZBN)8188260
+035    $a zbn93123847
+035    $z 480888
+035    $a (Nz)5058995
+035    $a (NLNZils)107992
+035    $a (NLNZils)107992-ilsdb
+035    $a (OCoLC)173360783
+040    $a NZNB $c NZNB
+042    $a nznb
+043    $a u-nz---
+082 04 $a 079.9375 $2 20
+130 0  $a Leader (Nelson, N.Z.)
+210 0  $a Leader $b (Nelson)
+222  0 $a Leader $b (Nelson)
+245 14 $a The Leader.
+260    $a Nelson, N.Z. : $b The Leader Newspaper Co., $c [1993-
+260 2  $3 <2015>- $a [Auckland, N.Z. : $b Fairfax Media]
+260 3  $3 <February 2018-> $a [Auckland, N.Z. : $b Stuff Limited]
+300    $a v. : $b ill. (some col.), ports. ; $c 42 cm.
+310    $a Weekly
+362 0  $a Nov. 11 1993-
+500    $a Community newspaper.
+500    $a Title from caption.
+500    $a Available from Nelson Evening Mail Office, 15 Bridge Street, Nelson, N.Z.
+550    $a Published by INL Newspapers, 9th Dec 1993-
+651  0 $a Nelson (N.Z.)
+655  7 $a New Zealand newspapers. $2 local $5 Nz
+776 08 $i Online version: $t Leader $w (Nz)9917975883502836
+777 0  $t Motueka sun $x 1171-980X $d Oct. 1993
+780 04 $t Motueka sun $x 1171-980X
+780 04 $t Community leader (Nelson, N.Z.) $x 1172-2576

@@ -1,0 +1,33 @@
+01456cas a2200409 a 4500
+001 997773543502836
+003 Nz
+005 20200909153430.0
+008 891215d18811881nz  x n       0   a0mao  
+035    $a (nzNZBN)5245560
+035    $a (Nz)3871352
+035    $a zbn89093539
+035    $a (NLNZils)777354
+035    $a (NLNZils)777354-ilsdb
+035    $a (OCoLC)173336805
+040    $a NZNB $c NZNB
+042    $a nznb
+043    $a u-nz---
+082 04 $a 079.93 $2 20
+245 00 $a Matariki : $b ko ia he taringa ona hei whakaronga me whakarongo.
+260    $a Auckland [N.Z.] : $b Printed by J. D. Wickham, Auckland Free Lance Office, $c 1881.
+300    $a 2 v. ; $c 29 cm.
+310    $a Irregular
+362 0  $a No. 1 (Aperira 23, 1881)-no. 2 (Mei 14, 1881)
+500    $a Title from masthead.
+510 4  $a Williams, $c 617
+510 4  $a Books in Māori, $c S23
+520    $a "Pleiades, an independent newspaper about East Coast land issues"--BIM.
+580    $a Supplement to: The Auckland Free Lance, Apr. 23, 1881.
+650  0 $a Maori (New Zealand people) $x Land tenure $z New Zealand $z Gisborne District $v Periodicals.
+650  0 $a Land tenure $z New Zealand $z Gisborne District $v Periodicals.
+650  7 $a Mana whenua. $2 reo
+655  7 $a Maori newspapers. $2 local $5 Nz
+655  7 $a New Zealand newspapers. $2 local $5 Nz
+700 1  $a Wickham, John Dickson. $e printer.
+770 1  $a Auckland free lance
+776 08 $i Online version: $t Matariki $w (Nz)9916616253502836

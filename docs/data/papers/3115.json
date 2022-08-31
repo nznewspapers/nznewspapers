@@ -1,0 +1,25 @@
+{
+  "id": 3115,
+  "title": "The Democrat",
+  "genre": "Newspaper",
+  "firstYear": "1896",
+  "finalYear": "1898",
+  "district": "Dunedin City",
+  "frequency": "Weekly",
+  "idMarcControlNumber": "4875429",
+  "isCurrent": false,
+  "placecode": "13-03",
+  "placename": "Dunedin",
+  "region": "Otago",
+  "links": {
+    "unknown-1": {
+      "direction": "Succeeding",
+      "relationship": "Continued by",
+      "target-description": "Sketch (Dunedin, N.Z.)"
+    }
+  },
+  "sources": {
+    "2022-08-31T04:35:42.003Z": "Extracted from the New Zealand National Bibliography (MARC record 4875429) downloaded June 2022."
+  },
+  "revision": 1
+}

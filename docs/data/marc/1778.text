@@ -1,0 +1,32 @@
+01247cas a2200397 a 4500
+001 999260463502836
+003 Nz
+005 20220401153831.0
+008 970717c19969999nz wr ne      0   a0eng  
+035    $a (nzNZBN)10398384
+035    $a zbn97063788
+035    $a (Nz)4781820
+035    $a (NLNZils)926046
+035    $a (NLNZils)926046-ilsdb
+035    $a (OCoLC)173349503
+040    $a NZNB $c NZNB
+042    $a nznb
+043    $a u-nz---
+082 04 $a 079.93467 $2 22
+245 04 $a The Napier courier.
+246 14 $a Napier courier incorporating Taradale observer $f Oct. 12, 2006-Mar. 8, 2007
+260    $a Napier [N.Z.] : $b Hawke's Bay Newspapers, $c [1996]-
+260 2  $3 <2010>- : $a [Napier? N.Z. : $b APN NZ Media]
+260 3  $3 <2022-> : $a [Auckland, N.Z.?] : $b NZME
+300    $a v. : $b ill. (some col.) ; $c 40 cm.
+310    $a Weekly
+362 0  $a Mar. 29, 1996-
+500    $a Community newspaper.
+500    $a Title from caption.
+588    $a Latest issue consulted: March 16, 2022.
+651  0 $a Napier (N.Z.) $v Newspapers.
+655  7 $a New Zealand newspapers. $2 local $5 Nz
+770 0  $t Proudly Napier $g Oct. 2011-
+780 00 $t Courier-leader (Napier ed.)
+780 05 $t Taradale observer
+785 01 $t Taradale observer (Taradale, N.Z.)

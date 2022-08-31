@@ -1,0 +1,25 @@
+{
+  "id": 3136,
+  "title": "The Tomahawk",
+  "genre": "Newspaper",
+  "firstYear": "1870",
+  "finalYear": "1870",
+  "district": "Westland District",
+  "frequency": "Weekly",
+  "idMarcControlNumber": "13738897",
+  "isCurrent": false,
+  "placecode": "11-03",
+  "placename": "Hokitika",
+  "region": "West Coast",
+  "links": {
+    "unknown-1": {
+      "direction": "Succeeding",
+      "relationship": "Continued by",
+      "target-description": "Unknown"
+    }
+  },
+  "sources": {
+    "2022-08-31T04:35:47.638Z": "Extracted from the New Zealand National Bibliography (MARC record 13738897) downloaded June 2022."
+  },
+  "revision": 1
+}

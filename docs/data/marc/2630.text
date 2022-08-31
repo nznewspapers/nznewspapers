@@ -1,0 +1,35 @@
+01489cas a2200433 a 4500
+001 999281893502836
+003 Nz
+005 20210401181228.0
+008 891011d19791998nz wrzne      0   a0eng  
+022 0  $a 1170-0300 $y 0117-0300
+035    $a (NLNZils)928189
+035    $a (nzNZBN)5168652
+035    $a zbn89077017
+035    $a (Nz)3531222
+035    $a (NLNZils)928189-ilsdb
+035    $a (OCoLC)173333283
+040    $a NZNB $c NZNB
+042    $a nznb
+043    $a u-nz---
+082 04 $a 079.9381 $2 20NZ
+222  0 $a Dunedin star weekender
+245 00 $a Dunedin star weekender.
+246 37 $a Star weekender
+246 37 $a Dunedin weekender
+260    $a Dunedin [N.Z.] : $b Allied Press, $c 1979-1998.
+300    $a v. : $b ill., ports. ; $c 42 cm.
+362 1  $a Ceased with Aug. 9, 1998.
+362 1  $a Began with Nov. 11, 1979. $z Cf. Harvey, D. R. Union list of newspapers ... in New Zealand.
+500    $a Community newspaper.
+500    $a "Dunedin, New Zealand."
+500    $a Includes advertising.
+500    $a Description based on: no.957 (Sunday Sept. 3, 1989); title from masthead.
+500    $a Available from Allied Press, P.O. Box 517, Dunedin, N.Z.
+530    $a Available on microfilm from Microfilm Production Unit, National Library of New Zealand.
+651  0 $a Dunedin (N.Z.) $x Periodicals.
+655  7 $a New Zealand newspapers. $2 local $5 Nz
+780 00 $t Evening star Dunedin weekender
+785 07 $t Dunedin star midweek $x 1170-0297
+785 07 $t Star (Dunedin, N.Z.)

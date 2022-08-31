@@ -1,7 +1,7 @@
 {
   "stats": {
     "placename": "Brown's Bay",
-    "count": 2,
+    "count": 3,
     "decades": 2
   },
   "papers": [
@@ -10,6 +10,12 @@
       "title": "Bays News",
       "firstYear": "1963",
       "finalYear": "1967"
+    },
+    {
+      "id": "3114",
+      "title": "Bay City Beacon",
+      "firstYear": "1981",
+      "finalYear": "uuuu"
     },
     {
       "id": "1197",

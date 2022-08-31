@@ -1,0 +1,18 @@
+{
+  "id": 3118,
+  "title": "Coastal Mail",
+  "genre": "Newspaper",
+  "firstYear": "2009",
+  "finalYear": "9999",
+  "district": "Christchurch City",
+  "frequency": "Weekly",
+  "idMarcControlNumber": "13100944",
+  "isCurrent": true,
+  "placecode": "12-05",
+  "placename": "Christchurch",
+  "region": "Canterbury",
+  "sources": {
+    "2022-08-31T04:35:42.212Z": "Extracted from the New Zealand National Bibliography (MARC record 13100944) downloaded June 2022."
+  },
+  "revision": 1
+}

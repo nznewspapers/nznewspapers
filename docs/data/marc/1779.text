@@ -1,0 +1,28 @@
+00996cas a2200349 a 4500
+001 999280163502836
+003 Nz
+005 20210401181220.0
+008 970717d199u1996nz wr ne      0   a0eng  
+035    $a (nzNZBN)10396614
+035    $a zbn97063611
+035    $a (NLNZils)928016
+035    $a (Nz)4781637
+035    $a (NLNZils)928016-ilsdb
+035    $a (OCoLC)173349499
+040    $a NZNB $c NZNB
+042    $a nznb
+043    $a u-nz---
+082 04 $a 079.93467 $2 22
+130 0  $a Courier-leader (Napier ed.)
+245 14 $a The Courier-leader.
+250    $a Napier ed.
+260    $a [Napier, N.Z.] : $b Hawke's Bay Newspapers, $c -[1996]
+300    $a v. : $b ill. ; $c 40 cm.
+310    $a Weekly
+362 0  $a -Mar. 21, 1996.
+500    $a Community newspaper.
+500    $a Description based on: Mar. 21, 1996; title from caption.
+651  0 $a Napier (N.Z.) $v Newspapers.
+655  7 $a New Zealand newspapers. $2 local $5 Nz
+780 00 $t Courier (Napier, N.Z.) $x 1170-1218
+785 00 $t Napier courier

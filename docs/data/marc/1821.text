@@ -1,0 +1,35 @@
+01600cas a2200433 a 4500
+001 9910186853502836
+003 Nz
+005 20210603104037.0
+008 040823c20049999nz dn|ne      0   a0eng  
+022 0  $a 1176-7596 $2 _g
+035    $a (NLNZils)1018685
+035    $a (Nz)8761676
+035    $a (NLNZils)1018685-ilsdb
+035    $a (OCoLC)173438736
+040    $a NZNB $c AP $d NZNB
+042    $a nznb
+043    $a u-nz---
+082 04 $a 079.9348 $2 21
+130 0  $a Taranaki daily news (New Plymouth, N.Z. : 2004)
+210 1  $a Taranaki dly. news $b (New Plymouth, 2004)
+222  0 $a Taranaki daily news $b (New Plymouth. 2004)
+245 10 $a Taranaki daily news.
+246 30 $a Daily news
+246 1  $i Title to mark Māori Language Week: $a Karere o Taranaki
+260    $a New Plymouth [N.Z.] : $b Taranaki Daily News, $c [2004]-
+260 2  $3 <2015>- $a [Auckland, N.Z. : $b Fairfax Media]
+260 3  $3 <February 2018-> $a [Auckland, N.Z. : $b Stuff Limited]
+300    $a v. : $b ill. (some col.) ; $c 40-58 cm.
+310    $a Daily (except Sunday)
+362 0  $a Aug. 21, 2004-
+500    $a Title from caption.
+500    $a Karere o Taranaki continues as a subtitle from September 17, 2018.
+500    $a From <2021> title during New Zealand Sign Language Week also given in NZSL finger spellings.
+510 2  $a Index New Zealand, $x 0113-6526, $b Aug. 21, 2004-
+525    $a Has some supplements.
+651  0 $a Taranaki (N.Z.) $v Newspapers.
+655  7 $a New Zealand newspapers. $2 local $5 Nz
+776 08 $i Online version: $t Taranaki daily news $x 2744-6034
+780 00 $t Daily news (New Plymouth, N.Z.) $x 1170-0246

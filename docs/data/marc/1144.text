@@ -1,0 +1,37 @@
+01564cas a2200457 a 4500
+001 999316283502836
+003 Nz
+005 20210401181343.0
+008 891031d19641991nz crzne      0   a0eng  
+022 0  $a 1170-1056 $y 0117-1056
+035    $a (nzNZBN)5192424
+035    $a zbn89081932
+035    $a (NLNZils)931628
+035    $a (Nz)3531249
+035    $a (NLNZils)931628-ilsdb
+035    $a (OCoLC)173333302
+040    $a NZNB $c NZNB
+042    $a nznb
+043    $a u-nz---
+082 04 $a 079.9311 $2 20NZ
+222  0 $a Rodney & Waitemata times
+245 00 $a Rodney & Waitemata times.
+246 37 $a R & W times
+246 30 $a Times
+260    $a Warkworth [N.Z.] : $b [Rodney & Waitemata Times?, $c 1964-1991]
+300    $a ? v. : $b ill. (some col.), map, ports. (some col.) ; $c 43 cm.
+310    $a Semiweekly
+321    $a Twice a week $b Apr. 26 1982-Mar 29 1964
+321    $a Weekly
+362 1  $a Ceased with 31  Oct. 1991.
+362 1  $a Began with Feb. 5, 1964. $z Cf. Harvey, D. R. Union list of newspapers ... in New Zealand.
+500    $a Community newspaper.
+500    $a Includes advertising.
+500    $a "Incorporates Lower north news."
+500    $a Description based on: Tuesday Sept. 12, 1989; title from masthead.
+530    $a Available on microfilm from Microfilm Production Unit, National Library of New Zealand.
+651  0 $a Auckland (N.Z.)
+655  7 $a New Zealand newspapers. $2 local $5 Nz
+780 00 $t Rodney and Otamatea times, Waitemata and Kaipara gazette
+780 05 $t Helensville recorder
+785 00 $t Rodney times $x 1171-9052

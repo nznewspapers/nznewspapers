@@ -1,0 +1,22 @@
+00702cas a22002773  4500
+001 999288503502836
+003 Nz
+005 20210401181224.0
+008 990929d18731873nz d||n|      |   b eng d
+035    $a 46279
+035    $a (NLNZils)928850
+035    $a (OCoLC)173365483
+035    $a fin00003136
+035    $a (Nz)5095045
+035    $a (NLNZils)928850-ilsdb
+040    $a WN $c WN
+042    $a nznb
+043    $a u-nz---
+130 0  $a Guardian (Dunedin, N.Z.)
+245 10 $a Guardian.
+260    $a [Dunedin, N.Z. : $b s.n., $c 1873]
+310    $a Daily
+362 0  $a 1873 Jul.23-1873 Sep.25
+651  0 $a Dunedin (N.Z.) $v Newspapers.
+655  7 $a New Zealand newspapers. $2 local $5 Nz
+785 00 $t Otago guardian

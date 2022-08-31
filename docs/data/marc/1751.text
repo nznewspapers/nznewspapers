@@ -1,0 +1,36 @@
+01498cas a2200445 a 4500
+001 994181783502836
+003 Nz
+005 20200703142108.0
+008 051109c19999999nz dr|n       0   a0eng  
+022 0  $a 1174-9792 $2 _g
+035    $a (nzNZBN)11325003
+035    $a zbn99043760
+035    $a (NLNZils)418178
+035    $a (Nz)5107808
+035    $a (NLNZils)418178-ilsdb
+035    $a (OCoLC)173366948
+040    $a NZNB $c NZNB
+042    $a nznb
+043    $a u-nz---
+082 04 $a 079.9346 $2 21
+210 1  $a Hawke's Bay today
+222  0 $a Hawke's Bay today
+245 00 $a Hawke's Bay today.
+246 1  $i Saturday issue called: $a Hawke's Bay weekend
+260    $a Hastings [N.Z.] : $b Hawke's Bay Newspapers, $c [1999]-
+300    $a v. : $b ill. (some col.), ports. ; $c 40-58 cm.
+310    $a Daily (except Sunday)
+362 0  $a May 3, 1999-
+500    $a Title from caption.
+510 2  $a Index New Zealand, $x 0113-6526, $b May, 1999-
+530    $a Selected content also available in an electronic ed.
+580    $a Issued (in the Dannevirke and Tararua areas only) with: Dannevirke news, Mar. 1, 2004-
+588    $a Latest issue consulted: Feb. 25, 2013.
+651  0 $a Hawke's Bay (N.Z.) $v Newspapers.
+655  7 $a New Zealand newspapers. $2 local $5 Nz
+776 0  $t Hawke's bay today (Online)
+777 1  $t Dannevirke news $g Mar. 1, 2004- $x 1176-497X
+780 04 $t Daily telegraph (Napier, N.Z.) $x 1170-0262
+780 04 $t Hawke's Bay herald-tribune $x 1170-0505
+780 05 $t Dannevirke news

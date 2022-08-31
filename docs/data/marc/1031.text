@@ -1,0 +1,32 @@
+01264cas a2200397 a 4500
+001 999349803502836
+003 Nz
+005 20180828164008.0
+008 030414c20039999nz wr n       0   a0eng  
+022 0  $a 2463-6800 $2 _g
+035    $a (NLNZils)934980
+035    $a (Nz)7624952
+035    $a (NLNZils)934980-ilsdb
+035    $a (OCoLC)173411688
+040    $a NZNB $c AP $d NZNB
+042    $a nznb
+043    $a u-nz---
+082 04 $a 079.9312 $2 20NZ
+130 0  $a Bay chronicle (Kerikeri, N.Z. : 2003)
+210 1  $a Bay chron. $b (Kerikeri, 2003)
+222  0 $a Bay chronicle $b (Kerikeri. 2003)
+245 04 $a The Bay chronicle.
+246 17 $a Chronicle
+260    $a [Kerikeri, N.Z. : $b Independent Community Newspapers, $c 2003-
+260 2  $3 <2015>- $a [Auckland, N.Z. : $b Fairfax Media]
+260 3  $3 <February 2018-> $a [Auckland, N.Z. : $b Stuff Limited]
+300    $a v. : $b ill. ; $c 43 cm.
+310    $a Weekly
+362 0  $a Friday Mar. 14, 2003-
+500    $a Title from masthead.
+500    $a "The heart of your community."
+500    $a Community newspaper.
+651  0 $a Islands, Bay of (N.Z.) $v Newspapers.
+655  7 $a New Zealand newspapers. $2 local $5 Nz
+776 08 $i Online version: $t Bay chronicle $x 2463-6819
+780 00 $t Chronicle (Kerikeri, N.Z.) $x 1170-005X

@@ -1,0 +1,18 @@
+{
+  "id": 3132,
+  "title": "Newslink",
+  "genre": "Newspaper",
+  "firstYear": "1993",
+  "finalYear": "1998",
+  "district": "Southland District",
+  "frequency": "Semiweekly",
+  "idMarcControlNumber": "8130424",
+  "isCurrent": false,
+  "placecode": "14-01",
+  "placename": "Invercargill",
+  "region": "Southland",
+  "sources": {
+    "2022-08-31T04:35:47.351Z": "Extracted from the New Zealand National Bibliography (MARC record 8130424) downloaded June 2022."
+  },
+  "revision": 1
+}

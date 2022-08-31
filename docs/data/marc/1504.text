@@ -1,0 +1,23 @@
+00878cas a22002891a 4500
+001 999330553502836
+003 Nz
+005 20200929082557.0
+008 040114d19011908nz dr ne      0   a0eng  
+035    $a (NLNZils)933055
+035    $a (Nz)8185144
+035    $a (NLNZils)933055-ilsdb
+035    $a (OCoLC)946808980
+040    $a NZNB $c NZNB
+042    $a nznb
+043    $a u-nz---
+082 04 $a 079.93327 $2 23
+245 00 $a Waihi daily telegraph.
+260    $a Waihi [N.Z.] : $b Waihi Printing and Publishing Company, $c [1901]-1908.
+300    $a 8 v. ; $c 56 cm.
+310    $a Daily
+362 0  $a Mar. 4, 1901-Oct. 31, 1908
+651  0 $a Waihi (N.Z.) $v Newspapers.
+655  7 $a New Zealand newspapers. $2 local $5 Nz
+776 08 $i Online version: $t Waihi daily telegraph $w (Nz)9915859763502836
+780 00 $t Waihi miner and Hauraki goldfield gazette
+785 00 $t Daily telegraph (Waihi, N.Z.)

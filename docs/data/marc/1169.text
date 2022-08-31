@@ -1,0 +1,25 @@
+00874cas a22003131a 4500
+001 999318673502836
+003 Nz
+005 20161223153139.0
+008 040112d19721973nz wr|ne      0   a0eng  
+035    $a 8181799
+035    $a (Nz)8181799
+035    $a (NLNZils)931867
+035    $a (NLNZils)931867-ilsdb
+035    $a (OCoLC)946808965
+040    $a NZNB $c NZNB
+042    $a nznb
+043    $a u-nz---
+082 04 $a 079.9327 $2 23
+130 0  $a South Auckland courier (Franklin ed.)
+245 10 $a South Auckland courier.
+250    $a Franklin ed.
+260    $a [Pukekohe, N.Z. : $b s.n., $c 1972-1973]
+310    $a Weekly
+362 0  $a 1972 Jun.6-1973 Apr.3
+651  0 $a Franklin District (N.Z.) $v Newspapers.
+651  0 $a Papakura District (N.Z.) $v Newspapers.
+655  7 $a New Zealand newspapers. $2 local $5 Nz
+780 00 $t Franklin shopper
+785 00 $t Franklin times (1973)

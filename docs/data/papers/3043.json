@@ -1,0 +1,25 @@
+{
+  "id": 3043,
+  "title": "Evening Star",
+  "genre": "Newspaper",
+  "firstYear": "1869",
+  "finalYear": "1893",
+  "district": "Thames-Coromandel District",
+  "frequency": "Daily",
+  "idMarcControlNumber": "5094653",
+  "isCurrent": false,
+  "placecode": "03-01",
+  "placename": "Thames",
+  "region": "Waikato",
+  "links": {
+    "unknown-1": {
+      "direction": "Succeeding",
+      "relationship": "Continued by",
+      "target-description": "Thames star"
+    }
+  },
+  "sources": {
+    "2022-08-31T04:35:21.425Z": "Extracted from the New Zealand National Bibliography (MARC record 5094653) downloaded June 2022."
+  },
+  "revision": 1
+}

@@ -1,0 +1,26 @@
+01008cas a2200325 a 4500
+001 9913516533502836
+003 Nz
+005 20161223164733.0
+008 090918d20092015nz wr|ne      0   e0chi  
+035    $a (Nz)13082287
+035    $a (NLNZils)1351653
+035    $a (NLNZils)1351653-ilsdb
+035    $a (OCoLC)441345069
+040    $a NZNB $c NZNB
+041 0  $a chi $a eng
+042    $a nznb
+043    $a u-nz---
+082 04 $a 305.895109305 $2 22
+245 00 $a Dong fang zhou kan = $b Oriental weekly
+246 11 $a Oriental weekly
+260    $a Auckland [N.Z.] : $b Oriental Times, $c [2009]-[2015]
+300    $a v. : $b ill. (some col.) ; $c 40 cm.
+310    $a Weekly
+362 1  $a Began with issue 1; ceased with no. 269 (2015).
+500    $a Description based on first issue; title from caption.
+546    $a Text in Chinese with some English.
+650  0 $a Chinese $z New Zealand $v Newspapers.
+655  7 $a New Zealand newspapers. $2 local $5 Nz
+655  7 $a Chinese newspapers. $2 local $5 Nz
+780 00 $t Dong fang shi bao

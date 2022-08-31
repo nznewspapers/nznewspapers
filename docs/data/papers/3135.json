@@ -1,0 +1,35 @@
+{
+  "id": 3135,
+  "title": "Hawke's Bay Tribune",
+  "genre": "Newspaper",
+  "firstYear": "1910",
+  "finalYear": "1937",
+  "district": "Hastings District",
+  "frequency": "Daily",
+  "idMarcControlNumber": "5095137",
+  "isCurrent": false,
+  "placecode": "06-02",
+  "placename": "Hastings",
+  "region": "Hawke's Bay",
+  "links": {
+    "unknown-1": {
+      "direction": "Preceding",
+      "relationship": "Continues",
+      "target-description": "Hastings standard"
+    },
+    "unknown-2": {
+      "direction": "Succeeding",
+      "relationship": "Merged",
+      "target-description": "Hawke's Bay herald"
+    },
+    "unknown-3": {
+      "direction": "Succeeding",
+      "relationship": "Merged",
+      "target-description": "Hawke's Bay herald-tribune"
+    }
+  },
+  "sources": {
+    "2022-08-31T04:35:47.555Z": "Extracted from the New Zealand National Bibliography (MARC record 5095137) downloaded June 2022."
+  },
+  "revision": 1
+}
