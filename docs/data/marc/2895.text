@@ -1,0 +1,33 @@
+01346cas a2200409 a 4500
+001 993408743502836
+003 Nz
+005 20210401185817.0
+008 971107d19972001nz er ne |    0   a0eng  
+035    $a (nzNZBN)10502486
+035    $a zbn97106881
+035    $z 612256
+035    $a zbn97090801
+035    $a (NLNZils)340874
+035    $a (Nz)4828979
+035    $a (NLNZils)340874-ilsdb
+035    $a (OCoLC)173350469
+040    $a NZNB $c NZNB
+042    $a nznb
+043    $a u-nz---
+082 04 $a 079.936305 $2 21
+245 00 $a Tawa times.
+246 1  $i Title on inverted t.p.: $a Newlands/Paparangi post
+260    $a Wellington [N.Z.] : $b Suburban Newspapers Group, $c [1997-2001]
+300    $a v. : $b ill. ports. ; $c 40 cm.
+310    $a Biweekly
+362 0  $a 18 Sept. 1997-14 May 2001.
+500    $a Community newspaper.
+500    $a Title from masthead.
+500    $a "Distributed throughout Tawa, Linden, Redwood & Grenada."
+501    $a Issued with Newlands/Paparangi post, with title on inverted pages.
+580    $a Merged with: Newlands/Paparangi post, to form: Northern courier (Wellington, N.Z.)
+651  0 $a Tawa (Wellington, N.Z.) $v Periodicals.
+655  7 $a New Zealand newspapers. $2 local $5 Nz
+777 18 $t Newlands/Paparangi post
+785 07 $t Newlands/Paparangi post
+785 07 $t Northern courier (Wellington, N.Z.)

@@ -1,0 +1,31 @@
+01176cas a2200385 a 4500
+001 999279943502836
+003 Nz
+005 20210401181235.0
+008 900601d198u1995nz wrgne      0   a0eng  
+022 0  $a 1170-0033 $y 0117-0033
+035    $a (nzNZBN)5435649
+035    $a zbn90036659
+035    $a (NLNZils)927994
+035    $a (Nz)4978367
+035    $a (NLNZils)927994-ilsdb
+035    $a (OCoLC)173356385
+040    $a NZNB $c NZNB
+042    $a nznb
+043    $a u-nz---
+082 04 $a 079.9374 $2 20NZ
+222  0 $a Ashburton's the courier
+245 00 $a Ashburton's the courier.
+246 33 $a ATC. Ashburton's the courier
+260    $a [Ashburton, N.Z. : $b ATC?, $c 198?-1995]
+300    $a v. : $b ill., form, ports. ; $c 41 cm.
+362 1  $a Began in 198?
+362 0  $a -v. 11, no. 17 (May 4 1995)
+500    $a Community newspaper.
+500    $a "Ashburton, N.Z.".
+500    $a Includes advertising.
+500    $a Description based on: v. 5, no. 35 (Sept. 21, 1989); title from masthead.
+651  0 $a Ashburton (N.Z.) $v Periodicals.
+655  7 $a New Zealand newspapers. $2 local $5 Nz
+780 00 $t Courier (Ashburton, N.Z.)
+785 00 $t Courier (Ashburton, N.Z. : 1995)

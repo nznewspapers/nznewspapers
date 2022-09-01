@@ -1,0 +1,26 @@
+01121cas a2200325 a 4500
+001 9914662453502836
+003 Nz
+005 20200916160116.0
+008 110308d18551873nz cr|ne      0   a0eng  
+035    $a (NLNZils)1466245
+035    $a (Nz)12589970
+035    $a (NLNZils)1466245-ilsdb
+035    $a (OCoLC)706677406
+040    $a NZNB $c NZNB
+042    $a nznb
+043    $a u-nz---
+082 04 $a 079.9376 $2 22
+245 04 $a The Nelson examiner.
+260    $a Nelson, N.Z. : $b Nelson Examiner, $c 1855-1873.
+300    $a v. ; $c 44 cm.
+310    $a Semiweekly
+362 1  $a Began with vol. 14, no. 1 (Mar. 31, 1855); ceased with v. 32, no. 52 (28 June 1873)
+500    $a Description based on vol. 14, no. 1 (Mar. 31, 1855); title from masthead.
+500    $a Latest issue consulted: v. 32, no. 52 (28 June 1873)
+515    $a Continues the numbering of its predecessor.
+651  0 $a Nelson (N.Z.) $v Newspapers.
+655  7 $a New Zealand newspapers. $2 local $5 Nz
+776 08 $i Online version: $t Nelson examiner $w (Nz)9914662653502836
+780 00 $t Nelson examiner and New Zealand chronicle
+785 00 $t Nelson daily examiner

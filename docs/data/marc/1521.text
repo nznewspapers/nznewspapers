@@ -1,0 +1,35 @@
+01671cas a2200433 a 4500
+001 9912117453502836
+003 Nz
+005 20200909085203.0
+008 060929d18941894nz uu|n       0   b0mao  
+035    $a (NZ-CU)755014
+035    $a (Nz)11051492
+035    $a (NLNZils)1211745
+035    $a (NLNZils)1211745-ilsdb
+035    $a (OCoLC)173324081
+040    $a NZNB $c NZNB
+042    $a nznb
+043    $a u-nz---
+082 04 $a 346.930432026905 $2 22
+245 00 $a Ko te panui o Aotearoa : $b mo te Kooti Whakawa Whenua Maori : he mea ta i runga i te mana o te Kiingitanga Motuhake o Aotearoa.
+246 3  $i Title appears as: $a Ko te paunui o Aotearoa $f no. 1
+246 1  $i At head of title: $a Ko te Mana Motuhake
+246 17 $a Ko te panui Wahkawa [i.e. Whakawa] Whenua Maori o Aotearoa
+246 17 $a Panui Whakawa Whenua Maori o Aotearoa
+260    $a Maungakawa [N.Z.] : $b I taia e T.W. Kereama i runga i te mana o te Kiingitanga o Aotearoa, $c [1894]-
+300    $a v. ; $c 30 cm.
+362 0  $a No. 1 (Nowema 20, 1894)-
+362 1  $a Ceased with no. 1 (Nowema 20, 1894)?
+500    $a Title from caption.
+510 4  $a Williams, $c 887
+510 4  $a Williams (suppl.), $c 887
+510 4  $a Books in Māori, $c S34
+520    $a "Notices of Aotearoa: Kingitanga land court gazette"--BIM.
+650  0 $a Maori (New Zealand people) $x Land tenure $v Periodicals.
+650  7 $a Ture whenua. $2 reo
+655  7 $a Maori newspapers. $2 local $5 Nz
+655  7 $a New Zealand newspapers. $2 local $5 Nz
+700 1  $a Graham, Tuatara Wiremu. $e printer.
+776 08 $i Online version: $t Ko te panui o Aotearoa $w (Nz)9916619083502836
+785 00 $t Ko te kahiti tuturu mo Aotearoa, me te Waipounamu

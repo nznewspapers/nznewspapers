@@ -1,0 +1,27 @@
+00996cas a2200337 a 4500
+001 999260903502836
+003 Nz
+005 20210401181202.0
+008 970807d19952000nz wr ne      0   a0eng  
+035    $a (nzNZBN)10427315
+035    $a zbn97070858
+035    $a (NLNZils)926090
+035    $a (Nz)4788313
+035    $a (NLNZils)926090-ilsdb
+035    $a (OCoLC)173349671
+040    $a NZNB $c NZNB
+042    $a nznb
+043    $a u-nz---
+082 04 $a 079.933 $2 21
+245 00 $a North Waikato tatler.
+260    $a Huntly, N.Z. : $b North Waikato Tatler, $c 1995-2000.
+300    $a v. : $b ill. ; $c 43 cm.
+310    $a Weekly
+362 1  $a Began with Nov. 29, 1995; ceased in Dec. 2000.
+500    $a Community newspaper.
+500    $a Description based on: Jan. 17, 1996; title from caption.
+651  0 $a Huntly (N.Z.) $v Newspapers.
+651  0 $a Waikato (N.Z.) $v Newspapers.
+655  7 $a New Zealand newspapers. $2 local $5 Nz
+780 00 $t New tatler
+785 00 $t North Waikato news (Huntly : 2001)

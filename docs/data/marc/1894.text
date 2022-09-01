@@ -1,0 +1,33 @@
+01315cas a2200409 a 4500
+001 999268123502836
+003 Nz
+005 20210401181352.0
+008 900330d19882018nz wr|ne      0   a0eng  
+022 0  $a 1170-1447 $y 0117-1447 $2 _g
+035    $a (nzNZBN)5367793
+035    $a zbn90020309
+035    $a (Nz)3561163
+035    $a (NLNZils)926812
+035    $a (NLNZils)926812-ilsdb
+035    $a (OCoLC)173333794
+040    $a NZNB $c NZNB
+042    $a nznb
+043    $a u-nz---
+082 04 $a 079.9344 $2 20NZ
+222  0 $a Wanganui midweek
+245 00 $a Wanganui midweek.
+246 30 $a Midweek
+260    $a [Wanganui, N.Z. : $b Wanganui Midweek, $c 1988-]
+260 3  $3 <2013>- $a [Wanganui, N.Z. : $b APN NZ Media]
+300    $a v. : $b ill., forms, maps, ports. ; $c 42 cm.
+310    $a Weekly
+362 1  $a Began in 1988; ceased with 5 Sept. 2018.
+500    $a "Weekly to Wanganui, Marton, Bulls, Hunterville and Waverley."
+500    $a Includes advertising.
+588    $a Description based on: Vol. 4, ed. no. 10 (Wednesday, Sept. 6, 1989); title from masthead.
+588    $a Latest issue consulted: 28 Aug. 2013
+651  0 $a Wanganui (N.Z.) $v Newspapers.
+655  7 $a New Zealand newspapers. $2 local $5 Nz
+780 04 $t Herald Weekender
+780 04 $t Herald Midweek
+785 00 $t Whanganui midweek $x 2624-1749

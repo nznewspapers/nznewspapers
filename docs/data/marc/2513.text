@@ -1,0 +1,31 @@
+01284cas a2200385 a 4500
+001 9912669363502836
+003 Nz
+005 20161223162543.0
+008 071112d20072016nz wr n       0   a0eng  
+035    $a (Nz)11547742
+035    $a (NLNZils)1266936
+035    $a (NLNZils)1266936-ilsdb
+035    $a (OCoLC)181407872
+040    $a NZNB $c NZNB
+042    $a nznb
+043    $a u-nz---
+082 04 $a 079.938 $2 22
+245 00 $a Mid Canterbury herald.
+260    $a Ashburton [N.Z.] : $b Mid Canterbury Herald, $c 2007-[2016]
+260 3  $3 <2015>- $a [Auckland, N.Z. : $b Fairfax Media]
+300    $a v. : $b ill. (chiefly col.) ; $c 40 cm.
+310    $a Weekly
+362 0  $a Nov. 7, 2007- May 4, 2016.
+362 1  $a Ceased with 4 May 2016.
+500    $a Community newspaper.
+525    $a Has some supplements.
+580    $a Issued with: Central South Island farmer.
+588    $a Latest issue consulted: Dec. 3, 2014.
+651  0 $a Canterbury (N.Z.) $v Newspapers.
+655  7 $a New Zealand newspapers. $2 local $5 Nz
+776 08 $i Online version: $t Mid Canterbury herald $w (Nz)9917967003502836
+777 0  $t Central South Island farmer
+780 00 $t Community high country herald (Mid Canterbury)
+785 07 $t Central Canterbury news (1990) $x 1170-1439
+785 07 $t Selwyn & Ashburton outlook

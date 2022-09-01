@@ -1,0 +1,26 @@
+01094cas a2200325 a 4500
+001 999270363502836
+003 Nz
+005 20210401181337.0
+008 950615d18421846nz wr ne      0   a0eng d
+035    $a (nzNZBN)9235624
+035    $a abn95179853
+035    $a (NLNZils)927036
+035    $a (Nz)4870955
+035    $a (NLNZils)927036-ilsdb
+035    $a (OCoLC)173353363
+040    $a ABN $d WN
+042    $a nznb
+043    $a u-nz---
+082 04 $a 079.93 $2 20
+245 04 $a The Auckland times.
+260    $a Auckland : $b Henry Falwasser, $c [1842-1846]
+300    $a v. ; $c 43 cm.
+310    $a Weekly
+362 1  $a Began Aug. 29, 1842. $z Cf. Newspapers in Australian Libraries (pt. 1: Overseas publications)
+362 1  $a Ceased Jan. 17, 1846. $z Cf. Newspapers in Australian Libraries (pt. 1 : Overseas publications)
+515    $a Not published: Apr. 17, 1843-Nov. 1,1843.
+588    $a Description based on: Vol. 1, no. 15 (Nov. 1, 1842)
+651  0 $a Auckland (N.Z.) $v Newspapers.
+655  7 $a New Zealand newspapers. $2 local $5 Nz
+776 08 $i Online version: $t Auckland times $w (Nz)9918183773002836

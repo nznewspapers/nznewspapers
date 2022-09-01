@@ -1,0 +1,28 @@
+01028cas a2200349 a 4500
+001 999268523502836
+003 Nz
+005 20210401181341.0
+008 970806c19959999nz mr ne      0   a0eng  
+022 0  $y 1170-1633
+035    $a (nzNZBN)10427244
+035    $a (NLNZils)926852
+035    $a zbn97070737
+035    $a (Nz)4787884
+035    $a (NLNZils)926852-ilsdb
+035    $a (OCoLC)173349641
+040    $a NZNB $c NZNB
+042    $a nznb
+043    $a u-nz---
+082 04 $a 079.933405 $2 21
+130 0  $a Westside news (Hamilton, N.Z.)
+245 10 $a Westside news.
+260    $a Hamilton [N.Z.] : $b Nawton Community Centre, $c 1995-
+300    $a v. : $b ill., ports. ; $c 43 cm.
+310    $a Monthly
+362 1  $a Began with Sept. 1995.
+500    $a Community newspaper.
+500    $a "Formerly the Nawton news."
+500    $a Description based on: vol. 16, no. 1 (Apr. 1996); title from caption.
+651  0 $a Hamilton (N.Z.) $x Periodicals.
+655  7 $a New Zealand newspapers. $2 local $5 Nz
+780 00 $t Nawton news $x 1170-1633

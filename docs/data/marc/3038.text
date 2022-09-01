@@ -1,0 +1,38 @@
+01864cas a2200469 a 4500
+001 9913270193502836
+003 Nz
+005 20180824121134.0
+006 m     o  d        
+007 cr#mn#|||a||||
+008 090317d20092018nz wr|n o     0   a0eng  
+022 0  $a 2463-7114 $2 _g
+035    $a (NLNZils)1327019
+035    $a (Nz)12857836
+035    $a (NLNZils)1327019-ilsdb
+035    $a (OCoLC)317399843
+040    $a NZNB $c NZNB
+042    $a nznb
+043    $a u-nz---
+082 04 $a 079.93465 $2 22
+130 0  $a Hastings & Havelock North mail (Online)
+210 1  $a Hastings Havelock North mail $b (Online)
+222  0 $a Hastings & Havelock North mail $b (Online)
+245 14 $a The Hastings & Havelock North mail $h [electronic resource].
+246 3  $a Hastings and Havelock North mail
+246 17 $a Hastings mail
+260    $a [Napier, N.Z. : $b Mail Newspapers (HB)
+260 2  $3 <2015>- $a [Auckland, N.Z. : $b Fairfax Media]
+260 3  $3 <February 2018-> $a [Auckland, N.Z. : $b Stuff Limited]
+300    $a electronic documents : $b col. ill., PDF files
+310    $a Weekly
+362 1  $a Print began with March 11, 2009; ceased with Apr. 25, 2018.
+500    $a Archived by the National Library of New Zealand until May 18, 2011.
+500    $a Hypertext links contained in the archived instances of this title are non-functional. $5 Nz
+500    $a Community newspaper.
+538    $a Mode of access: World Wide Web.
+588    $a Description based on: Mar. 25, 2009; title from PDF caption (viewed on Mar. 27, 2009).
+588    $a Latest issue consulted: May 18, 2011 (viewed on March 12, 2014).
+651  0 $a Hastings (N.Z.) $v Newspapers.
+655  7 $a New Zealand newspapers. $2 local $5 Nz
+776 0  $i Print version: $t Hastings & Havelock North mail $x 2463-7106
+856 40 $u http://hastingsmail.realviewdigital.com/#folio=1 $z Hastings Mail Digital Edition

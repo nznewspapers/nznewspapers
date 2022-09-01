@@ -1,0 +1,26 @@
+01105cas a22003251a 4500
+001 9917662093502836
+003 Nz
+005 20201007093227.0
+008 090526d18991902nz dr|ne      0   a0eng  
+035    $a (NLNZils)1766209
+035    $a (Nz)12890075
+035    $a (NLNZils)1766209-ilsdb
+035    $a (OCoLC)946802544
+040    $a NZNB $c PU $d NZNB
+042    $a nznb
+043    $a u-nz---
+082 04 $a 079.9358 $2 23
+130 0  $a Manawatu evening standard (1899)
+245 10 $a Manawatu evening standard : $b Pohangina County advertiser and West Coast gazette.
+246 13 $a Pohangina County advertiser and West Coast gazette
+260    $a Palmerston North, N.Z. : $b Fred and David Pirani, $c [1899-1902]
+300    $a v. ; $c cm.
+310    $a Daily
+362 1  $a Began in 1899; ceased with 31 Dec. 1902.
+500    $a Description based on: July 20 1900.
+651  0 $a Palmerston North (N.Z.) $v Newspapers.
+655  7 $a New Zealand newspapers. $2 local $5 Nz
+776 08 $i Online version: $t Manawatu evening standard $w (Nz)9917662333502836
+780 00 $t Manawatu daily standard
+785 00 $t Manawatu standard (1903)

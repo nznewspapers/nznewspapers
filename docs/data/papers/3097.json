@@ -1,0 +1,17 @@
+{
+  "id": 3097,
+  "title": "The New Zealand Chronicle",
+  "genre": "Newspaper",
+  "firstYear": "1975",
+  "finalYear": "9999",
+  "district": "Wellington City",
+  "idMarcControlNumber": "3658191",
+  "isCurrent": false,
+  "placecode": "09-08",
+  "placename": "Wellington",
+  "region": "Wellington",
+  "sources": {
+    "2022-08-31T04:35:39.051Z": "Extracted from the New Zealand National Bibliography (MARC record 3658191) downloaded June 2022."
+  },
+  "revision": 1
+}

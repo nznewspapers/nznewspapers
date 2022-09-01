@@ -1,0 +1,37 @@
+01593cas a2200457 a 4500
+001 999257223502836
+003 Nz
+005 20211105112043.0
+008 891013c18809999nz wrzne      0   a0eng  
+022 0  $a 1170-0580 $y 0117-0580 $2 _g
+035    $a (nzNZBN)5164358
+035    $a zbn89076348
+035    $a (NLNZils)925722
+035    $a (Nz)3531208
+035    $a (NLNZils)925722-ilsdb
+035    $a (OCoLC)173333269
+040    $a NZNB $c NZNB
+042    $a nznb
+043    $a u-nz---
+082 04 $a 079.9356 $2 20NZ
+210 1  $a Kaikoura star
+222  0 $a Kaikoura Star
+245 04 $a The Kaikoura star : $b and Kaikoura County gazette and recorder
+260    $a [Kaikoura, N.Z. : $b Kaikoura Star, $c 1880-]
+260 2  $3 <2015>- $a [Auckland, N.Z. : $b Fairfax Media
+260 2  $3 <February 2018-> $a [Auckland, N.Z. : $b Stuff Limited]
+260 3  $3 June 27, 2018- $a [Greymouth, N.Z. : $b Greymouth Evening Star]
+300    $a v. : $b ill., ports. ; $c 42 cm.
+310    $a Weekly $b Mar. 7 1963-
+321    $a Semi-weekly
+362 1  $a Began with Nov. 2 1880. $z Cf. Harvey, D. R. Union list of newspapers ... in New Zealand.
+500    $a Subtitle varies.
+500    $a "Cheviot county news."
+500    $a "Waiau Culverden comment."
+500    $a "Kaikoura, Marlborough, N.Z."
+500    $a Includes advertising
+588    $a Description based on: Thursday Sept. 21, 1989; title masthead.
+588    $a Latest issue consulted: Oct. 23, 2013.
+651  0 $a Kaikoura District (N.Z.) $v Newspapers.
+655  7 $a New Zealand newspapers. $2 local $5 Nz
+776 08 $i Online version: $t Kaikoura star $x 2463-7394

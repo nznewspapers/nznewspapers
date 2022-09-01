@@ -1,0 +1,27 @@
+01022cas a2200337 a 4500
+001 993534893502836
+003 Nz
+005 20210401190251.0
+008 160813d19981998nz drgne      0   a0eng  
+022 0  $a 1174-5258
+035    $a (nzNZBN)10709847
+035    $a zbn98024120
+035    $a (NLNZils)353489
+035    $z 624001
+035    $a (Nz)4821535
+035    $a (NLNZils)353489-ilsdb
+035    $a (OCoLC)173350373
+040    $a NZNB $c NZNB
+042    $a nznb
+043    $a u-nz---
+082 04 $a 079.93 $2 21
+210 0  $a Manukau dly. news
+222  0 $a Manukau daily news
+245 00 $a Manukau daily news.
+260    $a Auckland : $b Horton Media Ltd., $c 1998.
+300    $a v. : $b ill., (some col.), ports. (some col.) ; $c 58 cm.
+310    $a Daily (except Saturday and Sunday)
+362 1  $a Began in 1998; ceased with v. 1, no. 215 (Dec. 31 1998).
+500    $a Description based on: Mar. 2, 1998; title from caption.
+655  7 $a New Zealand newspapers. $2 local $5 Nz
+785 00 $t Daily news (Auckland, N.Z.) $x 1174-8524

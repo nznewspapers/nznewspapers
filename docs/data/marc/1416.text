@@ -1,0 +1,35 @@
+01526cas a2200433 a 4500
+001 995255053502836
+003 Nz
+005 20210401191131.0
+008 d19922d19922010nz znzne      0   a0eng  
+022 0  $a 1171-8730
+035    $z 341550
+035    $a (nzNZBN)7206438 $z (nzNZBN)7231443
+035    $a zbn92092470
+035    $a (NLNZils)525505
+035    $a (nzNZBN)7206438
+035    $z (nzNZBN)7231443
+035    $a (Nz)4932844
+035    $a (NLNZils)525505-ilsdb
+035    $a (OCoLC)173355075
+040    $a NZNB $c NZNB
+042    $a nznb
+043    $a u-nz---
+082 0  $a 380.099305 $2 20
+130 0  $a Independent (Auckland, N.Z.)
+222  0 $a Independent $b (Auckland)
+245 14 $a The independent.
+246 16 $a Independent business weekly $f issue 97, v.3-
+246 13 $a Independent financial review $f 17 May 2006-
+260    $3 1992-<July 2006> $a Auckland [N.Z.] : $b Pauanui Publishing, $c [1992-2010]
+260 2  $3 <July 2006-May 2008> $a [Auckland, N.Z.] : $b Fairfax Media
+260 3  $3 <June 2008>-July 2010 $a [Auckland, N.Z.] : $b Businessday
+300    $a v. : $b ill. (some col.), map, ports. ; $c 40 cm.
+310    $a 48 issues per year
+362 0  $a Vol. 1, issue 1 (Sept. 18, 1992)-v.19, no. 844 (July 19, 2010).
+500    $a Title from masthead.
+500    $a Available from The Independent, P.O. Box 105-192, Auckland Central, N.Z.
+510 2  $a Index New Zealand, $x 0113-6526, $b vol. 1, issue 1 (18 Sept. 1992)-7 Nov. 2001
+650  0 $a Business $v Periodicals.
+655  7 $a New Zealand newspapers. $2 local $5 Nz

@@ -1,10 +1,16 @@
 {
   "stats": {
     "placename": "Arrowtown",
-    "count": 1,
-    "decades": 1
+    "count": 2,
+    "decades": 2
   },
   "papers": [
+    {
+      "id": "3067",
+      "title": "Arrow Observer And Lakes District Chronicle",
+      "firstYear": "1871",
+      "finalYear": "1882"
+    },
     {
       "id": "2556",
       "title": "Lake County Press",

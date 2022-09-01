@@ -1,0 +1,18 @@
+{
+  "id": 3140,
+  "title": "Pacific Islands Trade News",
+  "genre": "Newspaper",
+  "firstYear": "1969",
+  "finalYear": "1974",
+  "district": "Auckland",
+  "frequency": "Weekly",
+  "idMarcControlNumber": "4718647",
+  "isCurrent": false,
+  "placecode": "02-01",
+  "placename": "Auckland",
+  "region": "Auckland",
+  "sources": {
+    "2022-08-31T04:35:51.285Z": "Extracted from the New Zealand National Bibliography (MARC record 4718647) downloaded June 2022."
+  },
+  "revision": 1
+}

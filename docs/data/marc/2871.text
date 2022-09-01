@@ -1,0 +1,44 @@
+02399cas a2200541 a 4500
+001 999332273502836
+003 Nz
+005 20200929100722.0
+008 891222d18711877nz en n       0   a0mao  
+035    $a (nzNZBN)5242294
+035    $a zbn89095097
+035    $a (NLNZils)933227
+035    $a (Nz)3953417
+035    $a (NLNZils)933227-ilsdb
+035    $a (OCoLC)173337848
+040    $a NZNB $c NZNB
+041 0  $a eng $a mao
+042    $a nznb
+043    $a u-nz---
+082 04 $a 079.93 $2 20
+130 0  $a Waka Maori o Niu Tirani (Wellington, N.Z.)
+245 03 $a Te waka Maori o Niu Tirani.
+246 1  $i Also issued as bound vols. entitled: $a Waka Maori
+246 1  $i Title of map supplement: $a Mea apiti ki Te waka Maori
+260    $a Poneke [i.e. Wellington, N.Z.] : $b He mea ta na Tamati Mekenehi i tona Whare Perehi i Po Neke, $c [1871-1877]
+300    $a 6 v. ; $c 35 cm.
+310    $a Biweekly
+362 0  $a Vol. 1 [i.e. 8], no. 1 (Oketopa 24, 1871)-v. 13, no. 13 (Hepetema 18, 1877)
+500    $a Title from masthead.
+500    $a "Ko te tika, ko te pono, ko te aroha."
+500    $a Editors: Donald McLean, James Grindell; v. 8, no. 1 printed by Thomas McKenzie, v. 8, no. 2- printed by George Didsbury, Govt. Printer.
+510 4  $a Williams, $c 463
+510 4  $a Books in Māori, $c S18
+515    $a Continues numbering of its predecessor; page numbering continuous within each vol.
+520    $a "The Maori canoe of New Zealand; government paper published in Wellington"--BIM.
+525    $a Vol. 13 includes 2 supplements, one of which is a map.
+546    $a Text in Māori to v. 9, no. 14, then parallel Māori and English text with occasional exceptions.
+650  0 $a Maori (New Zealand people) $v Newspapers.
+655  7 $a Maori newspapers. $2 local $5 Nz
+655  7 $a New Zealand newspapers. $2 local $5 Nz
+700 1  $a McLean, Donald, $d 1820-1877.
+700 1  $a Grindell, James.
+700 1  $a M'Kenzie, Thomas, $d 1827-1911. $e printer.
+700 1  $a Didsbury, George, $d 1839-1893. $e printer.
+776 08 $i Online version: $t Waka Maori o Niu Tirani $w (Nz)9916619143502836
+780 00 $t Waka Maori o Ahuriri
+785 00 $t Waka Maori o Niu Tirani (Gisborne, N.Z.)
+856 41 $u http://nzdl.org/cgi-bin/library?gg=_cgiarggg_&e=d-00000-00---0niupepa--00-0--0-10-0---0---0prompt-10---4-------0-1l--11-en-50---20-about---00-0-1-00-11-1-0utfZz-8-00&a=d&c=niupepa&cl=CL1.15 $z Series

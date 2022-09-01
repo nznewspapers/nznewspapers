@@ -1,0 +1,28 @@
+01134cas a2200349 a 4500
+001 9917686863502836
+003 Nz
+005 20210510101238.0
+008 900330d19882003nz erzn       0   a0eng  
+022 0  $a 1170-005X $y 0117-005X $2 _g
+035    $a (nzNZBN)5370848
+035    $a zbn90021409
+035    $a (Nz)3561188
+035    $a (NLNZils)1768686-ilsdb
+035    $a (OCoLC)173333798
+040    $a NZNB $c NZNB $d AU
+042    $a nznb
+043    $a u-nz---
+082 04 $a 079.9312 $2 20NZ
+130 0  $a Chronicle (Kerikeri, N.Z.)
+222  0 $a Chronicle $b (Kerikeri)
+245 04 $a The Chronicle.
+260    $a [Kerikeri, N.Z.] : $b The News Ltd., $c [1988]-2003.
+300    $a v. : $b ill., form, ports. ; $c 44 cm.
+362 0  $a Saturday 24th September 1988-Friday 7th Mar. 2003.
+500    $a Title from masthead.
+500    $a "Delivered throughout the Bay of Islands, Whangaroa and Doubtless Bay."
+500    $a Includes advertising.
+651  0 $a Islands, Bay of (N.Z.) $x Periodicals.
+655  7 $a New Zealand newspapers. $2 local $5 Nz
+780 00 $t Bay chronicle (Kerikeri, N.Z.)
+785 00 $t Bay chronicle (Kerikeri, N.Z. : 2003) $x 2463-6800

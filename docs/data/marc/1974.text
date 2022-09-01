@@ -1,0 +1,31 @@
+01326cas a2200385 a 4500
+001 9912283043502836
+003 Nz
+005 20160225122415.0
+008 070212d20072008nz dr ne      0   a0eng  
+035    $a (NLNZils)1228304
+035    $a (eLGAR).b22184879
+035    $a (Nz)11246031
+035    $a (NLNZils)1228304-ilsdb
+035    $a (OCoLC)173325147
+040    $a NZNB $c NZNB
+042    $a nznb
+043    $a u-nz---
+082 04 $a 079.9359 $2 22
+130 0  $a Daily chronicle (Levin, N.Z.)
+245 10 $a Daily chronicle : $b --it's our local.
+260    $a Levin [N.Z. : $b APN News & Media, $c 2007-2008]
+300    $a v. : $b ill. (chiefly col.) ; $c 40 cm.
+310    $a Daily (except Sunday)
+362 1  $a Began with Jan. 29, 2007; ceased with Aug. 30, 2008.
+500    $a Community newspaper.
+500    $a Title from masthead.
+500    $a Wednesday ed. incorporates Horowhenua & Kapiti news.
+500    $a Covers Levin, Foxton, Shannon, Waitarere, Hokio, Ohau, Manakau, Waikawa, Otaki.
+500    $a Final issue consulted.
+651  0 $a Horowhenua District (N.Z.) $v Newspapers.
+651  0 $a Kapiti Coast District (N.Z.) $v Newspapers.
+655  7 $a New Zealand newspapers. $2 local $5 Nz
+780 04 $t Horowhenua-Kapiti chronicle $x 1177-195X
+780 05 $t Horowhenua & Kapiti news
+785 00 $t Chronicle (Levin, N.Z. : 2008)

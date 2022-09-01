@@ -1,0 +1,26 @@
+01039cas a2200325 a 4500
+001 9910170973502836
+003 Nz
+005 20161223154924.0
+008 040805d20042008nz wr n       0    0eng  
+035    $a (NLNZils)1017097
+035    $a (Nz)8705663
+035    $a (NLNZils)1017097-ilsdb
+035    $a (OCoLC)173436977
+040    $a NZNB $c AP $d NZNB
+042    $a nznb
+043    $a u-nz---
+082 04 $a 079.9324 $2 21
+130 0  $a Midweek (Auckland, N.Z.)
+245 10 $a Midweek : $b Bays and Remuera times.
+246 13 $a Bays and Remuera times
+260    $a Auckland [N.Z.] : $b Times Newspapers, $c [2004-2008]
+300    $a v. : $b col. ill. ; $c 43 cm.
+310    $a Weekly
+362 0  $a Vol. 1, no. 1 (Aug. 4, 2004)-v. 5, no. 2 (Feb. 20, 2008)
+500    $a Title from cover.
+500    $a Subtitle varies; subtitle dropped from v. 3, no. 10 (Mar. 22, 2006)
+500    $a Community newspaper.
+651  0 $a Auckland (N.Z.) $v Newspapers.
+655  7 $a New Zealand newspapers. $2 local $5 Nz
+780 00 $t Bays and Remuera times (Auckland, N.Z. : 1994)

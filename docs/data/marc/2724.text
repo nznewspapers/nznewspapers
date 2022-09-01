@@ -1,0 +1,44 @@
+02088cas a2200541 a 4500
+001 999299273502836
+003 Nz
+005 20200916133426.0
+008 040107d18551860nz er n      f0   a0eng  
+035    $a (nzNZBN)3228606
+035    $a zbn89091001
+035    $a (NLNZils)929927
+035    $a (Nz)4883430
+035    $a (NLNZils)929927-ilsdb
+035    $a (OCoLC)173353779
+040    $a NZNB $c NZNB
+041 1  $a eng $a mao
+042    $a nznb
+043    $a u-nz---
+082 04 $a 079.93 $2 20
+130 0  $a Maori messenger (1855)
+245 14 $a The Maori messenger = $b Te karere Maori.
+246 31 $a Karere Maori
+260    $a Auckland [N.Z.] : $b Printed at the Southern Cross for the New Zealand Government, $c [1855-1860]
+300    $a 8 v. : $b ill. ; $c 24-26 cm.
+310    $a Biweekly, $b June 15, 1857-
+321    $a Monthly, $b -May 1857
+362 0  $a Vol. 1, no. 1 (Jan. 1, 1855)-v. II, no. 20 (December 31, 1860)
+500    $a Title from caption.
+500    $a Includes advertising.
+500    $a Editors: C. Davis, D. Burn, W. Buller; v. 2 printed by Williamson & Wilson, v. 3- printed by W.C. Wilson.
+510 4  $a Williams, $c 271
+510 4  $a Williams (suppl.), $c 271
+510 4  $a Books in Māori, $c S5
+515    $a Some issues misnumbered; some issues misdated; some issues combined.
+520    $a "Monthly/fortnightly newspaper published by central government in Auckland"--BIM.
+525    $a Has 2? supplements entitled: The Maori messenger extra = He apiti no te karere Maori.
+650  0 $a Maori (New Zealand people) $v Newspapers.
+655  7 $a Maori newspapers. $2 local $5 Nz
+655  7 $a New Zealand newspapers. $2 local $5 Nz
+700 1  $a Davis, C. O. $q (Charles Oliver), $d 1817-1887.
+700 1  $a Burn, David, $d 1798-1875.
+700 1  $a Buller, Walter Lawry, $c Sir, $d 1838-1906.
+700 1  $a Wilson, W. C. $q (William Chisholm), $d 1810-1876. $e printer.
+710 2  $a Williamson and Wilson. $e printer.
+776 08 $i Online version: $t Maori messenger $w (Nz)9916619323502836
+780 00 $t Maori messenger (1849)
+785 00 $t Manuhiri tuarangi and Maori intelligencer

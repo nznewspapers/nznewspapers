@@ -1,0 +1,46 @@
+01985cas a2200565 a 4500
+001 994802593502836
+003 Nz
+005 20211110161544.0
+008 051109c18779999nz dn|ne      0   a0eng  
+022 0  $a 1170-0769 $y 0117-0769 $2 _g
+035    $a (Sirsi) a830259
+035    $a (Nz-AR)079399
+035    $z 291968
+035    $a (nzNZBN)5123683
+035    $a zbn89077159
+035    $a (NLNZils)480259
+035    $z 480259
+035    $a (Nz)3531186
+035    $a (NLNZils)480259-ilsdb
+035    $a (OCoLC)173333253
+040    $a NZNB $c NZNB
+041 1  $a eng $a mao
+042    $a nznb
+043    $a u-nz---
+082 04 $a 079.93 $2 21
+130 0  $a Northern advocate (Whangarei, N.Z.)
+222  0 $a Northern advocate $b (Whangarei)
+245 04 $a The Northern advocate.
+246 13 $a Northern advocate and general advertiser
+246 13 $a Northern advocate and Whangarei county gazette
+246 13 $i Issue for Māori Language Week has title: $a Māngai ki te Raki
+260    $a Whangarei [N.Z.] : $b Northern Pub., $c 1877-
+300    $a v. : $b ill., map, ports. ; $c 42-59 cm.
+310    $a Daily (except Sunday), $b <June 1902>-
+321    $a Weekly, $b June 1877-<Sept. 1901>
+362 1  $a Began with June 6, 1877.
+500    $a Includes advertising.
+500    $a Publisher varies.
+510 2  $a Index New Zealand, $x 0113-6526, $b Apr. 17, 1990-
+525    $a Has some supplements.
+530    $a Available on microfilm from Microfilm Production Unit, National Library of New Zealand.
+546    $a Chiefly in English; some articles in Māori.
+588    $a Description based on: Aug. 21, 1989; title from masthead.
+588    $a Latest issue consulted: Dec. 13, 2011.
+651  0 $a Northland (N.Z.) $v Newspapers.
+655  7 $a New Zealand newspapers. $2 local $5 Nz
+770 1  $t Rural advocate (Whangarei, N.Z.)
+776 08 $i Online version: $t Northern advocate $x 2744-7715
+780 00 $t Whangarei comet and northern advertiser
+780 05 $t Rural advocate (Whangarei, N.Z.)

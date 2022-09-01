@@ -1,0 +1,39 @@
+01709cas a2200481 a 4500
+001 995614233502836
+003 Nz
+005 20210401180400.0
+008 891215d18611862nz ar n       0   b0mao  
+035    $a (nzNZBN)5242295
+035    $a (Nz)4510592
+035    $a zbn89093635
+035    $a (NLNZils)561423
+035    $a (NLNZils)561423-ilsdb
+035    $a (OCoLC)173343845
+040    $a NZNB $c NZNB
+041 1  $a eng $a mao
+042    $a nznb
+043    $a u-nz---
+082 04 $a 079.93 $2 20
+245 00 $a Aotearoa, or, the Maori recorder.
+246 30 $a Maori recorder
+246 1  $i Title on English section: $a Recorder $f v. 1, no. 2
+246 1  $i Title on Māori section: $a Ko Aotearoa, $f v. 1, no. 2
+246 13 $a Recorder and Aotearoa $f v. 1, no. 2
+246 15 $a Ko Aotearoa, or, the Maori recorder
+246 17 $a Aotearoa - Maori recorder
+260    $a Auckland [N.Z.] : $b Printed at the Aotearoa Office, for the Native People, $c [1861-1862]
+300    $a 2 v. ; $c 22 cm.
+310    $a Annual
+362 0  $a Vol. 1, no. 1 (Jan. 1861)-v. 1, no. 2 (Jan. 1862)
+500    $a Edited by C.O. Davies.
+500    $a Both the Māori section and English section were also issued separately. Cf. BIM.
+510 4  $a Williams, $c 336
+510 4  $a Books in Māori, $c S10
+520    $a "'New Zealand'; annual magazine produced in Auckland"--BIM.
+546    $a English and Māori text.
+588    $a Title from cover.
+650  0 $a Maori (New Zealand people) $v Newspapers.
+655  7 $a Maori newspapers. $2 local $5 Nz
+655  7 $a New Zealand newspapers. $2 local $5 Nz
+700 1  $a Davis, C. O. $q (Charles Oliver), $d 1817-1887.
+776 08 $i Online version: $t Aotearoa, or, the Maori recorder $w (Nz)9917067583502836

@@ -1,0 +1,33 @@
+01485cas a2200409 a 4500
+001 999328963502836
+003 Nz
+005 20210401181149.0
+008 900126d19501990nz mnzne      0   a0eng  
+022 0  $a 1170-1390 $y 0117-1390
+035    $a (NLNZils)932896
+035    $a (nzNZBN)5278357
+035    $a zbn90004810
+035    $a (Nz)3480609
+035    $a (NLNZils)932896-ilsdb
+035    $a (OCoLC)173332732
+040    $a NZNB $c NZNB
+042    $a nznb
+043    $a u-nz---
+082 04 $a 079.9342 $2 20NZ
+130 0  $a Valley news (Lower Hutt, N.Z.)
+222  0 $a Valley news $b (Wainuiomata)
+245 00 $a Valley news.
+260    $a [Wainuiomata, N.Z. : $b Valley News?, $c 1950-1990] $e (Hastings [N.Z.] : $f Hawke's Bay Herald-Tribune),
+300    $a v. : $b ill., ports. ; $c 40 cm.
+310    $a Monthly (except January)
+362 1  $a Began with Feb? 1950? $z Cf. Harvey, D. R. Union list of newspapers ... in New Zealand.
+362 1  $a Ceased Apr. 1990.
+500    $a "Wainuiomata's own newspaper."
+500    $a "Your news, your view, 40 years in print."
+500    $a Includes advertising.
+500    $a No issues published May-June 1975 and Apr.-Aug. 1977.
+500    $a Description based on: Vol. 41 no. 9 (Oct. 1989); title from masthead.
+530    $a Available on microfilm from Microfilm Production Unit, National Library of New Zealand.
+651  0 $a Wainuiomata (Lower Hutt, N.Z.) $x Periodicals.
+655  7 $a New Zealand newspapers. $2 local $5 Nz
+780 00 $t Homedale tatler

@@ -1,0 +1,21 @@
+00755cas a22002651a 4500
+001 999281383502836
+003 Nz
+005 20160321142621.0
+008 031222d19091936nz dr|ne      0   a0eng  
+035    $a (NLNZils)928138
+035    $a (Nz)8138001
+035    $a (NLNZils)928138-ilsdb
+035    $a (OCoLC)173420937
+040    $a NZNB $c NZNB
+042    $a nznb
+043    $a u-nz---
+245 00 $a Dannevirke evening news.
+260    $a [Dannevirke, N.Z. : $b s.n., $c 1909-1936]
+310    $a Daily
+362 0  $a 1909 Oct.16-1936 Dec.1?
+500    $a Incorporates Dannevirke advocate.
+651  0 $a Dannevirke (N.Z.) $v Newspapers.
+655  7 $a New Zealand newspapers. $2 local $5 Nz
+780 00 $t Daily press (Dannevirke, N.Z.)
+785 00 $t Evening news (Dannevirke, N.Z.)

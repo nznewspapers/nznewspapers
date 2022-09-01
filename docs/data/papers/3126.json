@@ -1,0 +1,17 @@
+{
+  "id": 3126,
+  "title": "Photo News",
+  "genre": "Newspaper",
+  "firstYear": "198u",
+  "finalYear": "198u",
+  "district": "Timaru District",
+  "idMarcControlNumber": "8177887",
+  "isCurrent": false,
+  "placecode": "12-08",
+  "placename": "Timaru",
+  "region": "Canterbury",
+  "sources": {
+    "2022-08-31T04:35:45.887Z": "Extracted from the New Zealand National Bibliography (MARC record 8177887) downloaded June 2022."
+  },
+  "revision": 1
+}

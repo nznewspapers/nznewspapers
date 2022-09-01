@@ -7,7 +7,9 @@
     "nzn-import-newspapers": "node data-import/nzn-import-newspapers.js",
     "nzn-import-links": "node data-import/nzn-import-links.js",
     "nzn-import-fields": "node data-import/nzn-import-fields.js",
-    "nzn-nat-bib-updater": "node scripts/nzn-nat-bib-updater.js",
+    "nzn-nat-bib-add": "node scripts/nzn-nat-bib-updater.js add-new-records",
+    "nzn-nat-bib-update": "node scripts/nzn-nat-bib-updater.js update-existing-records",
+    "nzn-nat-bib-report": "node scripts/nzn-nat-bib-updater.js report",
     "nzn-paperspast-updater": "node scripts/nzn-paperspast-updater.js",
     "nzn-summarise": "node scripts/nzn-summarise.js"
   }

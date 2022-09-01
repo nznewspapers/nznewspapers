@@ -1,0 +1,32 @@
+01206cas a2200397 a 4500
+001 999262773502836
+003 Nz
+005 20210401181351.0
+008 900921d19892018nz wrzne      0   a0eng  
+022 0  $a 1170-1684
+035    $a (nzNZBN)5559801
+035    $a (NLNZils)926277
+035    $a zbn90079338
+035    $a (Nz)3678318
+035    $a (NLNZils)926277-ilsdb
+035    $a (OCoLC)173334896
+040    $a NZNB $c NZNB
+042    $a nznb
+043    $a u-nz---
+082 04 $a 079.9352 $2 20NZ
+222  0 $a Ruapehu press
+245 00 $a Ruapehu press.
+246 30 $a Press
+260    $a [Taumarunui, N.Z.] : $b Ruapehu Press, $c 1989-
+260 2  $3 <2015>- $a [Auckland, N.Z. : $b Fairfax Media]
+260 3  $3 <February 2018-> $a [Auckland, N.Z. : $b Stuff Limited]
+300    $a v. : $b ill., map, ports. ; $c 43 cm.
+310    $a Weekly
+362 0  $a Vol., 1, no. 1 (Tuesday Mar. 7 1989)-
+362 1  $a Ceased with May 30, 2018.
+500    $a Title from masthead.
+500    $a Community newspaper.
+651  0 $a Ruapehu District (N.Z.) $v Newspapers.
+651  0 $a King Country (N.Z.) $v Newspapers.
+655  7 $a New Zealand newspapers. $2 local $5 Nz
+776 08 $i Online version: $t Ruapehu press $w (Nz)9917966623502836

@@ -1,0 +1,42 @@
+01757cas a22005171a 4500
+001 999299263502836
+003 Nz
+005 20200916122105.0
+008 040107d18491854nz er|ne      0   a0mao  
+035    $a (nzNZBN)5273115
+035    $a zbn90001392
+035    $a (Nz)3981667
+035    $a (NLNZils)929926
+035    $a (NLNZils)929926-ilsdb
+035    $a (OCoLC)751789141
+040    $a NZNB $c NZNB
+041 0  $a eng $a mao
+042    $a nznb
+043    $a u-nz---
+082 04 $a 079.93 $2 22
+130 0  $a Maori messenger (1849)
+245 00 $a Maori messenger = $b Te karere Maori.
+246 11 $a Karere Maori
+246 11 $a Ko te karere Maori $f vol. 1, no. 2-
+260    $a Auckland [N.Z.] : $b Printed and published by Williamson and Wilson, $c 1849-1854.
+300    $a 6 v. ; $c 46 cm.
+310    $a Fortnightly
+362 0  $a Vol. 1, no. 1 (Jan. 4,1849)-v. 6, no. 140 (4 May, 1854)
+500    $a Title from masthead.
+500    $a Edited by C.O.B. Davis.
+500    $a Includes advertising.
+510 4  $a Williams, $c 194
+510 4  $a Williams (suppl.), $c 194
+510 4  $a Books in Māori, $c S3
+515    $a Issue numbering is continuous; some issues misnumbered.
+520    $a "New Ulster government newspaper published fortnightly in Auckland"--BIM.
+525    $a Vol. 4, no. 103 has a supplement.
+546    $a Parallel English and Māori text.
+650  0 $a Maori (New Zealand people) $v Newspapers.
+655  7 $a Maori newspapers. $2 local $5 Nz
+655  7 $a New Zealand newspapers. $2 local $5 Nz
+700 1  $a Davis, C. O. $q (Charles Oliver), $d 1817-1887.
+710 2  $a Williamson and Wilson. $e printer.
+776 08 $i Online version: $t Maori messenger $w (Nz)9916619283502836
+780 00 $t Karere o Nui Tireni
+785 00 $t Maori messenger (1855)

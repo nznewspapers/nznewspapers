@@ -1,0 +1,39 @@
+02231cas a2200481 a 4500
+001 9913313353502836
+003 Nz
+005 20210226105833.0
+006 m        d        
+007 cr#cn#|||a||||
+008 090428d19802021nz cr|n s     0   a0eng  
+022 0  $a 1175-6934 $2 _g
+035    $a (NLNZils)1331335
+035    $a (Nz)12885059
+035    $a (NLNZils)1331335-ilsdb
+035    $a (OCoLC)1240427661
+040    $a NZNB $c NZNB
+042    $a nznb
+043    $a u-nz---
+082 04 $a 079.933 $2 22
+130 0  $a Waitomo news (Online)
+210 1  $a Waitomo news $b (Online)
+222  0 $a Waitomo news $b (Online)
+245 10 $a Waitomo news $h [electronic resource].
+246 1  $i Also known as: $a The Meadsville mirror $f Aug. 30, 2011-Oct., 2011
+260    $a [Te Kuiti, N.Z.] : $b Waitomo News, $c -2021.
+300    $a electronic documents : $b ill., PDF files.
+310    $a Semiweekly
+347    $3 National Library of New Zealand archived copy $a text file $b PDF
+362 1  $a Print began with Dec. 2, 1980; ceased with Jan. 28, 2021.
+500    $a Archived by the National Library of New Zealand in PDF. $5 Nz
+500    $a Some issues accompanied by other Waitomo news publications, including North King Country farmer.
+500    $a Hypertext links contained in the archived instances of this title are non-functional. $5 Nz
+520    $a Community newspaper for the Northern King Country, emphasising local news, people and events. Issues available in full-text.
+538    $a Mode of access: World Wide Web.
+588    $a Description based on: Nov. 4, 2008; title from PDF masthead (viewed on May 1, 2009).
+588    $a Latest issue consulted: Jan. 28, 2021 (viewed on February 26, 2021).
+651  0 $a King Country (N.Z.) $v Newspapers.
+655  7 $a New Zealand newspapers. $2 local $5 Nz
+776 08 $i Print version: $t Waitomo news $x 1170-1137
+785 00 $t King Country news (Te Kuiti, N.Z.) $x 2744-502X
+856 40 $u https://waitomonews.partica.online/waitomo-news/
+856 40 $u https://natlib-primo.hosted.exlibrisgroup.com/primo-explore/fulldisplay?docid=NLNZ_ALMA11271362070002836&context=L&vid=NLNZ&search_scope=NLNZ&tab=catalogue&lang=en_US $z Archived copy available at the National Library of New Zealand $x Open Access

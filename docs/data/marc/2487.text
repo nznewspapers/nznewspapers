@@ -1,0 +1,32 @@
+01249cas a2200397 a 4500
+001 9911536123502836
+003 Nz
+005 20161223160948.0
+008 050919d20052006nz wr n       0   a0eng  
+035    $a (Nz)10487328
+035    $a (NLNZils)1153612
+035    $a (NLNZils)1153612-ilsdb
+035    $a (OCoLC)173321708
+040    $a NZNB $c NZNB
+042    $a nznb
+043    $a u-nz---
+082 04 $a 079.9383 $2 22
+130 0  $a Star community (Southern)
+245 04 $a The star community.
+250    $a Southern.
+260    $a Christchurch [N.Z.] : $b Star, a division of APN New Zealand, $c [2005]-2006.
+300    $a v. : $b ill. ; $c 40 cm.
+310    $a Weekly
+362 0  $a Sept. 12, 2005-May 8, 2006.
+500    $a Title from masthead.
+500    $a "At home in Canterbury"--Masthead.
+500    $a Community newspaper.
+580    $a Formed by the union of: Shore news, and Observer.
+651  0 $a Christchurch (N.Z.) $v Periodicals.
+655  7 $a New Zealand newspapers. $2 local $5 Nz
+775 0  $t Star community (Western)
+775 0  $t Star community (Eastern)
+775 0  $t Star community (Northern)
+780 04 $t Shore news (Christchurch, N.Z.)
+780 04 $t Observer (Christchurch, N.Z. : 1996)
+785 00 $t Star community news (Southern)

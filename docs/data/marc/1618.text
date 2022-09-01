@@ -1,0 +1,24 @@
+01043cas a2200301 a 4500
+001 999294913502836
+003 Nz
+005 20200909100209.0
+008 990929d19061980nz cr|ne      0   b0eng  
+035    $a 58898
+035    $a (NLNZils)929491
+035    $a fin00003956
+035    $a (Nz)5095865
+035    $a (NLNZils)929491-ilsdb
+035    $a (OCoLC)946808908
+040    $a NZNB $c NZNB
+042    $a nznb
+043    $a u-nz---
+082 04 $a 079.9319 $2 20NZ
+245 00 $a King Country chronicle.
+260    $a Te Kuiti [N.Z.] : $b Norman Cory Matthew and Arthur Kenrick Hayward, $c [1906-1980]
+300    $a v. ; $c 53 cm.
+310    $a Semiweekly
+362 0  $a Vol. 1, No. 1 (Friday, October 26, 1906)-28 Nov. 1980.
+500    $a Frequency weekly, 2 no. a week by 1908 Nov.26, 3 no. a week by 1918 Nov.2, 2 no. a week by 1944 Jan.11. Merged with Otorohanga times, to form Waitomo news.
+651  0 $a Waikato (N.Z.) $v Newspapers.
+655  7 $a New Zealand newspapers. $2 local $5 Nz
+776 08 $i Online version: $t King Country chronicle $w (Nz)9915985513502836

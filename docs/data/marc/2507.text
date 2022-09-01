@@ -1,0 +1,26 @@
+01054cas a2200325 a 4500
+001 9911417233502836
+003 Nz
+005 20191111115347.0
+008 031223d18781879nz dr|ne      0   a0eng  
+035    $a (NLNZils)1141723
+035    $a (Nz)8141718
+035    $a (NLNZils)1141723-ilsdb
+035    $a (OCoLC)173421131
+040    $a NZNB $c NZNB
+042    $a nznb
+043    $a u-nz---
+082 04 $a 079.9386 $2 22
+130 0  $a Evening echo (Ashburton, N.Z.)
+245 14 $a The evening echo.
+246 13 $a Ashburton evening echo
+260    $a Ashburton [N.Z.] : $b Smith James Furness and Charles Dixon
+300    $a v. ; $c 42 cm.
+310    $a Daily
+362 1  $a Began with vol. 1, no. 1 (Mar. 11, 1878); ceased with Feb. 21, 1879.
+588    $a Description based on;  vol. 1, no. 3 (Mar. 13, 1878)
+588    $a Latest issue consulted:  vol. 1, no. 6 (Mar. 16, 1878)
+651  0 $a Ashburton (N.Z.) $v Newspapers.
+655  7 $a New Zealand newspapers. $2 local $5 Nz
+785 00 $t Ashburton herald
+776 08 $i Online version: $t Evening echo $w (Nz)9918199638202836

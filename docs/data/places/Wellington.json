@@ -1,8 +1,8 @@
 {
   "stats": {
     "placename": "Wellington",
-    "count": 136,
-    "decades": 19
+    "count": 142,
+    "decades": 18
   },
   "papers": [
     {
@@ -171,6 +171,12 @@
       "finalYear": "1uuu"
     },
     {
+      "id": "3064",
+      "title": "Argus And Newtown Chronicle",
+      "firstYear": "1894",
+      "finalYear": "uuuu"
+    },
+    {
       "id": "2120",
       "title": "People",
       "firstYear": "1895",
@@ -293,6 +299,12 @@
       "title": "Platt's Weekly",
       "firstYear": "1921",
       "finalYear": "uuuu"
+    },
+    {
+      "id": "3054",
+      "title": "New Zealand Free Lance",
+      "firstYear": "1923",
+      "finalYear": "1960"
     },
     {
       "id": "2140",
@@ -439,6 +451,12 @@
       "finalYear": "1972"
     },
     {
+      "id": "3040",
+      "title": "Sunday News",
+      "firstYear": "1963",
+      "finalYear": "9999"
+    },
+    {
       "id": "2164",
       "title": "The N.Z. Sunday Times",
       "firstYear": "1965",
@@ -516,6 +534,12 @@
       "title": "Onslow Johnsonville News",
       "firstYear": "1973",
       "finalYear": "1976"
+    },
+    {
+      "id": "3097",
+      "title": "The New Zealand Chronicle",
+      "firstYear": "1975",
+      "finalYear": "9999"
     },
     {
       "id": "2176",
@@ -686,10 +710,28 @@
       "finalYear": "2003"
     },
     {
+      "id": "3104",
+      "title": "Wairarapa News",
+      "firstYear": "1994",
+      "finalYear": "2018"
+    },
+    {
+      "id": "3148",
+      "title": "Cook Strait News",
+      "firstYear": "1994",
+      "finalYear": "2006"
+    },
+    {
       "id": "2893",
       "title": "Petone and Harbour Ward Herald",
       "firstYear": "1996",
       "finalYear": "9999"
+    },
+    {
+      "id": "2897",
+      "title": "Newlands/Paparangi Post",
+      "firstYear": "1996",
+      "finalYear": "2001"
     },
     {
       "id": "2895",
@@ -714,12 +756,6 @@
       "title": "Wellingtonian",
       "firstYear": "199u",
       "finalYear": "9999"
-    },
-    {
-      "id": "2897",
-      "title": "Newlands/Paparangi Post",
-      "firstYear": "19uu",
-      "finalYear": "2001"
     },
     {
       "id": "2204",

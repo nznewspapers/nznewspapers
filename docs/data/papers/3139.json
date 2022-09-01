@@ -1,0 +1,35 @@
+{
+  "id": 3139,
+  "title": "News",
+  "genre": "Newspaper",
+  "firstYear": "1999",
+  "finalYear": "2017",
+  "district": "Central Otago District",
+  "frequency": "Weekly",
+  "idMarcControlNumber": "8128766",
+  "isCurrent": false,
+  "placecode": "13-02",
+  "placename": "Alexandra",
+  "region": "Otago",
+  "links": {
+    "unknown-1": {
+      "direction": "Preceding",
+      "relationship": "Continues",
+      "target-description": "Central Otago news"
+    },
+    "unknown-2": {
+      "direction": "Succeeding",
+      "relationship": "Split",
+      "target-description": "News (Central Otago, N.Z.)."
+    },
+    "unknown-3": {
+      "direction": "Succeeding",
+      "relationship": "Split",
+      "target-description": "News (Wanaka, N.Z.)."
+    }
+  },
+  "sources": {
+    "2022-08-31T04:35:50.047Z": "Extracted from the New Zealand National Bibliography (MARC record 8128766) downloaded June 2022."
+  },
+  "revision": 1
+}

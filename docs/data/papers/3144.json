@@ -1,0 +1,25 @@
+{
+  "id": 3144,
+  "title": "The Akaroa Mail And Banks Peninsula Advertiser",
+  "genre": "Newspaper",
+  "firstYear": "1876",
+  "finalYear": "19uu",
+  "district": "Christchurch City",
+  "frequency": "Two issues a week",
+  "idMarcControlNumber": "12703058",
+  "isCurrent": false,
+  "placecode": "12-05",
+  "placename": "Akaroa",
+  "region": "Canterbury",
+  "links": {
+    "unknown-1": {
+      "direction": "Succeeding",
+      "relationship": "Continued by",
+      "target-description": "Akaroa mail"
+    }
+  },
+  "sources": {
+    "2022-08-31T04:35:52.289Z": "Extracted from the New Zealand National Bibliography (MARC record 12703058) downloaded June 2022."
+  },
+  "revision": 1
+}

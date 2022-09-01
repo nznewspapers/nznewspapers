@@ -2,7 +2,7 @@
   "id": 1270,
   "title": "Post",
   "genre": "Newspaper",
-  "firstYear": "200u",
+  "firstYear": "2006",
   "finalYear": "9999",
   "district": "Auckland",
   "frequency": "Weekly",
@@ -21,8 +21,9 @@
     }
   },
   "sources": {
-    "2013-04-02T08:58:38.000Z": "Extracted from the New Zealand National Bibliography (MARC record 10752982) downloaded March 2013.",
-    "2014-05-07T09:46:11.000Z": "Modified by DataBot"
+    "2022-07-18T04:38:31.878Z": "Date updated from the New Zealand National Bibliography (MARC record 10752982) downloaded June 2022.",
+    "2014-05-07T09:46:11.000Z": "Modified by DataBot",
+    "2013-04-02T08:58:38.000Z": "Extracted from the New Zealand National Bibliography (MARC record 10752982) downloaded March 2013."
   },
-  "revision": 7
+  "revision": 8
 }

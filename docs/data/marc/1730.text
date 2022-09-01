@@ -1,0 +1,35 @@
+01590cas a2200433 a 4500
+001 999267873502836
+003 Nz
+005 20220209081148.0
+008 891110c19219999nz cr|ne      0   a0eng  
+022 0  $a 1170-0971 $y 0117-0971 $2 _g
+035    $a (nzNZBN)5168670
+035    $a (NLNZils)926787
+035    $a zbn89076666
+035    $a (Nz)3531231
+035    $a (NLNZils)926787-ilsdb
+035    $a (OCoLC)173333292
+040    $a NZNB $c NZNB
+042    $a nznb
+043    $a u-nz---
+082 04 $a 079.9317 $2 20NZ
+210 1  $a Wairoa star
+222  0 $a Wairoa star
+245 00 $a Wairoa star.
+246 1  $i Issues from April 2, 2019-February 1, 2022 have parallel title: $a Whetu Wairoa
+246 1  $i Issues from February 3, 2022 have parallel title: $a Whetu o te Wairoa
+246 30 $a Star
+260    $a Wairoa [N.Z.] : $b Wairoa Star, $c 1921-
+300    $a v. : $b ill., form, ports. (some col.) ; $c 42 cm.
+310    $a Semiweekly $b Apr. 6 1982-
+321    $a Three times a week $b July 6 1922
+362 1  $a Began with Sept. 23, 1921. $z Cf. Harvey, D. R. Union list of newspapers ... in New Zealand.
+500    $a Community newspaper.
+500    $a Includes advertising
+500    $a Description based on: Vol. 68, no. 98 (Tuesday Sept. 5 1989); title from masthead.
+500    $a Available from Wairoa Star, P.O. Box 41, Wairoa, N.Z.
+530    $a Available on microfilm from Microfilm Production Unit, National Library of New Zealand.
+651  0 $a Wairoa (N.Z.) $v Periodicals.
+655  7 $a New Zealand newspapers. $2 local $5 Nz
+776 0  $i Online version: $t Wairoa star (Online) $x 2324-1802

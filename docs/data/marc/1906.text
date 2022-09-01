@@ -1,0 +1,24 @@
+00932cas a22003011a 4500
+001 999298613502836
+003 Nz
+005 20200909134714.0
+008 040106d18801886nz dr|ne      0   a0eng  
+035    $a (NLNZils)929861
+035    $a (Nz)8164684
+035    $a (NLNZils)929861-ilsdb
+035    $a (OCoLC)946808917
+040    $a NZNB $c NZNB
+042    $a nznb
+043    $a u-nz---
+082 04 $a 079.935 $2 22
+130 0  $a Manawatu standard (1880)
+245 10 $a Manawatu standard.
+260    $a [Palmerston North, N.Z. : $b A. McMinn, $c -1886]
+300    $a v. ; $c 59-66 cm.
+310    $a Daily
+362 1  $a Began with Nov. 29, 1880; ceased with vol. 11, no. 1698 (May 3, 1886).
+651  0 $a Manawatu District (N.Z.) $v Newspapers.
+651  0 $a Palmerston North (N.Z.) $v Newspapers.
+655  7 $a New Zealand newspapers. $2 local $5 Nz
+785 00 $t Manawatu daily standard
+776 08 $i Online version: $t Manawatu standard $w (Nz)9914704163502836

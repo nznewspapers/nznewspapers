@@ -1,0 +1,32 @@
+01188cas a2200397 a 4500
+001 997144763502836
+003 Nz
+005 20161223150108.0
+008 020404d20012013nz wr ne |    0   a0eng  
+035    $a (NLNZils)714476
+035    $a (Nz)6830304
+035    $a (NLNZils)714476-ilsdb
+035    $a (OCoLC)173397481
+040    $a NZNB $c NZNB
+042    $a nznb
+043    $a u-nz---
+082 04 $a 079.937605 $2 21
+130 0  $a Leader (Richmond-Waimea ed.)
+245 14 $a The leader.
+246 17 $a Leader, Richmond-Waimea edition
+250    $a Richmond-Waimea ed.
+260    $a [Nelson, N.Z. : $b The Leader?, $c 2001-2013]
+300    $a v. : $b ill. ; $c 40 cm.
+310    $a Weekly
+362 0  $a June 21, 2001-
+362 1  $a Ceased with June 27, 2013.
+500    $a Community newspaper.
+500    $a Title from masthead.
+500    $a At head of title: Richmond-Waimea edition.
+588    $a Latest issue consulted: June 27, 2013.
+651  0 $a Richmond (N.Z.) $v Periodicals.
+651  0 $a Waimea County (N.Z.) $v Periodicals.
+655  7 $a New Zealand newspapers. $2 local $5 Nz
+785 07 $t Motueka-Golden Bay news
+785 07 $t Leader (Tasman edition)
+787 0  $t Leader (Nelson, N.Z.)

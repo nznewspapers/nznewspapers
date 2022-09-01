@@ -1,0 +1,18 @@
+{
+  "id": 3131,
+  "title": "Newslink",
+  "genre": "Newspaper",
+  "firstYear": "1990",
+  "finalYear": "2018",
+  "district": "Auckland",
+  "frequency": "Weekly",
+  "idMarcControlNumber": "8130422",
+  "isCurrent": false,
+  "placecode": "02-01",
+  "placename": "Auckland",
+  "region": "Auckland",
+  "sources": {
+    "2022-08-31T04:35:47.351Z": "Extracted from the New Zealand National Bibliography (MARC record 8130422) downloaded June 2022."
+  },
+  "revision": 1
+}

@@ -1,0 +1,29 @@
+01111cas a2200361 a 4500
+001 999299603502836
+003 Nz
+005 20201007112310.0
+008 891215d19031906nz wr n       0   a0mao  
+035    $a (nzNZBN)3799525
+035    $a zbn89093851
+035    $a (Nz)4671729
+035    $a (NLNZils)929960
+035    $a (NLNZils)929960-ilsdb
+035    $a (OCoLC)173346623
+040    $a NZNB $c NZNB
+042    $a nznb
+043    $a u-nz---
+082 04 $a 079.93 $2 20
+245 00 $a Matuhi = $b Wairarapa Matuhi Press.
+246 31 $a Wairarapa Matuhi press
+246 17 $a Matuhi press
+260    $a Masterton, N.Z. : $b Matuhi Press, $c 1903-1906 $e (Masterton : $f E. Darley)
+300    $a 3 v. ; $c 25 cm.
+310    $a Weekly
+362 0  $a Vol. 1, no. 1 (Hepetema 2, 1903)-v. 3, no. 126 (Aperira 16, 1906).
+500    $a Title from masthead.
+500    $a Imprint varies.
+515    $a No. 105 omitted in numbering.
+650  0 $a Maori (New Zealand people) $v Newspapers.
+655  7 $a Maori newspapers. $2 local $5 Nz
+655  7 $a New Zealand newspapers. $2 local $5 Nz
+776 08 $i Online version: $t Matuhi $w (Nz)9917784733502836

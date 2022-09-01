@@ -1,0 +1,30 @@
+{
+  "id": 3146,
+  "title": "The Gazette",
+  "genre": "Newspaper",
+  "firstYear": "1967",
+  "finalYear": "1970",
+  "district": "Auckland",
+  "frequency": "Weekly",
+  "idMarcControlNumber": "13396691",
+  "isCurrent": false,
+  "placecode": "02-01",
+  "placename": "Auckland",
+  "region": "Auckland",
+  "links": {
+    "unknown-1": {
+      "direction": "Preceding",
+      "relationship": "Continues",
+      "target-description": "Manurewa gazette."
+    },
+    "unknown-2": {
+      "direction": "Succeeding",
+      "relationship": "Continued by",
+      "target-description": "South Auckland gazette."
+    }
+  },
+  "sources": {
+    "2022-08-31T04:35:52.599Z": "Extracted from the New Zealand National Bibliography (MARC record 13396691) downloaded June 2022."
+  },
+  "revision": 1
+}

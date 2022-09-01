@@ -1,0 +1,40 @@
+02064cas a2200493 a 4500
+001 9911535993502836
+003 Nz
+005 20210212090442.0
+008 050919c20059999nz cr|ne      0   a0eng  
+035    $a (Nz)10324246
+035    $a (NLNZils)1153599
+035    $a (NLNZils)1153599-ilsdb
+035    $a (OCoLC)173321707
+040    $a NZNB $c NZNB
+042    $a nznb
+043    $a u-nz---
+082 04 $a 079.9383 $2 22
+130 0  $a Star (Christchurch, N.Z. : 2005)
+245 04 $a The star.
+246 1  $i Subtitle on Wednesday ed.: $a Midweek
+246 1  $i Subtitle on Friday ed.: $a Weekend
+246 13 $a Star midweek
+246 13 $a Star weekend
+260    $3 Sept. 2005-May 17, 2013 : $a Christchurch [N.Z.] : $b Star, a division of APN New Zealand, $c [2005]-
+260    $3 May 22, 2013-<Aug. 2013?> : $a Christchurch [N.Z.] : $b Mainland Media.
+260    $3 <Sept.  2013>-Feb. 13, 2015 : $a Christchurch [N.Z.] : $b Christchurch Star Company
+264 31 $3 Feb. 18, 2015- $a Christchurch : $b Star Media
+300    $a v. : $b ill. ; $c 58 cm.
+310    $a Weekly, $b Wednesday Feb. 24, 2016-
+321    $a Semiweekly, each Wednesday and Friday, $b -Friday Feb. 19, 2016.
+362 0  $a Wednesday Sept. 14, 2005-
+500    $a Title from masthead.
+500    $a "At home in Canterbury"--Masthead.
+500    $a Issues from May 21, 2020 issued in four editions, each issued with a different community newspaper included and containing the relevant community newspaper title in the masthead.
+588    $a Latest issue consulted: Wednesday August 12, 2015.
+651  0 $a Christchurch (N.Z.) $v Newspapers.
+655  7 $a New Zealand newspapers. $2 local $5 Nz
+776 0  $i Online version: $t Star (Christchurch, N.Z. : 2005 : Online) $w (Nz)9915742323502836
+777 0  $i Issued with: $a Nor'west news (Christchurch, N.Z. : 2013)
+777 0  $i Issued with: $a Pegasus post (Christchurch, N.Z.)
+777 0  $i Issued with: $a Southern view (2013)
+777 0  $i Issued with: $a Western news (Christchurch, N.Z.)
+780 00 $t Christchurch star (1988)
+785 05 $t Forward 50 $x 2324-3805 $g 2017-

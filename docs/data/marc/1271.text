@@ -1,0 +1,24 @@
+00940cas a2200301 a 4500
+001 9913121633502836
+003 Nz
+005 20180820171722.0
+008 081113d200u2018nz wr|n       0   a0eng  
+035    $a (NLNZils)1312163
+035    $a (Nz)12691194
+035    $a (NLNZils)1312163-ilsdb
+035    $a (OCoLC)276989677
+040    $a NZNB $c NZNB
+042    $a nznb
+043    $a u-nz---
+082 04 $a 079.9324 $2 22
+245 00 $a Waiheke marketplace.
+260    $a Ostend [Waiheke Island, N.Z.] : $b Fairfax Media
+260 3  $3 <February 2018-> $a [Auckland, N.Z. : $b Stuff Limited]
+300    $a v. : $b col. ill. ; $c 41 cm.
+310    $a Weekly
+362 1  $a Ceased with May 30, 2018.
+500    $a Community newspaper.
+500    $a Description based on: Vol. #11/27 (5 Nov. 2008)
+651  0 $a Waiheke Island (N.Z.) $v Newspapers.
+655  7 $a New Zealand newspapers. $2 local $5 Nz
+776 08 $i Online version: $t Waiheke marketplace $w (Nz)9917975423502836

@@ -1,0 +1,30 @@
+01093cas a2200373 a 4500
+001 994622103502836
+003 Nz
+005 20161223135925.0
+008 000207c19989999nz wr|n       0   e0chi  
+022 0  $a 1176-8924 $2 _g
+035    $z 690403
+035    $a (Nz)5500353
+035    $a (NLNZils)462210
+035    $a (NLNZils)462210-ilsdb
+035    $a (OCoLC)173374932
+040    $a NZNB $c NZNB
+041    $a chi $a eng
+042    $a nznb
+043    $a u-nz---
+082 04 $a 305.895109305 $2 21
+210 1  $a Xiang yin
+222  0 $a Xiang yin
+245 00 $a Xiang yin = $b Home voice : Chinese weekly news.
+246 11 $a Home voice
+260    $a Wellington [N.Z. : $b Kevin Zeng]
+300    $a v. ; $c 30 cm.
+310    $a Weekly
+362 1  $a Began on 1st Oct. 1998.
+546    $a Text in Chinese with some English.
+588    $a Description based on: Issue no. 64 (28/1/2000); title from caption.
+588    $a Latest issue consulted: Issue 682 (22/6/2012)
+650  0 $a Chinese $z New Zealand $v Newspapers.
+655  7 $a New Zealand newspapers. $2 local $5 Nz
+655  7 $a Chinese newspapers. $2 local $5 Nz

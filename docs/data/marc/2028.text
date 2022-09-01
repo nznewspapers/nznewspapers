@@ -1,0 +1,23 @@
+01004cas a2200289 a 4500
+001 999328923502836
+003 Nz
+005 20200807135717.0
+008 040114d19351939nz wr|ne      0   a0eng  
+035    $a (NLNZils)932892
+035    $a (Nz)8184383
+035    $a (NLNZils)932892-ilsdb
+035    $a (OCoLC)946808669
+040    $a NZNB $c NZNB
+042    $a nznb
+043    $a u-nz---
+082 04 $a 079.9365 $2 23
+245 00 $a Upper Hutt weekly review.
+260    $a Wellington [N.Z.] : $b Harold W. Tolan for the Tolan Printing Co., $c 1935-1939.
+300    $a 4 v. : $b ill. ; $c 32 cm.
+310    $a Weekly
+362 1  $a Began with vol. 1, no. 1 (Dec. 11th, 1935); ceased with vol. 4, no. 7 (Feb. 17th, 1939)
+588    $a Description based on: vol. 1, no. 1 (Dec. 11th, 1935)
+588    $a Latest issue consulted: vol. 4, no. 7 (Feb. 17th, 1939)
+651  0 $a Upper Hutt (N.Z.) $v Newspapers.
+655  7 $a New Zealand newspapers. $2 local $5 Nz
+776 08 $i Online version: $t Upper Hutt weekly review $w (Nz)9915743853502836

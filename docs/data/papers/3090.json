@@ -1,0 +1,24 @@
+{
+  "id": 3090,
+  "title": "Waiuku Advocate And Franklin County Chronicle",
+  "genre": "Newspaper",
+  "firstYear": "1914",
+  "finalYear": "191u",
+  "district": "Auckland",
+  "idMarcControlNumber": "14637769",
+  "isCurrent": false,
+  "placecode": "02-01",
+  "placename": "Waiuku",
+  "region": "Auckland",
+  "links": {
+    "unknown-1": {
+      "direction": "Succeeding",
+      "relationship": "Continued by",
+      "target-description": "Waiuku News and Franklin County Gazette."
+    }
+  },
+  "sources": {
+    "2022-08-31T04:35:36.996Z": "Extracted from the New Zealand National Bibliography (MARC record 14637769) downloaded June 2022."
+  },
+  "revision": 1
+}

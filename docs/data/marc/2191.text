@@ -1,0 +1,36 @@
+01482cas a2200445 a 4500
+001 999267353502836
+003 Nz
+005 20210401181339.0
+008 900115c19879999nz wr|ne      0   a0eng  
+022 0  $a 1170-0947 $y 0117-0947
+035    $a (nzNZBN)5264619
+035    $a (NLNZils)926735
+035    $a zbn90001538
+035    $a (Nz)3534512
+035    $a (NLNZils)926735-ilsdb
+035    $a (OCoLC)173333341
+040    $a NZNB $c NZNB
+042    $a nznb
+043    $a u-nz---
+082 04 $a 079.9342 $2 20NZ
+130 0  $a Upper Hutt leader (1987)
+222  0 $a Upper Hutt leader
+245 10 $a Upper Hutt leader.
+246 37 $a Leader
+260    $a Wellington [N.Z.] : $b Inprint,
+260 2  $3 <2015>- $a [Auckland, N.Z. : $b Fairfax Media]
+260 3  $3 <February 2018-> $a [Auckland, N.Z. : $b Stuff Limited]
+300    $a v. : $b ill. (some col.), map, ports. ; $c 43 cm.
+310    $a Weekly
+362 1  $a Began with 1st Oct. 1987.
+500    $a Community newspaper.
+500    $a Includes advertising.
+500    $a Description based on: Tuesday, Aug. 29, 1989; title from masthead.
+530    $a Available on microfilm from Microfilm Production Unit, National Library of New Zealand.
+651  0 $a Upper Hutt (N.Z.) $v Newspapers.
+655  7 $a New Zealand newspapers. $2 local $5 Nz
+776 08 $i Online version: $t Upper Hutt leader $w (Nz)9917962273502836
+780 00 $t Leader (Upper Hutt, N.Z.)
+787 1  $t Valley weekender $x 1172-9422
+787 1  $t Summer in the valley $x 1172-9430

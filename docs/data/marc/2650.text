@@ -1,0 +1,30 @@
+01112cas a2200373 a 4500
+001 999318983502836
+003 Nz
+005 20210401181349.0
+008 930910d19931995nz wrgne      0   a0eng  
+022 0  $a 1172-6563
+035    $a (nzNZBN)8024371
+035    $a zbn93089064
+035    $a (Nz)4275494
+035    $a (NLNZils)931898
+035    $a (NLNZils)931898-ilsdb
+035    $a (OCoLC)173341340
+040    $a NZNB $c NZNB
+042    $a nznb
+043    $a u-nz---
+082 04 $a 079.9393 $2 20
+130 0  $a Southern gazette (Balclutha, N.Z.)
+210 0  $a South. gaz. $b (Balclutha)
+222  0 $a Southern gazette $b (Balclutha)
+245 10 $a Southern gazette.
+260    $a Balclutha [N.Z.] : $b South Otago Newspapers, $c [1993-1995]
+300    $a v. : $b ill., ports. ; $c 42 cm.
+362 1  $a Ceased with 21 Dec. 1995.
+362 0  $a No. 1 (Thursday  Aug. 19, 1993)-
+500    $a "Voice of Clutha District."
+500    $a Community newspaper.
+500    $a Title from caption.
+651  0 $a Clutha District (N.Z.) $v Newspapers.
+655  7 $a New Zealand newspapers. $2 local $5 Nz
+780 05 $t Milton gazette $x 1170-0742

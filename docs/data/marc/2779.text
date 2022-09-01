@@ -1,0 +1,30 @@
+01128cas a2200373 a 4500
+001 999279123502836
+003 Nz
+005 20210401181236.0
+008 920922d19911993nz erzne |    0   a0eng  
+022 0  $a 1171-8633
+035    $a (nzNZBN)7205381
+035    $a (NLNZils)927912
+035    $a zbn92089400
+035    $a (Nz)4080253
+035    $a (NLNZils)927912-ilsdb
+035    $a (OCoLC)173339237
+040    $a NZNB $c NZNB
+042    $a nznb
+043    $a u-nz---
+082 04 $a 079.933 $2 22
+222  0 $a Community tatler
+245 04 $a The community tatler.
+246 37 $a Tatler
+260    $a [Te Kauwhata, N.Z. : $b Community Tatler, $c 1991-1993]
+300    $a v. : $b ill. ; $c 29 cm.
+310    $a Biweekly
+362 1  $a Began with 12 Sept. 1991; ceased with 11 Mar. 1993.
+500    $a Community newspaper.
+500    $a Description based on: Vol. 138 (Thursday Mar.12th, 1992); title from masthead.
+500    $a Available from Community tatler, P.O Box 36, Te Kauwhata, N.Z.
+651  0 $a Waikato (N.Z.) $v Newspapers.
+655  7 $a New Zealand newspapers. $2 local $5 Nz
+780 00 $t Te Kauwhata tatler
+785 00 $t New tatler

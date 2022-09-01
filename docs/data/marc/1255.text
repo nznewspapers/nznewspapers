@@ -1,0 +1,26 @@
+01030cas a2200325 a 4500
+001 999897753502836
+003 Nz
+005 20201208143654.0
+008 040609c20049999nz er ne |    0   a0eng  
+035    $a (NLNZils)989775
+035    $a (Nz)8511625
+035    $a (NLNZils)989775-ilsdb
+035    $a (OCoLC)173428954
+040    $a NZNB $c AP $d NZNB
+042    $a nznb
+043    $a u-nz---
+082 04 $a 079.932 $2 22
+245 00 $a Nor-west news : $b your place, your paper.
+260    $a Kumeu [N.Z.] : $b Suburban Newspapers Auckland, $c [2004]-
+260 2  $3 <2015>- $a [Auckland, N.Z. : $b Fairfax Media]
+260 3  $3 <February 2018-> $a [Auckland, N.Z. : $b Stuff Limited]
+300    $a v. : $b ill. (some col.) ; $c 41 cm.
+310    $a Bi-weekly
+362 0  $a June 3, 2004-
+500    $a Title from caption.
+500    $a Community newspaper.
+651  0 $a Auckland (N.Z.) $v Newspapers.
+655  7 $a New Zealand newspapers. $2 local $5 Nz
+776 08 $i Online version: $t Nor-west news $w (Nz)9917962043502836
+780 00 $t Nor'west newsbrief $x 1170-0823

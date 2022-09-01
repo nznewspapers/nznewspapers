@@ -1,0 +1,31 @@
+01365cas a2200385 i 4500
+001 9912531523502836
+003 Nz
+005 20161223162656.0
+008 070810c20079999nz wr ne      0   a0eng  
+035    $a (NLNZils)1253152
+035    $a (Nz)11498401
+035    $a (NLNZils)1253152-ilsdb
+035    $a (OCoLC)174099842
+040    $a NZNB $c NZNB
+042    $a nznb
+043    $a u-nz---
+082 04 $a 079.938505 $2 22
+245 00 $a Selwyn times.
+260    $3 Aug. 7, 2007-May 14, 2013: $a [Rolleston, N.Z. : $b Selwyn Times, $c 2007]-
+260 2  $3 May 21, 2013-<Sept. 2, 2013> : $a Christchurch [N.Z.] : $b [Mainland Media]
+260 2  $3 <Sept. 16, 2013>-Apr. 21, 2015 : $a Christchurch [N.Z.] : $b Christchurch Star Company
+264 31 $3 Apr. 28, 2015- $a Christchurch : $b Star Media
+300    $a v. : $b col. ill. ; $c 40 cm.
+310    $a Weekly
+362 0  $a Aug. 7, 2007-
+500    $a Title from masthead.
+500    $a Community newspaper.
+500    $a Subtitle varies.
+500    $a "Tai Tapu, Leeston, Lincoln, Southbridge, Prebbleton, Rolleston, Burnham, West Melton, Darfield, Arthur's Pass."
+588    $a Latest issue consulted: August 11, 2015.
+651  0 $a Selwyn District (N.Z.) $v Newspapers.
+655  7 $a New Zealand newspapers. $2 local $5 Nz
+776 0  $i Online version: $t Selwyn times (Online)
+780 00 $t Canterbury times (1996)
+780 05 $t Selwyn view

@@ -1,0 +1,18 @@
+{
+  "id": 3062,
+  "title": "Aratapu Gazette",
+  "genre": "Newspaper",
+  "firstYear": "1884",
+  "finalYear": "1885",
+  "district": "Kaipara District",
+  "frequency": "Weekly",
+  "idMarcControlNumber": "8123546",
+  "isCurrent": false,
+  "placecode": "01-03",
+  "placename": "Aratapu",
+  "region": "Northland",
+  "sources": {
+    "2022-08-31T04:35:30.976Z": "Extracted from the New Zealand National Bibliography (MARC record 8123546) downloaded June 2022."
+  },
+  "revision": 1
+}

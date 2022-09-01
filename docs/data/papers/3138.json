@@ -1,0 +1,30 @@
+{
+  "id": 3138,
+  "title": "Kapiti Observer",
+  "genre": "Newspaper",
+  "firstYear": "1949",
+  "finalYear": "1972",
+  "district": "Kapiti Coast District",
+  "frequency": "Weekly",
+  "idMarcControlNumber": "8128710",
+  "isCurrent": true,
+  "placecode": "09-02",
+  "placename": "Paraparaumu",
+  "region": "Wellington",
+  "links": {
+    "unknown-1": {
+      "direction": "Succeeding",
+      "relationship": "Merged",
+      "target-description": "Golden Coast news shopper"
+    },
+    "unknown-2": {
+      "direction": "Succeeding",
+      "relationship": "Merged",
+      "target-description": "Observer news shopper"
+    }
+  },
+  "sources": {
+    "2022-08-31T04:35:50.046Z": "Extracted from the New Zealand National Bibliography (MARC record 8128710) downloaded June 2022."
+  },
+  "revision": 1
+}

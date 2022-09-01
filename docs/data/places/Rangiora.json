@@ -1,7 +1,7 @@
 {
   "stats": {
     "placename": "Rangiora",
-    "count": 9,
+    "count": 10,
     "decades": 5
   },
   "papers": [
@@ -10,6 +10,12 @@
       "title": "Canterbury News (1875)",
       "firstYear": "1875",
       "finalYear": "1875"
+    },
+    {
+      "id": "3119",
+      "title": "North Canterbury News",
+      "firstYear": "1875",
+      "finalYear": "1876"
     },
     {
       "id": "2362",

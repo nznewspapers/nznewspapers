@@ -1,0 +1,31 @@
+01291cas a2200385 a 4500
+001 999320563502836
+003 Nz
+005 20210401181140.0
+008 891027d19861994nz wrzn       0   a0eng  
+022 0  $a 1170-0890 $y 0117-0890
+035    $a (nzNZBN)5168661
+035    $a zbn89076910
+035    $a (Nz)5016797
+035    $a (NLNZils)932056
+035    $a (NLNZils)932056-ilsdb
+035    $a (OCoLC)173357506
+040    $a NZNB $c NZNB
+042    $a nznb
+043    $a u-nz---
+082 04 $a 079.93 $2 20
+130 0  $a Sunday star (Auckland, N.Z.)
+222  0 $a Sunday star $b (Auckland)
+245 00 $a Sunday star.
+260    $a [Auckland, N.Z. : $b Sunday Star], $c 1986-1994.
+300    $a ? v. : $b ill. (some col.), forms, map, ports. (some col.) ; $c 58 cm.
+310    $a Weekly
+362 0  $a -Mar. 6 1994.
+362 1  $a Began with Mar. 23 1986. $z Cf. Harvey, D. R. Union list of newspapers ... in New Zealand.
+500    $a Includes advertising.
+500    $a Description based on: Sunday Aug. 27 1989; title from masthead.
+655  7 $a New Zealand newspapers. $2 local $5 Nz
+770 0  $t Sunday magazine $g 1989-1990 $x 1171-0640
+770 0  $t TV viewer $g 28 Oct. 1990-4 Nov. 1990 $x 1170-6961
+785 07 $t Sunday times (Wellington, N.Z. : 1992) $x 1172-0743
+785 07 $t Sunday star times $x 1172-9740

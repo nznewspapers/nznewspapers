@@ -1,0 +1,25 @@
+{
+  "id": 3055,
+  "title": "West Weekly",
+  "genre": "Newspaper",
+  "firstYear": "1999",
+  "finalYear": "9999",
+  "district": "Auckland",
+  "frequency": "Weekly",
+  "idMarcControlNumber": "8131084",
+  "isCurrent": false,
+  "placecode": "02-01",
+  "placename": "Auckland",
+  "region": "Auckland",
+  "links": {
+    "unknown-1": {
+      "direction": "Preceding",
+      "relationship": "Continues",
+      "target-description": "Waitakere week"
+    }
+  },
+  "sources": {
+    "2022-08-31T04:35:29.372Z": "Extracted from the New Zealand National Bibliography (MARC record 8131084) downloaded June 2022."
+  },
+  "revision": 1
+}

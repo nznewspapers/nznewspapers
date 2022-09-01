@@ -1,0 +1,39 @@
+01863cas a2200481 a 4500
+001 994801613502836
+003 Nz
+005 20210401184756.0
+008 880812d19072002nz dn|ne      0   a0eng  
+022 0  $a 0113-941X $2 _g
+035    $a (NLNZils)480161
+035    $a (Nz)4928119
+035    $z 291842
+035    $a (nzNZBN)4464722
+035    $a zbn89076385
+035    $a (NLNZils)480161-ilsdb
+035    $a (OCoLC)946805631
+040    $a NZNB $c DU $d NZNB
+042    $a nznb
+043    $a u-nz---
+082 04 $a 079.93 $2 20
+130 0  $a Dominion (Wellington, N.Z.)
+222  0 $a Dominion $b (Wellington)
+245 14 $a The Dominion.
+260    $a Wellington [N.Z.] : $b Magnus Johnson for the Wellington Publishing Company, $c [1907-2002]
+300    $a v. : $b ill., map, ports. ; $c 61 cm.
+310    $a Daily (except Sunday)
+362 1  $a Began with vol. 1, no. 1 (Sept. 26, 1907).
+362 0  $a -July 6, 2002.
+500    $a Includes advertising.
+500    $a Incorporates New Zealand times (1874-1927). Scholefield.
+500    $a Description based on: Vol. 1, no. 1 (Sept. 26, 1907); title from masthead.
+510 2  $a Index New Zealand, $x 0113-6526, $b Sept. 29, 1988-July 6, 2002
+525    $a Supplement: 100 champions of sport / compiled by Ron Palenski. Published [1998].
+530    $a Available on microfilm from Microfilm Production Unit, National Library of New Zealand.
+550    $a Later issues published by New Zealand Newspapers.
+580    $a Merged with: Evening post (Wellington, N.Z.); to form: Dominion post (Wellington, N.Z.).
+651  0 $a Wellington (N.Z.) $v Newspapers.
+655  7 $a New Zealand newspapers. $2 local $5 Nz
+770 0  $t Primary producers' annual $g <1929>
+776 08 $i Online version: $t Dominion $x 2744-4058
+785 07 $t Evening post (Wellington, N.Z.) $x 0113-9428
+785 07 $t Dominion post (Wellington, N.Z.) $x 1175-9488

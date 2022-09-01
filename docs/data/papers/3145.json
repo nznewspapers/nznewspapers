@@ -1,0 +1,18 @@
+{
+  "id": 3145,
+  "title": "South Canterbury Illustrated",
+  "genre": "Newspaper",
+  "firstYear": "1933",
+  "finalYear": "1939",
+  "district": "Timaru District",
+  "frequency": "Weekly",
+  "idMarcControlNumber": "3924056",
+  "isCurrent": false,
+  "placecode": "12-08",
+  "placename": "Timaru",
+  "region": "Canterbury",
+  "sources": {
+    "2022-08-31T04:35:52.349Z": "Extracted from the New Zealand National Bibliography (MARC record 3924056) downloaded June 2022."
+  },
+  "revision": 1
+}

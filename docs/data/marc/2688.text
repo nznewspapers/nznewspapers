@@ -1,0 +1,28 @@
+01094cas a2200349 a 4500
+001 999258633502836
+003 Nz
+005 20190118085311.0
+008 031216d19932018nz wr|ne      0   a0eng  
+035    $a (Nz)8129707
+035    $a (NLNZils)925863
+035    $a (NLNZils)925863-ilsdb
+035    $a (OCoLC)173420417
+040    $a NZNB $c NZNB
+042    $a nznb
+043    $a u-nz---
+082 04 $a 079.9394 $2 22
+130 0  $a Mirror (Central Otago ed.)
+245 10 $a Mirror.
+246 13 $a Central Otago mirror $f Nov. 24, 2004-
+250    $a Central Otago ed.
+260    $a [Invercargill, N.Z. : $b s.n., $c 1993-]
+260 3  $3 <February 2018-> $a [Auckland, N.Z. : $b Stuff Limited]
+300    $a v. : $b col. ill. ; $c 41 cm.
+310    $a Weekly
+362 0  $a Oct. 20,1993-
+362 1  $a Ceased with June 20, 2018.
+500    $a Issues for Nov. 24, 2004-  have edition statement: Central Otago.
+651  0 $a Central Otago District (N.Z.) $v Newspapers.
+655  7 $a New Zealand newspapers. $2 local $5 Nz
+776 08 $i Online version: $t Mirror $w (Nz)9917975673502836
+780 00 $t Mirror (Invercargill, N.Z.)

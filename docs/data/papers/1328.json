@@ -2,8 +2,8 @@
   "id": 1328,
   "title": "New Zealand Leader",
   "genre": "Newspaper",
-  "firstYear": "190u",
-  "finalYear": "uuuu",
+  "firstYear": "1909",
+  "finalYear": "1910",
   "district": "Auckland",
   "frequency": "Weekly",
   "idMarcControlNumber": "8172468",
@@ -13,8 +13,9 @@
   "placename": "Auckland",
   "region": "Auckland",
   "sources": {
-    "2013-04-02T08:58:38.000Z": "Extracted from the New Zealand National Bibliography (MARC record 8172468) downloaded March 2013.",
-    "2014-05-07T09:18:07.000Z": "Modified by DataBot"
+    "2022-07-18T04:38:36.339Z": "Date updated from the New Zealand National Bibliography (MARC record 8172468) downloaded June 2022.",
+    "2014-05-07T09:18:07.000Z": "Modified by DataBot",
+    "2013-04-02T08:58:38.000Z": "Extracted from the New Zealand National Bibliography (MARC record 8172468) downloaded March 2013."
   },
-  "revision": 4
+  "revision": 5
 }

@@ -1,7 +1,7 @@
 {
   "stats": {
     "placename": "Te Aroha",
-    "count": 7,
+    "count": 8,
     "decades": 5
   },
   "papers": [
@@ -24,6 +24,12 @@
       "firstYear": "1885",
       "finalYear": "1917",
       "urlDigitized": "https://paperspast.natlib.govt.nz/newspapers/te-aroha-news"
+    },
+    {
+      "id": "3065",
+      "title": "Aroha Gazette, Waiorongomai, Piako And Ohinemuri Advocate",
+      "firstYear": "1888",
+      "finalYear": "1888"
     },
     {
       "id": "1552",

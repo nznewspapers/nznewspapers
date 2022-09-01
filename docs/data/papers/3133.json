@@ -1,0 +1,25 @@
+{
+  "id": 3133,
+  "title": "Otaki Mail",
+  "genre": "Newspaper",
+  "firstYear": "1897",
+  "finalYear": "1946",
+  "district": "Kapiti Coast District",
+  "frequency": "Three no. a week",
+  "idMarcControlNumber": "8130471",
+  "isCurrent": true,
+  "placecode": "09-02",
+  "placename": "Otaki",
+  "region": "Wellington",
+  "links": {
+    "unknown-1": {
+      "direction": "Preceding",
+      "relationship": "Continues",
+      "target-description": "West Coast mail (Otaki, N.Z.)"
+    }
+  },
+  "sources": {
+    "2022-08-31T04:35:47.356Z": "Extracted from the New Zealand National Bibliography (MARC record 8130471) downloaded June 2022."
+  },
+  "revision": 1
+}

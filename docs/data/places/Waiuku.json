@@ -1,15 +1,27 @@
 {
   "stats": {
     "placename": "Waiuku",
-    "count": 3,
+    "count": 5,
     "decades": 3
   },
   "papers": [
+    {
+      "id": "3090",
+      "title": "Waiuku Advocate And Franklin County Chronicle",
+      "firstYear": "1914",
+      "finalYear": "191u"
+    },
     {
       "id": "1090",
       "title": "Waiuku News and Franklin County Gazette",
       "firstYear": "1915",
       "finalYear": "1964"
+    },
+    {
+      "id": "3127",
+      "title": "Waiuku Gazette And West Franklin Weekly News",
+      "firstYear": "1964",
+      "finalYear": "1969"
     },
     {
       "id": "1159",
@@ -20,7 +32,7 @@
     {
       "id": "1270",
       "title": "Post",
-      "firstYear": "200u",
+      "firstYear": "2006",
       "finalYear": "9999"
     }
   ]

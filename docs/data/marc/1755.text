@@ -1,0 +1,35 @@
+01545cas a2200433 a 4500
+001 9913269163502836
+003 Nz
+005 20180824121607.0
+008 090316d20092018nz wr|n       0   a0eng  
+022 0  $a 2463-7106 $2 _g
+035    $a (NLNZils)1326916
+035    $a (Nz)12853729
+035    $a (NLNZils)1326916-ilsdb
+035    $a (OCoLC)316857319
+040    $a NZNB $c NZNB
+042    $a nznb
+043    $a u-nz---
+082 04 $a 079.93465 $2 22
+210 1  $a Hastings Havelock North mail
+222  0 $a Hastings & Havelock North mail
+245 04 $a The Hastings & Havelock North mail.
+246 3  $a Hastings and Havelock North mail
+246 17 $a Hastings mail
+260    $a [Hastings, N.Z. : $b Hastings Mail, $c 2009]-
+260 2  $3 <2015>- $a [Auckland, N.Z. : $b Fairfax Media]
+260 3  $3 <February 2018-> $a [Auckland, N.Z. : $b Stuff Limited]
+300    $a v. : $b ill. (chiefly col.) ; $c 40 cm.
+310    $a Weekly
+362 1  $a Began with March 11, 2009; ceased with Apr. 25, 2018.
+500    $a Community newspaper.
+515    $a First issue incorrectly dated March 11, 2008 on cover.
+515    $a Jan. 7, 2015 issue published jointly with Napier mail.
+525    $a Has some supplements, including My Hastings.
+588    $a Description based on first issue; title from caption.
+588    $a Latest issue consulted: Jan. 7, 2015.
+651  0 $a Hastings (N.Z.) $v Newspapers.
+655  7 $a New Zealand newspapers. $2 local $5 Nz
+776 0  $i Online version: $t Hastings & Havelock North mail (Online) $x 2463-7114
+780 00 $t Hastings mail

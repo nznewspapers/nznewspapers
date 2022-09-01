@@ -1,0 +1,30 @@
+01338cas a2200373 a 4500
+001 9912323623502836
+003 Nz
+005 20161223162537.0
+008 070314d20072008nz mr|n       0   a0eng  
+022 0  $a 1177-7370 $2 _g
+035    $a (Nz)11274853
+035    $a (NLNZils)1232362
+035    $a (NLNZils)1232362-ilsdb
+035    $a (OCoLC)173325505
+040    $a NZNB $c NZNB
+041 0  $a eng $a jpn
+042    $a nznb
+043    $a u-nz--- $a a-ja---
+082 04 $a 495.605 $2 22
+210 1  $a Our Jpn.!
+222  0 $a Our Japan!
+245 00 $a Our Japan! : $b Japanese educational newspaper.
+260    $a Wellington, N.Z. : $b N3 Communications, $c c2007-c2008.
+300    $a 13 v. : $b col. ill., map ; $c 40 cm.
+310    $a Monthly
+362 0  $a Vol. 1 (Mar. 2007)-v. 13 (Nov./Dec. 2008)
+500    $a Title from cover.
+546    $a In English and Japanese.
+588    $a Latest issue consulted: Vol. 13 (Nov./Dec. 2008)
+650  0 $a Japanese language $x Study and teaching (Secondary) $x Foreign speakers $v Newspapers.
+650  0 $a Japanese language $x Study and teaching (Higher) $x Foreign speakers $v Newspapers.
+650  0 $a Japanese language $x Study and teaching (Secondary) $z New Zealand $v Newspapers.
+650  0 $a Japanese language $x Study and teaching (Higher) $z New Zealand $v Newspapers.
+651  0 $a Japan $x Social life and customs $v Newspapers.

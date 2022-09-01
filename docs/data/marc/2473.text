@@ -1,0 +1,33 @@
+01321cas a2200409 a 4500
+001 992985323502836
+003 Nz
+005 20210729090351.0
+008 c199u9c19959999nz wr|n       0   k0kor  
+022 0  $a 1177-2212 $2 _g
+035    $z 589337
+035    $a (nzNZBN)9997710
+035    $a zbn97033668
+035    $a (Nz)2603472
+035    $a (NLNZils)298532
+035    $a (NLNZils)298532-ilsdb
+035    $a (OCoLC)173326375
+040    $a NZNB $c NZNB
+041    $a kor $a eng
+042    $a nznb
+043    $a u-nz---
+082 04 $a 305.895709305 $2 21
+210 1  $a Korea rev. $b (Christch.)
+222  0 $a Korea review $b (Christchurch)
+245 00 $a K'oria ribyu = $b Korea review : the weekly newspaper.
+246 31 $a Korea review
+246 1  $i Issues for Dec. 12, 2007-Oct. 20, 2016 have parallel title: $a Korea review weekly
+260    $a Christchurch [N.Z.] : $b Korea Review,
+300    $a v. : $b ill., ports. ; $c 39 cm.
+310    $a Weekly
+362 1  $a Began in 1995
+546    $a Text in Korean with some English.
+588    $a Description based on: 55 (25 Jan. 1997); title from caption.
+588    $a Latest issue consulted: issue no. 1180 (25/6/2021).
+650  0 $a Koreans $z New Zealand $v Newspapers.
+655  7 $a New Zealand newspapers. $2 local $5 Nz
+776 08 $i Online version: $t K'oria ribyu $w (Nz)9919016345002836

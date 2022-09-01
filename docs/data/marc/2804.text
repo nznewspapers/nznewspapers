@@ -1,0 +1,38 @@
+01906cas a2200469 a 4500
+001 999296353502836
+003 Nz
+005 20210401181254.0
+008 891222d18891890nz mr n       0   a0mao  
+035    $a (nzNZBN)5255461
+035    $a (Nz)4190532
+035    $a (NZ-CU)23823
+035    $a zbn89094572
+035    $a (NLNZils)929635
+035    $a (NLNZils)929635-ilsdb
+035    $a (OCoLC)173340541
+040    $a NZNB $c NZNB
+042    $a nznb
+043    $a u-nz---
+082 04 $a 079.93 $2 20
+245 03 $a Te Korimako hou : $b he nupepa whakaatu i nga tikanga o te whakapono, i nga rongo o te ao katoa, me era atu mea.
+246 13 $a Korimako $f nama 1-nama 3
+260    $a Opotiki [N.Z.] : $b He mea ta e Rapata Henare mo te rangatira o tenei nupepa, e Hemi Karaparehi, i tana whare perehi, Wiro Teriti, Tauranga, a he mea whakahaere e te Rev. H. [i.e. G.] Manihera, $c -1890.
+300    $a 8 v. ; $c 28-30 cm.
+362 1  $a Began with nama 1 (Tihema 2, 1889)
+362 0  $a -nama 8 (Heptema 10 1890)
+500    $a Description based on: Nama 4 (Mei 2, 1890); title from masthead.
+500    $a Editor: G. Maunsell; printed by Robert Henry for James Galbraith at the office of the Bay of Plenty times newspaper, Tauranga, and Rev. George Maunsell, Opotiki.
+500    $a Includes advertisements.
+510 4  $a Williams, $c 777
+510 4  $a Books in Māori, $c S29
+520    $a "The new bellbird; published at Ōpotiki"--BIM.
+546    $a In Māori with a small amount of English.
+650  0 $a Maori (New Zealand people) $v Newspapers.
+655  7 $a Maori newspapers. $2 local $5 Nz
+655  7 $a New Zealand newspapers. $2 local $5 Nz
+700 1  $a Maunsell, George.
+700 1  $a Henry, Robert, $d 1874?-1962. $e printer.
+700 1  $a Galbraith, James. $e printer.
+710 2  $a Bay of Plenty Times Office. $e printer.
+776 08 $i Online version: $t Korimako hou $w (Nz)9916612743502836
+780 00 $t Korimako.

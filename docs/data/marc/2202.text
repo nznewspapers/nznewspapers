@@ -1,0 +1,35 @@
+01264cas a2200433 a 4500
+001 993541253502836
+003 Nz
+005 20210401190416.0
+008 160813d19982005nz  x|n       0   e0chi  
+022 0  $a 1177-0929 $2 _g
+035    $z 624564
+035    $a (nzNZBN)10724743
+035    $a zbn98042112
+035    $a (Nz)4856753
+035    $a (NLNZils)354125
+035    $a (NLNZils)354125-ilsdb
+035    $a (OCoLC)173352816
+040    $a NZNB $c NZNB
+041 0  $a chi
+042    $a nznb
+043    $a u-nz---
+082 0  $a 305.895109936305 $2 21
+210 1  $a Cap. Chin. news
+222  0 $a Capital Chinese news
+245 00 $a Capital Chinese news.
+246 11 $a Shou du hua wen bao $f <Sept. 1998>-
+260    $a Wellington, N.Z. : $b TACS New Zealand, $c [1998-2005]
+300    $a v. : $b ill. ; $c 40-60 cm.
+310    $a Irregular, $b <May 2000>-
+321    $a Monthly, $b issue 1 (9 Apr. 1998)-
+362 0  $a Issue 1 (9 Apr. 1998)-issue 235 (9 Dec. 2005).
+500    $a Title from caption.
+515    $a Designation varies.
+546    $a Text and date in designation in Chinese.
+650  0 $a Chinese $z New Zealand $z Wellington $v Periodicals.
+650  0 $a Chinese $z New Zealand $v Periodicals.
+780 05 $t Jia ri
+785 01 $t Jia ri zhou bao
+785 00 $t NZ Asia

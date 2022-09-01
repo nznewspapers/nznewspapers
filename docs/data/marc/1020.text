@@ -1,0 +1,27 @@
+01001cas a22003377a 4500
+001 999309383502836
+003 Nz
+005 20161223153108.0
+008 880825d19441951nz wr ne      0    0eng  
+010    $a sn 88088009 
+035    $a (DLC)sn 88088009
+035    $a (NLNZils)930938
+035    $a (Nz)6890851
+035    $a (NLNZils)930938-ilsdb
+035    $a (OCoLC)18399691
+040    $a DLC $d WN
+042    $a msc $a nznb
+043    $a u-nz---
+050 00 $a Newspaper 2810
+130 0  $a Northland gazette (Kawakawa, N.Z.)
+245 04 $a The Northland gazette.
+260    $a Kawakawa [N.Z.] : $b Northland Gazette Ltd., $c 1944-1951.
+300    $a v. : $b ill. ; $c 43-57 cm.
+310    $a Weekly
+362 1  $a Began in Dec. 1944.
+362 0  $a -v. 6, no. 30 (May 22, 1951).
+500    $a Description based on: Vol. 3, no. 9 (Feb. 18, 1947).
+651  0 $a Northland (N.Z.) $v Newspapers.
+655  7 $a New Zealand newspapers. $2 local $5 Nz
+752    $a New Zealand $d Kawakawa.
+780 00 $t Luminary (Kawakawa, N.Z.)

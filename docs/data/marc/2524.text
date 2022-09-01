@@ -1,0 +1,20 @@
+00667cas a22002531a 4500
+001 999324843502836
+003 Nz
+005 20160321142749.0
+008 040113d19011939nz  r ne      0   0 eng  
+035    $a 5099650
+035    $a (NLNZils)932484
+035    $a (Nz)8183984
+035    $a (NLNZils)932484-ilsdb
+035    $a (OCoLC)173423335
+040    $a NZNB $c NZNB
+042    $a nznb
+043    $a u-nz---
+245 00 $a Timaru post.
+260    $a [Timaru, N.Z. : $b s.n., $c 1901-1939]
+310    $a Daily
+362 0  $a 1901 Sep.14-1939 Mar.31
+651  0 $a Timaru District (N.Z.) $v Newspapers.
+655  7 $a New Zealand newspapers. $2 local $5 Nz
+780 00 $t Morning post (Timaru, N.Z.)

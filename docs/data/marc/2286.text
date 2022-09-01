@@ -1,0 +1,24 @@
+00959cas a22003011a 4500
+001 999335783502836
+003 Nz
+005 20200930094912.0
+008 040115d18671869nz dr|ne      0   a0eng  
+035    $a (NLNZils)933578
+035    $a (Nz)8187804
+035    $a (NLNZils)933578-ilsdb
+035    $a (OCoLC)946808996
+040    $a NZNB $c NZNB
+042    $a nznb
+043    $a u-nz---
+082 04 $a 079.9373 $2 23
+245 00 $a Westport daily times and Charleston argus.
+246 17 $a Westport times and Charleston argus
+260    $a [Westport, N.Z. : $b Munson and Tyrrell, $c 1867-1869]
+300    $a v. ; $c 42 cm.
+310    $a Daily
+362 1  $a Began in 1867; ceased with v. 3, no. 450 (Jan. 9, 1869)
+651  0 $a Westport (N.Z.) $v Newspapers.
+655  7 $a New Zealand newspapers. $2 local $5 Nz.
+776 08 $i Online version: $t Westport daily times and Charleston argus $w (Nz)9916694093502836
+780 00 $t Westport times and Buller express
+785 00 $t Westport times

@@ -1,0 +1,27 @@
+01064cas a2200337 a 4500
+001 999287913502836
+003 Nz
+005 20210401181224.0
+008 891121d19871994nz mrzn       0   a0eng  
+022 0  $a 1170-0459 $y 0117-0459
+035    $a (nzNZBN)3835104
+035    $z (nzNZBN)5177487
+035    $a zbn89078942
+035    $a (NLNZils)928791
+035    $a (Nz)3134045
+035    $a (NLNZils)928791-ilsdb
+035    $a (OCoLC)173329517
+040    $a NZNB $c NZNB
+042    $a nznb
+043    $a u-nz---
+082 04 $a 079.9345 $2 20NZ
+222  0 $a Gorge gazette
+245 00 $a Gorge gazette.
+260    $a Ashhurst [N.Z.]: $b J. Henderson, $c 1987-1994 : $e (Masterton [N.Z.] : $f Wairarapa-Times-Age,
+300    $a v. : $b ill., form, maps, ports. ; $c 42 cm.
+362 1  $a 1987 Apr.14-1994 Dec.
+500    $a "Delivered free in Ashhurst and Pohangina."
+500    $a Description based on: Friday Sept. 15 1989; title from masthead.
+651  0 $a Manawatu (N.Z.) $v Newspapers.
+651  0 $a Tararua District (N.Z.) $v Newspapers.
+655  7 $a New Zealand newspapers. $2 local $5 Nz

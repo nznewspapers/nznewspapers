@@ -1,0 +1,50 @@
+02614cas a2200613 a 4500
+001 999311393502836
+003 Nz
+005 20210401181343.0
+008 040109d18921935nz  x n       0   a0mao  
+035    $a (nzNZBN)5256009
+035    $a (Nz)3947382
+035    $a zbn89095123
+035    $a (NLNZils)931139
+035    $a (NLNZils)931139-ilsdb
+035    $a (OCoLC)930606407
+040    $a NZNB $c NZNB
+041 1  $a mao $a eng
+042    $a nznb
+043    $a u-nz---
+082 04 $a 079.93 $2 20
+245 03 $a Te paki o Matariki.
+260    $a Maungkawa [i.e. Maungakawa, N.Z.] : $b He mea ta i raro i te mana o te Kingitanga e Teuamairangi K. Maungapohatu, Te Kauhanganui
+300    $a v. ; $c 25-67 cm.
+310    $a Irregular
+362 1  $a Began with Nama 1 (Hanuere 20, 1892); ceased with Akuhata 10, 1935?
+500    $a Subtitle varies.
+500    $a Editors: Tana Tamihana Te Waharoa, T.T. Rawhiti, Haunui Tawhiao, Tumata Mahuta and Te Puea Herangi.
+500    $a 1893-Hurae 8, 1897 printed by T.W. Graham; Tihema 24, 1897-Mei 2, 1907 printed by K. Hena Tio; [Mei 6] 1907-1909 printed by Teiwi H. Hoera;1911-1915? issues printed by Brett Printing & Publishing Co.; 1916-1919 issues printed by P. Herewini; 1919-1920 issues printed by Morrinsville Star; 1919; 1935 issues printed by Huntly Press Print.
+500    $a Description based on: No. 6 (Oketopa 6, 1892); title from masthead.
+510 4  $a Williams, $c 810
+510 4  $a Williams (suppl.), $c 810a
+510 4  $a Williams (suppl.), $c 810b
+510 4  $a Books in Māori, $c S31
+515    $a Some issues misdated.
+520    $a "'Pleiades news': Kingitanga publications, most printed at Cambridge, Waikato"--BIM.
+546    $a Chiefly in Māori but some issues have parallel Māori and English text.
+650  0 $a Maori (New Zealand people) $v Newspapers.
+650  7 $a Kīngitanga. $2 reo
+655  7 $a Maori newspapers. $2 local $5 Nz
+655  7 $a New Zealand newspapers. $2 local $5 Nz
+700 1  $a Te Waharoa, Tana Tamihana, $d 1835-1929.
+700 1  $a Rawhiti, T. T., $d fl. 1887-1922.
+700 1  $a Tawhiao, Haunui.
+700 1  $a Mahuta, Tumata.
+700 1  $a Te Puea Herangi, $c Princess of the Maori, $d 1883-1952.
+700 1  $a Hadfield, T. K. M. $e printer.
+700 1  $a Graham, Tuatara Wiremu. $e printer.
+700 1  $a Tio, K. Hena. $e printer.
+700 1  $a Hoera, Teiwi H. $e printer.
+700 1  $a Herewini, P. $e printer.
+710 2  $a Brett Printing and Publishing. $e printer.
+710 2  $a Morrinsville Star. $e printer.
+710 2  $a Huntly Press Print. $e printer.
+776 08 $i Online version: $t Paki o Matariki $w (Nz)9916612583502836

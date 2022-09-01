@@ -1,0 +1,36 @@
+01712cas a2200445 a 4500
+001 999264993502836
+003 Nz
+005 20220401155441.0
+008 891110c19819999nz wr|ne      0   a0eng  
+022 0  $a 1170-1102 $y 0117-1102 $2 _g
+035    $a (nzNZBN)5192436
+035    $a zbn89081898
+035    $a 926499
+035    $a (Nz)3531259
+035    $a (NLNZils)926499
+035    $a (NLNZils)926499-ilsdb
+035    $a (OCoLC)173333312
+040    $a NZNB $c NZNB
+042    $a nznb
+043    $a u-nz---
+082 04 $a 079.9316 $2 20NZ
+130 0  $a Te Puke times (1981)
+222  0 $a Te Puke times
+245 10 $a Te Puke times.
+260    $3 1981- : $a Wellington [N.Z.] : $b Tainui Te Puke Community Newspapers, $c 1981-
+260 2  $3 <2010>- : $a [Tauranga?, N.Z. : $b APN NZ Media]
+260 3  $3 <2022-> : $a [Auckland, N.Z.?] : $b NZME
+300    $a v. : $b ill., form, port. ; $c 44 cm.
+310    $a Weekly
+362 1  $a Began with Sept. 22, 1981. $z Cf. Harvey, D. R. Union list of newspapers ... in New Zealand.
+500    $a "Kiwifruit coast, Bay of Plenty New Zealand,Paengaroa, Pongakawa, Rotoehu, Papamoa, Pukehina, Maketu, Te Puke."
+500    $a Includes advertising.
+500    $a Description based on: Wednesday 6 Sept. 1989; title from masthead.
+525    $a Includes special souvenir ed.: Celebrating 100 years, published Mar. 22, 2012.
+530    $a Available on microfilm from Microfilm Production Unit, National Library of New Zealand.
+588    $a Latest issue consulted: March 17, 2022.
+651  0 $a Western Bay of Plenty District (N.Z.) $v Newspapers.
+651  0 $a Bay of Plenty (N.Z. : Region) $v Newspapers.
+655  7 $a New Zealand newspapers. $2 local $5 Nz
+780 00 $t Bay Sun Te Puke edition

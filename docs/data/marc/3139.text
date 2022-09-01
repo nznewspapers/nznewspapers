@@ -1,0 +1,30 @@
+01233cas a2200373 a 4500
+001 999257333502836
+003 Nz
+005 20171121093401.0
+008 031216d19992017nz wr|ne      0   a0eng  
+035    $a (Nz)8128766
+035    $a (NLNZils)925733
+035    $a (NLNZils)925733-ilsdb
+035    $a (OCoLC)946531386
+040    $a NZNB $c NZNB
+042    $a nznb
+043    $a u-nz---
+082 04 $a 079.9395 $2 23
+130 0  $a News (Alexandra, N.Z.)
+245 10 $a News : $b Lakes District & Central Otago.
+246 13 $a Lakes District & Central Otago news
+246 3  $a Lakes District and Central Otago news
+260    $a Alexandra [N.Z.] : $b Central Otago news, $c 1999-2017.
+300    $a 19 v. : $b ill. ; $c 41 cm.
+310    $a Weekly
+362 0  $a Nov. 26 1999-July 27 2017
+500    $a Community newspaper.
+530    $a Available on microfilm from Microfilm Production Unit, National Library of New Zealand.
+588    $a Title from caption.
+651  0 $a Queenstown-Lakes District (N.Z.) $v Newspapers.
+651  0 $a Central Otago District (N.Z.) $v Newspapers.
+655  7 $a New Zealand newspapers. $2 local $5 Nz
+780 00 $t Central Otago news $x 1170-0149
+785 06 $t News (Central Otago, N.Z.).
+785 06 $t News (Wanaka, N.Z.).

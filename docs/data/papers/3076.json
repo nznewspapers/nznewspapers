@@ -1,0 +1,18 @@
+{
+  "id": 3076,
+  "title": "Dunedin Advertiser And Business Directory",
+  "genre": "Newspaper",
+  "firstYear": "1862",
+  "finalYear": "uuuu",
+  "district": "Dunedin City",
+  "frequency": "Three no. a week",
+  "idMarcControlNumber": "5094432",
+  "isCurrent": false,
+  "placecode": "13-03",
+  "placename": "Dunedin",
+  "region": "Otago",
+  "sources": {
+    "2022-08-31T04:35:32.800Z": "Extracted from the New Zealand National Bibliography (MARC record 5094432) downloaded June 2022."
+  },
+  "revision": 1
+}

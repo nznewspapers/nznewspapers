@@ -1,7 +1,7 @@
 {
   "stats": {
     "placename": "Russell",
-    "count": 2,
+    "count": 3,
     "decades": 1
   },
   "papers": [
@@ -11,6 +11,12 @@
       "firstYear": "1840",
       "finalYear": "1840",
       "urlDigitized": "https://paperspast.natlib.govt.nz/newspapers/new-zealand-advertiser-and-bay-of-islands-gazette"
+    },
+    {
+      "id": "3051",
+      "title": "Bay Of Islands Observer",
+      "firstYear": "1842",
+      "finalYear": "1842"
     },
     {
       "id": "1002",

@@ -1,0 +1,27 @@
+00979cas a2200337 a 4500
+001 997133903502836
+003 Nz
+005 20161223145923.0
+008 020403d20012003nz wr ne |    0   a0eng  
+035    $a (NLNZils)713390
+035    $a (Nz)6830284
+035    $a (NLNZils)713390-ilsdb
+035    $a (OCoLC)173397428
+040    $a NZNB $c NZNB
+042    $a nznb
+043    $a u-nz---
+082 04 $a 079.938305 $2 21
+130 0  $a Eastern mail (Christchurch, N.Z.)
+245 10 $a Eastern mail.
+246 17 $a Mail
+260    $a Christchurch [N.Z.] : $b Christchurch Mail, $c [2001-2003]
+300    $a v. : $b ill. ; $c 40 cm.
+310    $a Weekly
+362 0  $a Nov. 8, 2001-
+362 1  $a Ceased with Oct. 1, 2003.
+500    $a Community newspaper.
+500    $a Title from masthead.
+651  0 $a Christchurch (N.Z.) $v Periodicals.
+655  7 $a New Zealand newspapers. $2 local $5 Nz
+780 01 $t Christchurch mail $x 1170-1277
+785 00 $t Christchurch mail (Shirley, Burwood, Pegasus, Hagley)

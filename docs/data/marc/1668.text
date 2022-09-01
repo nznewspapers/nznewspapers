@@ -1,0 +1,34 @@
+01450cas a2200421 a 4500
+001 9918207673202836
+003 Nz
+005 20210401183121.0
+008 180621c19669999nz ir|ne      0   a0eng  
+022 0  $a 1170-1153 $y 0117-1153 $2 _g
+035    $a (nzNZBN)5192440
+035    $a (NLNZils)480788
+035    $a zbn89081813
+035    $z 292545
+035    $a (Nz)3531263
+035    $a (NLNZils)480788-ilsdb
+035    $a (OCoLC)173333316
+040    $a NZNB $c NZNB
+042    $a nznb
+043    $a u-nz---
+082 04 $a 079.9316 $2 20NZ
+222  0 $a Whakatane beacon
+245 04 $a The Whakatane beacon.
+246 1  $i At head of title: $a Beacon $f <2002>-
+246 17 $a www.whakatanebeacon.co.nz
+246 1  $i Title to mark Maori Language Week: $a Ramaroa
+260    $a Whakatane [N.Z.] : $b Beacon Printing and Publishing
+300    $a v. : $b ill., map, ports. ; $c 58 cm.
+310    $a Three times a week
+362 1  $a Began with Apr. 4, 1966. $z Cf. Harvey, D. R. Union list of newspapers ... in New Zealand.
+500    $a Community newspaper.
+525    $a Has some supplements.
+530    $a Available on microfilm from Microfilm Production Unit, National Library of New Zealand.
+588    $a Description based on: no.102 (Tuesday Sept. 5, 1989); title from masthead.
+588    $a Latest issue consulted: July 24, 2013
+651  0 $a Whakatane (N.Z.) $v Periodicals.
+655  7 $a New Zealand newspapers. $2 local $5 Nz
+780 00 $t Bay of Plenty beacon

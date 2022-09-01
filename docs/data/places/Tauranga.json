@@ -1,7 +1,7 @@
 {
   "stats": {
     "placename": "Tauranga",
-    "count": 22,
+    "count": 25,
     "decades": 10
   },
   "papers": [
@@ -74,6 +74,12 @@
       "finalYear": "1971"
     },
     {
+      "id": "3046",
+      "title": "Bay Of Plenty Mirror",
+      "firstYear": "1971",
+      "finalYear": "1974"
+    },
+    {
       "id": "1646",
       "title": "Bay of Plenty Mirror (Eastern Ed.)",
       "firstYear": "1972",
@@ -101,7 +107,7 @@
       "id": "1650",
       "title": "Greerton Gazette",
       "firstYear": "1981",
-      "finalYear": "uuuu"
+      "finalYear": "198u"
     },
     {
       "id": "1651",
@@ -120,6 +126,18 @@
       "title": "Greerton-Gate Pa Express",
       "firstYear": "198u",
       "finalYear": "uuuu"
+    },
+    {
+      "id": "3052",
+      "title": "Bay Sun Spree",
+      "firstYear": "198u",
+      "finalYear": "198u"
+    },
+    {
+      "id": "3086",
+      "title": "Bay News",
+      "firstYear": "1990",
+      "finalYear": "2018"
     },
     {
       "id": "1655",

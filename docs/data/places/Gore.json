@@ -1,8 +1,8 @@
 {
   "stats": {
     "placename": "Gore",
-    "count": 4,
-    "decades": 4
+    "count": 5,
+    "decades": 5
   },
   "papers": [
     {
@@ -30,6 +30,12 @@
       "firstYear": "1973",
       "finalYear": "9999",
       "urlCurrent": "http://www.theensign.co.nz"
+    },
+    {
+      "id": "3096",
+      "title": "Southern Rural Life",
+      "firstYear": "1994",
+      "finalYear": "9999"
     }
   ]
 }

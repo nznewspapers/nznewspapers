@@ -1,7 +1,7 @@
 {
   "stats": {
     "placename": "Invercargill",
-    "count": 16,
+    "count": 17,
     "decades": 9
   },
   "papers": [
@@ -22,7 +22,7 @@
       "id": "2658",
       "title": "Weekly News",
       "firstYear": "1862",
-      "finalYear": "uuuu"
+      "finalYear": "18uu"
     },
     {
       "id": "2659",
@@ -95,6 +95,12 @@
       "firstYear": "1993",
       "finalYear": "9999",
       "urlCurrent": "http://fairfaxmedia.newspaperdirect.com/epaper/viewer.aspx"
+    },
+    {
+      "id": "3132",
+      "title": "Newslink",
+      "firstYear": "1993",
+      "finalYear": "1998"
     },
     {
       "id": "2692",

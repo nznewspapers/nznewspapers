@@ -1,0 +1,39 @@
+01780cas a2200481 a 4500
+001 999264953502836
+003 Nz
+005 20200916141928.0
+008 870316d18611863nz mr n       0   b0mao  
+035    $a (nzNZBN)3696050
+035    $a zbn89091009
+035    $a (NLNZils)926495
+035    $a (Nz)4508011
+035    $a (NLNZils)926495-ilsdb
+035    $a (OCoLC)173343792
+040    $a NZNB $c NZNB
+041 1  $a mao $a eng
+042    $a nznb
+043    $a u-nz---
+082 04 $a 079.93 $2 20
+245 03 $a Te Karere Maori, or, Maori messenger.
+246 30 $a Maori messenger
+260    $a Auckland [N.Z. : $b Printed by W.C. Wilson for the New Zealand government, $c 1861-1863]
+300    $a 3 v. ; $c 25 cm.
+310    $a Monthly
+362 0  $a Vol. 1, no. 18 & 19 (Dec. 16, 1861)-v. 3, no. [8] (Sept. 28, 1863)
+500    $a Title from masthead.
+500    $a "Kia whakakotahitia te Maori me te Pakeha."
+500    $a Edited by C.O.B. Davis, v. 2, no. 6 (Feb. 25, 1862)-
+500    $a Vol. 2, nos. 3-4 not issued.
+510 4  $a Williams, $c 335
+510 4  $a Books in Māori, $c S12
+515    $a Continues the numbering of its predecessor; some issues combined; some issues misnumbered.
+520    $a "Continuation of government newspaper, published in Auckland"--BIM.
+546    $a Parallel English and Māori text.
+650  0 $a Maori (New Zealand people) $v Newspapers.
+655  7 $a Maori newspapers. $2 local $5 Nz
+655  7 $a New Zealand newspapers. $2 local $5 Nz
+700 1  $a Davis, C. O. $q (Charles Oliver), $d 1817-1887.
+700 1  $a Wilson, W. C. $q (William Chisholm), $d 1810-1876. $e printer.
+776 08 $i Online version: $t Karere Maori, or, Maori messenger $w (Nz)9916619763502836
+780 00 $t Manuhiri tuarangi and Maori intelligencer
+785 00 $t [Gazette notices]

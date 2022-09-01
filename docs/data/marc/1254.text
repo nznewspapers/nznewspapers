@@ -1,0 +1,33 @@
+01364cas a2200409 a 4500
+001 9910504493502836
+003 Nz
+005 20220331170158.0
+008 041027c20049999nz drzne      0   e0chi  
+022 0  $a 1176-8231 $2 _g
+035    $a (Nz)8954826
+035    $a (NLNZils)1050449
+035    $a (NLNZils)1050449-ilsdb
+035    $a (OCoLC)173441141
+040    $a NZNB $c NZNB
+041 0  $a chi $a eng
+042    $a nznb
+043    $a u-nz---
+082 04 $a 305.8951099305 $2 22
+210 1  $a Hua ye
+222  0 $a Hua ye
+245 00 $a Hua ye = $b Mandarin pages.
+246 31 $a Mandarin pages
+246 1  $i Issues from March 18, 2022 have parallel title: $a mpages
+260    $a [Auckland, N.Z.] : $b Xin zeng xiao ping guang gao gong dian, $c 2004-
+300    $a v. : $b ill. ; $c 58 cm.
+310    $a Daily (except Sunday)
+362 1  $a Began with 1405 (2004.10.05)
+500    $a Continues the numbering of its predecessor.
+515    $a Multiple issues sometimes published same day; some dating irregularities.
+546    $a Text chiefly in Chinese with some English.
+588    $a Description based on: 1415 (2004.10.16); title from caption.
+588    $a Latest issue consulted: 5628 (2022 03 18)
+650  0 $a Chinese $z New Zealand $v Newspapers.
+655  7 $a New Zealand newspapers. $2 local $5 Nz
+655  7 $a Chinese newspapers. $2 local $5 Nz
+780 00 $t Mandarin times

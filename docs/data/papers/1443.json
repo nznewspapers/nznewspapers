@@ -2,7 +2,7 @@
   "id": 1443,
   "title": "The New Zealand Times",
   "genre": "Newspaper",
-  "firstYear": "19uu",
+  "firstYear": "1996",
   "finalYear": "9999",
   "district": "Auckland",
   "frequency": "Weekly",
@@ -18,8 +18,9 @@
     "98290721": "Korean Text"
   },
   "sources": {
-    "2013-04-02T08:58:38.000Z": "Extracted from the New Zealand National Bibliography (MARC record 5365902) downloaded March 2013.",
-    "2015-01-20T09:20:56.000Z": "Modified by gordon.paynter"
+    "2022-07-18T04:38:26.535Z": "Date updated from the New Zealand National Bibliography (MARC record 5365902) downloaded June 2022.",
+    "2015-01-20T09:20:56.000Z": "Modified by gordon.paynter",
+    "2013-04-02T08:58:38.000Z": "Extracted from the New Zealand National Bibliography (MARC record 5365902) downloaded March 2013."
   },
-  "revision": 8
+  "revision": 9
 }

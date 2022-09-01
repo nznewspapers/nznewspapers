@@ -1,0 +1,35 @@
+01842cas a2200433 a 4500
+001 9913260943502836
+003 Nz
+005 20200629145650.0
+008 090309c20099999nz wr|n       0   a0eng  
+035    $a (NLNZils)1326094
+035    $a (Nz)12847263
+035    $a (NLNZils)1326094-ilsdb
+035    $a (OCoLC)314118624
+040    $a NZNB $c NZNB
+042    $a nznb
+043    $a u-nz---
+082 04 $a 079.9383 $2 22
+130 0  $a Pegasus post (Christchurch, N.Z.)
+245 10 $a Pegasus post : $b community news.
+246 17 $a Community news
+260    $3 Mar. 1, 2009-May 13, 2013: $a [Christchurch, N.Z. : $b Star Canterbury], $c 2009-
+260 2  $3 May 20, 2013-<Sept. 2, 2013> : $a Christchurch [N.Z.] : $b [Mainland Media]
+260 2  $3 <Sept. 16, 2013>- : $a Christchurch [N.Z.] : $b Christchurch Star Company
+260 3  $3 <May 21, 2020>- : $a Christchurch : $b Star Media
+300    $a v. : $b col. ill. ; $c 41 cm.
+310    $a Weekly
+362 1  $a Began with Mar. 1, 2009.
+500    $a Description based on first issue; title from masthead.
+500    $a Community newspaper.
+500    $a Subtitle varies.
+500    $a Issues from May 21, 2020 issued with Pegasus post edition of Star (Christchurch, N.Z. : 2005).
+515    $a Dec. 31, 2012-Jan 7, 2013 issues combined with: Western news (Christchurch, N.Z.); Observer (Christchurch, N.Z. : 2009); and: News advertiser (Christchurch, N.Z. : 2009) published under title Community news.
+588    $a Latest issue consulted: Dec. 31, 2012.
+651  0 $a Christchurch (N.Z.) $v Newspapers.
+655  7 $a New Zealand newspapers. $2 local $5 Nz
+776 0  $i Online version: $t Pegasus post (Christchurch, N.Z. : Online) $w (Nz)9914856283502836
+777 0  $i Issued with: $a Star (Christchurch, N.Z. : 2005)
+780 00 $t Star community news (Eastern)
+780 05 $t Mainland press (Pegasus Bay news ed.)

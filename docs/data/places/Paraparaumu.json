@@ -1,10 +1,16 @@
 {
   "stats": {
     "placename": "Paraparaumu",
-    "count": 9,
-    "decades": 4
+    "count": 10,
+    "decades": 5
   },
   "papers": [
+    {
+      "id": "3138",
+      "title": "Kapiti Observer",
+      "firstYear": "1949",
+      "finalYear": "1972"
+    },
     {
       "id": "2000",
       "title": "Golden Coast Gazette",

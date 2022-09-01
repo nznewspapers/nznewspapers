@@ -1,0 +1,30 @@
+01100cas a2200373 a 4500
+001 993410303502836
+003 Nz
+005 20210401190139.0
+008 160813c19929999nz wr ne      0   a0eng  
+035    $a (nzNZBN)10502621
+035    $a zbn97095424
+035    $z 612395
+035    $a zbn97091061
+035    $z 341030
+035    $a (Nz)4809599
+035    $a (NLNZils)341030
+035    $a (NLNZils)341030-ilsdb
+035    $a (OCoLC)173350106
+040    $a NZNB $c NZNB
+042    $a nznb
+043    $a u-nz---
+082 04 $a 079.939605 $2 21
+245 00 $a Southland express.
+260    $a Dunedin, N.Z. : $b Allied Press, $c 1992-
+300    $a v. : $b ill., ports. (some col.) ; $c 41 cm.
+310    $a Weekly
+362 0  $a Jan. 23, 1992-
+500    $a Community newspaper.
+500    $a Description based on: Sept. 25, 1997; title from caption.
+580    $a Includes section continuing: Health talk, 2003-
+651  0 $a Southland (N.Z.) $x Periodicals.
+655  7 $a New Zealand newspapers. $2 local $5 Nz
+776 08 $i Online version: $t Southland express $w (Nz)9918591569102836
+780 05 $t Health talk $g 2003

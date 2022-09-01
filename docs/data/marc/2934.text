@@ -1,0 +1,27 @@
+01077cas a2200337 a 4500
+001 999316093502836
+003 Nz
+005 20210401181338.0
+008 900921d19881992nz mrzne      0   a0eng  
+022 0  $a 1170-1420
+035    $a (nzNZBN)5559803
+035    $a zbn90079340
+035    $a (NLNZils)931609
+035    $a (Nz)3678319
+035    $a (NLNZils)931609-ilsdb
+035    $a (OCoLC)173334897
+040    $a NZNB $c NZNB
+042    $a nznb
+043    $a u-nz---
+082 04 $a 079.9371 $2 20NZ
+222  0 $a Riccarton & Hornby times
+245 04 $a The Riccarton & Hornby times.
+246 3  $a Riccarton and Hornby times
+260    $a [Christchurch, N.Z. : $b Riccarton & Hornby Times, $c 1988-1992] $e ([Oamaru] : $f Oamaru Mail Print)
+300    $a ? v. : $b ill. (some col.), forms, maps, ports. (some col.) ; $c 41 cm.
+362 0  $a Thursday Sept. 29th 1988-Tuesday June 30th 1992.
+500    $a Community newspaper.
+500    $a Title from masthead.
+651  0 $a Christchurch (N.Z.) $v Newspapers.
+655  7 $a New Zealand newspapers. $2 local $5 Nz
+785 00 $t West city times $x 1171-9680

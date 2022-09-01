@@ -1,0 +1,18 @@
+{
+  "id": 3051,
+  "title": "Bay Of Islands Observer",
+  "genre": "Newspaper",
+  "firstYear": "1842",
+  "finalYear": "1842",
+  "district": "Far North District",
+  "frequency": "Weekly",
+  "idMarcControlNumber": "5093080",
+  "isCurrent": false,
+  "placecode": "01-01",
+  "placename": "Russell",
+  "region": "Northland",
+  "sources": {
+    "2022-08-31T04:35:28.660Z": "Extracted from the New Zealand National Bibliography (MARC record 5093080) downloaded June 2022."
+  },
+  "revision": 1
+}

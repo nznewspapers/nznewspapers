@@ -1,0 +1,29 @@
+01147cas a2200361 a 4500
+001 9913036473502836
+003 Nz
+005 20161223163706.0
+008 080908d20082009nz wr|ne      0   a0eng  
+035    $a (NLNZils)1303647
+035    $a (Nz)12458677
+035    $a (NLNZils)1303647-ilsdb
+035    $a (OCoLC)946513526
+040    $a NZNB $c NZNB
+042    $a nznb
+043    $a u-nz---
+082 04 $a 079.9362 $2 22
+130 0  $a Citylife (West & North ed.)
+245 10 $a Citylife : $b West & North.
+250    $a West & North ed.
+260    $a Petone [N.Z.] : $b Citylife, $c [2008-2009].
+300    $a 2 v. : $b col. ill. ; $c 40 cm.
+310    $a Weekly
+362 1  $a Began with Sept. 2-8, 2008; ceased with Feb. 18, 2009.
+500    $a Description based on first issue; title from cover.
+500    $a Final issue consulted.
+500    $a Community newspaper.
+580    $a Formed by the merger of: Citylife (North ed.) and Citylife (West ed.).
+651  0 $a Wellington (N.Z.) $v Newspapers.
+655  7 $a New Zealand newspapers. $2 local $5 Nz
+780 04 $t Citylife (North ed.)
+780 04 $t Citylife (West ed.)
+785 00 $t Citylife independent herald

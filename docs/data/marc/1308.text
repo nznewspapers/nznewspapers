@@ -1,0 +1,29 @@
+01293cas a2200361 a 4500
+001 996356213502836
+003 Nz
+005 20200921092321.0
+008 010606d18801885nz wn ne      0   a0eng  
+035    $a (NLNZils)635621
+035    $a (Nz)6310809
+035    $a (NLNZils)635621-ilsdb
+035    $a (OCoLC)173388101
+040    $a NZNB $c NZNB
+042    $a nznb
+043    $a u-nz---
+082 04 $a 079.93 $2 21
+130 0  $a Observer (Auckland, N.Z.)
+245 04 $a The observer : $b an independent journal of politics, information and society.
+260    $a Auckland, N.Z. : $b [A.S. Rathbone, $c 1880-1885]
+300    $a v. : $b ill. ; $c 42 cm.
+310    $a Weekly
+362 0  $a Vol. 1, no. 1 (Sept. 18th, 1880)-
+362 1  $a Ceased with Vol. 7, no. 238 (Apr. 4, 1885).
+500    $a Title from caption.
+500    $a Final issue consulted.
+530    $a Available on microfilm from Microfilm Production Unit, National Library of New Zealand.
+580    $a Merged with: Auckland free lance, and Evening telephone (Auckland, N.Z.), to form: Observer and free lance.
+655  7 $a New Zealand newspapers. $2 local $5 Nz
+776 08 $i Online version: $t Observer $w (Nz)9914668743502836
+785 17 $t Auckland free lance
+785 17 $t Evening telephone (Auckland, N.Z.)
+785 17 $t Observer and free lance

@@ -1,0 +1,29 @@
+01150cas a2200361 a 4500
+001 999280123502836
+003 Nz
+005 20210401181230.0
+008 970807d19911993nz wrgn       0   a0eng  
+035    $a (nzNZBN)10427383
+035    $a zbn97114266
+035    $a (NLNZils)928012
+035    $a (Nz)4836498
+035    $a (NLNZils)928012-ilsdb
+035    $a (OCoLC)946808845
+040    $a NZNB $c NZNB
+042    $a nznb
+043    $a u-nz---
+082 04 $a 079.938705 $a 079.938905 $2 21
+245 00 $a Timaru's the courier.
+260    $a Timaru [N.Z.] : $b South Canterbury Community News, $c [1991-1993]
+300    $a v. : $b ill., ports. (some col.) ; $c 43 cm.
+310    $a Weekly
+362 0  $a v. 1, no. 1 (Mar. 18, 1991)-v. 3, no. 37 (Sept. 28, 1993)
+500    $a Community newspaper.
+500    $a Title from caption.
+500    $a Subtitle varies.
+651  0 $a Timaru District (N.Z.) $x Periodicals.
+651  0 $a Waimate District (N.Z.) $x Periodicals.
+651  0 $a Canterbury (N.Z.) $x Periodicals.
+655  7 $a New Zealand newspapers. $2 local $5 Nz
+780 00 $t South Canterbury community news $x 1170-1692
+785 00 $t Courier (Timaru, N.Z.) $x 1172-8086

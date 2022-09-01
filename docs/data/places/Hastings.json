@@ -1,7 +1,7 @@
 {
   "stats": {
     "placename": "Hastings",
-    "count": 19,
+    "count": 21,
     "decades": 8
   },
   "papers": [
@@ -37,6 +37,18 @@
       "title": "Hawke's Bay Tribune",
       "firstYear": "1910",
       "finalYear": "1937"
+    },
+    {
+      "id": "3135",
+      "title": "Hawke's Bay Tribune",
+      "firstYear": "1910",
+      "finalYear": "1937"
+    },
+    {
+      "id": "3042",
+      "title": "Te Reo O Aotearoa",
+      "firstYear": "1932",
+      "finalYear": "1934"
     },
     {
       "id": "1736",

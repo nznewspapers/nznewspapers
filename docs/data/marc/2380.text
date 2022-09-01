@@ -1,0 +1,34 @@
+01506cas a2200421 a 4500
+001 999251193502836
+003 Nz
+005 20210401181313.0
+008 891101c19859999nz erzne      0   a0eng  
+022 0  $a 0002-3612 $2 _g
+035    $a (nzNZBN)5192413
+035    $a zbn89082523
+035    $a (Nz)3531235
+035    $a (NLNZils)925119
+035    $a (NLNZils)925119-ilsdb
+035    $a (OCoLC)946531375
+040    $a NZNB $c NZNB
+042    $a nznb
+043    $a u-nz---
+082 04 $a 079.9371 $2 20NZ
+222  0 $a Akaroa mail and Banks Peninsula advertiser
+245 04 $a The Akaroa mail and Banks Peninsula advertiser.
+246 37 $a Akaroa mail
+260    $a Akaroa [N.Z.] : $b Akaroa Mail
+300    $a v. : $b ill. ; $c 43 cm.
+310    $a Bi-weekly
+362 1  $a Began with July 5, 1985
+500    $a Community newspaper.
+500    $a Description based on: Friday Oct. 20, 1989; title from masthead.
+525    $a Nov. 15 2012 issue has supplement with title: Disasters, mysteries and sensations, produced by the Akaroa Museum.
+530    $a Available on microfilm from Microfilm Production Unit, National Library of New Zealand.
+580    $a Complemented by: Lyttelton news and Little River informer, published alternately.
+588    $a Latest issue consulted: Nov. 15 2012
+651  0 $a Akaroa (Christchurch, N.Z.) $v Newspapers.
+651  0 $a Banks Peninsula (N.Z.) $v Newspapers.
+655  7 $a New Zealand newspapers. $2 local $5 Nz
+787 0  $t Little River informer
+787 0  $t Lyttelton news

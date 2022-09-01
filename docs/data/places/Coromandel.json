@@ -1,8 +1,8 @@
 {
   "stats": {
     "placename": "Coromandel",
-    "count": 5,
-    "decades": 3
+    "count": 7,
+    "decades": 4
   },
   "papers": [
     {
@@ -34,6 +34,18 @@
       "title": "Coromandel County News",
       "firstYear": "1890",
       "finalYear": "1930"
+    },
+    {
+      "id": "3073",
+      "title": "Coromandel Sun",
+      "firstYear": "1896",
+      "finalYear": "1899"
+    },
+    {
+      "id": "3060",
+      "title": "Advocate",
+      "firstYear": "1948",
+      "finalYear": "1950"
     }
   ]
 }

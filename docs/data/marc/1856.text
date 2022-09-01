@@ -1,0 +1,33 @@
+01377cas a2200409 a 4500
+001 999262743502836
+003 Nz
+005 20210401181337.0
+008 900831c19899999nz wr|n       0   a0eng  
+022 0  $a 1170-1676 $y 0117-1676 $2 _g
+035    $a (nzNZBN)5545617
+035    $a (NLNZils)926274
+035    $a zbn90071917
+035    $a (Nz)3659254
+035    $a (NLNZils)926274-ilsdb
+035    $a (OCoLC)173334817
+040    $a NZNB $c NZNB
+042    $a nznb
+043    $a u-nz---
+082 04 $a 079.9319 $2 20NZ
+222  0 $a Ruapehu bulletin
+245 00 $a Ruapehu bulletin.
+246 30 $a Bulletin
+260    $a Ohakune [N.Z.] : $b Ruapehu Publishers, $c 1989-
+260 3  $3 11 August 2015- : $a Ohakune [N.Z.] : $b Ruapehu Media Ltd
+300    $a v. : $b ill., ports. ; $c 42 cm.
+310    $a Weekly
+362 1  $a Began with Feb. 1989.
+500    $a "Reaching 3,000 homes every Tuesday in Ohakune, National Park, Raetihi, Waiouru and surrounding rural areas."
+500    $a Includes advertising.
+500    $a Description based on: Vol. 6, no. 285 (Tuesday 2nd, May 1989); title from masthead.
+651  0 $a Ruapehu District (N.Z.) $v Newspapers.
+651  0 $a King Country (N.Z.) $v Newspapers.
+655  7 $a New Zealand newspapers. $2 local $5 Nz
+770 0  $t Ruapehu snow bulletin
+776 0  $i Online version: $t Ruapehu bulletin (Online) $x 1178-7406
+780 00 $t Waimarino bulletin.

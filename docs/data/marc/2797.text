@@ -1,0 +1,29 @@
+01269cas a2200361 a 4500
+001 995085303502836
+003 Nz
+005 20210401190636.0
+008 051109d19911998nz brzne      0   a0eng  
+022 0  $a 1170-9804 $2 _g
+035    $z 321804
+035    $a (nzNZBN)5914477
+035    $a zbn91084778
+035    $a (NLNZils)508530
+035    $a (Nz)5089403
+035    $a (NLNZils)508530-ilsdb
+035    $a (OCoLC)173364484
+040    $a NZNB $c NZNB
+042    $a nznb
+043    $a u-nz---
+082 0  $a 305.899405 $a 079.9319 $2 20NZ
+222  0 $a Kia hiwa ra
+245 00 $a Kia hiwa ra.
+260    $a Te Kuiti [N.Z.] : $b Maniapoto Maori Trust Board, $c 1991-1998.
+300    $a v. : $b ill. (some col.), ports. (some col.) ; $c 44 cm.
+362 1  $a Began with no. 1. (June 1991); ceased with no. 60 (Feb. 1998).
+500    $a Description based on: No. 2 (Aug. 1991); title from masthead.
+500    $a Available from Maniopoto Maori Trust Board, P.O. Box 36, Te Kuiti, N.Z.
+510 2  $a Index New Zealand, $x 0113-6526, $b no. 1. (June 1991) - no. 60 (Feb. 1998).
+650  0 $a Ngāti Maniapoto (New Zealand people) $v Newspapers.
+655  7 $a New Zealand newspapers. $2 local $5 Nz
+655  7 $a Maori newspapers. $2 local $5 Nz
+710 1  $a New Zealand. $b Maniapoto Maori Trust Board.

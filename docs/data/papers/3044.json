@@ -1,0 +1,17 @@
+{
+  "id": 3044,
+  "title": "Sun Sports Review",
+  "genre": "Newspaper",
+  "firstYear": "192u",
+  "finalYear": "192u",
+  "district": "Christchurch City",
+  "idMarcControlNumber": "8182186",
+  "isCurrent": false,
+  "placecode": "12-05",
+  "placename": "Christchurch",
+  "region": "Canterbury",
+  "sources": {
+    "2022-08-31T04:35:22.981Z": "Extracted from the New Zealand National Bibliography (MARC record 8182186) downloaded June 2022."
+  },
+  "revision": 1
+}

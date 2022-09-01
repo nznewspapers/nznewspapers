@@ -1,7 +1,7 @@
 {
   "stats": {
     "placename": "Taupo",
-    "count": 4,
+    "count": 5,
     "decades": 3
   },
   "papers": [
@@ -30,6 +30,12 @@
       "firstYear": "1983",
       "finalYear": "9999",
       "urlCurrent": "http://www.facebook.com/pages/Taupo-Weekender/105073816244171"
+    },
+    {
+      "id": "3121",
+      "title": "Taupo Midweek",
+      "firstYear": "1986",
+      "finalYear": "9999"
     }
   ]
 }

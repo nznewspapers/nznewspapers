@@ -1,0 +1,29 @@
+01307cas a2200361 a 4500
+001 999261253502836
+003 Nz
+005 20211110163210.0
+008 891013c19389999nz crzne      0   a0eng  
+022 0  $a 1170-1021 $y 0117-1021
+035    $a (nzNZBN)5164367
+035    $a zbn89076122
+035    $a (Nz)3531215
+035    $a (NLNZils)926125
+035    $a (NLNZils)926125-ilsdb
+035    $a (OCoLC)173333276
+040    $a NZNB $c NZNB
+042    $a nznb
+043    $a u-nz---
+082 04 $a 079.9316 $2 20NZ
+222  0 $a Opotiki news
+245 04 $a The Opotiki news
+260    $a Opotiki [N.Z.] : $b Opotiki News, $c 1938-
+300    $a v. : $b ill., map, ports. ; $c 46 cm.
+310    $a Twice a week $b Oct. 8, 1940-
+321    $a Three times a week $b -Oct. 4, 1940
+362 1  $a Began with Feb. 21, 1938. $z Cf. Harvey, D. R. Union list of newspapers ... in New Zealand.
+500    $a "Serving Opotiki District Community, Opotiki County, Waimana and East Coast to Cape Runaway."
+530    $a Available on microfilm from Microfilm Production Unit, National Library of New Zealand.
+588    $a Description based on: No. 69 (Tuesday Sept. 5, 1989);. title from masthead.
+651  0 $a Opotiki (N.Z.) $v Newspapers.
+655  7 $a New Zealand newspapers. $2 local $5 Nz
+776 08 $i Online version: $t Opotiki news $x 2744-7723

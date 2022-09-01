@@ -1,0 +1,35 @@
+{
+  "id": 3061,
+  "title": "Alexandra Herald",
+  "genre": "Newspaper",
+  "firstYear": "1899",
+  "finalYear": "1948",
+  "district": "Central Otago District",
+  "frequency": "Weekly",
+  "idMarcControlNumber": "8123452",
+  "isCurrent": false,
+  "placecode": "13-02",
+  "placename": "Alexandra",
+  "region": "Otago",
+  "links": {
+    "unknown-1": {
+      "direction": "Succeeding",
+      "relationship": "Merged",
+      "target-description": "Lake County mail"
+    },
+    "unknown-2": {
+      "direction": "Succeeding",
+      "relationship": "Merged",
+      "target-description": "Dunstan times"
+    },
+    "unknown-3": {
+      "direction": "Succeeding",
+      "relationship": "Merged",
+      "target-description": "Central Otago news"
+    }
+  },
+  "sources": {
+    "2022-08-31T04:35:30.975Z": "Extracted from the New Zealand National Bibliography (MARC record 8123452) downloaded June 2022."
+  },
+  "revision": 1
+}

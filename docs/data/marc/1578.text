@@ -1,0 +1,26 @@
+01002cas a2200325 i 4500
+001 9915950753502836
+003 Nz
+005 20161223171341.0
+008 040105d19731973nz wr ne      0   a0eng  
+035    $a (Nz)8156588
+035    $a (NLNZils)1595075
+035    $a (NLNZils)1595075-ilsdb
+035    $a (OCoLC)841485298
+040    $a NZNB $b eng $e rda $c NZNB
+042    $a nznb
+043    $a u-nz---
+082 04 $a 079.9334 $2 23
+245 00 $a Hamilton City east-west news.
+246 10 $a East-west news
+264  1 $a Hamilton : $b Hi-line Entertainment and Broadcasting Ltd.
+300    $a volumes : $b illustrations ; $c 45 cm.
+310    $a Weekly
+336    $a text $2 rdacontent
+337    $a unmediated $2 rdamedia
+338    $a volume $2 rdacarrier
+362 1  $a Began and ceased in 1973?
+588    $a Description based on: November 22nd, 1973; title from caption.
+588    $a Latest issue consulted: November 22nd, 1973.
+651  0 $a Hamilton (N.Z.) $v Newspapers.
+655  7 $a New Zealand newspapers. $2 local $5 Nz

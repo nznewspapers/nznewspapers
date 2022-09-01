@@ -1,0 +1,32 @@
+01379cas a2200397 a 4500
+001 999256173502836
+003 Nz
+005 20210401181201.0
+008 891101c19799999nz wrzne      0   a0eng  
+022 0  $a 1170-0513 $y 0117-0513 $2 _g
+035    $a (nzNZBN)5192415
+035    $a zbn89082506
+035    $a (NLNZils)925617
+035    $a (Nz)3531242
+035    $a (NLNZils)925617-ilsdb
+035    $a (OCoLC)173333295
+040    $a NZNB $c NZNB
+042    $a nznb
+043    $a u-nz---
+082 04 $a 079.9313 $2 20NZ
+210 1  $a Hauraki her.
+222  0 $a Hauraki herald
+245 00 $a Hauraki herald.
+260    $a Thames [N.Z.] : $b [Hauraki Publishers], $c 1979-
+260 2  $3 <2015>- $a [Auckland, N.Z. : $b Fairfax Media]
+260 3  $3 <February 2018-> $a [Auckland, N.Z. : $b Stuff Limited]
+300    $a v. : $b ill., form, plan, ports. ; $c 44 cm.
+310    $a Weekly
+362 1  $a Began with Mar. 17, 1979. $z Cf. Harvey, D. R. Union list of newspapers ... in New Zealand.
+500    $a Community newspaper.
+500    $a Includes advertising.
+500    $a Description based on: Saturday Sept. 30, 1989; title from masthead.
+530    $a Available on microfilm from Microfilm Production Unit, National Library of New Zealand.
+651  0 $a Hauraki District (N.Z.) $v Newspapers.
+655  7 $a New Zealand newspapers. $2 local $5 Nz
+776 08 $i Online version: $t Hauraki Herald $x 2463-7122

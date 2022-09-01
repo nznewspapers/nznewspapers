@@ -1,0 +1,26 @@
+01060cas a2200325 a 4500
+001 999193243502836
+003 Nz
+005 20181207190558.0
+008 031128c20009999nz wr ne |    0   a0eng  
+035    $a (NLNZils)919324
+035    $a (Nz)8141209
+035    $a (NLNZils)919324-ilsdb
+035    $a (OCoLC)173421049
+040    $a NZNB $c NZNB
+042    $a nznb
+043    $a u-nz---
+082 04 $a 079.93467 $2 22
+245 04 $a The Napier mail.
+260    $a Napier [N.Z.] : $b Napier Mail, $c [2000]-
+260 3  $3 <2015>- $a [Auckland, N.Z. : $b Fairfax Media]
+300    $a v. : $b ill. (some col.) ; $c 40 cm.
+310    $a Weekly
+362 1  $a Began with Sept. 29, 2000.
+500    $a Community newspaper.
+515    $a Jan. 7, 2015 issue published jointly with Hastings & Havelock North mail.
+588    $a Description based on: Dec. 3, 2003; title from caption.
+588    $a Latest issue consulted: Jan. 7, 2015.
+651  0 $a Napier (N.Z.) $v Newspapers.
+655  7 $a New Zealand newspapers. $2 local $5 Nz
+776 0  $i Online version: $t Napier mail $w (Nz)9917975853502836

@@ -1,0 +1,36 @@
+01536cas a2200445 a 4500
+001 994882123502836
+003 Nz
+005 20210401185127.0
+008 c19849c19849999nz wrzne      0   a0eng  
+022 0  $a 1170-0092 $y 0117-0092 $2 _g
+035    $a (nzNZBN)5435654
+035    $a zbn90036951
+035    $a (NLNZils)488212
+035    $z 300466
+035    $a (Nz)2859830
+035    $a (NLNZils)488212-ilsdb
+035    $a (OCoLC)173327739
+040    $a NZNB $c NZNB
+042    $a nznb
+043    $a u-nz---
+082 04 $a 079.9315 $2 20NZ
+210 1  $a Camb. ed.
+222  0 $a Cambridge edition
+245 00 $a Cambridge edition.
+246 30 $a Edition
+260    $a Cambridge [N.Z.] : $b New Edition, $c 1984-
+260 2  $3 <2015>- $a [Auckland, N.Z. : $b Fairfax Media]
+260 3  $3 <February 2018-> $a [Auckland, N.Z. : $b Stuff Limited]
+300    $a v. : $b ill., map, ports. ; $c 44 cm.
+310    $a Weekly
+362 1  $a Began with Jan. 25 1984. $z Cf. Harvey, D. R. Union list of newspapers in New Zealand.
+500    $a Community newspaper.
+500    $a Includes advertising.
+500    $a Rural delivery comes inside Cambridge edition & Matamata chronicle.
+500    $a Description based on: V. 9, no. 33 (Wednesday, Sept. 13, 1989); title from masthead.
+530    $a Available on microfilm from Microfilm Production Unit, National Library of New Zealand.
+651  0 $a Cambridge (N.Z.) $v Newspapers.
+655  7 $a New Zealand newspapers. $2 local $5 Nz
+776 08 $i Online version: $t Cambridge edition $x 2463-6835
+780 00 $t New edition

@@ -1,0 +1,18 @@
+{
+  "id": 3114,
+  "title": "Bay City Beacon",
+  "genre": "Newspaper",
+  "firstYear": "1981",
+  "finalYear": "uuuu",
+  "district": "Auckland",
+  "frequency": "Weekly",
+  "idMarcControlNumber": "8131723",
+  "isCurrent": false,
+  "placecode": "02-01",
+  "placename": "Brown's Bay",
+  "region": "Auckland",
+  "sources": {
+    "2022-08-31T04:35:41.704Z": "Extracted from the New Zealand National Bibliography (MARC record 8131723) downloaded June 2022."
+  },
+  "revision": 1
+}

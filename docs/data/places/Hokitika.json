@@ -1,7 +1,7 @@
 {
   "stats": {
     "placename": "Hokitika",
-    "count": 15,
+    "count": 16,
     "decades": 6
   },
   "papers": [
@@ -64,6 +64,12 @@
     {
       "id": "2331",
       "title": "Lantern",
+      "firstYear": "1870",
+      "finalYear": "1870"
+    },
+    {
+      "id": "3136",
+      "title": "The Tomahawk",
       "firstYear": "1870",
       "finalYear": "1870"
     },

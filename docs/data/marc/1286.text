@@ -1,0 +1,37 @@
+01510cas a2200457 a 4500
+001 999251243502836
+003 Nz
+005 20200716171837.0
+008 891208d18481848nz wr|ne      0   a0eng  
+035    $a (nzNZBN)5235913
+035    $a (NLNZils)925124
+035    $a (Nz)3716344
+035    $a (NLNZils)925124-ilsdb
+035    $a (OCoLC)173335228
+040    $a NZNB $c NZNB
+041 0  $a eng $a mao
+042    $a nznb
+043    $a u-nz---
+082 04 $a 079.93 $2 20
+245 04 $a The Anglo-Maori warder.
+260    $a Auckland [N.Z.] : $b Williamson and Wilson, $c 1848.
+300    $a 1 v. ; $c 46 cm.
+310    $a Weekly
+362 0  $a Vol. 1, [no. 1] (Apr. 25 1848)- v. 1., no. 26 (Oct. 1848)
+500    $a Title from caption.
+500    $a Editors: J. Williamson, W.C. Wilson.
+500    $a Includes advertising.
+510 4  $a Williams, $c no. 180.
+546    $a Text in English with some Maori.
+650  0 $a Maori (New Zealand people) $v Newspapers.
+650  7 $a Nūpepa. $2 reo
+650  7 $a Rauemi matua. $2 reo
+655  7 $a New Zealand newspapers. $2 local $5 Nz
+655  7 $a Maori newspapers. $2 local $5 Nz
+700 1  $a Jones, W. $q (William), $d 19th cent. $e printer.
+700 1  $a Williamson, John, $d 1815-1875.
+700 1  $a Wilson, W. C. $q (William Chisholm), $d 1810-1876.
+700 1  $a Parr, Christopher $c (Book collector), $e former owner.
+700 1  $a Williams, Henry, $d 1792-1867, $e former owner.
+752    $a New Zealand $d Auckland.
+776 08 $i Online version: $t Anglo-Maori warder $w (Nz)9916617033502836

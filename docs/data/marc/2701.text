@@ -1,0 +1,38 @@
+01704cas a2200469 a 4500
+001 993607473502836
+003 Nz
+005 20210401190720.0
+008 980622c19989999nz mr|n       0   a0eng  
+022 0  $a 1174-5509 $z 2703-3341 $2 _g
+035    $a (nzNZBN)10831670
+035    $a (NLNZils)360747
+035    $a zbn98047266
+035    $z 630148
+035    $z zbn98047266
+035    $a (Nz)4856867
+035    $a (NLNZils)360747-ilsdb
+035    $a (OCoLC)173352828
+040    $a NZNB $c NZNB
+042    $a nznb
+043    $a u-nz---
+082 04 $a 919.9316005 $2 21
+210 1  $a Russell lights
+222  0 $a Russell lights
+245 00 $a Russell lights.
+246 1  $i Issues for Nov. 2019-Dec. 2019 have title: $a New Russell lights
+260    $a Russell [N.Z.] : $b Russell Lights, $c [1998]-
+260 2  $3 Mar. 2000- $a Russell : $b Published on behalf of Enterprise Russell by Innovation Northland Ltd.
+260 3  $3 Nov. 2019- $a [Russell] : $b Resilient Russell Charitable Trust
+300    $a v. : $b ill. ; $c 30 cm.
+310    $a Monthly, $b <Nov. 2019>-
+321    $a Biweekly, $b -<Sept. 2019>
+362 0  $a Vol. 1, issue 1 (19 Jan. 1998)-
+500    $a Title from caption.
+500    $a 14 Dec. 1999-21 Dec. 1999 issued as lift-out section in Northern news (Kaikohe, N.Z.)
+500    $a Issue for Apr. 2020 published in online format only, not issued in print format.
+515    $a Numbering began again with issue no. 01 (Nov. 2019).
+588    $a Latest issue consulted: Issue no. 05 (Mar. 2020).
+651  0 $a Russell (N.Z.) $v Periodicals.
+655  7 $a New Zealand newspapers. $2 local $5 Nz
+776 08 $i Online version: $t Russell lights $x 2538-1040
+787 0  $t Northern news (Kaikohe, N.Z.) $x 1170-0998

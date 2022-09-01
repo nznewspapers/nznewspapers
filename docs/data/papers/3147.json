@@ -1,0 +1,30 @@
+{
+  "id": 3147,
+  "title": "Marlborough Express Weekly Edition",
+  "genre": "Newspaper",
+  "firstYear": "1882",
+  "finalYear": "1887",
+  "district": "Marlborough District",
+  "frequency": "Weekly",
+  "idMarcControlNumber": "14770208",
+  "isCurrent": false,
+  "placecode": "10-03",
+  "placename": "Blenheim",
+  "region": "Top of the South",
+  "links": {
+    "unknown-1": {
+      "direction": "Preceding",
+      "relationship": "Continues",
+      "target-description": "Weekly Marlborough express"
+    },
+    "unknown-2": {
+      "direction": "Succeeding",
+      "relationship": "Continued by",
+      "target-description": "Marlborough weekly news"
+    }
+  },
+  "sources": {
+    "2022-08-31T04:35:54.224Z": "Extracted from the New Zealand National Bibliography (MARC record 14770208) downloaded June 2022."
+  },
+  "revision": 1
+}

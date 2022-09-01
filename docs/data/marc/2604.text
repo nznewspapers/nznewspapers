@@ -1,0 +1,26 @@
+00927cas a2200325 a 4500
+001 999283533502836
+003 Nz
+005 20210401181221.0
+008 940808d18841890nz dr ne      0   a0eng d
+035    $a (nzNZBN)8737312
+035    $a (NLNZils)928353
+035    $a abn94192968
+035    $a (Nz)3321882
+035    $a (NLNZils)928353-ilsdb
+035    $a (OCoLC)173331230
+040    $a ABN $d WN
+042    $a nznb
+043    $a u-nz---
+130 0  $a Evening herald (Dunedin, N.Z.)
+245 10 $a Evening herald.
+260    $a Dunedin, [N.Z] : $b Thomas Bracken, for the Herald Newspaper Company Ltd., $c 1884-1890.
+300    $a v. ; $c 70 cm.
+310    $a Daily
+362 0  $a 1884 May17-1890 Sep.2
+500    $a Size varies.
+651  0 $a Dunedin (N.Z.) $v Newspapers.
+655  7 $a New Zealand newspapers. $2 local $5 Nz
+752    $a New Zealand $d Dunedin.
+780 00 $t Morning herald (Dunedin, N.Z.)
+785 00 $t Globe (Dunedin, N.Z.)

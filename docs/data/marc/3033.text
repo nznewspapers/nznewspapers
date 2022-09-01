@@ -1,0 +1,35 @@
+01715cas a2200433 a 4500
+001 9912829423502836
+003 Nz
+005 20180809133023.0
+006 m        d        
+007 cr#cn#---m||||
+008 080320c19899999nz wr|n s     0   a0eng  
+022 0  $a 1178-7406 $y 1170-1676 $2 _g
+035    $a (NLNZils)1282942
+035    $a (Nz)11656703
+035    $a (NLNZils)1282942-ilsdb
+035    $a (OCoLC)214059195
+040    $a NZNB $c NZNB
+042    $a nznb
+043    $a u-nz---
+082 04 $a 079.9352 $2 22
+130 0  $a Ruapehu bulletin (Online)
+210 1  $a Ruepehu bull. $b (Online)
+222  0 $a Ruapehu bulletin $b (Online)
+245 10 $a Ruapehu bulletin $h [electronic resource].
+260    $a Ohakune [N.Z.] : $b Ruapehu Media
+310    $a Weekly
+362 1  $a Print began with Feb. 1989.
+500    $a Archived by the National Library of New Zealand.
+500    $a Hypertext links contained in the archived instances of this title are non-functional. $5 Nz
+500    $a Description based on: Vol. 23, no. 1174 (20 Mar. 2007); title from PDF caption (viewed on Mar. 20, 2008)
+500    $a Latest issue consulted: Vol. 24, no. 1223 (18 Mar. 2008) (viewed on Mar. 20, 2008)
+520    $a Online edition of the community newspaper, covering Ohakune, National Park, Raetihi, Waiouru, and surrounding rural areas. Issues available in full-text.
+538    $a Mode of access: World Wide Web.
+651  0 $a Ruapehu District (N.Z.) $v Newspapers.
+651  0 $a King Country (N.Z.) $v Newspapers.
+655  7 $a New Zealand newspapers. $2 local $5 Nz
+770 0  $t Ruapehu snow bulletin (Online)
+776 0  $i Print version: $t Ruapehu bulletin $x 1170-1676
+856 40 $u https://www.ohakune.info/ruapehu-bulletin.html

@@ -1,0 +1,35 @@
+01343cas a2200433 a 4500
+001 991520143502836
+003 Nz
+005 20210401182352.0
+008 c19829d19822018nz mr ne      0   a0eng  
+022 0  $a 2463-6878 $2 _g
+035    $z 507654
+035    $a (nzNZBN)6622660
+035    $a abn87266992
+035    $a (NLNZils)152014
+035    $a (Nz)4025531
+035    $a (NLNZils)152014-ilsdb
+035    $a (OCoLC)173338772
+040    $a NZNB $c ABN $d NZNB
+042    $a nznb
+043    $a u-nz---
+082 04 $a 630/.9/93127 $2 19
+210 1  $a Cent. Dist. farmer
+222  0 $a Central Districts farmer
+245 00 $a Central Districts farmer.
+260    $a Palmerston North, [N.Z.] : $b Manawatu Standard Ltd., $c 1982-
+260 2  $3 <2015>- $a [Auckland, N.Z. : $b Fairfax Media]
+260 3  $3 <February 2018-> $a [Auckland, N.Z. : $b Stuff Limited]
+300    $a v. : $b ill., ports. ; $c 43 cm.
+310    $a Monthly
+321    $a Biweekly
+362 0  $a Vol. 1, no. 1 (Apr. 7, 1982)-
+362 1  $a Ceased with June 11, 2018.
+500    $a Caption title.
+650  0 $a Agriculture $z New Zealand $v Periodicals.
+651  0 $a Manawatu-Wanganui (N.Z.) $v Newspapers.
+655  7 $a New Zealand newspapers. $2 local $5 Nz
+776 08 $i Online version: $t Central Districts farmer $x 2463-6886
+780 05 $t Manawatu farmer
+780 05 $t Wanganui Rangitikei farmer

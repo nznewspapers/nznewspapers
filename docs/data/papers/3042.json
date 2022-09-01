@@ -1,0 +1,24 @@
+{
+  "id": 3042,
+  "title": "Te Reo O Aotearoa",
+  "genre": "Newspaper",
+  "firstYear": "1932",
+  "finalYear": "1934",
+  "district": "Hastings District",
+  "idMarcControlNumber": "4527936",
+  "isCurrent": false,
+  "placecode": "06-02",
+  "placename": "Hastings",
+  "region": "Hawke's Bay",
+  "links": {
+    "unknown-1": {
+      "direction": "Preceding",
+      "relationship": "Continues",
+      "target-description": "Toa takitini (1929)"
+    }
+  },
+  "sources": {
+    "2022-08-31T04:35:21.127Z": "Extracted from the New Zealand National Bibliography (MARC record 4527936) downloaded June 2022."
+  },
+  "revision": 1
+}

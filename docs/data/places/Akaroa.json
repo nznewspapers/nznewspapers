@@ -1,8 +1,8 @@
 {
   "stats": {
     "placename": "Akaroa",
-    "count": 1,
-    "decades": 1
+    "count": 3,
+    "decades": 2
   },
   "papers": [
     {
@@ -11,6 +11,18 @@
       "firstYear": "1876",
       "finalYear": "9999",
       "urlDigitized": "https://paperspast.natlib.govt.nz/newspapers/akaroa-mail-and-banks-peninsula-advertiser"
+    },
+    {
+      "id": "3144",
+      "title": "The Akaroa Mail And Banks Peninsula Advertiser",
+      "firstYear": "1876",
+      "finalYear": "19uu"
+    },
+    {
+      "id": "3143",
+      "title": "The Akaroa Mail",
+      "firstYear": "19uu",
+      "finalYear": "1985"
     }
   ]
 }

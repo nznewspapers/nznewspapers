@@ -1,0 +1,17 @@
+{
+  "id": 3064,
+  "title": "Argus And Newtown Chronicle",
+  "genre": "Newspaper",
+  "firstYear": "1894",
+  "finalYear": "uuuu",
+  "district": "Wellington City",
+  "idMarcControlNumber": "8123578",
+  "isCurrent": false,
+  "placecode": "09-08",
+  "placename": "Wellington",
+  "region": "Wellington",
+  "sources": {
+    "2022-08-31T04:35:30.977Z": "Extracted from the New Zealand National Bibliography (MARC record 8123578) downloaded June 2022."
+  },
+  "revision": 1
+}

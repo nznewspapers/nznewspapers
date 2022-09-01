@@ -1,0 +1,24 @@
+00864cas a2200301 a 4500
+001 999256403502836
+003 Nz
+005 20161223153710.0
+008 031215d19942013nz er|ne      0   0 eng d
+035    $a (NLNZils)925640
+035    $a (Nz)8128222
+035    $a (NLNZils)925640-ilsdb
+035    $a (OCoLC)946531181
+040    $a NZNB $c NZNB
+042    $a nznb
+043    $a u-nz---
+082 04 $a 079.9381 $2 23
+245 00 $a Hurunui news.
+260    $a [Amberley, N.Z. : $b Hurunui News, $c 1994-2013]
+310    $a Biweekly
+362 0  $a 1994 Jan.?-
+362 1  $a Ceased with issue 554 (June 6, 2013)
+588    $a Latest issue consulted: Issue 554 (June 6, 2013).
+651  0 $a Hurunui District (N.Z.) $v Newspapers.
+655  7 $a New Zealand newspapers. $2 local $5 Nz
+780 00 $t Hurunui District news
+785 07 $t North Canterbury news
+785 07 $t News (Amberley, N.Z.)

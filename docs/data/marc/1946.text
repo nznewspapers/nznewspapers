@@ -1,0 +1,31 @@
+01336cas a2200385 a 4500
+001 998710613502836
+003 Nz
+005 20210401181034.0
+008 900330d19882003nz dnzne      0   a0eng  
+022 0  $a 1170-0378 $y 0117-0378
+035    $a (nzNZBN)5367797
+035    $a zbn90020508
+035    $a (NLNZils)871061
+035    $a (Nz)3561164
+035    $a (NLNZils)871061-ilsdb
+035    $a (OCoLC)173333795
+040    $a NZNB $c NZNB
+042    $a nznb
+043    $a u-nz---
+082 04 $a 079.93 $2 20
+222  0 $a Dannevirke and district evening news
+245 00 $a Dannevirke and district evening news.
+246 30 $a Evening news
+246 33 $a Dannevirke evening news
+260    $a Dannevirke, N.Z. : $b Dannevirke Publishing Co., $c 1988-2003.
+300    $a v. : $b ill., map, ports. ; $c 60 cm.
+310    $a Daily (except Sunday)
+362 1  $a Began with vol. no. 125 (Saturday, Oct. 1, 1988); ceased with Nov. 29, 2003.
+500    $a Includes advertising.
+500    $a Description based on: Vol. no. 88 (Friday Aug. 18, 1989); title from masthead.
+530    $a Available on microfilm from Microfilm Production Unit, National Library of New Zealand.
+651  0 $a Dannevirke (N.Z.) $v Newspapers.
+655  7 $a New Zealand newspapers. $2 local $5 Nz
+780 00 $t Evening news (Dannevirke, N.Z.)
+785 00 $t Dannevirke news $x 1176-497X

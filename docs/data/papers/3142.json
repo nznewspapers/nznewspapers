@@ -1,0 +1,29 @@
+{
+  "id": 3142,
+  "title": "The Rangitikei Mail",
+  "genre": "Newspaper",
+  "firstYear": "1955",
+  "finalYear": "2002",
+  "district": "Rangitikei District",
+  "idMarcControlNumber": "3531217",
+  "isCurrent": false,
+  "placecode": "08-02",
+  "placename": "Marton",
+  "region": "Manawatu-Wanganui",
+  "links": {
+    "unknown-1": {
+      "direction": "Succeeding",
+      "relationship": "Merged",
+      "target-description": "Feilding herald"
+    },
+    "unknown-2": {
+      "direction": "Succeeding",
+      "relationship": "Merged",
+      "target-description": "Feilding herald Rangitikei mail"
+    }
+  },
+  "sources": {
+    "2022-08-31T04:35:52.094Z": "Extracted from the New Zealand National Bibliography (MARC record 3531217) downloaded June 2022."
+  },
+  "revision": 1
+}

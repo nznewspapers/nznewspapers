@@ -1,0 +1,33 @@
+01209cas a2200409 a 4500
+001 999278943502836
+003 Nz
+005 20161223153858.0
+008 891207d19891996nz zxzn       0   a0eng  
+022 0  $a 1170-117X $y 0117-117X
+035    $a (nzNZBN)5235931
+035    $a zbn89090980
+035    $a (NLNZils)927894
+035    $a (Nz)3526809
+035    $a (NLNZils)927894-ilsdb
+035    $a (OCoLC)173333187
+040    $a NZNB $c NZNB $d CU
+042    $a nznb
+043    $a u-nz---
+082 04 $a 079.9371 $2 20NZ
+130 0  $a Community news (Pegasus post ed.)
+222  0 $a Community news $b (Pegasus post edition)
+245 00 $a Community news.
+246 37 $a Pegasus post
+250    $a Pegasus post ed.
+260    $a [Christchurch, N.Z.] : $b Canterbury Community Newspapers, $c [1989-1996]
+300    $a v. : $b ill., forms, maps, ports. ; $c 41 cm.
+310    $a Weekly
+321    $a Fortnightly
+362 0  $a Apr. 17 1989-Nov. 18, 1996.
+500    $a Community newspaper.
+500    $a Title from masthead.
+500    $a Includes advertising.
+651  0 $a Christchurch Region (N.Z.) $x Periodicals.
+655  7 $a New Zealand newspapers. $2 local $5 Nz
+780 00 $t Pegasus post
+785 00 $t Pegasus post (1996)

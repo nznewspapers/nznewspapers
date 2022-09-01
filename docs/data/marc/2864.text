@@ -1,0 +1,30 @@
+01082cas a2200373 a 4500
+001 999261393502836
+003 Nz
+005 20210401181215.0
+008 920303d19911996nz mrzne |    0   a0eng  
+022 0  $a 1171-1582
+035    $a (nzNZBN)6405555
+035    $a zbn92014341
+035    $a (NLNZils)926139
+035    $a (Nz)5037346
+035    $a (NLNZils)926139-ilsdb
+035    $a (OCoLC)173359052
+040    $a NZNB $c NZNB
+042    $a nznb
+043    $a u-nz---
+082 04 $a 079.9342 $2 20NZ
+210 0  $a Petone her.
+222  0 $a Petone herald
+245 04 $a The Petone herald.
+260    $a Eastbourne [N.Z.] : $b Petone Publishing, $c [1991-1996]
+300    $a v. : $b ill., ports. ; $c 42 cm.
+310    $a Monthly
+362 0  $a Dec. 13, 1991-
+362 1  $a Ceased in Nov. 1996?
+500    $a Title from masthead.
+500    $a Available from Petone Publishing Ltd., P.O. Box 41-066, Eastbourne, N.Z.
+651  0 $a Petone (Lower Hutt, N.Z.) $v Newspapers.
+655  7 $a New Zealand newspapers. $2 local $5 Nz
+780 00 $t Petone chronicle
+785 00 $t Petone and Harbour Ward herald

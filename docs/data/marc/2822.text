@@ -1,0 +1,33 @@
+01418cas a2200409 a 4500
+001 999251263502836
+003 Nz
+005 20210401181322.0
+008 891215d18921892nz er ne      0   a0mao  
+035    $a (nzNZBN)5242288
+035    $a zbn89093285
+035    $a (NLNZils)925126
+035    $a (Nz)4189292
+035    $a (NLNZils)925126-ilsdb
+035    $a (OCoLC)173340526
+040    $a NZNB $c NZNB
+042    $a nznb
+043    $a u-nz---
+082 04 $a 079.93 $2 20
+130 0  $a Aotearoa (Napier, N.Z.)
+245 10 $a Aotearoa : $b he nupepa ma nga tangata Maori.
+260    $a Nepia [i.e. Napier, N.Z.] : $b He mea ta ki te Whare Ta o te Iwinini Niuhi, i raro i te mana o Hone Tamati Mariata Honepi, $c [1892]
+300    $a 2 v. ; $c 38 cm.
+310    $a Biweekly
+362 0  $a Pukapuka 1, nama 1 (4 Hune 1892)-pukapuka 1, nama 2 (25 Hune 1892).
+500    $a Title from masthead.
+500    $a Printed by John Thomas Marryat Hornsby.
+510 4  $a Williams, $c 817
+510 4  $a Williams (suppl.), $c 817
+510 4  $a Books in Māori, $c S32
+515    $a Page numbering continuous.
+520    $a "Political newspaper published in Napier"--BIM.
+650  0 $a Maori (New Zealand people) $v Newspapers.
+655  7 $a New Zealand newspapers. $2 local $5 Nz
+655  7 $a Maori newspapers. $2 local $5 Nz
+700 1  $a Honepi, Hone Tamati Mariata, $d 1857-1921 $e printer.
+776 08 $i Online version: $t Aotearoa $w (Nz)9917067603502836

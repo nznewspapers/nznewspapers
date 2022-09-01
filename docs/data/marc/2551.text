@@ -1,0 +1,40 @@
+01818cas a2200493 a 4500
+001 994802613502836
+003 Nz
+005 20210401184904.0
+008 c18799c18799999nz wr|ne      0   a0eng  
+022 0  $a 1170-0793 $y 0117-0793 $2 _g
+035    $a (nzNZBN)5123682
+035    $a (NLNZils)480261
+035    $a zbn89077167
+035    $z 291970
+035    $a (Nz)4871236
+035    $a (NLNZils)480261-ilsdb
+035    $a (OCoLC)173353373
+040    $a NZNB $c NZNB
+042    $a nznb
+043    $a u-nz---
+082 04 $a 079.93 $2 20
+210 1  $a Oamaru mail
+222  0 $a Oamaru mail
+245 04 $a The Oamaru mail.
+260    $3 -Apr. 2013 : $a Oamaru [N.Z.] : $b Oamaru Mail, $c 1879-
+260 3  $3 May 2013- : $a Oamaru [N.Z.] : $b Oamaru Media
+300    $a v. : $b ill., forms, ports. (some col.) ; $c 50-58 cm.
+310    $a Weekly $b Sept. 11, 2015-
+321    $a Daily (except Sunday) $b -Sept. 10, 2015
+362 1  $a Began with Mar. 3?, 1879. $z Cf. Harvey, D. R. Union list of newspapers ... in New Zealand.
+500    $a Includes advertising.
+500    $a Available from Oamaru Mail, P.O. Box 343, Oamaru, N.Z.
+500    $a Community newspaper
+510 2  $a Index New Zealand, $x 0113-6526, $b Oct. 29, 1990-Jun. 24, 2005
+525    $a Has supplement: Totara 1882-1982.
+525    $a Issue for March 22, 1948 has supplement with title: 1848 - Otago centenary supplement - 1948.
+530    $a Available on microfilm from Microfilm Production Unit, National Library of New Zealand.
+588    $a Description based on: Saturday Aug. 19, 1989; title from masthead.
+651  0 $a Oamaru (N.Z.) $v Newspapers.
+655  7 $a New Zealand newspapers. $2 local $5 Nz
+770 0  $t Oamaru mail extra (2006)
+770 0  $t Mail minor
+776 08 $i Online version: $t Oamaru mail $x 2624-4535
+780 00 $t Evening mail (Oamaru, N.Z.)

@@ -1,0 +1,18 @@
+{
+  "id": 3060,
+  "title": "Advocate",
+  "genre": "Newspaper",
+  "firstYear": "1948",
+  "finalYear": "1950",
+  "district": "Thames-Coromandel District",
+  "frequency": "Weekly",
+  "idMarcControlNumber": "8123389",
+  "isCurrent": false,
+  "placecode": "03-01",
+  "placename": "Coromandel",
+  "region": "Waikato",
+  "sources": {
+    "2022-08-31T04:35:30.975Z": "Extracted from the New Zealand National Bibliography (MARC record 8123389) downloaded June 2022."
+  },
+  "revision": 1
+}

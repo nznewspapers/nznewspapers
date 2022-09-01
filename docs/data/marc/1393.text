@@ -1,0 +1,36 @@
+01549cas a2200445 a 4500
+001 997933863502836
+003 Nz
+005 20211105083804.0
+008 891101c19709999nz wrzne      0   a0eng  
+022 0  $a 1170-0130 $y 0117-0130 $2 _g
+035    $a (nzNZBN)5192414
+035    $a (NLNZils)793386
+035    $z zbn89082517
+035    $a (Nz)5013697
+035    $a (NLNZils)793386-ilsdb
+035    $a (OCoLC)173357345
+040    $a NZNB $c NZNB
+042    $a nznb
+043    $a u-nz---
+082 04 $a 079.9311 $2 20NZ
+210 1  $a Cent. lead.
+222  0 $a Central leader
+245 00 $a Central leader.
+246 30 $a Leader
+260    $a [Auckland, N.Z. : $b Central Leader, $c 1970-]
+260 3  $3 <2015>- $a [Auckland, N.Z. : $b Fairfax Media]
+260 3  $3 <Feb. 2018-> $a [Auckland, N.Z. : $b Stuff Limited]
+300    $a v. : $b ill., maps, ports. ; $c 40 cm.
+310    $a Weekly $b Oct. 2017-
+321    $a Biweekly $b -Sept. 2017
+362 1  $a Began with Aug. 24, 1970. $z Cf. Harvey, D. R. Union list of newspapers ... in New Zealand.
+500    $a Community newspaper.
+500    $a Includes advertising.
+500    $a Description based on: No. 34 (Tuesday Sept. 5, 1989); title from masthead.
+515    $a Some issues misnumbered and lack dates and designation.
+530    $a Available on microfilm from Microfilm Production Unit, National Library of New Zealand.
+651  0 $a Auckland (N.Z.) $v Periodicals.
+655  7 $a New Zealand newspapers. $2 local $5 Nz
+776 08 $i Online version: $t Central leader $x 2463-6908
+780 00 $t Central suburbs leader

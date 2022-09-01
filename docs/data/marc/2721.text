@@ -1,0 +1,32 @@
+01305cas a2200397 a 4500
+001 999391963502836
+003 Nz
+005 20161223153606.0
+008 040202d200u2007nz mrzne |    0   a0eng  
+035    $a (NLNZils)939196
+035    $a (Nz)8251649
+035    $a (NLNZils)939196-ilsdb
+035    $a (OCoLC)946531582
+040    $a NZNB $c NZNB
+042    $a nznb
+043    $a u-nz---
+082 04 $a 079.9321 $2 22
+130 0  $a Local matters (Wellsford, Kaiwaka, Mangawhai)
+245 10 $a Local matters.
+250    $a Wellsford, Kaiwaka, Mangawhai.
+260    $a [Warkworth, N.Z.] : $b Metz Print $c -2007.
+300    $a v. : $b ill. ; $c 30 cm.
+310    $a Monthly
+362 1  $a -issue 96 (July 2007)
+500    $a Has subtitle: Wellsford, Port Albert, Te Hana, Kaiwaka, Mangawhai, Pakiri; Oct. 2006-
+500    $a Community newspaper.
+500    $a Description based on: Issue 57 (Jan. 2004); title from caption.
+515    $a Continues the numbering of its predecessor.
+580    $a Issued in 2 regional eds.
+651  0 $a Wellsford (N.Z.) $v Newspapers.
+651  0 $a Kaiwaka (N.Z.) $v Newspapers.
+651  0 $a Mangawhai (N.Z.) $v Newspapers.
+655  7 $a New Zealand newspapers. $2 local $5 Nz
+775 0  $t Local matters (Mahurangi, Matakana)
+780 00 $t Wellsford matters
+785 00 $t Northern matters

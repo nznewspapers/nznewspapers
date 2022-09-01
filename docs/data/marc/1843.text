@@ -1,0 +1,27 @@
+00966cas a2200337 a 4500
+001 999261263502836
+003 Nz
+005 20161223153708.0
+008 031216c19929999nz er|ne      0   a0eng  
+022 0  $a 2324-2337 $y 1171-0624 $2 _g
+035    $a (NLNZils)926126
+035    $a (Nz)8130469
+035    $a (NLNZils)926126-ilsdb
+035    $a (OCoLC)173420437
+040    $a NZNB $c NZNB
+042    $a nznb
+043    $a u-nz---
+082 04 $a 079.932 $2 22
+210 1  $a Opunake coast. news
+222  0 $a Opunake & coastal news
+245 00 $a Opunake and coastal news.
+246 1  $a Opunake & coastal news
+260    $a [Opunake, N.Z. : $b s.n., $c 1992]-
+300    $a v. : $b ill. $c 43 cm.
+310    $a Fortnightly
+362 0  $a 1992 Apr.8-
+500    $a Community newspaper.
+651  0 $a Opunake (N.Z.) $v Newspapers.
+655  7 $a New Zealand newspapers. $2 local $5 Nz
+776 0  $i Online version: $t Opunake & coastal news (Online) $x 2324-2345
+780 00 $t Opunake news $x 1171-0624

@@ -1,0 +1,18 @@
+{
+  "id": 3078,
+  "title": "Evening Independent",
+  "genre": "Newspaper",
+  "firstYear": "1869",
+  "finalYear": "1869",
+  "district": "Dunedin City",
+  "frequency": "Daily",
+  "idMarcControlNumber": "5094650",
+  "isCurrent": false,
+  "placecode": "13-03",
+  "placename": "Dunedin",
+  "region": "Otago",
+  "sources": {
+    "2022-08-31T04:35:32.800Z": "Extracted from the New Zealand National Bibliography (MARC record 5094650) downloaded June 2022."
+  },
+  "revision": 1
+}

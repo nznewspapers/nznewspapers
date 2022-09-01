@@ -1,0 +1,27 @@
+01074cas a2200337 a 4500
+001 999369883502836
+003 Nz
+005 20181207185958.0
+008 040127d20032005nz wr ne |    0   a0eng  
+035    $a (Nz)8228124
+035    $a (NLNZils)936988
+035    $a 10488256
+035    $a (NLNZils)936988-ilsdb
+035    $a (OCoLC)173424649
+040    $a NZNB $c NZNB
+042    $a nznb
+043    $a u-nz---
+082 04 $a 079.9383 $2 22
+130 0  $a Shore news (Christchurch, N.Z.)
+245 00 $a Shore news : $b connecting your community every week.
+260    $a [Christchurch, N.Z.] : $b Shore News
+300    $a v. : $b col. ill. ; $c 41 cm.
+310    $a Weekly
+362 1  $a Began with Dec. 7, 2003?; ceased with 4 Sept. 2005.
+500    $a Community newspaper.
+500    $a Description based on: Dec. 7, 2003; title from caption.
+580    $a Merged with: Observer to form Star community.
+651  0 $a Christchurch (N.Z.) $v Newspapers.
+655  7 $a New Zealand newspapers. $2 local $5 Nz
+785 07 $t Observer (Christchurch, N.Z. : 1996)
+785 07 $t Star community (Southern)

@@ -1,0 +1,18 @@
+{
+  "id": 3112,
+  "title": "Auckland Life",
+  "genre": "Newspaper",
+  "firstYear": "1967",
+  "finalYear": "    ",
+  "district": "Auckland",
+  "frequency": "Weekly",
+  "idMarcControlNumber": "8131252",
+  "isCurrent": false,
+  "placecode": "02-01",
+  "placename": "Auckland",
+  "region": "Auckland",
+  "sources": {
+    "2022-08-31T04:35:41.704Z": "Extracted from the New Zealand National Bibliography (MARC record 8131252) downloaded June 2022."
+  },
+  "revision": 1
+}

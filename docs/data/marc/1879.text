@@ -1,0 +1,25 @@
+01007cas a2200313 a 4500
+001 996355543502836
+003 Nz
+005 20200930083024.0
+008 010606d18671876nz dr|ne      0   a0eng  
+035    $a (NLNZils)635554
+035    $a (Nz)6314427
+035    $a (NLNZils)635554-ilsdb
+035    $a (OCoLC)173388144
+040    $a NZNB $c NZNB
+042    $a nznb
+043    $a u-nz---
+082 04 $a 079.93 $2 21
+130 0  $a Evening herald (Wanganui, N.Z.)
+245 14 $a The evening herald.
+260    $a [Wanganui, N.Z. : $b Ballance and Willis, $c 1867-1876]
+300    $a 10 v. ; $c 43 cm.
+310    $a Daily
+362 0  $a Vol. 1, no. 1 (June 3, 1867)-v. 10, no. 2,737 (Mar. 23, 1876)
+500    $a Title from caption.
+530    $a Available on microfilm from the Microfilm Production Unit, National Library of New Zealand.
+651  0 $a Wanganui (N.Z.) $v Newspapers.
+655  7 $a New Zealand newspapers. $2 local $5 Nz
+776 08 $i Online version: $t Evening herald $w (Nz)9914725183502836
+785 00 $t Wanganui herald

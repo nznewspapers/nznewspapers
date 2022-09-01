@@ -1,0 +1,18 @@
+{
+  "id": 3130,
+  "title": "The Eltham Argus",
+  "genre": "Newspaper",
+  "firstYear": "1897",
+  "finalYear": "1967",
+  "district": "South Taranaki District",
+  "frequency": "Three no. a week",
+  "idMarcControlNumber": "5094552",
+  "isCurrent": false,
+  "placecode": "07-03",
+  "placename": "Eltham",
+  "region": "Taranaki",
+  "sources": {
+    "2022-08-31T04:35:46.916Z": "Extracted from the New Zealand National Bibliography (MARC record 5094552) downloaded June 2022."
+  },
+  "revision": 1
+}

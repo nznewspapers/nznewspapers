@@ -1,0 +1,29 @@
+01209cas a2200361 a 4500
+001 9914659983502836
+003 Nz
+005 20180814123553.0
+008 110307d20112018nz wr|n       0   a0eng  
+035    $a (NLNZils)1465998
+035    $a (Nz)13613443
+035    $a (NLNZils)1465998-ilsdb
+035    $a (OCoLC)706476120
+040    $a NZNB $c NZNB
+042    $a nznb
+043    $a u-nz---
+082 04 $a 079.938 $2 22
+245 00 $a South Canterbury herald.
+260    $a Timaru [N.Z.] : $b Timaru Herald, $c [2011]-
+260 2  $3 <2015>- $a [Auckland, N.Z. : $b Fairfax Media]
+260 3  $3 <February 2018-> $a [Auckland, N.Z. : $b Stuff Limited]
+300    $a v. : $b col. ill. ; $c 40 cm.
+310    $a Weekly
+362 1  $a Began with Feb. 23, 2011.
+500    $a Description based on Feb. 23, 2011; title from caption.
+500    $a Latest issue consulted: May 4, 2011.
+500    $a Community newspaper.
+580    $a Issued with: Central South Island farmer.
+651  0 $a Canterbury, South (N.Z.) $v Newspapers.
+655  7 $a New Zealand newspapers. $2 local $5 Nz
+776 08 $i Online version: $t South Canterbury herald $w (Nz)9917966653502836
+777 0  $t Central South Island farmer
+780 00 $t High country herald (2007)

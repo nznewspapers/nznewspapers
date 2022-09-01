@@ -1,0 +1,30 @@
+01255cas a2200373 a 4500
+001 991718913502836
+003 Nz
+005 20210401182602.0
+008 160813d19941997nz mr ne      0   a0eng  
+035    $z 518758
+035    $a (NLNZils)171891
+035    $a (nzNZBN)8602136
+035    $a zbn94106599
+035    $a (Nz)4425738
+035    $a (NLNZils)171891-ilsdb
+035    $a (OCoLC)173342704
+040    $a NZNB $c NZNB
+042    $a nznb
+043    $a u-nz---
+082 0  $a 305.899509305 $a 305.899409305 $2 20
+245 00 $a Pacific network newspaper.
+246 10 $a Pacific newspaper
+246 10 $a Pacific network
+260    $a Wellington [N.Z. : $b Pacific Network,
+300    $a v. : $b ill., ports. ; $c 42 cm.
+362 1  $a Began with v. 1, no. 1 (June 1994); ceased with v. 4, no. 2 (July 1997)?
+500    $a Community newspaper.
+500    $a Description based on: Vol. 1, no. 2 (July 1994); title from cover.
+500    $a Available from Pacific Network, P.O. Box 11-405, Manners Street, Wellington, N.Z.
+515    $a Some issues have incorrect numbering.
+546    $a Text in English and Pacific Island languages.
+650  0 $a Pacific Islanders $z New Zealand.
+655  7 $a New Zealand newspapers. $2 local $5 Nz
+785 00 $t Pacific star $x 1174-3557

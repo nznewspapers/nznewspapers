@@ -1,0 +1,28 @@
+01305cas a2200349 a 4500
+001 999277243502836
+003 Nz
+005 20210401181342.0
+008 940718d19291935nz dr ne      0   a0eng d
+035    $a (nzNZBN)8566403
+035    $a abn94155168
+035    $a (NLNZils)927724
+035    $a (Nz)4867896
+035    $a (NLNZils)927724-ilsdb
+035    $a (OCoLC)173353196
+040    $a ABN $d WN
+042    $a nznb
+245 04 $a The Christchurch times.
+260    $a Lyttelton, New Zealand : $b Thomas Edward Robson, for New Zealand Newspapers Ltd, $c 1929-1935.
+300    $a 7 v. ; $c 66 cm.
+310    $a Daily
+362 0  $a Vol. 130, no. 21,239 (Thursday, Aug. 1, 1929)-v. 136, no. 23,335 (Saturday, Jun. 29, 1935)
+515    $a Continues the numbering of its predecessor.
+525    $a Final issue includes supplement showing the first issue of "The Lyttelton times," vol. 1, no. 1 (Saturday, Jan. 11, 1851)
+580    $a Merged with: Sun (Christchurch, N.Z. : 1914), and: Christchurch star to form: Christchurch star-sun.
+651  0 $a Christchurch (N.Z.) $v Newspapers.
+655  7 $a New Zealand newspapers. $2 local $5 Nz
+752    $a New Zealand $d Christchurch.
+780 00 $t Lyttelton times
+785 07 $t Christchurch star
+785 07 $t Sun (Christchurch, N.Z. : 1914)
+785 07 $t Christchurch star-sun

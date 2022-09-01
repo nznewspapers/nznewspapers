@@ -1,0 +1,30 @@
+01588cas a2200373 a 4500
+001 999315713502836
+003 Nz
+005 20160321142728.0
+008 040112d19291933nz mr ne      0   a0eng  
+035    $a (NLNZils)931571
+035    $a (Nz)8181422
+035    $a (NLNZils)931571-ilsdb
+035    $a (OCoLC)173422701
+040    $a NZNB $c NZNB
+042    $a nznb
+043    $a u-nz---
+082 04 $a 324.29307505 $2 22
+245 04 $a The red worker.
+260    $a Wellington [N.Z.] ; $b Vanguard Press, $c [1929-1933]
+300    $a v. : $b ill. ; $c 43 cm.
+310    $a Monthly
+362 0  $a Vol. 1, no. 1 (July 1, 1929)-v. 5, no. 11 (Oct. 2nd 1933)
+500    $a Title from masthead.
+500    $a Issues from Vol. 5, no 5 (Mar. 24, 1933) have subtitle: Official organ of the Communist Party of N.Z. (section of the Communist International)
+515    $a Issue numbering is continuous, i.e. v. 2 begins with no. 7; some errors in numbering; some issues lack numbering; numbering dropped <Aug. 1st. 1931> and re-commenced with v.5, no. 2 (Dec. 3, 1932).
+525    $a Special anti-war issue published Aug. 1st. 1931; Special [issue] published Nov. 20th. 1931; June 1932 not published.
+650  0 $a Political parties $z New Zealand $v Periodicals.
+650  0 $a Communism $z New Zealand $v Periodicals.
+650  0 $a Labor $z New Zealand $v Periodicals.
+651  0 $a New Zealand $x Politics and government $v Newspapers.
+655  7 $a New Zealand newspapers. $2 local $5 Nz
+710 2  $a Communist Party of New Zealand.
+780 00 $t Workers' vanguard (Roa (N.Z.)
+785 05 $t Workers' weekly (Wellington, N.Z.)

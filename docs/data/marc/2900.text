@@ -1,0 +1,29 @@
+01042cas a2200361 a 4500
+001 9911704953502836
+003 Nz
+005 20161223161003.0
+008 060112d20052007nz br|ne      0   a0eng  
+022 0  $a 1177-1844 $2 _g
+035    $a (Nz)10640883
+035    $a (NLNZils)1170495
+035    $a (NLNZils)1170495-ilsdb
+035    $a (OCoLC)173322794
+040    $a NZNB $c NZNB
+041 0  $a eng $a chi
+042    $a nznb
+043    $a u-nz---
+082 04 $a 079.93 $2 22
+130 0  $a NZ Asia (Wellington, N.Z.)
+210 1  $a NZ Asia $b (Wellingt.)
+222  0 $a NZ Asia $b (Wellington)
+245 00 $a NZ Asia.
+260    $a Wellington [N.Z.] : $b NZ Asia, $c 2005-
+300    $a 8 v. : $b col. ill. ; $c 58 cm.
+310    $a Bimonthly
+362 0  $a Issue 001 (17 Dec. 2005)-
+362 1  $a Ceased with Issue 8 (Dec. 2006/Jan. 2007)
+500    $a Title from masthead.
+546    $a Text in English with some Chinese.
+650  0 $a Asians $z New Zealand $v Newspapers.
+655  7 $a New Zealand newspapers. $2 local $5 Nz
+780 00 $t Capital Chinese news $x 1177-0929

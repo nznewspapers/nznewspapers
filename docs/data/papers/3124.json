@@ -1,0 +1,35 @@
+{
+  "id": 3124,
+  "title": "Hauraki Plains Gazette",
+  "genre": "Newspaper",
+  "firstYear": "1921",
+  "finalYear": "1977",
+  "district": "Hauraki District",
+  "frequency": "Three no. a week",
+  "idMarcControlNumber": "5095124",
+  "isCurrent": false,
+  "placecode": "03-02",
+  "placename": "Paeroa",
+  "region": "Waikato",
+  "links": {
+    "unknown-1": {
+      "direction": "Preceding",
+      "relationship": "Continues",
+      "target-description": "Ohinemuri gazette"
+    },
+    "unknown-2": {
+      "direction": "Succeeding",
+      "relationship": "Merged",
+      "target-description": "Thames and Peninsula gazette"
+    },
+    "unknown-3": {
+      "direction": "Succeeding",
+      "relationship": "Merged",
+      "target-description": "Thames Valley gazette"
+    }
+  },
+  "sources": {
+    "2022-08-31T04:35:45.652Z": "Extracted from the New Zealand National Bibliography (MARC record 5095124) downloaded June 2022."
+  },
+  "revision": 1
+}

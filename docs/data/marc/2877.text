@@ -1,0 +1,37 @@
+01603cas a2200457 a 4500
+001 993421633502836
+003 Nz
+005 20210401185844.0
+008 160813c19439999nz qr ne      0   a0eng  
+022 0  $a 2703-4577 $2 _g
+035    $z 613449
+035    $a (nzNZBN)8574593 $z (nzNZBN)8589056 $z (nzNZBN)8590123
+035    $z (nzNZBN)8589056 $z (nzNZBN)8590123
+035    $a (Nz)4812004
+035    $a zbn97090231
+035    $a (NLNZils)342163
+035    $a (NLNZils)342163-ilsdb
+035    $a (OCoLC)173350162
+040    $a NZNB $c NZNB
+042    $a nznb
+043    $a u-nz---
+082 0  $a 369.29305 $2 21
+210 1  $a R.S.A. rev. $b (Wellingt.)
+222  0 $a R.S.A. review $b (Wellington)
+245 00 $a R.S.A. review : $b the official R.S.A. journal.
+246 10 $a Official journal of the New Zealand Returned Services' Association Inc.
+246 10 $a Official R.S.A. journal
+246 13 $a RSA review
+246 13 $a Returned Services Association review
+246 10 $a Official journal of the NZ Returned Services' Association
+260    $a Wellington [N.Z.] : $b R.S.A., $c [1943-
+300    $a v. : $b ill. ; $c 40-48 cm.
+310    $a Quarterly, $b 2009-
+321    $a Bimonthly, $b -2008
+362 0  $a Vol. 19, no. 4 (Aug. 1943)-
+510 2  $a Index New Zealand, $x 0113-6526, $b Volume 94, number 3 (Spring 2017)-
+610 20 $a New Zealand Returned Services Association $x Periodicals.
+650  0 $a Veterans $z New Zealand $x Periodicals.
+710 2  $a New Zealand Returned Services Association.
+776 08 $i Online version: $t RSA review $x 2703-4585
+780 00 $t Review (New Zealand Returned Services' Association)

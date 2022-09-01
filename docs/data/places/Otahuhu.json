@@ -1,7 +1,7 @@
 {
   "stats": {
     "placename": "Otahuhu",
-    "count": 24,
+    "count": 25,
     "decades": 9
   },
   "papers": [
@@ -58,6 +58,12 @@
       "title": "Central Courier",
       "firstYear": "1976",
       "finalYear": "1976"
+    },
+    {
+      "id": "3092",
+      "title": "Eastern Courier",
+      "firstYear": "1976",
+      "finalYear": "1984"
     },
     {
       "id": "1177",

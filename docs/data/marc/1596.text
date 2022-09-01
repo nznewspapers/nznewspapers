@@ -1,0 +1,29 @@
+01108cas a2200361 a 4500
+001 9910153013502836
+003 Nz
+005 20161223154820.0
+008 040811d20032005nz wr|ne      0   e0chi  
+022 0  $a 1176-7618 $2 _g
+035    $a (Nz)8826984
+035    $a (NLNZils)1015301
+035    $a (NLNZils)1015301-ilsdb
+035    $a (OCoLC)173439399
+040    $a NZNB $c NZNB
+041 0  $a chi $a eng
+042    $a nznb
+043    $a u-nz--- $a a-cc---
+082 04 $a 305.8951093305 $2 22
+210 0  $a Huai ka tuo shi bao
+222  0 $a Huai ka tuo shi bao
+245 10 $a Huai ka tuo shi bao = $b Waikato Chinese times.
+246 11 $a Waikato Chinese times
+260    $a Hamilton, N.Z. : $b [Waikato Chinese Times]
+300    $a v. : $b ill. ; $c 43 cm.
+310    $a Weekly
+362 1  $a Began in 2003.
+362 1  $a Ceased with 167 (2005/06/08)?
+500    $a Description based on: 082 (2004/ 07/ 22); title from caption.
+546    $a Text chiefly in Chinese with some English.
+650  0 $a Chinese $z New Zealand $v Newspapers.
+655  7 $a New Zealand newspapers. $2 local $5 Nz
+655  7 $a Chinese newspapers. $2 local $5 Nz

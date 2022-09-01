@@ -1,0 +1,39 @@
+02011cas a2200481 a 4500
+001 994794503502836
+003 Nz
+005 20210401184731.0
+008 880823d18871991nz dn|ne      0   a0eng  
+022 0  $a 0004-7449 $2 _g
+035    $a (nzNZBN)4465546
+035    $a zbn89070633
+035    $a (NLNZils)479450
+035    $z 291044
+035    $a (Nz)3531156
+035    $a (NLNZils)479450-ilsdb
+035    $a (OCoLC)1001314308
+040    $a NZNB $c NZNB
+042    $a nznb
+043    $a u-nz---
+082 04 $a 079.93 $2 20
+222  0 $a Auckland star
+245 04 $a The Auckland star.
+260    $a [Auckland, N.Z.] : $b Auckland Star, $c 1887-1991.
+300    $a v. : $b ill. (some col.), map, ports. (some col.) ; $c 58 cm.
+310    $a Daily (Monday to Friday)
+362 1  $a Began with Apr. 13 1887. $z Cf. Harvey, D. R. Union list of newspapers ... in New Zealand; ceased with 16 Aug. 1991.
+500    $a "New Zealand's top-selling evening newspaper."
+500    $a Saturday issues Mar. 15 1975-Mar. 5 1983 have title Star weekender.
+500    $a Includes advertising.
+500    $a Available from Auckland Star, P.O. Box 1409, Auckland, N.Z.
+525    $a Supplement dated May 7th, 1930 with title: The Auckland star diamond jubilee 1870-1930. Special second edition not incorporating daily paper.
+525    $a Special edition May 29, 1959. Commemorating the opening of the Auckland Harbour Bridge.
+530    $a Available on microfilm from Microfilm Production Unit, National Library of New Zealand.
+550    $a Previously published by New Zealand Newspapers.
+580    $a Issues from 1934-1940 accompanied by weekly supplement called: Enzed junior.
+588    $a Description based on: Tuesday Aug. 15, 1989; title from masthead.
+651  0 $a Auckland (N.Z.) $v Newspapers.
+655  7 $a New Zealand newspapers. $2 local $5 Nz.
+770 0  $t Enzed junior $g 1934
+770 0  $t Auckland star exhibition number
+776 08 $i Online version: $t Auckland star $x 2744-4031
+780 00 $t Auckland evening star

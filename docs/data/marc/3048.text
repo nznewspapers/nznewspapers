@@ -1,0 +1,24 @@
+00812cas a22003013  4500
+001 999317753502836
+003 Nz
+005 20210401181337.0
+008 990929d19161931nz d||n|      |   a eng  
+035    $a 97775
+035    $a fin00007064
+035    $a (NLNZils)931775
+035    $a (OCoLC)173365673
+035    $a (Nz)5098973
+035    $a (NLNZils)931775-ilsdb
+040    $a NZNB $c NZNB
+042    $a nznb
+043    $a u-nz---
+245 00 $a Rotorua chronicle.
+260    $a [Rotorua, N.Z. : $b s.n., $c 1916?-1931]
+310    $a Daily
+362 0  $a 1916?-1931 Aug.?
+580    $a Merger of: Rotorua times and: Hot lakes chronicle.
+651  0 $a Rotorua (N.Z.) $v Newspapers.
+655  7 $a New Zealand newspapers. $2 local $5 Nz
+780 04 $t Rotorua times
+780 04 $t Hot lakes chronicle
+785 00 $t Rotorua morning post

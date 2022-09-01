@@ -1,0 +1,25 @@
+{
+  "id": 3095,
+  "title": "Chronicle",
+  "genre": "Newspaper",
+  "firstYear": "1988",
+  "finalYear": "9999",
+  "district": "Far North District",
+  "frequency": "Fortnightly",
+  "idMarcControlNumber": "8127559",
+  "isCurrent": false,
+  "placecode": "01-01",
+  "placename": "Kaikohe",
+  "region": "Northland",
+  "links": {
+    "unknown-1": {
+      "direction": "Preceding",
+      "relationship": "Continues",
+      "target-description": "Bay chronicle (Kaikohe, N.Z.)"
+    }
+  },
+  "sources": {
+    "2022-08-31T04:35:37.443Z": "Extracted from the New Zealand National Bibliography (MARC record 8127559) downloaded June 2022."
+  },
+  "revision": 1
+}

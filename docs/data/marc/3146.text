@@ -1,0 +1,30 @@
+01297cas a2200373 a 4500
+001 9913381663502836
+003 Nz
+005 20161223162834.0
+008 031223d19671970nz wr n       0   a0eng d
+035    $a (eLGAR).b20493071
+035    $a (Nz)13396691
+035    $a (NLNZils)1338166
+035    $a (NLNZils)1338166-ilsdb
+035    $a (OCoLC)946793901
+040    $a AP $d WN
+042    $a nznb
+130 0  $a Gazette (Manurewa, Auckland, N.Z.)
+245 14 $a The gazette.
+260    $a Auckland [N.Z.] : $b Wilson and Horton
+300    $a v. : $b ill. ; $c 40-43 cm.
+310    $a Weekly
+362 1  $a Began in 1967; ceased with v. 4, no. 42 (Nov. 3, 1970).
+500    $a "Papakura, Manurewa, Papatoetoe, Mangere East, Otahuhu."
+500    $a Description based on: Vol. 3, no. 1 (Jan. 21, 1969); title from caption.
+650  0 $a Community newspapers $z New Zealand $z Auckland.
+651  0 $a Manukau (N.Z.) $v Newspapers.
+651  0 $a Papakura v, (N.Z.) $v Newspapers.
+651  0 $a Manurewa (Auckland, N.Z.) $v Newspapers.
+651  0 $a Papatoetoe (Auckland, N.Z.) $v Newspapers.
+651  0 $a Mangere East (Auckland, N.Z.) $v Newspapers.
+651  0 $a Otahuhu (Auckland, N.Z.) $v Newspapers.
+655  7 $a New Zealand newspapers. $2 local $5 Nz
+780 00 $t Manurewa gazette.
+785 00 $t South Auckland gazette.

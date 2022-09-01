@@ -1,0 +1,32 @@
+01260cas a2200397 a 4500
+001 997047003502836
+003 Nz
+005 20210401180848.0
+008 900921d19902001nz wrzne |    0   a0eng  
+022 0  $a 1170-1277
+035    $a (NLNZils)704700
+035    $a (nzNZBN)5559810
+035    $a zbn90079367
+035    $a (Nz)3678322
+035    $a (NLNZils)704700-ilsdb
+035    $a (OCoLC)173334900
+040    $a NZNB $c NZNB
+042    $a nznb
+043    $a u-nz---
+082 04 $a 079.937105 $2 20NZ
+222  0 $a Christchurch mail
+245 04 $a The Christchurch mail.
+246 30 $a Mail
+260    $a Christchurch, N.Z. : $b [Christchurch Mail, $c 1990-2001] $e (Christchurch : $f D. N. Adams)
+300    $a v. : $b ill., forms, maps, ports. ; $c 42 cm.
+362 1  $a Began Monday Mar. 12 1990.
+362 0  $a -25 Oct. 2001.
+500    $a Community newspaper.
+500    $a Description based on: Mar. 19, 1990; title from masthead.
+651  0 $a Christchurch (N.Z.) $v Periodicals.
+655  7 $a New Zealand newspapers. $2 local $5 Nz
+780 00 $t Christchurch mid-week mail $x 1170-0157
+785 06 $t Eastern mail (Christchurch, N.Z.)
+785 06 $t Western mail (Christchurch, N.Z.)
+785 06 $t Northern mail (Christchurch, N.Z.)
+785 06 $t Christchurch southern mail

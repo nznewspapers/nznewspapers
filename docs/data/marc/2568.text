@@ -1,0 +1,36 @@
+01649cas a2200445 a 4500
+001 999276453502836
+003 Nz
+005 20210401181343.0
+008 891110d19481999nz crzne      0   a0eng  
+022 0  $a 1170-0149 $y 0117-0149 $2 _g
+035    $a (nzNZBN)5168647
+035    $a (NLNZils)927645
+035    $a zbn89077089
+035    $a (Nz)3531219
+035    $a (NLNZils)927645-ilsdb
+035    $a (OCoLC)173333280
+040    $a NZNB $c NZNB
+042    $a nznb
+043    $a u-nz---
+082 04 $a 079.9383 $2 20NZ
+222  0 $a Central Otago news
+245 04 $a The Central Otago news : $b incorporating the Alexandra herald, Dunstan times, Lake County mail & Cromwell argus.
+246 30 $a News
+260    $a Alexandra [N.Z.] : $b Central Otago News, $c 1948-1999.
+300    $a v. : $b ill. form, maps, ports. ; $c 43 cm.
+310    $a Semi-weekly
+362 1  $a Began with June 1, 1948. $z Cf. Harvey, D. R. Union list of newspapers ... in New Zealand ; ceased with 23 Nov. 1999.
+500    $a Community newspaper.
+500    $a Includes advertising.
+500    $a Description based on: Thursday Aug. 31, 1989; title from masthead.
+500    $a Available from Central Otago News, P.O. Box 91, Alexandra, N.Z.
+525    $a Has occasional supplements.
+530    $a Available on microfilm from Microfilm Production Unit, National Library of New Zealand.
+651  0 $a Central Otago District (N.Z.) $v Periodicals.
+655  7 $a New Zealand newspapers. $2 local $5 Nz
+770 0  $t Obelisk (Alexandra, N.Z.) $g 1987
+780 14 $t Alexandra herald
+780 14 $t Dunstan times
+780 14 $t Lake County mail
+785 00 $t Lakes District and Central Otago news

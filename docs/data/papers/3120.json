@@ -1,0 +1,25 @@
+{
+  "id": 3120,
+  "title": "Observer",
+  "genre": "Newspaper",
+  "firstYear": "1960",
+  "finalYear": "1989",
+  "district": "Christchurch City",
+  "frequency": "Weekly",
+  "idMarcControlNumber": "8130458",
+  "isCurrent": false,
+  "placecode": "12-05",
+  "placename": "Christchurch",
+  "region": "Canterbury",
+  "links": {
+    "unknown-1": {
+      "direction": "Succeeding",
+      "relationship": "Continued by",
+      "target-description": "Community news (Observer ed.)"
+    }
+  },
+  "sources": {
+    "2022-08-31T04:35:42.239Z": "Extracted from the New Zealand National Bibliography (MARC record 8130458) downloaded June 2022."
+  },
+  "revision": 1
+}

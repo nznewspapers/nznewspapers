@@ -1,0 +1,18 @@
+{
+  "id": 3074,
+  "title": "Kaipara Lifestyler",
+  "genre": "Newspaper",
+  "firstYear": "200u",
+  "finalYear": "9999",
+  "district": "Kaipara District",
+  "frequency": "Weekly",
+  "idMarcControlNumber": "13679697",
+  "isCurrent": true,
+  "placecode": "01-03",
+  "placename": "Dargaville",
+  "region": "Northland",
+  "sources": {
+    "2022-08-31T04:35:32.655Z": "Extracted from the New Zealand National Bibliography (MARC record 13679697) downloaded June 2022."
+  },
+  "revision": 1
+}

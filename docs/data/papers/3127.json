@@ -1,0 +1,18 @@
+{
+  "id": 3127,
+  "title": "Waiuku Gazette And West Franklin Weekly News",
+  "genre": "Newspaper",
+  "firstYear": "1964",
+  "finalYear": "1969",
+  "district": "Auckland",
+  "frequency": "Weekly",
+  "idMarcControlNumber": "14637007",
+  "isCurrent": false,
+  "placecode": "02-01",
+  "placename": "Waiuku",
+  "region": "Auckland",
+  "sources": {
+    "2022-08-31T04:35:46.674Z": "Extracted from the New Zealand National Bibliography (MARC record 14637007) downloaded June 2022."
+  },
+  "revision": 1
+}

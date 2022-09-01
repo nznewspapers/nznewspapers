@@ -1,7 +1,7 @@
 {
   "stats": {
     "placename": "Otaki",
-    "count": 1,
+    "count": 2,
     "decades": 1
   },
   "papers": [
@@ -10,6 +10,12 @@
       "title": "West Coast Mail",
       "firstYear": "1893",
       "finalYear": "1896"
+    },
+    {
+      "id": "3133",
+      "title": "Otaki Mail",
+      "firstYear": "1897",
+      "finalYear": "1946"
     }
   ]
 }

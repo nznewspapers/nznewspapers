@@ -1,0 +1,51 @@
+02531cas a2200625 a 4500
+001 994273553502836
+003 Nz
+005 20200917115418.0
+008 870216d19702020nz wn|n       0   a0eng  
+022 0  $a 0110-6813 $2 _g
+035    $z 255972
+035    $a (nzNZBN)3482390
+035    $a 5090515
+035    $a (NLNZils)427355
+035    $a (Nz)5090515
+035    $a (NLNZils)427355-ilsdb
+035    $a (OCoLC)55959170
+040    $a NZNB $c NZNB
+042    $a nznb
+043    $a u-nz---
+082 04 $a 380.09931 $2 19
+222  0 $a National business review
+245 00 $a National business review.
+246 33 $a Business review
+260    $a [Wellington, N.Z. : $b Fourth Estate Newspapers, $c 1970]-
+300    $a v. : $b ill. (some col.), forms, map, ports. ; $c 44 cm.
+310    $a Fifty no. a year
+362 1  $a Began 1970; ceased with 20 Mar. 2020.
+500    $a Includes advertising.
+510 2  $a Index to New Zealand periodicals $x 0073-5957 $b To 1986.
+510 2  $a Index New Zealand, $x 0113-6526, $b Mar. 28 1988-Nov. 20 1992, Aug. 10 2012-Feb. 21 2020
+525    $a Has annual section: Rich list, subsequently issued as an annual special issue, <1995>-2006, 2009-2017.
+580    $a Friday issues for Feb. 9 1990-    include: NBR, the weekly magazine.
+580    $a "Personal investor is a special issue of The National Business Review"--Personal investor, Sept. 1993.
+588    $a Description based on: Vol. 17, no. 38 (Sept. 26 1986) = Issue 692 (Sept. 26 1986).
+588    $a Latest issue consulted: Aug. 17, 2018.
+650  0 $a Business $v Periodicals.
+655  7 $a New Zealand newspapers. $2 local $5 Nz
+770 0  $t Admark (1990) $g Winter 1990-
+770 0  $t NBR investment supplement
+770 0  $t NBR money makers
+777 1  $t NBR, the weekly magazine $x 0114-9148
+777 0  $t Management technology briefing $g 1994- $x 1173-325X
+777 0  $t National business review wealth guide $g 2009- $x 1179-2590
+780 00 $t Admark
+780 05 $t Examiner (Auckland, N.Z.) $g Sept. 1991- $x 1177-5629
+780 05 $t NZ data processing $g July 1981 $x 0111-1221
+780 05 $t New Zealand travel report $g April 1975
+780 05 $t Rich list (Auckland, N.Z.) $g 2018 $x 1179-8882
+785 01 $t Rich list (Auckland, N.Z.) $x 1179-8882
+787 0  $t Personal investor (Auckland, N.Z.) $g Sept. 1993-Mar. 1995 $x 1172-6652
+787 0  $t NBR personal investor $g Apr. 1995- $x 1173-5384
+787 0  $t Financial services directory $g [1998]
+787 0  $t Convention destinations
+787 0  $t National business review magazine $x 1178-492X

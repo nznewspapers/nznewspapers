@@ -1,0 +1,29 @@
+01040cas a2200361 a 4500
+001 997124373502836
+003 Nz
+005 20211112153526.0
+008 970704d19962003nz wr n       0   a0eng  
+022    $y 1970-1404
+035    $a (nzNZBN)10387039
+035    $a zbn97059156
+035    $a (Nz)4776349
+035    $a (NLNZils)712437
+035    $a (NLNZils)712437-ilsdb
+035    $a (OCoLC)173349378
+040    $a NZNB $c NZNB
+042    $a nznb
+043    $a u-nz---
+082 04 $a 079.9332705 $2 21
+130 0  $a Leader (Waihi, N.Z.)
+245 10 $a Leader : $b distributed in Waihi, Waihi Beach, Katikati, Whangamata Region.
+260    $a Waihi [N.Z.] : $b Waihi Leader, $c 1996-2003.
+300    $a v. : $b ill. ; $c 40 cm.
+310    $a Weekly
+362 0  $a Vol. 15, no. 18 (Aug. 6 1996)-
+362 1  $a Ceased by 2003?
+500    $a Community newspaper.
+500    $a Title from caption.
+651  0 $a Waihi (N.Z.) $v Periodicals.
+655  7 $a New Zealand newspapers. $2 local $5 Nz
+780 00 $t Waihi leader $x 1170-1404
+785 00 $t Waihi leader (2004)

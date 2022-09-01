@@ -1,0 +1,29 @@
+01075cas a2200361 a 4500
+001 999372763502836
+003 Nz
+005 20161223153515.0
+008 040127d19992007nz wr ne      0   a0eng  
+035    $a (NLNZils)937276
+035    $a (Nz)8261085
+035    $a (NLNZils)937276-ilsdb
+035    $a (OCoLC)946531420
+040    $a NZNB $c NZNB
+042    $a nznb
+043    $a u-nz---
+082 04 $a 079.938 $2 22
+130 0  $a Community high country herald (North Otago)
+245 00 $a Community high country herald.
+246 10 $a Herald
+250    $a North Otago
+260    $a Timaru [N.Z.] : $b High Country Herald, $c 1999-2007.
+300    $a 9 v. : $b ill. ; $c 40 cm.
+310    $a Weekly
+362 1  $a Began in July 1999.
+362 0  $a -Oct. 31, 2007.
+500    $a Description based on: Jan 14, 2004; title from caption.
+500    $a Community newspaper.
+651  0 $a Canterbury (N.Z.) $v Newspapers.
+651  0 $a Waitaki District (N.Z.) $v Newspapers.
+655  7 $a New Zealand newspapers. $2 local $5 Nz
+780 01 $t High Country herald $x 1170-053X
+785 00 $t Waitaki Herald.

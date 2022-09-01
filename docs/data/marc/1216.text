@@ -1,0 +1,27 @@
+01032cas a2200337 a 4500
+001 999252833502836
+003 Nz
+005 20210401181321.0
+008 920922d19912006nz wr|ne      0   a0eng  
+022 0  $a 1171-9060 $2 _g
+035    $a (nzNZBN)7123277
+035    $a zbn92079187
+035    $a (NLNZils)925283
+035    $a (Nz)4061980
+035    $a (NLNZils)925283-ilsdb
+035    $a (OCoLC)173339094
+040    $a NZNB $c NZNB
+042    $a nznb
+043    $a u-nz---
+082 04 $a 079.9311 $2 20NZ
+130 0  $a Coaster (Orewa, N.Z. : 1991)
+222  0 $a Coaster $b (Orewa)
+245 00 $a Coaster.
+260    $a Orewa [N.Z.] : $b Coaster Publications, $c 1991-
+300    $a v. : $b ill. (some col.), map, ports. ; $c 43 cm.
+362 1  $a Began with Oct. 10 1991; ceased with Dec. 20 2006.
+500    $a Community newspaper.
+500    $a Description based on: Wednesday, Jan. 15th 1992; title from masthead.
+651  0 $a Rodney District (N.Z.)
+655  7 $a New Zealand newspapers. $2 local $5 Nz
+780 00 $t Hibiscus coaster (1985) $x 1170-0521

@@ -1,0 +1,25 @@
+{
+  "id": 3067,
+  "title": "Arrow Observer And Lakes District Chronicle",
+  "genre": "Newspaper",
+  "firstYear": "1871",
+  "finalYear": "1882",
+  "district": "Queenstown-Lakes District",
+  "frequency": "Weekly",
+  "idMarcControlNumber": "8123608",
+  "isCurrent": false,
+  "placecode": "13-01",
+  "placename": "Arrowtown",
+  "region": "Otago",
+  "links": {
+    "unknown-1": {
+      "direction": "Succeeding",
+      "relationship": "Continued by",
+      "target-description": "Lake County press"
+    }
+  },
+  "sources": {
+    "2022-08-31T04:35:30.979Z": "Extracted from the New Zealand National Bibliography (MARC record 8123608) downloaded June 2022."
+  },
+  "revision": 1
+}

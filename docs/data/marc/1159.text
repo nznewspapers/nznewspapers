@@ -1,0 +1,25 @@
+01005cas a22003131a 4500
+001 999332173502836
+003 Nz
+005 20160728095847.0
+008 040114d19691970nz  r ne      0   0 eng  
+035    $a 8185505
+035    $a (NLNZils)933217
+035    $a (Nz)8185505
+035    $a (NLNZils)933217-ilsdb
+035    $a (OCoLC)173423659
+040    $a NZNB $c NZNB
+042    $a nznb
+043    $a u-nz---
+082 04 $a 079.9327 $2 23
+245 00 $a Waiuku news.
+260    $a [Waiuku, N.Z. : $b s.n., $c 1969-1970]
+310    $a Weekly
+362 0  $a 1969 Mar.11-1970 Dec.15?
+500    $a 1969 Mar.11 numbered vol.51 no.3513, but notes "re-introduction", i.e. a new title.
+580    $a Merged with Franklin times, and South Auckland news advertiser (1970), to form Franklin times advertiser.
+651  0 $a Franklin District (N.Z.) $v Newspapers.
+655  7 $a New Zealand newspapers. $2 local $5 Nz
+785 07 $t Franklin times
+785 07 $t South Auckland news advertiser (1970)
+785 07 $t Franklin times advertiser

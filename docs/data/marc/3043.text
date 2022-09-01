@@ -1,0 +1,28 @@
+01154cas a22003493  4500
+001 999284913502836
+003 Nz
+005 20210401181229.0
+008 990929d18691893nz dr|ne      0   b0eng  
+035    $a 39910
+035    $a (NLNZils)928491
+035    $a (OCoLC)173365455
+035    $a fin00002744
+035    $a (Nz)5094653
+035    $a (NLNZils)928491-ilsdb
+040    $a NZNB $c NZNB
+042    $a nznb
+043    $a u-nz---
+082 04 $a 079.93323 $2 23
+130 0  $a Evening star (Thames, N.Z.)
+245 10 $a Evening star.
+246 13 $a Thames evening star
+260    $a Grahamstown, Thames Goldfield [N.Z.] : $b William McCullough, $c -[1893]
+300    $a v. ; $c 47 cm.
+310    $a Daily
+362 1  $a Began with Apr. 11, 1869?; ceased with v. 24, no. 7471 (July 14, 1893)
+500    $a Place Grahamstown until c1878. Continues Evening mail? Title Thames evening star 1891-1893?
+530    $a Also available in an electronic ed.
+651  0 $a Thames (N.Z.) $v Newspapers.
+655  7 $a New Zealand newspapers. $2 local $5 Nz
+785 00 $t Thames star
+856 41 $u http://paperspast.natlib.govt.nz/cgi-bin/paperspast?a=d&cl=CL1.THS&e=-------10--1----0--

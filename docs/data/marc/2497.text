@@ -1,0 +1,27 @@
+01110cas a2200337 a 4500
+001 9913314923502836
+003 Nz
+005 20161223163419.0
+008 090429d20092011nz wr|n       0   a0eng  
+035    $a (NLNZils)1331492
+035    $a (Nz)12878855
+035    $a (NLNZils)1331492-ilsdb
+035    $a (OCoLC)320236439
+040    $a NZNB $c NZNB
+042    $a nznb
+043    $a u-nz---
+082 04 $a 079.9383 $2 22
+245 00 $a Shore view : $b star community news.
+246 17 $a Community news
+260    $a [Christchurch, N.Z. : $b Christchurch Star, $c 2009]-
+300    $a v. : $b col. ill. ; $c 41 cm.
+310    $a Weekly
+362 1  $a Began with Sunday, Apr. 26 2009; ceased with Apr. 18, 2011.
+500    $a Description based on Apr. 26 2009; title from masthead.
+500    $a Latest issue consulted: Apr. 4, 2011
+500    $a Star in the subtitle is represented by a symbol.
+500    $a Community newspaper.
+651  0 $a Christchurch (N.Z.) $v Periodicals.
+655  7 $a New Zealand newspapers. $2 local $5 Nz
+776 0  $i Online version: $t Shore view (Online)
+780 07 $t Observer (Christchurch, N.Z. : 2009)

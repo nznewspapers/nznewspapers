@@ -1,0 +1,31 @@
+01599cas a2200385 a 4500
+001 999251383502836
+003 Nz
+005 20181207185822.0
+008 031213d19931996nz ex|ne      0   b0eng  
+035    $a (Nz)8123594
+035    $a (NLNZils)925138
+035    $a (NLNZils)925138-ilsdb
+035    $a (OCoLC)946807882
+040    $a NZNB $c NZNB
+042    $a nznb
+043    $a u-nz---
+082 04 $a 079.9325 $2 22
+245 00 $a Aroha nui Otara.
+246 10 $a Otara
+260    $a [Otara, N.Z.] : $b Enterprise Otara - Maia Whakaaro
+300    $a v. : $b ill. ; $c 28-43 cm.
+310    $a Fortnightly
+362 1  $a Began with Mar. 23, 1993; Ceased with no. 57 (Feb. 12, 1996)
+500    $a Community newspaper.
+500    $a Description based on Aug. 2, 1993; title from masthead.
+500    $a Latest issue consulted: No. 57 (Feb. 12, 1996).
+500    $a "This publication is under the umbrella of Enterprise Otara - Maia Whakaaro, and supported by the Community Employment Group."
+500    $a "The people of Otara creating a unique market place."
+515    $a Designation varies; Some errors in dates.
+533    $a Microfilm. $m Aug. 2, 1993-no. 57 (Feb. 12, 1996). $b Wellington, N.Z. : $c New Zealand Micrographic Services, $d 2010. $e 1 microfilm reel ; 35 mm. $n Filmed with: Southern post (Otara, N.Z.), [issue 1 (May 15, 1996)]-issue 12 (Nov. 13, 1996).
+546    $a Text in English and Pacific Island languages.
+651  0 $a Otara (Auckland, N.Z.) $v Newspapers.
+655  7 $a New Zealand newspapers. $2 local $5 Nz
+710 2  $a Enterprise Otara Maia Whakaaro.
+785 00 $t Southern post (Otara, N.Z.)

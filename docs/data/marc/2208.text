@@ -1,0 +1,27 @@
+01080cas a2200337 a 4500
+001 999028823502836
+003 Nz
+005 20161223153113.0
+008 031015d20032004nz wr ne |    0   a0eng  
+035    $a (NLNZils)902882
+035    $a (Nz)8044158
+035    $a (NLNZils)902882-ilsdb
+035    $a (OCoLC)173418713
+040    $a NZNB $c NZNB
+042    $a nznb
+043    $a u-nz---
+082 04 $a 052.099363 $2 21
+245 00 $a Wellington contact.
+260    $a Wellington [N.Z. : $b Wellington Newspapers, $c 2003-2004]
+300    $a v. : $b ill. (some col.) ; $c 40 cm.
+310    $a Weekly
+362 0  $a Oct. 9, 2003-
+362 1  $a Ceased with June 3, 2004.
+500    $a Title from caption.
+500    $a Community newspaper.
+580    $a Formed by the merger of: Norwester (Wellington, N.Z.), and: Contact (Wellington, N.Z. : 1991)
+651  0 $a Wellington (N.Z.) $v Periodicals.
+655  7 $a New Zealand newspapers. $2 local $5 Nz
+780 04 $t Norwester (Wellington, N.Z.) $x 1172-8051
+780 04 $t Contact (Wellington, N.Z. : 1991)
+785 00 $a Wellingtonian (Wellington, N.Z. : 2004)

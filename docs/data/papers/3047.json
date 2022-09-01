@@ -1,0 +1,18 @@
+{
+  "id": 3047,
+  "title": "Bluff Press And Stewart Island Gazette",
+  "genre": "Newspaper",
+  "firstYear": "1908",
+  "finalYear": "1931",
+  "district": "Southland District",
+  "frequency": "Semiweekly",
+  "idMarcControlNumber": "5093208",
+  "isCurrent": false,
+  "placecode": "14-01",
+  "placename": "Bluff",
+  "region": "Southland",
+  "sources": {
+    "2022-08-31T04:35:24.058Z": "Extracted from the New Zealand National Bibliography (MARC record 5093208) downloaded June 2022."
+  },
+  "revision": 1
+}

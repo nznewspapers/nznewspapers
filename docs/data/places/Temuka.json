@@ -1,7 +1,7 @@
 {
   "stats": {
     "placename": "Temuka",
-    "count": 5,
+    "count": 6,
     "decades": 4
   },
   "papers": [
@@ -23,6 +23,12 @@
       "title": "South Canterbury Weekly Review",
       "firstYear": "1933",
       "finalYear": "1933"
+    },
+    {
+      "id": "3059",
+      "title": "Advocate",
+      "firstYear": "1934",
+      "finalYear": "1934"
     },
     {
       "id": "2952",

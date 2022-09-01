@@ -1,0 +1,32 @@
+01548cas a2200397 a 4500
+001 999299283502836
+003 Nz
+005 20200909152559.0
+008 870701d19101924nz wr|n       0   a0eng  
+035    $a (nzNZBN)3855873
+035    $a (NLNZils)929928
+035    $a zbn87044163
+035    $a (Nz)4657960
+035    $a (NLNZils)929928-ilsdb
+035    $a (OCoLC)173346281
+040    $a NZNB $c PU $d NZNB
+042    $a nznb
+043    $a u-nz---
+082 04 $a 331.88099305 $2 23
+245 04 $a The Maoriland worker : $b a journal of industrial unionism, socialism & politics.
+260    $a Wellington [N.Z. : $b New Zealand Federation of Labour?, $c 1910-1924]
+300    $a 14 v. : $b ill. ; $c 40 cm.
+310    $a Weekly $b May 1911-
+321    $a Monthly $b -Apr. 1911
+362 1  $a Began with vol. 1, no. 1 (Sept. 1910); Ceased with v. 14, no. 4 (Jan. 30, 1924)
+500    $a Imprint varies.
+500    $a Description based on: Vol. 1, no. 7 (Mar. 20, 1911); title from masthead.
+550    $a Official organ of the New Zealand Federation of Labour,    -1913; United Federation of Labor,1913-   ; Social Democrat Party, 1913-1918?; New Zealand Labor Party, 1919-
+650  0 $a Labor unions $z New Zealand $v Newspapers.
+655  7 $a New Zealand newspapers. $2 local $5 Nz
+710 2  $a New Zealand Federation of Labour (1909-1913)
+710 2  $a United Federation of Labour.
+710 2  $a Social Democrat Party (N.Z.)
+710 2  $a New Zealand Labor Party.
+776 08 $i Online version: $t Maoriland worker $w (Nz)9915205533502836
+785 00 $t New Zealand worker

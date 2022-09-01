@@ -1,0 +1,25 @@
+{
+  "id": 3104,
+  "title": "Wairarapa News",
+  "genre": "Newspaper",
+  "firstYear": "1994",
+  "finalYear": "2018",
+  "district": "Unknown District",
+  "frequency": "Weekly",
+  "idMarcControlNumber": "8131069",
+  "isCurrent": false,
+  "placecode": "09-08",
+  "placename": "Wellington",
+  "region": "Unknown Region",
+  "links": {
+    "unknown-1": {
+      "direction": "Preceding",
+      "relationship": "Continues",
+      "target-description": "Wairarapa news & the chronicle"
+    }
+  },
+  "sources": {
+    "2022-08-31T04:35:40.663Z": "Extracted from the New Zealand National Bibliography (MARC record 8131069) downloaded June 2022."
+  },
+  "revision": 1
+}

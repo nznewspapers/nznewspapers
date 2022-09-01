@@ -1,0 +1,23 @@
+00883cas a2200289 a 4500
+001 999323633502836
+003 Nz
+005 20201013091528.0
+008 040113d19111980nz wr|ne      0   a0eng  
+035    $a (NLNZils)932363
+035    $a (Nz)8183924
+035    $a (NLNZils)932363-ilsdb
+035    $a (OCoLC)837847568
+040    $a NZNB $c NZNB
+042    $a nznb
+043    $a u-nz---
+082 04 $a 079.9316 $2 20NZ
+245 00 $a Te Puke times.
+260    $a [Te Puke, N.Z. : $b Thomas Herbert Wilson]
+310    $a Weekly $b <Feb. 6, 1975>-
+321    $a Semiweekly
+362 1  $a Began with Feb. 6, 1911; ceased in Feb. 1980?
+651  0 $a Western Bay of Plenty District (N.Z.) $v Newspapers.
+651  0 $a Bay of Plenty (N.Z. : Region) $v Newspapers.
+655  7 $a New Zealand newspapers. $2 local $5 Nz
+776 08 $i Online version: $t Puke times $w (Nz)9915521683502836
+785 00 $t Bay sun (Te Puke ed.)

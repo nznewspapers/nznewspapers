@@ -1,0 +1,33 @@
+01295cas a2200409 a 4500
+001 9993693502836
+003 Nz
+005 20210401181142.0
+008 160813c19919999nz crzne      0   a0eng  
+022 0  $a 1171-9052
+035    $a (nzNZBN)7123201
+035    $a (NLNZils)9369
+035    $a zbn92079033
+035    $z 419550
+035    $a (Nz)4076139
+035    $a (NLNZils)9369-ilsdb
+035    $a (OCoLC)173339205
+040    $a NZNB $c NZNB
+042    $a nznb
+043    $a u-nz---
+082 04 $a 079.9321 $2 20NZ
+222  0 $a Rodney times
+245 00 $a Rodney times.
+246 30 $a Times
+260    $a Warkworth [N.Z.] : $b Rodney Times, $c 1991-
+260 2  $3 <2015>- $a [Auckland, N.Z. : $b Fairfax Media]
+260 3  $3 <February 2018-> $a [Auckland, N.Z. : $b Stuff Limited]
+300    $a v. : $b ill., ports. (some col.) ; $c 43 cm.
+310    $a Biweekly
+362 1  $a Began with Nov. 5 1991.
+500    $a Community newspaper.
+500    $a Description based on: Tuesday Aug. 4th, 1992; title from masthead.
+500    $a Available from Rodney Times, P.O. Box 91, Warkworth, N.Z.
+651  0 $a Rodney District (N.Z.) $v Periodicals.
+655  7 $a New Zealand newspapers. $2 local $5 Nz
+776 08 $i Online version: $t Rodney times $w (Nz)9917966493502836
+780 00 $t Rodney and Waitemata times $x 1170-1056

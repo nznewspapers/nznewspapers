@@ -1,0 +1,28 @@
+01103cas a2200349 a 4500
+001 9912604233502836
+003 Nz
+005 20190201155401.0
+008 070924d20072008nz wr|ne      0   a0eng  
+035    $a (NLNZils)1260423
+035    $a (Nz)11521113
+035    $a (NLNZils)1260423-ilsdb
+035    $a (OCoLC)174110784
+040    $a NZNB $c NZNB
+042    $a nznb
+043    $a u-nz---
+082 04 $a 079.9322 $2 22
+245 04 $a The North Shore Aucklander.
+246 17 $a Aucklander
+260    $a Auckland [N.Z.] : $b Aucklander, APN NZ, $c [2007]-2008.
+300    $a v. : $b col. ill. ; $c 38 cm.
+310    $a Weekly
+362 0  $a Began with 12 September (2007); ceased with 9 July (2008)
+500    $a Title from cover.
+500    $a Community newspaper.
+580    $a Formed by the merger of: Aucklander (Shore : 2005), and: Aucklander (North ed.).
+651  0 $a Auckland (N.Z.) $v Newspapers.
+651  0 $a North Shore City (N.Z.) $v Newspapers.
+655  7 $a New Zealand newspapers. $2 local $5 Nz
+780 04 $t Aucklander (Shore : 2005)
+780 04 $t Aucklander (North ed.)
+785 00 $t Aucklander North Shore

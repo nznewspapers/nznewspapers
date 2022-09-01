@@ -1,0 +1,18 @@
+{
+  "id": 3077,
+  "title": "Dunstan News And Wakatipu Advertiser",
+  "genre": "Newspaper",
+  "firstYear": "1862",
+  "finalYear": "1864",
+  "district": "Central Otago District",
+  "frequency": "Semiweekly",
+  "idMarcControlNumber": "5094442",
+  "isCurrent": false,
+  "placecode": "13-02",
+  "placename": "Clyde",
+  "region": "Otago",
+  "sources": {
+    "2022-08-31T04:35:32.800Z": "Extracted from the New Zealand National Bibliography (MARC record 5094442) downloaded June 2022."
+  },
+  "revision": 1
+}

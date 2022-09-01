@@ -1,0 +1,21 @@
+00706cas a22002651a 4500
+001 999320913502836
+003 Nz
+005 20160321142741.0
+008 040113d19301959nz  r ne      0   0 eng d
+035    $a (Nz)8183080
+035    $a (NLNZils)932091
+035    $a (NLNZils)932091-ilsdb
+035    $a (OCoLC)173423158
+040    $a WN $c WN
+042    $a nznb
+043    $a u-nz---
+245 00 $a Taihape times.
+260    $a [Taihape, N.Z. : $b s.n., $c 1930-1959]
+310    $a Three no. a week
+362 0  $a 1930 Mar.3-1959 Feb.27
+651  0 $a Taihape (N.Z.) $v Newspapers.
+655  7 $a New Zealand newspapers. $2 local $5 Nz
+780 00 $t Taihape daily times
+785 07 $t Waimarino news
+785 07 $t Central district times

@@ -1,8 +1,8 @@
 {
   "stats": {
     "placename": "Christchurch",
-    "count": 112,
-    "decades": 16
+    "count": 117,
+    "decades": 17
   },
   "papers": [
     {
@@ -10,6 +10,12 @@
       "title": "Guardian and Canterbury Advertiser",
       "firstYear": "1852",
       "finalYear": "1852"
+    },
+    {
+      "id": "3071",
+      "title": "Canterbury Standard",
+      "firstYear": "1854",
+      "finalYear": "1866"
     },
     {
       "id": "2411",
@@ -155,6 +161,18 @@
       "finalYear": "19uu"
     },
     {
+      "id": "3098",
+      "title": "Christchurch Star",
+      "firstYear": "1929",
+      "finalYear": "1935"
+    },
+    {
+      "id": "3044",
+      "title": "Sun Sports Review",
+      "firstYear": "192u",
+      "finalYear": "192u"
+    },
+    {
       "id": "2431",
       "title": "Christchurch Star-Sun",
       "firstYear": "1935",
@@ -213,6 +231,12 @@
       "title": "Herald-gazette",
       "firstYear": "1960",
       "finalYear": "1962"
+    },
+    {
+      "id": "3120",
+      "title": "Observer",
+      "firstYear": "1960",
+      "finalYear": "1989"
     },
     {
       "id": "2440",
@@ -296,7 +320,7 @@
       "id": "2452",
       "title": "Weekly Courier",
       "firstYear": "1982",
-      "finalYear": "uuuu"
+      "finalYear": "1983"
     },
     {
       "id": "2453",
@@ -389,6 +413,12 @@
       "finalYear": "1995"
     },
     {
+      "id": "2473",
+      "title": "Korea Review (Christchurch)",
+      "firstYear": "1995",
+      "finalYear": "9999"
+    },
+    {
       "id": "2467",
       "title": "Observer",
       "firstYear": "1996",
@@ -434,12 +464,6 @@
       "id": "2472",
       "title": "Central Today",
       "firstYear": "1999",
-      "finalYear": "9999"
-    },
-    {
-      "id": "2473",
-      "title": "Korea Review (Christchurch)",
-      "firstYear": "199u",
       "finalYear": "9999"
     },
     {
@@ -651,6 +675,12 @@
     {
       "id": "2501",
       "title": "Western News",
+      "firstYear": "2009",
+      "finalYear": "9999"
+    },
+    {
+      "id": "3118",
+      "title": "Coastal Mail",
       "firstYear": "2009",
       "finalYear": "9999"
     },

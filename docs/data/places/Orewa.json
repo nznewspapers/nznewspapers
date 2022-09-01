@@ -1,7 +1,7 @@
 {
   "stats": {
     "placename": "Orewa",
-    "count": 3,
+    "count": 4,
     "decades": 3
   },
   "papers": [
@@ -10,6 +10,12 @@
       "title": "Hibiscus Coast Leader",
       "firstYear": "1965",
       "finalYear": "uuuu"
+    },
+    {
+      "id": "3069",
+      "title": "Coaster",
+      "firstYear": "1983",
+      "finalYear": "1985"
     },
     {
       "id": "1204",

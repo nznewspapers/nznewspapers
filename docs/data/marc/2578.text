@@ -1,0 +1,26 @@
+01019cas a2200325 a 4500
+001 999103193502836
+003 Nz
+005 20200810094047.0
+008 940809d18631979nz dr ne      0   a0eng  
+035    $a (nzNZBN)8737370
+035    $a (NLNZils)910319
+035    $a (Nz)4869510
+035    $a (NLNZils)910319-ilsdb
+035    $a (OCoLC)173353278
+040    $a NZNB $c ABN $d NZNB
+042    $a nznb
+043    $a u-nz---
+130 0  $a Evening star (Dunedin, N.Z.)
+245 14 $a The evening star.
+260    $a Dunedin, N.Z. : $b J.G. Moody, for the Evening Star Co. Ltd., $c [1863-1979]
+300    $a v. : $b ill. ; $c 65 cm.
+310    $a Daily
+362 0  $a May 1 1863-Nov. 3 1979
+500    $a Description based on: No. 19,597 (Friday, July 1, 1927)
+500    $a Incorporates Evening independent - Scholefield.
+500    $a Size varies.
+500    $a Publisher varies.
+651  0 $a Dunedin (N.Z.) $v Newspapers.
+655  7 $a New Zealand newspapers. $2 local $5 Nz
+776 08 $i Online version: $t Evening star $w (Nz)9917181393502836

@@ -1,0 +1,21 @@
+00740cas a22002651a 4500
+001 999283323502836
+003 Nz
+005 20191104121515.0
+008 031223d18751878nz  r ne      0    0eng d
+035    $a (NLNZils)928332
+035    $a (Nz)8141640
+035    $a (NLNZils)928332-ilsdb
+035    $a (OCoLC)173421121
+040    $a WN $c WN
+042    $a nznb
+043    $a u-nz---
+130 0  $a Evening argus (Wellington, N.Z.)
+245 10 $a Evening argus.
+260    $a [Wellington, N.Z. : $b s.n., $c 1875-1878]
+310    $a Daily
+362 0  $a 1875 Dec.6-1878 Mar.30
+651  0 $a Wellington (N.Z.) $v Newspapers.
+655  7 $a New Zealand newspapers. $2 local $5 Nz
+780 00 $t Tribune (Wellington, N.Z.)
+785 00 $t Evening chronicle (Wellington, N.Z.)

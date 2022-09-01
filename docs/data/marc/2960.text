@@ -1,0 +1,29 @@
+01225cas a2200361 a 4500
+001 998410493502836
+003 Nz
+005 20161223152747.0
+008 030409d19351936nz mr n  |    0   a0eng  
+035    $a (NLNZils)841049
+035    $a (Nz)7624170
+035    $a (NLNZils)841049-ilsdb
+035    $a (OCoLC)173411604
+040    $a NZNB $c NZNB
+042    $a nznb
+043    $a u-nz---
+082 04 $a 324.2930709939205 $2 21
+245 00 $a N.Z. forward : $b the voice of Labour in the south.
+246 17 $a New Zealand forward
+246 3  $a NZ forward
+260    $a Dunedin [N.Z.] : $b J.V.C. Watson, $c 1935-1936.
+300    $a v. : $b ill. ; $c 37 cm.
+310    $a Monthly
+362 0  $a Vol. 1, no. 1 (June 1935)-
+362 1  $a Ceased with v. 2, no. 2 (Apr. 1936)?
+500    $a Title from caption.
+550    $a Issued by: Otago Labour Research Committee.
+610 20 $a New Zealand Labour Party $v Periodicals.
+650  0 $a Political parties $z New Zealand $z Dunedin $v Periodicals.
+651  0 $a Dunedin (N.Z.) $x Politics and government $y 20th century $v Periodicals.
+651  0 $a New Zealand $x Politics and government $y 20th century $v Periodicals.
+655  7 $a New Zealand newspapers. $2 local $5 Nz
+710 2  $a Otago Labour Research Committee.

@@ -1,6 +1,6 @@
 /**
  * Load the data for a single newspaper.
- * @returns
+ * @returns The newspaper info as an object.
  */
 async function getPaper() {
   const urlParams = new URLSearchParams(window.location.search);
@@ -12,6 +12,24 @@ async function getPaper() {
     return await res.json();
   } catch (error) {
     console.log("Error in getPaper");
+    console.log(error);
+  }
+}
+
+/**
+ * Load the MARC record for a single newspaper.
+ * @returns The MARC record as a text string.
+ */
+async function getPaperMarc() {
+  const urlParams = new URLSearchParams(window.location.search);
+  const newspaperId = urlParams.get("id");
+  const url = "data/marc/" + newspaperId + ".text";
+
+  try {
+    let res = await fetch(url);
+    return await res.text();
+  } catch (error) {
+    console.log("Error in getPaperMarc");
     console.log(error);
   }
 }
@@ -220,6 +238,16 @@ function keyElements(box, newspaper) {
   appendRow(tbody, "Region", newspaper.region);
 }
 
+function marcRecord(box, newspaper, marcText) {
+  if (newspaper.idMarcControlNumber) {
+    let marcRecordDiv = appendDiv(box, "marc");
+    appendElement(marcRecordDiv, "h3", null, "PublicationsNZ Marc Record");
+    // const marcText = await getPaperMarc();
+
+    appendElement(marcRecordDiv, "pre", null, marcText);
+  }
+}
+
 /**
  * Display source info specific to this newspaper record.
  * @param {*} box The container element to put the links into.
@@ -294,7 +322,7 @@ function sourceInfo(box, newspaper) {
  * Fill in the Newspaper Title and summary information.
  * @param {*} newspaper Data describing this newspaper.
  */
-function contentBox(newspaper) {
+function contentBox(newspaper, marcText) {
   var box = document.querySelector(".contentbox");
 
   // About this title
@@ -334,6 +362,7 @@ function contentBox(newspaper) {
   // Insert Key Elements table
   linkTable(box, newspaper);
   keyElements(box, newspaper);
+  marcRecord(box, newspaper, marcText);
   sourceInfo(box, newspaper);
 
   // We should add the "referencews" section here, see the
@@ -348,9 +377,11 @@ async function render() {
   console.log("A newspaper!");
   console.log(data);
 
+  const marcText = await getPaperMarc();
+
   document.title = data.title + " - Newspapers of New Zealand";
   bannerBox(data);
-  contentBox(data);
+  contentBox(data, marcText);
 }
 
 render();

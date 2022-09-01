@@ -1,0 +1,33 @@
+01361cas a2200409 a 4500
+001 992166553502836
+003 Nz
+005 20210401183246.0
+008 160814d19931994nz ergne      0   a0map  
+022 0  $a 1173-2350
+035    $z 543781
+035    $a (NLNZils)216655
+035    $a (nzNZBN)8641627
+035    $a zbn94090103
+035    $a (Nz)5070262
+035    $a (NLNZils)216655-ilsdb
+035    $a (OCoLC)173361497
+040    $a NZNB $c NZNB
+041 0  $a map $a eng
+042    $a nznb
+043    $a u-nz---
+082 0  $a 305.8994093 $2 20
+210 0  $a Taulogologo $b (Wellingt.)
+222  0 $a Taulogologo $b (Wellington)
+245 00 $a Taulogologo : $b le nusipepa a Samoa i Ueligitone.
+246 10 $a Nusipepa a Samoa i Ueligitone
+260    $a Wellington, N.Z. : $b Taulogologo Pub., $c [1993-1994]
+300    $a 16? v. : $b ill., ports. ; $c 43 cm.
+362 1  $a Ceased with v. 16 (Nov. 1994).
+362 0  $a Nov. 1993-Tesema 1993 ; vol. 2, issue 1 (4-17 Mati, 1994)-
+500    $a Title from caption.
+500    $a Includes advertising.
+500    $a Available from: Crenel Company Ltd. P.O Box 6225, Te Aro, Wellington.
+546    $a Text in Samoan; from vol. 2, issue 4 text in Samoan or English.
+550    $a Vol. 2, issue 1- published by: Crenel Company Ltd.
+650  0 $a Samoans $z New Zealand $x Periodicals.
+655  7 $a New Zealand newspapers. $2 local $5 Nz

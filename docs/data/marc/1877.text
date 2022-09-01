@@ -1,0 +1,39 @@
+01903cas a2200481 a 4500
+001 994794373502836
+003 Nz
+005 20211108122552.0
+008 051109d18562018nz dn|ne      0   a0eng  
+022 0  $a 1170-067X $y 0117-067X $2 _g
+035    $a (NLNZils)479437
+035    $z 291031
+035    $a (nzNZBN)5123644
+035    $a zbn89070557
+035    $a (Nz)3531184
+035    $a (NLNZils)479437-ilsdb
+035    $a (OCoLC)173333250
+040    $a NZNB $c NZNB
+042    $a nznb
+043    $a u-nz---
+082 0  $a 079.9354 $2 22
+222  0 $a Wanganui chronicle
+245 00 $a Wanganui chronicle.
+246 33 $a Wanganui chronicle and Rangitikei messenger
+260    $a Wanganui [N.Z.] : $b Wanganui Newspapers, $c 1856-
+300    $a v. : $b ill., map, ports. ; $c 41-58 cm.
+310    $a Daily (except Sunday) $b 1871-
+321    $a Two weekly $b Mar 30 1864
+321    $a Three weekly $b May 28 1867.
+321    $a Weekly
+362 1  $a Began with Sept. 18, 1856; ceased with 8 Sept. 2018. $z Cf. Harvey, D. R. Union list of newspapers ... in New Zealand.
+500    $a Available from Wanganui Newspapers, P.O. Box 433, Wanganui, N.Z.
+500    $a Description based on: Vol. 131, no. 286 (Tuesday Aug. 29, 1989); title from masthead.
+500    $a Includes advertising.
+500    $a "N.Z.'s oldest newspaper".
+510 2  $a Index New Zealand, $x 0113-6526, $b Jul. 24, 1990-8 Sept. 2018.
+530    $a Available on microfilm from Microfilm Production Unit, National Library of New Zealand.
+530    $a Selected content also available in an electronic ed.
+651  0 $a Wanganui District (N.Z.) $v Newspapers.
+655  7 $a New Zealand newspapers. $2 local $5 Nz
+776 08 $i Online version: $t Wanganui chronicle $x 2744-7731
+785 00 $t Whanganui chronicle $x 2624-1722
+856 41 $u https://paperspast.natlib.govt.nz/newspapers/wanganui-chronicle $z Papers Past | Newspapers | Explore | Wanganui Chronicle

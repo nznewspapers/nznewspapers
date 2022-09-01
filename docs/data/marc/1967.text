@@ -1,0 +1,26 @@
+00990cas a2200325 a 4500
+001 999257263502836
+003 Nz
+005 20220401160723.0
+008 031216m19979999nz wr ne      0   a0eng  
+035    $a (NLNZils)925726
+035    $a (Nz)8128708
+035    $a (NLNZils)925726-ilsdb
+035    $a (OCoLC)173420398
+040    $a NZNB $c NZNB
+042    $a nznb
+043    $a u-nz---
+082 04 $a 079.9361 $2 22
+130 0  $a Kapiti news (1997)
+245 10 $a Kapiti news.
+260    $3 1997- : $a [Levin, N.Z. : $b s.n., $c 1997?-]
+260 2  $3 <Apr. 2013?>- : $a Paraparumu [N.Z.] : $b Kapiti News
+260 3  $3 <2022-> : $a [Auckland, N.Z.?] : $b NZME
+300    $a v. : $b ill. ; $c 44 cm.
+310    $a Weekly
+362 0  $a 1997?-
+500    $a Title from masthead.
+588    $a Latest issue consulted: March 16, 2022.
+651  0 $a Kapiti Coast District (N.Z.) $v Newspapers.
+655  7 $a New Zealand newspapers. $2 local $5 Nz
+776 0  $i Online version: $t Kapiti news (1997 : Online) $w (Nz)9914860943502836

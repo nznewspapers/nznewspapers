@@ -1,8 +1,8 @@
 {
   "stats": {
     "placename": "Palmerston North",
-    "count": 16,
-    "decades": 9
+    "count": 18,
+    "decades": 11
   },
   "papers": [
     {
@@ -25,6 +25,18 @@
       "finalYear": "9999",
       "urlCurrent": "http://www.manawatustandard.co.nz/",
       "urlDigitized": "https://paperspast.natlib.govt.nz/newspapers/manawatu-standard"
+    },
+    {
+      "id": "3084",
+      "title": "Manawatu Evening Standard",
+      "firstYear": "1899",
+      "finalYear": "1902"
+    },
+    {
+      "id": "3085",
+      "title": "Manawatu Standard",
+      "firstYear": "1903",
+      "finalYear": "1905"
     },
     {
       "id": "1912",

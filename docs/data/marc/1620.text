@@ -1,0 +1,37 @@
+01766cas a2200457 a 4500
+001 999268033502836
+003 Nz
+005 20210225144911.0
+008 900126d19802021nz zx|ne      0   a0eng  
+022 0  $a 1170-1137 $y 0117-1137 $2 _g
+035    $a (nzNZBN)5278361
+035    $a (Nz)3604370
+035    $a (NLNZils)926803
+035    $a (NLNZils)926803-ilsdb
+035    $a (OCoLC)173334221
+040    $a NZNB $c NZNB
+042    $a nznb
+043    $a u-nz---
+082 04 $a 079.9319 $2 20NZ
+210 1  $a Waitomo news
+222  0 $a Waitomo news
+245 00 $a Waitomo news.
+246 1  $i Title to mark Māori language week: $a Waitomo panui
+246 1  $i Also known as: $a The Meadsville mirror $f Aug. 30, 2011-Oct., 2011
+260    $a Te Kuiti [N.Z.] : $b Waitomo news, $c 1980-2021.
+300    $a v. : $b ill., ports. ; $c 43 cm.
+310    $a Irregular
+362 1  $a Began with Dec. 2 1980; ceased with Jan. 28, 2021. $z Cf. Harvey, D. R. Union list of newspapers ... in New Zealand.
+500    $a "Distributed, to 94% of homes in the Northern King Country.
+500    $a Includes advertising.
+500    $a Titled Waitomo panui during Maori week.
+500    $a Some issues accompanied by other Waitomo news publications, including North King Country farmer.
+500    $a Description based on: no. 846 (Thursday Sept. 7, 1989); title from masthead.
+530    $a Available on microfilm from Microfilm Production Unit, National Library of New Zealand.
+550    $a Published at Otorohanga and Te Kuiti.
+651  0 $a King Country (N.Z.) $v Periodicals.
+655  7 $a New Zealand newspapers. $2 local $5 Nz
+776 0  $i Online version: $t Waitomo news $x 1175-6934
+780 04 $t King Country chronicle
+780 04 $t Otorohanga times
+785 00 $t King Country news $x 2744-5011

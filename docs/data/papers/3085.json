@@ -1,0 +1,30 @@
+{
+  "id": 3085,
+  "title": "Manawatu Standard",
+  "genre": "Newspaper",
+  "firstYear": "1903",
+  "finalYear": "1905",
+  "district": "Palmerston North City",
+  "frequency": "Daily",
+  "idMarcControlNumber": "12890080",
+  "isCurrent": false,
+  "placecode": "08-05",
+  "placename": "Palmerston North",
+  "region": "Manawatu-Wanganui",
+  "links": {
+    "unknown-1": {
+      "direction": "Preceding",
+      "relationship": "Continues",
+      "target-description": "Manawatu evening standard (1900)"
+    },
+    "unknown-2": {
+      "direction": "Succeeding",
+      "relationship": "Continued by",
+      "target-description": "Manawatu evening standard"
+    }
+  },
+  "sources": {
+    "2022-08-31T04:35:34.302Z": "Extracted from the New Zealand National Bibliography (MARC record 12890080) downloaded June 2022."
+  },
+  "revision": 1
+}

@@ -1,0 +1,30 @@
+01083cas a2200373 a 4500
+001 999260713502836
+003 Nz
+005 20161223153704.0
+008 961211d19962004nz wr ne |    0   a0eng  
+035    $a (nzNZBN)10006190
+035    $a zbn96120979
+035    $a (NLNZils)926071
+035    $a (Nz)2583968
+035    $a (NLNZils)926071-ilsdb
+035    $a (OCoLC)173326017
+040    $a NZNB $c CU $d NZNB
+042    $a nznb
+043    $a u-nz---
+082 04 $a 079.9383 $2 22
+130 0  $a News advertiser (Christchurch, N.Z. : 1996)
+245 00 $a News advertiser.
+246 37 $a Community news
+260    $a Christchurch, [N.Z.] : $b Community News, $c [1996-2004]
+300    $a v. : $b ill. ; $c 40 cm.
+310    $a Weekly
+362 0  $a Nov. 25, 1996-
+362 1  $a Ceased with Oct. 24, 2004.
+500    $a Community newspaper.
+500    $a Title from masthead.
+651  0 $a Christchurch (N.Z.) $v Periodicals.
+655  7 $a New Zealand newspapers. $2 local $5 Nz
+780 00 $t Community news (Advertiser ed.)
+785 06 $t News advertiser (Northern)
+785 06 $t News advertiser (Western)

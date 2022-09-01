@@ -1,0 +1,30 @@
+01146cas a2200373 a 4500
+001 999311313502836
+003 Nz
+005 20210401181345.0
+008 900330d19881998nz ergn       0   a0eng  
+022 0  $a 1170-1196 $y 0117-1196
+035    $a (nzNZBN)5278371
+035    $a (NLNZils)931131
+035    $a zbn90004766
+035    $a (Nz)3561000
+035    $a (NLNZils)931131-ilsdb
+035    $a (OCoLC)173333792
+040    $a NZNB $c NZNB
+042    $a nznb
+043    $a u-nz---
+082 04 $a 079.9315 $2 20NZ
+210 0  $a Paeroa gazette
+222  0 $a Paeroa gazette
+245 00 $a Paeroa gazette.
+246 33 $a Gazette
+260    $a Paeroa, N.Z. : $b Hauraki Publishers, $c 1988-1998.
+300    $a v. : $b ill., ports. ; $c 14 cm.
+362 1  $a Began with Vol. 102, no. 9066 (16 Aug. 1988); ceased with 26 Aug. 1998.
+500    $a Community newspaper.
+500    $a Includes advertising.
+500    $a Description based on: Thursday Sept. 28, 1989; title from masthead.
+651  0 $a Paeroa (N.Z.) $x Periodicals.
+655  7 $a New Zealand newspapers. $2 local $5 Nz
+785 07 $t Thames star $x 1170-1110
+785 07 $t Thames Valley gazette (1998) $x 1174-7285

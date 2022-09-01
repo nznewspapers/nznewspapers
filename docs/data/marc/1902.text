@@ -1,0 +1,33 @@
+01367cas a2200409 a 4500
+001 9910825013502836
+003 Nz
+005 20180807170445.0
+008 050113d20052016nz wr|ne      0   a0eng  
+035    $a (NLNZils)1082501
+035    $a (Nz)9185048
+035    $a (NLNZils)1082501-ilsdb
+035    $a (OCoLC)173443422
+040    $a NZNB $c NZNB
+042    $a nznb
+043    $a u-nz---
+082 04 $a 079.9355 $2 22
+130 0  $a Rangitikei mail (2005)
+245 10 $a Rangitikei mail.
+260    $a [Feilding, N.Z.] : $b Feilding Herald, $c [2005-2016]
+300    $a v. : $b ill. ; $c 41 cm.
+310    $a Weekly
+362 0  $a Jan. 11, 2004 [i.e. 2005]-
+362 1  $a Ceased with Mar. 31, 2016.
+500    $a Community newspaper.
+515    $a Some issues published irregularly.
+580    $a Merged with: Central district times, and: Feilding herald, to form: Feilding-Rangitikei herald.
+588    $a Title from masthead.
+588    $a Latest issue consulted: Mar. 31, 2016.
+651  0 $a Rangitikei District (N.Z.) $v Newspapers.
+651  0 $a Manawatu District (N.Z.) $v Newspapers.
+655  7 $a New Zealand newspapers. $2 local $5 Nz
+776 08 $i Online version: $t Rangitikei mail $w (Nz)9917975483502836
+780 00 $t Feilding herald Rangitikei mail
+785 17 $t Feilding herald $x 1170-0408
+785 17 $t Central district times
+785 17 $t Feilding-Rangitikei herald

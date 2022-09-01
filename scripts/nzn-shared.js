@@ -7,12 +7,33 @@ const path = require("path");
 exports.docsDir = path.join(process.cwd(), "docs");
 exports.jsonDir = path.join(exports.docsDir, "data");
 exports.paperDir = path.join(exports.jsonDir, "papers");
+exports.marcDir = path.join(exports.jsonDir, "marc");
 exports.scriptDir = path.join(process.cwd(), "scripts");
 
 exports.oldIdtoNewIdFilename = path.join(
   exports.jsonDir,
   "old_id_to_new_id.json"
 );
+
+exports.idToGenrePath = path.join(exports.jsonDir, "newspaperIdToGenre.json");
+
+/**
+ * Get the JSON filename for newspaper data.
+ * @param {*} id The newspaper identifier
+ * @returns The JSON file path
+ */
+exports.getNewspaperJsonPath = function (id) {
+  return path.join(exports.paperDir, id + ".json");
+};
+
+/**
+ * Get the MARC filename for newspaper data.
+ * @param {*} id The newspaper identifier
+ * @returns The MARC file path
+ */
+exports.getNewspaperMarcPath = function (id) {
+  return path.join(exports.marcDir, id + ".text");
+};
 
 /**
  * Convert a string to camelCase, as per https://stackoverflow.com/a/2970667
@@ -25,6 +46,30 @@ exports.camelize = function (str) {
       return index === 0 ? word.toLowerCase() : word.toUpperCase();
     })
     .replace(/\s+/g, "");
+};
+
+/**
+ * Convert a string to Title Case.
+ * @param {string} String to convert.
+ * @returns String In Title Case.
+ */
+exports.titleCase = function (str) {
+  var splitStr = str.toLowerCase().split(" ");
+  for (var i = 0; i < splitStr.length; i++) {
+    splitStr[i] =
+      splitStr[i].charAt(0).toUpperCase() + splitStr[i].substring(1);
+  }
+  return splitStr.join(" ");
+};
+
+/**
+ * Clean up a string that is being used as a title or placename and return in Title Case
+ * @param {string} String The string to clean up.
+ * @returns A better version of the string, hopefully.
+ */
+exports.titleCleanup = function (str) {
+  let tidyStr = str.trim().replace(/[\.\: ]+$/, "");
+  return exports.titleCase(tidyStr);
 };
 
 /**
@@ -89,7 +134,8 @@ exports.writeDataToTextFile = function (data, path) {
  * Read the data for one newspaper.
  */
 exports.readNewspaper = function (id) {
-  const filename = path.join(exports.paperDir, id + ".json");
+  if (!id) throw new Error("Error: no id passed to readNewspaper.");
+  const filename = exports.getNewspaperJsonPath(id);
   return exports.readJsonDictSync(filename);
 };
 
@@ -114,7 +160,7 @@ function sortObjectKeysDesc(inputObject) {
  * Write the data for one newspaper.
  */
 exports.writeNewspaper = function (id, record, source = null) {
-  const filename = path.join(exports.paperDir, id + ".json");
+  const filename = exports.getNewspaperJsonPath(id);
 
   // Add the information source if one hs been supplied:
   if (source) {
@@ -191,6 +237,14 @@ exports.generateIdToGenreFile = function () {
 };
 
 /**
+ * Read the Id to Genre file, which we use as a way to look up all the newspapers.
+ * @returns A dict that maps from newspaper Id to Genre.
+ */
+exports.readIdToGenreFile = function () {
+  return exports.readJsonDictSync(exports.idToGenrePath);
+};
+
+/**
  * Read the mapping from old ids to new ids.
  */
 exports.readOldIdtoNewId = function () {
@@ -202,8 +256,8 @@ exports.readOldIdtoNewId = function () {
  * @returns A sorted list of newspaper ids.
  */
 exports.getNewspaperIds = function () {
-  let oldIdtoNewId = exports.readOldIdtoNewId();
-  return Object.values(oldIdtoNewId).sort();
+  let idToGenreDict = exports.readIdToGenreFile();
+  return Object.keys(idToGenreDict).sort();
 };
 
 /**
@@ -220,4 +274,23 @@ exports.getNewspaperRecords = function () {
     }
   }
   return results;
+};
+
+/** The highest newspaper ID in the current dataset, if known. */
+var maxNewspaperId = null;
+
+/**
+ * Get the next available newspaper Id so we can create a new record.
+ * @returns The next available Id.
+ */
+exports.getNextNewspaperId = function () {
+  if (!maxNewspaperId) {
+    maxNewspaperId = 0;
+    for (id of exports.getNewspaperIds()) {
+      newspaperId = parseInt(id);
+      if (newspaperId > maxNewspaperId) maxNewspaperId = newspaperId;
+    }
+  }
+  maxNewspaperId += 1;
+  return maxNewspaperId;
 };

@@ -1,8 +1,8 @@
 {
   "stats": {
     "placename": "Marton",
-    "count": 5,
-    "decades": 5
+    "count": 6,
+    "decades": 6
   },
   "papers": [
     {
@@ -23,6 +23,12 @@
       "title": "Rangitikei News",
       "firstYear": "1948",
       "finalYear": "1955"
+    },
+    {
+      "id": "3142",
+      "title": "The Rangitikei Mail",
+      "firstYear": "1955",
+      "finalYear": "2002"
     },
     {
       "id": "1873",

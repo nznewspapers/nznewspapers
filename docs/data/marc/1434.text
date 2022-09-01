@@ -1,0 +1,33 @@
+01228cas a2200409 a 4500
+001 994703393502836
+003 Nz
+005 20190607160105.0
+008 990817d19991999nz  xzn  |    0   a0eng  
+022 0  $a 1175-0685 $y 1174-6203
+035    $z 695069
+035    $a (Nz)5215522
+035    $a (NLNZils)470339
+035    $a (NLNZils)470339-ilsdb
+035    $a (OCoLC)173369258
+040    $a NZNB $c AP $d NZNB
+041 0  $a eng $a mao
+042    $a nznb
+043    $a u-nz---
+082 04 $a 305.899405 $a 079.93 $2 21
+210 0  $a Te karere Maori
+222  3 $a Te karere Maori
+245 03 $a Te karere Maori.
+260    $a Auckland [N.Z.] : $b Maori Online, $c [1999-
+300    $a v. : $b ill. ; $c 42 cm.
+310    $a Irregular
+362 0  $a Vol. 4, no. 116 (July 1999)-
+362 1  $a Ceased with v. 4, no. 32 (Nov. 1999)?
+500    $a Title from caption.
+510 1  $a Index New Zealand, $x 0113-6526
+515    $a Continues numbering of its predecessor; numbering erratic.
+546    $a Some text in Maori.
+650  0 $a Maori (New Zealand people) $v Newspapers.
+655  7 $a New Zealand newspapers. $2 local $5 Nz
+655  7 $a Maori newspapers. $2 local $5 Nz
+780 00 $t Maori (1997) $x 1174-6203
+785 00 $t Karere Maori news $x 1176-0362

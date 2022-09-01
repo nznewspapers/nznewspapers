@@ -1,0 +1,29 @@
+01095cas a2200361 a 4500
+001 999336013502836
+003 Nz
+005 20210401181150.0
+008 891220d19881995nz wrgne      0   a0eng  
+022 0  $a 1170-1471 $y 0117-1471 $2 _g
+035    $a (nzNZBN)5250474
+035    $a (NLNZils)933601
+035    $a zbn89093921
+035    $a (Nz)5013676
+035    $a (NLNZils)933601-ilsdb
+035    $a (OCoLC)946809007
+040    $a NZNB $c NZNB
+042    $a nznb
+043    $a u-nz---
+082 04 $a 079.9312 $2 20NZ
+222  0 $a Whangarei report
+245 04 $a The Whangarei report.
+260    $a [Whangarei, N.Z. : $b Whangarei report?, $c 1988-1995]
+300    $a v. : $b ill, forms, maps, ports. ; $c 42 cm.
+310    $a Weekly
+362 1  $a Began with 29 Jan. 1988; ceased with 18 May 1995.
+500    $a "Community newspaper."
+500    $a Includes advertising.
+500    $a Description based on: Friday Oct. 6 1989; title from masthead.
+651  0 $a Whangarei (N.Z.) $v Newspapers.
+655  7 $a New Zealand newspapers. $2 local $5 Nz
+780 00 $t Weekend report
+785 00 $t Whangarei's first report

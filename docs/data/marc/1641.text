@@ -1,0 +1,29 @@
+01123cas a2200361 a 4500
+001 999302853502836
+003 Nz
+005 20210401181302.0
+008 891013d19481990nz wrzne      0   a0eng  
+022 0  $a 1170-120X $y 0117-120X
+035    $a (nzNZBN)5164361
+035    $a zbn89076149
+035    $a (Nz)3531211
+035    $a (NLNZils)930285
+035    $a (NLNZils)930285-ilsdb
+035    $a (OCoLC)173333272
+040    $a NZNB $c NZNB
+042    $a nznb
+043    $a u-nz---
+082 04 $a 079.9316 $2 20NZ
+222  0 $a Mount news
+245 00 $a Mount news.
+246 30 $a News
+260    $a [Mount Maunganui, N.Z. : $b Mount News, $c 1948-1990]
+300    $a v. : $b ill., ports. ; $c 43 cm.
+362 1  $a Began with Dec. 10, 1948. $z Cf. Harvey, D. R. Union list of newspapers ... in New Zealand.
+362 1  $a Ceased with Sep. 26, 1990.
+500    $a Community newspaper.
+500    $a Includes advertising.
+500    $a Description based on: Wednesday Sept. 6, 1989; title from masthead.
+651  0 $a Mount Maunganui (N.Z.) $v Periodicals.
+655  7 $a New Zealand newspapers. $2 local $5 Nz
+785 00 $t Bay news (Tauranga, N.Z.)

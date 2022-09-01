@@ -1,0 +1,25 @@
+{
+  "id": 3094,
+  "title": "Central Hawke's Bay Mail",
+  "genre": "Newspaper",
+  "firstYear": "1994",
+  "finalYear": "9999",
+  "district": "Auckland",
+  "frequency": "Weekly",
+  "idMarcControlNumber": "8127536",
+  "isCurrent": false,
+  "placecode": "02-01",
+  "placename": "Auckland",
+  "region": "Auckland",
+  "links": {
+    "unknown-1": {
+      "direction": "Preceding",
+      "relationship": "Continues",
+      "target-description": "CHB mail"
+    }
+  },
+  "sources": {
+    "2022-08-31T04:35:37.442Z": "Extracted from the New Zealand National Bibliography (MARC record 8127536) downloaded June 2022."
+  },
+  "revision": 1
+}

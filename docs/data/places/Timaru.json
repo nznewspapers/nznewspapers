@@ -1,8 +1,8 @@
 {
   "stats": {
     "placename": "Timaru",
-    "count": 15,
-    "decades": 8
+    "count": 17,
+    "decades": 9
   },
   "papers": [
     {
@@ -39,10 +39,22 @@
       "finalYear": "1939"
     },
     {
+      "id": "3145",
+      "title": "South Canterbury Illustrated",
+      "firstYear": "1933",
+      "finalYear": "1939"
+    },
+    {
       "id": "2527",
       "title": "High Country Herald",
       "firstYear": "1984",
       "finalYear": "2001"
+    },
+    {
+      "id": "3126",
+      "title": "Photo News",
+      "firstYear": "198u",
+      "finalYear": "198u"
     },
     {
       "id": "2528",

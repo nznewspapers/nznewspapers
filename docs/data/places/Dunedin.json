@@ -1,7 +1,7 @@
 {
   "stats": {
     "placename": "Dunedin",
-    "count": 50,
+    "count": 58,
     "decades": 13
   },
   "papers": [
@@ -43,6 +43,12 @@
       "title": "Evening News",
       "firstYear": "1862",
       "finalYear": "1864"
+    },
+    {
+      "id": "3076",
+      "title": "Dunedin Advertiser And Business Directory",
+      "firstYear": "1862",
+      "finalYear": "uuuu"
     },
     {
       "id": "2576",
@@ -106,6 +112,18 @@
       "finalYear": "1883"
     },
     {
+      "id": "3078",
+      "title": "Evening Independent",
+      "firstYear": "1869",
+      "finalYear": "1869"
+    },
+    {
+      "id": "3128",
+      "title": "Echo",
+      "firstYear": "1869",
+      "finalYear": "1883"
+    },
+    {
       "id": "2589",
       "title": "Southern League and Daily Advertiser",
       "firstYear": "1871",
@@ -116,6 +134,12 @@
       "title": "Otago Guardian",
       "firstYear": "1873",
       "finalYear": "1877"
+    },
+    {
+      "id": "3137",
+      "title": "Guardian",
+      "firstYear": "1873",
+      "finalYear": "1873"
     },
     {
       "id": "2592",
@@ -179,6 +203,12 @@
       "finalYear": "1899"
     },
     {
+      "id": "3087",
+      "title": "The Pictorial New Zealander",
+      "firstYear": "1888",
+      "finalYear": "18uu"
+    },
+    {
       "id": "2608",
       "title": "North East Valley Weekly Advertiser",
       "firstYear": "188u",
@@ -209,6 +239,12 @@
       "finalYear": "uuuu"
     },
     {
+      "id": "3115",
+      "title": "The Democrat",
+      "firstYear": "1896",
+      "finalYear": "1898"
+    },
+    {
       "id": "2613",
       "title": "Sketch",
       "firstYear": "1898",
@@ -219,6 +255,12 @@
       "title": "Beacon",
       "firstYear": "1906",
       "finalYear": "1907"
+    },
+    {
+      "id": "3039",
+      "title": "The New Zealand Tribune",
+      "firstYear": "1906",
+      "finalYear": "1917"
     },
     {
       "id": "2616",
@@ -261,6 +303,12 @@
       "title": "Pine Hill News",
       "firstYear": "1958",
       "finalYear": "1976"
+    },
+    {
+      "id": "3123",
+      "title": "Dunedin Gazette",
+      "firstYear": "1973",
+      "finalYear": "1973"
     },
     {
       "id": "2626",

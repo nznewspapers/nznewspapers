@@ -1,0 +1,44 @@
+02357cas a22005411a 4500
+001 999071203502836
+003 Nz
+005 20200925115523.0
+008 891222d18971913nz er n       0   a0mao  
+035    $a (NLNZils)907120
+035    $a (nzNZBN)5245576
+035    $a zbn89093553
+035    $a (Nz)4916700
+035    $a (NLNZils)907120-ilsdb
+035    $a (OCoLC)173354584
+040    $a NZNB $c NZNB
+042    $a nznb
+043    $a u-nz---
+082 04 $a 079.93 $2 20
+245 03 $a Te puke ki Hikurangi.
+260    $a Greytown [N.Z.] : $b Kingi H.T. Rangitakaiwaho, $c [1897-1913]
+300    $a 17 v. : $b ill. ; $c 31-43 cm.
+310    $a Biweekly
+362 0  $a [Tau 1], nama 1 (Tihema 21, 1897)-tau 6, nama 33 (Hepetema 11, 1906); [new ser.], tau 1, nama 1 (Hurae 31, 1911)-tau 2, nama 39 [i.e. 40] (Hurae 15, 1913).
+500    $a Title from masthead.
+500    $a Editor: Purakau Maika.
+500    $a Text in columns.
+500    $a [Tau 1], nama 9 (Hune 21, 1898)-tau 6, nama 33 (Hepetema 11, 1906) printed by T. Renata; [new series], tau 1, nama 1(Hurae 31, 1911) printed at Rowse's Printing Office; tau 1, nama 4 (Hepetema 15, 1911)-tau 1, nama 16 (Aperira 30, 1912) printed by H. and A. Tuhokairangi; tau 1, nama 17 (Mei 15, 1912)-tau 1, nama 24 (Oketopa 15, 1912) printed by H.T. Arekatera; tau 2, nama 25 (Noema 21, 1913)- printed by H. Tuhokairangi and T. Tewiata.
+510 4  $a Williams, $c 974
+510 4  $a Books in Māori, $c S39
+515    $a Some issues misnumbered.
+520    $a "'The hill at Hikurangi': Wairarapa newspaper initially published from Papawai"--BIM.
+525    $a Some issues accompanied by supplements.
+650  0 $a Maori (New Zealand people) $v Newspapers.
+650  7 $a Kōtahitanga. $2 reo
+651  0 $a New Zealand $x Politics and government $v Newspapers.
+651  0 $a Wairarapa (N.Z.) $v Newspapers.
+655  7 $a Maori newspapers. $2 local $5 Nz
+655  7 $a New Zealand newspapers. $2 local $5 Nz
+700 1  $a Maika, Purakau.
+700 1  $a Rangitakaiwaho, Kingi H. T. $e printer.
+700 1  $a Renata, Tawhiro. $e printer.
+700 1  $a Tuhokairangi, Anaru. $e printer.
+700 1  $a Tuhokairangi, Te Hikonga. $e printer.
+700 1  $a Arekatera, H. Tera. $e printer.
+700 1  $a Tewiata, Tauhia. $e printer.
+710 2  $a Rowse's Printing Office.
+776 08 $i Online version: $t Puke ki Hikurangi $w (Nz)9916611573502836

@@ -1,0 +1,24 @@
+00850cas a22003011a 4500
+001 999281013502836
+003 Nz
+005 20160613124533.0
+008 031222d19211972nz dr ne      0   a0eng  
+035    $a 8137720
+035    $a (NLNZils)928101
+035    $a (Nz)8137720
+035    $a (Nz)8185255
+035    $a (NLNZils)928101-ilsdb
+035    $a (OCoLC)946808847
+040    $a NZNB $c NZNB
+042    $a nznb
+043    $a u-nz---
+130 0  $a Daily advertiser (Waimate, Canterbury, N.Z.)
+245 10 $a Daily advertiser.
+246 17 $a Waimate daily advertiser
+260    $a [Waimate, N.Z. : $b s.n., $c 1921-1972]
+310    $a Daily
+362 0  $a 1921 Aug.8-1972 Apr.7
+651  0 $a Waimate (Canterbury, N.Z.) $v Newspapers.
+655  7 $a New Zealand newspapers. $2 local $5 Nz
+780 00 $t Waimate daily advertiser
+785 00 $t Waimate daily advertiser (1972)

@@ -1,0 +1,18 @@
+{
+  "id": 3071,
+  "title": "Canterbury Standard",
+  "genre": "Newspaper",
+  "firstYear": "1854",
+  "finalYear": "1866",
+  "district": "Christchurch City",
+  "frequency": "Weekly",
+  "idMarcControlNumber": "5093721",
+  "isCurrent": false,
+  "placecode": "12-05",
+  "placename": "Christchurch",
+  "region": "Canterbury",
+  "sources": {
+    "2022-08-31T04:35:31.965Z": "Extracted from the New Zealand National Bibliography (MARC record 5093721) downloaded June 2022."
+  },
+  "revision": 1
+}

@@ -1,0 +1,28 @@
+01061cas a2200349 a 4500
+001 999323163502836
+003 Nz
+005 20210401181158.0
+008 910520d19881994nz mrzne      0   a0eng  
+022 0  $a 1170-7763 $2 _g
+035    $a (nzNZBN)5168816
+035    $a zbn91039334
+035    $a (Nz)3805514
+035    $a (NLNZils)932316
+035    $a (NLNZils)932316-ilsdb
+035    $a (OCoLC)173336037
+040    $a NZNB $c NZNB
+041 0  $a eng $a rar
+042    $a nznb
+043    $a pocw--- $a u-nz---
+082 04 $a 305.899405 $a 079.93 $2 20
+222  0 $a Kuki airani
+245 03 $a Te Kuki Airani
+260    $a Auckland [N.Z.] : $b Te-Kapua-o-te-Rangi Publications, $c [1988-1994]
+300    $a v. : $b ill., ports. ; $c 43 cm.
+310    $a Monthly
+362 0  $a 1988 Oct.-1994 July21.
+500    $a Text in English and Cook Island Maori.
+500    $a Title from masthead.
+500    $a Available from Te Kapua-o-te-Rangi Publications, 36 Ashgrove Rd, Mangere, N.Z.
+650  0 $a Cook Islanders $z New Zealand $v Newspapers.
+655  7 $a New Zealand newspapers. $2 local $5 Nz

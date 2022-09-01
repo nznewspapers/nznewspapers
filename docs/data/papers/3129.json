@@ -1,0 +1,30 @@
+{
+  "id": 3129,
+  "title": "Egmont Settler",
+  "genre": "Newspaper",
+  "firstYear": "1890",
+  "finalYear": "1903",
+  "district": "Stratford District",
+  "frequency": "Daily",
+  "idMarcControlNumber": "5094525",
+  "isCurrent": false,
+  "placecode": "07-02",
+  "placename": "Stratford",
+  "region": "Taranaki",
+  "links": {
+    "unknown-1": {
+      "direction": "Succeeding",
+      "relationship": "Merged",
+      "target-description": "Egmont post"
+    },
+    "unknown-2": {
+      "direction": "Succeeding",
+      "relationship": "Merged",
+      "target-description": "Stratford evening post"
+    }
+  },
+  "sources": {
+    "2022-08-31T04:35:46.916Z": "Extracted from the New Zealand National Bibliography (MARC record 5094525) downloaded June 2022."
+  },
+  "revision": 1
+}
