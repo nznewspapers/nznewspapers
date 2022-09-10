@@ -81,6 +81,16 @@ async function render() {
   const data = await readJsonUrl("data/placeInfo.json");
   console.log("Places: " + data.stats.count);
 
+  // creates a canonical link tag:
+  let canonicalUrl = "https://www.nznewspapers.org/newspaper.html";
+  if (mode == "current" || mode == "digitised") {
+    canonicalUrl += "?mode=" + mode;
+  }
+  let linkTag = document.createElement("link");
+  linkTag.setAttribute("rel", "canonical");
+  linkTag.href = canonicalUrl;
+  document.head.appendChild(linkTag);
+
   // Finally, render the page:
   bannerBox(mode, data);
   contentBox(mode, data);

@@ -70,6 +70,14 @@ async function render() {
     data.stats.placename;
   (" Newspapers");
 
+  // creates a canonical link tag:
+  let linkTag = document.createElement("link");
+  linkTag.setAttribute("rel", "canonical");
+  linkTag.href =
+    "https://www.nznewspapers.org/place.html?place=" + data.stats.placename;
+  document.head.appendChild(linkTag);
+
+  // Finally, render the page:
   bannerBox(data);
   contentBox(data);
 }
