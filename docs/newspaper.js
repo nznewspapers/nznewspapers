@@ -382,6 +382,12 @@ async function render() {
   document.title = data.title + " - Newspapers of New Zealand";
   bannerBox(data);
   contentBox(data, marcText);
+
+  // creates a canonical link tag and dynamically builds the URL
+  let linkTag = document.createElement("link");
+  linkTag.setAttribute("rel", "canonical");
+  linkTag.href = "https://www.nznewspapers.org/newspaper.html?id=" + data.id;
+  document.head.appendChild(linkTag);
 }
 
 render();
