@@ -7,7 +7,11 @@ eleventyComputed:
 
 {% from "macros.njk" import newspaperLine %}
 
-<div class="multicolumnbox">
+<div style="text-align: center; margin-bottom: 20px;">
+    <input type="text" id="titleSearch" placeholder="Search titles..." style="padding: 8px; width: 80%; max-width: 400px; font-size: 16px;">
+</div>
+
+<div class="multicolumnbox" id="titlesList">
     {% for letter, list in titles %}
         <div class="columnheading" id="{{ letter }}">{{ letter }}</div>
         {% for paper in list %}
@@ -15,3 +19,48 @@ eleventyComputed:
         {% endfor %}
     {% endfor %}
 </div>
+
+<script>
+document.getElementById('titleSearch').addEventListener('keyup', function() {
+    var filter = this.value.toLowerCase();
+    var container = document.getElementById('titlesList');
+    var items = container.getElementsByClassName('columnitem');
+    var headings = container.getElementsByClassName('columnheading');
+
+    // Filter items
+    for (var i = 0; i < items.length; i++) {
+        var text = items[i].textContent || items[i].innerText;
+        if (text.toLowerCase().indexOf(filter) > -1) {
+            items[i].style.display = "";
+        } else {
+            items[i].style.display = "none";
+        }
+    }
+
+    // Hide empty headings
+    // This is a bit tricky with the current flat structure (heading then items).
+    // Simpler approach: if a heading is followed by hidden items until the next heading, hide it.
+    // Or we can just leave headings for now to keep it fast.
+    // Let's try a robust way:
+    
+    // Reset all headings first
+    for (var h = 0; h < headings.length; h++) {
+        headings[h].style.display = "none"; 
+    }
+
+    // Show heading if it has visible siblings after it
+    for (var i = 0; i < items.length; i++) {
+        if (items[i].style.display !== "none") {
+            // Find the previous sibling that is a heading
+            var sibling = items[i].previousElementSibling;
+            while (sibling) {
+                if (sibling.classList.contains('columnheading')) {
+                    sibling.style.display = "";
+                    break; 
+                }
+                sibling = sibling.previousElementSibling;
+            }
+        }
+    }
+});
+</script>

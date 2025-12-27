@@ -7,6 +7,7 @@ permalink: "newspapers/{{ paper.id }}/index.html"
 layout: layout.njk
 eleventyComputed:
   title: "{{ paper.title }}"
+  description: "{{ paper.title }}, published in {{ paper.placename }} since {{ paper.firstYear }}."
 ---
 
 <div class="bannerbox">

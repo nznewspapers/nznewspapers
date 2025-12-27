@@ -5,7 +5,7 @@ const fs = require("fs");
 const path = require("path");
 
 exports.docsDir = path.join(process.cwd(), "docs");
-exports.jsonDir = path.join(exports.docsDir, "data");
+exports.jsonDir = path.join(process.cwd(), "data");
 exports.paperDir = path.join(exports.jsonDir, "papers");
 exports.marcDir = path.join(exports.jsonDir, "marc");
 exports.scriptDir = path.join(process.cwd(), "scripts");
