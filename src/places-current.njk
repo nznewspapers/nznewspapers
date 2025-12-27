@@ -1,0 +1,29 @@
+---
+layout: layout.njk
+title: Current Newspapers
+permalink: /places/current/
+---
+
+<div class="multicolumnbox">
+    <div class="columnheading">Current Newspapers</div>
+    <div class="columnitem">
+        <p>Newspapers that are still publishing today.</p>
+    </div>
+
+    {% for region, districts in places.current | dictsort %}
+        <div class="columnheading">{{ region }}</div>
+        
+        {% for district, papers in districts | dictsort %}
+             <div class="subheading">{{ district }}</div>
+             {% for paper in papers %}
+                <div class="columnitem">
+                    <a href="{{ paper.url }}">{{ paper.title }}</a>
+                    <br>
+                    <span class="paper-meta">
+                        {{ paper.placename }} ({{ paper.firstYear }}-{{ paper.finalYear }})
+                    </span>
+                </div>
+             {% endfor %}
+        {% endfor %}
+    {% endfor %}
+</div>

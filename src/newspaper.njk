@@ -1,0 +1,203 @@
+---
+pagination:
+    data: papers
+    size: 1
+    alias: paper
+permalink: "newspapers/{{ paper.id }}/index.html"
+layout: layout.njk
+eleventyComputed:
+  title: "{{ paper.title }}"
+---
+
+<div class="bannerbox">
+    <div class="links">
+        <a href="/places/#{{ paper.placename | slugify }}">{{ paper.placename }} {{ paper.genre }}</a>
+        -
+        {% if paper.urlCurrent %}
+            <a href="{{ paper.urlCurrent }}">Available Online</a>
+        {% elif paper.isCurrent %}
+            No Known Website
+        {% else %}
+            Not Current
+        {% endif %}
+        -
+        {% if paper.urlDigitized %}
+            <a href="{{ paper.urlDigitized }}">Available Digitized</a>
+        {% else %}
+            Not Digitised
+        {% endif %}
+    </div>
+</div>
+
+<div class="contentbox">
+    <div class="about">
+        <h3>About this Title</h3>
+        <p>
+            {{ paper.title }}
+            {% if paper.finalYear == "9999" %}
+                has been published since {{ paper.firstYear | prettyYear }}
+            {% else %}
+                was published from {{ paper.firstYear | prettyYear }} to {{ paper.finalYear | prettyYear }}
+            {% endif %}
+            in {{ paper.placename }}
+            {% if paper.placename != "Auckland" %}
+                ({{ paper.district }}, {{ paper.region }})
+            {% endif %}.
+        </p>
+    </div>
+
+    {# Links / Relationships Table #}
+    {% if paper.links %}
+    <div class="links">
+        <table class="linktable">
+            <thead>
+                <tr>
+                    <th align="left">Preceded By</th>
+                    <th align="center">Related To</th>
+                    <th align="right">Succeeded By</th>
+                </tr>
+            </thead>
+            <tbody>
+                <tr>
+                    {# Preceded By #}
+                    <td align="left">
+                        {% for id, link in paper.links %}
+                            {% set relationship = link.relationship or link.direction %}
+                            {% if link.direction == "Preceding" or relationship == "Continues" %}
+                                <div>
+                                    {{ relationship }}: 
+                                    <a href="/newspapers/{{ id }}/">{{ link["target-description"] }}</a>
+                                </div>
+                            {% endif %}
+                        {% endfor %}
+                    </td>
+                    {# Related To #}
+                    <td align="center">
+                        {% for id, link in paper.links %}
+                            {% set relationship = link.relationship or link.direction %}
+                            {% if link.direction != "Preceding" and relationship != "Continues" and link.direction != "Succeeding" and relationship != "Continued By" %}
+                                <div>
+                                    {{ relationship }}: 
+                                    <a href="/newspapers/{{ id }}/">{{ link["target-description"] }}</a>
+                                </div>
+                            {% endif %}
+                        {% endfor %}
+                    </td>
+                    {# Succeeded By #}
+                    <td align="right">
+                        {% for id, link in paper.links %}
+                            {% set relationship = link.relationship or link.direction %}
+                            {% if link.direction == "Succeeding" or relationship == "Continued By" %}
+                                <div>
+                                    {{ relationship }}: 
+                                    <a href="/newspapers/{{ id }}/">{{ link["target-description"] }}</a>
+                                </div>
+                            {% endif %}
+                        {% endfor %}
+                    </td>
+                </tr>
+            </tbody>
+        </table>
+    </div>
+    {% endif %}
+
+    {# Key Elements Table #}
+    <div class="elements">
+        <h3>Key Elements</h3>
+        <table class="simpletable">
+            <thead>
+                <tr>
+                    <th>Field</th>
+                    <th>Value</th>
+                </tr>
+            </thead>
+            <tbody>
+                <tr><td>Title</td><td>{{ paper.title }}</td></tr>
+                <tr><td>Genre</td><td>{{ paper.genre }}</td></tr>
+                <tr><td>First Year</td><td>{{ paper.firstYear }}</td></tr>
+                <tr><td>Is Current</td><td>{{ paper.isCurrent }}</td></tr>
+                {% if not paper.isCurrent %}
+                    <tr><td>Final Year</td><td>{{ paper.finalYear }}</td></tr>
+                {% endif %}
+                <tr><td>Frequency</td><td>{{ paper.frequency }}</td></tr>
+                
+                {% if paper.urlCurrent %}
+                    <tr><td>Current URL</td><td><a href="{{ paper.urlCurrent }}">{{ paper.urlCurrent }}</a></td></tr>
+                {% endif %}
+                
+                {% if paper.urlDigitized %}
+                     <tr><td>Digitised URL</td><td><a href="{{ paper.urlDigitized }}">{{ paper.urlDigitized }}</a></td></tr>
+                {% endif %}
+
+                <tr><td>NLNZ MARC Number</td><td>{{ paper.idMarcControlNumber }}</td></tr>
+
+                {% if paper.idPapersPastCode %}
+                    <tr>
+                        <td>Papers Past Code</td>
+                        <td>{{ paper.idPapersPastCode }}</td>
+                    </tr>
+                    <tr>
+                        <td>Papers Past Masthead</td>
+                        <td><img src="https://paperspast.natlib.govt.nz/assets/mastheads/{{ paper.idPapersPastCode }}.gif" /></td>
+                    </tr>
+                {% endif %}
+
+                <tr>
+                    <td>Place</td>
+                    <td><a href="/places/#{{ paper.placename | slugify }}">{{ paper.placename }}</a></td>
+                </tr>
+                <tr><td>District</td><td>{{ paper.district }}</td></tr>
+                <tr><td>Region</td><td>{{ paper.region }}</td></tr>
+            </tbody>
+        </table>
+    </div>
+
+    {# MARC Record #}
+    {% if paper.marcText %}
+    <div class="marc">
+        <h3>PublicationsNZ Marc Record</h3>
+        <pre>{{ paper.marcText }}</pre>
+    </div>
+    {% endif %}
+
+    {# Sources #}
+    <div class="sources">
+        <h3>Sources</h3>
+        <table class="simpletable">
+            <thead>
+                <tr>
+                    <th align="center">Timestamp</th>
+                    <th align="left">Source</th>
+                </tr>
+            </thead>
+            <tbody>
+                <tr>
+                    <td align="center">2022</td>
+                    <td align="left">
+                        <a href="https://github.com/nznewspapers/nznewspapers/blame/master/docs/data/papers/{{ paper.id }}.json">Modification history in GitHub</a>
+                    </td>
+                </tr>
+                {% if paper.sources %}
+                    {% for date, description in paper.sources %}
+                        <tr>
+                            <td align="center">{{ date | truncate(10, true, "") }}</td>
+                            <td align="left">{{ description }}</td>
+                        </tr>
+                    {% endfor %}
+                {% endif %}
+                
+                {% if paper.idNZNewspapersV1 %}
+                <tr>
+                    <td align="center">2013-2016</td>
+                    <td align="left">
+                        <a href="https://web.archive.org/web/*/http://nznewspapers.appspot.com/view?id={{ paper.idNZNewspapersV1 }}">
+                            Archived copies of the original Newspapers of New Zealand data may be available in the Internet Archive.
+                        </a>
+                    </td>
+                </tr>
+                {% endif %}
+            </tbody>
+        </table>
+    </div>
+
+</div>

@@ -1,0 +1,44 @@
+---
+layout: layout.njk
+title: Newspapers by Place
+permalink: places.html
+---
+
+<script>
+    // Handle legacy query params
+    const params = new URLSearchParams(window.location.search);
+    const mode = params.get('mode');
+    const place = params.get('place');
+    
+    if (mode === 'digitised') {
+        window.location.replace('/places/digitised/');
+    } else if (mode === 'current') {
+        window.location.replace('/places/current/');
+    } else if (place) {
+        // Redirect ?place=Auckland to the anchor on this page
+        // We slugify the place name to match the IDs we generate below
+        // Simple slugify: lowercase, remove non-word chars, replace spaces with hyphens
+        // Note: This must match the Nunjucks slugify exactly or close enough
+        const slug = place.toLowerCase().trim().replace(/[^\w\s-]/g, '').replace(/[\s_-]+/g, '-').replace(/^-+|-+$/g, '');
+        window.location.replace('#' + slug);
+    }
+</script>
+
+<div class="multicolumnbox">
+    {% for region, districts in places.all | dictsort %}
+        <div class="columnheading">{{ region }}</div>
+        
+        {% for district, papers in districts | dictsort %}
+             <div class="subheading">{{ district }}</div>
+             {% for paper in papers %}
+                <div class="columnitem" id="{{ paper.placename | slugify }}">
+                    <a href="{{ paper.url }}">{{ paper.title }}</a>
+                    <br>
+                    <span class="paper-meta">
+                        {{ paper.placename }} ({{ paper.firstYear }}-{{ paper.finalYear }})
+                    </span>
+                </div>
+             {% endfor %}
+        {% endfor %}
+    {% endfor %}
+</div>

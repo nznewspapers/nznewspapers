@@ -1,0 +1,201 @@
+body {
+  font-family: Times, serif;
+  background-color: white;
+}
+
+.mainbox {
+  border: 1px solid black;
+  background-color: #efefef;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 0;
+  min-width: 650px;
+}
+
+.mastheadbox {
+  /* border: 1px solid green; */
+  font-variant: small-caps;
+  font-size: 150%;
+  text-align: center;
+}
+
+.bannerbox {
+  /* border: 1px solid blue; */
+  padding-bottom: 10px;
+  padding-top: 10px;
+}
+
+/* The human-readable title of the page sites in the banner box below the masthead. */
+h2 {
+  /* border: 1px solid rgb(255, 0, 221); */
+  display: block;
+  font-weight: bold;
+  margin-top: 10px;
+  margin-bottom: 0px;
+}
+
+/* Most pages om the website will have a titles centered under the masthead... */
+#pagetitle {
+  font-size: 200%;
+  text-align: center;
+}
+
+/* ...except for the newspaper pages that will have a smaller, left-aligned title. */
+#newspapertitle {
+  font-size: 150%;
+  text-align: left;
+}
+
+/* The menu across the top including Home, By Title, By Place, etc... */
+.menubox {
+  /* Newspaper styles */
+  border-bottom: 2px solid black;
+  border-top: 2px solid black;
+
+  /* Grid Fallback (if browser does not support grids, use "flex" mode). */
+  display: flex;
+  flex-wrap: wrap;
+
+  /* Supports Grid */
+  display: grid;
+  grid-column-gap: 0.8%;
+  grid-template-columns: 16% 16% 16% 16% 16% 16%;
+}
+
+/* The individualinks appearing in the menu box. */
+.menuitem {
+  /* Newspaper styles */
+  /* border: 1px dotted red; */
+  align-items: center;
+  color: black;
+  display: flex;
+  font-variant: small-caps;
+  justify-content: center;
+  min-height: 20px;
+  text-decoration: none;
+
+  /* Flex Fallback (if browser does not support grids, add some spacing) */
+  margin-left: 5px;
+  margin-right: 5px;
+}
+
+.contentbox {
+  /* border: 1px solid yellow; */
+  margin-left: auto;
+  margin-right: auto;
+  min-height: 500px;
+  padding-left: 5px;
+  padding-bottom: 4px;
+  padding-top: 4px;
+}
+
+.mastheadbox {
+  /* border: 2px solid blue; */
+  margin-left: auto;
+  margin-right: auto;
+  width: 830px;
+}
+
+.masthead {
+  /* border: 2px solid red; */
+  margin-left: auto;
+  margin-right: auto;
+  min-width: 500px;
+}
+
+.columnbox {
+  /* border: 1px solid red; */
+  border-left: 1px solid black;
+  border-right: 1px solid black;
+  float: left;
+  min-height: 200px;
+  padding: 4px;
+  width: 200px;
+}
+
+.multicolumnbox {
+  /* border: 1px solid orangered; */
+  column-gap: 10px;
+  column-rule: 1px solid #2c2c2c;
+  column-width: 200px;
+}
+
+.columnsection {
+  margin-top: 20px;
+  font-size: 200%;
+  font-variant: small-caps;
+  text-align: center;
+}
+
+.columnheading {
+  /* border: 2px dotted blueviolet; */
+  margin-top: 20px;
+  font-size: 200%;
+  text-align: center;
+}
+
+.columnsubheading {
+  margin-top: 10px;
+  font-size: 120%;
+  font-weight: bold;
+  text-align: center;
+}
+
+.columnitem {
+  /* border: 2px dotted violet; */
+  /* width: 140px; */
+  margin: 1px;
+}
+
+/* clear float after columns */
+br {
+  clear: left;
+}
+
+.footerbox {
+  border-top: 2px solid black;
+}
+
+a {
+  color: black;
+  /* text-decoration:none; */
+}
+
+table.linktable {
+  border-bottom: 2px solid black;
+  border-top: 2px solid black;
+  width: 98%;
+  margin-left: 1%;
+}
+
+table.linktable th {
+  border-bottom: 2px solid black;
+  width: 33%;
+}
+
+table.linktable td {
+  border-bottom: 1px dotted black;
+  width: 33%;
+}
+
+table.simpletable {
+  border-bottom: 2px solid black;
+  border-top: 2px solid black;
+  margin-left: 1%;
+}
+
+table.simpletable th {
+  border-bottom: 2px solid black;
+}
+
+table.simpletable td {
+  border-bottom: 1px dotted black;
+}
+
+.debug5 {
+  border: 1px dotted orange;
+}
+
+.debug6 {
+  border: 1px dotted brown;
+}

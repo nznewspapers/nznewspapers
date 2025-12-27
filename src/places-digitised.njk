@@ -1,0 +1,29 @@
+---
+layout: layout.njk
+title: Digitised Newspapers
+permalink: /places/digitised/
+---
+
+<div class="multicolumnbox">
+    <div class="columnheading">Digitised Newspapers</div>
+    <div class="columnitem">
+        <p>Newspapers that are available online.</p>
+    </div>
+
+    {% for region, districts in places.digitised | dictsort %}
+        <div class="columnheading">{{ region }}</div>
+        
+        {% for district, papers in districts | dictsort %}
+             <div class="subheading">{{ district }}</div>
+             {% for paper in papers %}
+                <div class="columnitem">
+                    <a href="{{ paper.url }}">{{ paper.title }}</a>
+                    <br>
+                    <span class="paper-meta">
+                        {{ paper.placename }} ({{ paper.firstYear }}-{{ paper.finalYear }})
+                    </span>
+                </div>
+             {% endfor %}
+        {% endfor %}
+    {% endfor %}
+</div>

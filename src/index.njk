@@ -1,0 +1,24 @@
+---
+layout: layout.njk
+title: New Zealand Newspapers
+---
+
+<div class="multicolumnbox">
+    <div class="columnheading">Welcome!</div>
+    <div class="columnitem">
+        <p>This website tries to list every newspaper ever published in New Zealand. It's a work in progress. <a href="/about/">Find out more.</a></p>
+        <p><strong>{{ stats.count }}</strong> New Zealand Newspapers from <strong>{{ stats.places }}</strong> places.</p>
+    </div>
+
+    {# Iterate through regions alphabetically #}
+    {% for region, places in stats.lists | dictsort %}
+        <div class="columnheading">{{ region }}</div>
+        
+        {# Iterate through places in that region alphabetically #}
+        {% for placename, count in places | dictsort %}
+            <div class="columnitem">
+                <a href="/places/#{{ placename | slugify }}">{{ placename }}</a> ({{ count }})
+            </div>
+        {% endfor %}
+    {% endfor %}
+</div>
