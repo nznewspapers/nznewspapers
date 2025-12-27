@@ -1,8 +1,11 @@
 ---
 layout: layout.njk
-title: Digitised Newspapers
 permalink: /places/digitised/
+eleventyComputed:
+  title: "{{ stats.digitisedCount }} digitised Newspapers"
 ---
+
+{% from "macros.njk" import newspaperLine %}
 
 <div class="multicolumnbox">
     <div class="columnheading">Digitised Newspapers</div>
@@ -10,19 +13,13 @@ permalink: /places/digitised/
         <p>Newspapers that are available online.</p>
     </div>
 
-    {% for region, districts in places.digitised | dictsort %}
-        <div class="columnheading">{{ region }}</div>
+    {% for regionObj in places.digitised %}
+        <div class="columnheading">{{ regionObj.name }}</div>
         
-        {% for district, papers in districts | dictsort %}
-             <div class="subheading">{{ district }}</div>
-             {% for paper in papers %}
-                <div class="columnitem">
-                    <a href="{{ paper.url }}">{{ paper.title }}</a>
-                    <br>
-                    <span class="paper-meta">
-                        {{ paper.placename }} ({{ paper.firstYear }}-{{ paper.finalYear }})
-                    </span>
-                </div>
+        {% for districtObj in regionObj.districts %}
+             <div class="columnsubheading">{{ districtObj.name }}</div>
+             {% for paper in districtObj.papers %}
+                {{ newspaperLine(paper) }}
              {% endfor %}
         {% endfor %}
     {% endfor %}

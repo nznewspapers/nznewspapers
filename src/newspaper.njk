@@ -11,7 +11,7 @@ eleventyComputed:
 
 <div class="bannerbox">
     <div class="links">
-        <a href="/places/#{{ paper.placename | slugify }}">{{ paper.placename }} {{ paper.genre }}</a>
+        <a href="/places/{{ paper.placename | slugify }}/">{{ paper.placename }} {{ paper.genre }}</a>
         -
         {% if paper.urlCurrent %}
             <a href="{{ paper.urlCurrent }}">Available Online</a>
@@ -144,7 +144,7 @@ eleventyComputed:
 
                 <tr>
                     <td>Place</td>
-                    <td><a href="/places/#{{ paper.placename | slugify }}">{{ paper.placename }}</a></td>
+                    <td><a href="/places/{{ paper.placename | slugify }}/">{{ paper.placename }}</a></td>
                 </tr>
                 <tr><td>District</td><td>{{ paper.district }}</td></tr>
                 <tr><td>Region</td><td>{{ paper.region }}</td></tr>

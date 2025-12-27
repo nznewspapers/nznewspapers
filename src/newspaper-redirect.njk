@@ -1,0 +1,24 @@
+---
+permalink: /newspaper.html
+---
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8">
+    <title>Redirecting...</title>
+    <script>
+        const params = new URLSearchParams(window.location.search);
+        const id = params.get('id');
+        if (id) {
+            // Redirect to the new clean URL
+            window.location.replace(`/newspapers/${id}/`);
+        } else {
+            // Fallback to home if no ID
+            window.location.replace('/');
+        }
+    </script>
+</head>
+<body>
+    <p>Redirecting to newspaper record...</p>
+</body>
+</html>

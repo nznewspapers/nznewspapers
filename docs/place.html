@@ -1,68 +1,23 @@
 <!DOCTYPE html>
-
 <html>
-  <head>
-    <title>Newspapers of New Zealand</title>
-    <link type="text/css" rel="stylesheet" href="assets/nznewspapers.css" />
-    <!-- Global site tag (gtag.js) - Google Analytics -->
-    <script
-      async
-      src="https://www.googletagmanager.com/gtag/js?id=G-FM6HMWX85F"
-    ></script>
+<head>
+    <meta charset="UTF-8">
+    <title>Redirecting...</title>
     <script>
-      window.dataLayer = window.dataLayer || [];
-      function gtag() {
-        dataLayer.push(arguments);
-      }
-      gtag("js", new Date());
-      gtag("config", "G-FM6HMWX85F");
+        const params = new URLSearchParams(window.location.search);
+        const place = params.get('place');
+        if (place) {
+            // Slugify the place name to match 11ty output (kebab-case)
+            // Simple slugify: lowercase, remove non-word chars (except space), replace spaces with hyphens
+            const slug = place.toLowerCase().trim().replace(/[^\w\s-]/g, '').replace(/[\s_-]+/g, '-').replace(/^-+|-+$/g, '');
+            window.location.replace(`/places/${slug}/`);
+        } else {
+            // Fallback to places list
+            window.location.replace('/places/');
+        }
     </script>
-  </head>
-  <body>
-    <div class="mainbox">
-      <div class="mastheadbox">
-        <img
-          src="assets/Newspapers-of-New-Zealand-840x120.png"
-          width="840"
-          height="120"
-          title="Newspapers of New Zealand"
-        />
-      </div>
-
-      <div class="menubox">
-        <a class="menuitem" href="/">Home</a>
-        <a class="menuitem" href="titles.html">By Title</a>
-        <a class="menuitem" href="places.html">By Place</a>
-        <a class="menuitem" href="places.html?mode=digitised">Digitised</a>
-        <a class="menuitem" href="places.html?mode=current">Current</a>
-        <a class="menuitem" href="about.html">About</a>
-      </div>
-
-      <div class="bannerbox">
-        <h2 id="pagetitle">New Zealand Newspapers</h2>
-      </div>
-
-      <div class="contentbox"></div>
-
-      <div class="footerbox">
-        <p align="center">
-          This website is based on data from
-          <a
-            href="https://natlib.govt.nz/collections/a-z/publications-new-zealand"
-            >Publications New Zealand</a
-          >,
-          <a href="https://paperspast.natlib.govt.nz/newspapers">Papers Past</a
-          >, and individual contributions. It was developed by
-          <a href="https://github.com/nznewspapers">Gordon</a> and
-          <a href="https://github.com/news-papers">Stella</a>. Report issues to
-          our
-          <a href="https://github.com/nznewspapers/nznewspapers/issues"
-            >GitHub project page</a
-          >.
-        </p>
-      </div>
-    </div>
-    <script src="html-functions.js"></script>
-    <script src="place.js"></script>
-  </body>
+</head>
+<body>
+    <p>Redirecting to place...</p>
+</body>
 </html>

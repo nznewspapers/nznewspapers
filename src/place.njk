@@ -1,0 +1,39 @@
+---
+pagination:
+    data: placesList
+    size: 1
+    alias: place
+permalink: "places/{{ place.name | slugify }}/index.html"
+layout: layout.njk
+eleventyComputed:
+  title: "Newspapers published in {{ place.name }}"
+---
+
+<div class="bannerbox">
+    <div class="links">
+        <a href="/places/">All Places</a>
+    </div>
+</div>
+
+<div class="contentbox">
+    <h3>{{ place.name }}</h3>
+    <p>{{ place.name }} is in the {{ place.district }} district, {{ place.region }} region.</p>
+    
+    <p>There are {{ place.papers.length }} newspapers published in {{ place.name }}.</p>
+
+    <div class="multicolumnbox">
+        {% for paper in place.papers %}
+            <div class="columnitem">
+                <a href="{{ paper.url }}">{{ paper.title }}</a>
+                <br>
+                <span class="paper-meta">
+                    {% if paper.finalYear == "9999" %}
+                        Published since {{ paper.firstYear | prettyYear }}
+                    {% else %}
+                        {{ paper.firstYear | prettyYear }} - {{ paper.finalYear | prettyYear }}
+                    {% endif %}
+                </span>
+            </div>
+        {% endfor %}
+    </div>
+</div>

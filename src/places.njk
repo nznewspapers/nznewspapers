@@ -1,8 +1,11 @@
 ---
 layout: layout.njk
-title: Newspapers by Place
 permalink: places.html
+eleventyComputed:
+  title: "{{ stats.count }} Newspapers from {{ stats.districts }} districts in {{ stats.regions }} regions"
 ---
+
+{% from "macros.njk" import newspaperLine %}
 
 <script>
     // Handle legacy query params
@@ -15,29 +18,20 @@ permalink: places.html
     } else if (mode === 'current') {
         window.location.replace('/places/current/');
     } else if (place) {
-        // Redirect ?place=Auckland to the anchor on this page
-        // We slugify the place name to match the IDs we generate below
-        // Simple slugify: lowercase, remove non-word chars, replace spaces with hyphens
-        // Note: This must match the Nunjucks slugify exactly or close enough
+        // Redirect ?place=Auckland to the new place page
         const slug = place.toLowerCase().trim().replace(/[^\w\s-]/g, '').replace(/[\s_-]+/g, '-').replace(/^-+|-+$/g, '');
-        window.location.replace('#' + slug);
+        window.location.replace('/places/' + slug + '/');
     }
 </script>
 
 <div class="multicolumnbox">
-    {% for region, districts in places.all | dictsort %}
-        <div class="columnheading">{{ region }}</div>
+    {% for regionObj in places.all %}
+        <div class="columnheading">{{ regionObj.name }}</div>
         
-        {% for district, papers in districts | dictsort %}
-             <div class="subheading">{{ district }}</div>
-             {% for paper in papers %}
-                <div class="columnitem" id="{{ paper.placename | slugify }}">
-                    <a href="{{ paper.url }}">{{ paper.title }}</a>
-                    <br>
-                    <span class="paper-meta">
-                        {{ paper.placename }} ({{ paper.firstYear }}-{{ paper.finalYear }})
-                    </span>
-                </div>
+        {% for districtObj in regionObj.districts %}
+             <div class="columnsubheading">{{ districtObj.name }}</div>
+             {% for paper in districtObj.papers %}
+                {{ newspaperLine(paper) }}
              {% endfor %}
         {% endfor %}
     {% endfor %}

@@ -1,0 +1,30 @@
+{% macro newspaperLine(paper) %}
+    <div class="columnitem">
+        <a href="{{ paper.url }}">{{ paper.title }}</a>, 
+        {% if paper.finalYear == "9999" %}
+            since {{ paper.firstYear | prettyYear }}
+        {% else %}
+            from {{ paper.firstYear | prettyYear }} to {{ paper.finalYear | prettyYear }}
+        {% endif %}
+        
+        {% if paper.placename %}
+            , of <a href="/places/{{ paper.placename | slugify }}/">{{ paper.placename }}</a>
+        {% endif %}
+
+        {% if paper.urlDigitized or paper.urlCurrent %}
+            , is 
+            {% if paper.urlDigitized %}
+                <a href="{{ paper.urlDigitized }}">digitised</a>
+            {% endif %}
+            
+            {% if paper.urlDigitized and paper.urlCurrent %}
+                and 
+            {% endif %}
+            
+            {% if paper.urlCurrent %}
+                <a href="{{ paper.urlCurrent }}">online</a>
+            {% endif %}
+        {% endif %}
+        .
+    </div>
+{% endmacro %}
