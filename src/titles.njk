@@ -5,17 +5,13 @@ eleventyComputed:
   title: "{{ stats.count }} New Zealand Newspapers"
 ---
 
+{% from "macros.njk" import newspaperLine %}
+
 <div class="multicolumnbox">
     {% for letter, list in titles %}
         <div class="columnheading" id="{{ letter }}">{{ letter }}</div>
         {% for paper in list %}
-            <div class="columnitem">
-                <a href="{{ paper.url }}">{{ paper.title }}</a>
-                <br>
-                <span class="paper-meta">
-                    {{ paper.placename }} ({{ paper.firstYear }}-{{ paper.finalYear }})
-                </span>
-            </div>
+            {{ newspaperLine(paper) }}
         {% endfor %}
     {% endfor %}
 </div>
