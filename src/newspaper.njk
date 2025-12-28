@@ -10,6 +10,21 @@ eleventyComputed:
   description: "{{ paper.title }}, published in {{ paper.placename }} since {{ paper.firstYear }}."
 ---
 
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Periodical",
+  "name": "{{ paper.title }}",
+  "startDate": "{{ paper.firstYear }}",
+  {% if paper.finalYear != "9999" %}"endDate": "{{ paper.finalYear }}",{% endif %}
+  "spatialCoverage": {
+    "@type": "Place",
+    "name": "{{ paper.placename }}"
+  },
+  "issn": "{{ paper.idMarcControlNumber }}"
+}
+</script>
+
 <div class="bannerbox">
     <div class="links">
         <a href="/places/{{ paper.placename | slugify }}/">{{ paper.placename }} {{ paper.genre }}</a>
