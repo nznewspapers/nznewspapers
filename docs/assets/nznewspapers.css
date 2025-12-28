@@ -96,23 +96,6 @@ h2 {
   width: 830px;
 }
 
-.masthead {
-  /* border: 2px solid red; */
-  margin-left: auto;
-  margin-right: auto;
-  min-width: 500px;
-}
-
-.columnbox {
-  /* border: 1px solid red; */
-  border-left: 1px solid black;
-  border-right: 1px solid black;
-  float: left;
-  min-height: 200px;
-  padding: 4px;
-  width: 200px;
-}
-
 .multicolumnbox {
   /* border: 1px solid orangered; */
   column-gap: 10px;
@@ -192,10 +175,3 @@ table.simpletable td {
   border-bottom: 1px dotted black;
 }
 
-.debug5 {
-  border: 1px dotted orange;
-}
-
-.debug6 {
-  border: 1px dotted brown;
-}
