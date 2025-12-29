@@ -12,7 +12,12 @@ eleventyExcludeFromCollections: true
 {% endfor %}
 {% for paper in papers %}
   <url>
-    <loc>https://www.nznewspapers.org/papers/{{ paper.id }}/</loc>
+    <loc>https://www.nznewspapers.org/newspapers/{{ paper.id }}/</loc>
+  </url>
+{% endfor %}
+{% for place in placesList %}
+  <url>
+    <loc>https://www.nznewspapers.org/places/{{ place.name | slugify }}/</loc>
   </url>
 {% endfor %}
 </urlset>

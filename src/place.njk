@@ -3,7 +3,7 @@ pagination:
     data: placesList
     size: 1
     alias: place
-permalink: "places/{{ place.name | slugify }}/index.html"
+permalink: "places/{{ place.name | slugify }}/"
 layout: layout.njk
 eleventyComputed:
   title: "Newspapers published in {{ place.name }}"
