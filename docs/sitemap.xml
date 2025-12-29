@@ -22,11 +22,6 @@
   </url>
 
   <url>
-    <loc>https://www.nznewspapers.org/newspapers/1001/</loc>
-    <lastmod>2025-12-27T22:57:11Z</lastmod>
-  </url>
-
-  <url>
     <loc>https://www.nznewspapers.org/place.html</loc>
     <lastmod>2025-12-27T22:57:11Z</lastmod>
   </url>
@@ -54,6 +49,11 @@
   <url>
     <loc>https://www.nznewspapers.org/titles/</loc>
     <lastmod>2025-12-27T22:57:11Z</lastmod>
+  </url>
+
+  <url>
+    <loc>https://www.nznewspapers.org/newspapers/1001/</loc>
+    <lastmod>2025-12-28T03:46:40Z</lastmod>
   </url>
 
 </urlset>
