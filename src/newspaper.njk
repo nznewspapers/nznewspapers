@@ -5,6 +5,7 @@ pagination:
     alias: paper
 permalink: "newspapers/{{ paper.id }}/"
 layout: layout.njk
+eleventyExcludeFromCollections: true
 eleventyComputed:
   title: "{{ paper.title }}"
   description: "{{ paper.title }}, published in {{ paper.placename }} since {{ paper.firstYear }}."

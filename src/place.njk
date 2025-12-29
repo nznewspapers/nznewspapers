@@ -5,6 +5,7 @@ pagination:
     alias: place
 permalink: "place/{{ place.name | slugify }}/"
 layout: layout.njk
+eleventyExcludeFromCollections: true
 eleventyComputed:
   title: "Newspapers published in {{ place.name }}"
 ---
