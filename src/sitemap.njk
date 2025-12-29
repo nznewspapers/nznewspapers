@@ -10,4 +10,9 @@ eleventyExcludeFromCollections: true
     <lastmod>{{ page.date | dateToRfc3339 }}</lastmod>
   </url>
 {% endfor %}
+{% for paper in papers %}
+  <url>
+    <loc>https://www.nznewspapers.org/papers/{{ paper.id }}/</loc>
+  </url>
+{% endfor %}
 </urlset>
