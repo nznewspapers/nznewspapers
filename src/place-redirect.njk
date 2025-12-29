@@ -14,7 +14,7 @@ eleventyExcludeFromCollections: true
             // Slugify the place name to match 11ty output (kebab-case)
             // Simple slugify: lowercase, remove non-word chars (except space), replace spaces with hyphens
             const slug = place.toLowerCase().trim().replace(/[^\w\s-]/g, '').replace(/[\s_-]+/g, '-').replace(/^-+|-+$/g, '');
-            window.location.replace(`/places/${slug}/`);
+            window.location.replace(`/place/${slug}/`);
         } else {
             // Fallback to places list
             window.location.replace('/places/');

@@ -17,7 +17,7 @@ eleventyComputed:
         {# Iterate through places in that region alphabetically #}
         {% for place in regionObj.places %}
             <div class="columnitem">
-                <a href="/places/{{ place.name | slugify }}/">{{ place.name }}</a> ({{ place.count }})
+                <a href="/place/{{ place.name | slugify }}/">{{ place.name }}</a> ({{ place.count }})
             </div>
         {% endfor %}
     {% endfor %}

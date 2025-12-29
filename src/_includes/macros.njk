@@ -8,7 +8,7 @@
         {% endif %}
         
         {% if paper.placename %}
-            , of <a href="/places/{{ paper.placename | slugify }}/">{{ paper.placename }}</a>
+            , of <a href="/place/{{ paper.placename | slugify }}/">{{ paper.placename }}</a>
         {% endif %}
 
         {% if paper.urlDigitized or paper.urlCurrent %}

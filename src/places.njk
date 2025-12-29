@@ -14,13 +14,13 @@ eleventyComputed:
     const place = params.get('place');
     
     if (mode === 'digitised') {
-        window.location.replace('/places/digitised/');
+        window.location.replace('/digitised/');
     } else if (mode === 'current') {
-        window.location.replace('/places/current/');
+        window.location.replace('/current/');
     } else if (place) {
         // Redirect ?place=Auckland to the new place page
         const slug = place.toLowerCase().trim().replace(/[^\w\s-]/g, '').replace(/[\s_-]+/g, '-').replace(/^-+|-+$/g, '');
-        window.location.replace('/places/' + slug + '/');
+        window.location.replace('/place/' + slug + '/');
     }
 </script>
 
