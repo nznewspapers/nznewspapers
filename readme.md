@@ -1,87 +1,95 @@
-# The Newspapers of New Zealand
+# Newspapers of New Zealand
 
-An index to all the newspapers ever published in New Zealand.
+An index of every newspaper published in New Zealand since 1839.
 
-The website is available at: **https://www.nznewspapers.org/** (or **https://nznewspapers.github.io/nznewspapers/**)
+🌐 **Live Website**: [https://www.nznewspapers.org/](https://www.nznewspapers.org/)  
+📦 **GitHub Pages Mirror**: [https://nznewspapers.github.io/nznewspapers/](https://nznewspapers.github.io/nznewspapers/)
 
-This project is a modern reconstruction of an older website that went offline in 2020. The original site was archived by the [Internet Archive](https://web.archive.org/web/20200710010513/http://nznewspapers.appspot.com/).
+---
 
-## Project Overview
+## 📰 About the Project
 
-This version uses a static site generator approach:
-*   **Data**: Stored as individual JSON files in `data/papers/`, with source MARC records in `data/marc/`.
-*   **Build System**: [Eleventy (11ty)](https://www.11ty.dev/) compiles the data and templates into a static website.
-*   **Hosting**: The built site is served via GitHub Pages from the `docs/` folder.
+**Newspapers of New Zealand** catalogues historical and current newspapers published across New Zealand, from early 19th-century gazettes to modern community papers. 
 
-## Prerequisites
+The project uses a modern static site generator workflow:
+* **Data**: Each newspaper is stored as an individual JSON record in `data/papers/`.
+* **Build System**: [Eleventy (11ty)](https://www.11ty.dev/) compiles data and templates into static web pages.
+* **Hosting**: Automated static site hosting via GitHub Pages from the `docs/` directory.
 
-*   [Node.js](https://nodejs.org/) (Version 14 or higher recommended)
+---
 
-## Getting Started
+## 🚀 Quick Start
 
-1.  **Clone the repository:**
-    ```bash
-    git clone https://github.com/nznewspapers/nznewspapers.git
-    cd nznewspapers
-    ```
+### Prerequisites
+* [Node.js](https://nodejs.org/) (v18+ recommended)
+* Optional: [`just`](https://github.com/casey/just) command runner
 
-2.  **Install dependencies:**
-    ```bash
-    npm install
-    ```
-
-3.  **Run the local development server:**
-    ```bash
-    npm start
-    ```
-    This will start a local server (usually at `http://localhost:8080`) and watch for file changes.
-
-## Building for Production
-
-To generate the static site in the `docs/` folder (which is served by GitHub Pages):
-
+### Development
 ```bash
-npm run build
+# Clone the repository
+git clone https://github.com/nznewspapers/nznewspapers.git
+cd nznewspapers
+
+# Install dependencies
+npm install
+
+# Start local dev server (http://localhost:8080)
+just dev      # or: npm start
 ```
 
-## Project Structure
+---
 
-*   **`data/`**: The core database.
-    *   `papers/`: JSON files, one per newspaper. These are the source of truth for the website.
-    *   `marc/`: Raw MARC records (text format) used to generate the JSON data initially or for reference.
-*   **`src/`**: The source code for the website.
-    *   `_data/`: JavaScript files that load, process, and group the JSON data for Eleventy.
-    *   `*.njk`: Nunjucks templates for the site pages.
-    *   `assets/`: Static assets (CSS, images).
-*   **`scripts/`**: Maintenance scripts for updating the data.
-*   **`docs/`**: The compiled output directory (do not edit directly).
+## 🛠️ Common Commands
 
-## Data Maintenance
+You can run common project tasks using `just` or `npm`:
 
-The newspaper data is maintained using scripts in the `scripts/` directory.
+| Task | `just` Command | `npm` Command | Description |
+|---|---|---|---|
+| **Development** | `just dev` | `npm start` | Launches live-reloading local web server |
+| **Build Site** | `just build` | `npm run build` | Compiles site pages into `docs/` |
+| **Papers Past Update** | `just paperspast` | `npm run nzn-paperspast-updater` | Updates digitised links & codes from Papers Past TSV |
+| **Release Build** | `just release` | `npm run release` | Rebuilds full production static site |
 
-### Updating from National Bibliography
+---
 
-The `nzn-nat-bib-updater.js` script adds new records or updates existing ones from the New Zealand National Bibliography.
+## 📁 Repository Structure
 
-See `scripts/README.md` for detailed instructions on running these updates.
+```
+├── data/
+│   └── papers/        # Source of truth: JSON records (one file per newspaper)
+├── src/               # Site source code (Eleventy templates, layout, CSS)
+│   ├── _data/         # Data loading and index aggregation scripts
+│   ├── assets/        # CSS stylesheet and images
+│   └── *.njk          # Page templates (home, newspaper details, place, titles)
+├── scripts/           # Maintenance scripts & Papers Past dataset (PapersPastNewspaperData.tsv)
+├── docs/              # Generated static HTML site (served by GitHub Pages)
+├── AGENT.md           # Developer & AI Agent scope guidelines, rules, and data policies
+└── justfile           # Command runner configuration
+```
 
-### Updating Papers Past Links
+---
 
-The `nzn-paperspast-updater.js` script updates the JSON files with links to digitized copies on the Papers Past website.
+## 🤖 Maintainer & AI Guidelines
 
-## Contributing
+For detailed scope definitions (what counts as a newspaper), data schemas, continuation rules, and deprecated data pipelines, please see **[AGENT.md](./AGENT.md)**.
+
+---
+
+## 🤝 Contributing
 
 Contributions are welcome!
 
-*   **Data Corrections**: You can directly edit the JSON files in `data/papers/` and submit a Pull Request.
-*   **Code Improvements**: Feel free to improve the Eleventy templates or styles in `src/`.
+### Quick Guide: How to Edit or Add a Newspaper
+1. **Find the Record**: Locate the newspaper's file in `data/papers/<id>.json` (e.g., [`data/papers/1001.json`](file:///Users/gpaynter/Working/nznewspapers/data/papers/1001.json)).
+2. **Make Edits**: Update metadata fields (title, dates, place, `urlDigitized`, etc.).
+3. **Preview Locally**: Run `just dev` (or `npm start`) and check the page at `http://localhost:8080/newspapers/<id>/`.
+4. **Submit PR**: Commit your change and open a Pull Request.
 
-## License
+* **Code Improvements**: Enhancements to Nunjucks templates or CSS in `src/` are also appreciated.
 
-This project operates under a dual license:
+---
 
-*   **Code**: The source code is licensed under the [MIT License](https://opensource.org/licenses/MIT).
-*   **Data**: The dataset is derived from the [Publications New Zealand Metadata Dataset](https://natlib.govt.nz/about-us/open-data/publications-nz-metadata) and is licensed under the [Creative Commons Attribution 3.0 New Zealand licence (CC BY 3.0 NZ)](https://creativecommons.org/licenses/by/3.0/nz/).
+## 📄 License
 
-Please attribute the National Library of New Zealand when using the data.
+* **Code**: [MIT License](https://opensource.org/licenses/MIT)
+* **Data**: Derived from the [Publications New Zealand Metadata Dataset](https://natlib.govt.nz/about-us/open-data/publications-nz-metadata) by the National Library of New Zealand, licensed under [CC BY 3.0 NZ](https://creativecommons.org/licenses/by/3.0/nz/).
