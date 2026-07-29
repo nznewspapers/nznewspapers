@@ -44,11 +44,11 @@ eleventyComputed:
   <div class="about">
     <h3>About this Title</h3>
     <p>
-      {{ paper.title }} {% if paper.finalYear == "9999" %} has been published
-      since {{ paper.firstYear | prettyYear }} {% else %} was published from {{
-      paper.firstYear | prettyYear }} to {{ paper.finalYear | prettyYear }} {%
-      endif %} in {{ paper.placename }} {% if paper.placename != "Auckland" %}
-      ({{ paper.district }}, {{ paper.region }}) {% endif %}.
+      {{ paper.title }}
+      {%- if paper.finalYear == "9999" %} has been published since {{ paper.firstYear | prettyYear }}
+      {%- else %} was published from {{ paper.firstYear | prettyYear }} to {{ paper.finalYear | prettyYear }}
+      {%- endif %} in {{ paper.placename }}
+      {%- if paper.placename != "Auckland" %} ({{ paper.district }}, {{ paper.region }}){% endif -%}.
     </p>
   </div>
 
