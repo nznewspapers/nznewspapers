@@ -9,9 +9,9 @@ An index of every newspaper published in New Zealand since 1839.
 
 ## 📰 About the Project
 
-**Newspapers of New Zealand** catalogues historical and current newspapers published across New Zealand, from early 19th-century gazettes to modern community papers. 
+**Newspapers of New Zealand** catalogues historical and current newspapers published across New Zealand, from early 19th-century gazettes to modern community papers.
 
-The project uses a modern static site generator workflow:
+This project is a modern reconstruction of an older website that went offline in 2020. The original site was archived by the [Internet Archive](https://web.archive.org/web/20200710010513/http://nznewspapers.appspot.com/).
 * **Data**: Each newspaper is stored as an individual JSON record in `data/papers/`.
 * **Build System**: [Eleventy (11ty)](https://www.11ty.dev/) compiles data and templates into static web pages.
 * **Hosting**: Automated static site hosting via GitHub Pages from the `docs/` directory.
