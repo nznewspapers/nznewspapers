@@ -349,7 +349,7 @@ function readMarcFile(marcFileName, operatingMode) {
           field["subf"].forEach((pair) => {
             if (pair[0] == "a") {
               frequency = pair[1];
-              frequency = frequency.trim().replace(/[\.\,\?]+$/, "");
+              frequency = frequency.trim().replace(/[.,?]+$/, "");
               infrequent = [
                 "Annual",
                 "Semiannual",

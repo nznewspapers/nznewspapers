@@ -14,10 +14,19 @@
     "nzn-nat-bib-update": "node scripts/nzn-nat-bib-updater.js update-existing-records",
     "nzn-nat-bib-report": "node scripts/nzn-nat-bib-updater.js report",
     "nzn-paperspast-updater": "node scripts/nzn-paperspast-updater.js",
-    "release": "npm run build"
+    "release": "npm run build",
+    "lint:html": "html-validate \"docs/**/*.html\"",
+    "lint:prettier": "prettier --check \"src/**/*.{njk,css,js}\" \"*.md\"",
+    "lint:js": "eslint \"src/_data/**/*.js\" \"scripts/**/*.js\"",
+    "lint": "npm run lint:prettier && npm run lint:js",
+    "format": "prettier --write \"src/**/*.{njk,css,js}\" \"*.md\""
   },
   "devDependencies": {
     "@11ty/eleventy": "^3.1.2",
-    "@11ty/eleventy-plugin-rss": "^2.0.4"
+    "@11ty/eleventy-plugin-rss": "^2.0.4",
+    "@eslint/js": "^10.0.1",
+    "eslint": "^10.8.0",
+    "html-validate": "^11.6.0",
+    "prettier": "^3.9.6"
   }
 }

@@ -8,19 +8,16 @@ eleventyComputed:
 {% from "macros.njk" import newspaperLine %}
 
 <div class="multicolumnbox">
-    <div class="columnheading">Digitised Newspapers</div>
-    <div class="columnitem">
-        <p>Newspapers that are available online.</p>
-    </div>
+  <div class="columnheading">Digitised Newspapers</div>
+  <div class="columnitem">
+    <p>Newspapers that are available online.</p>
+  </div>
 
-    {% for regionObj in places.digitised %}
-        <div class="columnheading">{{ regionObj.name }}</div>
-        
-        {% for districtObj in regionObj.districts %}
-             <div class="columnsubheading">{{ districtObj.name }}</div>
-             {% for paper in districtObj.papers %}
-                {{ newspaperLine(paper) }}
-             {% endfor %}
-        {% endfor %}
-    {% endfor %}
+  {% for regionObj in places.digitised %}
+  <div class="columnheading">{{ regionObj.name }}</div>
+
+  {% for districtObj in regionObj.districts %}
+  <div class="columnsubheading">{{ districtObj.name }}</div>
+  {% for paper in districtObj.papers %} {{ newspaperLine(paper) }} {% endfor %}
+  {% endfor %} {% endfor %}
 </div>

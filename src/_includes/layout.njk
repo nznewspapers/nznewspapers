@@ -1,30 +1,60 @@
 <!DOCTYPE html>
 <html lang="en">
   <head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <title>{{ title or "Newspapers of New Zealand" }}</title>
-    <meta name="description" content="{{ description or title or "Newspapers of New Zealand" }}">
+    <meta
+      name="description"
+      content="{{ description or title or 'Newspapers of New Zealand' }}"
+    />
     <link rel="canonical" href="https://www.nznewspapers.org{{ page.url }}" />
-    
+
     <!-- Open Graph / Facebook -->
-    <meta property="og:type" content="website">
-    <meta property="og:url" content="https://www.nznewspapers.org{{ page.url }}">
-    <meta property="og:title" content="{{ title or "Newspapers of New Zealand" }}">
-    <meta property="og:description" content="{{ description or title or "Newspapers of New Zealand" }}">
-    <meta property="og:image" content="https://www.nznewspapers.org/assets/Newspapers-of-New-Zealand-840x120.png">
+    <meta property="og:type" content="website" />
+    <meta
+      property="og:url"
+      content="https://www.nznewspapers.org{{ page.url }}"
+    />
+    <meta
+      property="og:title"
+      content="{{ title or 'Newspapers of New Zealand' }}"
+    />
+    <meta
+      property="og:description"
+      content="{{ description or title or 'Newspapers of New Zealand' }}"
+    />
+    <meta
+      property="og:image"
+      content="https://www.nznewspapers.org/assets/Newspapers-of-New-Zealand-840x120.png"
+    />
 
     <!-- Twitter -->
-    <meta property="twitter:card" content="summary_large_image">
-    <meta property="twitter:url" content="https://www.nznewspapers.org{{ page.url }}">
-    <meta property="twitter:title" content="{{ title or "Newspapers of New Zealand" }}">
-    <meta property="twitter:description" content="{{ description or title or "Newspapers of New Zealand" }}">
-    <meta property="twitter:image" content="https://www.nznewspapers.org/assets/Newspapers-of-New-Zealand-840x120.png">
-    
+    <meta property="twitter:card" content="summary_large_image" />
+    <meta
+      property="twitter:url"
+      content="https://www.nznewspapers.org{{ page.url }}"
+    />
+    <meta
+      property="twitter:title"
+      content="{{ title or 'Newspapers of New Zealand' }}"
+    />
+    <meta
+      property="twitter:description"
+      content="{{ description or title or 'Newspapers of New Zealand' }}"
+    />
+    <meta
+      property="twitter:image"
+      content="https://www.nznewspapers.org/assets/Newspapers-of-New-Zealand-840x120.png"
+    />
+
     <link type="text/css" rel="stylesheet" href="/assets/nznewspapers.css" />
-    
+
     <!-- Global site tag (gtag.js) - Google Analytics -->
-    <script async src="https://www.googletagmanager.com/gtag/js?id=G-FM6HMWX85F"></script>
+    <script
+      async
+      src="https://www.googletagmanager.com/gtag/js?id=G-FM6HMWX85F"
+    ></script>
     <script>
       window.dataLayer = window.dataLayer || [];
       function gtag() {
@@ -38,13 +68,13 @@
     <div class="mainbox">
       <header class="mastheadbox">
         <a href="/">
-            <img
+          <img
             src="/assets/Newspapers-of-New-Zealand-840x120.png"
             width="840"
             height="120"
             title="Newspapers of New Zealand"
             alt="Newspapers of New Zealand Masthead"
-            />
+          />
         </a>
       </header>
 
@@ -61,18 +91,29 @@
         <h2 id="pagetitle">{{ title }}</h2>
       </div>
 
-      <main class="contentbox">
-        {{ content | safe }}
-      </main>
+      <main class="contentbox">{{ content | safe }}</main>
 
       <footer class="footerbox">
         <p align="center">
-          This website is based on data derived from the <a href="https://natlib.govt.nz/about-us/open-data/publications-nz-metadata">Publications New Zealand Metadata Dataset</a> 
-          which is licensed under <a href="https://creativecommons.org/licenses/by/3.0/nz/">CC BY 3.0 NZ</a> 
-          by the <a href="https://natlib.govt.nz/">National Library of New Zealand</a>.
+          This website is based on data derived from the
+          <a
+            href="https://natlib.govt.nz/about-us/open-data/publications-nz-metadata"
+            >Publications New Zealand Metadata Dataset</a
+          >
+          which is licensed under
+          <a href="https://creativecommons.org/licenses/by/3.0/nz/"
+            >CC BY 3.0 NZ</a
+          >
+          by the
+          <a href="https://natlib.govt.nz/">National Library of New Zealand</a>.
           <br />
-          It was developed by <a href="https://github.com/nznewspapers">Gordon</a> and <a href="https://github.com/news-papers">Stella</a>. 
-          Report issues to our <a href="https://github.com/nznewspapers/nznewspapers/issues">GitHub project page</a>.
+          It was developed by
+          <a href="https://github.com/nznewspapers">Gordon</a> and
+          <a href="https://github.com/news-papers">Stella</a>. Report issues to
+          our
+          <a href="https://github.com/nznewspapers/nznewspapers/issues"
+            >GitHub project page</a
+          >.
         </p>
       </footer>
     </div>

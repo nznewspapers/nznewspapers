@@ -4,14 +4,14 @@ module.exports = function () {
   const papers = getPapers();
   const placesMap = {};
 
-  papers.forEach(p => {
+  papers.forEach((p) => {
     const pname = p.placename;
     if (!placesMap[pname]) {
       placesMap[pname] = {
         name: pname,
         region: p.region,
         district: p.district,
-        papers: []
+        papers: [],
       };
     }
     placesMap[pname].papers.push(p);
@@ -24,13 +24,13 @@ module.exports = function () {
   placesList.sort((a, b) => a.name.localeCompare(b.name));
 
   // Sort papers within each place
-  placesList.forEach(place => {
+  placesList.forEach((place) => {
     place.papers.sort((a, b) => {
-        // Sort by first year, then title
-        if (a.firstYear !== b.firstYear) {
-            return a.firstYear - b.firstYear;
-        }
-        return a.title.localeCompare(b.title);
+      // Sort by first year, then title
+      if (a.firstYear !== b.firstYear) {
+        return a.firstYear - b.firstYear;
+      }
+      return a.title.localeCompare(b.title);
     });
   });
 

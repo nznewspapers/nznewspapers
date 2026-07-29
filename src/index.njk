@@ -5,20 +5,23 @@ eleventyComputed:
 ---
 
 <div class="multicolumnbox">
-    <div class="columnheading">Welcome!</div>
-    <div class="columnitem">
-        <p>This website tries to list every newspaper ever published in New Zealand. It's a work in progress. <a href="/about/">Find out more.</a></p>
-    </div>
+  <div class="columnheading">Welcome!</div>
+  <div class="columnitem">
+    <p>
+      This website tries to list every newspaper ever published in New Zealand.
+      It's a work in progress. <a href="/about/">Find out more.</a>
+    </p>
+  </div>
 
-    {# Iterate through regions in North to South order #}
-    {% for regionObj in stats.lists %}
-        <div class="columnheading">{{ regionObj.name }}</div>
-        
-        {# Iterate through places in that region alphabetically #}
-        {% for place in regionObj.places %}
-            <div class="columnitem">
-                <a href="/place/{{ place.name | slugify }}/">{{ place.name }}</a> ({{ place.count }})
-            </div>
-        {% endfor %}
-    {% endfor %}
+  {# Iterate through regions in North to South order #} {% for regionObj in
+  stats.lists %}
+  <div class="columnheading">{{ regionObj.name }}</div>
+
+  {# Iterate through places in that region alphabetically #} {% for place in
+  regionObj.places %}
+  <div class="columnitem">
+    <a href="/place/{{ place.name | slugify }}/">{{ place.name }}</a> ({{
+    place.count }})
+  </div>
+  {% endfor %} {% endfor %}
 </div>
