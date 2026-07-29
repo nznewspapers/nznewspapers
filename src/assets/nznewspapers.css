@@ -1,6 +1,6 @@
 body {
   font-family: "Source Serif 4", Georgia, "Times New Roman", serif;
-  background-color: #f4f1ea;
+  background-color: #cecece;
   color: #111111;
   line-height: 1.5;
   margin: 0;
@@ -8,13 +8,13 @@ body {
 }
 
 .mainbox {
-  border: 1px solid #333333;
-  background-color: #fcfaf6;
+  border: 1px solid #222222;
+  background-color: #e2e2e2;
   margin-left: auto;
   margin-right: auto;
   margin-top: 0;
   min-width: 650px;
-  box-shadow: 0 4px 16px rgba(0, 0, 0, 0.06);
+  box-shadow: 0 4px 16px rgba(0, 0, 0, 0.12);
 }
 
 .mastheadbox {
@@ -67,7 +67,7 @@ h2 {
 .menubox {
   border-bottom: 3px double #111111;
   border-top: 3px double #111111;
-  background-color: #f7f3eb;
+  background-color: #d8d8d8;
 
   /* Grid Fallback (if browser does not support grids, use "flex" mode). */
   display: flex;
@@ -101,8 +101,8 @@ h2 {
 }
 
 .menuitem:hover {
-  background-color: #eae3d4;
-  color: #002b5b;
+  background-color: #cccccc;
+  color: #000000;
 }
 
 .contentbox {
@@ -117,7 +117,7 @@ h2 {
 
 .multicolumnbox {
   column-gap: 24px;
-  column-rule: 1px solid #888888;
+  column-rule: 1px solid #777777;
   column-width: 200px;
 }
 
@@ -136,7 +136,7 @@ h2 {
   font-size: 180%;
   text-align: center;
   color: #111111;
-  border-bottom: 1px solid #cccccc;
+  border-bottom: 1px solid #aaaaaa;
   padding-bottom: 4px;
 }
 
@@ -159,20 +159,20 @@ br {
 
 .footerbox {
   border-top: 3px double #111111;
-  background-color: #f7f3eb;
+  background-color: #d8d8d8;
   padding: 10px 0;
   font-size: 92%;
 }
 
 a {
-  color: #003366;
+  color: #111111;
   text-decoration: underline;
-  text-decoration-color: rgba(0, 51, 102, 0.4);
+  text-decoration-color: rgba(17, 17, 17, 0.6);
 }
 
 a:hover {
-  color: #8b0000;
-  text-decoration-color: #8b0000;
+  color: #002b5b;
+  text-decoration-color: #002b5b;
 }
 
 table.linktable {
@@ -190,7 +190,7 @@ table.linktable th {
 }
 
 table.linktable td {
-  border-bottom: 1px dotted #888888;
+  border-bottom: 1px dotted #666666;
   width: 33%;
   padding: 4px 6px;
 }
@@ -209,6 +209,6 @@ table.simpletable th {
 }
 
 table.simpletable td {
-  border-bottom: 1px dotted #888888;
+  border-bottom: 1px dotted #666666;
   padding: 4px 6px;
 }
