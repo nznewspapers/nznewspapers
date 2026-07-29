@@ -7,6 +7,10 @@ module.exports = function (eleventyConfig) {
   eleventyConfig.addPassthroughCopy("src/assets");
   eleventyConfig.addPassthroughCopy("src/CNAME");
 
+  // Ensure dev server watches and retains static assets during live reloads
+  eleventyConfig.addWatchTarget("src/assets/");
+  eleventyConfig.setServerPassthroughCopyBehavior("copy");
+
   eleventyConfig.addFilter("prettyYear", function(year) {
       if (!year) return "";
       year = year.toString();
