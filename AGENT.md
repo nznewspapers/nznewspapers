@@ -4,9 +4,13 @@ This document defines the scope, data standards, architecture, and maintenance w
 
 ---
 
-## 1. Project Overview & Mission
+## 1. Project Overview & Repository Links
 
-**Newspapers of New Zealand** (https://www.nznewspapers.org/) is a comprehensive digital catalogue of serial newspapers published in New Zealand since the _New Zealand Gazette and Wellington Spectator_ in 1839.
+* **Live Website**: https://www.nznewspapers.org/
+* **GitHub Repository**: https://github.com/nznewspapers/nznewspapers
+* **Pull Requests**: https://github.com/nznewspapers/nznewspapers/pulls
+
+**Newspapers of New Zealand** is a comprehensive digital catalogue of serial newspapers published in New Zealand since the _New Zealand Gazette and Wellington Spectator_ in 1839.
 
 The project reconstructs and expands upon the original cataloguing effort, providing a searchable index by title, place, digitisation status, and historical period.
 
