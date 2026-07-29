@@ -17,26 +17,32 @@ module.exports = function () {
 
         // Mimic the filtering logic: Only keep "Newspaper" genre
         if (data.genre === "Newspaper") {
-            // Add a computed "url" property for convenience
-            data.url = `/newspapers/${data.id}/`;
-            
-            // Generate sort keys (ported from nzn-summarise.js)
-            const sortKey = data.title
-                .toLowerCase()
-                .replace(/\W+/g, "")
-                .replace("the", "");
-            
-            data.sortKey = sortKey + "-" + data.firstYear;
-            data.sortPlace = data.placecode + "-" + data.placename + data.firstYear;
-            data.titleSection = sortKey[0].toUpperCase() + sortKey[0].toLowerCase();
+          // Add a computed "url" property for convenience
+          data.url = `/newspapers/${data.id}/`;
 
-            // Read MARC record if it exists
-            const marcPath = path.join(__dirname, "../../data/marc", `${data.id}.text`);
-            if (fs.existsSync(marcPath)) {
-                data.marcText = fs.readFileSync(marcPath, "utf8");
-            }
+          // Generate sort keys (ported from nzn-summarise.js)
+          const sortKey = data.title
+            .toLowerCase()
+            .replace(/\W+/g, "")
+            .replace("the", "");
 
-            papers.push(data);
+          data.sortKey = sortKey + "-" + data.firstYear;
+          data.sortPlace =
+            data.placecode + "-" + data.placename + data.firstYear;
+          data.titleSection =
+            sortKey[0].toUpperCase() + sortKey[0].toLowerCase();
+
+          // Read MARC record if it exists
+          const marcPath = path.join(
+            __dirname,
+            "../../data/marc",
+            `${data.id}.text`
+          );
+          if (fs.existsSync(marcPath)) {
+            data.marcText = fs.readFileSync(marcPath, "utf8");
+          }
+
+          papers.push(data);
         }
       }
     });

@@ -68,7 +68,7 @@ exports.titleCase = function (str) {
  * @returns A better version of the string, hopefully.
  */
 exports.titleCleanup = function (str) {
-  let tidyStr = str.trim().replace(/[\.\: ]+$/, "");
+  let tidyStr = str.trim().replace(/[.: ]+$/, "");
   return exports.titleCase(tidyStr);
 };
 
