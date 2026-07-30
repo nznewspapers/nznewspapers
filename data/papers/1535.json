@@ -8,10 +8,12 @@
   "frequency": "Weekly",
   "idMarcControlNumber": "8181197",
   "idNZNewspapersV1": "59134",
+  "idPapersPastCode": "CHP",
   "isCurrent": false,
   "placecode": "03-03",
   "placename": "Huntly",
   "region": "Waikato",
+  "urlDigitized": "https://paperspast.natlib.govt.nz/newspapers/press",
   "links": {
     "1528": {
       "direction": "Continues",
@@ -27,8 +29,9 @@
     }
   },
   "sources": {
-    "2013-04-02T08:58:38.000Z": "Extracted from the New Zealand National Bibliography (MARC record 8181197) downloaded March 2013.",
-    "2014-05-18T11:29:28.000Z": "Modified by DataBot"
+    "2026-07-30T06:12:02.555Z": "Updated Papers Past info using the nzn-paperspast-updater.js script.",
+    "2014-05-18T11:29:28.000Z": "Modified by DataBot",
+    "2013-04-02T08:58:38.000Z": "Extracted from the New Zealand National Bibliography (MARC record 8181197) downloaded March 2013."
   },
-  "revision": 7
+  "revision": 8
 }
