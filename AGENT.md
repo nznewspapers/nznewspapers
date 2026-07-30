@@ -57,6 +57,16 @@ When evaluating publications for inclusion or data updates, adhere strictly to t
 - **Data Processing**: Eleventy automatically ingests `data/papers/*.json` via `src/_data/*.js` helper scripts (`papers.js`, `places.js`, `stats.js`, etc.).
 - **Static Output**: Compiled static site files are generated in `docs/` and deployed directly to GitHub Pages.
 
+### ⚠️ GitHub Pages Deployment Requirement (`docs/` Build)
+
+- **Deployment Mechanism**: GitHub Pages serves static files directly from the `/docs` folder on `master`. There is no automated build workflow in GitHub Actions that compiles the site on push.
+- **Mandatory Pre-Merge Build Rule**: Before merging any branch into `master` or releasing updates, you MUST run:
+  ```bash
+  just build
+  ```
+  This recompiles all static HTML pages in `docs/` and copies updated assets (`src/assets/nznewspapers.css` -> `docs/assets/nznewspapers.css`).
+- **Commit `docs/` for Production**: Rebuilt `docs/` files MUST be committed to `master` and pushed to GitHub so that GitHub Pages publishes the updated CSS, HTML templates, and newspaper counts live to `nznewspapers.org`.
+
 ---
 
 ## 5. Code Quality & Linting Pipeline
