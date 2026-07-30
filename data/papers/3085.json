@@ -7,10 +7,12 @@
   "district": "Palmerston North City",
   "frequency": "Daily",
   "idMarcControlNumber": "12890080",
+  "idPapersPastCode": "MS",
   "isCurrent": false,
   "placecode": "08-05",
   "placename": "Palmerston North",
   "region": "Manawatu-Wanganui",
+  "urlDigitized": "https://paperspast.natlib.govt.nz/newspapers/manawatu-standard",
   "links": {
     "unknown-1": {
       "direction": "Preceding",
@@ -24,7 +26,8 @@
     }
   },
   "sources": {
+    "2026-07-30T06:12:02.553Z": "Updated Papers Past info using the nzn-paperspast-updater.js script.",
     "2022-08-31T04:35:34.302Z": "Extracted from the New Zealand National Bibliography (MARC record 12890080) downloaded June 2022."
   },
-  "revision": 1
+  "revision": 2
 }

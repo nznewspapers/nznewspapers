@@ -8,10 +8,12 @@
   "frequency": "Daily",
   "idMarcControlNumber": "8185255",
   "idNZNewspapersV1": "71158",
+  "idPapersPastCode": "WDA",
   "isCurrent": false,
   "placecode": "12-09",
   "placename": "Waimate",
   "region": "Canterbury",
+  "urlDigitized": "https://paperspast.natlib.govt.nz/newspapers/waimate-daily-advertiser",
   "links": {
     "2541": {
       "direction": "Preceding",
@@ -29,8 +31,9 @@
     }
   },
   "sources": {
-    "2013-04-02T08:58:38.000Z": "Extracted from the New Zealand National Bibliography (MARC record 8185255) downloaded March 2013.",
-    "2014-04-12T12:23:44.000Z": "Modified by DataBot"
+    "2026-07-30T06:12:02.556Z": "Updated Papers Past info using the nzn-paperspast-updater.js script.",
+    "2014-04-12T12:23:44.000Z": "Modified by DataBot",
+    "2013-04-02T08:58:38.000Z": "Extracted from the New Zealand National Bibliography (MARC record 8185255) downloaded March 2013."
   },
-  "revision": 7
+  "revision": 8
 }
