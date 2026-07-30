@@ -1,4 +1,2 @@
-User-agent: *
-Allow: /
 
-Sitemap: https://www.nznewspapers.org/sitemap.xml
+User-agent: * Allow: / Sitemap: https://www.nznewspapers.org/sitemap.xml

@@ -1,56 +1,73 @@
 body {
-  font-family: Times, serif;
-  background-color: white;
+  font-family: "Source Serif 4", Georgia, "Times New Roman", serif;
+  background-color: #cecece;
+  color: #111111;
+  line-height: 1.5;
+  margin: 0;
+  padding: 0;
 }
 
 .mainbox {
-  border: 1px solid black;
-  background-color: #efefef;
+  border: 1px solid #222222;
+  background-color: #e2e2e2;
   margin-left: auto;
   margin-right: auto;
   margin-top: 0;
   min-width: 650px;
+  box-shadow: 0 4px 16px rgba(0, 0, 0, 0.12);
 }
 
 .mastheadbox {
-  /* border: 1px solid green; */
   font-variant: small-caps;
   font-size: 150%;
   text-align: center;
+  margin-left: auto;
+  margin-right: auto;
+  width: 830px;
 }
 
 .bannerbox {
-  /* border: 1px solid blue; */
   padding-bottom: 10px;
   padding-top: 10px;
 }
 
-/* The human-readable title of the page sites in the banner box below the masthead. */
-h2 {
-  /* border: 1px solid rgb(255, 0, 221); */
+/* The human-readable title of the page sits in the banner box below the masthead. */
+h1,
+h2,
+h3,
+h4 {
+  font-family: "Playfair Display", Georgia, "Times New Roman", serif;
   display: block;
-  font-weight: bold;
+  font-weight: 700;
+  color: #111111;
   margin-top: 10px;
   margin-bottom: 0px;
 }
 
-/* Most pages om the website will have a titles centered under the masthead... */
+h2 {
+  font-size: 160%;
+}
+
+/* Most pages on the website will have a title centered under the masthead... */
 #pagetitle {
+  font-family: "Playfair Display", Georgia, serif;
   font-size: 200%;
   text-align: center;
+  letter-spacing: 0.02em;
 }
 
 /* ...except for the newspaper pages that will have a smaller, left-aligned title. */
 #newspapertitle {
-  font-size: 150%;
+  font-family: "Playfair Display", Georgia, serif;
+  font-size: 160%;
   text-align: left;
 }
 
 /* The menu across the top including Home, By Title, By Place, etc... */
 .menubox {
-  /* Newspaper styles */
-  border-bottom: 2px solid black;
-  border-top: 2px solid black;
+  border-bottom: 3px double #111111;
+  border-top: 3px double #111111;
+  background-color: #d8d8d8;
 
   /* Grid Fallback (if browser does not support grids, use "flex" mode). */
   display: flex;
@@ -62,62 +79,69 @@ h2 {
   grid-template-columns: 16% 16% 16% 16% 16% 16%;
 }
 
-/* The individualinks appearing in the menu box. */
+/* The individual links appearing in the menu box. */
 .menuitem {
-  /* Newspaper styles */
-  /* border: 1px dotted red; */
   align-items: center;
-  color: black;
+  color: #111111;
   display: flex;
+  font-family: "Playfair Display", Georgia, serif;
   font-variant: small-caps;
+  font-weight: 600;
+  font-size: 105%;
   justify-content: center;
-  min-height: 20px;
+  min-height: 28px;
   text-decoration: none;
+  letter-spacing: 0.05em;
+  padding: 4px 0;
 
-  /* Flex Fallback (if browser does not support grids, add some spacing) */
+  /* Flex Fallback */
   margin-left: 5px;
   margin-right: 5px;
+  transition: background-color 0.15s ease;
+}
+
+.menuitem:hover {
+  background-color: #cccccc;
+  color: #000000;
 }
 
 .contentbox {
-  /* border: 1px solid yellow; */
   margin-left: auto;
   margin-right: auto;
   min-height: 500px;
-  padding-left: 5px;
-  padding-bottom: 4px;
-  padding-top: 4px;
-}
-
-.mastheadbox {
-  /* border: 2px solid blue; */
-  margin-left: auto;
-  margin-right: auto;
-  width: 830px;
+  padding-left: 12px;
+  padding-right: 12px;
+  padding-bottom: 8px;
+  padding-top: 8px;
 }
 
 .multicolumnbox {
-  /* border: 1px solid orangered; */
-  column-gap: 10px;
-  column-rule: 1px solid #2c2c2c;
+  column-gap: 24px;
+  column-rule: 1px solid #777777;
   column-width: 200px;
 }
 
 .columnsection {
+  font-family: "Playfair Display", Georgia, serif;
   margin-top: 20px;
-  font-size: 200%;
+  font-size: 180%;
   font-variant: small-caps;
   text-align: center;
+  color: #111111;
 }
 
 .columnheading {
-  /* border: 2px dotted blueviolet; */
+  font-family: "Playfair Display", Georgia, serif;
   margin-top: 20px;
-  font-size: 200%;
+  font-size: 180%;
   text-align: center;
+  color: #111111;
+  border-bottom: 1px solid #aaaaaa;
+  padding-bottom: 4px;
 }
 
 .columnsubheading {
+  font-family: "Playfair Display", Georgia, serif;
   margin-top: 10px;
   font-size: 120%;
   font-weight: bold;
@@ -125,8 +149,6 @@ h2 {
 }
 
 .columnitem {
-  /* border: 2px dotted violet; */
-  /* width: 140px; */
   margin: 1px;
 }
 
@@ -136,42 +158,57 @@ br {
 }
 
 .footerbox {
-  border-top: 2px solid black;
+  border-top: 3px double #111111;
+  background-color: #d8d8d8;
+  padding: 10px 0;
+  font-size: 92%;
 }
 
 a {
-  color: black;
-  /* text-decoration:none; */
+  color: #111111;
+  text-decoration: underline;
+  text-decoration-color: rgba(17, 17, 17, 0.6);
+}
+
+a:hover {
+  color: #002b5b;
+  text-decoration-color: #002b5b;
 }
 
 table.linktable {
-  border-bottom: 2px solid black;
-  border-top: 2px solid black;
+  border-bottom: 2px solid #111111;
+  border-top: 2px solid #111111;
   width: 98%;
   margin-left: 1%;
 }
 
 table.linktable th {
-  border-bottom: 2px solid black;
+  font-family: "Playfair Display", Georgia, serif;
+  border-bottom: 2px solid #111111;
   width: 33%;
+  padding: 4px 6px;
 }
 
 table.linktable td {
-  border-bottom: 1px dotted black;
+  border-bottom: 1px dotted #666666;
   width: 33%;
+  padding: 4px 6px;
 }
 
 table.simpletable {
-  border-bottom: 2px solid black;
-  border-top: 2px solid black;
+  border-bottom: 2px solid #111111;
+  border-top: 2px solid #111111;
   margin-left: 1%;
+  width: 98%;
 }
 
 table.simpletable th {
-  border-bottom: 2px solid black;
+  font-family: "Playfair Display", Georgia, serif;
+  border-bottom: 2px solid #111111;
+  padding: 4px 6px;
 }
 
 table.simpletable td {
-  border-bottom: 1px dotted black;
+  border-bottom: 1px dotted #666666;
+  padding: 4px 6px;
 }
-
