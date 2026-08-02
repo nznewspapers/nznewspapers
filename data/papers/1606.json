@@ -3,18 +3,19 @@
   "title": "Patea County Mail",
   "genre": "Masthead",
   "firstYear": "1880",
-  "finalYear": "1881",
-  "district": "South Waikato District",
+  "finalYear": "1882",
+  "district": "South Taranaki District",
   "frequency": "Three issues per week",
-  "idMarcControlNumber": "8177857",
-  "idNZNewspapersV1": "66131",
+  "idMarcControlNumber": "8177866",
+  "idNZNewspapersV1": "66133",
   "isCurrent": false,
-  "placecode": "03-07",
+  "placecode": "07-06",
   "placename": "Patea",
-  "region": "Waikato",
+  "region": "Taranaki",
   "links": {
     "1604": {
-      "direction": "Continues",
+      "direction": "Preceding",
+      "relationship": "Continues",
       "target-description": "Patea Mail [1875]"
     },
     "1605": {
@@ -27,8 +28,9 @@
     }
   },
   "sources": {
-    "2013-04-02T08:58:38.000Z": "Extracted from the New Zealand National Bibliography (MARC record 8177857) downloaded March 2013.",
-    "2014-05-31T08:59:21.000Z": "Modified by DataBot"
+    "2026-08-03T09:40:24.000Z": "Fixed placecode to 07-06 South Taranaki District, Taranaki.",
+    "2013-04-02T08:58:38.000Z": "Extracted from the New Zealand National Bibliography (MARC record 8177866) downloaded March 2013.",
+    "2014-05-31T08:59:22.000Z": "Modified by DataBot"
   },
   "revision": 7
 }

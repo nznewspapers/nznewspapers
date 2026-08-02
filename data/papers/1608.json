@@ -4,27 +4,29 @@
   "genre": "Masthead",
   "firstYear": "1882",
   "finalYear": "1887",
-  "district": "South Waikato District",
+  "district": "South Taranaki District",
   "frequency": "Three issues per week",
-  "idMarcControlNumber": "8177866",
-  "idNZNewspapersV1": "58119",
+  "idMarcControlNumber": "8177869",
+  "idNZNewspapersV1": "66136",
   "isCurrent": false,
-  "placecode": "03-07",
+  "placecode": "07-06",
   "placename": "Patea",
-  "region": "Waikato",
+  "region": "Taranaki",
   "links": {
     "1605": {
       "direction": "Is Masthead Of",
       "target-description": "Patea Mail"
     },
     "1607": {
-      "direction": "Continues",
+      "direction": "Preceding",
+      "relationship": "Continues",
       "target-description": "Patea Daily Mail"
     }
   },
   "sources": {
-    "2013-04-02T08:58:38.000Z": "Extracted from the New Zealand National Bibliography (MARC record 8177866) downloaded March 2013.",
-    "2014-05-31T08:59:23.000Z": "Modified by DataBot"
+    "2026-08-03T09:40:24.000Z": "Fixed placecode to 07-06 South Taranaki District, Taranaki.",
+    "2013-04-02T08:58:38.000Z": "Extracted from the New Zealand National Bibliography (MARC record 8177869) downloaded March 2013.",
+    "2014-05-31T08:59:22.000Z": "Modified by DataBot"
   },
   "revision": 6
 }

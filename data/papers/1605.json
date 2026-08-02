@@ -4,13 +4,13 @@
   "genre": "Newspaper",
   "firstYear": "1875",
   "finalYear": "1887",
-  "district": "South Waikato District",
+  "district": "South Taranaki District",
   "idNZNewspapersV1": "14362625",
   "idPapersPastCode": "PATM",
   "isCurrent": false,
-  "placecode": "03-07",
+  "placecode": "07-06",
   "placename": "Patea",
-  "region": "Waikato",
+  "region": "Taranaki",
   "urlDigitized": "https://paperspast.natlib.govt.nz/newspapers/patea-mail",
   "links": {
     "1604": {
@@ -28,12 +28,18 @@
     "1608": {
       "direction": "Has Masthead",
       "target-description": "Patea Mail (1882)"
+    },
+    "1609": {
+      "direction": "Succeeding",
+      "relationship": "Continued by",
+      "target-description": "Patea County Press"
     }
   },
   "sources": {
+    "2026-08-03T09:40:24.000Z": "Added Succeeding link to 1609 (Patea County Press) and fixed placecode to 07-06 South Taranaki District, Taranaki.",
     "2022-01-18T04:19:28.951Z": "Updated Papers Past info using the nzn-paperspast-updater.js script.",
     "2014-05-31T08:59:22.000Z": "Modified by DataBot",
     "2013-04-02T08:58:38.000Z": "Extracted from the New Zealand National Bibliography (MARC record 5586787) downloaded March 2013."
   },
-  "revision": 7
+  "revision": 8
 }

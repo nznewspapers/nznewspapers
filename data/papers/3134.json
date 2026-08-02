@@ -2,24 +2,33 @@
   "id": 3134,
   "title": "Patea & Waverley Press",
   "genre": "Newspaper",
-  "firstYear": "1946",
-  "finalYear": "uuuu",
-  "district": "South Waikato District",
+  "firstYear": "1914",
+  "finalYear": "1975",
+  "district": "South Taranaki District",
   "frequency": "Three no. a week",
   "idMarcControlNumber": "8130478",
+  "idPapersPastCode": "PATM",
   "isCurrent": false,
-  "placecode": "03-07",
+  "placecode": "07-06",
   "placename": "Patea",
-  "region": "Waikato",
+  "region": "Taranaki",
+  "urlDigitized": "https://paperspast.natlib.govt.nz/newspapers/patea-mail",
   "links": {
-    "unknown-1": {
+    "1609": {
       "direction": "Preceding",
       "relationship": "Continues",
-      "target-description": "Patea & Waverley press"
+      "target-description": "Patea County Press"
+    },
+    "1613": {
+      "direction": "Succeeding",
+      "relationship": "Continued by",
+      "target-description": "The Patea Mail"
     }
   },
   "sources": {
+    "2026-08-03T09:48:22.000Z": "Updated firstYear to 1914 (E.F. Hemingway renamed Patea County Press to Patea & Waverley Press in 1914, running through 1941, paused in WWII, and resumed 1946) and added Papers Past digitised link PATM as documented in Papers Past essay: https://paperspast.natlib.govt.nz/newspapers/patea-mail",
+    "2026-08-03T09:40:24.000Z": "Replaced unknown-1 link with Preceding link to 1609 (Patea County Press) and Succeeding link to 1613 (The Patea Mail), and fixed placecode to 07-06 South Taranaki District, Taranaki.",
     "2022-08-31T04:35:47.356Z": "Extracted from the New Zealand National Bibliography (MARC record 8130478) downloaded June 2022."
   },
-  "revision": 1
+  "revision": 3
 }
