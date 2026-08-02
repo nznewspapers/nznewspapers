@@ -44,16 +44,20 @@ eleventyComputed:
   <div class="about">
     <h3>About this Title</h3>
     <p>
-      {{ paper.title }}
-      {%- if paper.finalYear == "9999" %} has been published since {{ paper.firstYear | prettyYear }}
-      {%- else %} was published from {{ paper.firstYear | prettyYear }} to {{ paper.finalYear | prettyYear }}
-      {%- endif %} in {{ paper.placename }}
-      {%- if paper.placename != "Auckland" %} ({{ paper.district }}, {{ paper.region }}){% endif -%}.
+      {{ paper.title }} {%- if paper.finalYear == "9999" %} has been published
+      since {{ paper.firstYear | prettyYear }} {%- else %} was published from {{
+      paper.firstYear | prettyYear }} to {{ paper.finalYear | prettyYear }} {%-
+      endif %} in {{ paper.placename }} {%- if paper.placename != "Auckland" %}
+      ({{ paper.district }}, {{ paper.region }}){% endif -%}.
     </p>
   </div>
 
-  {# Links / Relationships Table #} {% if paper.links %}
+  {# Links / Relationships Table (Clickable Viewable Newspaper Pages) #} {% if
+  paper.links %} {% set hasViewableLinks = false %} {% for id, link in
+  paper.links %} {% if paperLookup[id] %}{% set hasViewableLinks = true %}{%
+  endif %} {% endfor %} {% if hasViewableLinks %}
   <div class="links">
+    <h3>Related Newspapers</h3>
     <table class="linktable">
       <thead>
         <tr>
@@ -66,49 +70,88 @@ eleventyComputed:
         <tr>
           {# Preceded By #}
           <td align="left">
-            {% for id, link in paper.links %} {% set relationship =
-            link.relationship or link.direction %} {% if link.direction ==
-            "Preceding" or relationship == "Continues" %}
+            {% for id, link in paper.links %} {% if paperLookup[id] %} {% set
+            relationship = link.relationship or link.direction %} {% if
+            link.direction == "Preceding" or relationship == "Continues" %}
             <div>
               {{ relationship }}:
               <a href="/newspapers/{{ id }}/"
-                >{{ link["target-description"] }}</a
+                >{{ link["target-description"] or paperLookup[id].title }}</a
               >
             </div>
-            {% endif %} {% endfor %}
+            {% endif %} {% endif %} {% endfor %}
           </td>
           {# Related To #}
           <td align="center">
-            {% for id, link in paper.links %} {% set relationship =
-            link.relationship or link.direction %} {% if link.direction !=
-            "Preceding" and relationship != "Continues" and link.direction !=
-            "Succeeding" and relationship != "Continued By" %}
+            {% for id, link in paper.links %} {% if paperLookup[id] %} {% set
+            relationship = link.relationship or link.direction %} {% if
+            link.direction != "Preceding" and relationship != "Continues" and
+            link.direction != "Succeeding" and relationship != "Continued By" %}
             <div>
               {{ relationship }}:
               <a href="/newspapers/{{ id }}/"
-                >{{ link["target-description"] }}</a
+                >{{ link["target-description"] or paperLookup[id].title }}</a
               >
             </div>
-            {% endif %} {% endfor %}
+            {% endif %} {% endif %} {% endfor %}
           </td>
           {# Succeeded By #}
           <td align="right">
-            {% for id, link in paper.links %} {% set relationship =
-            link.relationship or link.direction %} {% if link.direction ==
-            "Succeeding" or relationship == "Continued By" %}
+            {% for id, link in paper.links %} {% if paperLookup[id] %} {% set
+            relationship = link.relationship or link.direction %} {% if
+            link.direction == "Succeeding" or relationship == "Continued By" %}
             <div>
               {{ relationship }}:
               <a href="/newspapers/{{ id }}/"
-                >{{ link["target-description"] }}</a
+                >{{ link["target-description"] or paperLookup[id].title }}</a
               >
             </div>
-            {% endif %} {% endfor %}
+            {% endif %} {% endif %} {% endfor %}
           </td>
         </tr>
       </tbody>
     </table>
   </div>
-  {% endif %} {# Key Elements Table #}
+  {% endif %} {# Unlinked Related Information (Single Combined Section:
+  Mastheads & Alternate Editions) #} {% set unlinkedItems = [] %} {% for id,
+  link in paper.links %} {% if not paperLookup[id] %} {% set targetRec =
+  allPapersLookup[id] %} {% set relationship = link.relationship or
+  link.direction %} {% set targetDesc = link["target-description"] or
+  (targetRec.title if targetRec else "Unknown Title") %} {% set genreName =
+  targetRec.genre if targetRec else "" %} {# Omit item if its title matches the
+  main paper title #} {% if targetDesc | lower | trim != paper.title | lower |
+  trim %} {% set _ = unlinkedItems.push({ relationship: relationship,
+  description: targetDesc, genre: genreName, record: targetRec }) %} {% endif %}
+  {% endif %} {% endfor %} {% if unlinkedItems.length > 0 %}
+  <div class="unlinked-relationships">
+    <div class="unlinked-section">
+      <h3>Mastheads &amp; Alternate Editions</h3>
+      <table class="simpletable">
+        <thead>
+          <tr>
+            <th align="left">Relationship</th>
+            <th align="left">Details &amp; Dates</th>
+          </tr>
+        </thead>
+        <tbody>
+          {% for item in unlinkedItems %}
+          <tr>
+            <td align="left"><strong>{{ item.relationship }}</strong></td>
+            <td align="left">
+              {{ item.description }} {%- if item.genre and item.genre !=
+              "Newspaper" and item.genre != "Masthead" %} [{{ item.genre }}]{%
+              endif -%} {%- if item.record and item.record.firstYear %} ({{
+              item.record.firstYear }}{% if item.record.finalYear and
+              item.record.finalYear != "9999" %}–{{ item.record.finalYear }}{%
+              endif %}){% endif -%}
+            </td>
+          </tr>
+          {% endfor %}
+        </tbody>
+      </table>
+    </div>
+  </div>
+  {% endif %} {% endif %} {# Key Elements Table #}
   <div class="elements">
     <h3>Key Elements</h3>
     <table class="simpletable">
