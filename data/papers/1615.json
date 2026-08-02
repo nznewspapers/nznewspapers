@@ -4,13 +4,13 @@
   "genre": "Newspaper",
   "firstYear": "1999",
   "finalYear": "9999",
-  "district": "South Waikato District",
+  "district": "South Taranaki District",
   "idMarcControlNumber": "8130479",
   "idNZNewspapersV1": "14362628",
   "isCurrent": true,
-  "placecode": "03-07",
+  "placecode": "07-06",
   "placename": "Patea",
-  "region": "Waikato",
+  "region": "Taranaki",
   "urlCurrent": "http://pateawaverleypress.wordpress.com/",
   "links": {
     "1613": {
@@ -25,8 +25,9 @@
     }
   },
   "sources": {
+    "2026-08-03T09:40:24.000Z": "Fixed placecode to 07-06 South Taranaki District, Taranaki.",
     "2013-04-02T08:58:38.000Z": "Extracted from the New Zealand National Bibliography (MARC record 8130479) downloaded March 2013.",
     "2014-05-31T09:21:42.000Z": "Modified by gordon.paynter"
   },
-  "revision": 4
+  "revision": 5
 }

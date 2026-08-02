@@ -4,17 +4,33 @@
   "genre": "Newspaper",
   "firstYear": "1887",
   "finalYear": "1914",
-  "district": "South Waikato District",
+  "district": "South Taranaki District",
   "frequency": "Three issues per week",
   "idMarcControlNumber": "8177859",
   "idNZNewspapersV1": "62119",
+  "idPapersPastCode": "PATM",
   "isCurrent": false,
-  "placecode": "03-07",
+  "placecode": "07-06",
   "placename": "Patea",
-  "region": "Waikato",
+  "region": "Taranaki",
+  "urlDigitized": "https://paperspast.natlib.govt.nz/newspapers/patea-mail",
+  "links": {
+    "1605": {
+      "direction": "Preceding",
+      "relationship": "Continues",
+      "target-description": "Patea Mail"
+    },
+    "3134": {
+      "direction": "Succeeding",
+      "relationship": "Continued by",
+      "target-description": "Patea & Waverley Press"
+    }
+  },
   "sources": {
+    "2026-08-03T09:48:22.000Z": "Added Papers Past digitised URL (1887-1914 issues included under PATM title).",
+    "2026-08-03T09:40:24.000Z": "Added Preceding link to 1605 (Patea Mail) and Succeeding link to 3134 (Patea & Waverley Press), and fixed placecode to 07-06 South Taranaki District, Taranaki.",
     "2013-04-02T08:58:38.000Z": "Extracted from the New Zealand National Bibliography (MARC record 8177859) downloaded March 2013.",
     "2014-05-07T09:04:30.000Z": "Modified by DataBot"
   },
-  "revision": 4
+  "revision": 6
 }
