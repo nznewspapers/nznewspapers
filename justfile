@@ -47,6 +47,13 @@ pre-push:
     just build
     just lint-html
 
+# Run comprehensive data quality, graph cycle, and hygiene audits
+data-audit:
+    node scripts/test-canonical-field-order.js
+    node scripts/test-reciprocal-links.js
+    node scripts/verify-no-link-loops.js
+    node scripts/audit-data-hygiene.js
+
 
 # Run full rebuild sequence
 release: build
