@@ -4,12 +4,9 @@
   "genre": "Newspaper",
   "firstYear": "1862",
   "finalYear": "1864",
-  "alternateTitle": {
-    "541002": "The Albertland Gazette and Ocean Chronicle"
-  },
   "district": "Kaipara District",
-  "finalIssueDate": "1864-04-01",
   "firstIssueDate": "1862-06-14",
+  "finalIssueDate": "1864-04-01",
   "frequency": "Monthly",
   "idMarcControlNumber": "4907666",
   "idNZNewspapersV1": "1037",
@@ -19,6 +16,9 @@
   "placename": "Port Albert",
   "region": "Northland",
   "urlDigitized": "https://paperspast.natlib.govt.nz/newspapers/albertland-gazette",
+  "alternateTitle": {
+    "541002": "The Albertland Gazette and Ocean Chronicle"
+  },
   "notes": {
     "542002": "First two issues produced at sea, and have lat/long coordinates on the final page."
   },

@@ -16,11 +16,22 @@
     "2175": {
       "direction": "Continued By",
       "target-description": "Onslow Johnsonville News"
+    },
+    "2867": {
+      "direction": "Preceding",
+      "target-description": "Onslow News : Local News and Views of Interest",
+      "relationship": "Continues"
+    },
+    "2868": {
+      "direction": "Preceding",
+      "target-description": "Onslow News : Local News and Views of Interest",
+      "relationship": "Continues"
     }
   },
   "sources": {
-    "2013-04-02T08:58:38.000Z": "Extracted from the New Zealand National Bibliography (MARC record 8177726) downloaded March 2013.",
-    "2014-11-19T09:02:34.000Z": "Modified by gordon.paynter"
+    "2026-08-03T05:01:33.559Z": "Added reciprocal Preceding link to record 2868 (Onslow News : Local News and Views of Interest).",
+    "2014-11-19T09:02:34.000Z": "Modified by gordon.paynter",
+    "2013-04-02T08:58:38.000Z": "Extracted from the New Zealand National Bibliography (MARC record 8177726) downloaded March 2013."
   },
   "revision": 5
 }

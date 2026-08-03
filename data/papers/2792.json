@@ -13,15 +13,16 @@
   "placename": "Hamilton",
   "region": "Waikato",
   "links": {
-    "undefined-unknown": {
+    "2793": {
       "direction": "Succeeding",
       "relationship": "Continued by",
       "target-description": "Eastsider"
     }
   },
   "sources": {
-    "2013-04-02T08:58:38.000Z": "Extracted from the New Zealand National Bibliography (MARC record 12835594) downloaded March 2013.",
-    "2014-05-07T08:48:43.000Z": "Modified by DataBot"
+    "2026-08-03T05:01:33.559Z": "Resolved unknown target placeholder link(s) to numerical record ID(s).",
+    "2014-05-07T08:48:43.000Z": "Modified by DataBot",
+    "2013-04-02T08:58:38.000Z": "Extracted from the New Zealand National Bibliography (MARC record 12835594) downloaded March 2013."
   },
   "revision": 5
 }

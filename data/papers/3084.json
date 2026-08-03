@@ -12,15 +12,20 @@
   "placename": "Palmerston North",
   "region": "Manawatu-Wanganui",
   "links": {
+    "1909": {
+      "direction": "Has Masthead",
+      "relationship": "Continues",
+      "target-description": "Manawatu daily standard"
+    },
     "1911": {
       "direction": "Succeeding",
       "relationship": "Continued by",
       "target-description": "Manawatu Evening Standard"
     },
-    "unknown-1": {
-      "direction": "Preceding",
-      "relationship": "Continues",
-      "target-description": "Manawatu daily standard"
+    "3085": {
+      "direction": "Succeeding",
+      "target-description": "Manawatu Standard",
+      "relationship": "Continued by"
     },
     "unknown-2": {
       "direction": "Succeeding",
@@ -29,6 +34,7 @@
     }
   },
   "sources": {
+    "2026-08-03T05:01:33.559Z": "Added reciprocal Succeeding link to record 3085 (Manawatu Standard).",
     "2026-08-03T04:13:03.129Z": "Added sequential continuation link to later run #1911 (Manawatu Evening Standard).",
     "2022-08-31T04:35:34.302Z": "Extracted from the New Zealand National Bibliography (MARC record 12890075) downloaded June 2022."
   },

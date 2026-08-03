@@ -13,15 +13,26 @@
   "placename": "Alexandra",
   "region": "Otago",
   "links": {
-    "undefined-unknown": {
+    "2557": {
       "direction": "Preceding",
       "relationship": "Formed by the union",
       "target-description": "Lake County mail"
+    },
+    "3061": {
+      "direction": "Preceding",
+      "target-description": "Alexandra Herald",
+      "relationship": "Continues"
+    },
+    "3139": {
+      "direction": "Succeeding",
+      "target-description": "News",
+      "relationship": "Continued by"
     }
   },
   "sources": {
-    "2013-04-02T08:58:38.000Z": "Extracted from the New Zealand National Bibliography (MARC record 3531219) downloaded March 2013.",
-    "2014-05-07T09:05:37.000Z": "Modified by DataBot"
+    "2026-08-03T05:01:33.559Z": "Added reciprocal Succeeding link to record 3139 (News).",
+    "2014-05-07T09:05:37.000Z": "Modified by DataBot",
+    "2013-04-02T08:58:38.000Z": "Extracted from the New Zealand National Bibliography (MARC record 3531219) downloaded March 2013."
   },
   "revision": 8
 }

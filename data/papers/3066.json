@@ -12,18 +12,19 @@
   "placename": "Morrinsville",
   "region": "Waikato",
   "links": {
-    "unknown-1": {
+    "1553": {
       "direction": "Succeeding",
       "relationship": "Merged",
       "target-description": "Morrinsville star"
     },
-    "unknown-2": {
+    "1564": {
       "direction": "Succeeding",
       "relationship": "Merged",
       "target-description": "Piako post"
     }
   },
   "sources": {
+    "2026-08-03T05:01:33.559Z": "Resolved unknown target placeholder link(s) to numerical record ID(s).",
     "2022-08-31T04:35:30.978Z": "Extracted from the New Zealand National Bibliography (MARC record 8123600) downloaded June 2022."
   },
   "revision": 1

@@ -16,11 +16,17 @@
     "1216": {
       "direction": "Continued By",
       "target-description": "Coaster (1991)"
+    },
+    "3069": {
+      "direction": "Succeeding",
+      "target-description": "Coaster",
+      "relationship": "Continued by"
     }
   },
   "sources": {
-    "2013-04-02T08:58:38.000Z": "Extracted from the New Zealand National Bibliography (MARC record 3530512) downloaded March 2013.",
-    "2015-01-20T09:12:56.000Z": "Modified by gordon.paynter"
+    "2026-08-03T05:01:33.559Z": "Added reciprocal Succeeding link to record 3069 (Coaster).",
+    "2015-01-20T09:12:56.000Z": "Modified by gordon.paynter",
+    "2013-04-02T08:58:38.000Z": "Extracted from the New Zealand National Bibliography (MARC record 3530512) downloaded March 2013."
   },
   "revision": 5
 }

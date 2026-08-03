@@ -4,9 +4,6 @@
   "genre": "Newspaper",
   "firstYear": "1879",
   "finalYear": "1880",
-  "alternateTitle": {
-    "10792394": "Ashburton Herald: Borough and County Advertiser"
-  },
   "district": "Ashburton District",
   "frequency": "Daily",
   "idMarcControlNumber": "8123617",
@@ -17,6 +14,9 @@
   "placename": "Ashburton",
   "region": "Canterbury",
   "urlDigitized": "https://paperspast.natlib.govt.nz/newspapers/ashburton-herald",
+  "alternateTitle": {
+    "10792394": "Ashburton Herald: Borough and County Advertiser"
+  },
   "links": {
     "2507": {
       "direction": "Continues",

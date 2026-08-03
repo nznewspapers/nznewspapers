@@ -4,7 +4,6 @@
   "genre": "Newspaper",
   "firstYear": "1901",
   "finalYear": "1964",
-  "description": "1964-01-29",
   "district": "Auckland",
   "firstIssueDate": "1901-03-29",
   "frequency": "Weekly",
@@ -16,6 +15,7 @@
   "placename": "Warkworth",
   "region": "Auckland",
   "urlDigitized": "https://paperspast.natlib.govt.nz/newspapers/rodney-and-otamatea-times-waitemata-and-kaipara-gazette",
+  "description": "1964-01-29",
   "links": {
     "1144": {
       "direction": "Succeeding",

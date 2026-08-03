@@ -12,13 +12,14 @@
   "placename": "Dunedin",
   "region": "Otago",
   "links": {
-    "unknown-1": {
+    "2613": {
       "direction": "Succeeding",
       "relationship": "Continued by",
       "target-description": "Sketch (Dunedin, N.Z.)"
     }
   },
   "sources": {
+    "2026-08-03T05:01:33.559Z": "Resolved unknown target placeholder link(s) to numerical record ID(s).",
     "2022-08-31T04:35:42.003Z": "Extracted from the New Zealand National Bibliography (MARC record 4875429) downloaded June 2022."
   },
   "revision": 1

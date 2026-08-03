@@ -12,9 +12,17 @@
   "placecode": "09-08",
   "placename": "Karori",
   "region": "Wellington",
+  "links": {
+    "2194": {
+      "direction": "Succeeding",
+      "target-description": "Western News (Johnsonville)",
+      "relationship": "Continued by"
+    }
+  },
   "sources": {
-    "2013-04-02T08:58:38.000Z": "Extracted from the New Zealand National Bibliography (MARC record 8160280) downloaded March 2013.",
-    "2014-05-07T09:16:36.000Z": "Modified by DataBot"
+    "2026-08-03T05:01:33.559Z": "Added reciprocal Succeeding link to record 2194 (Western News (Johnsonville)).",
+    "2014-05-07T09:16:36.000Z": "Modified by DataBot",
+    "2013-04-02T08:58:38.000Z": "Extracted from the New Zealand National Bibliography (MARC record 8160280) downloaded March 2013."
   },
   "revision": 4
 }

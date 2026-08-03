@@ -16,11 +16,17 @@
     "1788": {
       "direction": "Continues",
       "target-description": "Mail"
+    },
+    "3094": {
+      "direction": "Succeeding",
+      "target-description": "Central Hawke's Bay Mail",
+      "relationship": "Continued by"
     }
   },
   "sources": {
-    "2013-04-02T08:58:38.000Z": "Extracted from the New Zealand National Bibliography (MARC record 3601356) downloaded March 2013.",
-    "2014-04-10T11:00:09.000Z": "Modified by gordon.paynter"
+    "2026-08-03T05:01:33.559Z": "Added reciprocal Succeeding link to record 3094 (Central Hawke's Bay Mail).",
+    "2014-04-10T11:00:09.000Z": "Modified by gordon.paynter",
+    "2013-04-02T08:58:38.000Z": "Extracted from the New Zealand National Bibliography (MARC record 3601356) downloaded March 2013."
   },
   "revision": 3
 }

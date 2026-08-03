@@ -4,7 +4,6 @@
   "genre": "Newspaper",
   "firstYear": "1862",
   "finalYear": "1876",
-  "description": "1876-12-30",
   "district": "Auckland",
   "firstIssueDate": "1862-05-20",
   "frequency": "Daily",
@@ -16,6 +15,7 @@
   "placename": "Auckland",
   "region": "Auckland",
   "urlDigitized": "https://paperspast.natlib.govt.nz/newspapers/daily-southern-cross",
+  "description": "1876-12-30",
   "links": {
     "1073": {
       "direction": "Succeeding",

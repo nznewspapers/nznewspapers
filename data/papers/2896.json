@@ -13,6 +13,11 @@
   "placename": "Wellington",
   "region": "Wellington",
   "links": {
+    "2877": {
+      "direction": "Succeeding",
+      "target-description": "R.S.A. Review : the Official R.S.A. Journal",
+      "relationship": "Continued by"
+    },
     "undefined-unknown": {
       "direction": "Succeeding",
       "relationship": "Continued by",
@@ -20,8 +25,9 @@
     }
   },
   "sources": {
-    "2013-04-02T08:58:38.000Z": "Extracted from the New Zealand National Bibliography (MARC record 4812839) downloaded March 2013.",
-    "2014-05-07T08:48:49.000Z": "Modified by DataBot"
+    "2026-08-03T05:01:33.559Z": "Added reciprocal Succeeding link to record 2877 (R.S.A. Review : the Official R.S.A. Journal).",
+    "2014-05-07T08:48:49.000Z": "Modified by DataBot",
+    "2013-04-02T08:58:38.000Z": "Extracted from the New Zealand National Bibliography (MARC record 4812839) downloaded March 2013."
   },
   "revision": 5
 }

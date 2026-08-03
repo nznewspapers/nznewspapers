@@ -5,6 +5,8 @@
   "firstYear": "1916",
   "finalYear": "1931",
   "district": "Rotorua District",
+  "frequency": "Daily",
+  "idMarcControlNumber": "5098973",
   "idNZNewspapersV1": "401001",
   "isCurrent": false,
   "placecode": "04-05",
@@ -31,7 +33,5 @@
     "2026-08-03T04:13:03.129Z": "Merged metadata from duplicate MARC record 3048 into record 1676.",
     "2014-04-10T09:46:07.000Z": "Modified by gordon.paynter"
   },
-  "revision": 5,
-  "idMarcControlNumber": "5098973",
-  "frequency": "Daily"
+  "revision": 5
 }

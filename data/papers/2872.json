@@ -14,8 +14,8 @@
   "region": "Wellington",
   "urlDigitized": "http://paperspast.natlib.govt.nz/cgi-bin/paperspast?a=d&cl=CL1.FP&e=-------10--1----0--",
   "sources": {
-    "2013-04-02T08:58:38.000Z": "Extracted from the New Zealand National Bibliography (MARC record 3971562) downloaded March 2013.",
-    "2014-05-07T09:00:10.000Z": "Modified by DataBot"
+    "2014-05-07T09:00:10.000Z": "Modified by DataBot",
+    "2013-04-02T08:58:38.000Z": "Extracted from the New Zealand National Bibliography (MARC record 3971562) downloaded March 2013."
   },
   "revision": 4
 }

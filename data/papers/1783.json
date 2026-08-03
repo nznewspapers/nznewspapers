@@ -14,13 +14,14 @@
   "region": "Hawke's Bay",
   "urlDigitized": "https://paperspast.natlib.govt.nz/newspapers/waipawa-mail",
   "links": {
-    "undefined-unknown": {
+    "1787": {
       "direction": "Succeeding",
       "relationship": "Continued by",
       "target-description": "Mail (Waipawa, N.Z.)"
     }
   },
   "sources": {
+    "2026-08-03T05:01:33.559Z": "Resolved unknown target placeholder link(s) to numerical record ID(s).",
     "2022-01-18T05:21:02.279Z": "Updated Papers Past info using the nzn-paperspast-updater.js script.",
     "2013-04-02T08:58:38.000Z": "Extracted from the New Zealand National Bibliography (MARC record 4110552) downloaded March 2013."
   },

@@ -4,7 +4,6 @@
   "genre": "Weekly Edition",
   "firstYear": "1865",
   "finalYear": "1868",
-  "description": "1868-12-28",
   "district": "Napier City",
   "firstIssueDate": "1865-02-06",
   "frequency": "Weekly",
@@ -16,6 +15,7 @@
   "placename": "Napier",
   "region": "Hawke's Bay",
   "urlDigitized": "https://paperspast.natlib.govt.nz/newspapers/hawke-s-bay-weekly-times",
+  "description": "1868-12-28",
   "links": {
     "1758": {
       "direction": "Is Edition Of",

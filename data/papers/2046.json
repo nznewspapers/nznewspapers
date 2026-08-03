@@ -20,14 +20,10 @@
   "notes": {
     "149007": "Digital Edition: fairfaxmedia.newspaperdirect.com/epaper/viewer.aspx?cid=1829"
   },
-  "links": {
-    "undefined-unknown": {
-      "direction": "Preceding",
-      "relationship": "Continues",
-      "target-description": "Hutt news (1927)"
-    }
-  },
+  "links": {},
   "sources": {
+    "2026-08-03T05:01:46.453Z": "Removed self-referential link pointing to own record ID.",
+    "2026-08-03T05:01:33.559Z": "Resolved unknown target placeholder link(s) to numerical record ID(s).",
     "2022-01-18T04:19:28.900Z": "Updated Papers Past info using the nzn-paperspast-updater.js script.",
     "2014-05-07T09:47:28.000Z": "Modified by DataBot",
     "2013-04-02T08:58:38.000Z": "Extracted from the New Zealand National Bibliography (MARC record 3531224) downloaded March 2013."

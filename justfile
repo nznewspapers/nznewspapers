@@ -36,6 +36,10 @@ format:
 link-check:
     node scripts/test-reciprocal-links.js
 
+# Check canonical field order across paper JSON files
+json-order-check:
+    node scripts/test-canonical-field-order.js
+
 # Run linter, link check, build, and HTML validation before pushing
 pre-push:
     just lint

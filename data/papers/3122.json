@@ -12,13 +12,14 @@
   "placename": "Kaponga",
   "region": "Taranaki",
   "links": {
-    "unknown-1": {
+    "1835": {
       "direction": "Preceding",
       "relationship": "Continues",
       "target-description": "Kaponga mail and district advertiser"
     }
   },
   "sources": {
+    "2026-08-03T05:01:33.559Z": "Resolved unknown target placeholder link(s) to numerical record ID(s).",
     "2022-08-31T04:35:44.517Z": "Extracted from the New Zealand National Bibliography (MARC record 5095831) downloaded June 2022."
   },
   "revision": 1

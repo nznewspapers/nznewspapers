@@ -5,6 +5,8 @@
   "firstYear": "1875",
   "finalYear": "1877",
   "district": "Buller District",
+  "frequency": "Semiweekly",
+  "idMarcControlNumber": "8123557",
   "idNZNewspapersV1": "14292641",
   "isCurrent": false,
   "placecode": "11-01",
@@ -28,7 +30,5 @@
     "2026-08-03T04:13:03.129Z": "Merged metadata from duplicate MARC record 3063 into record 2296.",
     "2014-05-16T04:13:20.000Z": "Modified by gordon.paynter"
   },
-  "revision": 5,
-  "idMarcControlNumber": "8123557",
-  "frequency": "Semiweekly"
+  "revision": 5
 }

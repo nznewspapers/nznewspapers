@@ -31,11 +31,17 @@
       "direction": "Preceding",
       "relationship": "Formed by union",
       "target-description": "The Star"
+    },
+    "3098": {
+      "direction": "Preceding",
+      "target-description": "Christchurch Star",
+      "relationship": "Continues"
     }
   },
   "sources": {
-    "2013-04-02T08:58:38.000Z": "Extracted from the New Zealand National Bibliography (MARC record 8134935) downloaded March 2013.",
-    "2014-04-12T12:07:38.000Z": "Modified by gordon.paynter"
+    "2026-08-03T05:01:33.559Z": "Added reciprocal Preceding link to record 3098 (Christchurch Star).",
+    "2014-04-12T12:07:38.000Z": "Modified by gordon.paynter",
+    "2013-04-02T08:58:38.000Z": "Extracted from the New Zealand National Bibliography (MARC record 8134935) downloaded March 2013."
   },
   "revision": 8
 }

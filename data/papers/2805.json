@@ -4,7 +4,6 @@
   "genre": "Periodical",
   "firstYear": "1970",
   "finalYear": "2011",
-  "description": "Not a general interest newspaper: targeted at tourists.",
   "district": "Rotorua District",
   "frequency": "Weekly",
   "idMarcControlNumber": "4751032",
@@ -14,9 +13,10 @@
   "placename": "Rotorua",
   "price": "Gratis",
   "region": "Bay of Plenty",
+  "description": "Not a general interest newspaper: targeted at tourists.",
   "sources": {
-    "2013-04-02T08:58:38.000Z": "Extracted from the New Zealand National Bibliography (MARC record 4751032) downloaded March 2013.",
-    "2014-05-07T09:48:58.000Z": "Modified by DataBot"
+    "2014-05-07T09:48:58.000Z": "Modified by DataBot",
+    "2013-04-02T08:58:38.000Z": "Extracted from the New Zealand National Bibliography (MARC record 4751032) downloaded March 2013."
   },
   "revision": 8
 }

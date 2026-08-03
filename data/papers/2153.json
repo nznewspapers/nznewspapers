@@ -12,9 +12,17 @@
   "placecode": "09-08-wellington",
   "placename": "Wellington",
   "region": "Wellington",
+  "links": {
+    "2880": {
+      "direction": "Succeeding",
+      "target-description": "Newlands-Paparangi Times",
+      "relationship": "Continued by"
+    }
+  },
   "sources": {
-    "2013-04-02T08:58:38.000Z": "Extracted from the New Zealand National Bibliography (MARC record 8172894) downloaded March 2013.",
-    "2014-05-07T09:02:21.000Z": "Modified by DataBot"
+    "2026-08-03T05:01:33.559Z": "Added reciprocal Succeeding link to record 2880 (Newlands-Paparangi Times).",
+    "2014-05-07T09:02:21.000Z": "Modified by DataBot",
+    "2013-04-02T08:58:38.000Z": "Extracted from the New Zealand National Bibliography (MARC record 8172894) downloaded March 2013."
   },
   "revision": 4
 }

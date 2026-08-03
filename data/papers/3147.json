@@ -12,18 +12,19 @@
   "placename": "Blenheim",
   "region": "Top of the South",
   "links": {
-    "unknown-1": {
+    "2269": {
       "direction": "Preceding",
       "relationship": "Continues",
       "target-description": "Weekly Marlborough express"
     },
-    "unknown-2": {
+    "2271": {
       "direction": "Succeeding",
       "relationship": "Continued by",
       "target-description": "Marlborough weekly news"
     }
   },
   "sources": {
+    "2026-08-03T05:01:33.559Z": "Resolved unknown target placeholder link(s) to numerical record ID(s).",
     "2022-08-31T04:35:54.224Z": "Extracted from the New Zealand National Bibliography (MARC record 14770208) downloaded June 2022."
   },
   "revision": 1

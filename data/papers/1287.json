@@ -13,9 +13,17 @@
   "placename": "Auckland",
   "region": "Auckland",
   "urlCurrent": "http://nzdl.org/cgi-bin/library?gg=_cgiarggg_&e=d-00000-00---0niupepa--00-0--0-10-0---0---0prompt-10---4-------0-1l--11-en-50---20-about---00-0-1-00-11-1-0utfZz-8-00&a=d&c=niupepa&cl=CL1.3",
+  "links": {
+    "2724": {
+      "direction": "Succeeding",
+      "target-description": "Maori Messenger (1855)",
+      "relationship": "Continued by"
+    }
+  },
   "sources": {
-    "2013-04-02T08:58:38.000Z": "Extracted from the New Zealand National Bibliography (MARC record 3981667) downloaded March 2013.",
-    "2014-05-07T08:55:51.000Z": "Modified by DataBot"
+    "2026-08-03T05:01:33.559Z": "Added reciprocal Succeeding link to record 2724 (Maori Messenger (1855)).",
+    "2014-05-07T08:55:51.000Z": "Modified by DataBot",
+    "2013-04-02T08:58:38.000Z": "Extracted from the New Zealand National Bibliography (MARC record 3981667) downloaded March 2013."
   },
   "revision": 4
 }

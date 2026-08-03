@@ -13,6 +13,16 @@
   "placename": "Hamilton",
   "region": "Waikato",
   "links": {
+    "2788": {
+      "direction": "Succeeding",
+      "target-description": "Riversider (Hamilton)",
+      "relationship": "Continued by"
+    },
+    "2792": {
+      "direction": "Preceding",
+      "target-description": "Eastside Community News : Delivered to Homes Throughout Hamilton's Eastern Suburbs",
+      "relationship": "Continues"
+    },
     "undefined-unknown": {
       "direction": "Preceding",
       "relationship": "Continues",
@@ -20,8 +30,9 @@
     }
   },
   "sources": {
-    "2013-04-02T08:58:38.000Z": "Extracted from the New Zealand National Bibliography (MARC record 12835540) downloaded March 2013.",
-    "2014-05-07T08:48:42.000Z": "Modified by DataBot"
+    "2026-08-03T05:01:33.559Z": "Added reciprocal Preceding link to record 2792 (Eastside Community News : Delivered to Homes Throughout Hamilton's Eastern Suburbs).",
+    "2014-05-07T08:48:42.000Z": "Modified by DataBot",
+    "2013-04-02T08:58:38.000Z": "Extracted from the New Zealand National Bibliography (MARC record 12835540) downloaded March 2013."
   },
   "revision": 5
 }

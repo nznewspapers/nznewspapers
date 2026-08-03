@@ -12,18 +12,19 @@
   "placename": "Howick",
   "region": "Auckland",
   "links": {
+    "1224": {
+      "direction": "Succeeding",
+      "relationship": "Continued by",
+      "target-description": "Times midweek (Auckland, N.Z.)"
+    },
     "1409": {
       "direction": "Preceding",
       "relationship": "Continues",
       "target-description": "Remuera times"
-    },
-    "undefined-unknown": {
-      "direction": "Succeeding",
-      "relationship": "Continued by",
-      "target-description": "Times midweek (Auckland, N.Z.)"
     }
   },
   "sources": {
+    "2026-08-03T05:01:33.559Z": "Resolved unknown target placeholder link(s) to numerical record ID(s).",
     "2013-04-02T08:58:38.000Z": "Extracted from the New Zealand National Bibliography (MARC record 4076138) downloaded March 2013."
   },
   "revision": 4

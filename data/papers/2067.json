@@ -4,9 +4,6 @@
   "genre": "Newspaper",
   "firstYear": "2009",
   "finalYear": "9999",
-  "alternateTitle": {
-    "81580222": "Citylife Cook Strait News"
-  },
   "district": "Hutt City",
   "frequency": "Weekly",
   "idMarcControlNumber": "12846472",
@@ -16,6 +13,9 @@
   "placename": "Petone",
   "region": "Wellington",
   "urlCurrent": "http://cookstraitnews.co.nz/",
+  "alternateTitle": {
+    "81580222": "Citylife Cook Strait News"
+  },
   "links": {
     "2093": {
       "direction": "Preceding",
@@ -24,8 +24,8 @@
     }
   },
   "sources": {
-    "2013-04-02T08:58:38.000Z": "Extracted from the New Zealand National Bibliography (MARC record 12846472) downloaded March 2013.",
-    "2014-11-19T09:11:42.000Z": "Modified by gordon.paynter"
+    "2014-11-19T09:11:42.000Z": "Modified by gordon.paynter",
+    "2013-04-02T08:58:38.000Z": "Extracted from the New Zealand National Bibliography (MARC record 12846472) downloaded March 2013."
   },
   "revision": 7
 }

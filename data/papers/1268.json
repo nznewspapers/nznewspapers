@@ -24,15 +24,16 @@
       "relationship": "Continues",
       "target-description": "Aucklander (West ed.)"
     },
-    "undefined-unknown": {
+    "1275": {
       "direction": "Succeeding",
       "relationship": "Continued by",
       "target-description": "Aucklander.  West"
     }
   },
   "sources": {
-    "2013-04-02T08:58:38.000Z": "Extracted from the New Zealand National Bibliography (MARC record 12391083) downloaded March 2013.",
-    "2015-01-21T10:26:16.000Z": "Modified by gordon.paynter"
+    "2026-08-03T05:01:33.559Z": "Resolved unknown target placeholder link(s) to numerical record ID(s).",
+    "2015-01-21T10:26:16.000Z": "Modified by gordon.paynter",
+    "2013-04-02T08:58:38.000Z": "Extracted from the New Zealand National Bibliography (MARC record 12391083) downloaded March 2013."
   },
   "revision": 9
 }

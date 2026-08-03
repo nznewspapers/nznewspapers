@@ -5,8 +5,8 @@
   "firstYear": "1937",
   "finalYear": "1963",
   "district": "Palmerston North City",
-  "finalIssueDate": "1963-04-20",
   "firstIssueDate": "1937-01-23",
+  "finalIssueDate": "1963-04-20",
   "frequency": "Daily",
   "idMarcControlNumber": "8183995",
   "idNZNewspapersV1": "72147",
@@ -26,8 +26,8 @@
     }
   },
   "sources": {
-    "2013-04-02T08:58:38.000Z": "Extracted from the New Zealand National Bibliography (MARC record 8183995) downloaded March 2013.",
-    "2014-03-21T11:42:45.000Z": "Modified by DataBot"
+    "2014-03-21T11:42:45.000Z": "Modified by DataBot",
+    "2013-04-02T08:58:38.000Z": "Extracted from the New Zealand National Bibliography (MARC record 8183995) downloaded March 2013."
   },
   "revision": 10
 }

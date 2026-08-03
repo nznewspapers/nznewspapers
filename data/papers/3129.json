@@ -12,18 +12,19 @@
   "placename": "Stratford",
   "region": "Taranaki",
   "links": {
+    "1822": {
+      "direction": "Succeeding",
+      "relationship": "Merged",
+      "target-description": "Stratford evening post"
+    },
     "unknown-1": {
       "direction": "Succeeding",
       "relationship": "Merged",
       "target-description": "Egmont post"
-    },
-    "unknown-2": {
-      "direction": "Succeeding",
-      "relationship": "Merged",
-      "target-description": "Stratford evening post"
     }
   },
   "sources": {
+    "2026-08-03T05:01:33.559Z": "Resolved unknown target placeholder link(s) to numerical record ID(s).",
     "2022-08-31T04:35:46.916Z": "Extracted from the New Zealand National Bibliography (MARC record 5094525) downloaded June 2022."
   },
   "revision": 1

@@ -14,18 +14,19 @@
   "region": "Manawatu-Wanganui",
   "urlDigitized": "https://paperspast.natlib.govt.nz/newspapers/manawatu-standard",
   "links": {
-    "unknown-1": {
+    "1911": {
+      "direction": "Has Masthead",
+      "relationship": "Continued by",
+      "target-description": "Manawatu evening standard"
+    },
+    "3084": {
       "direction": "Preceding",
       "relationship": "Continues",
       "target-description": "Manawatu evening standard (1900)"
-    },
-    "unknown-2": {
-      "direction": "Succeeding",
-      "relationship": "Continued by",
-      "target-description": "Manawatu evening standard"
     }
   },
   "sources": {
+    "2026-08-03T05:01:33.559Z": "Resolved unknown target placeholder link(s) to numerical record ID(s).",
     "2026-07-30T06:12:02.553Z": "Updated Papers Past info using the nzn-paperspast-updater.js script.",
     "2022-08-31T04:35:34.302Z": "Extracted from the New Zealand National Bibliography (MARC record 12890080) downloaded June 2022."
   },

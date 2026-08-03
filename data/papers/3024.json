@@ -4,7 +4,6 @@
   "genre": "Other",
   "firstYear": "1872",
   "finalYear": "1932",
-  "description": "Record for a microfilm copy.",
   "district": "Wellington City",
   "frequency": "Daily",
   "idMarcControlNumber": "6941476",
@@ -15,6 +14,7 @@
   "placename": "Wellington",
   "region": "Wellington",
   "urlDigitized": "https://paperspast.natlib.govt.nz/newspapers/north-otago-times",
+  "description": "Record for a microfilm copy.",
   "sources": {
     "2026-07-30T06:12:02.554Z": "Updated Papers Past info using the nzn-paperspast-updater.js script.",
     "2014-05-07T08:52:16.000Z": "Modified by DataBot",

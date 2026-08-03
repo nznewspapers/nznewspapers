@@ -5,8 +5,8 @@
   "firstYear": "1939",
   "finalYear": "1939",
   "district": "Upper Hutt City",
-  "finalIssueDate": "1939-06-22",
   "firstIssueDate": "1939-01-06",
+  "finalIssueDate": "1939-06-22",
   "frequency": "Weekly",
   "idMarcControlNumber": "8184370",
   "idNZNewspapersV1": "10050",
@@ -27,8 +27,8 @@
     }
   },
   "sources": {
-    "2013-04-02T08:58:38.000Z": "Extracted from the New Zealand National Bibliography (MARC record 8184370) downloaded March 2013.",
-    "2014-05-07T09:21:39.000Z": "Modified by DataBot"
+    "2014-05-07T09:21:39.000Z": "Modified by DataBot",
+    "2013-04-02T08:58:38.000Z": "Extracted from the New Zealand National Bibliography (MARC record 8184370) downloaded March 2013."
   },
   "revision": 10
 }

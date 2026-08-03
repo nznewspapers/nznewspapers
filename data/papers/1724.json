@@ -4,7 +4,6 @@
   "genre": "Weekly Edition",
   "firstYear": "198u",
   "finalYear": "1995",
-  "description": "Supplement to Gisborne Herald",
   "district": "Gisborne District",
   "idMarcControlNumber": "3678316",
   "idNZNewspapersV1": "11011",
@@ -12,6 +11,7 @@
   "placecode": "05-01",
   "placename": "Gisborne",
   "region": "Gisborne",
+  "description": "Supplement to Gisborne Herald",
   "links": {
     "1720": {
       "direction": "Is Edition Of",
@@ -23,8 +23,8 @@
     }
   },
   "sources": {
-    "2013-04-02T08:58:38.000Z": "Extracted from the New Zealand National Bibliography (MARC record 3678316) downloaded March 2013.",
-    "2014-05-15T04:28:44.000Z": "Modified by DataBot"
+    "2014-05-15T04:28:44.000Z": "Modified by DataBot",
+    "2013-04-02T08:58:38.000Z": "Extracted from the New Zealand National Bibliography (MARC record 3678316) downloaded March 2013."
   },
   "revision": 6
 }

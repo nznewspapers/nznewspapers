@@ -4,9 +4,6 @@
   "genre": "Masthead",
   "firstYear": "1905",
   "finalYear": "1970",
-  "alternateTitle": {
-    "521019": "Manawatu Evening Standard, Pohangia County Advertiser and West Coast Gazette"
-  },
   "district": "Palmerston North City",
   "firstIssueDate": "1905-09-05",
   "frequency": "Daily",
@@ -18,6 +15,9 @@
   "placename": "Palmerston North",
   "region": "Manawatu-Wanganui",
   "urlDigitized": "https://paperspast.natlib.govt.nz/newspapers/manawatu-standard",
+  "alternateTitle": {
+    "521019": "Manawatu Evening Standard, Pohangia County Advertiser and West Coast Gazette"
+  },
   "links": {
     "1907": {
       "direction": "Is Masthead Of",
@@ -35,9 +35,14 @@
       "direction": "Preceding",
       "relationship": "Continues",
       "target-description": "Manawatu Evening Standard"
+    },
+    "3085": {
+      "direction": "Is Masthead Of",
+      "target-description": "Manawatu Standard"
     }
   },
   "sources": {
+    "2026-08-03T05:01:33.559Z": "Added reciprocal Is Masthead Of link to record 3085 (Manawatu Standard).",
     "2026-08-03T04:13:03.129Z": "Added sequential continuation link from earlier run #3084 (Manawatu Evening Standard).",
     "2022-01-18T04:19:28.915Z": "Updated Papers Past info using the nzn-paperspast-updater.js script.",
     "2014-03-21T11:37:28.000Z": "Modified by DataBot",

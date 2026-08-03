@@ -12,13 +12,14 @@
   "placename": "Henderson",
   "region": "Auckland",
   "links": {
-    "undefined-unknown": {
+    "1226": {
       "direction": "Succeeding",
       "relationship": "Continued by",
       "target-description": "Waitakere week west"
     }
   },
   "sources": {
+    "2026-08-03T05:01:33.559Z": "Resolved unknown target placeholder link(s) to numerical record ID(s).",
     "2013-04-02T08:58:38.000Z": "Extracted from the New Zealand National Bibliography (MARC record 4141569) downloaded March 2013."
   },
   "revision": 3

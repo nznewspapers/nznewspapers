@@ -5,9 +5,10 @@
   "firstYear": "1910",
   "finalYear": "1937",
   "district": "Hastings District",
-  "finalIssueDate": "1937-01-15",
   "firstIssueDate": "1910-12-12",
+  "finalIssueDate": "1937-01-15",
   "frequency": "Daily",
+  "idMarcControlNumber": "5095137",
   "idNZNewspapersV1": "11760016",
   "isCurrent": false,
   "placecode": "06-02",
@@ -28,6 +29,5 @@
     "2026-08-03T04:13:03.129Z": "Merged metadata from duplicate MARC record 3135 into record 1735.",
     "2014-04-10T10:14:02.000Z": "Modified by gordon.paynter"
   },
-  "revision": 10,
-  "idMarcControlNumber": "5095137"
+  "revision": 10
 }

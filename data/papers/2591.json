@@ -17,11 +17,17 @@
       "direction": "Succeeding",
       "relationship": "Incorporated By",
       "target-description": "Otago Daily Times"
+    },
+    "3137": {
+      "direction": "Preceding",
+      "target-description": "Guardian",
+      "relationship": "Continues"
     }
   },
   "sources": {
-    "2013-04-02T08:58:38.000Z": "Extracted from the New Zealand National Bibliography (MARC record 8177745) downloaded March 2013.",
-    "2014-04-12T12:38:30.000Z": "Modified by gordon.paynter"
+    "2026-08-03T05:01:33.559Z": "Added reciprocal Preceding link to record 3137 (Guardian).",
+    "2014-04-12T12:38:30.000Z": "Modified by gordon.paynter",
+    "2013-04-02T08:58:38.000Z": "Extracted from the New Zealand National Bibliography (MARC record 8177745) downloaded March 2013."
   },
   "revision": 5
 }

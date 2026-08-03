@@ -4,12 +4,9 @@
   "genre": "Masthead",
   "firstYear": "1880",
   "finalYear": "1886",
-  "alternateTitle": {
-    "514016": "The Manawatu Standard, Rangitikei Advertiser, and West Coast Gazette"
-  },
   "district": "Palmerston North City",
-  "finalIssueDate": "1886-05-03",
   "firstIssueDate": "1880-11-29",
+  "finalIssueDate": "1886-05-03",
   "frequency": "Daily",
   "idMarcControlNumber": "8164684",
   "idNZNewspapersV1": "66104",
@@ -19,6 +16,9 @@
   "placename": "Palmerston North",
   "region": "Manawatu-Wanganui",
   "urlDigitized": "https://paperspast.natlib.govt.nz/newspapers/manawatu-standard",
+  "alternateTitle": {
+    "514016": "The Manawatu Standard, Rangitikei Advertiser, and West Coast Gazette"
+  },
   "links": {
     "1907": {
       "direction": "Is Masthead Of",

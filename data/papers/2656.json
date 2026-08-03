@@ -4,7 +4,6 @@
   "genre": "Newspaper",
   "firstYear": "1862",
   "finalYear": "1864",
-  "description": "1862-11-02",
   "district": "Southland District",
   "finalIssueDate": "1864-03-07",
   "frequency": "Three issues per week",
@@ -16,6 +15,7 @@
   "placename": "Invercargill",
   "region": "Southland",
   "urlDigitized": "https://paperspast.natlib.govt.nz/newspapers/southland-times",
+  "description": "1862-11-02",
   "links": {
     "2663": {
       "direction": "Succeeding",

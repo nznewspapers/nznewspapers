@@ -4,7 +4,6 @@
   "genre": "Weekend Edition",
   "firstYear": "1983",
   "finalYear": "9999",
-  "description": "Friday supplement to Gisborne Herald",
   "district": "Gisborne District",
   "idMarcControlNumber": "3678317",
   "idNZNewspapersV1": "7013",
@@ -13,9 +12,10 @@
   "placename": "Gisborne",
   "price": "Gratis",
   "region": "Gisborne",
+  "description": "Friday supplement to Gisborne Herald",
   "sources": {
-    "2013-04-02T08:58:38.000Z": "Extracted from the New Zealand National Bibliography (MARC record 3678317) downloaded March 2013.",
-    "2014-05-15T04:28:50.000Z": "Modified by DataBot"
+    "2014-05-15T04:28:50.000Z": "Modified by DataBot",
+    "2013-04-02T08:58:38.000Z": "Extracted from the New Zealand National Bibliography (MARC record 3678317) downloaded March 2013."
   },
   "revision": 6
 }

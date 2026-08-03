@@ -6,6 +6,7 @@
   "finalYear": "1984",
   "district": "South Taranaki District",
   "frequency": "Daily",
+  "idMarcControlNumber": "5095132",
   "idNZNewspapersV1": "11810254",
   "idPapersPastCode": "HAWST",
   "isCurrent": false,
@@ -33,6 +34,5 @@
     "2022-01-18T04:19:28.892Z": "Updated Papers Past info using the nzn-paperspast-updater.js script.",
     "2014-04-10T11:38:06.000Z": "Modified by gordon.paynter"
   },
-  "revision": 8,
-  "idMarcControlNumber": "5095132"
+  "revision": 8
 }

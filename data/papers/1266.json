@@ -22,15 +22,16 @@
       "direction": "Is Edition Of",
       "target-description": "The Aucklander"
     },
-    "undefined-unknown": {
+    "1274": {
       "direction": "Succeeding",
       "relationship": "Continued by",
       "target-description": "Aucklander. South"
     }
   },
   "sources": {
-    "2013-04-02T08:58:38.000Z": "Extracted from the New Zealand National Bibliography (MARC record 12391084) downloaded March 2013.",
-    "2015-01-21T10:27:25.000Z": "Modified by gordon.paynter"
+    "2026-08-03T05:01:33.559Z": "Resolved unknown target placeholder link(s) to numerical record ID(s).",
+    "2015-01-21T10:27:25.000Z": "Modified by gordon.paynter",
+    "2013-04-02T08:58:38.000Z": "Extracted from the New Zealand National Bibliography (MARC record 12391084) downloaded March 2013."
   },
   "revision": 7
 }

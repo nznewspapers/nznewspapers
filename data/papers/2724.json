@@ -14,15 +14,16 @@
   "region": "Auckland",
   "urlCurrent": "http://nzdl.org/cgi-bin/library?gg=_cgiarggg_&e=d-00000-00---0niupepa--00-0--0-10-0---0---0prompt-10---4-------0-1l--11-en-50---20-about---00-0-1-00-11-1-0utfZz-8-00&a=d&c=niupepa&cl=CL1.4",
   "links": {
-    "undefined-unknown": {
+    "1287": {
       "direction": "Preceding",
       "relationship": "Continues",
       "target-description": "Maori messenger (1849)"
     }
   },
   "sources": {
-    "2013-04-02T08:58:38.000Z": "Extracted from the New Zealand National Bibliography (MARC record 4883430) downloaded March 2013.",
-    "2014-04-27T23:27:10.000Z": "Modified by DataBot"
+    "2026-08-03T05:01:33.559Z": "Resolved unknown target placeholder link(s) to numerical record ID(s).",
+    "2014-04-27T23:27:10.000Z": "Modified by DataBot",
+    "2013-04-02T08:58:38.000Z": "Extracted from the New Zealand National Bibliography (MARC record 4883430) downloaded March 2013."
   },
   "revision": 6
 }

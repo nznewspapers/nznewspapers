@@ -5,8 +5,8 @@
   "firstYear": "1900",
   "finalYear": "1960",
   "district": "Wellington City",
-  "finalIssueDate": "1960-11-02",
   "firstIssueDate": "1900-07-07",
+  "finalIssueDate": "1960-11-02",
   "frequency": "Weekly",
   "idMarcControlNumber": "8171579",
   "idNZNewspapersV1": "1045",
@@ -21,9 +21,15 @@
       "direction": "Preceding",
       "relationship": "Spun off from",
       "target-description": "The  New  Zealand Observer and  Free Lance"
+    },
+    "3054": {
+      "direction": "Succeeding",
+      "target-description": "New Zealand Free Lance",
+      "relationship": "Continued by"
     }
   },
   "sources": {
+    "2026-08-03T05:01:33.559Z": "Added reciprocal Succeeding link to record 3054 (New Zealand Free Lance).",
     "2022-01-18T04:19:28.887Z": "Updated Papers Past info using the nzn-paperspast-updater.js script.",
     "2014-05-07T09:18:01.000Z": "Modified by DataBot",
     "2013-04-02T08:58:38.000Z": "Extracted from the New Zealand National Bibliography (MARC record 8171579) downloaded March 2013."

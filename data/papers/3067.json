@@ -12,13 +12,14 @@
   "placename": "Arrowtown",
   "region": "Otago",
   "links": {
-    "unknown-1": {
+    "2556": {
       "direction": "Succeeding",
       "relationship": "Continued by",
       "target-description": "Lake County press"
     }
   },
   "sources": {
+    "2026-08-03T05:01:33.559Z": "Resolved unknown target placeholder link(s) to numerical record ID(s).",
     "2022-08-31T04:35:30.979Z": "Extracted from the New Zealand National Bibliography (MARC record 8123608) downloaded June 2022."
   },
   "revision": 1

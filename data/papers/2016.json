@@ -26,11 +26,17 @@
       "direction": "Preceding",
       "relationship": "Formed by the union",
       "target-description": "Chronicle"
+    },
+    "3104": {
+      "direction": "Succeeding",
+      "target-description": "Wairarapa News",
+      "relationship": "Continued by"
     }
   },
   "sources": {
-    "2013-04-02T08:58:38.000Z": "Extracted from the New Zealand National Bibliography (MARC record 4076140) downloaded March 2013.",
-    "2014-05-07T09:48:20.000Z": "Modified by DataBot"
+    "2026-08-03T05:01:33.559Z": "Added reciprocal Succeeding link to record 3104 (Wairarapa News).",
+    "2014-05-07T09:48:20.000Z": "Modified by DataBot",
+    "2013-04-02T08:58:38.000Z": "Extracted from the New Zealand National Bibliography (MARC record 4076140) downloaded March 2013."
   },
   "revision": 7
 }
