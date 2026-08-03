@@ -15,14 +15,15 @@
   "region": "Auckland",
   "links": {
     "1456": {
-      "direction": "Succeeding",
-      "relationship": "Unrelated",
-      "target-description": "Da ji yuan shi bao (Auckland, N.Z.). English. Epoch times"
+      "direction": "Has Edition",
+      "relationship": "Parallel Edition",
+      "target-description": "Epoch times (English edition)"
     }
   },
   "sources": {
-    "2013-04-02T08:58:38.000Z": "Extracted from the New Zealand National Bibliography (MARC record 7476615) downloaded March 2013.",
-    "2014-05-07T09:50:02.000Z": "Modified by DataBot"
+    "2026-08-03T13:43:50.000Z": "Added reciprocal Has Edition link to record 1456 (Epoch Times).",
+    "2014-05-07T09:50:02.000Z": "Modified by DataBot",
+    "2013-04-02T08:58:38.000Z": "Extracted from the New Zealand National Bibliography (MARC record 7476615) downloaded March 2013."
   },
-  "revision": 7
+  "revision": 8
 }
