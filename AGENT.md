@@ -45,6 +45,18 @@ When evaluating publications for inclusion or data updates, adhere strictly to t
 
 - **Papers Past Updates**: `nzn-paperspast-updater.js` updates existing newspaper records with digitisation URLs (`urlDigitized`) and Papers Past codes (`idPapersPastCode`) using `scripts/PapersPastNewspaperData.tsv`.
 
+### Provenance Notes for Data Changes
+
+- **Mandatory Provenance Entry**: Whenever creating or modifying any newspaper JSON file in `data/papers/<id>.json`, you MUST add (or prepend) a timestamped entry to the `"sources"` object documenting the edit.
+- **Short Description & Source**: Keep the description **concise** (1 sentence), and whenever possible, **explicitly include the source of information** (e.g. Papers Past essay, MARC record number, National Library catalogue, local newspaper notice, or issue tracker report).
+- **Format**: `"ISO-8601-Timestamp": "Short description of the edit including the source of information if available."`
+- **Example**:
+  ```json
+  "sources": {
+    "2026-08-03T13:43:50.000Z": "Fixed self-referential link typo to point to record 1446 (Da ji Yuan shi bao) based on MARC 780 field."
+  }
+  ```
+
 ### Deprecated Workflows
 
 - ❌ **National Bibliography MARC Updates**: `nzn-nat-bib-updater.js` and bulk MARC file imports (`PubsNZ.mrc`) are **DEPRECATED**. Do not automatically ingest raw MARC records.
