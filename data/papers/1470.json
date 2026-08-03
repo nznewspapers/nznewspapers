@@ -14,9 +14,9 @@
   "region": "Auckland",
   "links": {
     "1073": {
-      "direction": "Preceding",
-      "relationship": "Main edition",
-      "target-description": "New  Zealand Herald"
+      "direction": "Is Edition Of",
+      "relationship": "Minor Edition",
+      "target-description": "New Zealand Herald"
     }
   },
   "sources": {
