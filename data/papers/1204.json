@@ -18,9 +18,9 @@
       "target-description": "Coaster (1991)"
     },
     "3069": {
-      "direction": "Succeeding",
-      "target-description": "Coaster",
-      "relationship": "Continued by"
+      "direction": "Preceding",
+      "relationship": "Continues",
+      "target-description": "Coaster"
     }
   },
   "sources": {

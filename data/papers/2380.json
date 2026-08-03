@@ -20,9 +20,9 @@
   },
   "links": {
     "3143": {
-      "direction": "Succeeding",
-      "target-description": "The Akaroa Mail",
-      "relationship": "Continued by"
+      "direction": "Preceding",
+      "relationship": "Continues",
+      "target-description": "The Akaroa Mail"
     }
   },
   "sources": {
