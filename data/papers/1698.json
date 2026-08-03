@@ -14,6 +14,11 @@
   "region": "Gisborne",
   "urlCurrent": "http://nzdl.org/cgi-bin/library?gg=_cgiarggg_&e=d-00000-00---0niupepa--00-0--0-10-0---0---0prompt-10---4-------0-1l--11-en-50---20-about---00-0-1-00-11-1-0utfZz-8-00&a=d&c=niupepa&cl=CL1.17",
   "links": {
+    "1709": {
+      "direction": "Succeeding",
+      "target-description": "Te Waka Maori o Aotearoa",
+      "relationship": "Continued by"
+    },
     "2871": {
       "direction": "Preceding",
       "relationship": "Continues",
@@ -26,6 +31,7 @@
     }
   },
   "sources": {
+    "2026-08-03T05:13:26.062Z": "Added reciprocal Succeeding link to record 1709 (Te Waka Maori o Aotearoa).",
     "2014-05-07T09:12:09.000Z": "Modified by DataBot",
     "2013-04-02T08:58:38.000Z": "Extracted from the New Zealand National Bibliography (MARC record 4872878) downloaded March 2013."
   },

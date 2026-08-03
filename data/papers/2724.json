@@ -18,9 +18,15 @@
       "direction": "Preceding",
       "relationship": "Continues",
       "target-description": "Maori messenger (1849)"
+    },
+    "2727": {
+      "direction": "Succeeding",
+      "target-description": "Te Manuhiri Tuarangi and Maori Intelligencer",
+      "relationship": "Continued by"
     }
   },
   "sources": {
+    "2026-08-03T05:13:26.062Z": "Added reciprocal Succeeding link to record 2727 (Te Manuhiri Tuarangi and Maori Intelligencer).",
     "2026-08-03T05:01:33.559Z": "Resolved unknown target placeholder link(s) to numerical record ID(s).",
     "2014-04-27T23:27:10.000Z": "Modified by DataBot",
     "2013-04-02T08:58:38.000Z": "Extracted from the New Zealand National Bibliography (MARC record 4883430) downloaded March 2013."

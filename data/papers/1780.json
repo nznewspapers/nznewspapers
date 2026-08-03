@@ -13,13 +13,24 @@
   "placename": "Napier",
   "region": "Hawke's Bay",
   "links": {
+    "1748": {
+      "direction": "Preceding",
+      "target-description": "Leader (Hastings)",
+      "relationship": "Continues"
+    },
     "1754": {
       "direction": "Succeeding",
       "relationship": "Continued by",
       "target-description": "Hastings leader"
+    },
+    "1777": {
+      "direction": "Succeeding",
+      "target-description": "The Hastings Leader",
+      "relationship": "Continued by"
     }
   },
   "sources": {
+    "2026-08-03T05:13:26.062Z": "Added reciprocal Succeeding link to record 1777 (The Hastings Leader).",
     "2014-05-07T09:11:51.000Z": "Modified by DataBot",
     "2013-04-02T08:58:38.000Z": "Extracted from the New Zealand National Bibliography (MARC record 4785180) downloaded March 2013."
   },

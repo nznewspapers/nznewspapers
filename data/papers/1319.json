@@ -21,9 +21,15 @@
       "direction": "Preceding",
       "relationship": "Continues",
       "target-description": "Observer and  Free Lance"
+    },
+    "2128": {
+      "direction": "Succeeding",
+      "target-description": "Free Lance",
+      "relationship": "Continued by"
     }
   },
   "sources": {
+    "2026-08-03T05:13:26.062Z": "Added reciprocal Succeeding link to record 2128 (Free Lance).",
     "2022-01-18T04:19:28.946Z": "Updated Papers Past info using the nzn-paperspast-updater.js script.",
     "2014-05-07T09:13:04.000Z": "Modified by DataBot",
     "2013-04-02T08:58:38.000Z": "Extracted from the New Zealand National Bibliography (MARC record 6650493) downloaded March 2013."

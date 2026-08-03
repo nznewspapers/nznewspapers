@@ -13,7 +13,15 @@
   "placename": "Whitianga",
   "price": "Gratis",
   "region": "Waikato",
+  "links": {
+    "1499": {
+      "direction": "Succeeding",
+      "target-description": "Coromandel Peninsula Post",
+      "relationship": "Continued by"
+    }
+  },
   "sources": {
+    "2026-08-03T05:13:26.062Z": "Added reciprocal Succeeding link to record 1499 (Coromandel Peninsula Post).",
     "2014-05-07T09:50:38.000Z": "Modified by DataBot",
     "2013-04-02T08:58:38.000Z": "Extracted from the New Zealand National Bibliography (MARC record 8382851) downloaded March 2013."
   },

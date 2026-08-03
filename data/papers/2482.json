@@ -23,9 +23,15 @@
       "direction": "Preceding",
       "relationship": "Formed by the union",
       "target-description": "Western mail (Christchurch, N.Z.)"
+    },
+    "2495": {
+      "direction": "Succeeding",
+      "target-description": "Christchurch Mail (North-western Ed.)",
+      "relationship": "Continued by"
     }
   },
   "sources": {
+    "2026-08-03T05:13:26.062Z": "Added reciprocal Succeeding link to record 2495 (Christchurch Mail (North-western Ed.)).",
     "2014-05-07T09:50:29.000Z": "Modified by DataBot",
     "2013-04-02T08:58:38.000Z": "Extracted from the New Zealand National Bibliography (MARC record 8282002) downloaded March 2013."
   },

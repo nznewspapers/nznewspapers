@@ -21,9 +21,15 @@
       "direction": "Preceding",
       "relationship": "Continues",
       "target-description": "Remuera times"
+    },
+    "1454": {
+      "direction": "Succeeding",
+      "target-description": "Midweek",
+      "relationship": "Continued by"
     }
   },
   "sources": {
+    "2026-08-03T05:13:26.062Z": "Added reciprocal Succeeding link to record 1454 (Midweek).",
     "2026-08-03T05:01:33.559Z": "Resolved unknown target placeholder link(s) to numerical record ID(s).",
     "2013-04-02T08:58:38.000Z": "Extracted from the New Zealand National Bibliography (MARC record 4076138) downloaded March 2013."
   },

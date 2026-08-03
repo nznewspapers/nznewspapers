@@ -14,8 +14,9 @@
   "region": "Otago",
   "links": {
     "2694": {
-      "direction": "Has Masthead",
-      "target-description": "D  Scene (Taieri Ed.)"
+      "direction": "Has Edition",
+      "relationship": "Parallel Edition",
+      "target-description": "D Scene (Taieri Ed.)"
     }
   },
   "sources": {

@@ -13,7 +13,15 @@
   "placename": "Blenheim",
   "price": "Gratis",
   "region": "Top of the South",
+  "links": {
+    "2283": {
+      "direction": "Succeeding",
+      "target-description": "Sun",
+      "relationship": "Continued by"
+    }
+  },
   "sources": {
+    "2026-08-03T05:13:26.062Z": "Added reciprocal Succeeding link to record 2283 (Sun).",
     "2014-05-07T09:50:56.000Z": "Modified by DataBot",
     "2013-04-02T08:58:38.000Z": "Extracted from the New Zealand National Bibliography (MARC record 8440289) downloaded March 2013."
   },

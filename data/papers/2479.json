@@ -13,6 +13,11 @@
   "placename": "Christchurch",
   "region": "Canterbury",
   "links": {
+    "2463": {
+      "direction": "Preceding",
+      "target-description": "Christchurch Mail",
+      "relationship": "Continues"
+    },
     "2482": {
       "direction": "Succeeding",
       "relationship": "Merged",
@@ -25,6 +30,7 @@
     }
   },
   "sources": {
+    "2026-08-03T05:13:26.062Z": "Added reciprocal Preceding link to record 2463 (Christchurch Mail).",
     "2026-08-03T04:48:26.979Z": "Removed redundant horizontal co-predecessor link (2478).",
     "2014-05-07T09:13:10.000Z": "Modified by DataBot",
     "2013-04-02T08:58:38.000Z": "Extracted from the New Zealand National Bibliography (MARC record 6830286) downloaded March 2013."

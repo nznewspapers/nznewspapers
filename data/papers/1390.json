@@ -14,7 +14,15 @@
   "price": "Gratis",
   "region": "Auckland",
   "urlCurrent": "https://www.stuff.co.nz/auckland/local-news/western-leader",
+  "links": {
+    "1748": {
+      "direction": "Succeeding",
+      "target-description": "Leader (Hastings)",
+      "relationship": "Continued by"
+    }
+  },
   "sources": {
+    "2026-08-03T05:13:26.062Z": "Added reciprocal Succeeding link to record 1748 (Leader (Hastings)).",
     "2014-05-07T09:47:56.000Z": "Modified by DataBot",
     "2013-04-02T08:58:38.000Z": "Extracted from the New Zealand National Bibliography (MARC record 3604368) downloaded March 2013."
   },

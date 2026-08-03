@@ -20,9 +20,9 @@
       "target-description": "Feilding herald"
     },
     "1902": {
-      "direction": "Preceding",
-      "relationship": "Formed by the union",
-      "target-description": "Rangitikei mail"
+      "direction": "Succeeding",
+      "relationship": "Continued by",
+      "target-description": "Rangitikei Mail (2005)"
     },
     "3142": {
       "direction": "Preceding",

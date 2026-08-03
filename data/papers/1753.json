@@ -13,7 +13,25 @@
   "placename": "Hastings",
   "price": "Gratis",
   "region": "Hawke's Bay",
+  "links": {
+    "1754": {
+      "direction": "Succeeding",
+      "target-description": "Hastings Leader",
+      "relationship": "Continued by"
+    },
+    "1777": {
+      "direction": "Preceding",
+      "target-description": "The Hastings Leader",
+      "relationship": "Continues"
+    },
+    "2191": {
+      "direction": "Succeeding",
+      "target-description": "Upper Hutt Leader",
+      "relationship": "Continued by"
+    }
+  },
   "sources": {
+    "2026-08-03T05:13:26.062Z": "Added reciprocal Succeeding link to record 2191 (Upper Hutt Leader).",
     "2014-05-07T09:50:42.000Z": "Modified by DataBot",
     "2013-04-02T08:58:38.000Z": "Extracted from the New Zealand National Bibliography (MARC record 8421935) downloaded March 2013."
   },
