@@ -32,5 +32,19 @@ lint-html:
 format:
     npm run format
 
+# Check bidirectional consistency of paper links
+link-check:
+    node scripts/test-reciprocal-links.js
+
+# Run linter, link check, build, and HTML validation before pushing
+pre-push:
+    just lint
+    just link-check
+    just build
+    just lint-html
+
+
 # Run full rebuild sequence
 release: build
+
+

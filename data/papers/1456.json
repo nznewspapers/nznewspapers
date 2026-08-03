@@ -15,15 +15,16 @@
   "region": "Auckland",
   "urlCurrent": "http://www.theepochtimes.com/",
   "links": {
-    "1456": {
-      "direction": "Succeeding",
-      "relationship": "Unrelated",
+    "1446": {
+      "direction": "Is Edition Of",
+      "relationship": "Parallel Edition",
       "target-description": "Da ji yuan shi bao (Auckland, N.Z.)"
     }
   },
   "sources": {
-    "2013-04-02T08:58:38.000Z": "Extracted from the New Zealand National Bibliography (MARC record 10512037) downloaded March 2013.",
-    "2014-05-07T09:46:07.000Z": "Modified by DataBot"
+    "2026-08-03T13:43:50.000Z": "Fixed self-referential link typo to point to record 1446 (Da ji Yuan shi bao).",
+    "2014-05-07T09:46:07.000Z": "Modified by DataBot",
+    "2013-04-02T08:58:38.000Z": "Extracted from the New Zealand National Bibliography (MARC record 10512037) downloaded March 2013."
   },
-  "revision": 7
+  "revision": 8
 }
