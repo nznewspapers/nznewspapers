@@ -17,11 +17,17 @@
       "direction": "Preceding",
       "relationship": "Continues",
       "target-description": "Winton record"
+    },
+    "2967": {
+      "direction": "Preceding",
+      "target-description": "Winton Record",
+      "relationship": "Continues"
     }
   },
   "sources": {
-    "2013-04-02T08:58:38.000Z": "Extracted from the New Zealand National Bibliography (MARC record 12065522) downloaded March 2013.",
-    "2014-05-07T08:59:46.000Z": "Modified by DataBot"
+    "2026-08-03T05:13:26.062Z": "Added reciprocal Preceding link to record 2967 (Winton Record).",
+    "2014-05-07T08:59:46.000Z": "Modified by DataBot",
+    "2013-04-02T08:58:38.000Z": "Extracted from the New Zealand National Bibliography (MARC record 12065522) downloaded March 2013."
   },
   "revision": 5
 }

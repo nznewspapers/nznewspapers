@@ -13,15 +13,16 @@
   "placename": "Wellington",
   "region": "Wellington",
   "links": {
-    "undefined-unknown": {
+    "2896": {
       "direction": "Preceding",
       "relationship": "Continues",
       "target-description": "Review (New Zealand Returned Services' Association)"
     }
   },
   "sources": {
-    "2013-04-02T08:58:38.000Z": "Extracted from the New Zealand National Bibliography (MARC record 4812004) downloaded March 2013.",
-    "2014-05-07T09:03:49.000Z": "Modified by DataBot"
+    "2026-08-03T05:01:33.559Z": "Resolved unknown target placeholder link(s) to numerical record ID(s).",
+    "2014-05-07T09:03:49.000Z": "Modified by DataBot",
+    "2013-04-02T08:58:38.000Z": "Extracted from the New Zealand National Bibliography (MARC record 4812004) downloaded March 2013."
   },
   "revision": 5
 }

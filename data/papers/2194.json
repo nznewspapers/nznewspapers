@@ -12,13 +12,20 @@
   "placename": "Wellington",
   "region": "Wellington",
   "links": {
-    "undefined-unknown": {
+    "2082": {
       "direction": "Preceding",
       "relationship": "Continues",
       "target-description": "Karori and Western Suburbs news"
+    },
+    "2215": {
+      "direction": "Succeeding",
+      "target-description": "Citylife (West Ed.)",
+      "relationship": "Continued by"
     }
   },
   "sources": {
+    "2026-08-03T05:13:26.062Z": "Added reciprocal Succeeding link to record 2215 (Citylife (West Ed.)).",
+    "2026-08-03T05:01:33.559Z": "Resolved unknown target placeholder link(s) to numerical record ID(s).",
     "2013-04-02T08:58:38.000Z": "Extracted from the New Zealand National Bibliography (MARC record 3601381) downloaded March 2013."
   },
   "revision": 3

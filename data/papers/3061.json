@@ -12,23 +12,24 @@
   "placename": "Alexandra",
   "region": "Otago",
   "links": {
-    "unknown-1": {
+    "2557": {
       "direction": "Succeeding",
       "relationship": "Merged",
       "target-description": "Lake County mail"
     },
-    "unknown-2": {
+    "2562": {
       "direction": "Succeeding",
       "relationship": "Merged",
       "target-description": "Dunstan times"
     },
-    "unknown-3": {
+    "2568": {
       "direction": "Succeeding",
       "relationship": "Merged",
       "target-description": "Central Otago news"
     }
   },
   "sources": {
+    "2026-08-03T05:01:33.559Z": "Resolved unknown target placeholder link(s) to numerical record ID(s).",
     "2022-08-31T04:35:30.975Z": "Extracted from the New Zealand National Bibliography (MARC record 8123452) downloaded June 2022."
   },
   "revision": 1

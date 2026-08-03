@@ -14,8 +14,8 @@
   "price": "Gratis",
   "region": "Unknown Region",
   "sources": {
-    "2013-04-02T08:58:38.000Z": "Extracted from the New Zealand National Bibliography (MARC record 5170646) downloaded March 2013.",
-    "2014-05-07T09:49:41.000Z": "Modified by DataBot"
+    "2014-05-07T09:49:41.000Z": "Modified by DataBot",
+    "2013-04-02T08:58:38.000Z": "Extracted from the New Zealand National Bibliography (MARC record 5170646) downloaded March 2013."
   },
   "revision": 6
 }

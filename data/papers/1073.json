@@ -29,9 +29,20 @@
     "1455": {
       "direction": "Has Edition",
       "target-description": "Herald on Sunday"
+    },
+    "1470": {
+      "direction": "Has Edition",
+      "target-description": "New Zealand Herald (Auckland Ed.)",
+      "relationship": "Parallel Edition"
+    },
+    "2710": {
+      "direction": "Has Edition",
+      "target-description": "New Zealand Herald (South Auckland Ed.)",
+      "relationship": "Parallel Edition"
     }
   },
   "sources": {
+    "2026-08-03T05:13:26.062Z": "Added reciprocal Has Edition link to record 2710 (New Zealand Herald (South Auckland Ed.)).",
     "2022-01-18T04:19:28.938Z": "Updated Papers Past info using the nzn-paperspast-updater.js script.",
     "2015-01-21T10:39:14.000Z": "Modified by gordon.paynter",
     "2013-04-02T08:58:38.000Z": "Extracted from the New Zealand National Bibliography (MARC record 4875932) downloaded March 2013."

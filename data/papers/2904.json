@@ -18,16 +18,12 @@
       "direction": "Succeeding",
       "relationship": "Merged",
       "target-description": "Leader (Nelson, N.Z.)"
-    },
-    "2908": {
-      "direction": "Succeeding",
-      "relationship": "Merged",
-      "target-description": "Community leader (Nelson, N.Z.)"
     }
   },
   "sources": {
-    "2013-04-02T08:58:38.000Z": "Extracted from the New Zealand National Bibliography (MARC record 5044909) downloaded March 2013.",
-    "2014-05-07T09:49:36.000Z": "Modified by DataBot"
+    "2026-08-03T04:45:06.386Z": "Removed redundant horizontal co-predecessor links (2908) to standardize on DAG merger lineage.",
+    "2014-05-07T09:49:36.000Z": "Modified by DataBot",
+    "2013-04-02T08:58:38.000Z": "Extracted from the New Zealand National Bibliography (MARC record 5044909) downloaded March 2013."
   },
   "revision": 8
 }

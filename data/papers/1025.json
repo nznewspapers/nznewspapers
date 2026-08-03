@@ -12,9 +12,17 @@
   "placecode": "01-01",
   "placename": "Kaikohe",
   "region": "Northland",
+  "links": {
+    "3095": {
+      "direction": "Succeeding",
+      "target-description": "Chronicle",
+      "relationship": "Continued by"
+    }
+  },
   "sources": {
-    "2013-04-02T08:58:38.000Z": "Extracted from the New Zealand National Bibliography (MARC record 8131719) downloaded March 2013.",
-    "2014-05-07T08:56:47.000Z": "Modified by DataBot"
+    "2026-08-03T05:01:33.559Z": "Added reciprocal Succeeding link to record 3095 (Chronicle).",
+    "2014-05-07T08:56:47.000Z": "Modified by DataBot",
+    "2013-04-02T08:58:38.000Z": "Extracted from the New Zealand National Bibliography (MARC record 8131719) downloaded March 2013."
   },
   "revision": 4
 }

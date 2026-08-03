@@ -12,9 +12,17 @@
   "placecode": "12-07",
   "placename": "Twizel",
   "region": "Canterbury",
+  "links": {
+    "2516": {
+      "direction": "Succeeding",
+      "target-description": "Twizel Chronicle",
+      "relationship": "Continued by"
+    }
+  },
   "sources": {
-    "2013-04-02T08:58:38.000Z": "Extracted from the New Zealand National Bibliography (MARC record 8184351) downloaded March 2013.",
-    "2014-05-07T09:21:38.000Z": "Modified by DataBot"
+    "2026-08-03T05:01:33.559Z": "Added reciprocal Succeeding link to record 2516 (Twizel Chronicle).",
+    "2014-05-07T09:21:38.000Z": "Modified by DataBot",
+    "2013-04-02T08:58:38.000Z": "Extracted from the New Zealand National Bibliography (MARC record 8184351) downloaded March 2013."
   },
   "revision": 4
 }

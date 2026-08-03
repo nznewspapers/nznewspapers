@@ -14,13 +14,14 @@
   "region": "Otago",
   "links": {
     "2694": {
-      "direction": "Has Masthead",
-      "target-description": "D  Scene (Taieri Ed.)"
+      "direction": "Has Edition",
+      "relationship": "Parallel Edition",
+      "target-description": "D Scene (Taieri Ed.)"
     }
   },
   "sources": {
-    "2013-04-02T08:58:38.000Z": "Extracted from the New Zealand National Bibliography (MARC record 12133877) downloaded March 2013.",
-    "2014-05-31T10:25:21.000Z": "Modified by gordon.paynter"
+    "2014-05-31T10:25:21.000Z": "Modified by gordon.paynter",
+    "2013-04-02T08:58:38.000Z": "Extracted from the New Zealand National Bibliography (MARC record 12133877) downloaded March 2013."
   },
   "revision": 5
 }

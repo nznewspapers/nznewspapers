@@ -13,6 +13,11 @@
   "placename": "Auckland",
   "region": "Auckland",
   "links": {
+    "1462": {
+      "direction": "Succeeding",
+      "target-description": "Dong Fang Zhou kan",
+      "relationship": "Continued by"
+    },
     "undefined-unknown": {
       "direction": "Succeeding",
       "relationship": "Continued by",
@@ -20,8 +25,9 @@
     }
   },
   "sources": {
-    "2013-04-02T08:58:38.000Z": "Extracted from the New Zealand National Bibliography (MARC record 7949650) downloaded March 2013.",
-    "2014-05-07T09:13:37.000Z": "Modified by DataBot"
+    "2026-08-03T05:13:26.062Z": "Added reciprocal Succeeding link to record 1462 (Dong Fang Zhou kan).",
+    "2014-05-07T09:13:37.000Z": "Modified by DataBot",
+    "2013-04-02T08:58:38.000Z": "Extracted from the New Zealand National Bibliography (MARC record 7949650) downloaded March 2013."
   },
   "revision": 5
 }

@@ -13,9 +13,17 @@
   "placename": "Greymouth",
   "price": "Gratis",
   "region": "West Coast",
+  "links": {
+    "2319": {
+      "direction": "Preceding",
+      "target-description": "Coaster",
+      "relationship": "Continues"
+    }
+  },
   "sources": {
-    "2013-04-02T08:58:38.000Z": "Extracted from the New Zealand National Bibliography (MARC record 3227533) downloaded March 2013.",
-    "2014-05-07T09:47:01.000Z": "Modified by DataBot"
+    "2026-08-03T05:13:26.062Z": "Added reciprocal Preceding link to record 2319 (Coaster).",
+    "2014-05-07T09:47:01.000Z": "Modified by DataBot",
+    "2013-04-02T08:58:38.000Z": "Extracted from the New Zealand National Bibliography (MARC record 3227533) downloaded March 2013."
   },
   "revision": 6
 }

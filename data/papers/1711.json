@@ -4,9 +4,6 @@
   "genre": "Newspaper",
   "firstYear": "1887",
   "finalYear": "1894",
-  "alternateTitle": {
-    "450001": "New Zealand Standard and Cook County Gazette"
-  },
   "district": "Gisborne District",
   "frequency": "Three issues per week",
   "idMarcControlNumber": "8142273",
@@ -15,6 +12,9 @@
   "placecode": "05-01",
   "placename": "Gisborne",
   "region": "Gisborne",
+  "alternateTitle": {
+    "450001": "New Zealand Standard and Cook County Gazette"
+  },
   "links": {
     "1708": {
       "direction": "Preceding",
@@ -23,8 +23,8 @@
     }
   },
   "sources": {
-    "2013-04-02T08:58:38.000Z": "Extracted from the New Zealand National Bibliography (MARC record 8142273) downloaded March 2013.",
-    "2014-05-07T09:04:14.000Z": "Modified by DataBot"
+    "2014-05-07T09:04:14.000Z": "Modified by DataBot",
+    "2013-04-02T08:58:38.000Z": "Extracted from the New Zealand National Bibliography (MARC record 8142273) downloaded March 2013."
   },
   "revision": 7
 }

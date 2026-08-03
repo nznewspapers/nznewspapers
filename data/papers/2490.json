@@ -19,21 +19,6 @@
       "relationship": "Continues",
       "target-description": "Star community (Eastern)"
     },
-    "2491": {
-      "direction": "Succeeding",
-      "relationship": "Unrelated",
-      "target-description": "Star community news (Northern)"
-    },
-    "2492": {
-      "direction": "Succeeding",
-      "relationship": "Unrelated",
-      "target-description": "Star community news (Southern)"
-    },
-    "2493": {
-      "direction": "Succeeding",
-      "relationship": "Unrelated",
-      "target-description": "Star community news (Western)"
-    },
     "2500": {
       "direction": "Succeeding",
       "relationship": "Continued by",
@@ -41,8 +26,9 @@
     }
   },
   "sources": {
-    "2013-04-02T08:58:38.000Z": "Extracted from the New Zealand National Bibliography (MARC record 10831300) downloaded March 2013.",
-    "2014-05-07T09:46:19.000Z": "Modified by DataBot"
+    "2026-08-03T04:45:06.386Z": "Removed redundant horizontal co-predecessor links (2491, 2492, 2493) to standardize on DAG merger lineage.",
+    "2014-05-07T09:46:19.000Z": "Modified by DataBot",
+    "2013-04-02T08:58:38.000Z": "Extracted from the New Zealand National Bibliography (MARC record 10831300) downloaded March 2013."
   },
   "revision": 11
 }

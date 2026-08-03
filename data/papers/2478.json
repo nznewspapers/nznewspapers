@@ -13,10 +13,10 @@
   "placename": "Christchurch",
   "region": "Canterbury",
   "links": {
-    "2479": {
-      "direction": "Succeeding",
-      "relationship": "Merged",
-      "target-description": "Western mail (Christchurch, N.Z.)"
+    "2463": {
+      "direction": "Preceding",
+      "target-description": "Christchurch Mail",
+      "relationship": "Continues"
     },
     "2482": {
       "direction": "Succeeding",
@@ -24,14 +24,16 @@
       "target-description": "Christchurch mail (Waimairi, Papanui, Riccarton, Fendalton)"
     },
     "2495": {
-      "direction": "Preceding",
-      "relationship": "Continues in part",
-      "target-description": "Christchurch mail"
+      "direction": "Succeeding",
+      "relationship": "Continued by",
+      "target-description": "Christchurch Mail (North-western Ed.)"
     }
   },
   "sources": {
-    "2013-04-02T08:58:38.000Z": "Extracted from the New Zealand National Bibliography (MARC record 6830287) downloaded March 2013.",
-    "2014-05-07T09:13:11.000Z": "Modified by DataBot"
+    "2026-08-03T05:13:26.062Z": "Added reciprocal Preceding link to record 2463 (Christchurch Mail).",
+    "2026-08-03T04:48:26.979Z": "Removed redundant horizontal co-predecessor link (2479).",
+    "2014-05-07T09:13:11.000Z": "Modified by DataBot",
+    "2013-04-02T08:58:38.000Z": "Extracted from the New Zealand National Bibliography (MARC record 6830287) downloaded March 2013."
   },
   "revision": 7
 }

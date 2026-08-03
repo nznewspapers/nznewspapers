@@ -17,6 +17,11 @@
       "direction": "Preceding",
       "target-description": "Evening Star"
     },
+    "2628": {
+      "direction": "Has Edition",
+      "target-description": "Evening Star Dunedin Weekender",
+      "relationship": "Parallel Edition"
+    },
     "2633": {
       "direction": "Succeeding",
       "relationship": "Merged into",
@@ -24,8 +29,9 @@
     }
   },
   "sources": {
-    "2013-04-02T08:58:38.000Z": "Extracted from the New Zealand National Bibliography (MARC record 3531222) downloaded March 2013.",
-    "2014-06-01T09:33:02.000Z": "Modified by gordon.paynter"
+    "2026-08-03T05:13:26.062Z": "Added reciprocal Has Edition link to record 2628 (Evening Star Dunedin Weekender).",
+    "2014-06-01T09:33:02.000Z": "Modified by gordon.paynter",
+    "2013-04-02T08:58:38.000Z": "Extracted from the New Zealand National Bibliography (MARC record 3531222) downloaded March 2013."
   },
   "revision": 6
 }

@@ -23,9 +23,15 @@
       "direction": "Preceding",
       "relationship": "Incorporates",
       "target-description": "Sun"
+    },
+    "3099": {
+      "direction": "Preceding",
+      "target-description": "Auckland Evening Star",
+      "relationship": "Continues"
     }
   },
   "sources": {
+    "2026-08-03T05:01:33.559Z": "Added reciprocal Preceding link to record 3099 (Auckland Evening Star).",
     "2022-01-18T04:19:28.874Z": "Updated Papers Past info using the nzn-paperspast-updater.js script.",
     "2014-04-10T08:54:42.000Z": "Modified by gordon.paynter",
     "2013-04-02T08:58:38.000Z": "Extracted from the New Zealand National Bibliography (MARC record 3531156) downloaded March 2013."

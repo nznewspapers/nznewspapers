@@ -5,8 +5,8 @@
   "firstYear": "1842",
   "finalYear": "1842",
   "district": "Auckland",
-  "finalIssueDate": "1842-08-25",
   "firstIssueDate": "1842-06-27",
+  "finalIssueDate": "1842-08-25",
   "frequency": "Weekly",
   "idMarcControlNumber": "8131299",
   "idNZNewspapersV1": "63042",
@@ -15,8 +15,8 @@
   "placename": "Auckland",
   "region": "Auckland",
   "sources": {
-    "2013-04-02T08:58:38.000Z": "Extracted from the New Zealand National Bibliography (MARC record 8131299) downloaded March 2013.",
-    "2014-05-07T09:14:04.000Z": "Modified by DataBot"
+    "2014-05-07T09:14:04.000Z": "Modified by DataBot",
+    "2013-04-02T08:58:38.000Z": "Extracted from the New Zealand National Bibliography (MARC record 8131299) downloaded March 2013."
   },
   "revision": 8
 }

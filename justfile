@@ -36,12 +36,23 @@ format:
 link-check:
     node scripts/test-reciprocal-links.js
 
+# Check canonical field order across paper JSON files
+json-order-check:
+    node scripts/test-canonical-field-order.js
+
 # Run linter, link check, build, and HTML validation before pushing
 pre-push:
     just lint
     just link-check
     just build
     just lint-html
+
+# Run comprehensive data quality, graph cycle, and hygiene audits
+data-audit:
+    node scripts/test-canonical-field-order.js
+    node scripts/test-reciprocal-links.js
+    node scripts/verify-no-link-loops.js
+    node scripts/audit-data-hygiene.js
 
 
 # Run full rebuild sequence

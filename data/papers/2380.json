@@ -18,7 +18,16 @@
   "notes": {
     "108006": "Independent"
   },
+  "links": {
+    "3143": {
+      "direction": "Preceding",
+      "relationship": "Continues",
+      "target-description": "The Akaroa Mail"
+    }
+  },
   "sources": {
+    "2026-08-03T05:01:33.559Z": "Added reciprocal Succeeding link to record 3143 (The Akaroa Mail).",
+    "2026-08-03T04:13:03.129Z": "Merged metadata from duplicate MARC record 3144 into record 2380.",
     "2022-01-18T04:19:28.871Z": "Updated Papers Past info using the nzn-paperspast-updater.js script.",
     "2014-08-21T20:25:14.000Z": "Modified by gordon.paynter",
     "2013-04-02T08:58:38.000Z": "Extracted from the New Zealand National Bibliography (MARC record 3531235) downloaded March 2013."

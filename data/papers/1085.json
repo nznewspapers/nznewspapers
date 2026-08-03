@@ -6,6 +6,8 @@
   "finalYear": "1914",
   "district": "Auckland",
   "finalIssueDate": "1914-03-25",
+  "frequency": "Weekly",
+  "idMarcControlNumber": "5095826",
   "idNZNewspapersV1": "141010",
   "idPapersPastCode": "KWE",
   "isCurrent": false,
@@ -21,6 +23,7 @@
     }
   },
   "sources": {
+    "2026-08-03T04:13:03.129Z": "Merged metadata from duplicate MARC record 3070 into record 1085.",
     "2022-01-18T04:19:28.903Z": "Updated Papers Past info using the nzn-paperspast-updater.js script.",
     "2013-04-27T09:59:32.000Z": "Modified by gordon.paynter"
   },

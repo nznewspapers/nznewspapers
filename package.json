@@ -18,7 +18,8 @@
     "lint:html": "html-validate \"docs/**/*.html\"",
     "lint:prettier": "prettier --check \"src/**/*.{njk,css,js}\" \"*.md\"",
     "lint:js": "eslint \"src/_data/**/*.js\" \"scripts/**/*.js\"",
-    "lint": "npm run lint:prettier && npm run lint:js",
+    "lint:json": "node scripts/test-canonical-field-order.js",
+    "lint": "npm run lint:prettier && npm run lint:js && npm run lint:json",
     "format": "prettier --write \"src/**/*.{njk,css,js}\" \"*.md\""
   },
   "devDependencies": {

@@ -14,14 +14,21 @@
   "region": "Canterbury",
   "urlCurrent": "http://timarucourier.co.nz/",
   "links": {
+    "2511": {
+      "direction": "Succeeding",
+      "target-description": "Ashburton's the Courier",
+      "relationship": "Continued by"
+    },
     "2528": {
       "direction": "Continues",
       "target-description": "Timaru's the  Courier"
     }
   },
   "sources": {
-    "2013-04-02T08:58:38.000Z": "Extracted from the New Zealand National Bibliography (MARC record 4208475) downloaded March 2013.",
-    "2014-05-07T10:05:25.000Z": "Modified by gordon.paynter"
+    "2026-08-03T14:25:30.000Z": "Merged metadata from duplicate MARC record 3028 into record 2530.",
+    "2026-08-03T05:13:26.062Z": "Added reciprocal Succeeding link to record 2511 (Ashburton's the Courier).",
+    "2014-05-07T10:05:25.000Z": "Modified by gordon.paynter",
+    "2013-04-02T08:58:38.000Z": "Extracted from the New Zealand National Bibliography (MARC record 4208475) downloaded March 2013."
   },
-  "revision": 5
+  "revision": 6
 }

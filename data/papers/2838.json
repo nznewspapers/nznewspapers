@@ -13,15 +13,22 @@
   "placename": "Palmerston North",
   "region": "Manawatu-Wanganui",
   "links": {
-    "undefined-unknown": {
+    "1920": {
       "direction": "Preceding",
       "relationship": "Absorbed",
       "target-description": "Manawatu farmer"
+    },
+    "2837": {
+      "direction": "Preceding",
+      "target-description": "Wanganui Rangitikei Farmer : the Monthly Rural Newspaper Covering Farmers in the Wanganui and Rangitikei Farming Districts",
+      "relationship": "Continues"
     }
   },
   "sources": {
-    "2013-04-02T08:58:38.000Z": "Extracted from the New Zealand National Bibliography (MARC record 4025531) downloaded March 2013.",
-    "2014-05-07T09:00:11.000Z": "Modified by DataBot"
+    "2026-08-03T05:13:26.062Z": "Added reciprocal Preceding link to record 2837 (Wanganui Rangitikei Farmer : the Monthly Rural Newspaper Covering Farmers in the Wanganui and Rangitikei Farming Districts).",
+    "2026-08-03T05:01:33.559Z": "Resolved unknown target placeholder link(s) to numerical record ID(s).",
+    "2014-05-07T09:00:11.000Z": "Modified by DataBot",
+    "2013-04-02T08:58:38.000Z": "Extracted from the New Zealand National Bibliography (MARC record 4025531) downloaded March 2013."
   },
   "revision": 6
 }

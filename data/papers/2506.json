@@ -14,14 +14,15 @@
   "region": "Canterbury",
   "links": {
     "2411": {
-      "direction": "Succeeding",
-      "relationship": "Unrelated",
-      "target-description": "Press (Christchurch, N.Z.)"
+      "direction": "Is Edition Of",
+      "relationship": "Parallel Edition",
+      "target-description": "The Press"
     }
   },
   "sources": {
-    "2013-04-02T08:58:38.000Z": "Extracted from the New Zealand National Bibliography (MARC record 12878483) downloaded March 2013.",
-    "2014-03-21T11:45:34.000Z": "Modified by DataBot"
+    "2026-08-03T04:48:26.979Z": "Updated link direction to 2411 (The Press) to Is Edition Of.",
+    "2014-03-21T11:45:34.000Z": "Modified by DataBot",
+    "2013-04-02T08:58:38.000Z": "Extracted from the New Zealand National Bibliography (MARC record 12878483) downloaded March 2013."
   },
   "revision": 5
 }

@@ -14,6 +14,31 @@
   "price": "Gratis",
   "region": "Canterbury",
   "links": {
+    "2454": {
+      "direction": "Preceding",
+      "target-description": "Christchurch Mid-week Mail",
+      "relationship": "Continues"
+    },
+    "2476": {
+      "direction": "Preceding",
+      "relationship": "Continues",
+      "target-description": "Christchurch Southern Mail"
+    },
+    "2477": {
+      "direction": "Preceding",
+      "relationship": "Continues",
+      "target-description": "Eastern Mail"
+    },
+    "2478": {
+      "direction": "Preceding",
+      "relationship": "Continues",
+      "target-description": "Northern Mail"
+    },
+    "2479": {
+      "direction": "Preceding",
+      "relationship": "Continues",
+      "target-description": "Western Mail"
+    },
     "2482": {
       "direction": "Preceding",
       "relationship": "Continues",
@@ -21,8 +46,9 @@
     }
   },
   "sources": {
-    "2013-04-02T08:58:38.000Z": "Extracted from the New Zealand National Bibliography (MARC record 12374192) downloaded March 2013.",
-    "2014-05-07T09:46:44.000Z": "Modified by DataBot"
+    "2026-08-03T05:13:26.062Z": "Added reciprocal Succeeding link to record 2479 (Western Mail).",
+    "2014-05-07T09:46:44.000Z": "Modified by DataBot",
+    "2013-04-02T08:58:38.000Z": "Extracted from the New Zealand National Bibliography (MARC record 12374192) downloaded March 2013."
   },
   "revision": 7
 }

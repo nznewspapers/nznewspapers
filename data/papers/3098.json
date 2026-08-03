@@ -12,6 +12,21 @@
   "placename": "Christchurch",
   "region": "Canterbury",
   "links": {
+    "2385": {
+      "direction": "Succeeding",
+      "relationship": "Merged",
+      "target-description": "Christchurch times"
+    },
+    "2387": {
+      "direction": "Succeeding",
+      "relationship": "Continued by",
+      "target-description": "Christchurch Star"
+    },
+    "2431": {
+      "direction": "Succeeding",
+      "relationship": "Merged",
+      "target-description": "Christchurch star-sun"
+    },
     "unknown-1": {
       "direction": "Preceding",
       "relationship": "Continues",
@@ -21,19 +36,11 @@
       "direction": "Succeeding",
       "relationship": "Merged",
       "target-description": "Sun (Christchurch, N.Z. : 1914)"
-    },
-    "unknown-3": {
-      "direction": "Succeeding",
-      "relationship": "Merged",
-      "target-description": "Christchurch times"
-    },
-    "unknown-4": {
-      "direction": "Succeeding",
-      "relationship": "Merged",
-      "target-description": "Christchurch star-sun"
     }
   },
   "sources": {
+    "2026-08-03T05:01:33.559Z": "Resolved unknown target placeholder link(s) to numerical record ID(s).",
+    "2026-08-03T04:13:03.129Z": "Added sequential continuation link to later run #2387 (Christchurch Star).",
     "2022-08-31T04:35:39.750Z": "Extracted from the New Zealand National Bibliography (MARC record 8127551) downloaded June 2022."
   },
   "revision": 1

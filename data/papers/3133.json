@@ -14,13 +14,14 @@
   "region": "Wellington",
   "urlDigitized": "https://paperspast.natlib.govt.nz/newspapers/otaki-mail",
   "links": {
-    "unknown-1": {
+    "1996": {
       "direction": "Preceding",
       "relationship": "Continues",
       "target-description": "West Coast mail (Otaki, N.Z.)"
     }
   },
   "sources": {
+    "2026-08-03T05:01:33.559Z": "Resolved unknown target placeholder link(s) to numerical record ID(s).",
     "2026-07-30T06:12:02.554Z": "Updated Papers Past info using the nzn-paperspast-updater.js script.",
     "2022-08-31T04:35:47.356Z": "Extracted from the New Zealand National Bibliography (MARC record 8130471) downloaded June 2022."
   },

@@ -14,30 +14,22 @@
   "price": "Gratis",
   "region": "Auckland",
   "links": {
-    "1232": {
-      "direction": "Succeeding",
-      "relationship": "Merged",
-      "target-description": "Our town Papakura"
+    "1227": {
+      "direction": "Preceding",
+      "relationship": "Continues",
+      "target-description": "Papatoetoe week"
     },
     "1248": {
       "direction": "Succeeding",
       "relationship": "Continued by",
       "target-description": "Aucklander (South ed.)"
-    },
-    "1418": {
-      "direction": "Succeeding",
-      "relationship": "Merged",
-      "target-description": "Manurewa week"
-    },
-    "undefined-unknown": {
-      "direction": "Preceding",
-      "relationship": "Continues",
-      "target-description": "Papatoetoe week"
     }
   },
   "sources": {
-    "2013-04-02T08:58:38.000Z": "Extracted from the New Zealand National Bibliography (MARC record 4788287) downloaded March 2013.",
-    "2014-05-07T09:49:12.000Z": "Modified by DataBot"
+    "2026-08-03T05:01:33.559Z": "Resolved unknown target placeholder link(s) to numerical record ID(s).",
+    "2026-08-03T04:48:26.979Z": "Removed redundant horizontal co-predecessor link (1232, 1418).",
+    "2014-05-07T09:49:12.000Z": "Modified by DataBot",
+    "2013-04-02T08:58:38.000Z": "Extracted from the New Zealand National Bibliography (MARC record 4788287) downloaded March 2013."
   },
   "revision": 10
 }

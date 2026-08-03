@@ -4,9 +4,6 @@
   "genre": "Newspaper",
   "firstYear": "1883",
   "finalYear": "1937",
-  "alternateTitle": {
-    "458001": "East Coast Gazette"
-  },
   "district": "Opotiki District",
   "frequency": "Two issues per week",
   "idMarcControlNumber": "8177728",
@@ -15,9 +12,20 @@
   "placecode": "04-03",
   "placename": "Opotiki",
   "region": "Bay of Plenty",
+  "alternateTitle": {
+    "458001": "East Coast Gazette"
+  },
+  "links": {
+    "1659": {
+      "direction": "Succeeding",
+      "target-description": "East Coast Gazette",
+      "relationship": "Continued by"
+    }
+  },
   "sources": {
-    "2013-04-02T08:58:38.000Z": "Extracted from the New Zealand National Bibliography (MARC record 8177728) downloaded March 2013.",
-    "2014-05-07T09:06:59.000Z": "Modified by DataBot"
+    "2026-08-03T05:13:26.062Z": "Added reciprocal Succeeding link to record 1659 (East Coast Gazette).",
+    "2014-05-07T09:06:59.000Z": "Modified by DataBot",
+    "2013-04-02T08:58:38.000Z": "Extracted from the New Zealand National Bibliography (MARC record 8177728) downloaded March 2013."
   },
   "revision": 6
 }

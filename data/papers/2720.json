@@ -14,10 +14,10 @@
   "price": "Gratis",
   "region": "Auckland",
   "links": {
-    "2721": {
+    "2719": {
       "direction": "Succeeding",
-      "relationship": "Unrelated",
-      "target-description": "Local matters (Wellsford, Kaiwaka, Mangawhai)"
+      "target-description": "Mahurangi Matters : Your Local Community Newspaper",
+      "relationship": "Continued by"
     },
     "undefined-unknown": {
       "direction": "Succeeding",
@@ -26,8 +26,10 @@
     }
   },
   "sources": {
-    "2013-04-02T08:58:38.000Z": "Extracted from the New Zealand National Bibliography (MARC record 8251625) downloaded March 2013.",
-    "2014-05-07T09:50:18.000Z": "Modified by DataBot"
+    "2026-08-03T05:13:26.062Z": "Added reciprocal Succeeding link to record 2719 (Mahurangi Matters : Your Local Community Newspaper).",
+    "2026-08-03T04:45:06.386Z": "Removed redundant horizontal co-predecessor links (2721) to standardize on DAG merger lineage.",
+    "2014-05-07T09:50:18.000Z": "Modified by DataBot",
+    "2013-04-02T08:58:38.000Z": "Extracted from the New Zealand National Bibliography (MARC record 8251625) downloaded March 2013."
   },
   "revision": 8
 }

@@ -18,11 +18,17 @@
     "1249": {
       "direction": "Is Edition Of",
       "target-description": "The Aucklander"
+    },
+    "1268": {
+      "direction": "Succeeding",
+      "target-description": "The Aucklander Waitakere",
+      "relationship": "Continued by"
     }
   },
   "sources": {
-    "2013-04-02T08:58:38.000Z": "Extracted from the New Zealand National Bibliography (MARC record 7978304) downloaded March 2013.",
-    "2015-01-21T10:26:21.000Z": "Modified by gordon.paynter"
+    "2026-08-03T05:13:26.062Z": "Added reciprocal Succeeding link to record 1268 (The Aucklander Waitakere).",
+    "2015-01-21T10:26:21.000Z": "Modified by gordon.paynter",
+    "2013-04-02T08:58:38.000Z": "Extracted from the New Zealand National Bibliography (MARC record 7978304) downloaded March 2013."
   },
   "revision": 7
 }

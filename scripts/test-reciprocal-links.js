@@ -58,6 +58,10 @@ function runTest() {
       Object.entries(paper.links).forEach(([targetId, linkObj]) => {
         totalLinksChecked++;
         const targetStr = String(targetId);
+        // Skip non-numeric external text placeholders (e.g. unknown-1, undefined-unknown)
+        if (isNaN(Number(targetId))) {
+          return;
+        }
         const targetPaper = papersMap.get(targetStr);
 
         if (!targetPaper) {

@@ -12,9 +12,17 @@
   "placecode": "12-05",
   "placename": "Riccarton",
   "region": "Canterbury",
+  "links": {
+    "2458": {
+      "direction": "Succeeding",
+      "target-description": "Riccarton News",
+      "relationship": "Continued by"
+    }
+  },
   "sources": {
-    "2013-04-02T08:58:38.000Z": "Extracted from the New Zealand National Bibliography (MARC record 8181448) downloaded March 2013.",
-    "2014-05-07T09:02:48.000Z": "Modified by DataBot"
+    "2026-08-03T05:01:33.559Z": "Added reciprocal Succeeding link to record 2458 (Riccarton News).",
+    "2014-05-07T09:02:48.000Z": "Modified by DataBot",
+    "2013-04-02T08:58:38.000Z": "Extracted from the New Zealand National Bibliography (MARC record 8181448) downloaded March 2013."
   },
   "revision": 4
 }

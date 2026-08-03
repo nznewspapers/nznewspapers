@@ -14,15 +14,21 @@
   "price": "Gratis",
   "region": "Canterbury",
   "links": {
-    "2536": {
+    "2527": {
       "direction": "Preceding",
-      "relationship": "Continues in part",
-      "target-description": "High Country herald"
+      "target-description": "High Country Herald",
+      "relationship": "Continues"
+    },
+    "2536": {
+      "direction": "Succeeding",
+      "relationship": "Continued by",
+      "target-description": "High Country Herald (2007)"
     }
   },
   "sources": {
-    "2013-04-02T08:58:38.000Z": "Extracted from the New Zealand National Bibliography (MARC record 8261084) downloaded March 2013.",
-    "2014-05-07T09:50:21.000Z": "Modified by DataBot"
+    "2026-08-03T05:13:26.062Z": "Added reciprocal Preceding link to record 2527 (High Country Herald).",
+    "2014-05-07T09:50:21.000Z": "Modified by DataBot",
+    "2013-04-02T08:58:38.000Z": "Extracted from the New Zealand National Bibliography (MARC record 8261084) downloaded March 2013."
   },
   "revision": 8
 }

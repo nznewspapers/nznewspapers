@@ -24,11 +24,17 @@
       "direction": "Preceding",
       "relationship": "Formed by the union",
       "target-description": "The Dominion"
+    },
+    "2205": {
+      "direction": "Preceding",
+      "target-description": "NZ InfoTech",
+      "relationship": "Continues"
     }
   },
   "sources": {
-    "2013-04-02T08:58:38.000Z": "Extracted from the New Zealand National Bibliography (MARC record 7026977) downloaded March 2013.",
-    "2014-03-21T11:49:00.000Z": "Modified by DataBot"
+    "2026-08-03T05:13:26.062Z": "Added reciprocal Preceding link to record 2205 (NZ InfoTech).",
+    "2014-03-21T11:49:00.000Z": "Modified by DataBot",
+    "2013-04-02T08:58:38.000Z": "Extracted from the New Zealand National Bibliography (MARC record 7026977) downloaded March 2013."
   },
   "revision": 8
 }

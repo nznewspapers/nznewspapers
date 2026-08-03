@@ -12,9 +12,22 @@
   "placecode": "02-01",
   "placename": "Otahuhu",
   "region": "Auckland",
+  "links": {
+    "1408": {
+      "direction": "Succeeding",
+      "target-description": "Eastern Courier (1986)",
+      "relationship": "Continued by"
+    },
+    "3092": {
+      "direction": "Preceding",
+      "target-description": "Eastern Courier",
+      "relationship": "Continues"
+    }
+  },
   "sources": {
-    "2013-04-02T08:58:38.000Z": "Extracted from the New Zealand National Bibliography (MARC record 8137253) downloaded March 2013.",
-    "2014-05-07T09:14:41.000Z": "Modified by DataBot"
+    "2026-08-03T05:01:33.559Z": "Added reciprocal Preceding link to record 3092 (Eastern Courier).",
+    "2014-05-07T09:14:41.000Z": "Modified by DataBot",
+    "2013-04-02T08:58:38.000Z": "Extracted from the New Zealand National Bibliography (MARC record 8137253) downloaded March 2013."
   },
   "revision": 4
 }

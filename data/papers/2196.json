@@ -18,15 +18,16 @@
       "relationship": "Continued by",
       "target-description": "Learning Connexion (Series)"
     },
-    "undefined-unknown": {
+    "2889": {
       "direction": "Preceding",
       "relationship": "Continues",
       "target-description": "Art & creativity"
     }
   },
   "sources": {
-    "2013-04-02T08:58:38.000Z": "Extracted from the New Zealand National Bibliography (MARC record 3822654) downloaded March 2013.",
-    "2014-05-07T08:58:49.000Z": "Modified by DataBot"
+    "2026-08-03T04:29:56.736Z": "Resolved reciprocal Preceding link to record 2889 (Art & Creativity).",
+    "2014-05-07T08:58:49.000Z": "Modified by DataBot",
+    "2013-04-02T08:58:38.000Z": "Extracted from the New Zealand National Bibliography (MARC record 3822654) downloaded March 2013."
   },
   "revision": 6
 }

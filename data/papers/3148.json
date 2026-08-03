@@ -12,15 +12,15 @@
   "placename": "Wellington",
   "region": "Wellington",
   "links": {
-    "unknown-1": {
-      "direction": "Preceding",
-      "relationship": "Continues",
-      "target-description": "Eastern news (Wellington, N.Z.)"
-    },
-    "unknown-2": {
+    "2181": {
       "direction": "Preceding",
       "relationship": "Continues",
       "target-description": "Southern news (Wellington, N.Z.)"
+    },
+    "2192": {
+      "direction": "Preceding",
+      "relationship": "Continues",
+      "target-description": "Eastern news (Wellington, N.Z.)"
     },
     "unknown-3": {
       "direction": "Succeeding",
@@ -29,6 +29,7 @@
     }
   },
   "sources": {
+    "2026-08-03T05:01:33.559Z": "Resolved unknown target placeholder link(s) to numerical record ID(s).",
     "2022-08-31T04:35:54.295Z": "Extracted from the New Zealand National Bibliography (MARC record 8127605) downloaded June 2022."
   },
   "revision": 1

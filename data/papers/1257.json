@@ -13,11 +13,6 @@
   "placename": "Auckland",
   "region": "Auckland",
   "links": {
-    "1244": {
-      "direction": "Succeeding",
-      "relationship": "Merged",
-      "target-description": "Aucklander (North ed.)"
-    },
     "1249": {
       "direction": "Is Edition Of",
       "target-description": "The Aucklander"
@@ -29,8 +24,9 @@
     }
   },
   "sources": {
-    "2013-04-02T08:58:38.000Z": "Extracted from the New Zealand National Bibliography (MARC record 10512365) downloaded March 2013.",
-    "2015-01-21T10:26:26.000Z": "Modified by gordon.paynter"
+    "2026-08-03T04:48:26.979Z": "Removed inter-edition horizontal mesh links between Aucklander regional editions.",
+    "2015-01-21T10:26:26.000Z": "Modified by gordon.paynter",
+    "2013-04-02T08:58:38.000Z": "Extracted from the New Zealand National Bibliography (MARC record 10512365) downloaded March 2013."
   },
   "revision": 8
 }

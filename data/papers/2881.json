@@ -13,15 +13,16 @@
   "placename": "Wellington",
   "region": "Wellington",
   "links": {
-    "undefined-unknown": {
+    "2882": {
       "direction": "Succeeding",
       "relationship": "Continued by",
-      "target-description": "Northern farm review"
+      "target-description": "Northern farm review incorporating farming world"
     }
   },
   "sources": {
-    "2013-04-02T08:58:38.000Z": "Extracted from the New Zealand National Bibliography (MARC record 13250692) downloaded March 2013.",
-    "2014-05-07T08:59:51.000Z": "Modified by DataBot"
+    "2026-08-03T04:29:56.736Z": "Resolved reciprocal Succeeding link to record 2882 (Northern Farm Review).",
+    "2014-05-07T08:59:51.000Z": "Modified by DataBot",
+    "2013-04-02T08:58:38.000Z": "Extracted from the New Zealand National Bibliography (MARC record 13250692) downloaded March 2013."
   },
   "revision": 5
 }

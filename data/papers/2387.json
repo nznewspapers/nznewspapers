@@ -31,9 +31,15 @@
     "2489": {
       "direction": "Continued By",
       "target-description": "The Star"
+    },
+    "3098": {
+      "direction": "Preceding",
+      "relationship": "Continues",
+      "target-description": "Christchurch Star"
     }
   },
   "sources": {
+    "2026-08-03T04:13:03.129Z": "Added sequential continuation link from earlier run #3098 (Christchurch Star).",
     "2014-04-12T12:05:06.000Z": "Modified by Linkerbot"
   },
   "revision": 7

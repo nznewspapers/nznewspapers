@@ -12,7 +12,7 @@
   "placename": "Carterton",
   "region": "Wellington",
   "links": {
-    "unknown-1": {
+    "2016": {
       "direction": "Preceding",
       "relationship": "Continues",
       "target-description": "Wairarapa news & the chronicle"
@@ -20,6 +20,7 @@
   },
   "sources": {
     "2026-08-03T07:05:49.000Z": "Updated publication location to Carterton (Carterton District, Wellington).",
+    "2026-08-03T05:01:33.559Z": "Resolved unknown target placeholder link(s) to numerical record ID(s).",
     "2022-08-31T04:35:40.663Z": "Extracted from the New Zealand National Bibliography (MARC record 8131069) downloaded June 2022."
   },
   "revision": 2

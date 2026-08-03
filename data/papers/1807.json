@@ -17,14 +17,20 @@
       "direction": "Is Masthead Of",
       "target-description": "Taranaki Daily News"
     },
+    "1800": {
+      "direction": "Preceding",
+      "target-description": "Taranaki Daily News",
+      "relationship": "Continues"
+    },
     "1821": {
       "direction": "Continued By",
       "target-description": "Taranaki Daily News"
     }
   },
   "sources": {
-    "2013-04-02T08:58:38.000Z": "Extracted from the New Zealand National Bibliography (MARC record 3531202) downloaded March 2013.",
-    "2014-03-27T10:42:48.000Z": "Modified by gordon.paynter"
+    "2026-08-03T05:13:26.062Z": "Added reciprocal Preceding link to record 1800 (Taranaki Daily News).",
+    "2014-03-27T10:42:48.000Z": "Modified by gordon.paynter",
+    "2013-04-02T08:58:38.000Z": "Extracted from the New Zealand National Bibliography (MARC record 3531202) downloaded March 2013."
   },
   "revision": 7
 }

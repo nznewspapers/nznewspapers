@@ -4,10 +4,6 @@
   "genre": "Newspaper",
   "firstYear": "1877",
   "finalYear": "9999",
-  "alternateTitle": {
-    "1250003": "Northern Advocate and General Advertiser",
-    "1260002": "Northern Advocate and Whangarei County Gazette"
-  },
   "district": "Whangarei District",
   "firstIssueDate": "1877-06-06",
   "frequency": "Daily (except Sunday)",
@@ -20,6 +16,10 @@
   "region": "Northland",
   "urlCurrent": "http://www.northernadvocate.co.nz/",
   "urlDigitized": "https://paperspast.natlib.govt.nz/newspapers/northern-advocate",
+  "alternateTitle": {
+    "1250003": "Northern Advocate and General Advertiser",
+    "1260002": "Northern Advocate and Whangarei County Gazette"
+  },
   "links": {
     "1034": {
       "direction": "Preceding",

@@ -22,11 +22,17 @@
     "1683": {
       "direction": "Has Edition",
       "target-description": "Rotorua Weekender"
+    },
+    "3045": {
+      "direction": "Succeeding",
+      "target-description": "Rotorua Daily Post",
+      "relationship": "Continued by"
     }
   },
   "sources": {
-    "2013-04-02T08:58:38.000Z": "Extracted from the New Zealand National Bibliography (MARC record 4789176) downloaded March 2013.",
-    "2014-03-21T11:47:43.000Z": "Modified by DataBot"
+    "2026-08-03T05:01:33.559Z": "Added reciprocal Succeeding link to record 3045 (Rotorua Daily Post).",
+    "2014-03-21T11:47:43.000Z": "Modified by DataBot",
+    "2013-04-02T08:58:38.000Z": "Extracted from the New Zealand National Bibliography (MARC record 4789176) downloaded March 2013."
   },
   "revision": 6
 }

@@ -13,21 +13,21 @@
   "placename": "Patea",
   "region": "Taranaki",
   "links": {
-    "3134": {
-      "direction": "Preceding",
-      "relationship": "Continues",
-      "target-description": "Patea & Waverley Press"
-    },
     "1615": {
       "direction": "Succeeding",
       "relationship": "Merged into",
       "target-description": "Patea and Waverley Press"
+    },
+    "3134": {
+      "direction": "Preceding",
+      "relationship": "Continues",
+      "target-description": "Patea & Waverley Press"
     }
   },
   "sources": {
     "2026-08-03T09:40:24.000Z": "Added Preceding link to 3134 (Patea & Waverley Press) and fixed placecode to 07-06 South Taranaki District, Taranaki.",
-    "2013-04-02T08:58:38.000Z": "Extracted from the New Zealand National Bibliography (MARC record 3531248) downloaded March 2013.",
-    "2014-05-31T09:22:36.000Z": "Modified by gordon.paynter"
+    "2014-05-31T09:22:36.000Z": "Modified by gordon.paynter",
+    "2013-04-02T08:58:38.000Z": "Extracted from the New Zealand National Bibliography (MARC record 3531248) downloaded March 2013."
   },
   "revision": 6
 }

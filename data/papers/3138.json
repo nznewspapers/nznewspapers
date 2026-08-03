@@ -12,18 +12,25 @@
   "placename": "Paraparaumu",
   "region": "Wellington",
   "links": {
-    "unknown-1": {
+    "2001": {
       "direction": "Succeeding",
       "relationship": "Merged",
       "target-description": "Golden Coast news shopper"
     },
-    "unknown-2": {
+    "2002": {
       "direction": "Succeeding",
       "relationship": "Merged",
       "target-description": "Observer news shopper"
+    },
+    "2004": {
+      "direction": "Succeeding",
+      "relationship": "Continued by",
+      "target-description": "Kapiti Observer"
     }
   },
   "sources": {
+    "2026-08-03T05:01:33.559Z": "Resolved unknown target placeholder link(s) to numerical record ID(s).",
+    "2026-08-03T04:13:03.129Z": "Added sequential continuation link to later run #2004 (Kapiti Observer).",
     "2022-08-31T04:35:50.046Z": "Extracted from the New Zealand National Bibliography (MARC record 8128710) downloaded June 2022."
   },
   "revision": 1

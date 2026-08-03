@@ -14,7 +14,20 @@
   "placename": "Queenstown",
   "region": "Otago",
   "urlDigitized": "https://paperspast.natlib.govt.nz/newspapers/lake-county-mail",
+  "links": {
+    "2568": {
+      "direction": "Succeeding",
+      "target-description": "Central Otago News",
+      "relationship": "Continued by"
+    },
+    "3061": {
+      "direction": "Preceding",
+      "target-description": "Alexandra Herald",
+      "relationship": "Continues"
+    }
+  },
   "sources": {
+    "2026-08-03T05:01:33.559Z": "Added reciprocal Preceding link to record 3061 (Alexandra Herald).",
     "2022-01-18T04:19:28.907Z": "Updated Papers Past info using the nzn-paperspast-updater.js script.",
     "2014-05-07T09:16:42.000Z": "Modified by DataBot",
     "2013-04-02T08:58:38.000Z": "Extracted from the New Zealand National Bibliography (MARC record 8164380) downloaded March 2013."
