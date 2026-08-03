@@ -14,11 +14,6 @@
   "price": "Gratis",
   "region": "Auckland",
   "links": {
-    "2721": {
-      "direction": "Succeeding",
-      "relationship": "Unrelated",
-      "target-description": "Local matters (Wellsford, Kaiwaka, Mangawhai)"
-    },
     "undefined-unknown": {
       "direction": "Succeeding",
       "relationship": "Continued by",
@@ -26,8 +21,9 @@
     }
   },
   "sources": {
-    "2013-04-02T08:58:38.000Z": "Extracted from the New Zealand National Bibliography (MARC record 8251625) downloaded March 2013.",
-    "2014-05-07T09:50:18.000Z": "Modified by DataBot"
+    "2026-08-03T04:45:06.386Z": "Removed redundant horizontal co-predecessor links (2721) to standardize on DAG merger lineage.",
+    "2014-05-07T09:50:18.000Z": "Modified by DataBot",
+    "2013-04-02T08:58:38.000Z": "Extracted from the New Zealand National Bibliography (MARC record 8251625) downloaded March 2013."
   },
   "revision": 8
 }

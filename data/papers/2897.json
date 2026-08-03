@@ -13,11 +13,6 @@
   "placename": "Wellington",
   "region": "Wellington",
   "links": {
-    "2895": {
-      "direction": "Succeeding",
-      "relationship": "Merged",
-      "target-description": "Tawa times"
-    },
     "2898": {
       "direction": "Succeeding",
       "relationship": "Merged",
@@ -25,6 +20,7 @@
     }
   },
   "sources": {
+    "2026-08-03T04:45:06.386Z": "Removed redundant horizontal co-predecessor links (2895) to standardize on DAG merger lineage.",
     "2022-07-18T04:38:43.437Z": "Date updated from the New Zealand National Bibliography (MARC record 6830289) downloaded June 2022.",
     "2014-05-07T08:56:27.000Z": "Modified by DataBot",
     "2013-04-02T08:58:38.000Z": "Extracted from the New Zealand National Bibliography (MARC record 6830289) downloaded March 2013."

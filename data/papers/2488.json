@@ -14,21 +14,6 @@
   "price": "Gratis",
   "region": "Canterbury",
   "links": {
-    "2485": {
-      "direction": "Succeeding",
-      "relationship": "Unrelated",
-      "target-description": "Star community (Eastern)"
-    },
-    "2486": {
-      "direction": "Succeeding",
-      "relationship": "Unrelated",
-      "target-description": "Star community (Northern)"
-    },
-    "2487": {
-      "direction": "Succeeding",
-      "relationship": "Unrelated",
-      "target-description": "Star community (Southern)"
-    },
     "2493": {
       "direction": "Succeeding",
       "relationship": "Continued by",
@@ -41,8 +26,9 @@
     }
   },
   "sources": {
-    "2013-04-02T08:58:38.000Z": "Extracted from the New Zealand National Bibliography (MARC record 10487331) downloaded March 2013.",
-    "2014-05-07T09:46:06.000Z": "Modified by DataBot"
+    "2026-08-03T04:45:06.386Z": "Removed redundant horizontal co-predecessor links (2485, 2486, 2487) to standardize on DAG merger lineage.",
+    "2014-05-07T09:46:06.000Z": "Modified by DataBot",
+    "2013-04-02T08:58:38.000Z": "Extracted from the New Zealand National Bibliography (MARC record 10487331) downloaded March 2013."
   },
   "revision": 11
 }
