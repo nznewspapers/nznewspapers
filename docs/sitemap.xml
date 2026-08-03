@@ -3,6 +3,11 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://www.nznewspapers.org/about/</loc>
+    <lastmod>2026-07-29T12:00:12Z</lastmod>
+  </url>
+  
+  <url>
     <loc>https://www.nznewspapers.org/</loc>
     <lastmod>2026-07-29T12:00:12Z</lastmod>
   </url>
@@ -23,18 +28,13 @@
   </url>
   
   <url>
-    <loc>https://www.nznewspapers.org/titles/</loc>
+    <loc>https://www.nznewspapers.org/scope/</loc>
     <lastmod>2026-07-29T12:00:12Z</lastmod>
   </url>
   
   <url>
-    <loc>https://www.nznewspapers.org/scope/</loc>
-    <lastmod>2026-08-02T23:25:24Z</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://www.nznewspapers.org/about/</loc>
-    <lastmod>2026-08-02T23:31:54Z</lastmod>
+    <loc>https://www.nznewspapers.org/titles/</loc>
+    <lastmod>2026-07-29T12:00:12Z</lastmod>
   </url>
    
   <url>
