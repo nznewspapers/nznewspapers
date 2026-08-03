@@ -24,9 +24,9 @@
       "target-description": "Christchurch mail (Wigram, Spreydon, Heathcote, Ferrymead)"
     },
     "2495": {
-      "direction": "Preceding",
-      "relationship": "Continues in part",
-      "target-description": "Christchurch mail"
+      "direction": "Succeeding",
+      "relationship": "Continued by",
+      "target-description": "Christchurch Mail (North-western Ed.)"
     }
   },
   "sources": {

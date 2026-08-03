@@ -18,8 +18,8 @@
       "target-description": "Observer (Christchurch, N.Z. : 1996)"
     },
     "2499": {
-      "direction": "Preceding",
-      "relationship": "Continues",
+      "direction": "Succeeding",
+      "relationship": "Continued by",
       "target-description": "Observer (Christchurch, N.Z.)"
     }
   },
