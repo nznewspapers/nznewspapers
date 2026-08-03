@@ -117,57 +117,109 @@
     There are 6 newspapers published in Taihape.
   </p>
 
-  <div class="multicolumnbox">
-    
-    <div class="columnitem">
-      <a href="/newspapers/1865/">Taihape &amp; Mangaweka News</a>
-      <br />
-      <span class="paper-meta">
-         1903 - 1905 
-      </span>
+  
+  <section class="lineage-section">
+    <h4>Publication Lineages &amp; Family Trees</h4>
+    <p>
+      The following continuations and parallel editions occurred among
+      newspapers in Taihape:
+    </p>
+
+    <div class="mermaid-tree-list">
+      
+      <div class="mermaid-card">
+        <pre class="mermaid">
+graph LR
+  node_1865[&quot;Taihape &amp; Mangaweka News&lt;br/&gt;(1903–1905)&quot;]
+  click node_1865 &quot;/newspapers/1865/&quot; &quot;View Taihape &amp; Mangaweka News&quot;
+  node_1866[&quot;Taihape &amp; Waimarino News&lt;br/&gt;(1905–1906)&quot;]
+  click node_1866 &quot;/newspapers/1866/&quot; &quot;View Taihape &amp; Waimarino News&quot;
+  node_1867[&quot;Taihape Daily Times&lt;br/&gt;(1906–1930)&quot;]
+  click node_1867 &quot;/newspapers/1867/&quot; &quot;View Taihape Daily Times&quot;
+  node_1868[&quot;Taihape Times&lt;br/&gt;(1930–1959)&quot;]
+  click node_1868 &quot;/newspapers/1868/&quot; &quot;View Taihape Times&quot;
+  node_1871[&quot;Central District Times&lt;br/&gt;(Published since 1959)&quot;]
+  click node_1871 &quot;/newspapers/1871/&quot; &quot;View Central District Times&quot;
+  node_1870[&quot;Waimarino News&lt;br/&gt;(1954–1959)&quot;]
+  click node_1870 &quot;/newspapers/1870/&quot; &quot;View Waimarino News&quot;
+  node_1865 --&gt; node_1866
+  node_1866 --&gt; node_1867
+  node_1867 --&gt; node_1868
+  node_1868 --&gt; node_1871
+  node_1870 --&gt; node_1871
+        </pre>
+      </div>
+      
     </div>
-    
-    <div class="columnitem">
-      <a href="/newspapers/1866/">Taihape &amp; Waimarino News</a>
-      <br />
-      <span class="paper-meta">
-         1905 - 1906 
-      </span>
+  </section>
+  <script type="module">
+    import mermaid from "https://cdn.jsdelivr.net/npm/mermaid@10/dist/mermaid.esm.min.mjs";
+    mermaid.initialize({
+      startOnLoad: true,
+      theme: "neutral",
+      flowchart: {
+        useMaxWidth: true,
+        htmlLabels: true,
+        curve: "basis",
+      },
+    });
+  </script>
+  
+
+  <section class="all-papers-section">
+    <h4>All Newspapers in Taihape</h4>
+    <div class="multicolumnbox">
+      
+      <div class="columnitem">
+        <a href="/newspapers/1865/">Taihape &amp; Mangaweka News</a>
+        <br />
+        <span class="paper-meta">
+           1903 - 1905 
+        </span>
+      </div>
+      
+      <div class="columnitem">
+        <a href="/newspapers/1866/">Taihape &amp; Waimarino News</a>
+        <br />
+        <span class="paper-meta">
+           1905 - 1906 
+        </span>
+      </div>
+      
+      <div class="columnitem">
+        <a href="/newspapers/1867/">Taihape Daily Times</a>
+        <br />
+        <span class="paper-meta">
+           1906 - 1930 
+        </span>
+      </div>
+      
+      <div class="columnitem">
+        <a href="/newspapers/1868/">Taihape Times</a>
+        <br />
+        <span class="paper-meta">
+           1930 - 1959 
+        </span>
+      </div>
+      
+      <div class="columnitem">
+        <a href="/newspapers/1870/">Waimarino News</a>
+        <br />
+        <span class="paper-meta">
+           1954 - 1959 
+        </span>
+      </div>
+      
+      <div class="columnitem">
+        <a href="/newspapers/1871/">Central District Times</a>
+        <br />
+        <span class="paper-meta">
+           Published since 1959 
+        </span>
+      </div>
+      
     </div>
-    
-    <div class="columnitem">
-      <a href="/newspapers/1867/">Taihape Daily Times</a>
-      <br />
-      <span class="paper-meta">
-         1906 - 1930 
-      </span>
-    </div>
-    
-    <div class="columnitem">
-      <a href="/newspapers/1868/">Taihape Times</a>
-      <br />
-      <span class="paper-meta">
-         1930 - 1959 
-      </span>
-    </div>
-    
-    <div class="columnitem">
-      <a href="/newspapers/1870/">Waimarino News</a>
-      <br />
-      <span class="paper-meta">
-         1954 - 1959 
-      </span>
-    </div>
-    
-    <div class="columnitem">
-      <a href="/newspapers/1871/">Central District Times</a>
-      <br />
-      <span class="paper-meta">
-         Published since 1959 
-      </span>
-    </div>
-    
-  </div>
+  </section>
 </div>
 </main>
 

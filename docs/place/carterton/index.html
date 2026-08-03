@@ -117,65 +117,117 @@
     There are 7 newspapers published in Carterton.
   </p>
 
-  <div class="multicolumnbox">
-    
-    <div class="columnitem">
-      <a href="/newspapers/2009/">Wairarapa Valley Guardian</a>
-      <br />
-      <span class="paper-meta">
-         1878 - 1880 
-      </span>
+  
+  <section class="lineage-section">
+    <h4>Publication Lineages &amp; Family Trees</h4>
+    <p>
+      The following continuations and parallel editions occurred among
+      newspapers in Carterton:
+    </p>
+
+    <div class="mermaid-tree-list">
+      
+      <div class="mermaid-card">
+        <pre class="mermaid">
+graph LR
+  node_2010[&quot;Wairarapa Observer&lt;br/&gt;(1881–1906)&quot;]
+  click node_2010 &quot;/newspapers/2010/&quot; &quot;View Wairarapa Observer&quot;
+  node_2013[&quot;Wairarapa Daily News&lt;br/&gt;(1906–1940)&quot;]
+  click node_2013 &quot;/newspapers/2013/&quot; &quot;View Wairarapa Daily News&quot;
+  node_2012[&quot;Wairarapa Leader&lt;br/&gt;(1897–1906)&quot;]
+  click node_2012 &quot;/newspapers/2012/&quot; &quot;View Wairarapa Leader&quot;
+  node_2014[&quot;Wairarapa News&lt;br/&gt;(1940–1992)&quot;]
+  click node_2014 &quot;/newspapers/2014/&quot; &quot;View Wairarapa News&quot;
+  node_2016[&quot;Wairarapa News &amp; The Chronicle&lt;br/&gt;(1992–1994)&quot;]
+  click node_2016 &quot;/newspapers/2016/&quot; &quot;View Wairarapa News &amp; The Chronicle&quot;
+  node_3104[&quot;Wairarapa News&lt;br/&gt;(1994–2018)&quot;]
+  click node_3104 &quot;/newspapers/3104/&quot; &quot;View Wairarapa News&quot;
+  node_2010 --&gt; node_2013
+  node_2012 --&gt; node_2013
+  node_2013 --&gt; node_2014
+  node_2014 --&gt; node_2016
+  node_2016 --&gt; node_3104
+        </pre>
+      </div>
+      
     </div>
-    
-    <div class="columnitem">
-      <a href="/newspapers/2010/">Wairarapa Observer</a>
-      <br />
-      <span class="paper-meta">
-         1881 - 1906 
-      </span>
+  </section>
+  <script type="module">
+    import mermaid from "https://cdn.jsdelivr.net/npm/mermaid@10/dist/mermaid.esm.min.mjs";
+    mermaid.initialize({
+      startOnLoad: true,
+      theme: "neutral",
+      flowchart: {
+        useMaxWidth: true,
+        htmlLabels: true,
+        curve: "basis",
+      },
+    });
+  </script>
+  
+
+  <section class="all-papers-section">
+    <h4>All Newspapers in Carterton</h4>
+    <div class="multicolumnbox">
+      
+      <div class="columnitem">
+        <a href="/newspapers/2009/">Wairarapa Valley Guardian</a>
+        <br />
+        <span class="paper-meta">
+           1878 - 1880 
+        </span>
+      </div>
+      
+      <div class="columnitem">
+        <a href="/newspapers/2010/">Wairarapa Observer</a>
+        <br />
+        <span class="paper-meta">
+           1881 - 1906 
+        </span>
+      </div>
+      
+      <div class="columnitem">
+        <a href="/newspapers/2012/">Wairarapa Leader</a>
+        <br />
+        <span class="paper-meta">
+           1897 - 1906 
+        </span>
+      </div>
+      
+      <div class="columnitem">
+        <a href="/newspapers/2013/">Wairarapa Daily News</a>
+        <br />
+        <span class="paper-meta">
+           1906 - 1940 
+        </span>
+      </div>
+      
+      <div class="columnitem">
+        <a href="/newspapers/2014/">Wairarapa News</a>
+        <br />
+        <span class="paper-meta">
+           1940 - 1992 
+        </span>
+      </div>
+      
+      <div class="columnitem">
+        <a href="/newspapers/2016/">Wairarapa News &amp; The Chronicle</a>
+        <br />
+        <span class="paper-meta">
+           1992 - 1994 
+        </span>
+      </div>
+      
+      <div class="columnitem">
+        <a href="/newspapers/3104/">Wairarapa News</a>
+        <br />
+        <span class="paper-meta">
+           1994 - 2018 
+        </span>
+      </div>
+      
     </div>
-    
-    <div class="columnitem">
-      <a href="/newspapers/2012/">Wairarapa Leader</a>
-      <br />
-      <span class="paper-meta">
-         1897 - 1906 
-      </span>
-    </div>
-    
-    <div class="columnitem">
-      <a href="/newspapers/2013/">Wairarapa Daily News</a>
-      <br />
-      <span class="paper-meta">
-         1906 - 1940 
-      </span>
-    </div>
-    
-    <div class="columnitem">
-      <a href="/newspapers/2014/">Wairarapa News</a>
-      <br />
-      <span class="paper-meta">
-         1940 - 1992 
-      </span>
-    </div>
-    
-    <div class="columnitem">
-      <a href="/newspapers/2016/">Wairarapa News &amp; The Chronicle</a>
-      <br />
-      <span class="paper-meta">
-         1992 - 1994 
-      </span>
-    </div>
-    
-    <div class="columnitem">
-      <a href="/newspapers/3104/">Wairarapa News</a>
-      <br />
-      <span class="paper-meta">
-         1994 - 2018 
-      </span>
-    </div>
-    
-  </div>
+  </section>
 </div>
 </main>
 

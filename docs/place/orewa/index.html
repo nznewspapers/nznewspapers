@@ -117,41 +117,84 @@
     There are 4 newspapers published in Orewa.
   </p>
 
-  <div class="multicolumnbox">
-    
-    <div class="columnitem">
-      <a href="/newspapers/1148/">Hibiscus Coast Leader</a>
-      <br />
-      <span class="paper-meta">
-         1965 - an unknown date 
-      </span>
+  
+  <section class="lineage-section">
+    <h4>Publication Lineages &amp; Family Trees</h4>
+    <p>
+      The following continuations and parallel editions occurred among
+      newspapers in Orewa:
+    </p>
+
+    <div class="mermaid-tree-list">
+      
+      <div class="mermaid-card">
+        <pre class="mermaid">
+graph LR
+  node_3069[&quot;Coaster&lt;br/&gt;(1983–1985)&quot;]
+  click node_3069 &quot;/newspapers/3069/&quot; &quot;View Coaster&quot;
+  node_1204[&quot;Hibiscus Coaster&lt;br/&gt;(1985–1991)&quot;]
+  click node_1204 &quot;/newspapers/1204/&quot; &quot;View Hibiscus Coaster&quot;
+  node_1216[&quot;Coaster (Orewa)&lt;br/&gt;(1991–2006)&quot;]
+  click node_1216 &quot;/newspapers/1216/&quot; &quot;View Coaster (Orewa)&quot;
+  node_3069 --&gt; node_1204
+  node_1204 --&gt; node_1216
+        </pre>
+      </div>
+      
     </div>
-    
-    <div class="columnitem">
-      <a href="/newspapers/3069/">Coaster</a>
-      <br />
-      <span class="paper-meta">
-         1983 - 1985 
-      </span>
+  </section>
+  <script type="module">
+    import mermaid from "https://cdn.jsdelivr.net/npm/mermaid@10/dist/mermaid.esm.min.mjs";
+    mermaid.initialize({
+      startOnLoad: true,
+      theme: "neutral",
+      flowchart: {
+        useMaxWidth: true,
+        htmlLabels: true,
+        curve: "basis",
+      },
+    });
+  </script>
+  
+
+  <section class="all-papers-section">
+    <h4>All Newspapers in Orewa</h4>
+    <div class="multicolumnbox">
+      
+      <div class="columnitem">
+        <a href="/newspapers/1148/">Hibiscus Coast Leader</a>
+        <br />
+        <span class="paper-meta">
+           1965 - an unknown date 
+        </span>
+      </div>
+      
+      <div class="columnitem">
+        <a href="/newspapers/3069/">Coaster</a>
+        <br />
+        <span class="paper-meta">
+           1983 - 1985 
+        </span>
+      </div>
+      
+      <div class="columnitem">
+        <a href="/newspapers/1204/">Hibiscus Coaster</a>
+        <br />
+        <span class="paper-meta">
+           1985 - 1991 
+        </span>
+      </div>
+      
+      <div class="columnitem">
+        <a href="/newspapers/1216/">Coaster (Orewa)</a>
+        <br />
+        <span class="paper-meta">
+           1991 - 2006 
+        </span>
+      </div>
+      
     </div>
-    
-    <div class="columnitem">
-      <a href="/newspapers/1204/">Hibiscus Coaster</a>
-      <br />
-      <span class="paper-meta">
-         1985 - 1991 
-      </span>
-    </div>
-    
-    <div class="columnitem">
-      <a href="/newspapers/1216/">Coaster (Orewa)</a>
-      <br />
-      <span class="paper-meta">
-         1991 - 2006 
-      </span>
-    </div>
-    
-  </div>
+  </section>
 </div>
 </main>
 

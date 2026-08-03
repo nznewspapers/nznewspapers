@@ -117,41 +117,81 @@
     There are 4 newspapers published in Leeston.
   </p>
 
-  <div class="multicolumnbox">
-    
-    <div class="columnitem">
-      <a href="/newspapers/2350/">Ellesmere Guardian</a>
-      <br />
-      <span class="paper-meta">
-         1880 - 1981 
-      </span>
+  
+  <section class="lineage-section">
+    <h4>Publication Lineages &amp; Family Trees</h4>
+    <p>
+      The following continuations and parallel editions occurred among
+      newspapers in Leeston:
+    </p>
+
+    <div class="mermaid-tree-list">
+      
+      <div class="mermaid-card">
+        <pre class="mermaid">
+graph LR
+  node_2350[&quot;Ellesmere Guardian&lt;br/&gt;(1880–1981)&quot;]
+  click node_2350 &quot;/newspapers/2350/&quot; &quot;View Ellesmere Guardian&quot;
+  node_2354[&quot;Guardian&lt;br/&gt;(1981–1983)&quot;]
+  click node_2354 &quot;/newspapers/2354/&quot; &quot;View Guardian&quot;
+  node_2350 --&gt; node_2354
+        </pre>
+      </div>
+      
     </div>
-    
-    <div class="columnitem">
-      <a href="/newspapers/2354/">Guardian</a>
-      <br />
-      <span class="paper-meta">
-         1981 - 1983 
-      </span>
+  </section>
+  <script type="module">
+    import mermaid from "https://cdn.jsdelivr.net/npm/mermaid@10/dist/mermaid.esm.min.mjs";
+    mermaid.initialize({
+      startOnLoad: true,
+      theme: "neutral",
+      flowchart: {
+        useMaxWidth: true,
+        htmlLabels: true,
+        curve: "basis",
+      },
+    });
+  </script>
+  
+
+  <section class="all-papers-section">
+    <h4>All Newspapers in Leeston</h4>
+    <div class="multicolumnbox">
+      
+      <div class="columnitem">
+        <a href="/newspapers/2350/">Ellesmere Guardian</a>
+        <br />
+        <span class="paper-meta">
+           1880 - 1981 
+        </span>
+      </div>
+      
+      <div class="columnitem">
+        <a href="/newspapers/2354/">Guardian</a>
+        <br />
+        <span class="paper-meta">
+           1981 - 1983 
+        </span>
+      </div>
+      
+      <div class="columnitem">
+        <a href="/newspapers/2915/">Plains Express</a>
+        <br />
+        <span class="paper-meta">
+           1988 - 1996 
+        </span>
+      </div>
+      
+      <div class="columnitem">
+        <a href="/newspapers/2358/">Ellesmere Echo</a>
+        <br />
+        <span class="paper-meta">
+           Published since 1992 
+        </span>
+      </div>
+      
     </div>
-    
-    <div class="columnitem">
-      <a href="/newspapers/2915/">Plains Express</a>
-      <br />
-      <span class="paper-meta">
-         1988 - 1996 
-      </span>
-    </div>
-    
-    <div class="columnitem">
-      <a href="/newspapers/2358/">Ellesmere Echo</a>
-      <br />
-      <span class="paper-meta">
-         Published since 1992 
-      </span>
-    </div>
-    
-  </div>
+  </section>
 </div>
 </main>
 

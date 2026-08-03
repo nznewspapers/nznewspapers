@@ -117,57 +117,100 @@
     There are 6 newspapers published in Motueka.
   </p>
 
-  <div class="multicolumnbox">
-    
-    <div class="columnitem">
-      <a href="/newspapers/2220/">Motueka Herald and Waimea Advertiser</a>
-      <br />
-      <span class="paper-meta">
-         1885 - 1889 
-      </span>
+  
+  <section class="lineage-section">
+    <h4>Publication Lineages &amp; Family Trees</h4>
+    <p>
+      The following continuations and parallel editions occurred among
+      newspapers in Motueka:
+    </p>
+
+    <div class="mermaid-tree-list">
+      
+      <div class="mermaid-card">
+        <pre class="mermaid">
+graph LR
+  node_2222[&quot;Motueka Star&lt;br/&gt;(1901–1938)&quot;]
+  click node_2222 &quot;/newspapers/2222/&quot; &quot;View Motueka Star&quot;
+  node_2226[&quot;Star-Times&lt;br/&gt;(1938–1939)&quot;]
+  click node_2226 &quot;/newspapers/2226/&quot; &quot;View Star-Times&quot;
+  node_2227[&quot;Province&lt;br/&gt;(1939–1939)&quot;]
+  click node_2227 &quot;/newspapers/2227/&quot; &quot;View Province&quot;
+  node_2222 --&gt; node_2226
+  node_2226 --&gt; node_2227
+        </pre>
+      </div>
+      
     </div>
-    
-    <div class="columnitem">
-      <a href="/newspapers/2222/">Motueka Star</a>
-      <br />
-      <span class="paper-meta">
-         1901 - 1938 
-      </span>
+  </section>
+  <script type="module">
+    import mermaid from "https://cdn.jsdelivr.net/npm/mermaid@10/dist/mermaid.esm.min.mjs";
+    mermaid.initialize({
+      startOnLoad: true,
+      theme: "neutral",
+      flowchart: {
+        useMaxWidth: true,
+        htmlLabels: true,
+        curve: "basis",
+      },
+    });
+  </script>
+  
+
+  <section class="all-papers-section">
+    <h4>All Newspapers in Motueka</h4>
+    <div class="multicolumnbox">
+      
+      <div class="columnitem">
+        <a href="/newspapers/2220/">Motueka Herald and Waimea Advertiser</a>
+        <br />
+        <span class="paper-meta">
+           1885 - 1889 
+        </span>
+      </div>
+      
+      <div class="columnitem">
+        <a href="/newspapers/2222/">Motueka Star</a>
+        <br />
+        <span class="paper-meta">
+           1901 - 1938 
+        </span>
+      </div>
+      
+      <div class="columnitem">
+        <a href="/newspapers/2226/">Star-Times</a>
+        <br />
+        <span class="paper-meta">
+           1938 - 1939 
+        </span>
+      </div>
+      
+      <div class="columnitem">
+        <a href="/newspapers/2227/">Province</a>
+        <br />
+        <span class="paper-meta">
+           1939 - 1939 
+        </span>
+      </div>
+      
+      <div class="columnitem">
+        <a href="/newspapers/2229/">Motueka Press</a>
+        <br />
+        <span class="paper-meta">
+           1964 - an unknown date 
+        </span>
+      </div>
+      
+      <div class="columnitem">
+        <a href="/newspapers/2231/">Guardian [Motueka]</a>
+        <br />
+        <span class="paper-meta">
+           Published since 1993 
+        </span>
+      </div>
+      
     </div>
-    
-    <div class="columnitem">
-      <a href="/newspapers/2226/">Star-Times</a>
-      <br />
-      <span class="paper-meta">
-         1938 - 1939 
-      </span>
-    </div>
-    
-    <div class="columnitem">
-      <a href="/newspapers/2227/">Province</a>
-      <br />
-      <span class="paper-meta">
-         1939 - 1939 
-      </span>
-    </div>
-    
-    <div class="columnitem">
-      <a href="/newspapers/2229/">Motueka Press</a>
-      <br />
-      <span class="paper-meta">
-         1964 - an unknown date 
-      </span>
-    </div>
-    
-    <div class="columnitem">
-      <a href="/newspapers/2231/">Guardian [Motueka]</a>
-      <br />
-      <span class="paper-meta">
-         Published since 1993 
-      </span>
-    </div>
-    
-  </div>
+  </section>
 </div>
 </main>
 

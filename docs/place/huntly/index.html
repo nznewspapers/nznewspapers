@@ -117,41 +117,81 @@
     There are 4 newspapers published in Huntly.
   </p>
 
-  <div class="multicolumnbox">
-    
-    <div class="columnitem">
-      <a href="/newspapers/1529/">Huntly Press and District Gazette</a>
-      <br />
-      <span class="paper-meta">
-         1912 - 1995 
-      </span>
+  
+  <section class="lineage-section">
+    <h4>Publication Lineages &amp; Family Trees</h4>
+    <p>
+      The following continuations and parallel editions occurred among
+      newspapers in Huntly:
+    </p>
+
+    <div class="mermaid-tree-list">
+      
+      <div class="mermaid-card">
+        <pre class="mermaid">
+graph LR
+  node_1546[&quot;North Waikato Tatler&lt;br/&gt;(1995–2000)&quot;]
+  click node_1546 &quot;/newspapers/1546/&quot; &quot;View North Waikato Tatler&quot;
+  node_1547[&quot;North Waikato News&lt;br/&gt;(Published since 2001)&quot;]
+  click node_1547 &quot;/newspapers/1547/&quot; &quot;View North Waikato News&quot;
+  node_1546 --&gt; node_1547
+        </pre>
+      </div>
+      
     </div>
-    
-    <div class="columnitem">
-      <a href="/newspapers/1536/">Newspower</a>
-      <br />
-      <span class="paper-meta">
-         1980 - 1980 
-      </span>
+  </section>
+  <script type="module">
+    import mermaid from "https://cdn.jsdelivr.net/npm/mermaid@10/dist/mermaid.esm.min.mjs";
+    mermaid.initialize({
+      startOnLoad: true,
+      theme: "neutral",
+      flowchart: {
+        useMaxWidth: true,
+        htmlLabels: true,
+        curve: "basis",
+      },
+    });
+  </script>
+  
+
+  <section class="all-papers-section">
+    <h4>All Newspapers in Huntly</h4>
+    <div class="multicolumnbox">
+      
+      <div class="columnitem">
+        <a href="/newspapers/1529/">Huntly Press and District Gazette</a>
+        <br />
+        <span class="paper-meta">
+           1912 - 1995 
+        </span>
+      </div>
+      
+      <div class="columnitem">
+        <a href="/newspapers/1536/">Newspower</a>
+        <br />
+        <span class="paper-meta">
+           1980 - 1980 
+        </span>
+      </div>
+      
+      <div class="columnitem">
+        <a href="/newspapers/1546/">North Waikato Tatler</a>
+        <br />
+        <span class="paper-meta">
+           1995 - 2000 
+        </span>
+      </div>
+      
+      <div class="columnitem">
+        <a href="/newspapers/1547/">North Waikato News</a>
+        <br />
+        <span class="paper-meta">
+           Published since 2001 
+        </span>
+      </div>
+      
     </div>
-    
-    <div class="columnitem">
-      <a href="/newspapers/1546/">North Waikato Tatler</a>
-      <br />
-      <span class="paper-meta">
-         1995 - 2000 
-      </span>
-    </div>
-    
-    <div class="columnitem">
-      <a href="/newspapers/1547/">North Waikato News</a>
-      <br />
-      <span class="paper-meta">
-         Published since 2001 
-      </span>
-    </div>
-    
-  </div>
+  </section>
 </div>
 </main>
 

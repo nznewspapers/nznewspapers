@@ -212,3 +212,32 @@ table.simpletable td {
   border-bottom: 1px dotted #666666;
   padding: 4px 6px;
 }
+
+/* Graph Tree Flowchart Styles */
+.lineage-section {
+  margin: 1.5em 0;
+  padding-bottom: 1em;
+  border-bottom: 1px solid #dcdcdc;
+}
+
+.lineage-section h4 {
+  font-family: "Playfair Display", Georgia, serif;
+  font-size: 1.2rem;
+  margin-bottom: 0.5em;
+}
+
+.mermaid-card {
+  background: #fdfbf7;
+  border: 1px solid #e0d8c8;
+  border-radius: 4px;
+  padding: 14px 16px;
+  margin-bottom: 14px;
+  overflow-x: auto;
+}
+
+.mermaid {
+  font-family: "Source Serif 4", Georgia, serif;
+  display: flex;
+  justify-content: center;
+  margin: 0;
+}

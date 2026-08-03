@@ -117,65 +117,120 @@
     There are 7 newspapers published in Feilding.
   </p>
 
-  <div class="multicolumnbox">
-    
-    <div class="columnitem">
-      <a href="/newspapers/1895/">Feilding Guardian</a>
-      <br />
-      <span class="paper-meta">
-         1879 - 1882 
-      </span>
+  
+  <section class="lineage-section">
+    <h4>Publication Lineages &amp; Family Trees</h4>
+    <p>
+      The following continuations and parallel editions occurred among
+      newspapers in Feilding:
+    </p>
+
+    <div class="mermaid-tree-list">
+      
+      <div class="mermaid-card">
+        <pre class="mermaid">
+graph LR
+  node_1895[&quot;Feilding Guardian&lt;br/&gt;(1879–1882)&quot;]
+  click node_1895 &quot;/newspapers/1895/&quot; &quot;View Feilding Guardian&quot;
+  node_1896[&quot;Feilding Star&lt;br/&gt;(1882–1939)&quot;]
+  click node_1896 &quot;/newspapers/1896/&quot; &quot;View Feilding Star&quot;
+  node_1895 --&gt; node_1896
+        </pre>
+      </div>
+      
+      <div class="mermaid-card">
+        <pre class="mermaid">
+graph LR
+  node_1899[&quot;Feilding Herald&lt;br/&gt;(Published since 1957)&quot;]
+  click node_1899 &quot;/newspapers/1899/&quot; &quot;View Feilding Herald&quot;
+  node_1900[&quot;Feilding Herald Rangitikei Mail&lt;br/&gt;(2002–2004)&quot;]
+  click node_1900 &quot;/newspapers/1900/&quot; &quot;View Feilding Herald Rangitikei Mail&quot;
+  node_1902[&quot;Rangitikei Mail (2005)&lt;br/&gt;(Published since 2005)&quot;]
+  click node_1902 &quot;/newspapers/1902/&quot; &quot;View Rangitikei Mail (2005)&quot;
+  node_1899 --&gt; node_1900
+  node_1899 --&gt; node_1902
+  node_1900 --&gt; node_1902
+        </pre>
+      </div>
+      
     </div>
-    
-    <div class="columnitem">
-      <a href="/newspapers/1896/">Feilding Star</a>
-      <br />
-      <span class="paper-meta">
-         1882 - 1939 
-      </span>
+  </section>
+  <script type="module">
+    import mermaid from "https://cdn.jsdelivr.net/npm/mermaid@10/dist/mermaid.esm.min.mjs";
+    mermaid.initialize({
+      startOnLoad: true,
+      theme: "neutral",
+      flowchart: {
+        useMaxWidth: true,
+        htmlLabels: true,
+        curve: "basis",
+      },
+    });
+  </script>
+  
+
+  <section class="all-papers-section">
+    <h4>All Newspapers in Feilding</h4>
+    <div class="multicolumnbox">
+      
+      <div class="columnitem">
+        <a href="/newspapers/1895/">Feilding Guardian</a>
+        <br />
+        <span class="paper-meta">
+           1879 - 1882 
+        </span>
+      </div>
+      
+      <div class="columnitem">
+        <a href="/newspapers/1896/">Feilding Star</a>
+        <br />
+        <span class="paper-meta">
+           1882 - 1939 
+        </span>
+      </div>
+      
+      <div class="columnitem">
+        <a href="/newspapers/1898/">Feilding Express</a>
+        <br />
+        <span class="paper-meta">
+           1940 - 1957 
+        </span>
+      </div>
+      
+      <div class="columnitem">
+        <a href="/newspapers/1899/">Feilding Herald</a>
+        <br />
+        <span class="paper-meta">
+           Published since 1957 
+        </span>
+      </div>
+      
+      <div class="columnitem">
+        <a href="/newspapers/1900/">Feilding Herald Rangitikei Mail</a>
+        <br />
+        <span class="paper-meta">
+           2002 - 2004 
+        </span>
+      </div>
+      
+      <div class="columnitem">
+        <a href="/newspapers/1901/">New Zealand Farmers Weekly</a>
+        <br />
+        <span class="paper-meta">
+           Published since 2003 
+        </span>
+      </div>
+      
+      <div class="columnitem">
+        <a href="/newspapers/1902/">Rangitikei Mail (2005)</a>
+        <br />
+        <span class="paper-meta">
+           Published since 2005 
+        </span>
+      </div>
+      
     </div>
-    
-    <div class="columnitem">
-      <a href="/newspapers/1898/">Feilding Express</a>
-      <br />
-      <span class="paper-meta">
-         1940 - 1957 
-      </span>
-    </div>
-    
-    <div class="columnitem">
-      <a href="/newspapers/1899/">Feilding Herald</a>
-      <br />
-      <span class="paper-meta">
-         Published since 1957 
-      </span>
-    </div>
-    
-    <div class="columnitem">
-      <a href="/newspapers/1900/">Feilding Herald Rangitikei Mail</a>
-      <br />
-      <span class="paper-meta">
-         2002 - 2004 
-      </span>
-    </div>
-    
-    <div class="columnitem">
-      <a href="/newspapers/1901/">New Zealand Farmers Weekly</a>
-      <br />
-      <span class="paper-meta">
-         Published since 2003 
-      </span>
-    </div>
-    
-    <div class="columnitem">
-      <a href="/newspapers/1902/">Rangitikei Mail (2005)</a>
-      <br />
-      <span class="paper-meta">
-         Published since 2005 
-      </span>
-    </div>
-    
-  </div>
+  </section>
 </div>
 </main>
 

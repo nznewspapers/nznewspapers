@@ -117,41 +117,87 @@
     There are 4 newspapers published in Kawakawa.
   </p>
 
-  <div class="multicolumnbox">
-    
-    <div class="columnitem">
-      <a href="/newspapers/1003/">Northern Luminary</a>
-      <br />
-      <span class="paper-meta">
-         1879 - 1910 
-      </span>
+  
+  <section class="lineage-section">
+    <h4>Publication Lineages &amp; Family Trees</h4>
+    <p>
+      The following continuations and parallel editions occurred among
+      newspapers in Kawakawa:
+    </p>
+
+    <div class="mermaid-tree-list">
+      
+      <div class="mermaid-card">
+        <pre class="mermaid">
+graph LR
+  node_1003[&quot;Northern Luminary&lt;br/&gt;(1879–1910)&quot;]
+  click node_1003 &quot;/newspapers/1003/&quot; &quot;View Northern Luminary&quot;
+  node_1009[&quot;Bay of Islands Luminary&lt;br/&gt;(1910–1942)&quot;]
+  click node_1009 &quot;/newspapers/1009/&quot; &quot;View Bay of Islands Luminary&quot;
+  node_1019[&quot;Luminary&lt;br/&gt;(1942–1944)&quot;]
+  click node_1019 &quot;/newspapers/1019/&quot; &quot;View Luminary&quot;
+  node_1020[&quot;Northland Gazette&lt;br/&gt;(1944–1951)&quot;]
+  click node_1020 &quot;/newspapers/1020/&quot; &quot;View Northland Gazette&quot;
+  node_1003 --&gt; node_1009
+  node_1009 --&gt; node_1019
+  node_1019 --&gt; node_1020
+        </pre>
+      </div>
+      
     </div>
-    
-    <div class="columnitem">
-      <a href="/newspapers/1009/">Bay of Islands Luminary</a>
-      <br />
-      <span class="paper-meta">
-         1910 - 1942 
-      </span>
+  </section>
+  <script type="module">
+    import mermaid from "https://cdn.jsdelivr.net/npm/mermaid@10/dist/mermaid.esm.min.mjs";
+    mermaid.initialize({
+      startOnLoad: true,
+      theme: "neutral",
+      flowchart: {
+        useMaxWidth: true,
+        htmlLabels: true,
+        curve: "basis",
+      },
+    });
+  </script>
+  
+
+  <section class="all-papers-section">
+    <h4>All Newspapers in Kawakawa</h4>
+    <div class="multicolumnbox">
+      
+      <div class="columnitem">
+        <a href="/newspapers/1003/">Northern Luminary</a>
+        <br />
+        <span class="paper-meta">
+           1879 - 1910 
+        </span>
+      </div>
+      
+      <div class="columnitem">
+        <a href="/newspapers/1009/">Bay of Islands Luminary</a>
+        <br />
+        <span class="paper-meta">
+           1910 - 1942 
+        </span>
+      </div>
+      
+      <div class="columnitem">
+        <a href="/newspapers/1019/">Luminary</a>
+        <br />
+        <span class="paper-meta">
+           1942 - 1944 
+        </span>
+      </div>
+      
+      <div class="columnitem">
+        <a href="/newspapers/1020/">Northland Gazette</a>
+        <br />
+        <span class="paper-meta">
+           1944 - 1951 
+        </span>
+      </div>
+      
     </div>
-    
-    <div class="columnitem">
-      <a href="/newspapers/1019/">Luminary</a>
-      <br />
-      <span class="paper-meta">
-         1942 - 1944 
-      </span>
-    </div>
-    
-    <div class="columnitem">
-      <a href="/newspapers/1020/">Northland Gazette</a>
-      <br />
-      <span class="paper-meta">
-         1944 - 1951 
-      </span>
-    </div>
-    
-  </div>
+  </section>
 </div>
 </main>
 

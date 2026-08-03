@@ -117,33 +117,73 @@
     There are 3 newspapers published in Mangonui.
   </p>
 
-  <div class="multicolumnbox">
-    
-    <div class="columnitem">
-      <a href="/newspapers/1004/">Mangonui County Times and Northern Representative</a>
-      <br />
-      <span class="paper-meta">
-         1904 - 1906 
-      </span>
+  
+  <section class="lineage-section">
+    <h4>Publication Lineages &amp; Family Trees</h4>
+    <p>
+      The following continuations and parallel editions occurred among
+      newspapers in Mangonui:
+    </p>
+
+    <div class="mermaid-tree-list">
+      
+      <div class="mermaid-card">
+        <pre class="mermaid">
+graph LR
+  node_1004[&quot;Mangonui County Times and Northern Representative&lt;br/&gt;(1904–1906)&quot;]
+  click node_1004 &quot;/newspapers/1004/&quot; &quot;View Mangonui County Times and Northern Representative&quot;
+  node_1007[&quot;North Auckland Age&lt;br/&gt;(1906–1918)&quot;]
+  click node_1007 &quot;/newspapers/1007/&quot; &quot;View North Auckland Age&quot;
+  node_1004 --&gt; node_1007
+        </pre>
+      </div>
+      
     </div>
-    
-    <div class="columnitem">
-      <a href="/newspapers/1007/">North Auckland Age</a>
-      <br />
-      <span class="paper-meta">
-         1906 - 1918 
-      </span>
+  </section>
+  <script type="module">
+    import mermaid from "https://cdn.jsdelivr.net/npm/mermaid@10/dist/mermaid.esm.min.mjs";
+    mermaid.initialize({
+      startOnLoad: true,
+      theme: "neutral",
+      flowchart: {
+        useMaxWidth: true,
+        htmlLabels: true,
+        curve: "basis",
+      },
+    });
+  </script>
+  
+
+  <section class="all-papers-section">
+    <h4>All Newspapers in Mangonui</h4>
+    <div class="multicolumnbox">
+      
+      <div class="columnitem">
+        <a href="/newspapers/1004/">Mangonui County Times and Northern Representative</a>
+        <br />
+        <span class="paper-meta">
+           1904 - 1906 
+        </span>
+      </div>
+      
+      <div class="columnitem">
+        <a href="/newspapers/1007/">North Auckland Age</a>
+        <br />
+        <span class="paper-meta">
+           1906 - 1918 
+        </span>
+      </div>
+      
+      <div class="columnitem">
+        <a href="/newspapers/1010/">On Guard</a>
+        <br />
+        <span class="paper-meta">
+           1916 - 1922 
+        </span>
+      </div>
+      
     </div>
-    
-    <div class="columnitem">
-      <a href="/newspapers/1010/">On Guard</a>
-      <br />
-      <span class="paper-meta">
-         1916 - 1922 
-      </span>
-    </div>
-    
-  </div>
+  </section>
 </div>
 </main>
 

@@ -117,49 +117,100 @@
     There are 5 newspapers published in Oamaru.
   </p>
 
-  <div class="multicolumnbox">
-    
-    <div class="columnitem">
-      <a href="/newspapers/2547/">Oamaru Times and Waitaki Reporter</a>
-      <br />
-      <span class="paper-meta">
-         1864 - 1872 
-      </span>
+  
+  <section class="lineage-section">
+    <h4>Publication Lineages &amp; Family Trees</h4>
+    <p>
+      The following continuations and parallel editions occurred among
+      newspapers in Oamaru:
+    </p>
+
+    <div class="mermaid-tree-list">
+      
+      <div class="mermaid-card">
+        <pre class="mermaid">
+graph LR
+  node_2547[&quot;Oamaru Times and Waitaki Reporter&lt;br/&gt;(1864–1872)&quot;]
+  click node_2547 &quot;/newspapers/2547/&quot; &quot;View Oamaru Times and Waitaki Reporter&quot;
+  node_2548[&quot;North Otago Times&lt;br/&gt;(1872–1932)&quot;]
+  click node_2548 &quot;/newspapers/2548/&quot; &quot;View North Otago Times&quot;
+  node_2547 --&gt; node_2548
+        </pre>
+      </div>
+      
+      <div class="mermaid-card">
+        <pre class="mermaid">
+graph LR
+  node_2549[&quot;Evening Mail&lt;br/&gt;(1876–1879)&quot;]
+  click node_2549 &quot;/newspapers/2549/&quot; &quot;View Evening Mail&quot;
+  node_2551[&quot;Oamaru Mail&lt;br/&gt;(Published since 1879)&quot;]
+  click node_2551 &quot;/newspapers/2551/&quot; &quot;View Oamaru Mail&quot;
+  node_2549 --&gt; node_2551
+        </pre>
+      </div>
+      
     </div>
-    
-    <div class="columnitem">
-      <a href="/newspapers/2548/">North Otago Times</a>
-      <br />
-      <span class="paper-meta">
-         1872 - 1932 
-      </span>
+  </section>
+  <script type="module">
+    import mermaid from "https://cdn.jsdelivr.net/npm/mermaid@10/dist/mermaid.esm.min.mjs";
+    mermaid.initialize({
+      startOnLoad: true,
+      theme: "neutral",
+      flowchart: {
+        useMaxWidth: true,
+        htmlLabels: true,
+        curve: "basis",
+      },
+    });
+  </script>
+  
+
+  <section class="all-papers-section">
+    <h4>All Newspapers in Oamaru</h4>
+    <div class="multicolumnbox">
+      
+      <div class="columnitem">
+        <a href="/newspapers/2547/">Oamaru Times and Waitaki Reporter</a>
+        <br />
+        <span class="paper-meta">
+           1864 - 1872 
+        </span>
+      </div>
+      
+      <div class="columnitem">
+        <a href="/newspapers/2548/">North Otago Times</a>
+        <br />
+        <span class="paper-meta">
+           1872 - 1932 
+        </span>
+      </div>
+      
+      <div class="columnitem">
+        <a href="/newspapers/2549/">Evening Mail</a>
+        <br />
+        <span class="paper-meta">
+           1876 - 1879 
+        </span>
+      </div>
+      
+      <div class="columnitem">
+        <a href="/newspapers/2551/">Oamaru Mail</a>
+        <br />
+        <span class="paper-meta">
+           Published since 1879 
+        </span>
+      </div>
+      
+      <div class="columnitem">
+        <a href="/newspapers/2552/">The Mail Minor: for the Young Folk</a>
+        <br />
+        <span class="paper-meta">
+           1939 - 1942 
+        </span>
+      </div>
+      
     </div>
-    
-    <div class="columnitem">
-      <a href="/newspapers/2549/">Evening Mail</a>
-      <br />
-      <span class="paper-meta">
-         1876 - 1879 
-      </span>
-    </div>
-    
-    <div class="columnitem">
-      <a href="/newspapers/2551/">Oamaru Mail</a>
-      <br />
-      <span class="paper-meta">
-         Published since 1879 
-      </span>
-    </div>
-    
-    <div class="columnitem">
-      <a href="/newspapers/2552/">The Mail Minor: for the Young Folk</a>
-      <br />
-      <span class="paper-meta">
-         1939 - 1942 
-      </span>
-    </div>
-    
-  </div>
+  </section>
 </div>
 </main>
 

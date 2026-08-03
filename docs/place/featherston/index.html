@@ -117,33 +117,73 @@
     There are 3 newspapers published in Featherston.
   </p>
 
-  <div class="multicolumnbox">
-    
-    <div class="columnitem">
-      <a href="/newspapers/2021/">Featherston Independent</a>
-      <br />
-      <span class="paper-meta">
-         1930 - an unknown date 
-      </span>
+  
+  <section class="lineage-section">
+    <h4>Publication Lineages &amp; Family Trees</h4>
+    <p>
+      The following continuations and parallel editions occurred among
+      newspapers in Featherston:
+    </p>
+
+    <div class="mermaid-tree-list">
+      
+      <div class="mermaid-card">
+        <pre class="mermaid">
+graph LR
+  node_2022[&quot;Featherston Chronicle&lt;br/&gt;(1956–1962)&quot;]
+  click node_2022 &quot;/newspapers/2022/&quot; &quot;View Featherston Chronicle&quot;
+  node_2023[&quot;Chronicle&lt;br/&gt;(1969–1992)&quot;]
+  click node_2023 &quot;/newspapers/2023/&quot; &quot;View Chronicle&quot;
+  node_2022 --&gt; node_2023
+        </pre>
+      </div>
+      
     </div>
-    
-    <div class="columnitem">
-      <a href="/newspapers/2022/">Featherston Chronicle</a>
-      <br />
-      <span class="paper-meta">
-         1956 - 1962 
-      </span>
+  </section>
+  <script type="module">
+    import mermaid from "https://cdn.jsdelivr.net/npm/mermaid@10/dist/mermaid.esm.min.mjs";
+    mermaid.initialize({
+      startOnLoad: true,
+      theme: "neutral",
+      flowchart: {
+        useMaxWidth: true,
+        htmlLabels: true,
+        curve: "basis",
+      },
+    });
+  </script>
+  
+
+  <section class="all-papers-section">
+    <h4>All Newspapers in Featherston</h4>
+    <div class="multicolumnbox">
+      
+      <div class="columnitem">
+        <a href="/newspapers/2021/">Featherston Independent</a>
+        <br />
+        <span class="paper-meta">
+           1930 - an unknown date 
+        </span>
+      </div>
+      
+      <div class="columnitem">
+        <a href="/newspapers/2022/">Featherston Chronicle</a>
+        <br />
+        <span class="paper-meta">
+           1956 - 1962 
+        </span>
+      </div>
+      
+      <div class="columnitem">
+        <a href="/newspapers/2023/">Chronicle</a>
+        <br />
+        <span class="paper-meta">
+           1969 - 1992 
+        </span>
+      </div>
+      
     </div>
-    
-    <div class="columnitem">
-      <a href="/newspapers/2023/">Chronicle</a>
-      <br />
-      <span class="paper-meta">
-         1969 - 1992 
-      </span>
-    </div>
-    
-  </div>
+  </section>
 </div>
 </main>
 

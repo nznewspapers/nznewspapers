@@ -117,41 +117,84 @@
     There are 4 newspapers published in Alexandra.
   </p>
 
-  <div class="multicolumnbox">
-    
-    <div class="columnitem">
-      <a href="/newspapers/3061/">Alexandra Herald</a>
-      <br />
-      <span class="paper-meta">
-         1899 - 1948 
-      </span>
+  
+  <section class="lineage-section">
+    <h4>Publication Lineages &amp; Family Trees</h4>
+    <p>
+      The following continuations and parallel editions occurred among
+      newspapers in Alexandra:
+    </p>
+
+    <div class="mermaid-tree-list">
+      
+      <div class="mermaid-card">
+        <pre class="mermaid">
+graph LR
+  node_3061[&quot;Alexandra Herald&lt;br/&gt;(1899–1948)&quot;]
+  click node_3061 &quot;/newspapers/3061/&quot; &quot;View Alexandra Herald&quot;
+  node_2568[&quot;Central Otago News&lt;br/&gt;(1948–1999)&quot;]
+  click node_2568 &quot;/newspapers/2568/&quot; &quot;View Central Otago News&quot;
+  node_3139[&quot;News&lt;br/&gt;(1999–2017)&quot;]
+  click node_3139 &quot;/newspapers/3139/&quot; &quot;View News&quot;
+  node_3061 --&gt; node_2568
+  node_2568 --&gt; node_3139
+        </pre>
+      </div>
+      
     </div>
-    
-    <div class="columnitem">
-      <a href="/newspapers/2568/">Central Otago News</a>
-      <br />
-      <span class="paper-meta">
-         1948 - 1999 
-      </span>
+  </section>
+  <script type="module">
+    import mermaid from "https://cdn.jsdelivr.net/npm/mermaid@10/dist/mermaid.esm.min.mjs";
+    mermaid.initialize({
+      startOnLoad: true,
+      theme: "neutral",
+      flowchart: {
+        useMaxWidth: true,
+        htmlLabels: true,
+        curve: "basis",
+      },
+    });
+  </script>
+  
+
+  <section class="all-papers-section">
+    <h4>All Newspapers in Alexandra</h4>
+    <div class="multicolumnbox">
+      
+      <div class="columnitem">
+        <a href="/newspapers/3061/">Alexandra Herald</a>
+        <br />
+        <span class="paper-meta">
+           1899 - 1948 
+        </span>
+      </div>
+      
+      <div class="columnitem">
+        <a href="/newspapers/2568/">Central Otago News</a>
+        <br />
+        <span class="paper-meta">
+           1948 - 1999 
+        </span>
+      </div>
+      
+      <div class="columnitem">
+        <a href="/newspapers/2569/">Central Sun</a>
+        <br />
+        <span class="paper-meta">
+           1982 - 1982 
+        </span>
+      </div>
+      
+      <div class="columnitem">
+        <a href="/newspapers/3139/">News</a>
+        <br />
+        <span class="paper-meta">
+           1999 - 2017 
+        </span>
+      </div>
+      
     </div>
-    
-    <div class="columnitem">
-      <a href="/newspapers/2569/">Central Sun</a>
-      <br />
-      <span class="paper-meta">
-         1982 - 1982 
-      </span>
-    </div>
-    
-    <div class="columnitem">
-      <a href="/newspapers/3139/">News</a>
-      <br />
-      <span class="paper-meta">
-         1999 - 2017 
-      </span>
-    </div>
-    
-  </div>
+  </section>
 </div>
 </main>
 

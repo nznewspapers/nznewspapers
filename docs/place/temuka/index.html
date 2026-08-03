@@ -117,57 +117,97 @@
     There are 6 newspapers published in Temuka.
   </p>
 
-  <div class="multicolumnbox">
-    
-    <div class="columnitem">
-      <a href="/newspapers/2520/">Temuka Leader</a>
-      <br />
-      <span class="paper-meta">
-         1877 - 1932 
-      </span>
+  
+  <section class="lineage-section">
+    <h4>Publication Lineages &amp; Family Trees</h4>
+    <p>
+      The following continuations and parallel editions occurred among
+      newspapers in Temuka:
+    </p>
+
+    <div class="mermaid-tree-list">
+      
+      <div class="mermaid-card">
+        <pre class="mermaid">
+graph LR
+  node_2952[&quot;New Leader&lt;br/&gt;(1996–1998)&quot;]
+  click node_2952 &quot;/newspapers/2952/&quot; &quot;View New Leader&quot;
+  node_2953[&quot;The New Temuka Leader&lt;br/&gt;(19uu–1996)&quot;]
+  click node_2953 &quot;/newspapers/2953/&quot; &quot;View The New Temuka Leader&quot;
+  node_2953 --&gt; node_2952
+        </pre>
+      </div>
+      
     </div>
-    
-    <div class="columnitem">
-      <a href="/newspapers/2525/">Evening Standard</a>
-      <br />
-      <span class="paper-meta">
-         1933 - 1933 
-      </span>
+  </section>
+  <script type="module">
+    import mermaid from "https://cdn.jsdelivr.net/npm/mermaid@10/dist/mermaid.esm.min.mjs";
+    mermaid.initialize({
+      startOnLoad: true,
+      theme: "neutral",
+      flowchart: {
+        useMaxWidth: true,
+        htmlLabels: true,
+        curve: "basis",
+      },
+    });
+  </script>
+  
+
+  <section class="all-papers-section">
+    <h4>All Newspapers in Temuka</h4>
+    <div class="multicolumnbox">
+      
+      <div class="columnitem">
+        <a href="/newspapers/2520/">Temuka Leader</a>
+        <br />
+        <span class="paper-meta">
+           1877 - 1932 
+        </span>
+      </div>
+      
+      <div class="columnitem">
+        <a href="/newspapers/2525/">Evening Standard</a>
+        <br />
+        <span class="paper-meta">
+           1933 - 1933 
+        </span>
+      </div>
+      
+      <div class="columnitem">
+        <a href="/newspapers/2526/">South Canterbury Weekly Review</a>
+        <br />
+        <span class="paper-meta">
+           1933 - 1933 
+        </span>
+      </div>
+      
+      <div class="columnitem">
+        <a href="/newspapers/2952/">New Leader</a>
+        <br />
+        <span class="paper-meta">
+           1996 - 1998 
+        </span>
+      </div>
+      
+      <div class="columnitem">
+        <a href="/newspapers/2953/">The New Temuka Leader</a>
+        <br />
+        <span class="paper-meta">
+           sometime in the 1900&#39;s - 1996 
+        </span>
+      </div>
+      
+      <div class="columnitem">
+        <a href="/newspapers/3059/">Advocate</a>
+        <br />
+        <span class="paper-meta">
+           1934 - 1934 
+        </span>
+      </div>
+      
     </div>
-    
-    <div class="columnitem">
-      <a href="/newspapers/2526/">South Canterbury Weekly Review</a>
-      <br />
-      <span class="paper-meta">
-         1933 - 1933 
-      </span>
-    </div>
-    
-    <div class="columnitem">
-      <a href="/newspapers/2952/">New Leader</a>
-      <br />
-      <span class="paper-meta">
-         1996 - 1998 
-      </span>
-    </div>
-    
-    <div class="columnitem">
-      <a href="/newspapers/2953/">The New Temuka Leader</a>
-      <br />
-      <span class="paper-meta">
-         sometime in the 1900&#39;s - 1996 
-      </span>
-    </div>
-    
-    <div class="columnitem">
-      <a href="/newspapers/3059/">Advocate</a>
-      <br />
-      <span class="paper-meta">
-         1934 - 1934 
-      </span>
-    </div>
-    
-  </div>
+  </section>
 </div>
 </main>
 

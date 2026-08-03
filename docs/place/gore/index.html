@@ -117,49 +117,100 @@
     There are 5 newspapers published in Gore.
   </p>
 
-  <div class="multicolumnbox">
-    
-    <div class="columnitem">
-      <a href="/newspapers/2695/">The Mataura Ensign</a>
-      <br />
-      <span class="paper-meta">
-         1878 - 1973 
-      </span>
+  
+  <section class="lineage-section">
+    <h4>Publication Lineages &amp; Family Trees</h4>
+    <p>
+      The following continuations and parallel editions occurred among
+      newspapers in Gore:
+    </p>
+
+    <div class="mermaid-tree-list">
+      
+      <div class="mermaid-card">
+        <pre class="mermaid">
+graph LR
+  node_2695[&quot;The Mataura Ensign&lt;br/&gt;(1878–1973)&quot;]
+  click node_2695 &quot;/newspapers/2695/&quot; &quot;View The Mataura Ensign&quot;
+  node_2698[&quot;The Ensign&lt;br/&gt;(Published since 1973)&quot;]
+  click node_2698 &quot;/newspapers/2698/&quot; &quot;View The Ensign&quot;
+  node_2695 --&gt; node_2698
+        </pre>
+      </div>
+      
+      <div class="mermaid-card">
+        <pre class="mermaid">
+graph LR
+  node_2696[&quot;Southern Standard&lt;br/&gt;(1887–1906)&quot;]
+  click node_2696 &quot;/newspapers/2696/&quot; &quot;View Southern Standard&quot;
+  node_2697[&quot;Gore Standard&lt;br/&gt;(1906–1910)&quot;]
+  click node_2697 &quot;/newspapers/2697/&quot; &quot;View Gore Standard&quot;
+  node_2696 --&gt; node_2697
+        </pre>
+      </div>
+      
     </div>
-    
-    <div class="columnitem">
-      <a href="/newspapers/2696/">Southern Standard</a>
-      <br />
-      <span class="paper-meta">
-         1887 - 1906 
-      </span>
+  </section>
+  <script type="module">
+    import mermaid from "https://cdn.jsdelivr.net/npm/mermaid@10/dist/mermaid.esm.min.mjs";
+    mermaid.initialize({
+      startOnLoad: true,
+      theme: "neutral",
+      flowchart: {
+        useMaxWidth: true,
+        htmlLabels: true,
+        curve: "basis",
+      },
+    });
+  </script>
+  
+
+  <section class="all-papers-section">
+    <h4>All Newspapers in Gore</h4>
+    <div class="multicolumnbox">
+      
+      <div class="columnitem">
+        <a href="/newspapers/2695/">The Mataura Ensign</a>
+        <br />
+        <span class="paper-meta">
+           1878 - 1973 
+        </span>
+      </div>
+      
+      <div class="columnitem">
+        <a href="/newspapers/2696/">Southern Standard</a>
+        <br />
+        <span class="paper-meta">
+           1887 - 1906 
+        </span>
+      </div>
+      
+      <div class="columnitem">
+        <a href="/newspapers/2697/">Gore Standard</a>
+        <br />
+        <span class="paper-meta">
+           1906 - 1910 
+        </span>
+      </div>
+      
+      <div class="columnitem">
+        <a href="/newspapers/2698/">The Ensign</a>
+        <br />
+        <span class="paper-meta">
+           Published since 1973 
+        </span>
+      </div>
+      
+      <div class="columnitem">
+        <a href="/newspapers/3096/">Southern Rural Life</a>
+        <br />
+        <span class="paper-meta">
+           Published since 1994 
+        </span>
+      </div>
+      
     </div>
-    
-    <div class="columnitem">
-      <a href="/newspapers/2697/">Gore Standard</a>
-      <br />
-      <span class="paper-meta">
-         1906 - 1910 
-      </span>
-    </div>
-    
-    <div class="columnitem">
-      <a href="/newspapers/2698/">The Ensign</a>
-      <br />
-      <span class="paper-meta">
-         Published since 1973 
-      </span>
-    </div>
-    
-    <div class="columnitem">
-      <a href="/newspapers/3096/">Southern Rural Life</a>
-      <br />
-      <span class="paper-meta">
-         Published since 1994 
-      </span>
-    </div>
-    
-  </div>
+  </section>
 </div>
 </main>
 

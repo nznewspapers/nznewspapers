@@ -117,33 +117,76 @@
     There are 3 newspapers published in Foxton.
   </p>
 
-  <div class="multicolumnbox">
-    
-    <div class="columnitem">
-      <a href="/newspapers/1948/">Manawatu Herald</a>
-      <br />
-      <span class="paper-meta">
-         1878 - 1955 
-      </span>
+  
+  <section class="lineage-section">
+    <h4>Publication Lineages &amp; Family Trees</h4>
+    <p>
+      The following continuations and parallel editions occurred among
+      newspapers in Foxton:
+    </p>
+
+    <div class="mermaid-tree-list">
+      
+      <div class="mermaid-card">
+        <pre class="mermaid">
+graph LR
+  node_1948[&quot;Manawatu Herald&lt;br/&gt;(1878–1955)&quot;]
+  click node_1948 &quot;/newspapers/1948/&quot; &quot;View Manawatu Herald&quot;
+  node_1959[&quot;Foxton Herald&lt;br/&gt;(1955–1961)&quot;]
+  click node_1959 &quot;/newspapers/1959/&quot; &quot;View Foxton Herald&quot;
+  node_1961[&quot;Manawatu Herald [1961]&lt;br/&gt;(1961–1997)&quot;]
+  click node_1961 &quot;/newspapers/1961/&quot; &quot;View Manawatu Herald [1961]&quot;
+  node_1948 --&gt; node_1959
+  node_1959 --&gt; node_1961
+        </pre>
+      </div>
+      
     </div>
-    
-    <div class="columnitem">
-      <a href="/newspapers/1959/">Foxton Herald</a>
-      <br />
-      <span class="paper-meta">
-         1955 - 1961 
-      </span>
+  </section>
+  <script type="module">
+    import mermaid from "https://cdn.jsdelivr.net/npm/mermaid@10/dist/mermaid.esm.min.mjs";
+    mermaid.initialize({
+      startOnLoad: true,
+      theme: "neutral",
+      flowchart: {
+        useMaxWidth: true,
+        htmlLabels: true,
+        curve: "basis",
+      },
+    });
+  </script>
+  
+
+  <section class="all-papers-section">
+    <h4>All Newspapers in Foxton</h4>
+    <div class="multicolumnbox">
+      
+      <div class="columnitem">
+        <a href="/newspapers/1948/">Manawatu Herald</a>
+        <br />
+        <span class="paper-meta">
+           1878 - 1955 
+        </span>
+      </div>
+      
+      <div class="columnitem">
+        <a href="/newspapers/1959/">Foxton Herald</a>
+        <br />
+        <span class="paper-meta">
+           1955 - 1961 
+        </span>
+      </div>
+      
+      <div class="columnitem">
+        <a href="/newspapers/1961/">Manawatu Herald [1961]</a>
+        <br />
+        <span class="paper-meta">
+           1961 - 1997 
+        </span>
+      </div>
+      
     </div>
-    
-    <div class="columnitem">
-      <a href="/newspapers/1961/">Manawatu Herald [1961]</a>
-      <br />
-      <span class="paper-meta">
-         1961 - 1997 
-      </span>
-    </div>
-    
-  </div>
+  </section>
 </div>
 </main>
 

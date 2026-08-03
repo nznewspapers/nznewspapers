@@ -117,25 +117,65 @@
     There are 2 newspapers published in Te Kuiti.
   </p>
 
-  <div class="multicolumnbox">
-    
-    <div class="columnitem">
-      <a href="/newspapers/1618/">King Country Chronicle</a>
-      <br />
-      <span class="paper-meta">
-         1906 - 1980 
-      </span>
+  
+  <section class="lineage-section">
+    <h4>Publication Lineages &amp; Family Trees</h4>
+    <p>
+      The following continuations and parallel editions occurred among
+      newspapers in Te Kuiti:
+    </p>
+
+    <div class="mermaid-tree-list">
+      
+      <div class="mermaid-card">
+        <pre class="mermaid">
+graph LR
+  node_1618[&quot;King Country Chronicle&lt;br/&gt;(1906–1980)&quot;]
+  click node_1618 &quot;/newspapers/1618/&quot; &quot;View King Country Chronicle&quot;
+  node_1620[&quot;Waitomo News&lt;br/&gt;(Published since 1980)&quot;]
+  click node_1620 &quot;/newspapers/1620/&quot; &quot;View Waitomo News&quot;
+  node_1618 --&gt; node_1620
+        </pre>
+      </div>
+      
     </div>
-    
-    <div class="columnitem">
-      <a href="/newspapers/1620/">Waitomo News</a>
-      <br />
-      <span class="paper-meta">
-         Published since 1980 
-      </span>
+  </section>
+  <script type="module">
+    import mermaid from "https://cdn.jsdelivr.net/npm/mermaid@10/dist/mermaid.esm.min.mjs";
+    mermaid.initialize({
+      startOnLoad: true,
+      theme: "neutral",
+      flowchart: {
+        useMaxWidth: true,
+        htmlLabels: true,
+        curve: "basis",
+      },
+    });
+  </script>
+  
+
+  <section class="all-papers-section">
+    <h4>All Newspapers in Te Kuiti</h4>
+    <div class="multicolumnbox">
+      
+      <div class="columnitem">
+        <a href="/newspapers/1618/">King Country Chronicle</a>
+        <br />
+        <span class="paper-meta">
+           1906 - 1980 
+        </span>
+      </div>
+      
+      <div class="columnitem">
+        <a href="/newspapers/1620/">Waitomo News</a>
+        <br />
+        <span class="paper-meta">
+           Published since 1980 
+        </span>
+      </div>
+      
     </div>
-    
-  </div>
+  </section>
 </div>
 </main>
 

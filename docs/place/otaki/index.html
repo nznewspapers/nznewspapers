@@ -117,25 +117,65 @@
     There are 2 newspapers published in Otaki.
   </p>
 
-  <div class="multicolumnbox">
-    
-    <div class="columnitem">
-      <a href="/newspapers/1996/">West Coast Mail</a>
-      <br />
-      <span class="paper-meta">
-         1893 - 1896 
-      </span>
+  
+  <section class="lineage-section">
+    <h4>Publication Lineages &amp; Family Trees</h4>
+    <p>
+      The following continuations and parallel editions occurred among
+      newspapers in Otaki:
+    </p>
+
+    <div class="mermaid-tree-list">
+      
+      <div class="mermaid-card">
+        <pre class="mermaid">
+graph LR
+  node_1996[&quot;West Coast Mail&lt;br/&gt;(1893–1896)&quot;]
+  click node_1996 &quot;/newspapers/1996/&quot; &quot;View West Coast Mail&quot;
+  node_3133[&quot;Otaki Mail&lt;br/&gt;(1897–1946)&quot;]
+  click node_3133 &quot;/newspapers/3133/&quot; &quot;View Otaki Mail&quot;
+  node_1996 --&gt; node_3133
+        </pre>
+      </div>
+      
     </div>
-    
-    <div class="columnitem">
-      <a href="/newspapers/3133/">Otaki Mail</a>
-      <br />
-      <span class="paper-meta">
-         1897 - 1946 
-      </span>
+  </section>
+  <script type="module">
+    import mermaid from "https://cdn.jsdelivr.net/npm/mermaid@10/dist/mermaid.esm.min.mjs";
+    mermaid.initialize({
+      startOnLoad: true,
+      theme: "neutral",
+      flowchart: {
+        useMaxWidth: true,
+        htmlLabels: true,
+        curve: "basis",
+      },
+    });
+  </script>
+  
+
+  <section class="all-papers-section">
+    <h4>All Newspapers in Otaki</h4>
+    <div class="multicolumnbox">
+      
+      <div class="columnitem">
+        <a href="/newspapers/1996/">West Coast Mail</a>
+        <br />
+        <span class="paper-meta">
+           1893 - 1896 
+        </span>
+      </div>
+      
+      <div class="columnitem">
+        <a href="/newspapers/3133/">Otaki Mail</a>
+        <br />
+        <span class="paper-meta">
+           1897 - 1946 
+        </span>
+      </div>
+      
     </div>
-    
-  </div>
+  </section>
 </div>
 </main>
 

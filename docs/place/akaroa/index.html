@@ -117,25 +117,65 @@
     There are 2 newspapers published in Akaroa.
   </p>
 
-  <div class="multicolumnbox">
-    
-    <div class="columnitem">
-      <a href="/newspapers/2380/">The Akaroa Mail and Banks Peninsula Advertiser</a>
-      <br />
-      <span class="paper-meta">
-         Published since 1876 
-      </span>
+  
+  <section class="lineage-section">
+    <h4>Publication Lineages &amp; Family Trees</h4>
+    <p>
+      The following continuations and parallel editions occurred among
+      newspapers in Akaroa:
+    </p>
+
+    <div class="mermaid-tree-list">
+      
+      <div class="mermaid-card">
+        <pre class="mermaid">
+graph LR
+  node_2380[&quot;The Akaroa Mail and Banks Peninsula Advertiser&lt;br/&gt;(Published since 1876)&quot;]
+  click node_2380 &quot;/newspapers/2380/&quot; &quot;View The Akaroa Mail and Banks Peninsula Advertiser&quot;
+  node_3143[&quot;The Akaroa Mail&lt;br/&gt;(19uu–1985)&quot;]
+  click node_3143 &quot;/newspapers/3143/&quot; &quot;View The Akaroa Mail&quot;
+  node_3143 --&gt; node_2380
+        </pre>
+      </div>
+      
     </div>
-    
-    <div class="columnitem">
-      <a href="/newspapers/3143/">The Akaroa Mail</a>
-      <br />
-      <span class="paper-meta">
-         sometime in the 1900&#39;s - 1985 
-      </span>
+  </section>
+  <script type="module">
+    import mermaid from "https://cdn.jsdelivr.net/npm/mermaid@10/dist/mermaid.esm.min.mjs";
+    mermaid.initialize({
+      startOnLoad: true,
+      theme: "neutral",
+      flowchart: {
+        useMaxWidth: true,
+        htmlLabels: true,
+        curve: "basis",
+      },
+    });
+  </script>
+  
+
+  <section class="all-papers-section">
+    <h4>All Newspapers in Akaroa</h4>
+    <div class="multicolumnbox">
+      
+      <div class="columnitem">
+        <a href="/newspapers/2380/">The Akaroa Mail and Banks Peninsula Advertiser</a>
+        <br />
+        <span class="paper-meta">
+           Published since 1876 
+        </span>
+      </div>
+      
+      <div class="columnitem">
+        <a href="/newspapers/3143/">The Akaroa Mail</a>
+        <br />
+        <span class="paper-meta">
+           sometime in the 1900&#39;s - 1985 
+        </span>
+      </div>
+      
     </div>
-    
-  </div>
+  </section>
 </div>
 </main>
 

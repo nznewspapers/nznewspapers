@@ -117,41 +117,81 @@
     There are 4 newspapers published in Kerikeri.
   </p>
 
-  <div class="multicolumnbox">
-    
-    <div class="columnitem">
-      <a href="/newspapers/1022/">Kerikeri Chronicle</a>
-      <br />
-      <span class="paper-meta">
-         1974 - 1986 
-      </span>
+  
+  <section class="lineage-section">
+    <h4>Publication Lineages &amp; Family Trees</h4>
+    <p>
+      The following continuations and parallel editions occurred among
+      newspapers in Kerikeri:
+    </p>
+
+    <div class="mermaid-tree-list">
+      
+      <div class="mermaid-card">
+        <pre class="mermaid">
+graph LR
+  node_1026[&quot;Chronicle (Kerikeri)&lt;br/&gt;(1988–2003)&quot;]
+  click node_1026 &quot;/newspapers/1026/&quot; &quot;View Chronicle (Kerikeri)&quot;
+  node_1031[&quot;Bay Chronicle&lt;br/&gt;(Published since 2003)&quot;]
+  click node_1031 &quot;/newspapers/1031/&quot; &quot;View Bay Chronicle&quot;
+  node_1026 --&gt; node_1031
+        </pre>
+      </div>
+      
     </div>
-    
-    <div class="columnitem">
-      <a href="/newspapers/1026/">Chronicle (Kerikeri)</a>
-      <br />
-      <span class="paper-meta">
-         1988 - 2003 
-      </span>
+  </section>
+  <script type="module">
+    import mermaid from "https://cdn.jsdelivr.net/npm/mermaid@10/dist/mermaid.esm.min.mjs";
+    mermaid.initialize({
+      startOnLoad: true,
+      theme: "neutral",
+      flowchart: {
+        useMaxWidth: true,
+        htmlLabels: true,
+        curve: "basis",
+      },
+    });
+  </script>
+  
+
+  <section class="all-papers-section">
+    <h4>All Newspapers in Kerikeri</h4>
+    <div class="multicolumnbox">
+      
+      <div class="columnitem">
+        <a href="/newspapers/1022/">Kerikeri Chronicle</a>
+        <br />
+        <span class="paper-meta">
+           1974 - 1986 
+        </span>
+      </div>
+      
+      <div class="columnitem">
+        <a href="/newspapers/1026/">Chronicle (Kerikeri)</a>
+        <br />
+        <span class="paper-meta">
+           1988 - 2003 
+        </span>
+      </div>
+      
+      <div class="columnitem">
+        <a href="/newspapers/1031/">Bay Chronicle</a>
+        <br />
+        <span class="paper-meta">
+           Published since 2003 
+        </span>
+      </div>
+      
+      <div class="columnitem">
+        <a href="/newspapers/1032/">The Bay Report</a>
+        <br />
+        <span class="paper-meta">
+           2006 - 2009 
+        </span>
+      </div>
+      
     </div>
-    
-    <div class="columnitem">
-      <a href="/newspapers/1031/">Bay Chronicle</a>
-      <br />
-      <span class="paper-meta">
-         Published since 2003 
-      </span>
-    </div>
-    
-    <div class="columnitem">
-      <a href="/newspapers/1032/">The Bay Report</a>
-      <br />
-      <span class="paper-meta">
-         2006 - 2009 
-      </span>
-    </div>
-    
-  </div>
+  </section>
 </div>
 </main>
 

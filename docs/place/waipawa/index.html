@@ -117,25 +117,65 @@
     There are 2 newspapers published in Waipawa.
   </p>
 
-  <div class="multicolumnbox">
-    
-    <div class="columnitem">
-      <a href="/newspapers/1783/">The Waipawa Mail, Waipukurau, Kaikora and Harpenden Advertiser</a>
-      <br />
-      <span class="paper-meta">
-         1878 - 1974 
-      </span>
+  
+  <section class="lineage-section">
+    <h4>Publication Lineages &amp; Family Trees</h4>
+    <p>
+      The following continuations and parallel editions occurred among
+      newspapers in Waipawa:
+    </p>
+
+    <div class="mermaid-tree-list">
+      
+      <div class="mermaid-card">
+        <pre class="mermaid">
+graph LR
+  node_1783[&quot;The Waipawa Mail, Waipukurau, Kaikora and Harpenden Advertiser&lt;br/&gt;(1878–1974)&quot;]
+  click node_1783 &quot;/newspapers/1783/&quot; &quot;View The Waipawa Mail, Waipukurau, Kaikora and Harpenden Advertiser&quot;
+  node_1787[&quot;Mail&lt;br/&gt;(1975–1980)&quot;]
+  click node_1787 &quot;/newspapers/1787/&quot; &quot;View Mail&quot;
+  node_1783 --&gt; node_1787
+        </pre>
+      </div>
+      
     </div>
-    
-    <div class="columnitem">
-      <a href="/newspapers/1787/">Mail</a>
-      <br />
-      <span class="paper-meta">
-         1975 - 1980 
-      </span>
+  </section>
+  <script type="module">
+    import mermaid from "https://cdn.jsdelivr.net/npm/mermaid@10/dist/mermaid.esm.min.mjs";
+    mermaid.initialize({
+      startOnLoad: true,
+      theme: "neutral",
+      flowchart: {
+        useMaxWidth: true,
+        htmlLabels: true,
+        curve: "basis",
+      },
+    });
+  </script>
+  
+
+  <section class="all-papers-section">
+    <h4>All Newspapers in Waipawa</h4>
+    <div class="multicolumnbox">
+      
+      <div class="columnitem">
+        <a href="/newspapers/1783/">The Waipawa Mail, Waipukurau, Kaikora and Harpenden Advertiser</a>
+        <br />
+        <span class="paper-meta">
+           1878 - 1974 
+        </span>
+      </div>
+      
+      <div class="columnitem">
+        <a href="/newspapers/1787/">Mail</a>
+        <br />
+        <span class="paper-meta">
+           1975 - 1980 
+        </span>
+      </div>
+      
     </div>
-    
-  </div>
+  </section>
 </div>
 </main>
 

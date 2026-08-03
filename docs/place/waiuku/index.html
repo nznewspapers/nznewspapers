@@ -117,49 +117,89 @@
     There are 5 newspapers published in Waiuku.
   </p>
 
-  <div class="multicolumnbox">
-    
-    <div class="columnitem">
-      <a href="/newspapers/3090/">Waiuku Advocate And Franklin County Chronicle</a>
-      <br />
-      <span class="paper-meta">
-         1914 - sometime in the 1910&#39;s 
-      </span>
+  
+  <section class="lineage-section">
+    <h4>Publication Lineages &amp; Family Trees</h4>
+    <p>
+      The following continuations and parallel editions occurred among
+      newspapers in Waiuku:
+    </p>
+
+    <div class="mermaid-tree-list">
+      
+      <div class="mermaid-card">
+        <pre class="mermaid">
+graph LR
+  node_3090[&quot;Waiuku Advocate And Franklin County Chronicle&lt;br/&gt;(1914–191u)&quot;]
+  click node_3090 &quot;/newspapers/3090/&quot; &quot;View Waiuku Advocate And Franklin County Chronicle&quot;
+  node_1090[&quot;Waiuku News and Franklin County Gazette&lt;br/&gt;(1915–1964)&quot;]
+  click node_1090 &quot;/newspapers/1090/&quot; &quot;View Waiuku News and Franklin County Gazette&quot;
+  node_3090 --&gt; node_1090
+        </pre>
+      </div>
+      
     </div>
-    
-    <div class="columnitem">
-      <a href="/newspapers/1090/">Waiuku News and Franklin County Gazette</a>
-      <br />
-      <span class="paper-meta">
-         1915 - 1964 
-      </span>
+  </section>
+  <script type="module">
+    import mermaid from "https://cdn.jsdelivr.net/npm/mermaid@10/dist/mermaid.esm.min.mjs";
+    mermaid.initialize({
+      startOnLoad: true,
+      theme: "neutral",
+      flowchart: {
+        useMaxWidth: true,
+        htmlLabels: true,
+        curve: "basis",
+      },
+    });
+  </script>
+  
+
+  <section class="all-papers-section">
+    <h4>All Newspapers in Waiuku</h4>
+    <div class="multicolumnbox">
+      
+      <div class="columnitem">
+        <a href="/newspapers/3090/">Waiuku Advocate And Franklin County Chronicle</a>
+        <br />
+        <span class="paper-meta">
+           1914 - sometime in the 1910&#39;s 
+        </span>
+      </div>
+      
+      <div class="columnitem">
+        <a href="/newspapers/1090/">Waiuku News and Franklin County Gazette</a>
+        <br />
+        <span class="paper-meta">
+           1915 - 1964 
+        </span>
+      </div>
+      
+      <div class="columnitem">
+        <a href="/newspapers/3127/">Waiuku Gazette And West Franklin Weekly News</a>
+        <br />
+        <span class="paper-meta">
+           1964 - 1969 
+        </span>
+      </div>
+      
+      <div class="columnitem">
+        <a href="/newspapers/1159/">Waiuku News</a>
+        <br />
+        <span class="paper-meta">
+           1969 - 1970 
+        </span>
+      </div>
+      
+      <div class="columnitem">
+        <a href="/newspapers/1270/">Post</a>
+        <br />
+        <span class="paper-meta">
+           Published since 2006 
+        </span>
+      </div>
+      
     </div>
-    
-    <div class="columnitem">
-      <a href="/newspapers/3127/">Waiuku Gazette And West Franklin Weekly News</a>
-      <br />
-      <span class="paper-meta">
-         1964 - 1969 
-      </span>
-    </div>
-    
-    <div class="columnitem">
-      <a href="/newspapers/1159/">Waiuku News</a>
-      <br />
-      <span class="paper-meta">
-         1969 - 1970 
-      </span>
-    </div>
-    
-    <div class="columnitem">
-      <a href="/newspapers/1270/">Post</a>
-      <br />
-      <span class="paper-meta">
-         Published since 2006 
-      </span>
-    </div>
-    
-  </div>
+  </section>
 </div>
 </main>
 

@@ -117,57 +117,97 @@
     There are 6 newspapers published in Marton.
   </p>
 
-  <div class="multicolumnbox">
-    
-    <div class="columnitem">
-      <a href="/newspapers/1859/">Rangitikei Advocate and Manawatu Argus</a>
-      <br />
-      <span class="paper-meta">
-         1875 - 1941 
-      </span>
+  
+  <section class="lineage-section">
+    <h4>Publication Lineages &amp; Family Trees</h4>
+    <p>
+      The following continuations and parallel editions occurred among
+      newspapers in Marton:
+    </p>
+
+    <div class="mermaid-tree-list">
+      
+      <div class="mermaid-card">
+        <pre class="mermaid">
+graph LR
+  node_1873[&quot;District Monitor&lt;br/&gt;(1992–2004)&quot;]
+  click node_1873 &quot;/newspapers/1873/&quot; &quot;View District Monitor&quot;
+  node_1874[&quot;Rangitikei District Monitor&lt;br/&gt;(Published since 2004)&quot;]
+  click node_1874 &quot;/newspapers/1874/&quot; &quot;View Rangitikei District Monitor&quot;
+  node_1873 --&gt; node_1874
+        </pre>
+      </div>
+      
     </div>
-    
-    <div class="columnitem">
-      <a href="/newspapers/1861/">Mercury</a>
-      <br />
-      <span class="paper-meta">
-         1891 - 1896 
-      </span>
+  </section>
+  <script type="module">
+    import mermaid from "https://cdn.jsdelivr.net/npm/mermaid@10/dist/mermaid.esm.min.mjs";
+    mermaid.initialize({
+      startOnLoad: true,
+      theme: "neutral",
+      flowchart: {
+        useMaxWidth: true,
+        htmlLabels: true,
+        curve: "basis",
+      },
+    });
+  </script>
+  
+
+  <section class="all-papers-section">
+    <h4>All Newspapers in Marton</h4>
+    <div class="multicolumnbox">
+      
+      <div class="columnitem">
+        <a href="/newspapers/1859/">Rangitikei Advocate and Manawatu Argus</a>
+        <br />
+        <span class="paper-meta">
+           1875 - 1941 
+        </span>
+      </div>
+      
+      <div class="columnitem">
+        <a href="/newspapers/1861/">Mercury</a>
+        <br />
+        <span class="paper-meta">
+           1891 - 1896 
+        </span>
+      </div>
+      
+      <div class="columnitem">
+        <a href="/newspapers/1869/">Rangitikei News</a>
+        <br />
+        <span class="paper-meta">
+           1948 - 1955 
+        </span>
+      </div>
+      
+      <div class="columnitem">
+        <a href="/newspapers/3142/">The Rangitikei Mail</a>
+        <br />
+        <span class="paper-meta">
+           1955 - 2002 
+        </span>
+      </div>
+      
+      <div class="columnitem">
+        <a href="/newspapers/1873/">District Monitor</a>
+        <br />
+        <span class="paper-meta">
+           1992 - 2004 
+        </span>
+      </div>
+      
+      <div class="columnitem">
+        <a href="/newspapers/1874/">Rangitikei District Monitor</a>
+        <br />
+        <span class="paper-meta">
+           Published since 2004 
+        </span>
+      </div>
+      
     </div>
-    
-    <div class="columnitem">
-      <a href="/newspapers/1869/">Rangitikei News</a>
-      <br />
-      <span class="paper-meta">
-         1948 - 1955 
-      </span>
-    </div>
-    
-    <div class="columnitem">
-      <a href="/newspapers/3142/">The Rangitikei Mail</a>
-      <br />
-      <span class="paper-meta">
-         1955 - 2002 
-      </span>
-    </div>
-    
-    <div class="columnitem">
-      <a href="/newspapers/1873/">District Monitor</a>
-      <br />
-      <span class="paper-meta">
-         1992 - 2004 
-      </span>
-    </div>
-    
-    <div class="columnitem">
-      <a href="/newspapers/1874/">Rangitikei District Monitor</a>
-      <br />
-      <span class="paper-meta">
-         Published since 2004 
-      </span>
-    </div>
-    
-  </div>
+  </section>
 </div>
 </main>
 

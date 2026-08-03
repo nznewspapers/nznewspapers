@@ -117,57 +117,106 @@
     There are 6 newspapers published in Reefton.
   </p>
 
-  <div class="multicolumnbox">
-    
-    <div class="columnitem">
-      <a href="/newspapers/2291/">Inangahua Herald</a>
-      <br />
-      <span class="paper-meta">
-         1872 - 1936 
-      </span>
+  
+  <section class="lineage-section">
+    <h4>Publication Lineages &amp; Family Trees</h4>
+    <p>
+      The following continuations and parallel editions occurred among
+      newspapers in Reefton:
+    </p>
+
+    <div class="mermaid-tree-list">
+      
+      <div class="mermaid-card">
+        <pre class="mermaid">
+graph LR
+  node_2291[&quot;Inangahua Herald&lt;br/&gt;(1872–1936)&quot;]
+  click node_2291 &quot;/newspapers/2291/&quot; &quot;View Inangahua Herald&quot;
+  node_2297[&quot;The Inangahua Times&lt;br/&gt;(1875–1942)&quot;]
+  click node_2297 &quot;/newspapers/2297/&quot; &quot;View The Inangahua Times&quot;
+  node_2294[&quot;Reefton Courier and Inangahua Advertiser&lt;br/&gt;(1874–1874)&quot;]
+  click node_2294 &quot;/newspapers/2294/&quot; &quot;View Reefton Courier and Inangahua Advertiser&quot;
+  node_2303[&quot;Reefton Guardian&lt;br/&gt;(1888–1894)&quot;]
+  click node_2303 &quot;/newspapers/2303/&quot; &quot;View Reefton Guardian&quot;
+  node_2309[&quot;Inangahua-Murchison Times&lt;br/&gt;(1946–1956)&quot;]
+  click node_2309 &quot;/newspapers/2309/&quot; &quot;View Inangahua-Murchison Times&quot;
+  node_2291 --&gt; node_2297
+  node_2294 --&gt; node_2297
+  node_2303 --&gt; node_2297
+  node_2297 --&gt; node_2309
+        </pre>
+      </div>
+      
     </div>
-    
-    <div class="columnitem">
-      <a href="/newspapers/2294/">Reefton Courier and Inangahua Advertiser</a>
-      <br />
-      <span class="paper-meta">
-         1874 - 1874 
-      </span>
+  </section>
+  <script type="module">
+    import mermaid from "https://cdn.jsdelivr.net/npm/mermaid@10/dist/mermaid.esm.min.mjs";
+    mermaid.initialize({
+      startOnLoad: true,
+      theme: "neutral",
+      flowchart: {
+        useMaxWidth: true,
+        htmlLabels: true,
+        curve: "basis",
+      },
+    });
+  </script>
+  
+
+  <section class="all-papers-section">
+    <h4>All Newspapers in Reefton</h4>
+    <div class="multicolumnbox">
+      
+      <div class="columnitem">
+        <a href="/newspapers/2291/">Inangahua Herald</a>
+        <br />
+        <span class="paper-meta">
+           1872 - 1936 
+        </span>
+      </div>
+      
+      <div class="columnitem">
+        <a href="/newspapers/2294/">Reefton Courier and Inangahua Advertiser</a>
+        <br />
+        <span class="paper-meta">
+           1874 - 1874 
+        </span>
+      </div>
+      
+      <div class="columnitem">
+        <a href="/newspapers/2297/">The Inangahua Times</a>
+        <br />
+        <span class="paper-meta">
+           1875 - 1942 
+        </span>
+      </div>
+      
+      <div class="columnitem">
+        <a href="/newspapers/2303/">Reefton Guardian</a>
+        <br />
+        <span class="paper-meta">
+           1888 - 1894 
+        </span>
+      </div>
+      
+      <div class="columnitem">
+        <a href="/newspapers/2308/">Reefton Weekly</a>
+        <br />
+        <span class="paper-meta">
+           1942 - an unknown date 
+        </span>
+      </div>
+      
+      <div class="columnitem">
+        <a href="/newspapers/2309/">Inangahua-Murchison Times</a>
+        <br />
+        <span class="paper-meta">
+           1946 - 1956 
+        </span>
+      </div>
+      
     </div>
-    
-    <div class="columnitem">
-      <a href="/newspapers/2297/">The Inangahua Times</a>
-      <br />
-      <span class="paper-meta">
-         1875 - 1942 
-      </span>
-    </div>
-    
-    <div class="columnitem">
-      <a href="/newspapers/2303/">Reefton Guardian</a>
-      <br />
-      <span class="paper-meta">
-         1888 - 1894 
-      </span>
-    </div>
-    
-    <div class="columnitem">
-      <a href="/newspapers/2308/">Reefton Weekly</a>
-      <br />
-      <span class="paper-meta">
-         1942 - an unknown date 
-      </span>
-    </div>
-    
-    <div class="columnitem">
-      <a href="/newspapers/2309/">Inangahua-Murchison Times</a>
-      <br />
-      <span class="paper-meta">
-         1946 - 1956 
-      </span>
-    </div>
-    
-  </div>
+  </section>
 </div>
 </main>
 

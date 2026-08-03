@@ -117,73 +117,116 @@
     There are 8 newspapers published in Ashburton.
   </p>
 
-  <div class="multicolumnbox">
-    
-    <div class="columnitem">
-      <a href="/newspapers/3068/">Ashburton Mail</a>
-      <br />
-      <span class="paper-meta">
-         1877 - 1932 
-      </span>
+  
+  <section class="lineage-section">
+    <h4>Publication Lineages &amp; Family Trees</h4>
+    <p>
+      The following continuations and parallel editions occurred among
+      newspapers in Ashburton:
+    </p>
+
+    <div class="mermaid-tree-list">
+      
+      <div class="mermaid-card">
+        <pre class="mermaid">
+graph LR
+  node_2507[&quot;Evening Echo&lt;br/&gt;(1878–1879)&quot;]
+  click node_2507 &quot;/newspapers/2507/&quot; &quot;View Evening Echo&quot;
+  node_2508[&quot;Ashburton Herald&lt;br/&gt;(1879–1880)&quot;]
+  click node_2508 &quot;/newspapers/2508/&quot; &quot;View Ashburton Herald&quot;
+  node_2509[&quot;Ashburton Guardian&lt;br/&gt;(Published since 1879)&quot;]
+  click node_2509 &quot;/newspapers/2509/&quot; &quot;View Ashburton Guardian&quot;
+  node_2507 --&gt; node_2508
+  node_2508 --&gt; node_2509
+        </pre>
+      </div>
+      
     </div>
-    
-    <div class="columnitem">
-      <a href="/newspapers/2507/">Evening Echo</a>
-      <br />
-      <span class="paper-meta">
-         1878 - 1879 
-      </span>
+  </section>
+  <script type="module">
+    import mermaid from "https://cdn.jsdelivr.net/npm/mermaid@10/dist/mermaid.esm.min.mjs";
+    mermaid.initialize({
+      startOnLoad: true,
+      theme: "neutral",
+      flowchart: {
+        useMaxWidth: true,
+        htmlLabels: true,
+        curve: "basis",
+      },
+    });
+  </script>
+  
+
+  <section class="all-papers-section">
+    <h4>All Newspapers in Ashburton</h4>
+    <div class="multicolumnbox">
+      
+      <div class="columnitem">
+        <a href="/newspapers/3068/">Ashburton Mail</a>
+        <br />
+        <span class="paper-meta">
+           1877 - 1932 
+        </span>
+      </div>
+      
+      <div class="columnitem">
+        <a href="/newspapers/2507/">Evening Echo</a>
+        <br />
+        <span class="paper-meta">
+           1878 - 1879 
+        </span>
+      </div>
+      
+      <div class="columnitem">
+        <a href="/newspapers/2509/">Ashburton Guardian</a>
+        <br />
+        <span class="paper-meta">
+           Published since 1879 
+        </span>
+      </div>
+      
+      <div class="columnitem">
+        <a href="/newspapers/2508/">Ashburton Herald</a>
+        <br />
+        <span class="paper-meta">
+           1879 - 1880 
+        </span>
+      </div>
+      
+      <div class="columnitem">
+        <a href="/newspapers/2510/">Guardian Mid-weeker</a>
+        <br />
+        <span class="paper-meta">
+           Published since 1986 
+        </span>
+      </div>
+      
+      <div class="columnitem">
+        <a href="/newspapers/2511/">Ashburton&#39;s the Courier</a>
+        <br />
+        <span class="paper-meta">
+           sometime in the 1980&#39;s - 1995 
+        </span>
+      </div>
+      
+      <div class="columnitem">
+        <a href="/newspapers/2513/">Mid Canterbury Herald</a>
+        <br />
+        <span class="paper-meta">
+           Published since 2007 
+        </span>
+      </div>
+      
+      <div class="columnitem">
+        <a href="/newspapers/2514/">The Ashburton Courier</a>
+        <br />
+        <span class="paper-meta">
+           Published since 2012 
+        </span>
+      </div>
+      
     </div>
-    
-    <div class="columnitem">
-      <a href="/newspapers/2509/">Ashburton Guardian</a>
-      <br />
-      <span class="paper-meta">
-         Published since 1879 
-      </span>
-    </div>
-    
-    <div class="columnitem">
-      <a href="/newspapers/2508/">Ashburton Herald</a>
-      <br />
-      <span class="paper-meta">
-         1879 - 1880 
-      </span>
-    </div>
-    
-    <div class="columnitem">
-      <a href="/newspapers/2510/">Guardian Mid-weeker</a>
-      <br />
-      <span class="paper-meta">
-         Published since 1986 
-      </span>
-    </div>
-    
-    <div class="columnitem">
-      <a href="/newspapers/2511/">Ashburton&#39;s the Courier</a>
-      <br />
-      <span class="paper-meta">
-         sometime in the 1980&#39;s - 1995 
-      </span>
-    </div>
-    
-    <div class="columnitem">
-      <a href="/newspapers/2513/">Mid Canterbury Herald</a>
-      <br />
-      <span class="paper-meta">
-         Published since 2007 
-      </span>
-    </div>
-    
-    <div class="columnitem">
-      <a href="/newspapers/2514/">The Ashburton Courier</a>
-      <br />
-      <span class="paper-meta">
-         Published since 2012 
-      </span>
-    </div>
-    
-  </div>
+  </section>
 </div>
 </main>
 

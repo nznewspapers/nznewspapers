@@ -117,25 +117,65 @@
     There are 2 newspapers published in Twizel.
   </p>
 
-  <div class="multicolumnbox">
-    
-    <div class="columnitem">
-      <a href="/newspapers/2516/">Twizel Chronicle</a>
-      <br />
-      <span class="paper-meta">
-         1971 - 1984 
-      </span>
+  
+  <section class="lineage-section">
+    <h4>Publication Lineages &amp; Family Trees</h4>
+    <p>
+      The following continuations and parallel editions occurred among
+      newspapers in Twizel:
+    </p>
+
+    <div class="mermaid-tree-list">
+      
+      <div class="mermaid-card">
+        <pre class="mermaid">
+graph LR
+  node_2516[&quot;Twizel Chronicle&lt;br/&gt;(1971–1984)&quot;]
+  click node_2516 &quot;/newspapers/2516/&quot; &quot;View Twizel Chronicle&quot;
+  node_2515[&quot;Twizel Newsletter&lt;br/&gt;(1971–1971)&quot;]
+  click node_2515 &quot;/newspapers/2515/&quot; &quot;View Twizel Newsletter&quot;
+  node_2515 --&gt; node_2516
+        </pre>
+      </div>
+      
     </div>
-    
-    <div class="columnitem">
-      <a href="/newspapers/2515/">Twizel Newsletter</a>
-      <br />
-      <span class="paper-meta">
-         1971 - 1971 
-      </span>
+  </section>
+  <script type="module">
+    import mermaid from "https://cdn.jsdelivr.net/npm/mermaid@10/dist/mermaid.esm.min.mjs";
+    mermaid.initialize({
+      startOnLoad: true,
+      theme: "neutral",
+      flowchart: {
+        useMaxWidth: true,
+        htmlLabels: true,
+        curve: "basis",
+      },
+    });
+  </script>
+  
+
+  <section class="all-papers-section">
+    <h4>All Newspapers in Twizel</h4>
+    <div class="multicolumnbox">
+      
+      <div class="columnitem">
+        <a href="/newspapers/2516/">Twizel Chronicle</a>
+        <br />
+        <span class="paper-meta">
+           1971 - 1984 
+        </span>
+      </div>
+      
+      <div class="columnitem">
+        <a href="/newspapers/2515/">Twizel Newsletter</a>
+        <br />
+        <span class="paper-meta">
+           1971 - 1971 
+        </span>
+      </div>
+      
     </div>
-    
-  </div>
+  </section>
 </div>
 </main>
 

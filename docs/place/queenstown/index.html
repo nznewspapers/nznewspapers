@@ -117,57 +117,97 @@
     There are 6 newspapers published in Queenstown.
   </p>
 
-  <div class="multicolumnbox">
-    
-    <div class="columnitem">
-      <a href="/newspapers/2555/">Lake Wakatip Mail</a>
-      <br />
-      <span class="paper-meta">
-         1863 - 1953 
-      </span>
+  
+  <section class="lineage-section">
+    <h4>Publication Lineages &amp; Family Trees</h4>
+    <p>
+      The following continuations and parallel editions occurred among
+      newspapers in Queenstown:
+    </p>
+
+    <div class="mermaid-tree-list">
+      
+      <div class="mermaid-card">
+        <pre class="mermaid">
+graph LR
+  node_2559[&quot;Wakatipu Advertiser&lt;br/&gt;(1984–1987)&quot;]
+  click node_2559 &quot;/newspapers/2559/&quot; &quot;View Wakatipu Advertiser&quot;
+  node_3058[&quot;Advertiser&lt;br/&gt;(1987–1988)&quot;]
+  click node_3058 &quot;/newspapers/3058/&quot; &quot;View Advertiser&quot;
+  node_2559 --&gt; node_3058
+        </pre>
+      </div>
+      
     </div>
-    
-    <div class="columnitem">
-      <a href="/newspapers/2557/">Lake County Mail</a>
-      <br />
-      <span class="paper-meta">
-         1947 - 1948 
-      </span>
+  </section>
+  <script type="module">
+    import mermaid from "https://cdn.jsdelivr.net/npm/mermaid@10/dist/mermaid.esm.min.mjs";
+    mermaid.initialize({
+      startOnLoad: true,
+      theme: "neutral",
+      flowchart: {
+        useMaxWidth: true,
+        htmlLabels: true,
+        curve: "basis",
+      },
+    });
+  </script>
+  
+
+  <section class="all-papers-section">
+    <h4>All Newspapers in Queenstown</h4>
+    <div class="multicolumnbox">
+      
+      <div class="columnitem">
+        <a href="/newspapers/2555/">Lake Wakatip Mail</a>
+        <br />
+        <span class="paper-meta">
+           1863 - 1953 
+        </span>
+      </div>
+      
+      <div class="columnitem">
+        <a href="/newspapers/2557/">Lake County Mail</a>
+        <br />
+        <span class="paper-meta">
+           1947 - 1948 
+        </span>
+      </div>
+      
+      <div class="columnitem">
+        <a href="/newspapers/2558/">Mountain Scene</a>
+        <br />
+        <span class="paper-meta">
+           Published since 1972 
+        </span>
+      </div>
+      
+      <div class="columnitem">
+        <a href="/newspapers/2559/">Wakatipu Advertiser</a>
+        <br />
+        <span class="paper-meta">
+           1984 - 1987 
+        </span>
+      </div>
+      
+      <div class="columnitem">
+        <a href="/newspapers/3058/">Advertiser</a>
+        <br />
+        <span class="paper-meta">
+           1987 - 1988 
+        </span>
+      </div>
+      
+      <div class="columnitem">
+        <a href="/newspapers/2561/">Queenstown Times</a>
+        <br />
+        <span class="paper-meta">
+           Published since 2008 
+        </span>
+      </div>
+      
     </div>
-    
-    <div class="columnitem">
-      <a href="/newspapers/2558/">Mountain Scene</a>
-      <br />
-      <span class="paper-meta">
-         Published since 1972 
-      </span>
-    </div>
-    
-    <div class="columnitem">
-      <a href="/newspapers/2559/">Wakatipu Advertiser</a>
-      <br />
-      <span class="paper-meta">
-         1984 - 1987 
-      </span>
-    </div>
-    
-    <div class="columnitem">
-      <a href="/newspapers/3058/">Advertiser</a>
-      <br />
-      <span class="paper-meta">
-         1987 - 1988 
-      </span>
-    </div>
-    
-    <div class="columnitem">
-      <a href="/newspapers/2561/">Queenstown Times</a>
-      <br />
-      <span class="paper-meta">
-         Published since 2008 
-      </span>
-    </div>
-    
-  </div>
+  </section>
 </div>
 </main>
 

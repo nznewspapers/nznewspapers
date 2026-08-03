@@ -117,65 +117,116 @@
     There are 7 newspapers published in Cambridge.
   </p>
 
-  <div class="multicolumnbox">
-    
-    <div class="columnitem">
-      <a href="/newspapers/1519/">Waikato Mail</a>
-      <br />
-      <span class="paper-meta">
-         1880 - 1883 
-      </span>
+  
+  <section class="lineage-section">
+    <h4>Publication Lineages &amp; Family Trees</h4>
+    <p>
+      The following continuations and parallel editions occurred among
+      newspapers in Cambridge:
+    </p>
+
+    <div class="mermaid-tree-list">
+      
+      <div class="mermaid-card">
+        <pre class="mermaid">
+graph LR
+  node_1526[&quot;Waikato Independent&lt;br/&gt;(1904–1966)&quot;]
+  click node_1526 &quot;/newspapers/1526/&quot; &quot;View Waikato Independent&quot;
+  node_1534[&quot;Cambridge Independent&lt;br/&gt;(1966–1995)&quot;]
+  click node_1534 &quot;/newspapers/1534/&quot; &quot;View Cambridge Independent&quot;
+  node_1526 --&gt; node_1534
+        </pre>
+      </div>
+      
+      <div class="mermaid-card">
+        <pre class="mermaid">
+graph LR
+  node_1537[&quot;New Edition&lt;br/&gt;(1981–1983)&quot;]
+  click node_1537 &quot;/newspapers/1537/&quot; &quot;View New Edition&quot;
+  node_1540[&quot;Cambridge Edition&lt;br/&gt;(Published since 1984)&quot;]
+  click node_1540 &quot;/newspapers/1540/&quot; &quot;View Cambridge Edition&quot;
+  node_1537 --&gt; node_1540
+        </pre>
+      </div>
+      
     </div>
-    
-    <div class="columnitem">
-      <a href="/newspapers/1524/">Waikato Advocate</a>
-      <br />
-      <span class="paper-meta">
-         1895 - 1896 
-      </span>
+  </section>
+  <script type="module">
+    import mermaid from "https://cdn.jsdelivr.net/npm/mermaid@10/dist/mermaid.esm.min.mjs";
+    mermaid.initialize({
+      startOnLoad: true,
+      theme: "neutral",
+      flowchart: {
+        useMaxWidth: true,
+        htmlLabels: true,
+        curve: "basis",
+      },
+    });
+  </script>
+  
+
+  <section class="all-papers-section">
+    <h4>All Newspapers in Cambridge</h4>
+    <div class="multicolumnbox">
+      
+      <div class="columnitem">
+        <a href="/newspapers/1519/">Waikato Mail</a>
+        <br />
+        <span class="paper-meta">
+           1880 - 1883 
+        </span>
+      </div>
+      
+      <div class="columnitem">
+        <a href="/newspapers/1524/">Waikato Advocate</a>
+        <br />
+        <span class="paper-meta">
+           1895 - 1896 
+        </span>
+      </div>
+      
+      <div class="columnitem">
+        <a href="/newspapers/1526/">Waikato Independent</a>
+        <br />
+        <span class="paper-meta">
+           1904 - 1966 
+        </span>
+      </div>
+      
+      <div class="columnitem">
+        <a href="/newspapers/1534/">Cambridge Independent</a>
+        <br />
+        <span class="paper-meta">
+           1966 - 1995 
+        </span>
+      </div>
+      
+      <div class="columnitem">
+        <a href="/newspapers/1537/">New Edition</a>
+        <br />
+        <span class="paper-meta">
+           1981 - 1983 
+        </span>
+      </div>
+      
+      <div class="columnitem">
+        <a href="/newspapers/1540/">Cambridge Edition</a>
+        <br />
+        <span class="paper-meta">
+           Published since 1984 
+        </span>
+      </div>
+      
+      <div class="columnitem">
+        <a href="/newspapers/1542/">Waipa Advertiser</a>
+        <br />
+        <span class="paper-meta">
+           1989 - 1991 
+        </span>
+      </div>
+      
     </div>
-    
-    <div class="columnitem">
-      <a href="/newspapers/1526/">Waikato Independent</a>
-      <br />
-      <span class="paper-meta">
-         1904 - 1966 
-      </span>
-    </div>
-    
-    <div class="columnitem">
-      <a href="/newspapers/1534/">Cambridge Independent</a>
-      <br />
-      <span class="paper-meta">
-         1966 - 1995 
-      </span>
-    </div>
-    
-    <div class="columnitem">
-      <a href="/newspapers/1537/">New Edition</a>
-      <br />
-      <span class="paper-meta">
-         1981 - 1983 
-      </span>
-    </div>
-    
-    <div class="columnitem">
-      <a href="/newspapers/1540/">Cambridge Edition</a>
-      <br />
-      <span class="paper-meta">
-         Published since 1984 
-      </span>
-    </div>
-    
-    <div class="columnitem">
-      <a href="/newspapers/1542/">Waipa Advertiser</a>
-      <br />
-      <span class="paper-meta">
-         1989 - 1991 
-      </span>
-    </div>
-    
-  </div>
+  </section>
 </div>
 </main>
 

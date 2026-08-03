@@ -117,49 +117,89 @@
     There are 5 newspapers published in Balclutha.
   </p>
 
-  <div class="multicolumnbox">
-    
-    <div class="columnitem">
-      <a href="/newspapers/2640/">Clutha Leader</a>
-      <br />
-      <span class="paper-meta">
-         Published since 1874 
-      </span>
+  
+  <section class="lineage-section">
+    <h4>Publication Lineages &amp; Family Trees</h4>
+    <p>
+      The following continuations and parallel editions occurred among
+      newspapers in Balclutha:
+    </p>
+
+    <div class="mermaid-tree-list">
+      
+      <div class="mermaid-card">
+        <pre class="mermaid">
+graph LR
+  node_2649[&quot;Milton Gazette&lt;br/&gt;(1971–1993)&quot;]
+  click node_2649 &quot;/newspapers/2649/&quot; &quot;View Milton Gazette&quot;
+  node_2650[&quot;Southern Gazette&lt;br/&gt;(1993–1995)&quot;]
+  click node_2650 &quot;/newspapers/2650/&quot; &quot;View Southern Gazette&quot;
+  node_2649 --&gt; node_2650
+        </pre>
+      </div>
+      
     </div>
-    
-    <div class="columnitem">
-      <a href="/newspapers/2641/">Clutha Times</a>
-      <br />
-      <span class="paper-meta">
-         1878 - 1879 
-      </span>
+  </section>
+  <script type="module">
+    import mermaid from "https://cdn.jsdelivr.net/npm/mermaid@10/dist/mermaid.esm.min.mjs";
+    mermaid.initialize({
+      startOnLoad: true,
+      theme: "neutral",
+      flowchart: {
+        useMaxWidth: true,
+        htmlLabels: true,
+        curve: "basis",
+      },
+    });
+  </script>
+  
+
+  <section class="all-papers-section">
+    <h4>All Newspapers in Balclutha</h4>
+    <div class="multicolumnbox">
+      
+      <div class="columnitem">
+        <a href="/newspapers/2640/">Clutha Leader</a>
+        <br />
+        <span class="paper-meta">
+           Published since 1874 
+        </span>
+      </div>
+      
+      <div class="columnitem">
+        <a href="/newspapers/2641/">Clutha Times</a>
+        <br />
+        <span class="paper-meta">
+           1878 - 1879 
+        </span>
+      </div>
+      
+      <div class="columnitem">
+        <a href="/newspapers/2645/">Free Press</a>
+        <br />
+        <span class="paper-meta">
+           1891 - 1926 
+        </span>
+      </div>
+      
+      <div class="columnitem">
+        <a href="/newspapers/2649/">Milton Gazette</a>
+        <br />
+        <span class="paper-meta">
+           1971 - 1993 
+        </span>
+      </div>
+      
+      <div class="columnitem">
+        <a href="/newspapers/2650/">Southern Gazette</a>
+        <br />
+        <span class="paper-meta">
+           1993 - 1995 
+        </span>
+      </div>
+      
     </div>
-    
-    <div class="columnitem">
-      <a href="/newspapers/2645/">Free Press</a>
-      <br />
-      <span class="paper-meta">
-         1891 - 1926 
-      </span>
-    </div>
-    
-    <div class="columnitem">
-      <a href="/newspapers/2649/">Milton Gazette</a>
-      <br />
-      <span class="paper-meta">
-         1971 - 1993 
-      </span>
-    </div>
-    
-    <div class="columnitem">
-      <a href="/newspapers/2650/">Southern Gazette</a>
-      <br />
-      <span class="paper-meta">
-         1993 - 1995 
-      </span>
-    </div>
-    
-  </div>
+  </section>
 </div>
 </main>
 

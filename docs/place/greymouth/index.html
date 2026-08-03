@@ -117,65 +117,127 @@
     There are 7 newspapers published in Greymouth.
   </p>
 
-  <div class="multicolumnbox">
-    
-    <div class="columnitem">
-      <a href="/newspapers/2311/">The Grey River Argus</a>
-      <br />
-      <span class="paper-meta">
-         1865 - 1966 
-      </span>
+  
+  <section class="lineage-section">
+    <h4>Publication Lineages &amp; Family Trees</h4>
+    <p>
+      The following continuations and parallel editions occurred among
+      newspapers in Greymouth:
+    </p>
+
+    <div class="mermaid-tree-list">
+      
+      <div class="mermaid-card">
+        <pre class="mermaid">
+graph LR
+  node_2311[&quot;The Grey River Argus&lt;br/&gt;(1865–1966)&quot;]
+  click node_2311 &quot;/newspapers/2311/&quot; &quot;View The Grey River Argus&quot;
+  node_2317[&quot;Argus Leader&lt;br/&gt;(1966–1966)&quot;]
+  click node_2317 &quot;/newspapers/2317/&quot; &quot;View Argus Leader&quot;
+  node_2311 --&gt; node_2317
+        </pre>
+      </div>
+      
+      <div class="mermaid-card">
+        <pre class="mermaid">
+graph LR
+  node_2313[&quot;Greymouth Evening Star&lt;br/&gt;(1866–2006)&quot;]
+  click node_2313 &quot;/newspapers/2313/&quot; &quot;View Greymouth Evening Star&quot;
+  node_2320[&quot;Greymouth Star&lt;br/&gt;(Published since 2006)&quot;]
+  click node_2320 &quot;/newspapers/2320/&quot; &quot;View Greymouth Star&quot;
+  node_2313 --&gt; node_2320
+        </pre>
+      </div>
+      
+      <div class="mermaid-card">
+        <pre class="mermaid">
+graph LR
+  node_2318[&quot;The West Coast Messenger&lt;br/&gt;(Published since 1997)&quot;]
+  click node_2318 &quot;/newspapers/2318/&quot; &quot;View The West Coast Messenger&quot;
+  node_2319[&quot;Coaster&lt;br/&gt;(2000–2001)&quot;]
+  click node_2319 &quot;/newspapers/2319/&quot; &quot;View Coaster&quot;
+  node_2319 --&gt; node_2318
+        </pre>
+      </div>
+      
     </div>
-    
-    <div class="columnitem">
-      <a href="/newspapers/2313/">Greymouth Evening Star</a>
-      <br />
-      <span class="paper-meta">
-         1866 - 2006 
-      </span>
+  </section>
+  <script type="module">
+    import mermaid from "https://cdn.jsdelivr.net/npm/mermaid@10/dist/mermaid.esm.min.mjs";
+    mermaid.initialize({
+      startOnLoad: true,
+      theme: "neutral",
+      flowchart: {
+        useMaxWidth: true,
+        htmlLabels: true,
+        curve: "basis",
+      },
+    });
+  </script>
+  
+
+  <section class="all-papers-section">
+    <h4>All Newspapers in Greymouth</h4>
+    <div class="multicolumnbox">
+      
+      <div class="columnitem">
+        <a href="/newspapers/2311/">The Grey River Argus</a>
+        <br />
+        <span class="paper-meta">
+           1865 - 1966 
+        </span>
+      </div>
+      
+      <div class="columnitem">
+        <a href="/newspapers/2313/">Greymouth Evening Star</a>
+        <br />
+        <span class="paper-meta">
+           1866 - 2006 
+        </span>
+      </div>
+      
+      <div class="columnitem">
+        <a href="/newspapers/2315/">Weekly Argus</a>
+        <br />
+        <span class="paper-meta">
+           1870 - 1905 
+        </span>
+      </div>
+      
+      <div class="columnitem">
+        <a href="/newspapers/2317/">Argus Leader</a>
+        <br />
+        <span class="paper-meta">
+           1966 - 1966 
+        </span>
+      </div>
+      
+      <div class="columnitem">
+        <a href="/newspapers/2318/">The West Coast Messenger</a>
+        <br />
+        <span class="paper-meta">
+           Published since 1997 
+        </span>
+      </div>
+      
+      <div class="columnitem">
+        <a href="/newspapers/2319/">Coaster</a>
+        <br />
+        <span class="paper-meta">
+           2000 - 2001 
+        </span>
+      </div>
+      
+      <div class="columnitem">
+        <a href="/newspapers/2320/">Greymouth Star</a>
+        <br />
+        <span class="paper-meta">
+           Published since 2006 
+        </span>
+      </div>
+      
     </div>
-    
-    <div class="columnitem">
-      <a href="/newspapers/2315/">Weekly Argus</a>
-      <br />
-      <span class="paper-meta">
-         1870 - 1905 
-      </span>
-    </div>
-    
-    <div class="columnitem">
-      <a href="/newspapers/2317/">Argus Leader</a>
-      <br />
-      <span class="paper-meta">
-         1966 - 1966 
-      </span>
-    </div>
-    
-    <div class="columnitem">
-      <a href="/newspapers/2318/">The West Coast Messenger</a>
-      <br />
-      <span class="paper-meta">
-         Published since 1997 
-      </span>
-    </div>
-    
-    <div class="columnitem">
-      <a href="/newspapers/2319/">Coaster</a>
-      <br />
-      <span class="paper-meta">
-         2000 - 2001 
-      </span>
-    </div>
-    
-    <div class="columnitem">
-      <a href="/newspapers/2320/">Greymouth Star</a>
-      <br />
-      <span class="paper-meta">
-         Published since 2006 
-      </span>
-    </div>
-    
-  </div>
+  </section>
 </div>
 </main>
 

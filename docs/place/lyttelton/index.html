@@ -117,57 +117,97 @@
     There are 6 newspapers published in Lyttelton.
   </p>
 
-  <div class="multicolumnbox">
-    
-    <div class="columnitem">
-      <a href="/newspapers/2378/">The Lyttelton Times</a>
-      <br />
-      <span class="paper-meta">
-         1851 - 1929 
-      </span>
+  
+  <section class="lineage-section">
+    <h4>Publication Lineages &amp; Family Trees</h4>
+    <p>
+      The following continuations and parallel editions occurred among
+      newspapers in Lyttelton:
+    </p>
+
+    <div class="mermaid-tree-list">
+      
+      <div class="mermaid-card">
+        <pre class="mermaid">
+graph LR
+  node_2378[&quot;The Lyttelton Times&lt;br/&gt;(1851–1929)&quot;]
+  click node_2378 &quot;/newspapers/2378/&quot; &quot;View The Lyttelton Times&quot;
+  node_2385[&quot;The Christchurch Times&lt;br/&gt;(1929–1935)&quot;]
+  click node_2385 &quot;/newspapers/2385/&quot; &quot;View The Christchurch Times&quot;
+  node_2378 --&gt; node_2385
+        </pre>
+      </div>
+      
     </div>
-    
-    <div class="columnitem">
-      <a href="/newspapers/2379/">Lyttelton Chronicle and Peninsula News</a>
-      <br />
-      <span class="paper-meta">
-         1865 - an unknown date 
-      </span>
+  </section>
+  <script type="module">
+    import mermaid from "https://cdn.jsdelivr.net/npm/mermaid@10/dist/mermaid.esm.min.mjs";
+    mermaid.initialize({
+      startOnLoad: true,
+      theme: "neutral",
+      flowchart: {
+        useMaxWidth: true,
+        htmlLabels: true,
+        curve: "basis",
+      },
+    });
+  </script>
+  
+
+  <section class="all-papers-section">
+    <h4>All Newspapers in Lyttelton</h4>
+    <div class="multicolumnbox">
+      
+      <div class="columnitem">
+        <a href="/newspapers/2378/">The Lyttelton Times</a>
+        <br />
+        <span class="paper-meta">
+           1851 - 1929 
+        </span>
+      </div>
+      
+      <div class="columnitem">
+        <a href="/newspapers/2379/">Lyttelton Chronicle and Peninsula News</a>
+        <br />
+        <span class="paper-meta">
+           1865 - an unknown date 
+        </span>
+      </div>
+      
+      <div class="columnitem">
+        <a href="/newspapers/2381/">Port Lyttelton Herald and New Zealand Shipping Gazette</a>
+        <br />
+        <span class="paper-meta">
+           1878 - 1879 
+        </span>
+      </div>
+      
+      <div class="columnitem">
+        <a href="/newspapers/2385/">The Christchurch Times</a>
+        <br />
+        <span class="paper-meta">
+           1929 - 1935 
+        </span>
+      </div>
+      
+      <div class="columnitem">
+        <a href="/newspapers/2388/">Port News</a>
+        <br />
+        <span class="paper-meta">
+           1965 - 1968 
+        </span>
+      </div>
+      
+      <div class="columnitem">
+        <a href="/newspapers/2392/">New Lyttelton Times</a>
+        <br />
+        <span class="paper-meta">
+           1983 - 1983 
+        </span>
+      </div>
+      
     </div>
-    
-    <div class="columnitem">
-      <a href="/newspapers/2381/">Port Lyttelton Herald and New Zealand Shipping Gazette</a>
-      <br />
-      <span class="paper-meta">
-         1878 - 1879 
-      </span>
-    </div>
-    
-    <div class="columnitem">
-      <a href="/newspapers/2385/">The Christchurch Times</a>
-      <br />
-      <span class="paper-meta">
-         1929 - 1935 
-      </span>
-    </div>
-    
-    <div class="columnitem">
-      <a href="/newspapers/2388/">Port News</a>
-      <br />
-      <span class="paper-meta">
-         1965 - 1968 
-      </span>
-    </div>
-    
-    <div class="columnitem">
-      <a href="/newspapers/2392/">New Lyttelton Times</a>
-      <br />
-      <span class="paper-meta">
-         1983 - 1983 
-      </span>
-    </div>
-    
-  </div>
+  </section>
 </div>
 </main>
 

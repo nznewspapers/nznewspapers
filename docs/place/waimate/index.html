@@ -117,33 +117,73 @@
     There are 3 newspapers published in Waimate.
   </p>
 
-  <div class="multicolumnbox">
-    
-    <div class="columnitem">
-      <a href="/newspapers/2539/">Waitangi Tribune</a>
-      <br />
-      <span class="paper-meta">
-         1875 - 1879 
-      </span>
+  
+  <section class="lineage-section">
+    <h4>Publication Lineages &amp; Family Trees</h4>
+    <p>
+      The following continuations and parallel editions occurred among
+      newspapers in Waimate:
+    </p>
+
+    <div class="mermaid-tree-list">
+      
+      <div class="mermaid-card">
+        <pre class="mermaid">
+graph LR
+  node_2539[&quot;Waitangi Tribune&lt;br/&gt;(1875–1879)&quot;]
+  click node_2539 &quot;/newspapers/2539/&quot; &quot;View Waitangi Tribune&quot;
+  node_2540[&quot;Waimate Times&lt;br/&gt;(1879–1922)&quot;]
+  click node_2540 &quot;/newspapers/2540/&quot; &quot;View Waimate Times&quot;
+  node_2539 --&gt; node_2540
+        </pre>
+      </div>
+      
     </div>
-    
-    <div class="columnitem">
-      <a href="/newspapers/2540/">Waimate Times</a>
-      <br />
-      <span class="paper-meta">
-         1879 - 1922 
-      </span>
+  </section>
+  <script type="module">
+    import mermaid from "https://cdn.jsdelivr.net/npm/mermaid@10/dist/mermaid.esm.min.mjs";
+    mermaid.initialize({
+      startOnLoad: true,
+      theme: "neutral",
+      flowchart: {
+        useMaxWidth: true,
+        htmlLabels: true,
+        curve: "basis",
+      },
+    });
+  </script>
+  
+
+  <section class="all-papers-section">
+    <h4>All Newspapers in Waimate</h4>
+    <div class="multicolumnbox">
+      
+      <div class="columnitem">
+        <a href="/newspapers/2539/">Waitangi Tribune</a>
+        <br />
+        <span class="paper-meta">
+           1875 - 1879 
+        </span>
+      </div>
+      
+      <div class="columnitem">
+        <a href="/newspapers/2540/">Waimate Times</a>
+        <br />
+        <span class="paper-meta">
+           1879 - 1922 
+        </span>
+      </div>
+      
+      <div class="columnitem">
+        <a href="/newspapers/2542/">The Waimate Daily Advertiser</a>
+        <br />
+        <span class="paper-meta">
+           1898 - 1980 
+        </span>
+      </div>
+      
     </div>
-    
-    <div class="columnitem">
-      <a href="/newspapers/2542/">The Waimate Daily Advertiser</a>
-      <br />
-      <span class="paper-meta">
-         1898 - 1980 
-      </span>
-    </div>
-    
-  </div>
+  </section>
 </div>
 </main>
 

@@ -117,73 +117,116 @@
     There are 8 newspapers published in Stratford.
   </p>
 
-  <div class="multicolumnbox">
-    
-    <div class="columnitem">
-      <a href="/newspapers/3129/">Egmont Settler</a>
-      <br />
-      <span class="paper-meta">
-         1890 - 1903 
-      </span>
+  
+  <section class="lineage-section">
+    <h4>Publication Lineages &amp; Family Trees</h4>
+    <p>
+      The following continuations and parallel editions occurred among
+      newspapers in Stratford:
+    </p>
+
+    <div class="mermaid-tree-list">
+      
+      <div class="mermaid-card">
+        <pre class="mermaid">
+graph LR
+  node_3129[&quot;Egmont Settler&lt;br/&gt;(1890–1903)&quot;]
+  click node_3129 &quot;/newspapers/3129/&quot; &quot;View Egmont Settler&quot;
+  node_1822[&quot;Stratford Evening Post&lt;br/&gt;(1903–1936)&quot;]
+  click node_1822 &quot;/newspapers/1822/&quot; &quot;View Stratford Evening Post&quot;
+  node_1823[&quot;Taranaki Central Press&lt;br/&gt;(1936–1937)&quot;]
+  click node_1823 &quot;/newspapers/1823/&quot; &quot;View Taranaki Central Press&quot;
+  node_3129 --&gt; node_1822
+  node_1822 --&gt; node_1823
+        </pre>
+      </div>
+      
     </div>
-    
-    <div class="columnitem">
-      <a href="/newspapers/1822/">Stratford Evening Post</a>
-      <br />
-      <span class="paper-meta">
-         1903 - 1936 
-      </span>
+  </section>
+  <script type="module">
+    import mermaid from "https://cdn.jsdelivr.net/npm/mermaid@10/dist/mermaid.esm.min.mjs";
+    mermaid.initialize({
+      startOnLoad: true,
+      theme: "neutral",
+      flowchart: {
+        useMaxWidth: true,
+        htmlLabels: true,
+        curve: "basis",
+      },
+    });
+  </script>
+  
+
+  <section class="all-papers-section">
+    <h4>All Newspapers in Stratford</h4>
+    <div class="multicolumnbox">
+      
+      <div class="columnitem">
+        <a href="/newspapers/3129/">Egmont Settler</a>
+        <br />
+        <span class="paper-meta">
+           1890 - 1903 
+        </span>
+      </div>
+      
+      <div class="columnitem">
+        <a href="/newspapers/1822/">Stratford Evening Post</a>
+        <br />
+        <span class="paper-meta">
+           1903 - 1936 
+        </span>
+      </div>
+      
+      <div class="columnitem">
+        <a href="/newspapers/1823/">Taranaki Central Press</a>
+        <br />
+        <span class="paper-meta">
+           1936 - 1937 
+        </span>
+      </div>
+      
+      <div class="columnitem">
+        <a href="/newspapers/1824/">Taranaki Weekly</a>
+        <br />
+        <span class="paper-meta">
+           1936 - 1937 
+        </span>
+      </div>
+      
+      <div class="columnitem">
+        <a href="/newspapers/1825/">Stratford Courier</a>
+        <br />
+        <span class="paper-meta">
+           1939 - 1940 
+        </span>
+      </div>
+      
+      <div class="columnitem">
+        <a href="/newspapers/1826/">Mountain Town News</a>
+        <br />
+        <span class="paper-meta">
+           1958 - 1959 
+        </span>
+      </div>
+      
+      <div class="columnitem">
+        <a href="/newspapers/1827/">Stratford Press</a>
+        <br />
+        <span class="paper-meta">
+           Published since 1960 
+        </span>
+      </div>
+      
+      <div class="columnitem">
+        <a href="/newspapers/1828/">Waitara &amp; Inglewood Press</a>
+        <br />
+        <span class="paper-meta">
+           1982 - 1989 
+        </span>
+      </div>
+      
     </div>
-    
-    <div class="columnitem">
-      <a href="/newspapers/1823/">Taranaki Central Press</a>
-      <br />
-      <span class="paper-meta">
-         1936 - 1937 
-      </span>
-    </div>
-    
-    <div class="columnitem">
-      <a href="/newspapers/1824/">Taranaki Weekly</a>
-      <br />
-      <span class="paper-meta">
-         1936 - 1937 
-      </span>
-    </div>
-    
-    <div class="columnitem">
-      <a href="/newspapers/1825/">Stratford Courier</a>
-      <br />
-      <span class="paper-meta">
-         1939 - 1940 
-      </span>
-    </div>
-    
-    <div class="columnitem">
-      <a href="/newspapers/1826/">Mountain Town News</a>
-      <br />
-      <span class="paper-meta">
-         1958 - 1959 
-      </span>
-    </div>
-    
-    <div class="columnitem">
-      <a href="/newspapers/1827/">Stratford Press</a>
-      <br />
-      <span class="paper-meta">
-         Published since 1960 
-      </span>
-    </div>
-    
-    <div class="columnitem">
-      <a href="/newspapers/1828/">Waitara &amp; Inglewood Press</a>
-      <br />
-      <span class="paper-meta">
-         1982 - 1989 
-      </span>
-    </div>
-    
-  </div>
+  </section>
 </div>
 </main>
 

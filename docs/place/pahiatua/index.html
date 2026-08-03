@@ -117,73 +117,124 @@
     There are 8 newspapers published in Pahiatua.
   </p>
 
-  <div class="multicolumnbox">
-    
-    <div class="columnitem">
-      <a href="/newspapers/1929/">Pahiatua Star and Eketahuna Advertiser</a>
-      <br />
-      <span class="paper-meta">
-         1886 - 1893 
-      </span>
+  
+  <section class="lineage-section">
+    <h4>Publication Lineages &amp; Family Trees</h4>
+    <p>
+      The following continuations and parallel editions occurred among
+      newspapers in Pahiatua:
+    </p>
+
+    <div class="mermaid-tree-list">
+      
+      <div class="mermaid-card">
+        <pre class="mermaid">
+graph LR
+  node_1932[&quot;Pahiatua Herald&lt;br/&gt;(1893–1943)&quot;]
+  click node_1932 &quot;/newspapers/1932/&quot; &quot;View Pahiatua Herald&quot;
+  node_1941[&quot;North Wairarapa Herald&lt;br/&gt;(1943–1954)&quot;]
+  click node_1941 &quot;/newspapers/1941/&quot; &quot;View North Wairarapa Herald&quot;
+  node_1932 --&gt; node_1941
+        </pre>
+      </div>
+      
+      <div class="mermaid-card">
+        <pre class="mermaid">
+graph LR
+  node_1942[&quot;North Wairarapa News&lt;br/&gt;(1954–1977)&quot;]
+  click node_1942 &quot;/newspapers/1942/&quot; &quot;View North Wairarapa News&quot;
+  node_1945[&quot;Bush Telegraph (Pahiatua)&lt;br/&gt;(Published since 1977)&quot;]
+  click node_1945 &quot;/newspapers/1945/&quot; &quot;View Bush Telegraph (Pahiatua)&quot;
+  node_1942 --&gt; node_1945
+        </pre>
+      </div>
+      
     </div>
-    
-    <div class="columnitem">
-      <a href="/newspapers/1932/">Pahiatua Herald</a>
-      <br />
-      <span class="paper-meta">
-         1893 - 1943 
-      </span>
+  </section>
+  <script type="module">
+    import mermaid from "https://cdn.jsdelivr.net/npm/mermaid@10/dist/mermaid.esm.min.mjs";
+    mermaid.initialize({
+      startOnLoad: true,
+      theme: "neutral",
+      flowchart: {
+        useMaxWidth: true,
+        htmlLabels: true,
+        curve: "basis",
+      },
+    });
+  </script>
+  
+
+  <section class="all-papers-section">
+    <h4>All Newspapers in Pahiatua</h4>
+    <div class="multicolumnbox">
+      
+      <div class="columnitem">
+        <a href="/newspapers/1929/">Pahiatua Star and Eketahuna Advertiser</a>
+        <br />
+        <span class="paper-meta">
+           1886 - 1893 
+        </span>
+      </div>
+      
+      <div class="columnitem">
+        <a href="/newspapers/1932/">Pahiatua Herald</a>
+        <br />
+        <span class="paper-meta">
+           1893 - 1943 
+        </span>
+      </div>
+      
+      <div class="columnitem">
+        <a href="/newspapers/1934/">Pahiatua Argus</a>
+        <br />
+        <span class="paper-meta">
+           1895 - 1896 
+        </span>
+      </div>
+      
+      <div class="columnitem">
+        <a href="/newspapers/1937/">Pahiatua Era</a>
+        <br />
+        <span class="paper-meta">
+           1905 - 1906 
+        </span>
+      </div>
+      
+      <div class="columnitem">
+        <a href="/newspapers/1941/">North Wairarapa Herald</a>
+        <br />
+        <span class="paper-meta">
+           1943 - 1954 
+        </span>
+      </div>
+      
+      <div class="columnitem">
+        <a href="/newspapers/1942/">North Wairarapa News</a>
+        <br />
+        <span class="paper-meta">
+           1954 - 1977 
+        </span>
+      </div>
+      
+      <div class="columnitem">
+        <a href="/newspapers/1943/">Woodville Express</a>
+        <br />
+        <span class="paper-meta">
+           1960 - 1963 
+        </span>
+      </div>
+      
+      <div class="columnitem">
+        <a href="/newspapers/1945/">Bush Telegraph (Pahiatua)</a>
+        <br />
+        <span class="paper-meta">
+           Published since 1977 
+        </span>
+      </div>
+      
     </div>
-    
-    <div class="columnitem">
-      <a href="/newspapers/1934/">Pahiatua Argus</a>
-      <br />
-      <span class="paper-meta">
-         1895 - 1896 
-      </span>
-    </div>
-    
-    <div class="columnitem">
-      <a href="/newspapers/1937/">Pahiatua Era</a>
-      <br />
-      <span class="paper-meta">
-         1905 - 1906 
-      </span>
-    </div>
-    
-    <div class="columnitem">
-      <a href="/newspapers/1941/">North Wairarapa Herald</a>
-      <br />
-      <span class="paper-meta">
-         1943 - 1954 
-      </span>
-    </div>
-    
-    <div class="columnitem">
-      <a href="/newspapers/1942/">North Wairarapa News</a>
-      <br />
-      <span class="paper-meta">
-         1954 - 1977 
-      </span>
-    </div>
-    
-    <div class="columnitem">
-      <a href="/newspapers/1943/">Woodville Express</a>
-      <br />
-      <span class="paper-meta">
-         1960 - 1963 
-      </span>
-    </div>
-    
-    <div class="columnitem">
-      <a href="/newspapers/1945/">Bush Telegraph (Pahiatua)</a>
-      <br />
-      <span class="paper-meta">
-         Published since 1977 
-      </span>
-    </div>
-    
-  </div>
+  </section>
 </div>
 </main>
 

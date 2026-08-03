@@ -117,41 +117,81 @@
     There are 4 newspapers published in Kaponga.
   </p>
 
-  <div class="multicolumnbox">
-    
-    <div class="columnitem">
-      <a href="/newspapers/1834/">Kaponga Advocate</a>
-      <br />
-      <span class="paper-meta">
-         1903 - 1904 
-      </span>
+  
+  <section class="lineage-section">
+    <h4>Publication Lineages &amp; Family Trees</h4>
+    <p>
+      The following continuations and parallel editions occurred among
+      newspapers in Kaponga:
+    </p>
+
+    <div class="mermaid-tree-list">
+      
+      <div class="mermaid-card">
+        <pre class="mermaid">
+graph LR
+  node_3122[&quot;Kaponga Mail&lt;br/&gt;(1904–1905)&quot;]
+  click node_3122 &quot;/newspapers/3122/&quot; &quot;View Kaponga Mail&quot;
+  node_1835[&quot;Kaponga Mail and District Advertiser&lt;br/&gt;(1904–1904)&quot;]
+  click node_1835 &quot;/newspapers/1835/&quot; &quot;View Kaponga Mail and District Advertiser&quot;
+  node_1835 --&gt; node_3122
+        </pre>
+      </div>
+      
     </div>
-    
-    <div class="columnitem">
-      <a href="/newspapers/3122/">Kaponga Mail</a>
-      <br />
-      <span class="paper-meta">
-         1904 - 1905 
-      </span>
+  </section>
+  <script type="module">
+    import mermaid from "https://cdn.jsdelivr.net/npm/mermaid@10/dist/mermaid.esm.min.mjs";
+    mermaid.initialize({
+      startOnLoad: true,
+      theme: "neutral",
+      flowchart: {
+        useMaxWidth: true,
+        htmlLabels: true,
+        curve: "basis",
+      },
+    });
+  </script>
+  
+
+  <section class="all-papers-section">
+    <h4>All Newspapers in Kaponga</h4>
+    <div class="multicolumnbox">
+      
+      <div class="columnitem">
+        <a href="/newspapers/1834/">Kaponga Advocate</a>
+        <br />
+        <span class="paper-meta">
+           1903 - 1904 
+        </span>
+      </div>
+      
+      <div class="columnitem">
+        <a href="/newspapers/3122/">Kaponga Mail</a>
+        <br />
+        <span class="paper-meta">
+           1904 - 1905 
+        </span>
+      </div>
+      
+      <div class="columnitem">
+        <a href="/newspapers/1835/">Kaponga Mail and District Advertiser</a>
+        <br />
+        <span class="paper-meta">
+           1904 - 1904 
+        </span>
+      </div>
+      
+      <div class="columnitem">
+        <a href="/newspapers/1837/">Kaponga Courier</a>
+        <br />
+        <span class="paper-meta">
+           1925 - 1940 
+        </span>
+      </div>
+      
     </div>
-    
-    <div class="columnitem">
-      <a href="/newspapers/1835/">Kaponga Mail and District Advertiser</a>
-      <br />
-      <span class="paper-meta">
-         1904 - 1904 
-      </span>
-    </div>
-    
-    <div class="columnitem">
-      <a href="/newspapers/1837/">Kaponga Courier</a>
-      <br />
-      <span class="paper-meta">
-         1925 - 1940 
-      </span>
-    </div>
-    
-  </div>
+  </section>
 </div>
 </main>
 

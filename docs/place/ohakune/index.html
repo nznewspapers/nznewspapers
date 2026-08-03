@@ -117,33 +117,73 @@
     There are 3 newspapers published in Ohakune.
   </p>
 
-  <div class="multicolumnbox">
-    
-    <div class="columnitem">
-      <a href="/newspapers/1848/">Ohakune Times, Rangataua Advocate and Waimarino Gazette</a>
-      <br />
-      <span class="paper-meta">
-         1909 - 1948 
-      </span>
+  
+  <section class="lineage-section">
+    <h4>Publication Lineages &amp; Family Trees</h4>
+    <p>
+      The following continuations and parallel editions occurred among
+      newspapers in Ohakune:
+    </p>
+
+    <div class="mermaid-tree-list">
+      
+      <div class="mermaid-card">
+        <pre class="mermaid">
+graph LR
+  node_1855[&quot;Waimarino Bulletin&lt;br/&gt;(1983–1989)&quot;]
+  click node_1855 &quot;/newspapers/1855/&quot; &quot;View Waimarino Bulletin&quot;
+  node_1856[&quot;Ruapehu Bulletin&lt;br/&gt;(Published since 1989)&quot;]
+  click node_1856 &quot;/newspapers/1856/&quot; &quot;View Ruapehu Bulletin&quot;
+  node_1855 --&gt; node_1856
+        </pre>
+      </div>
+      
     </div>
-    
-    <div class="columnitem">
-      <a href="/newspapers/1855/">Waimarino Bulletin</a>
-      <br />
-      <span class="paper-meta">
-         1983 - 1989 
-      </span>
+  </section>
+  <script type="module">
+    import mermaid from "https://cdn.jsdelivr.net/npm/mermaid@10/dist/mermaid.esm.min.mjs";
+    mermaid.initialize({
+      startOnLoad: true,
+      theme: "neutral",
+      flowchart: {
+        useMaxWidth: true,
+        htmlLabels: true,
+        curve: "basis",
+      },
+    });
+  </script>
+  
+
+  <section class="all-papers-section">
+    <h4>All Newspapers in Ohakune</h4>
+    <div class="multicolumnbox">
+      
+      <div class="columnitem">
+        <a href="/newspapers/1848/">Ohakune Times, Rangataua Advocate and Waimarino Gazette</a>
+        <br />
+        <span class="paper-meta">
+           1909 - 1948 
+        </span>
+      </div>
+      
+      <div class="columnitem">
+        <a href="/newspapers/1855/">Waimarino Bulletin</a>
+        <br />
+        <span class="paper-meta">
+           1983 - 1989 
+        </span>
+      </div>
+      
+      <div class="columnitem">
+        <a href="/newspapers/1856/">Ruapehu Bulletin</a>
+        <br />
+        <span class="paper-meta">
+           Published since 1989 
+        </span>
+      </div>
+      
     </div>
-    
-    <div class="columnitem">
-      <a href="/newspapers/1856/">Ruapehu Bulletin</a>
-      <br />
-      <span class="paper-meta">
-         Published since 1989 
-      </span>
-    </div>
-    
-  </div>
+  </section>
 </div>
 </main>
 

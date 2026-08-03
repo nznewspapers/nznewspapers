@@ -117,41 +117,87 @@
     There are 4 newspapers published in Kohukohu.
   </p>
 
-  <div class="multicolumnbox">
-    
-    <div class="columnitem">
-      <a href="/newspapers/1006/">Hokianga Times</a>
-      <br />
-      <span class="paper-meta">
-         1905 - 1936 
-      </span>
+  
+  <section class="lineage-section">
+    <h4>Publication Lineages &amp; Family Trees</h4>
+    <p>
+      The following continuations and parallel editions occurred among
+      newspapers in Kohukohu:
+    </p>
+
+    <div class="mermaid-tree-list">
+      
+      <div class="mermaid-card">
+        <pre class="mermaid">
+graph LR
+  node_1006[&quot;Hokianga Times&lt;br/&gt;(1905–1936)&quot;]
+  click node_1006 &quot;/newspapers/1006/&quot; &quot;View Hokianga Times&quot;
+  node_1014[&quot;Hokianga Star&lt;br/&gt;(1923–1937)&quot;]
+  click node_1014 &quot;/newspapers/1014/&quot; &quot;View Hokianga Star&quot;
+  node_1018[&quot;Hokianga Herald&lt;br/&gt;(1938–194u)&quot;]
+  click node_1018 &quot;/newspapers/1018/&quot; &quot;View Hokianga Herald&quot;
+  node_1021[&quot;Hokianga Herald [1946]&lt;br/&gt;(1946–1959)&quot;]
+  click node_1021 &quot;/newspapers/1021/&quot; &quot;View Hokianga Herald [1946]&quot;
+  node_1006 --&gt; node_1014
+  node_1014 --&gt; node_1018
+  node_1018 --&gt; node_1021
+        </pre>
+      </div>
+      
     </div>
-    
-    <div class="columnitem">
-      <a href="/newspapers/1014/">Hokianga Star</a>
-      <br />
-      <span class="paper-meta">
-         1923 - 1937 
-      </span>
+  </section>
+  <script type="module">
+    import mermaid from "https://cdn.jsdelivr.net/npm/mermaid@10/dist/mermaid.esm.min.mjs";
+    mermaid.initialize({
+      startOnLoad: true,
+      theme: "neutral",
+      flowchart: {
+        useMaxWidth: true,
+        htmlLabels: true,
+        curve: "basis",
+      },
+    });
+  </script>
+  
+
+  <section class="all-papers-section">
+    <h4>All Newspapers in Kohukohu</h4>
+    <div class="multicolumnbox">
+      
+      <div class="columnitem">
+        <a href="/newspapers/1006/">Hokianga Times</a>
+        <br />
+        <span class="paper-meta">
+           1905 - 1936 
+        </span>
+      </div>
+      
+      <div class="columnitem">
+        <a href="/newspapers/1014/">Hokianga Star</a>
+        <br />
+        <span class="paper-meta">
+           1923 - 1937 
+        </span>
+      </div>
+      
+      <div class="columnitem">
+        <a href="/newspapers/1018/">Hokianga Herald</a>
+        <br />
+        <span class="paper-meta">
+           1938 - sometime in the 1940&#39;s 
+        </span>
+      </div>
+      
+      <div class="columnitem">
+        <a href="/newspapers/1021/">Hokianga Herald [1946]</a>
+        <br />
+        <span class="paper-meta">
+           1946 - 1959 
+        </span>
+      </div>
+      
     </div>
-    
-    <div class="columnitem">
-      <a href="/newspapers/1018/">Hokianga Herald</a>
-      <br />
-      <span class="paper-meta">
-         1938 - sometime in the 1940&#39;s 
-      </span>
-    </div>
-    
-    <div class="columnitem">
-      <a href="/newspapers/1021/">Hokianga Herald [1946]</a>
-      <br />
-      <span class="paper-meta">
-         1946 - 1959 
-      </span>
-    </div>
-    
-  </div>
+  </section>
 </div>
 </main>
 

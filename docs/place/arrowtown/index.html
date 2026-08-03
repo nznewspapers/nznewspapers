@@ -117,25 +117,65 @@
     There are 2 newspapers published in Arrowtown.
   </p>
 
-  <div class="multicolumnbox">
-    
-    <div class="columnitem">
-      <a href="/newspapers/3067/">Arrow Observer And Lakes District Chronicle</a>
-      <br />
-      <span class="paper-meta">
-         1871 - 1882 
-      </span>
+  
+  <section class="lineage-section">
+    <h4>Publication Lineages &amp; Family Trees</h4>
+    <p>
+      The following continuations and parallel editions occurred among
+      newspapers in Arrowtown:
+    </p>
+
+    <div class="mermaid-tree-list">
+      
+      <div class="mermaid-card">
+        <pre class="mermaid">
+graph LR
+  node_3067[&quot;Arrow Observer And Lakes District Chronicle&lt;br/&gt;(1871–1882)&quot;]
+  click node_3067 &quot;/newspapers/3067/&quot; &quot;View Arrow Observer And Lakes District Chronicle&quot;
+  node_2556[&quot;Lake County Press&lt;br/&gt;(1882–1928)&quot;]
+  click node_2556 &quot;/newspapers/2556/&quot; &quot;View Lake County Press&quot;
+  node_3067 --&gt; node_2556
+        </pre>
+      </div>
+      
     </div>
-    
-    <div class="columnitem">
-      <a href="/newspapers/2556/">Lake County Press</a>
-      <br />
-      <span class="paper-meta">
-         1882 - 1928 
-      </span>
+  </section>
+  <script type="module">
+    import mermaid from "https://cdn.jsdelivr.net/npm/mermaid@10/dist/mermaid.esm.min.mjs";
+    mermaid.initialize({
+      startOnLoad: true,
+      theme: "neutral",
+      flowchart: {
+        useMaxWidth: true,
+        htmlLabels: true,
+        curve: "basis",
+      },
+    });
+  </script>
+  
+
+  <section class="all-papers-section">
+    <h4>All Newspapers in Arrowtown</h4>
+    <div class="multicolumnbox">
+      
+      <div class="columnitem">
+        <a href="/newspapers/3067/">Arrow Observer And Lakes District Chronicle</a>
+        <br />
+        <span class="paper-meta">
+           1871 - 1882 
+        </span>
+      </div>
+      
+      <div class="columnitem">
+        <a href="/newspapers/2556/">Lake County Press</a>
+        <br />
+        <span class="paper-meta">
+           1882 - 1928 
+        </span>
+      </div>
+      
     </div>
-    
-  </div>
+  </section>
 </div>
 </main>
 

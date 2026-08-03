@@ -117,57 +117,109 @@
     There are 6 newspapers published in Patea.
   </p>
 
-  <div class="multicolumnbox">
-    
-    <div class="columnitem">
-      <a href="/newspapers/1605/">Patea Mail</a>
-      <br />
-      <span class="paper-meta">
-         1875 - 1887 
-      </span>
+  
+  <section class="lineage-section">
+    <h4>Publication Lineages &amp; Family Trees</h4>
+    <p>
+      The following continuations and parallel editions occurred among
+      newspapers in Patea:
+    </p>
+
+    <div class="mermaid-tree-list">
+      
+      <div class="mermaid-card">
+        <pre class="mermaid">
+graph LR
+  node_1605[&quot;Patea Mail&lt;br/&gt;(1875–1887)&quot;]
+  click node_1605 &quot;/newspapers/1605/&quot; &quot;View Patea Mail&quot;
+  node_1609[&quot;Patea County Press&lt;br/&gt;(1887–1914)&quot;]
+  click node_1609 &quot;/newspapers/1609/&quot; &quot;View Patea County Press&quot;
+  node_3134[&quot;Patea &amp; Waverley Press&lt;br/&gt;(1914–1975)&quot;]
+  click node_3134 &quot;/newspapers/3134/&quot; &quot;View Patea &amp; Waverley Press&quot;
+  node_1613[&quot;The Patea Mail&lt;br/&gt;(1975–1999)&quot;]
+  click node_1613 &quot;/newspapers/1613/&quot; &quot;View The Patea Mail&quot;
+  node_1615[&quot;Patea and Waverley Press&lt;br/&gt;(Published since 1999)&quot;]
+  click node_1615 &quot;/newspapers/1615/&quot; &quot;View Patea and Waverley Press&quot;
+  node_1614[&quot;Waverley Newsletter&lt;br/&gt;(1998–1999)&quot;]
+  click node_1614 &quot;/newspapers/1614/&quot; &quot;View Waverley Newsletter&quot;
+  node_1605 --&gt; node_1609
+  node_1609 --&gt; node_3134
+  node_3134 --&gt; node_1613
+  node_1613 --&gt; node_1615
+  node_1614 --&gt; node_1615
+        </pre>
+      </div>
+      
     </div>
-    
-    <div class="columnitem">
-      <a href="/newspapers/1609/">Patea County Press</a>
-      <br />
-      <span class="paper-meta">
-         1887 - 1914 
-      </span>
+  </section>
+  <script type="module">
+    import mermaid from "https://cdn.jsdelivr.net/npm/mermaid@10/dist/mermaid.esm.min.mjs";
+    mermaid.initialize({
+      startOnLoad: true,
+      theme: "neutral",
+      flowchart: {
+        useMaxWidth: true,
+        htmlLabels: true,
+        curve: "basis",
+      },
+    });
+  </script>
+  
+
+  <section class="all-papers-section">
+    <h4>All Newspapers in Patea</h4>
+    <div class="multicolumnbox">
+      
+      <div class="columnitem">
+        <a href="/newspapers/1605/">Patea Mail</a>
+        <br />
+        <span class="paper-meta">
+           1875 - 1887 
+        </span>
+      </div>
+      
+      <div class="columnitem">
+        <a href="/newspapers/1609/">Patea County Press</a>
+        <br />
+        <span class="paper-meta">
+           1887 - 1914 
+        </span>
+      </div>
+      
+      <div class="columnitem">
+        <a href="/newspapers/3134/">Patea &amp; Waverley Press</a>
+        <br />
+        <span class="paper-meta">
+           1914 - 1975 
+        </span>
+      </div>
+      
+      <div class="columnitem">
+        <a href="/newspapers/1613/">The Patea Mail</a>
+        <br />
+        <span class="paper-meta">
+           1975 - 1999 
+        </span>
+      </div>
+      
+      <div class="columnitem">
+        <a href="/newspapers/1614/">Waverley Newsletter</a>
+        <br />
+        <span class="paper-meta">
+           1998 - 1999 
+        </span>
+      </div>
+      
+      <div class="columnitem">
+        <a href="/newspapers/1615/">Patea and Waverley Press</a>
+        <br />
+        <span class="paper-meta">
+           Published since 1999 
+        </span>
+      </div>
+      
     </div>
-    
-    <div class="columnitem">
-      <a href="/newspapers/3134/">Patea &amp; Waverley Press</a>
-      <br />
-      <span class="paper-meta">
-         1914 - 1975 
-      </span>
-    </div>
-    
-    <div class="columnitem">
-      <a href="/newspapers/1613/">The Patea Mail</a>
-      <br />
-      <span class="paper-meta">
-         1975 - 1999 
-      </span>
-    </div>
-    
-    <div class="columnitem">
-      <a href="/newspapers/1614/">Waverley Newsletter</a>
-      <br />
-      <span class="paper-meta">
-         1998 - 1999 
-      </span>
-    </div>
-    
-    <div class="columnitem">
-      <a href="/newspapers/1615/">Patea and Waverley Press</a>
-      <br />
-      <span class="paper-meta">
-         Published since 1999 
-      </span>
-    </div>
-    
-  </div>
+  </section>
 </div>
 </main>
 

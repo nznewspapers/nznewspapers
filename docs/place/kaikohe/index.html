@@ -117,33 +117,73 @@
     There are 3 newspapers published in Kaikohe.
   </p>
 
-  <div class="multicolumnbox">
-    
-    <div class="columnitem">
-      <a href="/newspapers/1012/">Northern News</a>
-      <br />
-      <span class="paper-meta">
-         Published since 1919 
-      </span>
+  
+  <section class="lineage-section">
+    <h4>Publication Lineages &amp; Family Trees</h4>
+    <p>
+      The following continuations and parallel editions occurred among
+      newspapers in Kaikohe:
+    </p>
+
+    <div class="mermaid-tree-list">
+      
+      <div class="mermaid-card">
+        <pre class="mermaid">
+graph LR
+  node_1025[&quot;Bay Chronicle&lt;br/&gt;(1986–1988)&quot;]
+  click node_1025 &quot;/newspapers/1025/&quot; &quot;View Bay Chronicle&quot;
+  node_3095[&quot;Chronicle&lt;br/&gt;(Published since 1988)&quot;]
+  click node_3095 &quot;/newspapers/3095/&quot; &quot;View Chronicle&quot;
+  node_1025 --&gt; node_3095
+        </pre>
+      </div>
+      
     </div>
-    
-    <div class="columnitem">
-      <a href="/newspapers/1025/">Bay Chronicle</a>
-      <br />
-      <span class="paper-meta">
-         1986 - 1988 
-      </span>
+  </section>
+  <script type="module">
+    import mermaid from "https://cdn.jsdelivr.net/npm/mermaid@10/dist/mermaid.esm.min.mjs";
+    mermaid.initialize({
+      startOnLoad: true,
+      theme: "neutral",
+      flowchart: {
+        useMaxWidth: true,
+        htmlLabels: true,
+        curve: "basis",
+      },
+    });
+  </script>
+  
+
+  <section class="all-papers-section">
+    <h4>All Newspapers in Kaikohe</h4>
+    <div class="multicolumnbox">
+      
+      <div class="columnitem">
+        <a href="/newspapers/1012/">Northern News</a>
+        <br />
+        <span class="paper-meta">
+           Published since 1919 
+        </span>
+      </div>
+      
+      <div class="columnitem">
+        <a href="/newspapers/1025/">Bay Chronicle</a>
+        <br />
+        <span class="paper-meta">
+           1986 - 1988 
+        </span>
+      </div>
+      
+      <div class="columnitem">
+        <a href="/newspapers/3095/">Chronicle</a>
+        <br />
+        <span class="paper-meta">
+           Published since 1988 
+        </span>
+      </div>
+      
     </div>
-    
-    <div class="columnitem">
-      <a href="/newspapers/3095/">Chronicle</a>
-      <br />
-      <span class="paper-meta">
-         Published since 1988 
-      </span>
-    </div>
-    
-  </div>
+  </section>
 </div>
 </main>
 

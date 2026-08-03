@@ -117,41 +117,84 @@
     There are 4 newspapers published in Warkworth.
   </p>
 
-  <div class="multicolumnbox">
-    
-    <div class="columnitem">
-      <a href="/newspapers/1084/">Rodney and Otamatea Times, Waitemata and Kaipara Gazette</a>
-      <br />
-      <span class="paper-meta">
-         1901 - 1964 
-      </span>
+  
+  <section class="lineage-section">
+    <h4>Publication Lineages &amp; Family Trees</h4>
+    <p>
+      The following continuations and parallel editions occurred among
+      newspapers in Warkworth:
+    </p>
+
+    <div class="mermaid-tree-list">
+      
+      <div class="mermaid-card">
+        <pre class="mermaid">
+graph LR
+  node_1084[&quot;Rodney and Otamatea Times, Waitemata and Kaipara Gazette&lt;br/&gt;(1901–1964)&quot;]
+  click node_1084 &quot;/newspapers/1084/&quot; &quot;View Rodney and Otamatea Times, Waitemata and Kaipara Gazette&quot;
+  node_1144[&quot;Rodney &amp; Waitemata Times&lt;br/&gt;(1964–1991)&quot;]
+  click node_1144 &quot;/newspapers/1144/&quot; &quot;View Rodney &amp; Waitemata Times&quot;
+  node_1217[&quot;Rodney Times&lt;br/&gt;(Published since 1991)&quot;]
+  click node_1217 &quot;/newspapers/1217/&quot; &quot;View Rodney Times&quot;
+  node_1084 --&gt; node_1144
+  node_1144 --&gt; node_1217
+        </pre>
+      </div>
+      
     </div>
-    
-    <div class="columnitem">
-      <a href="/newspapers/1109/">Rodney and Otamatea Courier</a>
-      <br />
-      <span class="paper-meta">
-         1948 - 1964 
-      </span>
+  </section>
+  <script type="module">
+    import mermaid from "https://cdn.jsdelivr.net/npm/mermaid@10/dist/mermaid.esm.min.mjs";
+    mermaid.initialize({
+      startOnLoad: true,
+      theme: "neutral",
+      flowchart: {
+        useMaxWidth: true,
+        htmlLabels: true,
+        curve: "basis",
+      },
+    });
+  </script>
+  
+
+  <section class="all-papers-section">
+    <h4>All Newspapers in Warkworth</h4>
+    <div class="multicolumnbox">
+      
+      <div class="columnitem">
+        <a href="/newspapers/1084/">Rodney and Otamatea Times, Waitemata and Kaipara Gazette</a>
+        <br />
+        <span class="paper-meta">
+           1901 - 1964 
+        </span>
+      </div>
+      
+      <div class="columnitem">
+        <a href="/newspapers/1109/">Rodney and Otamatea Courier</a>
+        <br />
+        <span class="paper-meta">
+           1948 - 1964 
+        </span>
+      </div>
+      
+      <div class="columnitem">
+        <a href="/newspapers/1144/">Rodney &amp; Waitemata Times</a>
+        <br />
+        <span class="paper-meta">
+           1964 - 1991 
+        </span>
+      </div>
+      
+      <div class="columnitem">
+        <a href="/newspapers/1217/">Rodney Times</a>
+        <br />
+        <span class="paper-meta">
+           Published since 1991 
+        </span>
+      </div>
+      
     </div>
-    
-    <div class="columnitem">
-      <a href="/newspapers/1144/">Rodney &amp; Waitemata Times</a>
-      <br />
-      <span class="paper-meta">
-         1964 - 1991 
-      </span>
-    </div>
-    
-    <div class="columnitem">
-      <a href="/newspapers/1217/">Rodney Times</a>
-      <br />
-      <span class="paper-meta">
-         Published since 1991 
-      </span>
-    </div>
-    
-  </div>
+  </section>
 </div>
 </main>
 

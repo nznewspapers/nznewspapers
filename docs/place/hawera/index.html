@@ -117,73 +117,130 @@
     There are 8 newspapers published in Hawera.
   </p>
 
-  <div class="multicolumnbox">
-    
-    <div class="columnitem">
-      <a href="/newspapers/1829/">Hawera &amp; Normanby Star</a>
-      <br />
-      <span class="paper-meta">
-         1880 - 1924 
-      </span>
+  
+  <section class="lineage-section">
+    <h4>Publication Lineages &amp; Family Trees</h4>
+    <p>
+      The following continuations and parallel editions occurred among
+      newspapers in Hawera:
+    </p>
+
+    <div class="mermaid-tree-list">
+      
+      <div class="mermaid-card">
+        <pre class="mermaid">
+graph LR
+  node_1829[&quot;Hawera &amp; Normanby Star&lt;br/&gt;(1880–1924)&quot;]
+  click node_1829 &quot;/newspapers/1829/&quot; &quot;View Hawera &amp; Normanby Star&quot;
+  node_1836[&quot;Hawera Star&lt;br/&gt;(1924–1984)&quot;]
+  click node_1836 &quot;/newspapers/1836/&quot; &quot;View Hawera Star&quot;
+  node_1841[&quot;Star&lt;br/&gt;(1984–2004)&quot;]
+  click node_1841 &quot;/newspapers/1841/&quot; &quot;View Star&quot;
+  node_1845[&quot;South Taranaki Star&lt;br/&gt;(Published since 2004)&quot;]
+  click node_1845 &quot;/newspapers/1845/&quot; &quot;View South Taranaki Star&quot;
+  node_1829 --&gt; node_1836
+  node_1836 --&gt; node_1841
+  node_1841 --&gt; node_1845
+        </pre>
+      </div>
+      
+      <div class="mermaid-card">
+        <pre class="mermaid">
+graph LR
+  node_1842[&quot;South Taranaki Post&lt;br/&gt;(1992–1993)&quot;]
+  click node_1842 &quot;/newspapers/1842/&quot; &quot;View South Taranaki Post&quot;
+  node_1844[&quot;Post&lt;br/&gt;(Published since 1994)&quot;]
+  click node_1844 &quot;/newspapers/1844/&quot; &quot;View Post&quot;
+  node_1842 --&gt; node_1844
+        </pre>
+      </div>
+      
     </div>
-    
-    <div class="columnitem">
-      <a href="/newspapers/3079/">Hawera Morning Post</a>
-      <br />
-      <span class="paper-meta">
-         1894 - 1900 
-      </span>
+  </section>
+  <script type="module">
+    import mermaid from "https://cdn.jsdelivr.net/npm/mermaid@10/dist/mermaid.esm.min.mjs";
+    mermaid.initialize({
+      startOnLoad: true,
+      theme: "neutral",
+      flowchart: {
+        useMaxWidth: true,
+        htmlLabels: true,
+        curve: "basis",
+      },
+    });
+  </script>
+  
+
+  <section class="all-papers-section">
+    <h4>All Newspapers in Hawera</h4>
+    <div class="multicolumnbox">
+      
+      <div class="columnitem">
+        <a href="/newspapers/1829/">Hawera &amp; Normanby Star</a>
+        <br />
+        <span class="paper-meta">
+           1880 - 1924 
+        </span>
+      </div>
+      
+      <div class="columnitem">
+        <a href="/newspapers/3079/">Hawera Morning Post</a>
+        <br />
+        <span class="paper-meta">
+           1894 - 1900 
+        </span>
+      </div>
+      
+      <div class="columnitem">
+        <a href="/newspapers/1836/">Hawera Star</a>
+        <br />
+        <span class="paper-meta">
+           1924 - 1984 
+        </span>
+      </div>
+      
+      <div class="columnitem">
+        <a href="/newspapers/1840/">Egmont Star Weekender</a>
+        <br />
+        <span class="paper-meta">
+           Published since 1981 
+        </span>
+      </div>
+      
+      <div class="columnitem">
+        <a href="/newspapers/1841/">Star</a>
+        <br />
+        <span class="paper-meta">
+           1984 - 2004 
+        </span>
+      </div>
+      
+      <div class="columnitem">
+        <a href="/newspapers/1842/">South Taranaki Post</a>
+        <br />
+        <span class="paper-meta">
+           1992 - 1993 
+        </span>
+      </div>
+      
+      <div class="columnitem">
+        <a href="/newspapers/1844/">Post</a>
+        <br />
+        <span class="paper-meta">
+           Published since 1994 
+        </span>
+      </div>
+      
+      <div class="columnitem">
+        <a href="/newspapers/1845/">South Taranaki Star</a>
+        <br />
+        <span class="paper-meta">
+           Published since 2004 
+        </span>
+      </div>
+      
     </div>
-    
-    <div class="columnitem">
-      <a href="/newspapers/1836/">Hawera Star</a>
-      <br />
-      <span class="paper-meta">
-         1924 - 1984 
-      </span>
-    </div>
-    
-    <div class="columnitem">
-      <a href="/newspapers/1840/">Egmont Star Weekender</a>
-      <br />
-      <span class="paper-meta">
-         Published since 1981 
-      </span>
-    </div>
-    
-    <div class="columnitem">
-      <a href="/newspapers/1841/">Star</a>
-      <br />
-      <span class="paper-meta">
-         1984 - 2004 
-      </span>
-    </div>
-    
-    <div class="columnitem">
-      <a href="/newspapers/1842/">South Taranaki Post</a>
-      <br />
-      <span class="paper-meta">
-         1992 - 1993 
-      </span>
-    </div>
-    
-    <div class="columnitem">
-      <a href="/newspapers/1844/">Post</a>
-      <br />
-      <span class="paper-meta">
-         Published since 1994 
-      </span>
-    </div>
-    
-    <div class="columnitem">
-      <a href="/newspapers/1845/">South Taranaki Star</a>
-      <br />
-      <span class="paper-meta">
-         Published since 2004 
-      </span>
-    </div>
-    
-  </div>
+  </section>
 </div>
 </main>
 

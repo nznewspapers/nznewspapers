@@ -117,65 +117,111 @@
     There are 7 newspapers published in Wainuiomata.
   </p>
 
-  <div class="multicolumnbox">
-    
-    <div class="columnitem">
-      <a href="/newspapers/2053/">Courier News</a>
-      <br />
-      <span class="paper-meta">
-         1973 - 1981 
-      </span>
+  
+  <section class="lineage-section">
+    <h4>Publication Lineages &amp; Family Trees</h4>
+    <p>
+      The following continuations and parallel editions occurred among
+      newspapers in Wainuiomata:
+    </p>
+
+    <div class="mermaid-tree-list">
+      
+      <div class="mermaid-card">
+        <pre class="mermaid">
+graph LR
+  node_2053[&quot;Courier News&lt;br/&gt;(1973–1981)&quot;]
+  click node_2053 &quot;/newspapers/2053/&quot; &quot;View Courier News&quot;
+  node_2054[&quot;Courier&lt;br/&gt;(1981–1982)&quot;]
+  click node_2054 &quot;/newspapers/2054/&quot; &quot;View Courier&quot;
+  node_2055[&quot;Weekly Courier&lt;br/&gt;(1982–1983)&quot;]
+  click node_2055 &quot;/newspapers/2055/&quot; &quot;View Weekly Courier&quot;
+  node_2059[&quot;Valley Courier&lt;br/&gt;(1983–uuuu)&quot;]
+  click node_2059 &quot;/newspapers/2059/&quot; &quot;View Valley Courier&quot;
+  node_2053 --&gt; node_2054
+  node_2054 --&gt; node_2055
+  node_2055 --&gt; node_2059
+        </pre>
+      </div>
+      
     </div>
-    
-    <div class="columnitem">
-      <a href="/newspapers/2054/">Courier</a>
-      <br />
-      <span class="paper-meta">
-         1981 - 1982 
-      </span>
+  </section>
+  <script type="module">
+    import mermaid from "https://cdn.jsdelivr.net/npm/mermaid@10/dist/mermaid.esm.min.mjs";
+    mermaid.initialize({
+      startOnLoad: true,
+      theme: "neutral",
+      flowchart: {
+        useMaxWidth: true,
+        htmlLabels: true,
+        curve: "basis",
+      },
+    });
+  </script>
+  
+
+  <section class="all-papers-section">
+    <h4>All Newspapers in Wainuiomata</h4>
+    <div class="multicolumnbox">
+      
+      <div class="columnitem">
+        <a href="/newspapers/2053/">Courier News</a>
+        <br />
+        <span class="paper-meta">
+           1973 - 1981 
+        </span>
+      </div>
+      
+      <div class="columnitem">
+        <a href="/newspapers/2054/">Courier</a>
+        <br />
+        <span class="paper-meta">
+           1981 - 1982 
+        </span>
+      </div>
+      
+      <div class="columnitem">
+        <a href="/newspapers/2056/">Wainuiomata Advertiser</a>
+        <br />
+        <span class="paper-meta">
+           1982 - 1992 
+        </span>
+      </div>
+      
+      <div class="columnitem">
+        <a href="/newspapers/2055/">Weekly Courier</a>
+        <br />
+        <span class="paper-meta">
+           1982 - 1983 
+        </span>
+      </div>
+      
+      <div class="columnitem">
+        <a href="/newspapers/2059/">Valley Courier</a>
+        <br />
+        <span class="paper-meta">
+           1983 - an unknown date 
+        </span>
+      </div>
+      
+      <div class="columnitem">
+        <a href="/newspapers/2060/">Hutt sun</a>
+        <br />
+        <span class="paper-meta">
+           1986 - 1987 
+        </span>
+      </div>
+      
+      <div class="columnitem">
+        <a href="/newspapers/2062/">Wainuiomata News</a>
+        <br />
+        <span class="paper-meta">
+           Published since 1992 
+        </span>
+      </div>
+      
     </div>
-    
-    <div class="columnitem">
-      <a href="/newspapers/2056/">Wainuiomata Advertiser</a>
-      <br />
-      <span class="paper-meta">
-         1982 - 1992 
-      </span>
-    </div>
-    
-    <div class="columnitem">
-      <a href="/newspapers/2055/">Weekly Courier</a>
-      <br />
-      <span class="paper-meta">
-         1982 - 1983 
-      </span>
-    </div>
-    
-    <div class="columnitem">
-      <a href="/newspapers/2059/">Valley Courier</a>
-      <br />
-      <span class="paper-meta">
-         1983 - an unknown date 
-      </span>
-    </div>
-    
-    <div class="columnitem">
-      <a href="/newspapers/2060/">Hutt sun</a>
-      <br />
-      <span class="paper-meta">
-         1986 - 1987 
-      </span>
-    </div>
-    
-    <div class="columnitem">
-      <a href="/newspapers/2062/">Wainuiomata News</a>
-      <br />
-      <span class="paper-meta">
-         Published since 1992 
-      </span>
-    </div>
-    
-  </div>
+  </section>
 </div>
 </main>
 
