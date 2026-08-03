@@ -14,6 +14,11 @@
   "region": "Canterbury",
   "urlDigitized": "https://paperspast.natlib.govt.nz/newspapers/observer",
   "links": {
+    "2467": {
+      "direction": "Succeeding",
+      "relationship": "Continued by",
+      "target-description": "Observer"
+    },
     "unknown-1": {
       "direction": "Succeeding",
       "relationship": "Continued by",
@@ -21,6 +26,7 @@
     }
   },
   "sources": {
+    "2026-08-03T04:13:03.129Z": "Added sequential continuation link to later run #2467 (Observer).",
     "2026-07-30T06:12:02.554Z": "Updated Papers Past info using the nzn-paperspast-updater.js script.",
     "2022-08-31T04:35:42.239Z": "Extracted from the New Zealand National Bibliography (MARC record 8130458) downloaded June 2022."
   },

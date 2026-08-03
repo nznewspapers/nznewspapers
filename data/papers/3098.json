@@ -12,6 +12,11 @@
   "placename": "Christchurch",
   "region": "Canterbury",
   "links": {
+    "2387": {
+      "direction": "Succeeding",
+      "relationship": "Continued by",
+      "target-description": "Christchurch Star"
+    },
     "unknown-1": {
       "direction": "Preceding",
       "relationship": "Continues",
@@ -34,6 +39,7 @@
     }
   },
   "sources": {
+    "2026-08-03T04:13:03.129Z": "Added sequential continuation link to later run #2387 (Christchurch Star).",
     "2022-08-31T04:35:39.750Z": "Extracted from the New Zealand National Bibliography (MARC record 8127551) downloaded June 2022."
   },
   "revision": 1

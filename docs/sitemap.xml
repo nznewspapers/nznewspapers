@@ -3,11 +3,6 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>https://www.nznewspapers.org/about/</loc>
-    <lastmod>2026-07-29T12:00:12Z</lastmod>
-  </url>
-  
-  <url>
     <loc>https://www.nznewspapers.org/</loc>
     <lastmod>2026-07-29T12:00:12Z</lastmod>
   </url>
@@ -28,13 +23,18 @@
   </url>
   
   <url>
-    <loc>https://www.nznewspapers.org/scope/</loc>
+    <loc>https://www.nznewspapers.org/titles/</loc>
     <lastmod>2026-07-29T12:00:12Z</lastmod>
   </url>
   
   <url>
-    <loc>https://www.nznewspapers.org/titles/</loc>
-    <lastmod>2026-07-29T12:00:12Z</lastmod>
+    <loc>https://www.nznewspapers.org/scope/</loc>
+    <lastmod>2026-08-02T23:25:24Z</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.nznewspapers.org/about/</loc>
+    <lastmod>2026-08-02T23:31:54Z</lastmod>
   </url>
    
   <url>
@@ -6150,14 +6150,6 @@
   </url>
   
   <url>
-    <loc>https://www.nznewspapers.org/newspapers/3048/</loc>
-  </url>
-  
-  <url>
-    <loc>https://www.nznewspapers.org/newspapers/3049/</loc>
-  </url>
-  
-  <url>
     <loc>https://www.nznewspapers.org/newspapers/3050/</loc>
   </url>
   
@@ -6210,10 +6202,6 @@
   </url>
   
   <url>
-    <loc>https://www.nznewspapers.org/newspapers/3063/</loc>
-  </url>
-  
-  <url>
     <loc>https://www.nznewspapers.org/newspapers/3064/</loc>
   </url>
   
@@ -6235,10 +6223,6 @@
   
   <url>
     <loc>https://www.nznewspapers.org/newspapers/3069/</loc>
-  </url>
-  
-  <url>
-    <loc>https://www.nznewspapers.org/newspapers/3070/</loc>
   </url>
   
   <url>
@@ -6311,10 +6295,6 @@
   
   <url>
     <loc>https://www.nznewspapers.org/newspapers/3088/</loc>
-  </url>
-  
-  <url>
-    <loc>https://www.nznewspapers.org/newspapers/3089/</loc>
   </url>
   
   <url>
@@ -6422,10 +6402,6 @@
   </url>
   
   <url>
-    <loc>https://www.nznewspapers.org/newspapers/3116/</loc>
-  </url>
-  
-  <url>
     <loc>https://www.nznewspapers.org/newspapers/3118/</loc>
   </url>
   
@@ -6447,10 +6423,6 @@
   
   <url>
     <loc>https://www.nznewspapers.org/newspapers/3123/</loc>
-  </url>
-  
-  <url>
-    <loc>https://www.nznewspapers.org/newspapers/3124/</loc>
   </url>
   
   <url>
@@ -6494,10 +6466,6 @@
   </url>
   
   <url>
-    <loc>https://www.nznewspapers.org/newspapers/3135/</loc>
-  </url>
-  
-  <url>
     <loc>https://www.nznewspapers.org/newspapers/3136/</loc>
   </url>
   
@@ -6523,10 +6491,6 @@
   
   <url>
     <loc>https://www.nznewspapers.org/newspapers/3143/</loc>
-  </url>
-  
-  <url>
-    <loc>https://www.nznewspapers.org/newspapers/3144/</loc>
   </url>
   
   <url>
@@ -7331,10 +7295,6 @@
   
   <url>
     <loc>https://www.nznewspapers.org/place/te-kauwhata/</loc>
-  </url>
-  
-  <url>
-    <loc>https://www.nznewspapers.org/place/te-kopuru/</loc>
   </url>
   
   <url>

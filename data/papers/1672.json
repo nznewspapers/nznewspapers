@@ -24,8 +24,12 @@
     }
   },
   "sources": {
+    "2026-08-03T04:13:03.129Z": "Merged metadata from duplicate MARC record 3116 into record 1672.",
+    "2026-07-30T06:12:02.552Z": "Updated Papers Past info using the nzn-paperspast-updater.js script.",
     "2022-01-18T04:19:28.897Z": "Updated Papers Past info using the nzn-paperspast-updater.js script.",
     "2013-09-13T08:50:25.000Z": "Modified by gordon.paynter"
   },
-  "revision": 5
+  "revision": 5,
+  "idMarcControlNumber": "5095253",
+  "frequency": "Weekly"
 }

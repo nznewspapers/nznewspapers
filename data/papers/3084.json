@@ -12,6 +12,11 @@
   "placename": "Palmerston North",
   "region": "Manawatu-Wanganui",
   "links": {
+    "1911": {
+      "direction": "Succeeding",
+      "relationship": "Continued by",
+      "target-description": "Manawatu Evening Standard"
+    },
     "unknown-1": {
       "direction": "Preceding",
       "relationship": "Continues",
@@ -24,6 +29,7 @@
     }
   },
   "sources": {
+    "2026-08-03T04:13:03.129Z": "Added sequential continuation link to later run #1911 (Manawatu Evening Standard).",
     "2022-08-31T04:35:34.302Z": "Extracted from the New Zealand National Bibliography (MARC record 12890075) downloaded June 2022."
   },
   "revision": 1

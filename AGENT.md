@@ -49,11 +49,13 @@ When evaluating publications for inclusion or data updates, adhere strictly to t
 
 - **Mandatory Provenance Entry**: Whenever creating or modifying any newspaper JSON file in `data/papers/<id>.json`, you MUST add (or prepend) a timestamped entry to the `"sources"` object documenting the edit.
 - **Short Description & Source**: Keep the description **concise** (1 sentence), and whenever possible, **explicitly include the source of information** (e.g. Papers Past essay, MARC record number, National Library catalogue, local newspaper notice, or issue tracker report).
+- **Descending Timestamp Order**: Entries in the `"sources"` object MUST always be sorted in reverse chronological order (newest ISO-8601 timestamp first at the top, descending).
 - **Format**: `"ISO-8601-Timestamp": "Short description of the edit including the source of information if available."`
 - **Example**:
   ```json
   "sources": {
-    "2026-08-03T13:43:50.000Z": "Fixed self-referential link typo to point to record 1446 (Da ji Yuan shi bao) based on MARC 780 field."
+    "2026-08-03T13:43:50.000Z": "Fixed self-referential link typo to point to record 1446 (Da ji Yuan shi bao) based on MARC 780 field.",
+    "2014-05-07T09:46:07.000Z": "Modified by DataBot"
   }
   ```
 

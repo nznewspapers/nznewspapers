@@ -20,7 +20,10 @@
     }
   },
   "sources": {
+    "2026-08-03T04:13:03.129Z": "Merged metadata from duplicate MARC record 3089 into record 1064.",
     "2013-11-04T10:44:14.000Z": "Modified by gordon.paynter"
   },
-  "revision": 5
+  "revision": 5,
+  "idMarcControlNumber": "5095889",
+  "frequency": "Weekly"
 }
