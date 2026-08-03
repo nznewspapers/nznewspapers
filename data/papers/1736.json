@@ -14,7 +14,9 @@
   "region": "Hawke's Bay",
   "links": {
     "1735": {
-      "direction": "Succeeding"
+      "direction": "Preceding",
+      "relationship": "Formed by the union",
+      "target-description": "Hawke's Bay Tribune"
     },
     "1751": {
       "direction": "Succeeding",
@@ -28,8 +30,9 @@
     }
   },
   "sources": {
-    "2013-04-02T08:58:38.000Z": "Extracted from the New Zealand National Bibliography (MARC record 3531188) downloaded March 2013.",
-    "2014-04-10T10:18:06.000Z": "Modified by gordon.paynter"
+    "2026-08-03T04:48:26.979Z": "Fixed link direction to 1735 (Hawke's Bay Tribune) to Preceding.",
+    "2014-04-10T10:18:06.000Z": "Modified by gordon.paynter",
+    "2013-04-02T08:58:38.000Z": "Extracted from the New Zealand National Bibliography (MARC record 3531188) downloaded March 2013."
   },
   "revision": 8
 }

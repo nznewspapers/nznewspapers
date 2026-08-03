@@ -23,11 +23,6 @@
       "direction": "Is Edition Of",
       "target-description": "The Aucklander"
     },
-    "1257": {
-      "direction": "Succeeding",
-      "relationship": "Merged",
-      "target-description": "Aucklander (Shore : 2005)"
-    },
     "1261": {
       "direction": "Succeeding",
       "relationship": "Merged",
@@ -35,8 +30,9 @@
     }
   },
   "sources": {
-    "2013-04-02T08:58:38.000Z": "Extracted from the New Zealand National Bibliography (MARC record 10512335) downloaded March 2013.",
-    "2015-01-21T10:27:46.000Z": "Modified by gordon.paynter"
+    "2026-08-03T04:48:26.979Z": "Removed inter-edition horizontal mesh links between Aucklander regional editions.",
+    "2015-01-21T10:27:46.000Z": "Modified by gordon.paynter",
+    "2013-04-02T08:58:38.000Z": "Extracted from the New Zealand National Bibliography (MARC record 10512335) downloaded March 2013."
   },
   "revision": 9
 }

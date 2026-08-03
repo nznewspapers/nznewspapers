@@ -18,12 +18,13 @@
   "urlDigitized": "https://paperspast.natlib.govt.nz/newspapers/press",
   "links": {
     "2506": {
-      "direction": "Succeeding",
-      "relationship": "Unrelated",
-      "target-description": "Press (Christchurch, N.Z. : South Island ed.)"
+      "direction": "Has Edition",
+      "relationship": "Parallel Edition",
+      "target-description": "The Press (South Island edition)"
     }
   },
   "sources": {
+    "2026-08-03T04:48:26.979Z": "Updated link direction to 2506 (Press South Island Edition) to Has Edition.",
     "2022-01-18T04:19:28.954Z": "Updated Papers Past info using the nzn-paperspast-updater.js script.",
     "2014-03-21T11:46:04.000Z": "Modified by DataBot",
     "2013-04-02T08:58:38.000Z": "Extracted from the New Zealand National Bibliography (MARC record 3531175) downloaded March 2013."

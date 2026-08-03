@@ -14,20 +14,10 @@
   "price": "Gratis",
   "region": "Auckland",
   "links": {
-    "1231": {
-      "direction": "Succeeding",
-      "relationship": "Merged",
-      "target-description": "Papatoetoe & Otahuhu week"
-    },
     "1248": {
       "direction": "Succeeding",
       "relationship": "Merged",
       "target-description": "Aucklander (South ed.)"
-    },
-    "1418": {
-      "direction": "Succeeding",
-      "relationship": "Merged",
-      "target-description": "Manurewa week"
     },
     "undefined-unknown": {
       "direction": "Preceding",
@@ -36,8 +26,9 @@
     }
   },
   "sources": {
-    "2013-04-02T08:58:38.000Z": "Extracted from the New Zealand National Bibliography (MARC record 4772956) downloaded March 2013.",
-    "2014-05-07T09:49:03.000Z": "Modified by DataBot"
+    "2026-08-03T04:48:26.979Z": "Removed redundant horizontal co-predecessor link (1231, 1418).",
+    "2014-05-07T09:49:03.000Z": "Modified by DataBot",
+    "2013-04-02T08:58:38.000Z": "Extracted from the New Zealand National Bibliography (MARC record 4772956) downloaded March 2013."
   },
   "revision": 10
 }
