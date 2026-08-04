@@ -8484,14 +8484,20 @@
       return;
     }
 
-    // Filter items by matching item text or parent district/region headings
+    // Filter items by matching item text or its direct district/region headings
     for (var i = 0; i < items.length; i++) {
       var text = items[i].textContent || items[i].innerText;
       var searchStr = text;
       var sibling = items[i].previousElementSibling;
+      var foundSubheading = false;
+
       while (sibling) {
-        if (sibling.classList.contains("columnsubheading")) {
+        if (
+          !foundSubheading &&
+          sibling.classList.contains("columnsubheading")
+        ) {
           searchStr += " " + (sibling.textContent || sibling.innerText);
+          foundSubheading = true;
         }
         if (sibling.classList.contains("columnheading")) {
           searchStr += " " + (sibling.textContent || sibling.innerText);
@@ -8517,9 +8523,11 @@
     for (var i = 0; i < items.length; i++) {
       if (items[i].style.display !== "none") {
         var sib = items[i].previousElementSibling;
+        var shownSubheading = false;
         while (sib) {
-          if (sib.classList.contains("columnsubheading")) {
+          if (!shownSubheading && sib.classList.contains("columnsubheading")) {
             sib.style.display = "";
+            shownSubheading = true;
           }
           if (sib.classList.contains("columnheading")) {
             sib.style.display = "";
