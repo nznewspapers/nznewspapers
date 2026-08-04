@@ -126,7 +126,7 @@
 graph LR
   node_2064[&quot;Citylife (West &amp; North Ed.)&lt;br/&gt;(2008–2009)&quot;]
   click node_2064 &quot;/newspapers/2064/&quot; &quot;View Citylife (West &amp; North Ed.)&quot;
-  node_2065[&quot;Citylife Independent Herald&lt;br/&gt;(Published since 2009)&quot;]
+  node_2065[&quot;Citylife Independent Herald&lt;br/&gt;(since 2009)&quot;]
   click node_2065 &quot;/newspapers/2065/&quot; &quot;View Citylife Independent Herald&quot;
   node_2064 --&gt; node_2065
         </pre>
@@ -138,7 +138,20 @@ graph LR
     import mermaid from "https://cdn.jsdelivr.net/npm/mermaid@10/dist/mermaid.esm.min.mjs";
     mermaid.initialize({
       startOnLoad: true,
-      theme: "neutral",
+      theme: "base",
+      themeVariables: {
+        fontFamily: '"Source Serif 4", Georgia, serif',
+        fontSize: "14px",
+        background: "#eeeeee",
+        primaryColor: "#f7f7f7",
+        primaryBorderColor: "#111111",
+        primaryTextColor: "#111111",
+        lineColor: "#111111",
+        edgeLabelBackground: "#eeeeee",
+        nodeBorder: "1.5px",
+        clusterBkg: "#eeeeee",
+        clusterBorder: "#111111",
+      },
       flowchart: {
         useMaxWidth: true,
         htmlLabels: true,

@@ -128,7 +128,7 @@ graph LR
   click node_1490 &quot;/newspapers/1490/&quot; &quot;View Whangamata Flash&quot;
   node_1492[&quot;Coastline Flash&lt;br/&gt;(1983–1988)&quot;]
   click node_1492 &quot;/newspapers/1492/&quot; &quot;View Coastline Flash&quot;
-  node_1494[&quot;Coastal News&lt;br/&gt;(Published since 1988)&quot;]
+  node_1494[&quot;Coastal News&lt;br/&gt;(since 1988)&quot;]
   click node_1494 &quot;/newspapers/1494/&quot; &quot;View Coastal News&quot;
   node_1490 --&gt; node_1492
   node_1492 --&gt; node_1494
@@ -141,7 +141,20 @@ graph LR
     import mermaid from "https://cdn.jsdelivr.net/npm/mermaid@10/dist/mermaid.esm.min.mjs";
     mermaid.initialize({
       startOnLoad: true,
-      theme: "neutral",
+      theme: "base",
+      themeVariables: {
+        fontFamily: '"Source Serif 4", Georgia, serif',
+        fontSize: "14px",
+        background: "#eeeeee",
+        primaryColor: "#f7f7f7",
+        primaryBorderColor: "#111111",
+        primaryTextColor: "#111111",
+        lineColor: "#111111",
+        edgeLabelBackground: "#eeeeee",
+        nodeBorder: "1.5px",
+        clusterBkg: "#eeeeee",
+        clusterBorder: "#111111",
+      },
       flowchart: {
         useMaxWidth: true,
         htmlLabels: true,

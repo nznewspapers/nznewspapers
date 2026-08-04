@@ -151,7 +151,7 @@ module.exports = function () {
             const titleEsc = paper.title.replace(/"/g, "'");
             const dates =
               paper.finalYear === "9999"
-                ? `Published since ${paper.firstYear}`
+                ? `since ${paper.firstYear}`
                 : `${paper.firstYear}–${paper.finalYear}`;
 
             let icons = "";

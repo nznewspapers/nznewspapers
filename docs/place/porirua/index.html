@@ -130,11 +130,11 @@ graph LR
   click node_2038 &quot;/newspapers/2038/&quot; &quot;View Nga Paripari&quot;
   node_2039[&quot;Porirua News&lt;br/&gt;(1993–2001)&quot;]
   click node_2039 &quot;/newspapers/2039/&quot; &quot;View Porirua News&quot;
-  node_2040[&quot;Porirua City News 🌐&lt;br/&gt;(Published since 2001)&quot;]
+  node_2040[&quot;Porirua City News 🌐&lt;br/&gt;(since 2001)&quot;]
   click node_2040 &quot;/newspapers/2040/&quot; &quot;View Porirua City News&quot;
   node_2042[&quot;Citylife (Porirua Ed.) 🌐&lt;br/&gt;(2006–2009)&quot;]
   click node_2042 &quot;/newspapers/2042/&quot; &quot;View Citylife (Porirua Ed.)&quot;
-  node_2043[&quot;Citylife Porirua News&lt;br/&gt;(Published since 2009)&quot;]
+  node_2043[&quot;Citylife Porirua News&lt;br/&gt;(since 2009)&quot;]
   click node_2043 &quot;/newspapers/2043/&quot; &quot;View Citylife Porirua News&quot;
   node_2038 --&gt; node_2037
   node_2037 --&gt; node_2039
@@ -150,7 +150,20 @@ graph LR
     import mermaid from "https://cdn.jsdelivr.net/npm/mermaid@10/dist/mermaid.esm.min.mjs";
     mermaid.initialize({
       startOnLoad: true,
-      theme: "neutral",
+      theme: "base",
+      themeVariables: {
+        fontFamily: '"Source Serif 4", Georgia, serif',
+        fontSize: "14px",
+        background: "#eeeeee",
+        primaryColor: "#f7f7f7",
+        primaryBorderColor: "#111111",
+        primaryTextColor: "#111111",
+        lineColor: "#111111",
+        edgeLabelBackground: "#eeeeee",
+        nodeBorder: "1.5px",
+        clusterBkg: "#eeeeee",
+        clusterBorder: "#111111",
+      },
       flowchart: {
         useMaxWidth: true,
         htmlLabels: true,

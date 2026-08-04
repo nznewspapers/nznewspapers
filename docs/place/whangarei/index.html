@@ -126,7 +126,7 @@
 graph LR
   node_1034[&quot;Whangarei Comet and Northern Advertiser&lt;br/&gt;(1875–1877)&quot;]
   click node_1034 &quot;/newspapers/1034/&quot; &quot;View Whangarei Comet and Northern Advertiser&quot;
-  node_1035[&quot;Northern Advocate 📜 🌐&lt;br/&gt;(Published since 1877)&quot;]
+  node_1035[&quot;Northern Advocate 📜 🌐&lt;br/&gt;(since 1877)&quot;]
   click node_1035 &quot;/newspapers/1035/&quot; &quot;View Northern Advocate&quot;
   node_1040[&quot;Northern Mail&lt;br/&gt;(1908–1913)&quot;]
   click node_1040 &quot;/newspapers/1040/&quot; &quot;View Northern Mail&quot;
@@ -163,7 +163,20 @@ graph LR
     import mermaid from "https://cdn.jsdelivr.net/npm/mermaid@10/dist/mermaid.esm.min.mjs";
     mermaid.initialize({
       startOnLoad: true,
-      theme: "neutral",
+      theme: "base",
+      themeVariables: {
+        fontFamily: '"Source Serif 4", Georgia, serif',
+        fontSize: "14px",
+        background: "#eeeeee",
+        primaryColor: "#f7f7f7",
+        primaryBorderColor: "#111111",
+        primaryTextColor: "#111111",
+        lineColor: "#111111",
+        edgeLabelBackground: "#eeeeee",
+        nodeBorder: "1.5px",
+        clusterBkg: "#eeeeee",
+        clusterBorder: "#111111",
+      },
       flowchart: {
         useMaxWidth: true,
         htmlLabels: true,

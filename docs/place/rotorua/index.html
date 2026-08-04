@@ -136,9 +136,9 @@ graph LR
   click node_1674 &quot;/newspapers/1674/&quot; &quot;View Wonderland Gazette and Rotorua Times&quot;
   node_1678[&quot;Rotorua Post&lt;br/&gt;(1947–1960)&quot;]
   click node_1678 &quot;/newspapers/1678/&quot; &quot;View Rotorua Post&quot;
-  node_1679[&quot;Daily Post 🌐&lt;br/&gt;(Published since 1960)&quot;]
+  node_1679[&quot;Daily Post 🌐&lt;br/&gt;(since 1960)&quot;]
   click node_1679 &quot;/newspapers/1679/&quot; &quot;View Daily Post&quot;
-  node_3045[&quot;Rotorua Daily Post&lt;br/&gt;(Published since 2013)&quot;]
+  node_3045[&quot;Rotorua Daily Post&lt;br/&gt;(since 2013)&quot;]
   click node_3045 &quot;/newspapers/3045/&quot; &quot;View Rotorua Daily Post&quot;
   node_1672 --&gt; node_1676
   node_1674 --&gt; node_1675
@@ -156,7 +156,20 @@ graph LR
     import mermaid from "https://cdn.jsdelivr.net/npm/mermaid@10/dist/mermaid.esm.min.mjs";
     mermaid.initialize({
       startOnLoad: true,
-      theme: "neutral",
+      theme: "base",
+      themeVariables: {
+        fontFamily: '"Source Serif 4", Georgia, serif',
+        fontSize: "14px",
+        background: "#eeeeee",
+        primaryColor: "#f7f7f7",
+        primaryBorderColor: "#111111",
+        primaryTextColor: "#111111",
+        lineColor: "#111111",
+        edgeLabelBackground: "#eeeeee",
+        nodeBorder: "1.5px",
+        clusterBkg: "#eeeeee",
+        clusterBorder: "#111111",
+      },
       flowchart: {
         useMaxWidth: true,
         htmlLabels: true,

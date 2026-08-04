@@ -130,7 +130,7 @@ graph LR
   click node_1836 &quot;/newspapers/1836/&quot; &quot;View Hawera Star&quot;
   node_1841[&quot;Star&lt;br/&gt;(1984–2004)&quot;]
   click node_1841 &quot;/newspapers/1841/&quot; &quot;View Star&quot;
-  node_1845[&quot;South Taranaki Star 🌐&lt;br/&gt;(Published since 2004)&quot;]
+  node_1845[&quot;South Taranaki Star 🌐&lt;br/&gt;(since 2004)&quot;]
   click node_1845 &quot;/newspapers/1845/&quot; &quot;View South Taranaki Star&quot;
   node_1829 --&gt; node_1836
   node_1836 --&gt; node_1841
@@ -143,7 +143,7 @@ graph LR
 graph LR
   node_1842[&quot;South Taranaki Post&lt;br/&gt;(1992–1993)&quot;]
   click node_1842 &quot;/newspapers/1842/&quot; &quot;View South Taranaki Post&quot;
-  node_1844[&quot;Post&lt;br/&gt;(Published since 1994)&quot;]
+  node_1844[&quot;Post&lt;br/&gt;(since 1994)&quot;]
   click node_1844 &quot;/newspapers/1844/&quot; &quot;View Post&quot;
   node_1842 --&gt; node_1844
         </pre>
@@ -155,7 +155,20 @@ graph LR
     import mermaid from "https://cdn.jsdelivr.net/npm/mermaid@10/dist/mermaid.esm.min.mjs";
     mermaid.initialize({
       startOnLoad: true,
-      theme: "neutral",
+      theme: "base",
+      themeVariables: {
+        fontFamily: '"Source Serif 4", Georgia, serif',
+        fontSize: "14px",
+        background: "#eeeeee",
+        primaryColor: "#f7f7f7",
+        primaryBorderColor: "#111111",
+        primaryTextColor: "#111111",
+        lineColor: "#111111",
+        edgeLabelBackground: "#eeeeee",
+        nodeBorder: "1.5px",
+        clusterBkg: "#eeeeee",
+        clusterBorder: "#111111",
+      },
       flowchart: {
         useMaxWidth: true,
         htmlLabels: true,

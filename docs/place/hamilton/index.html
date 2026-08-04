@@ -124,7 +124,7 @@
       <div class="mermaid-card">
         <pre class="mermaid">
 graph LR
-  node_1568[&quot;The Waikato Times 📜 🌐&lt;br/&gt;(Published since 1872)&quot;]
+  node_1568[&quot;The Waikato Times 📜 🌐&lt;br/&gt;(since 1872)&quot;]
   click node_1568 &quot;/newspapers/1568/&quot; &quot;View The Waikato Times&quot;
   node_1569[&quot;Waikato Argus 📜&lt;br/&gt;(1896–1915)&quot;]
   click node_1569 &quot;/newspapers/1569/&quot; &quot;View Waikato Argus&quot;
@@ -150,7 +150,7 @@ graph LR
   click node_1594 &quot;/newspapers/1594/&quot; &quot;View Waikato This Week&quot;
   node_1595[&quot;This Week&lt;br/&gt;(2003–2004)&quot;]
   click node_1595 &quot;/newspapers/1595/&quot; &quot;View This Week&quot;
-  node_1597[&quot;Hamilton This Week : Hamilton&#39;s own Community Newspaper&lt;br/&gt;(Published since 2004)&quot;]
+  node_1597[&quot;Hamilton This Week : Hamilton&#39;s own Community Newspaper&lt;br/&gt;(since 2004)&quot;]
   click node_1597 &quot;/newspapers/1597/&quot; &quot;View Hamilton This Week : Hamilton&#39;s own Community Newspaper&quot;
   node_1594 --&gt; node_1595
   node_1595 --&gt; node_1597
@@ -163,7 +163,20 @@ graph LR
     import mermaid from "https://cdn.jsdelivr.net/npm/mermaid@10/dist/mermaid.esm.min.mjs";
     mermaid.initialize({
       startOnLoad: true,
-      theme: "neutral",
+      theme: "base",
+      themeVariables: {
+        fontFamily: '"Source Serif 4", Georgia, serif',
+        fontSize: "14px",
+        background: "#eeeeee",
+        primaryColor: "#f7f7f7",
+        primaryBorderColor: "#111111",
+        primaryTextColor: "#111111",
+        lineColor: "#111111",
+        edgeLabelBackground: "#eeeeee",
+        nodeBorder: "1.5px",
+        clusterBkg: "#eeeeee",
+        clusterBorder: "#111111",
+      },
       flowchart: {
         useMaxWidth: true,
         htmlLabels: true,

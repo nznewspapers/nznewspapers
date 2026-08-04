@@ -141,7 +141,7 @@ graph LR
   click node_1735 &quot;/newspapers/1735/&quot; &quot;View Hawke&#39;s Bay Tribune&quot;
   node_1736[&quot;Hawke&#39;s Bay Herald-Tribune&lt;br/&gt;(1937–1999)&quot;]
   click node_1736 &quot;/newspapers/1736/&quot; &quot;View Hawke&#39;s Bay Herald-Tribune&quot;
-  node_1751[&quot;Hawke&#39;s Bay Today 🌐&lt;br/&gt;(Published since 1999)&quot;]
+  node_1751[&quot;Hawke&#39;s Bay Today 🌐&lt;br/&gt;(since 1999)&quot;]
   click node_1751 &quot;/newspapers/1751/&quot; &quot;View Hawke&#39;s Bay Today&quot;
   node_1734 --&gt; node_1735
   node_1735 --&gt; node_1736
@@ -163,9 +163,9 @@ graph LR
       <div class="mermaid-card">
         <pre class="mermaid">
 graph LR
-  node_1753[&quot;Leader&lt;br/&gt;(Published since 2004)&quot;]
+  node_1753[&quot;Leader&lt;br/&gt;(since 2004)&quot;]
   click node_1753 &quot;/newspapers/1753/&quot; &quot;View Leader&quot;
-  node_1754[&quot;Hastings Leader&lt;br/&gt;(Published since 2006)&quot;]
+  node_1754[&quot;Hastings Leader&lt;br/&gt;(since 2006)&quot;]
   click node_1754 &quot;/newspapers/1754/&quot; &quot;View Hastings Leader&quot;
   node_1753 --&gt; node_1754
         </pre>
@@ -174,7 +174,7 @@ graph LR
       <div class="mermaid-card">
         <pre class="mermaid">
 graph LR
-  node_1755[&quot;The Hastings &amp; Havelock North Mail&lt;br/&gt;(Published since 2009)&quot;]
+  node_1755[&quot;The Hastings &amp; Havelock North Mail&lt;br/&gt;(since 2009)&quot;]
   click node_1755 &quot;/newspapers/1755/&quot; &quot;View The Hastings &amp; Havelock North Mail&quot;
   node_1756[&quot;The Hastings Mail&lt;br/&gt;(200u–2009)&quot;]
   click node_1756 &quot;/newspapers/1756/&quot; &quot;View The Hastings Mail&quot;
@@ -188,7 +188,20 @@ graph LR
     import mermaid from "https://cdn.jsdelivr.net/npm/mermaid@10/dist/mermaid.esm.min.mjs";
     mermaid.initialize({
       startOnLoad: true,
-      theme: "neutral",
+      theme: "base",
+      themeVariables: {
+        fontFamily: '"Source Serif 4", Georgia, serif',
+        fontSize: "14px",
+        background: "#eeeeee",
+        primaryColor: "#f7f7f7",
+        primaryBorderColor: "#111111",
+        primaryTextColor: "#111111",
+        lineColor: "#111111",
+        edgeLabelBackground: "#eeeeee",
+        nodeBorder: "1.5px",
+        clusterBkg: "#eeeeee",
+        clusterBorder: "#111111",
+      },
       flowchart: {
         useMaxWidth: true,
         htmlLabels: true,

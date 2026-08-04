@@ -126,7 +126,7 @@
 graph LR
   node_1600[&quot;Waipa Post 📜&lt;br/&gt;(1911–1936)&quot;]
   click node_1600 &quot;/newspapers/1600/&quot; &quot;View Waipa Post&quot;
-  node_1602[&quot;Te Awamutu Courier&lt;br/&gt;(Published since 1936)&quot;]
+  node_1602[&quot;Te Awamutu Courier&lt;br/&gt;(since 1936)&quot;]
   click node_1602 &quot;/newspapers/1602/&quot; &quot;View Te Awamutu Courier&quot;
   node_1600 --&gt; node_1602
         </pre>
@@ -138,7 +138,20 @@ graph LR
     import mermaid from "https://cdn.jsdelivr.net/npm/mermaid@10/dist/mermaid.esm.min.mjs";
     mermaid.initialize({
       startOnLoad: true,
-      theme: "neutral",
+      theme: "base",
+      themeVariables: {
+        fontFamily: '"Source Serif 4", Georgia, serif',
+        fontSize: "14px",
+        background: "#eeeeee",
+        primaryColor: "#f7f7f7",
+        primaryBorderColor: "#111111",
+        primaryTextColor: "#111111",
+        lineColor: "#111111",
+        edgeLabelBackground: "#eeeeee",
+        nodeBorder: "1.5px",
+        clusterBkg: "#eeeeee",
+        clusterBorder: "#111111",
+      },
       flowchart: {
         useMaxWidth: true,
         htmlLabels: true,

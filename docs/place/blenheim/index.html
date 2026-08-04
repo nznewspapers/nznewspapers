@@ -130,7 +130,7 @@ graph LR
   click node_2268 &quot;/newspapers/2268/&quot; &quot;View Marlborough Times&quot;
   node_2270[&quot;Marlborough Daily Times 📜&lt;br/&gt;(1882–1905)&quot;]
   click node_2270 &quot;/newspapers/2270/&quot; &quot;View Marlborough Daily Times&quot;
-  node_2266[&quot;Marlborough Express 📜 🌐&lt;br/&gt;(Published since 1866)&quot;]
+  node_2266[&quot;Marlborough Express 📜 🌐&lt;br/&gt;(since 1866)&quot;]
   click node_2266 &quot;/newspapers/2266/&quot; &quot;View Marlborough Express&quot;
   node_2265 --&gt; node_2268
   node_2270 --&gt; node_2266
@@ -155,9 +155,9 @@ graph LR
       <div class="mermaid-card">
         <pre class="mermaid">
 graph LR
-  node_2281[&quot;Blenheim sun (2002)&lt;br/&gt;(Published since 2002)&quot;]
+  node_2281[&quot;Blenheim sun (2002)&lt;br/&gt;(since 2002)&quot;]
   click node_2281 &quot;/newspapers/2281/&quot; &quot;View Blenheim sun (2002)&quot;
-  node_2283[&quot;Sun&lt;br/&gt;(Published since 2008)&quot;]
+  node_2283[&quot;Sun&lt;br/&gt;(since 2008)&quot;]
   click node_2283 &quot;/newspapers/2283/&quot; &quot;View Sun&quot;
   node_2281 --&gt; node_2283
         </pre>
@@ -169,7 +169,20 @@ graph LR
     import mermaid from "https://cdn.jsdelivr.net/npm/mermaid@10/dist/mermaid.esm.min.mjs";
     mermaid.initialize({
       startOnLoad: true,
-      theme: "neutral",
+      theme: "base",
+      themeVariables: {
+        fontFamily: '"Source Serif 4", Georgia, serif',
+        fontSize: "14px",
+        background: "#eeeeee",
+        primaryColor: "#f7f7f7",
+        primaryBorderColor: "#111111",
+        primaryTextColor: "#111111",
+        lineColor: "#111111",
+        edgeLabelBackground: "#eeeeee",
+        nodeBorder: "1.5px",
+        clusterBkg: "#eeeeee",
+        clusterBorder: "#111111",
+      },
       flowchart: {
         useMaxWidth: true,
         htmlLabels: true,

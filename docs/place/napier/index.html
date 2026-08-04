@@ -144,7 +144,7 @@ graph LR
   click node_1775 &quot;/newspapers/1775/&quot; &quot;View Courier (Napier)&quot;
   node_1779[&quot;Courier-leader (Napier Ed.)&lt;br/&gt;(199u–1996)&quot;]
   click node_1779 &quot;/newspapers/1779/&quot; &quot;View Courier-leader (Napier Ed.)&quot;
-  node_1778[&quot;The Napier Courier&lt;br/&gt;(Published since 1996)&quot;]
+  node_1778[&quot;The Napier Courier&lt;br/&gt;(since 1996)&quot;]
   click node_1778 &quot;/newspapers/1778/&quot; &quot;View The Napier Courier&quot;
   node_1775 --&gt; node_1779
   node_1779 --&gt; node_1778
@@ -168,7 +168,20 @@ graph LR
     import mermaid from "https://cdn.jsdelivr.net/npm/mermaid@10/dist/mermaid.esm.min.mjs";
     mermaid.initialize({
       startOnLoad: true,
-      theme: "neutral",
+      theme: "base",
+      themeVariables: {
+        fontFamily: '"Source Serif 4", Georgia, serif',
+        fontSize: "14px",
+        background: "#eeeeee",
+        primaryColor: "#f7f7f7",
+        primaryBorderColor: "#111111",
+        primaryTextColor: "#111111",
+        lineColor: "#111111",
+        edgeLabelBackground: "#eeeeee",
+        nodeBorder: "1.5px",
+        clusterBkg: "#eeeeee",
+        clusterBorder: "#111111",
+      },
       flowchart: {
         useMaxWidth: true,
         htmlLabels: true,

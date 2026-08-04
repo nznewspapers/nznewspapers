@@ -124,7 +124,7 @@
       <div class="mermaid-card">
         <pre class="mermaid">
 graph LR
-  node_2380[&quot;The Akaroa Mail and Banks Peninsula Advertiser 📜&lt;br/&gt;(Published since 1876)&quot;]
+  node_2380[&quot;The Akaroa Mail and Banks Peninsula Advertiser 📜&lt;br/&gt;(since 1876)&quot;]
   click node_2380 &quot;/newspapers/2380/&quot; &quot;View The Akaroa Mail and Banks Peninsula Advertiser&quot;
   node_3143[&quot;The Akaroa Mail&lt;br/&gt;(19uu–1985)&quot;]
   click node_3143 &quot;/newspapers/3143/&quot; &quot;View The Akaroa Mail&quot;
@@ -138,7 +138,20 @@ graph LR
     import mermaid from "https://cdn.jsdelivr.net/npm/mermaid@10/dist/mermaid.esm.min.mjs";
     mermaid.initialize({
       startOnLoad: true,
-      theme: "neutral",
+      theme: "base",
+      themeVariables: {
+        fontFamily: '"Source Serif 4", Georgia, serif',
+        fontSize: "14px",
+        background: "#eeeeee",
+        primaryColor: "#f7f7f7",
+        primaryBorderColor: "#111111",
+        primaryTextColor: "#111111",
+        lineColor: "#111111",
+        edgeLabelBackground: "#eeeeee",
+        nodeBorder: "1.5px",
+        clusterBkg: "#eeeeee",
+        clusterBorder: "#111111",
+      },
       flowchart: {
         useMaxWidth: true,
         htmlLabels: true,

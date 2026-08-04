@@ -132,7 +132,7 @@ graph LR
   click node_3134 &quot;/newspapers/3134/&quot; &quot;View Patea &amp; Waverley Press&quot;
   node_1613[&quot;The Patea Mail&lt;br/&gt;(1975–1999)&quot;]
   click node_1613 &quot;/newspapers/1613/&quot; &quot;View The Patea Mail&quot;
-  node_1615[&quot;Patea and Waverley Press 🌐&lt;br/&gt;(Published since 1999)&quot;]
+  node_1615[&quot;Patea and Waverley Press 🌐&lt;br/&gt;(since 1999)&quot;]
   click node_1615 &quot;/newspapers/1615/&quot; &quot;View Patea and Waverley Press&quot;
   node_1614[&quot;Waverley Newsletter&lt;br/&gt;(1998–1999)&quot;]
   click node_1614 &quot;/newspapers/1614/&quot; &quot;View Waverley Newsletter&quot;
@@ -150,7 +150,20 @@ graph LR
     import mermaid from "https://cdn.jsdelivr.net/npm/mermaid@10/dist/mermaid.esm.min.mjs";
     mermaid.initialize({
       startOnLoad: true,
-      theme: "neutral",
+      theme: "base",
+      themeVariables: {
+        fontFamily: '"Source Serif 4", Georgia, serif',
+        fontSize: "14px",
+        background: "#eeeeee",
+        primaryColor: "#f7f7f7",
+        primaryBorderColor: "#111111",
+        primaryTextColor: "#111111",
+        lineColor: "#111111",
+        edgeLabelBackground: "#eeeeee",
+        nodeBorder: "1.5px",
+        clusterBkg: "#eeeeee",
+        clusterBorder: "#111111",
+      },
       flowchart: {
         useMaxWidth: true,
         htmlLabels: true,

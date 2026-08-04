@@ -137,7 +137,7 @@ graph LR
 graph LR
   node_2549[&quot;Evening Mail 📜&lt;br/&gt;(1876–1879)&quot;]
   click node_2549 &quot;/newspapers/2549/&quot; &quot;View Evening Mail&quot;
-  node_2551[&quot;Oamaru Mail 📜 🌐&lt;br/&gt;(Published since 1879)&quot;]
+  node_2551[&quot;Oamaru Mail 📜 🌐&lt;br/&gt;(since 1879)&quot;]
   click node_2551 &quot;/newspapers/2551/&quot; &quot;View Oamaru Mail&quot;
   node_2549 --&gt; node_2551
         </pre>
@@ -149,7 +149,20 @@ graph LR
     import mermaid from "https://cdn.jsdelivr.net/npm/mermaid@10/dist/mermaid.esm.min.mjs";
     mermaid.initialize({
       startOnLoad: true,
-      theme: "neutral",
+      theme: "base",
+      themeVariables: {
+        fontFamily: '"Source Serif 4", Georgia, serif',
+        fontSize: "14px",
+        background: "#eeeeee",
+        primaryColor: "#f7f7f7",
+        primaryBorderColor: "#111111",
+        primaryTextColor: "#111111",
+        lineColor: "#111111",
+        edgeLabelBackground: "#eeeeee",
+        nodeBorder: "1.5px",
+        clusterBkg: "#eeeeee",
+        clusterBorder: "#111111",
+      },
       flowchart: {
         useMaxWidth: true,
         htmlLabels: true,

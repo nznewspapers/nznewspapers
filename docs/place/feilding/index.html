@@ -135,11 +135,11 @@ graph LR
       <div class="mermaid-card">
         <pre class="mermaid">
 graph LR
-  node_1899[&quot;Feilding Herald&lt;br/&gt;(Published since 1957)&quot;]
+  node_1899[&quot;Feilding Herald&lt;br/&gt;(since 1957)&quot;]
   click node_1899 &quot;/newspapers/1899/&quot; &quot;View Feilding Herald&quot;
   node_1900[&quot;Feilding Herald Rangitikei Mail&lt;br/&gt;(2002–2004)&quot;]
   click node_1900 &quot;/newspapers/1900/&quot; &quot;View Feilding Herald Rangitikei Mail&quot;
-  node_1902[&quot;Rangitikei Mail (2005)&lt;br/&gt;(Published since 2005)&quot;]
+  node_1902[&quot;Rangitikei Mail (2005)&lt;br/&gt;(since 2005)&quot;]
   click node_1902 &quot;/newspapers/1902/&quot; &quot;View Rangitikei Mail (2005)&quot;
   node_1899 --&gt; node_1900
   node_1900 --&gt; node_1902
@@ -152,7 +152,20 @@ graph LR
     import mermaid from "https://cdn.jsdelivr.net/npm/mermaid@10/dist/mermaid.esm.min.mjs";
     mermaid.initialize({
       startOnLoad: true,
-      theme: "neutral",
+      theme: "base",
+      themeVariables: {
+        fontFamily: '"Source Serif 4", Georgia, serif',
+        fontSize: "14px",
+        background: "#eeeeee",
+        primaryColor: "#f7f7f7",
+        primaryBorderColor: "#111111",
+        primaryTextColor: "#111111",
+        lineColor: "#111111",
+        edgeLabelBackground: "#eeeeee",
+        nodeBorder: "1.5px",
+        clusterBkg: "#eeeeee",
+        clusterBorder: "#111111",
+      },
       flowchart: {
         useMaxWidth: true,
         htmlLabels: true,

@@ -137,7 +137,7 @@ graph LR
 graph LR
   node_1921[&quot;Guardian [Palmerston North]&lt;br/&gt;(1972–2010)&quot;]
   click node_1921 &quot;/newspapers/1921/&quot; &quot;View Guardian [Palmerston North]&quot;
-  node_1926[&quot;Manawatu Guardian 🌐&lt;br/&gt;(Published since 2010)&quot;]
+  node_1926[&quot;Manawatu Guardian 🌐&lt;br/&gt;(since 2010)&quot;]
   click node_1926 &quot;/newspapers/1926/&quot; &quot;View Manawatu Guardian&quot;
   node_1921 --&gt; node_1926
         </pre>
@@ -149,7 +149,20 @@ graph LR
     import mermaid from "https://cdn.jsdelivr.net/npm/mermaid@10/dist/mermaid.esm.min.mjs";
     mermaid.initialize({
       startOnLoad: true,
-      theme: "neutral",
+      theme: "base",
+      themeVariables: {
+        fontFamily: '"Source Serif 4", Georgia, serif',
+        fontSize: "14px",
+        background: "#eeeeee",
+        primaryColor: "#f7f7f7",
+        primaryBorderColor: "#111111",
+        primaryTextColor: "#111111",
+        lineColor: "#111111",
+        edgeLabelBackground: "#eeeeee",
+        nodeBorder: "1.5px",
+        clusterBkg: "#eeeeee",
+        clusterBorder: "#111111",
+      },
       flowchart: {
         useMaxWidth: true,
         htmlLabels: true,

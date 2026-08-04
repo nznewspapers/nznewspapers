@@ -128,7 +128,7 @@ graph LR
   click node_1553 &quot;/newspapers/1553/&quot; &quot;View Morrinsville Star&quot;
   node_3066[&quot;Arrow&lt;br/&gt;(1972–1977)&quot;]
   click node_3066 &quot;/newspapers/3066/&quot; &quot;View Arrow&quot;
-  node_1564[&quot;Piako Post&lt;br/&gt;(Published since 1977)&quot;]
+  node_1564[&quot;Piako Post&lt;br/&gt;(since 1977)&quot;]
   click node_1564 &quot;/newspapers/1564/&quot; &quot;View Piako Post&quot;
   node_3066 --&gt; node_1553
   node_3066 --&gt; node_1564
@@ -141,7 +141,20 @@ graph LR
     import mermaid from "https://cdn.jsdelivr.net/npm/mermaid@10/dist/mermaid.esm.min.mjs";
     mermaid.initialize({
       startOnLoad: true,
-      theme: "neutral",
+      theme: "base",
+      themeVariables: {
+        fontFamily: '"Source Serif 4", Georgia, serif',
+        fontSize: "14px",
+        background: "#eeeeee",
+        primaryColor: "#f7f7f7",
+        primaryBorderColor: "#111111",
+        primaryTextColor: "#111111",
+        lineColor: "#111111",
+        edgeLabelBackground: "#eeeeee",
+        nodeBorder: "1.5px",
+        clusterBkg: "#eeeeee",
+        clusterBorder: "#111111",
+      },
       flowchart: {
         useMaxWidth: true,
         htmlLabels: true,

@@ -136,7 +136,7 @@ graph LR
   click node_1981 &quot;/newspapers/1981/&quot; &quot;View Wairarapa Daily&quot;
   node_1984[&quot;Wairarapa Daily Times 📜&lt;br/&gt;(1892–1938)&quot;]
   click node_1984 &quot;/newspapers/1984/&quot; &quot;View Wairarapa Daily Times&quot;
-  node_1989[&quot;Wairarapa Times-Age 🌐&lt;br/&gt;(Published since 1938)&quot;]
+  node_1989[&quot;Wairarapa Times-Age 🌐&lt;br/&gt;(since 1938)&quot;]
   click node_1989 &quot;/newspapers/1989/&quot; &quot;View Wairarapa Times-Age&quot;
   node_1985[&quot;Wairarapa Age 📜&lt;br/&gt;(1902–1938)&quot;]
   click node_1985 &quot;/newspapers/1985/&quot; &quot;View Wairarapa Age&quot;
@@ -159,7 +159,20 @@ graph LR
     import mermaid from "https://cdn.jsdelivr.net/npm/mermaid@10/dist/mermaid.esm.min.mjs";
     mermaid.initialize({
       startOnLoad: true,
-      theme: "neutral",
+      theme: "base",
+      themeVariables: {
+        fontFamily: '"Source Serif 4", Georgia, serif',
+        fontSize: "14px",
+        background: "#eeeeee",
+        primaryColor: "#f7f7f7",
+        primaryBorderColor: "#111111",
+        primaryTextColor: "#111111",
+        lineColor: "#111111",
+        edgeLabelBackground: "#eeeeee",
+        nodeBorder: "1.5px",
+        clusterBkg: "#eeeeee",
+        clusterBorder: "#111111",
+      },
       flowchart: {
         useMaxWidth: true,
         htmlLabels: true,

@@ -142,7 +142,7 @@ graph LR
   click node_1697 &quot;/newspapers/1697/&quot; &quot;View The Poverty Bay Herald&quot;
   node_1713[&quot;Gisborne Times 📜&lt;br/&gt;(1896–1938)&quot;]
   click node_1713 &quot;/newspapers/1713/&quot; &quot;View Gisborne Times&quot;
-  node_1720[&quot;Gisborne Herald 📜 🌐&lt;br/&gt;(Published since 1939)&quot;]
+  node_1720[&quot;Gisborne Herald 📜 🌐&lt;br/&gt;(since 1939)&quot;]
   click node_1720 &quot;/newspapers/1720/&quot; &quot;View Gisborne Herald&quot;
   node_1713 --&gt; node_1697
   node_1697 --&gt; node_1720
@@ -166,7 +166,20 @@ graph LR
     import mermaid from "https://cdn.jsdelivr.net/npm/mermaid@10/dist/mermaid.esm.min.mjs";
     mermaid.initialize({
       startOnLoad: true,
-      theme: "neutral",
+      theme: "base",
+      themeVariables: {
+        fontFamily: '"Source Serif 4", Georgia, serif',
+        fontSize: "14px",
+        background: "#eeeeee",
+        primaryColor: "#f7f7f7",
+        primaryBorderColor: "#111111",
+        primaryTextColor: "#111111",
+        lineColor: "#111111",
+        edgeLabelBackground: "#eeeeee",
+        nodeBorder: "1.5px",
+        clusterBkg: "#eeeeee",
+        clusterBorder: "#111111",
+      },
       flowchart: {
         useMaxWidth: true,
         htmlLabels: true,

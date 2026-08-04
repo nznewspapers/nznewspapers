@@ -130,7 +130,7 @@ graph LR
   click node_2106 &quot;/newspapers/2106/&quot; &quot;View New Zealand Times&quot;
   node_2133[&quot;The Dominion 📜&lt;br/&gt;(1907–2002)&quot;]
   click node_2133 &quot;/newspapers/2133/&quot; &quot;View The Dominion&quot;
-  node_2206[&quot;The Dominion Post 🌐&lt;br/&gt;(Published since 2002)&quot;]
+  node_2206[&quot;The Dominion Post 🌐&lt;br/&gt;(since 2002)&quot;]
   click node_2206 &quot;/newspapers/2206/&quot; &quot;View The Dominion Post&quot;
   node_2101[&quot;The Evening Post 📜&lt;br/&gt;(1865–2002)&quot;]
   click node_2101 &quot;/newspapers/2101/&quot; &quot;View The Evening Post&quot;
@@ -233,7 +233,7 @@ graph LR
   click node_2208 &quot;/newspapers/2208/&quot; &quot;View Wellington Contact&quot;
   node_2201[&quot;Norwester (Wellington)&lt;br/&gt;(1993–2003)&quot;]
   click node_2201 &quot;/newspapers/2201/&quot; &quot;View Norwester (Wellington)&quot;
-  node_2212[&quot;Wellingtonian&lt;br/&gt;(Published since 2004)&quot;]
+  node_2212[&quot;Wellingtonian&lt;br/&gt;(since 2004)&quot;]
   click node_2212 &quot;/newspapers/2212/&quot; &quot;View Wellingtonian&quot;
   node_2168 --&gt; node_2195
   node_2195 --&gt; node_2197
@@ -246,7 +246,7 @@ graph LR
       <div class="mermaid-card">
         <pre class="mermaid">
 graph LR
-  node_2174[&quot;Independent Herald&lt;br/&gt;(Published since 1972)&quot;]
+  node_2174[&quot;Independent Herald&lt;br/&gt;(since 1972)&quot;]
   click node_2174 &quot;/newspapers/2174/&quot; &quot;View Independent Herald&quot;
   node_2214[&quot;Citylife (North Ed.)&lt;br/&gt;(2006–2008)&quot;]
   click node_2214 &quot;/newspapers/2214/&quot; &quot;View Citylife (North Ed.)&quot;
@@ -271,7 +271,7 @@ graph LR
       <div class="mermaid-card">
         <pre class="mermaid">
 graph LR
-  node_2194[&quot;Western News (Johnsonville)&lt;br/&gt;(Published since 1989)&quot;]
+  node_2194[&quot;Western News (Johnsonville)&lt;br/&gt;(since 1989)&quot;]
   click node_2194 &quot;/newspapers/2194/&quot; &quot;View Western News (Johnsonville)&quot;
   node_2215[&quot;Citylife (West Ed.)&lt;br/&gt;(2006–2008)&quot;]
   click node_2215 &quot;/newspapers/2215/&quot; &quot;View Citylife (West Ed.)&quot;
@@ -295,7 +295,7 @@ graph LR
 graph LR
   node_2897[&quot;Newlands/Paparangi Post&lt;br/&gt;(1996–2001)&quot;]
   click node_2897 &quot;/newspapers/2897/&quot; &quot;View Newlands/Paparangi Post&quot;
-  node_2898[&quot;Northern Courier&lt;br/&gt;(Published since 2001)&quot;]
+  node_2898[&quot;Northern Courier&lt;br/&gt;(since 2001)&quot;]
   click node_2898 &quot;/newspapers/2898/&quot; &quot;View Northern Courier&quot;
   node_2895[&quot;Tawa Times&lt;br/&gt;(1997–2001)&quot;]
   click node_2895 &quot;/newspapers/2895/&quot; &quot;View Tawa Times&quot;
@@ -321,7 +321,20 @@ graph LR
     import mermaid from "https://cdn.jsdelivr.net/npm/mermaid@10/dist/mermaid.esm.min.mjs";
     mermaid.initialize({
       startOnLoad: true,
-      theme: "neutral",
+      theme: "base",
+      themeVariables: {
+        fontFamily: '"Source Serif 4", Georgia, serif',
+        fontSize: "14px",
+        background: "#eeeeee",
+        primaryColor: "#f7f7f7",
+        primaryBorderColor: "#111111",
+        primaryTextColor: "#111111",
+        lineColor: "#111111",
+        edgeLabelBackground: "#eeeeee",
+        nodeBorder: "1.5px",
+        clusterBkg: "#eeeeee",
+        clusterBorder: "#111111",
+      },
       flowchart: {
         useMaxWidth: true,
         htmlLabels: true,

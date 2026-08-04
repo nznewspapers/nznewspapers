@@ -128,7 +128,7 @@ graph LR
   click node_1630 &quot;/newspapers/1630/&quot; &quot;View Te Puke Times&quot;
   node_1632[&quot;Bay Sun (Te Puke Edition)&lt;br/&gt;(1980–1981)&quot;]
   click node_1632 &quot;/newspapers/1632/&quot; &quot;View Bay Sun (Te Puke Edition)&quot;
-  node_1633[&quot;Te Puke Times (1981) 🌐&lt;br/&gt;(Published since 1981)&quot;]
+  node_1633[&quot;Te Puke Times (1981) 🌐&lt;br/&gt;(since 1981)&quot;]
   click node_1633 &quot;/newspapers/1633/&quot; &quot;View Te Puke Times (1981)&quot;
   node_1630 --&gt; node_1632
   node_1632 --&gt; node_1633
@@ -141,7 +141,20 @@ graph LR
     import mermaid from "https://cdn.jsdelivr.net/npm/mermaid@10/dist/mermaid.esm.min.mjs";
     mermaid.initialize({
       startOnLoad: true,
-      theme: "neutral",
+      theme: "base",
+      themeVariables: {
+        fontFamily: '"Source Serif 4", Georgia, serif',
+        fontSize: "14px",
+        background: "#eeeeee",
+        primaryColor: "#f7f7f7",
+        primaryBorderColor: "#111111",
+        primaryTextColor: "#111111",
+        lineColor: "#111111",
+        edgeLabelBackground: "#eeeeee",
+        nodeBorder: "1.5px",
+        clusterBkg: "#eeeeee",
+        clusterBorder: "#111111",
+      },
       flowchart: {
         useMaxWidth: true,
         htmlLabels: true,

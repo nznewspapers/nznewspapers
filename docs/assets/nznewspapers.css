@@ -244,12 +244,12 @@ table.simpletable td {
   display: flex;
   gap: 16px;
   font-size: 0.82rem;
-  color: #444444;
+  color: #333333;
   margin-top: 0.4em;
   margin-bottom: 1em;
   padding: 5px 10px;
-  background: #eae7df;
-  border: 1px solid #d5d2c8;
+  background: #d8d8d8;
+  border: 1px solid #bbbbbb;
   border-radius: 2px;
 }
 
@@ -261,9 +261,9 @@ table.simpletable td {
 }
 
 .filter-btn {
-  background: #edeae1;
-  border: 1px solid #b8b2a4;
-  color: #222222;
+  background: #d8d8d8;
+  border: 1px solid #bbbbbb;
+  color: #111111;
   padding: 5px 12px;
   font-family: "Source Serif 4", Georgia, serif;
   font-size: 0.88rem;
@@ -273,8 +273,8 @@ table.simpletable td {
 }
 
 .filter-btn:hover {
-  background: #dfdcd2;
-  border-color: #777777;
+  background: #c8c8c8;
+  border-color: #666666;
 }
 
 .filter-btn.active {
@@ -296,14 +296,14 @@ table.papers-data-table th {
   font-family: "Playfair Display", Georgia, serif;
   text-align: left;
   padding: 8px 10px;
-  background: #eae7df;
+  background: #d8d8d8;
   color: #111111;
   border-bottom: 2px solid #111111;
 }
 
 table.papers-data-table td {
   padding: 8px 10px;
-  border-bottom: 1px dotted #bbbbbb;
+  border-bottom: 1px dotted #aaaaaa;
   vertical-align: middle;
 }
 
@@ -319,15 +319,15 @@ table.papers-data-table tr.hidden-row {
 }
 
 .badge-status.current {
-  background: #e2f0d9;
-  color: #276a13;
-  border: 1px solid #c2e0b1;
+  background: #d4e6d4;
+  color: #1e5c1e;
+  border: 1px solid #b8d8b8;
 }
 
 .badge-status.ceased {
-  background: #f5e2e0;
-  color: #a61c1c;
-  border: 1px solid #e6bcba;
+  background: #ebd8d8;
+  color: #992222;
+  border: 1px solid #d8b8b8;
 }
 
 .badge-link {
@@ -355,8 +355,8 @@ table.papers-data-table tr.hidden-row {
 }
 
 .mermaid-card {
-  background: #fdfbf7;
-  border: 1px solid #e0d8c8;
+  background: #eeeeee;
+  border: 1px solid #cccccc;
   border-radius: 4px;
   padding: 14px 16px;
   margin-bottom: 14px;

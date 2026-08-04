@@ -137,7 +137,7 @@ graph LR
 graph LR
   node_1537[&quot;New Edition&lt;br/&gt;(1981–1983)&quot;]
   click node_1537 &quot;/newspapers/1537/&quot; &quot;View New Edition&quot;
-  node_1540[&quot;Cambridge Edition&lt;br/&gt;(Published since 1984)&quot;]
+  node_1540[&quot;Cambridge Edition&lt;br/&gt;(since 1984)&quot;]
   click node_1540 &quot;/newspapers/1540/&quot; &quot;View Cambridge Edition&quot;
   node_1537 --&gt; node_1540
         </pre>
@@ -149,7 +149,20 @@ graph LR
     import mermaid from "https://cdn.jsdelivr.net/npm/mermaid@10/dist/mermaid.esm.min.mjs";
     mermaid.initialize({
       startOnLoad: true,
-      theme: "neutral",
+      theme: "base",
+      themeVariables: {
+        fontFamily: '"Source Serif 4", Georgia, serif',
+        fontSize: "14px",
+        background: "#eeeeee",
+        primaryColor: "#f7f7f7",
+        primaryBorderColor: "#111111",
+        primaryTextColor: "#111111",
+        lineColor: "#111111",
+        edgeLabelBackground: "#eeeeee",
+        nodeBorder: "1.5px",
+        clusterBkg: "#eeeeee",
+        clusterBorder: "#111111",
+      },
       flowchart: {
         useMaxWidth: true,
         htmlLabels: true,

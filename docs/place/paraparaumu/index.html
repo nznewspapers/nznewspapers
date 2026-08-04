@@ -132,7 +132,7 @@ graph LR
   click node_2002 &quot;/newspapers/2002/&quot; &quot;View Observer News Shopper&quot;
   node_2003[&quot;Kapiti Observer News Shopper&lt;br/&gt;(1974–1979)&quot;]
   click node_2003 &quot;/newspapers/2003/&quot; &quot;View Kapiti Observer News Shopper&quot;
-  node_2004[&quot;Kapiti Observer 🌐&lt;br/&gt;(Published since 1979)&quot;]
+  node_2004[&quot;Kapiti Observer 🌐&lt;br/&gt;(since 1979)&quot;]
   click node_2004 &quot;/newspapers/2004/&quot; &quot;View Kapiti Observer&quot;
   node_3138 --&gt; node_2001
   node_2001 --&gt; node_2002
@@ -157,7 +157,7 @@ graph LR
 graph LR
   node_2007[&quot;Kapiti Mail&lt;br/&gt;(1988–1993)&quot;]
   click node_2007 &quot;/newspapers/2007/&quot; &quot;View Kapiti Mail&quot;
-  node_2008[&quot;Horowhenua Mail 🌐&lt;br/&gt;(Published since 1993)&quot;]
+  node_2008[&quot;Horowhenua Mail 🌐&lt;br/&gt;(since 1993)&quot;]
   click node_2008 &quot;/newspapers/2008/&quot; &quot;View Horowhenua Mail&quot;
   node_2007 --&gt; node_2008
         </pre>
@@ -169,7 +169,20 @@ graph LR
     import mermaid from "https://cdn.jsdelivr.net/npm/mermaid@10/dist/mermaid.esm.min.mjs";
     mermaid.initialize({
       startOnLoad: true,
-      theme: "neutral",
+      theme: "base",
+      themeVariables: {
+        fontFamily: '"Source Serif 4", Georgia, serif',
+        fontSize: "14px",
+        background: "#eeeeee",
+        primaryColor: "#f7f7f7",
+        primaryBorderColor: "#111111",
+        primaryTextColor: "#111111",
+        lineColor: "#111111",
+        edgeLabelBackground: "#eeeeee",
+        nodeBorder: "1.5px",
+        clusterBkg: "#eeeeee",
+        clusterBorder: "#111111",
+      },
       flowchart: {
         useMaxWidth: true,
         htmlLabels: true,
