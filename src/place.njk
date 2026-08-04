@@ -153,48 +153,25 @@ eleventyComputed:
           </td>
           <td>{{ paper.frequency or "—" }}</td>
           <td>
-            {% if paper.finalYear == "9999" or paper.isCurrent %}
-            <span class="badge-status current">Current</span>
-            {% else %}
-            <span class="badge-status ceased">Ceased</span>
-            {% endif %}
+            {% if paper.finalYear == "9999" or paper.isCurrent %} Current {%
+            else %} Ceased {% endif %}
           </td>
           <td>
             {% if paper.urlDigitized %}
-            <a
-              href="{{ paper.urlDigitized }}"
-              class="badge-link"
-              target="_blank"
-              rel="noopener"
+            <a href="{{ paper.urlDigitized }}" target="_blank" rel="noopener"
               >📜 Papers Past</a
             >
-            {% else %}
-            <span style="color: #aaa">—</span>
-            {% endif %}
+            {% else %} — {% endif %}
           </td>
           <td>
             {% if paper.urlCurrent %}
-            <a
-              href="{{ paper.urlCurrent }}"
-              class="badge-link"
-              target="_blank"
-              rel="noopener"
+            <a href="{{ paper.urlCurrent }}" target="_blank" rel="noopener"
               >🌐 Website</a
             >
-            {% else %}
-            <span style="color: #aaa">—</span>
-            {% endif %}
+            {% else %} — {% endif %}
           </td>
           <td>
-            {% if isInLineage %}
-            <span style="color: #2e7d32" title="Appears in lineage diagram"
-              >🌳 Chart</span
-            >
-            {% else %}
-            <span style="color: #757575" title="Standalone publication"
-              >📄 Single</span
-            >
-            {% endif %}
+            {% if isInLineage %} 🌳 Chart {% else %} 📄 Single {% endif %}
           </td>
         </tr>
         {% endfor %}

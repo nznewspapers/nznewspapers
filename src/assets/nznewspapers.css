@@ -319,35 +319,6 @@ table.papers-data-table tr.hidden-row {
   display: none;
 }
 
-.badge-status {
-  font-size: 0.78rem;
-  padding: 2px 6px;
-  border-radius: 2px;
-  font-weight: 500;
-}
-
-.badge-status.current {
-  background: #d4e6d4;
-  color: #1e5c1e;
-  border: 1px solid #b8d8b8;
-}
-
-.badge-status.ceased {
-  background: #ebd8d8;
-  color: #992222;
-  border: 1px solid #d8b8b8;
-}
-
-.badge-link {
-  font-size: 0.8rem;
-  color: #004499;
-  text-decoration: none;
-}
-
-.badge-link:hover {
-  text-decoration: underline;
-}
-
 .lineage-section {
   margin: 1.5em 0;
   padding-bottom: 1em;
