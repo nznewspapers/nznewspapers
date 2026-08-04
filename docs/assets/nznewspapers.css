@@ -255,8 +255,16 @@ table.simpletable td {
 
 .table-filter-bar {
   display: flex;
-  gap: 8px;
+  gap: 16px;
   margin-bottom: 1em;
+  flex-wrap: wrap;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.filter-group {
+  display: flex;
+  gap: 6px;
   flex-wrap: wrap;
 }
 

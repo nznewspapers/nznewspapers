@@ -452,21 +452,50 @@ graph LR
   
 
   <section class="all-papers-section">
-    <h3>All Newspapers in Auckland</h3>
+    <h3>Newspaper List</h3>
 
-       
+      
+
     <div class="table-filter-bar">
-      <button type="button" class="filter-btn active" data-filter="all">
-        All Newspapers (225)
-      </button>
-      <button type="button" class="filter-btn" data-filter="lineage">
-        🌳 In Lineage Charts (63)
-      </button>
-      <button type="button" class="filter-btn" data-filter="standalone">
-        📄 Standalone (162)
-      </button>
+      <div class="filter-group">
+        <button
+          type="button"
+          class="filter-btn active"
+          data-lineage-filter="all"
+        >
+          All (225)
+        </button>
+        
+        <button type="button" class="filter-btn" data-lineage-filter="lineage">
+          🌳 In Lineage Charts (63)
+        </button>
+        <button
+          type="button"
+          class="filter-btn"
+          data-lineage-filter="standalone"
+        >
+          📄 Standalone (162)
+        </button>
+        
+      </div>
+
+      <div class="filter-group access-filters">
+        <button
+          type="button"
+          class="filter-btn filter-toggle"
+          data-access-filter="digitised"
+        >
+          📜 Digitised
+        </button>
+        <button
+          type="button"
+          class="filter-btn filter-toggle"
+          data-access-filter="online"
+        >
+          🌐 Online
+        </button>
+      </div>
     </div>
-    
 
     <table class="papers-data-table" id="place-papers-table">
       <thead>
@@ -487,6 +516,8 @@ graph LR
         <tr
           class="paper-row"
           data-lineage="lineage"
+          data-digitised="true"
+          data-online="true"
         >
           <td>
             <a href="/newspapers/1073/"
@@ -539,6 +570,8 @@ graph LR
         <tr
           class="paper-row"
           data-lineage="standalone"
+          data-digitised="false"
+          data-online="false"
         >
           <td>
             <a href="/newspapers/1076/"
@@ -579,6 +612,8 @@ graph LR
         <tr
           class="paper-row"
           data-lineage="standalone"
+          data-digitised="false"
+          data-online="false"
         >
           <td>
             <a href="/newspapers/1188/"
@@ -619,6 +654,8 @@ graph LR
         <tr
           class="paper-row"
           data-lineage="standalone"
+          data-digitised="false"
+          data-online="false"
         >
           <td>
             <a href="/newspapers/1214/"
@@ -659,6 +696,8 @@ graph LR
         <tr
           class="paper-row"
           data-lineage="lineage"
+          data-digitised="false"
+          data-online="false"
         >
           <td>
             <a href="/newspapers/1234/"
@@ -699,6 +738,8 @@ graph LR
         <tr
           class="paper-row"
           data-lineage="standalone"
+          data-digitised="false"
+          data-online="false"
         >
           <td>
             <a href="/newspapers/1237/"
@@ -739,6 +780,8 @@ graph LR
         <tr
           class="paper-row"
           data-lineage="standalone"
+          data-digitised="false"
+          data-online="false"
         >
           <td>
             <a href="/newspapers/1239/"
@@ -779,6 +822,8 @@ graph LR
         <tr
           class="paper-row"
           data-lineage="standalone"
+          data-digitised="true"
+          data-online="false"
         >
           <td>
             <a href="/newspapers/1280/"
@@ -825,6 +870,8 @@ graph LR
         <tr
           class="paper-row"
           data-lineage="standalone"
+          data-digitised="true"
+          data-online="false"
         >
           <td>
             <a href="/newspapers/1281/"
@@ -871,6 +918,8 @@ graph LR
         <tr
           class="paper-row"
           data-lineage="standalone"
+          data-digitised="false"
+          data-online="false"
         >
           <td>
             <a href="/newspapers/1282/"
@@ -911,6 +960,8 @@ graph LR
         <tr
           class="paper-row"
           data-lineage="standalone"
+          data-digitised="true"
+          data-online="false"
         >
           <td>
             <a href="/newspapers/1283/"
@@ -957,6 +1008,8 @@ graph LR
         <tr
           class="paper-row"
           data-lineage="lineage"
+          data-digitised="true"
+          data-online="false"
         >
           <td>
             <a href="/newspapers/1284/"
@@ -1003,6 +1056,8 @@ graph LR
         <tr
           class="paper-row"
           data-lineage="standalone"
+          data-digitised="true"
+          data-online="false"
         >
           <td>
             <a href="/newspapers/1285/"
@@ -1049,6 +1104,8 @@ graph LR
         <tr
           class="paper-row"
           data-lineage="standalone"
+          data-digitised="true"
+          data-online="true"
         >
           <td>
             <a href="/newspapers/1286/"
@@ -1101,6 +1158,8 @@ graph LR
         <tr
           class="paper-row"
           data-lineage="standalone"
+          data-digitised="false"
+          data-online="true"
         >
           <td>
             <a href="/newspapers/1287/"
@@ -1147,6 +1206,8 @@ graph LR
         <tr
           class="paper-row"
           data-lineage="standalone"
+          data-digitised="false"
+          data-online="false"
         >
           <td>
             <a href="/newspapers/1288/"
@@ -1187,6 +1248,8 @@ graph LR
         <tr
           class="paper-row"
           data-lineage="standalone"
+          data-digitised="false"
+          data-online="false"
         >
           <td>
             <a href="/newspapers/1289/"
@@ -1227,6 +1290,8 @@ graph LR
         <tr
           class="paper-row"
           data-lineage="standalone"
+          data-digitised="false"
+          data-online="false"
         >
           <td>
             <a href="/newspapers/1290/"
@@ -1267,6 +1332,8 @@ graph LR
         <tr
           class="paper-row"
           data-lineage="standalone"
+          data-digitised="false"
+          data-online="false"
         >
           <td>
             <a href="/newspapers/1291/"
@@ -1307,6 +1374,8 @@ graph LR
         <tr
           class="paper-row"
           data-lineage="standalone"
+          data-digitised="false"
+          data-online="false"
         >
           <td>
             <a href="/newspapers/1293/"
@@ -1347,6 +1416,8 @@ graph LR
         <tr
           class="paper-row"
           data-lineage="standalone"
+          data-digitised="false"
+          data-online="false"
         >
           <td>
             <a href="/newspapers/1294/"
@@ -1387,6 +1458,8 @@ graph LR
         <tr
           class="paper-row"
           data-lineage="lineage"
+          data-digitised="true"
+          data-online="false"
         >
           <td>
             <a href="/newspapers/1292/"
@@ -1433,6 +1506,8 @@ graph LR
         <tr
           class="paper-row"
           data-lineage="lineage"
+          data-digitised="false"
+          data-online="false"
         >
           <td>
             <a href="/newspapers/1295/"
@@ -1473,6 +1548,8 @@ graph LR
         <tr
           class="paper-row"
           data-lineage="lineage"
+          data-digitised="false"
+          data-online="false"
         >
           <td>
             <a href="/newspapers/1296/"
@@ -1513,6 +1590,8 @@ graph LR
         <tr
           class="paper-row"
           data-lineage="lineage"
+          data-digitised="false"
+          data-online="false"
         >
           <td>
             <a href="/newspapers/1297/"
@@ -1553,6 +1632,8 @@ graph LR
         <tr
           class="paper-row"
           data-lineage="lineage"
+          data-digitised="true"
+          data-online="false"
         >
           <td>
             <a href="/newspapers/1299/"
@@ -1599,6 +1680,8 @@ graph LR
         <tr
           class="paper-row"
           data-lineage="standalone"
+          data-digitised="false"
+          data-online="false"
         >
           <td>
             <a href="/newspapers/1298/"
@@ -1639,6 +1722,8 @@ graph LR
         <tr
           class="paper-row"
           data-lineage="lineage"
+          data-digitised="false"
+          data-online="false"
         >
           <td>
             <a href="/newspapers/1300/"
@@ -1679,6 +1764,8 @@ graph LR
         <tr
           class="paper-row"
           data-lineage="standalone"
+          data-digitised="false"
+          data-online="false"
         >
           <td>
             <a href="/newspapers/1301/"
@@ -1719,6 +1806,8 @@ graph LR
         <tr
           class="paper-row"
           data-lineage="lineage"
+          data-digitised="false"
+          data-online="false"
         >
           <td>
             <a href="/newspapers/1303/"
@@ -1759,6 +1848,8 @@ graph LR
         <tr
           class="paper-row"
           data-lineage="lineage"
+          data-digitised="false"
+          data-online="false"
         >
           <td>
             <a href="/newspapers/1302/"
@@ -1799,6 +1890,8 @@ graph LR
         <tr
           class="paper-row"
           data-lineage="lineage"
+          data-digitised="false"
+          data-online="false"
         >
           <td>
             <a href="/newspapers/1304/"
@@ -1839,6 +1932,8 @@ graph LR
         <tr
           class="paper-row"
           data-lineage="standalone"
+          data-digitised="false"
+          data-online="false"
         >
           <td>
             <a href="/newspapers/1306/"
@@ -1879,6 +1974,8 @@ graph LR
         <tr
           class="paper-row"
           data-lineage="standalone"
+          data-digitised="false"
+          data-online="false"
         >
           <td>
             <a href="/newspapers/1305/"
@@ -1919,6 +2016,8 @@ graph LR
         <tr
           class="paper-row"
           data-lineage="lineage"
+          data-digitised="true"
+          data-online="false"
         >
           <td>
             <a href="/newspapers/1308/"
@@ -1965,6 +2064,8 @@ graph LR
         <tr
           class="paper-row"
           data-lineage="standalone"
+          data-digitised="false"
+          data-online="true"
         >
           <td>
             <a href="/newspapers/1309/"
@@ -2011,6 +2112,8 @@ graph LR
         <tr
           class="paper-row"
           data-lineage="lineage"
+          data-digitised="false"
+          data-online="false"
         >
           <td>
             <a href="/newspapers/1311/"
@@ -2051,6 +2154,8 @@ graph LR
         <tr
           class="paper-row"
           data-lineage="standalone"
+          data-digitised="false"
+          data-online="false"
         >
           <td>
             <a href="/newspapers/1310/"
@@ -2091,6 +2196,8 @@ graph LR
         <tr
           class="paper-row"
           data-lineage="lineage"
+          data-digitised="false"
+          data-online="false"
         >
           <td>
             <a href="/newspapers/1312/"
@@ -2131,6 +2238,8 @@ graph LR
         <tr
           class="paper-row"
           data-lineage="lineage"
+          data-digitised="true"
+          data-online="false"
         >
           <td>
             <a href="/newspapers/1313/"
@@ -2177,6 +2286,8 @@ graph LR
         <tr
           class="paper-row"
           data-lineage="standalone"
+          data-digitised="false"
+          data-online="false"
         >
           <td>
             <a href="/newspapers/1314/"
@@ -2217,6 +2328,8 @@ graph LR
         <tr
           class="paper-row"
           data-lineage="lineage"
+          data-digitised="false"
+          data-online="false"
         >
           <td>
             <a href="/newspapers/1315/"
@@ -2257,6 +2370,8 @@ graph LR
         <tr
           class="paper-row"
           data-lineage="lineage"
+          data-digitised="true"
+          data-online="false"
         >
           <td>
             <a href="/newspapers/1316/"
@@ -2303,6 +2418,8 @@ graph LR
         <tr
           class="paper-row"
           data-lineage="lineage"
+          data-digitised="false"
+          data-online="false"
         >
           <td>
             <a href="/newspapers/1318/"
@@ -2343,6 +2460,8 @@ graph LR
         <tr
           class="paper-row"
           data-lineage="lineage"
+          data-digitised="true"
+          data-online="false"
         >
           <td>
             <a href="/newspapers/1319/"
@@ -2389,6 +2508,8 @@ graph LR
         <tr
           class="paper-row"
           data-lineage="standalone"
+          data-digitised="false"
+          data-online="false"
         >
           <td>
             <a href="/newspapers/1320/"
@@ -2429,6 +2550,8 @@ graph LR
         <tr
           class="paper-row"
           data-lineage="standalone"
+          data-digitised="false"
+          data-online="false"
         >
           <td>
             <a href="/newspapers/1321/"
@@ -2469,6 +2592,8 @@ graph LR
         <tr
           class="paper-row"
           data-lineage="standalone"
+          data-digitised="false"
+          data-online="false"
         >
           <td>
             <a href="/newspapers/1322/"
@@ -2509,6 +2634,8 @@ graph LR
         <tr
           class="paper-row"
           data-lineage="standalone"
+          data-digitised="false"
+          data-online="false"
         >
           <td>
             <a href="/newspapers/1323/"
@@ -2549,6 +2676,8 @@ graph LR
         <tr
           class="paper-row"
           data-lineage="standalone"
+          data-digitised="false"
+          data-online="false"
         >
           <td>
             <a href="/newspapers/1324/"
@@ -2589,6 +2718,8 @@ graph LR
         <tr
           class="paper-row"
           data-lineage="lineage"
+          data-digitised="false"
+          data-online="false"
         >
           <td>
             <a href="/newspapers/1325/"
@@ -2629,6 +2760,8 @@ graph LR
         <tr
           class="paper-row"
           data-lineage="standalone"
+          data-digitised="false"
+          data-online="false"
         >
           <td>
             <a href="/newspapers/1249/"
@@ -2669,6 +2802,8 @@ graph LR
         <tr
           class="paper-row"
           data-lineage="lineage"
+          data-digitised="false"
+          data-online="false"
         >
           <td>
             <a href="/newspapers/1254/"
@@ -2709,6 +2844,8 @@ graph LR
         <tr
           class="paper-row"
           data-lineage="lineage"
+          data-digitised="false"
+          data-online="false"
         >
           <td>
             <a href="/newspapers/1253/"
@@ -2749,6 +2886,8 @@ graph LR
         <tr
           class="paper-row"
           data-lineage="standalone"
+          data-digitised="false"
+          data-online="false"
         >
           <td>
             <a href="/newspapers/1262/"
@@ -2789,6 +2928,8 @@ graph LR
         <tr
           class="paper-row"
           data-lineage="standalone"
+          data-digitised="false"
+          data-online="false"
         >
           <td>
             <a href="/newspapers/1307/"
@@ -2829,6 +2970,8 @@ graph LR
         <tr
           class="paper-row"
           data-lineage="standalone"
+          data-digitised="false"
+          data-online="false"
         >
           <td>
             <a href="/newspapers/1317/"
@@ -2869,6 +3012,8 @@ graph LR
         <tr
           class="paper-row"
           data-lineage="standalone"
+          data-digitised="false"
+          data-online="false"
         >
           <td>
             <a href="/newspapers/1326/"
@@ -2909,6 +3054,8 @@ graph LR
         <tr
           class="paper-row"
           data-lineage="lineage"
+          data-digitised="false"
+          data-online="false"
         >
           <td>
             <a href="/newspapers/1327/"
@@ -2949,6 +3096,8 @@ graph LR
         <tr
           class="paper-row"
           data-lineage="standalone"
+          data-digitised="false"
+          data-online="false"
         >
           <td>
             <a href="/newspapers/1328/"
@@ -2989,6 +3138,8 @@ graph LR
         <tr
           class="paper-row"
           data-lineage="standalone"
+          data-digitised="false"
+          data-online="false"
         >
           <td>
             <a href="/newspapers/1329/"
@@ -3029,6 +3180,8 @@ graph LR
         <tr
           class="paper-row"
           data-lineage="standalone"
+          data-digitised="false"
+          data-online="false"
         >
           <td>
             <a href="/newspapers/1330/"
@@ -3069,6 +3222,8 @@ graph LR
         <tr
           class="paper-row"
           data-lineage="lineage"
+          data-digitised="false"
+          data-online="false"
         >
           <td>
             <a href="/newspapers/1331/"
@@ -3109,6 +3264,8 @@ graph LR
         <tr
           class="paper-row"
           data-lineage="standalone"
+          data-digitised="false"
+          data-online="false"
         >
           <td>
             <a href="/newspapers/1332/"
@@ -3149,6 +3306,8 @@ graph LR
         <tr
           class="paper-row"
           data-lineage="standalone"
+          data-digitised="false"
+          data-online="false"
         >
           <td>
             <a href="/newspapers/1334/"
@@ -3189,6 +3348,8 @@ graph LR
         <tr
           class="paper-row"
           data-lineage="standalone"
+          data-digitised="false"
+          data-online="false"
         >
           <td>
             <a href="/newspapers/1333/"
@@ -3229,6 +3390,8 @@ graph LR
         <tr
           class="paper-row"
           data-lineage="standalone"
+          data-digitised="false"
+          data-online="false"
         >
           <td>
             <a href="/newspapers/1335/"
@@ -3269,6 +3432,8 @@ graph LR
         <tr
           class="paper-row"
           data-lineage="standalone"
+          data-digitised="false"
+          data-online="false"
         >
           <td>
             <a href="/newspapers/1338/"
@@ -3309,6 +3474,8 @@ graph LR
         <tr
           class="paper-row"
           data-lineage="standalone"
+          data-digitised="false"
+          data-online="false"
         >
           <td>
             <a href="/newspapers/1336/"
@@ -3349,6 +3516,8 @@ graph LR
         <tr
           class="paper-row"
           data-lineage="standalone"
+          data-digitised="false"
+          data-online="false"
         >
           <td>
             <a href="/newspapers/1337/"
@@ -3389,6 +3558,8 @@ graph LR
         <tr
           class="paper-row"
           data-lineage="standalone"
+          data-digitised="false"
+          data-online="false"
         >
           <td>
             <a href="/newspapers/1339/"
@@ -3429,6 +3600,8 @@ graph LR
         <tr
           class="paper-row"
           data-lineage="standalone"
+          data-digitised="false"
+          data-online="false"
         >
           <td>
             <a href="/newspapers/1340/"
@@ -3469,6 +3642,8 @@ graph LR
         <tr
           class="paper-row"
           data-lineage="lineage"
+          data-digitised="false"
+          data-online="false"
         >
           <td>
             <a href="/newspapers/1341/"
@@ -3509,6 +3684,8 @@ graph LR
         <tr
           class="paper-row"
           data-lineage="standalone"
+          data-digitised="false"
+          data-online="false"
         >
           <td>
             <a href="/newspapers/1342/"
@@ -3549,6 +3726,8 @@ graph LR
         <tr
           class="paper-row"
           data-lineage="lineage"
+          data-digitised="true"
+          data-online="false"
         >
           <td>
             <a href="/newspapers/1343/"
@@ -3595,6 +3774,8 @@ graph LR
         <tr
           class="paper-row"
           data-lineage="standalone"
+          data-digitised="false"
+          data-online="false"
         >
           <td>
             <a href="/newspapers/1344/"
@@ -3635,6 +3816,8 @@ graph LR
         <tr
           class="paper-row"
           data-lineage="lineage"
+          data-digitised="false"
+          data-online="false"
         >
           <td>
             <a href="/newspapers/1345/"
@@ -3675,6 +3858,8 @@ graph LR
         <tr
           class="paper-row"
           data-lineage="lineage"
+          data-digitised="false"
+          data-online="false"
         >
           <td>
             <a href="/newspapers/1346/"
@@ -3715,6 +3900,8 @@ graph LR
         <tr
           class="paper-row"
           data-lineage="standalone"
+          data-digitised="false"
+          data-online="false"
         >
           <td>
             <a href="/newspapers/1347/"
@@ -3755,6 +3942,8 @@ graph LR
         <tr
           class="paper-row"
           data-lineage="standalone"
+          data-digitised="false"
+          data-online="false"
         >
           <td>
             <a href="/newspapers/1348/"
@@ -3795,6 +3984,8 @@ graph LR
         <tr
           class="paper-row"
           data-lineage="standalone"
+          data-digitised="false"
+          data-online="false"
         >
           <td>
             <a href="/newspapers/1349/"
@@ -3835,6 +4026,8 @@ graph LR
         <tr
           class="paper-row"
           data-lineage="standalone"
+          data-digitised="false"
+          data-online="false"
         >
           <td>
             <a href="/newspapers/1351/"
@@ -3875,6 +4068,8 @@ graph LR
         <tr
           class="paper-row"
           data-lineage="standalone"
+          data-digitised="false"
+          data-online="false"
         >
           <td>
             <a href="/newspapers/1350/"
@@ -3915,6 +4110,8 @@ graph LR
         <tr
           class="paper-row"
           data-lineage="standalone"
+          data-digitised="false"
+          data-online="false"
         >
           <td>
             <a href="/newspapers/1352/"
@@ -3955,6 +4152,8 @@ graph LR
         <tr
           class="paper-row"
           data-lineage="lineage"
+          data-digitised="false"
+          data-online="false"
         >
           <td>
             <a href="/newspapers/1353/"
@@ -3995,6 +4194,8 @@ graph LR
         <tr
           class="paper-row"
           data-lineage="lineage"
+          data-digitised="false"
+          data-online="false"
         >
           <td>
             <a href="/newspapers/1354/"
@@ -4035,6 +4236,8 @@ graph LR
         <tr
           class="paper-row"
           data-lineage="standalone"
+          data-digitised="false"
+          data-online="false"
         >
           <td>
             <a href="/newspapers/1355/"
@@ -4075,6 +4278,8 @@ graph LR
         <tr
           class="paper-row"
           data-lineage="standalone"
+          data-digitised="false"
+          data-online="false"
         >
           <td>
             <a href="/newspapers/1356/"
@@ -4115,6 +4320,8 @@ graph LR
         <tr
           class="paper-row"
           data-lineage="standalone"
+          data-digitised="false"
+          data-online="false"
         >
           <td>
             <a href="/newspapers/1357/"
@@ -4155,6 +4362,8 @@ graph LR
         <tr
           class="paper-row"
           data-lineage="standalone"
+          data-digitised="false"
+          data-online="false"
         >
           <td>
             <a href="/newspapers/1361/"
@@ -4195,6 +4404,8 @@ graph LR
         <tr
           class="paper-row"
           data-lineage="standalone"
+          data-digitised="false"
+          data-online="false"
         >
           <td>
             <a href="/newspapers/1358/"
@@ -4235,6 +4446,8 @@ graph LR
         <tr
           class="paper-row"
           data-lineage="standalone"
+          data-digitised="false"
+          data-online="false"
         >
           <td>
             <a href="/newspapers/1359/"
@@ -4275,6 +4488,8 @@ graph LR
         <tr
           class="paper-row"
           data-lineage="standalone"
+          data-digitised="false"
+          data-online="false"
         >
           <td>
             <a href="/newspapers/1360/"
@@ -4315,6 +4530,8 @@ graph LR
         <tr
           class="paper-row"
           data-lineage="standalone"
+          data-digitised="false"
+          data-online="false"
         >
           <td>
             <a href="/newspapers/1362/"
@@ -4355,6 +4572,8 @@ graph LR
         <tr
           class="paper-row"
           data-lineage="standalone"
+          data-digitised="false"
+          data-online="false"
         >
           <td>
             <a href="/newspapers/1363/"
@@ -4395,6 +4614,8 @@ graph LR
         <tr
           class="paper-row"
           data-lineage="standalone"
+          data-digitised="false"
+          data-online="false"
         >
           <td>
             <a href="/newspapers/1364/"
@@ -4435,6 +4656,8 @@ graph LR
         <tr
           class="paper-row"
           data-lineage="standalone"
+          data-digitised="false"
+          data-online="false"
         >
           <td>
             <a href="/newspapers/1366/"
@@ -4475,6 +4698,8 @@ graph LR
         <tr
           class="paper-row"
           data-lineage="standalone"
+          data-digitised="false"
+          data-online="false"
         >
           <td>
             <a href="/newspapers/1365/"
@@ -4515,6 +4740,8 @@ graph LR
         <tr
           class="paper-row"
           data-lineage="standalone"
+          data-digitised="false"
+          data-online="false"
         >
           <td>
             <a href="/newspapers/1368/"
@@ -4555,6 +4782,8 @@ graph LR
         <tr
           class="paper-row"
           data-lineage="standalone"
+          data-digitised="false"
+          data-online="false"
         >
           <td>
             <a href="/newspapers/1369/"
@@ -4595,6 +4824,8 @@ graph LR
         <tr
           class="paper-row"
           data-lineage="standalone"
+          data-digitised="false"
+          data-online="false"
         >
           <td>
             <a href="/newspapers/1367/"
@@ -4635,6 +4866,8 @@ graph LR
         <tr
           class="paper-row"
           data-lineage="standalone"
+          data-digitised="false"
+          data-online="false"
         >
           <td>
             <a href="/newspapers/1370/"
@@ -4675,6 +4908,8 @@ graph LR
         <tr
           class="paper-row"
           data-lineage="standalone"
+          data-digitised="false"
+          data-online="false"
         >
           <td>
             <a href="/newspapers/1371/"
@@ -4715,6 +4950,8 @@ graph LR
         <tr
           class="paper-row"
           data-lineage="standalone"
+          data-digitised="false"
+          data-online="false"
         >
           <td>
             <a href="/newspapers/1372/"
@@ -4755,6 +4992,8 @@ graph LR
         <tr
           class="paper-row"
           data-lineage="standalone"
+          data-digitised="false"
+          data-online="false"
         >
           <td>
             <a href="/newspapers/1373/"
@@ -4795,6 +5034,8 @@ graph LR
         <tr
           class="paper-row"
           data-lineage="standalone"
+          data-digitised="false"
+          data-online="false"
         >
           <td>
             <a href="/newspapers/1374/"
@@ -4835,6 +5076,8 @@ graph LR
         <tr
           class="paper-row"
           data-lineage="standalone"
+          data-digitised="false"
+          data-online="false"
         >
           <td>
             <a href="/newspapers/1375/"
@@ -4875,6 +5118,8 @@ graph LR
         <tr
           class="paper-row"
           data-lineage="standalone"
+          data-digitised="false"
+          data-online="false"
         >
           <td>
             <a href="/newspapers/1376/"
@@ -4915,6 +5160,8 @@ graph LR
         <tr
           class="paper-row"
           data-lineage="standalone"
+          data-digitised="false"
+          data-online="false"
         >
           <td>
             <a href="/newspapers/1377/"
@@ -4955,6 +5202,8 @@ graph LR
         <tr
           class="paper-row"
           data-lineage="standalone"
+          data-digitised="false"
+          data-online="false"
         >
           <td>
             <a href="/newspapers/1378/"
@@ -4995,6 +5244,8 @@ graph LR
         <tr
           class="paper-row"
           data-lineage="standalone"
+          data-digitised="false"
+          data-online="false"
         >
           <td>
             <a href="/newspapers/1380/"
@@ -5035,6 +5286,8 @@ graph LR
         <tr
           class="paper-row"
           data-lineage="standalone"
+          data-digitised="false"
+          data-online="false"
         >
           <td>
             <a href="/newspapers/1379/"
@@ -5075,6 +5328,8 @@ graph LR
         <tr
           class="paper-row"
           data-lineage="standalone"
+          data-digitised="false"
+          data-online="false"
         >
           <td>
             <a href="/newspapers/1381/"
@@ -5115,6 +5370,8 @@ graph LR
         <tr
           class="paper-row"
           data-lineage="standalone"
+          data-digitised="false"
+          data-online="false"
         >
           <td>
             <a href="/newspapers/1382/"
@@ -5155,6 +5412,8 @@ graph LR
         <tr
           class="paper-row"
           data-lineage="lineage"
+          data-digitised="false"
+          data-online="false"
         >
           <td>
             <a href="/newspapers/1384/"
@@ -5195,6 +5454,8 @@ graph LR
         <tr
           class="paper-row"
           data-lineage="standalone"
+          data-digitised="false"
+          data-online="false"
         >
           <td>
             <a href="/newspapers/1383/"
@@ -5235,6 +5496,8 @@ graph LR
         <tr
           class="paper-row"
           data-lineage="standalone"
+          data-digitised="false"
+          data-online="false"
         >
           <td>
             <a href="/newspapers/1385/"
@@ -5275,6 +5538,8 @@ graph LR
         <tr
           class="paper-row"
           data-lineage="standalone"
+          data-digitised="false"
+          data-online="false"
         >
           <td>
             <a href="/newspapers/1387/"
@@ -5315,6 +5580,8 @@ graph LR
         <tr
           class="paper-row"
           data-lineage="standalone"
+          data-digitised="false"
+          data-online="false"
         >
           <td>
             <a href="/newspapers/1386/"
@@ -5355,6 +5622,8 @@ graph LR
         <tr
           class="paper-row"
           data-lineage="standalone"
+          data-digitised="false"
+          data-online="false"
         >
           <td>
             <a href="/newspapers/1388/"
@@ -5395,6 +5664,8 @@ graph LR
         <tr
           class="paper-row"
           data-lineage="standalone"
+          data-digitised="false"
+          data-online="false"
         >
           <td>
             <a href="/newspapers/1389/"
@@ -5435,6 +5706,8 @@ graph LR
         <tr
           class="paper-row"
           data-lineage="standalone"
+          data-digitised="false"
+          data-online="true"
         >
           <td>
             <a href="/newspapers/1390/"
@@ -5481,6 +5754,8 @@ graph LR
         <tr
           class="paper-row"
           data-lineage="standalone"
+          data-digitised="false"
+          data-online="true"
         >
           <td>
             <a href="/newspapers/1393/"
@@ -5527,6 +5802,8 @@ graph LR
         <tr
           class="paper-row"
           data-lineage="standalone"
+          data-digitised="false"
+          data-online="false"
         >
           <td>
             <a href="/newspapers/1391/"
@@ -5567,6 +5844,8 @@ graph LR
         <tr
           class="paper-row"
           data-lineage="standalone"
+          data-digitised="false"
+          data-online="false"
         >
           <td>
             <a href="/newspapers/1392/"
@@ -5607,6 +5886,8 @@ graph LR
         <tr
           class="paper-row"
           data-lineage="standalone"
+          data-digitised="false"
+          data-online="false"
         >
           <td>
             <a href="/newspapers/1394/"
@@ -5647,6 +5928,8 @@ graph LR
         <tr
           class="paper-row"
           data-lineage="standalone"
+          data-digitised="false"
+          data-online="false"
         >
           <td>
             <a href="/newspapers/1395/"
@@ -5687,6 +5970,8 @@ graph LR
         <tr
           class="paper-row"
           data-lineage="standalone"
+          data-digitised="false"
+          data-online="false"
         >
           <td>
             <a href="/newspapers/1396/"
@@ -5727,6 +6012,8 @@ graph LR
         <tr
           class="paper-row"
           data-lineage="standalone"
+          data-digitised="false"
+          data-online="false"
         >
           <td>
             <a href="/newspapers/1397/"
@@ -5767,6 +6054,8 @@ graph LR
         <tr
           class="paper-row"
           data-lineage="standalone"
+          data-digitised="false"
+          data-online="true"
         >
           <td>
             <a href="/newspapers/1398/"
@@ -5813,6 +6102,8 @@ graph LR
         <tr
           class="paper-row"
           data-lineage="standalone"
+          data-digitised="false"
+          data-online="false"
         >
           <td>
             <a href="/newspapers/1399/"
@@ -5853,6 +6144,8 @@ graph LR
         <tr
           class="paper-row"
           data-lineage="standalone"
+          data-digitised="false"
+          data-online="false"
         >
           <td>
             <a href="/newspapers/1400/"
@@ -5893,6 +6186,8 @@ graph LR
         <tr
           class="paper-row"
           data-lineage="standalone"
+          data-digitised="false"
+          data-online="false"
         >
           <td>
             <a href="/newspapers/1403/"
@@ -5933,6 +6228,8 @@ graph LR
         <tr
           class="paper-row"
           data-lineage="standalone"
+          data-digitised="false"
+          data-online="false"
         >
           <td>
             <a href="/newspapers/1402/"
@@ -5973,6 +6270,8 @@ graph LR
         <tr
           class="paper-row"
           data-lineage="standalone"
+          data-digitised="false"
+          data-online="false"
         >
           <td>
             <a href="/newspapers/1401/"
@@ -6013,6 +6312,8 @@ graph LR
         <tr
           class="paper-row"
           data-lineage="standalone"
+          data-digitised="false"
+          data-online="false"
         >
           <td>
             <a href="/newspapers/1404/"
@@ -6053,6 +6354,8 @@ graph LR
         <tr
           class="paper-row"
           data-lineage="standalone"
+          data-digitised="false"
+          data-online="false"
         >
           <td>
             <a href="/newspapers/1405/"
@@ -6093,6 +6396,8 @@ graph LR
         <tr
           class="paper-row"
           data-lineage="lineage"
+          data-digitised="false"
+          data-online="false"
         >
           <td>
             <a href="/newspapers/1408/"
@@ -6133,6 +6438,8 @@ graph LR
         <tr
           class="paper-row"
           data-lineage="standalone"
+          data-digitised="false"
+          data-online="false"
         >
           <td>
             <a href="/newspapers/1406/"
@@ -6173,6 +6480,8 @@ graph LR
         <tr
           class="paper-row"
           data-lineage="lineage"
+          data-digitised="false"
+          data-online="false"
         >
           <td>
             <a href="/newspapers/1407/"
@@ -6213,6 +6522,8 @@ graph LR
         <tr
           class="paper-row"
           data-lineage="standalone"
+          data-digitised="false"
+          data-online="false"
         >
           <td>
             <a href="/newspapers/1409/"
@@ -6253,6 +6564,8 @@ graph LR
         <tr
           class="paper-row"
           data-lineage="standalone"
+          data-digitised="false"
+          data-online="false"
         >
           <td>
             <a href="/newspapers/1410/"
@@ -6293,6 +6606,8 @@ graph LR
         <tr
           class="paper-row"
           data-lineage="lineage"
+          data-digitised="false"
+          data-online="false"
         >
           <td>
             <a href="/newspapers/1411/"
@@ -6333,6 +6648,8 @@ graph LR
         <tr
           class="paper-row"
           data-lineage="standalone"
+          data-digitised="false"
+          data-online="false"
         >
           <td>
             <a href="/newspapers/1412/"
@@ -6373,6 +6690,8 @@ graph LR
         <tr
           class="paper-row"
           data-lineage="standalone"
+          data-digitised="false"
+          data-online="false"
         >
           <td>
             <a href="/newspapers/1413/"
@@ -6413,6 +6732,8 @@ graph LR
         <tr
           class="paper-row"
           data-lineage="lineage"
+          data-digitised="false"
+          data-online="false"
         >
           <td>
             <a href="/newspapers/1414/"
@@ -6453,6 +6774,8 @@ graph LR
         <tr
           class="paper-row"
           data-lineage="standalone"
+          data-digitised="false"
+          data-online="false"
         >
           <td>
             <a href="/newspapers/1415/"
@@ -6493,6 +6816,8 @@ graph LR
         <tr
           class="paper-row"
           data-lineage="standalone"
+          data-digitised="false"
+          data-online="false"
         >
           <td>
             <a href="/newspapers/1416/"
@@ -6533,6 +6858,8 @@ graph LR
         <tr
           class="paper-row"
           data-lineage="lineage"
+          data-digitised="false"
+          data-online="false"
         >
           <td>
             <a href="/newspapers/1419/"
@@ -6573,6 +6900,8 @@ graph LR
         <tr
           class="paper-row"
           data-lineage="standalone"
+          data-digitised="false"
+          data-online="false"
         >
           <td>
             <a href="/newspapers/1418/"
@@ -6613,6 +6942,8 @@ graph LR
         <tr
           class="paper-row"
           data-lineage="lineage"
+          data-digitised="false"
+          data-online="false"
         >
           <td>
             <a href="/newspapers/1417/"
@@ -6653,6 +6984,8 @@ graph LR
         <tr
           class="paper-row"
           data-lineage="lineage"
+          data-digitised="false"
+          data-online="false"
         >
           <td>
             <a href="/newspapers/1420/"
@@ -6693,6 +7026,8 @@ graph LR
         <tr
           class="paper-row"
           data-lineage="standalone"
+          data-digitised="false"
+          data-online="false"
         >
           <td>
             <a href="/newspapers/1422/"
@@ -6733,6 +7068,8 @@ graph LR
         <tr
           class="paper-row"
           data-lineage="lineage"
+          data-digitised="false"
+          data-online="false"
         >
           <td>
             <a href="/newspapers/1421/"
@@ -6773,6 +7110,8 @@ graph LR
         <tr
           class="paper-row"
           data-lineage="standalone"
+          data-digitised="false"
+          data-online="false"
         >
           <td>
             <a href="/newspapers/1423/"
@@ -6813,6 +7152,8 @@ graph LR
         <tr
           class="paper-row"
           data-lineage="lineage"
+          data-digitised="false"
+          data-online="true"
         >
           <td>
             <a href="/newspapers/1424/"
@@ -6859,6 +7200,8 @@ graph LR
         <tr
           class="paper-row"
           data-lineage="standalone"
+          data-digitised="false"
+          data-online="false"
         >
           <td>
             <a href="/newspapers/1427/"
@@ -6899,6 +7242,8 @@ graph LR
         <tr
           class="paper-row"
           data-lineage="standalone"
+          data-digitised="false"
+          data-online="false"
         >
           <td>
             <a href="/newspapers/1425/"
@@ -6939,6 +7284,8 @@ graph LR
         <tr
           class="paper-row"
           data-lineage="lineage"
+          data-digitised="false"
+          data-online="false"
         >
           <td>
             <a href="/newspapers/1428/"
@@ -6979,6 +7326,8 @@ graph LR
         <tr
           class="paper-row"
           data-lineage="standalone"
+          data-digitised="false"
+          data-online="false"
         >
           <td>
             <a href="/newspapers/1426/"
@@ -7019,6 +7368,8 @@ graph LR
         <tr
           class="paper-row"
           data-lineage="standalone"
+          data-digitised="false"
+          data-online="false"
         >
           <td>
             <a href="/newspapers/1431/"
@@ -7059,6 +7410,8 @@ graph LR
         <tr
           class="paper-row"
           data-lineage="lineage"
+          data-digitised="false"
+          data-online="false"
         >
           <td>
             <a href="/newspapers/1430/"
@@ -7099,6 +7452,8 @@ graph LR
         <tr
           class="paper-row"
           data-lineage="standalone"
+          data-digitised="false"
+          data-online="false"
         >
           <td>
             <a href="/newspapers/1429/"
@@ -7139,6 +7494,8 @@ graph LR
         <tr
           class="paper-row"
           data-lineage="lineage"
+          data-digitised="false"
+          data-online="false"
         >
           <td>
             <a href="/newspapers/1432/"
@@ -7179,6 +7536,8 @@ graph LR
         <tr
           class="paper-row"
           data-lineage="lineage"
+          data-digitised="false"
+          data-online="false"
         >
           <td>
             <a href="/newspapers/1433/"
@@ -7219,6 +7578,8 @@ graph LR
         <tr
           class="paper-row"
           data-lineage="lineage"
+          data-digitised="false"
+          data-online="false"
         >
           <td>
             <a href="/newspapers/1435/"
@@ -7259,6 +7620,8 @@ graph LR
         <tr
           class="paper-row"
           data-lineage="lineage"
+          data-digitised="false"
+          data-online="false"
         >
           <td>
             <a href="/newspapers/1434/"
@@ -7299,6 +7662,8 @@ graph LR
         <tr
           class="paper-row"
           data-lineage="lineage"
+          data-digitised="false"
+          data-online="false"
         >
           <td>
             <a href="/newspapers/1436/"
@@ -7339,6 +7704,8 @@ graph LR
         <tr
           class="paper-row"
           data-lineage="standalone"
+          data-digitised="false"
+          data-online="false"
         >
           <td>
             <a href="/newspapers/1438/"
@@ -7379,6 +7746,8 @@ graph LR
         <tr
           class="paper-row"
           data-lineage="standalone"
+          data-digitised="false"
+          data-online="false"
         >
           <td>
             <a href="/newspapers/1437/"
@@ -7419,6 +7788,8 @@ graph LR
         <tr
           class="paper-row"
           data-lineage="standalone"
+          data-digitised="false"
+          data-online="false"
         >
           <td>
             <a href="/newspapers/1442/"
@@ -7459,6 +7830,8 @@ graph LR
         <tr
           class="paper-row"
           data-lineage="standalone"
+          data-digitised="false"
+          data-online="false"
         >
           <td>
             <a href="/newspapers/1440/"
@@ -7499,6 +7872,8 @@ graph LR
         <tr
           class="paper-row"
           data-lineage="standalone"
+          data-digitised="false"
+          data-online="false"
         >
           <td>
             <a href="/newspapers/1441/"
@@ -7539,6 +7914,8 @@ graph LR
         <tr
           class="paper-row"
           data-lineage="standalone"
+          data-digitised="false"
+          data-online="false"
         >
           <td>
             <a href="/newspapers/1439/"
@@ -7579,6 +7956,8 @@ graph LR
         <tr
           class="paper-row"
           data-lineage="standalone"
+          data-digitised="false"
+          data-online="false"
         >
           <td>
             <a href="/newspapers/3113/"
@@ -7619,6 +7998,8 @@ graph LR
         <tr
           class="paper-row"
           data-lineage="standalone"
+          data-digitised="false"
+          data-online="false"
         >
           <td>
             <a href="/newspapers/3107/"
@@ -7659,6 +8040,8 @@ graph LR
         <tr
           class="paper-row"
           data-lineage="lineage"
+          data-digitised="false"
+          data-online="false"
         >
           <td>
             <a href="/newspapers/3103/"
@@ -7699,6 +8082,8 @@ graph LR
         <tr
           class="paper-row"
           data-lineage="lineage"
+          data-digitised="false"
+          data-online="false"
         >
           <td>
             <a href="/newspapers/3102/"
@@ -7739,6 +8124,8 @@ graph LR
         <tr
           class="paper-row"
           data-lineage="standalone"
+          data-digitised="false"
+          data-online="false"
         >
           <td>
             <a href="/newspapers/3111/"
@@ -7779,6 +8166,8 @@ graph LR
         <tr
           class="paper-row"
           data-lineage="standalone"
+          data-digitised="false"
+          data-online="false"
         >
           <td>
             <a href="/newspapers/3075/"
@@ -7819,6 +8208,8 @@ graph LR
         <tr
           class="paper-row"
           data-lineage="standalone"
+          data-digitised="false"
+          data-online="false"
         >
           <td>
             <a href="/newspapers/3100/"
@@ -7859,6 +8250,8 @@ graph LR
         <tr
           class="paper-row"
           data-lineage="standalone"
+          data-digitised="false"
+          data-online="false"
         >
           <td>
             <a href="/newspapers/3082/"
@@ -7899,6 +8292,8 @@ graph LR
         <tr
           class="paper-row"
           data-lineage="standalone"
+          data-digitised="false"
+          data-online="false"
         >
           <td>
             <a href="/newspapers/3106/"
@@ -7939,6 +8334,8 @@ graph LR
         <tr
           class="paper-row"
           data-lineage="lineage"
+          data-digitised="false"
+          data-online="false"
         >
           <td>
             <a href="/newspapers/3099/"
@@ -7979,6 +8376,8 @@ graph LR
         <tr
           class="paper-row"
           data-lineage="standalone"
+          data-digitised="false"
+          data-online="false"
         >
           <td>
             <a href="/newspapers/3110/"
@@ -8019,6 +8418,8 @@ graph LR
         <tr
           class="paper-row"
           data-lineage="standalone"
+          data-digitised="false"
+          data-online="false"
         >
           <td>
             <a href="/newspapers/3081/"
@@ -8059,6 +8460,8 @@ graph LR
         <tr
           class="paper-row"
           data-lineage="standalone"
+          data-digitised="false"
+          data-online="false"
         >
           <td>
             <a href="/newspapers/3108/"
@@ -8099,6 +8502,8 @@ graph LR
         <tr
           class="paper-row"
           data-lineage="standalone"
+          data-digitised="false"
+          data-online="false"
         >
           <td>
             <a href="/newspapers/3109/"
@@ -8139,6 +8544,8 @@ graph LR
         <tr
           class="paper-row"
           data-lineage="standalone"
+          data-digitised="false"
+          data-online="false"
         >
           <td>
             <a href="/newspapers/3112/"
@@ -8179,6 +8586,8 @@ graph LR
         <tr
           class="paper-row"
           data-lineage="standalone"
+          data-digitised="false"
+          data-online="false"
         >
           <td>
             <a href="/newspapers/3146/"
@@ -8219,6 +8628,8 @@ graph LR
         <tr
           class="paper-row"
           data-lineage="standalone"
+          data-digitised="false"
+          data-online="false"
         >
           <td>
             <a href="/newspapers/3140/"
@@ -8259,6 +8670,8 @@ graph LR
         <tr
           class="paper-row"
           data-lineage="standalone"
+          data-digitised="false"
+          data-online="false"
         >
           <td>
             <a href="/newspapers/3101/"
@@ -8299,6 +8712,8 @@ graph LR
         <tr
           class="paper-row"
           data-lineage="standalone"
+          data-digitised="false"
+          data-online="false"
         >
           <td>
             <a href="/newspapers/3131/"
@@ -8339,6 +8754,8 @@ graph LR
         <tr
           class="paper-row"
           data-lineage="lineage"
+          data-digitised="false"
+          data-online="false"
         >
           <td>
             <a href="/newspapers/3050/"
@@ -8379,6 +8796,8 @@ graph LR
         <tr
           class="paper-row"
           data-lineage="standalone"
+          data-digitised="false"
+          data-online="false"
         >
           <td>
             <a href="/newspapers/3105/"
@@ -8419,6 +8838,8 @@ graph LR
         <tr
           class="paper-row"
           data-lineage="standalone"
+          data-digitised="false"
+          data-online="false"
         >
           <td>
             <a href="/newspapers/3094/"
@@ -8459,6 +8880,8 @@ graph LR
         <tr
           class="paper-row"
           data-lineage="standalone"
+          data-digitised="false"
+          data-online="true"
         >
           <td>
             <a href="/newspapers/1443/"
@@ -8505,6 +8928,8 @@ graph LR
         <tr
           class="paper-row"
           data-lineage="standalone"
+          data-digitised="false"
+          data-online="false"
         >
           <td>
             <a href="/newspapers/3055/"
@@ -8545,6 +8970,8 @@ graph LR
         <tr
           class="paper-row"
           data-lineage="standalone"
+          data-digitised="false"
+          data-online="false"
         >
           <td>
             <a href="/newspapers/1444/"
@@ -8585,6 +9012,8 @@ graph LR
         <tr
           class="paper-row"
           data-lineage="lineage"
+          data-digitised="false"
+          data-online="false"
         >
           <td>
             <a href="/newspapers/1446/"
@@ -8625,6 +9054,8 @@ graph LR
         <tr
           class="paper-row"
           data-lineage="lineage"
+          data-digitised="false"
+          data-online="false"
         >
           <td>
             <a href="/newspapers/1445/"
@@ -8665,6 +9096,8 @@ graph LR
         <tr
           class="paper-row"
           data-lineage="lineage"
+          data-digitised="false"
+          data-online="false"
         >
           <td>
             <a href="/newspapers/1448/"
@@ -8705,6 +9138,8 @@ graph LR
         <tr
           class="paper-row"
           data-lineage="lineage"
+          data-digitised="false"
+          data-online="false"
         >
           <td>
             <a href="/newspapers/1447/"
@@ -8745,6 +9180,8 @@ graph LR
         <tr
           class="paper-row"
           data-lineage="lineage"
+          data-digitised="false"
+          data-online="true"
         >
           <td>
             <a href="/newspapers/1449/"
@@ -8791,6 +9228,8 @@ graph LR
         <tr
           class="paper-row"
           data-lineage="standalone"
+          data-digitised="false"
+          data-online="false"
         >
           <td>
             <a href="/newspapers/1452/"
@@ -8831,6 +9270,8 @@ graph LR
         <tr
           class="paper-row"
           data-lineage="standalone"
+          data-digitised="false"
+          data-online="false"
         >
           <td>
             <a href="/newspapers/1450/"
@@ -8871,6 +9312,8 @@ graph LR
         <tr
           class="paper-row"
           data-lineage="standalone"
+          data-digitised="false"
+          data-online="true"
         >
           <td>
             <a href="/newspapers/1453/"
@@ -8917,6 +9360,8 @@ graph LR
         <tr
           class="paper-row"
           data-lineage="lineage"
+          data-digitised="false"
+          data-online="false"
         >
           <td>
             <a href="/newspapers/1451/"
@@ -8957,6 +9402,8 @@ graph LR
         <tr
           class="paper-row"
           data-lineage="lineage"
+          data-digitised="false"
+          data-online="false"
         >
           <td>
             <a href="/newspapers/1455/"
@@ -8997,6 +9444,8 @@ graph LR
         <tr
           class="paper-row"
           data-lineage="standalone"
+          data-digitised="false"
+          data-online="false"
         >
           <td>
             <a href="/newspapers/1454/"
@@ -9037,6 +9486,8 @@ graph LR
         <tr
           class="paper-row"
           data-lineage="lineage"
+          data-digitised="false"
+          data-online="true"
         >
           <td>
             <a href="/newspapers/1456/"
@@ -9083,6 +9534,8 @@ graph LR
         <tr
           class="paper-row"
           data-lineage="standalone"
+          data-digitised="false"
+          data-online="false"
         >
           <td>
             <a href="/newspapers/1457/"
@@ -9123,6 +9576,8 @@ graph LR
         <tr
           class="paper-row"
           data-lineage="standalone"
+          data-digitised="false"
+          data-online="true"
         >
           <td>
             <a href="/newspapers/1458/"
@@ -9169,6 +9624,8 @@ graph LR
         <tr
           class="paper-row"
           data-lineage="lineage"
+          data-digitised="false"
+          data-online="false"
         >
           <td>
             <a href="/newspapers/1459/"
@@ -9209,6 +9666,8 @@ graph LR
         <tr
           class="paper-row"
           data-lineage="lineage"
+          data-digitised="false"
+          data-online="false"
         >
           <td>
             <a href="/newspapers/1462/"
@@ -9249,6 +9708,8 @@ graph LR
         <tr
           class="paper-row"
           data-lineage="standalone"
+          data-digitised="false"
+          data-online="false"
         >
           <td>
             <a href="/newspapers/1460/"
@@ -9289,6 +9750,8 @@ graph LR
         <tr
           class="paper-row"
           data-lineage="standalone"
+          data-digitised="false"
+          data-online="false"
         >
           <td>
             <a href="/newspapers/1461/"
@@ -9329,6 +9792,8 @@ graph LR
         <tr
           class="paper-row"
           data-lineage="standalone"
+          data-digitised="false"
+          data-online="false"
         >
           <td>
             <a href="/newspapers/1465/"
@@ -9369,6 +9834,8 @@ graph LR
         <tr
           class="paper-row"
           data-lineage="standalone"
+          data-digitised="false"
+          data-online="false"
         >
           <td>
             <a href="/newspapers/1464/"
@@ -9409,6 +9876,8 @@ graph LR
         <tr
           class="paper-row"
           data-lineage="standalone"
+          data-digitised="false"
+          data-online="false"
         >
           <td>
             <a href="/newspapers/1466/"
@@ -9449,6 +9918,8 @@ graph LR
         <tr
           class="paper-row"
           data-lineage="standalone"
+          data-digitised="false"
+          data-online="false"
         >
           <td>
             <a href="/newspapers/1468/"
@@ -9489,6 +9960,8 @@ graph LR
         <tr
           class="paper-row"
           data-lineage="standalone"
+          data-digitised="false"
+          data-online="false"
         >
           <td>
             <a href="/newspapers/1463/"
@@ -9529,6 +10002,8 @@ graph LR
         <tr
           class="paper-row"
           data-lineage="lineage"
+          data-digitised="false"
+          data-online="false"
         >
           <td>
             <a href="/newspapers/1467/"
@@ -9569,6 +10044,8 @@ graph LR
         <tr
           class="paper-row"
           data-lineage="standalone"
+          data-digitised="false"
+          data-online="false"
         >
           <td>
             <a href="/newspapers/1469/"
@@ -9609,6 +10086,8 @@ graph LR
         <tr
           class="paper-row"
           data-lineage="standalone"
+          data-digitised="false"
+          data-online="false"
         >
           <td>
             <a href="/newspapers/3057/"
@@ -9651,37 +10130,59 @@ graph LR
 
 <script>
   document.addEventListener("DOMContentLoaded", function () {
-    const filterBtns = document.querySelectorAll(
-      ".table-filter-bar .filter-btn"
+    const lineageBtns = document.querySelectorAll("[data-lineage-filter]");
+    const digitisedBtn = document.querySelector(
+      '[data-access-filter="digitised"]'
     );
+    const onlineBtn = document.querySelector('[data-access-filter="online"]');
     const rows = document.querySelectorAll("#place-papers-table .paper-row");
 
-    filterBtns.forEach((btn) => {
+    let activeLineageFilter = "all";
+    let requireDigitised = false;
+    let requireOnline = false;
+
+    function applyFilters() {
+      rows.forEach((row) => {
+        const matchLineage =
+          activeLineageFilter === "all" ||
+          row.getAttribute("data-lineage") === activeLineageFilter;
+        const matchDigitised =
+          !requireDigitised || row.getAttribute("data-digitised") === "true";
+        const matchOnline =
+          !requireOnline || row.getAttribute("data-online") === "true";
+
+        if (matchLineage && matchDigitised && matchOnline) {
+          row.classList.remove("hidden-row");
+        } else {
+          row.classList.add("hidden-row");
+        }
+      });
+    }
+
+    lineageBtns.forEach((btn) => {
       btn.addEventListener("click", function () {
-        filterBtns.forEach((b) => b.classList.remove("active"));
+        lineageBtns.forEach((b) => b.classList.remove("active"));
         this.classList.add("active");
-
-        const filter = this.getAttribute("data-filter");
-
-        rows.forEach((row) => {
-          if (filter === "all") {
-            row.classList.remove("hidden-row");
-          } else if (filter === "lineage") {
-            if (row.getAttribute("data-lineage") === "lineage") {
-              row.classList.remove("hidden-row");
-            } else {
-              row.classList.add("hidden-row");
-            }
-          } else if (filter === "standalone") {
-            if (row.getAttribute("data-lineage") === "standalone") {
-              row.classList.remove("hidden-row");
-            } else {
-              row.classList.add("hidden-row");
-            }
-          }
-        });
+        activeLineageFilter = this.getAttribute("data-lineage-filter");
+        applyFilters();
       });
     });
+
+    if (digitisedBtn) {
+      digitisedBtn.addEventListener("click", function () {
+        requireDigitised = !requireDigitised;
+        this.classList.toggle("active", requireDigitised);
+        applyFilters();
+      });
+    }
+
+    if (onlineBtn) {
+      onlineBtn.addEventListener("click", function () {
+        requireOnline = !requireOnline;
+        this.classList.toggle("active", requireOnline);
+        applyFilters();
+      });
+    }
   });
 </script>
 </main>

@@ -68,23 +68,52 @@ eleventyComputed:
   {% endif %}
 
   <section class="all-papers-section">
-    <h3>All Newspapers in {{ place.name }}</h3>
+    <h3>Newspaper List</h3>
 
     {% set lineageSet = place.lineagePaperIds or [] %} {% set inLineageCount =
     lineageSet.length %} {% set standaloneCount = place.papers.length -
-    inLineageCount %} {% if inLineageCount > 0 %}
+    inLineageCount %}
+
     <div class="table-filter-bar">
-      <button type="button" class="filter-btn active" data-filter="all">
-        All Newspapers ({{ place.papers.length }})
-      </button>
-      <button type="button" class="filter-btn" data-filter="lineage">
-        🌳 In Lineage Charts ({{ inLineageCount }})
-      </button>
-      <button type="button" class="filter-btn" data-filter="standalone">
-        📄 Standalone ({{ standaloneCount }})
-      </button>
+      <div class="filter-group">
+        <button
+          type="button"
+          class="filter-btn active"
+          data-lineage-filter="all"
+        >
+          All ({{ place.papers.length }})
+        </button>
+        {% if inLineageCount > 0 %}
+        <button type="button" class="filter-btn" data-lineage-filter="lineage">
+          🌳 In Lineage Charts ({{ inLineageCount }})
+        </button>
+        <button
+          type="button"
+          class="filter-btn"
+          data-lineage-filter="standalone"
+        >
+          📄 Standalone ({{ standaloneCount }})
+        </button>
+        {% endif %}
+      </div>
+
+      <div class="filter-group access-filters">
+        <button
+          type="button"
+          class="filter-btn filter-toggle"
+          data-access-filter="digitised"
+        >
+          📜 Digitised
+        </button>
+        <button
+          type="button"
+          class="filter-btn filter-toggle"
+          data-access-filter="online"
+        >
+          🌐 Online
+        </button>
+      </div>
     </div>
-    {% endif %}
 
     <table class="papers-data-table" id="place-papers-table">
       <thead>
@@ -106,6 +135,8 @@ eleventyComputed:
         <tr
           class="paper-row"
           data-lineage="{% if isInLineage %}lineage{% else %}standalone{% endif %}"
+          data-digitised="{% if paper.urlDigitized %}true{% else %}false{% endif %}"
+          data-online="{% if paper.urlCurrent %}true{% else %}false{% endif %}"
         >
           <td>
             <a href="/newspapers/{{ paper.id }}/"
@@ -174,36 +205,58 @@ eleventyComputed:
 
 <script>
   document.addEventListener("DOMContentLoaded", function () {
-    const filterBtns = document.querySelectorAll(
-      ".table-filter-bar .filter-btn"
+    const lineageBtns = document.querySelectorAll("[data-lineage-filter]");
+    const digitisedBtn = document.querySelector(
+      '[data-access-filter="digitised"]'
     );
+    const onlineBtn = document.querySelector('[data-access-filter="online"]');
     const rows = document.querySelectorAll("#place-papers-table .paper-row");
 
-    filterBtns.forEach((btn) => {
+    let activeLineageFilter = "all";
+    let requireDigitised = false;
+    let requireOnline = false;
+
+    function applyFilters() {
+      rows.forEach((row) => {
+        const matchLineage =
+          activeLineageFilter === "all" ||
+          row.getAttribute("data-lineage") === activeLineageFilter;
+        const matchDigitised =
+          !requireDigitised || row.getAttribute("data-digitised") === "true";
+        const matchOnline =
+          !requireOnline || row.getAttribute("data-online") === "true";
+
+        if (matchLineage && matchDigitised && matchOnline) {
+          row.classList.remove("hidden-row");
+        } else {
+          row.classList.add("hidden-row");
+        }
+      });
+    }
+
+    lineageBtns.forEach((btn) => {
       btn.addEventListener("click", function () {
-        filterBtns.forEach((b) => b.classList.remove("active"));
+        lineageBtns.forEach((b) => b.classList.remove("active"));
         this.classList.add("active");
-
-        const filter = this.getAttribute("data-filter");
-
-        rows.forEach((row) => {
-          if (filter === "all") {
-            row.classList.remove("hidden-row");
-          } else if (filter === "lineage") {
-            if (row.getAttribute("data-lineage") === "lineage") {
-              row.classList.remove("hidden-row");
-            } else {
-              row.classList.add("hidden-row");
-            }
-          } else if (filter === "standalone") {
-            if (row.getAttribute("data-lineage") === "standalone") {
-              row.classList.remove("hidden-row");
-            } else {
-              row.classList.add("hidden-row");
-            }
-          }
-        });
+        activeLineageFilter = this.getAttribute("data-lineage-filter");
+        applyFilters();
       });
     });
+
+    if (digitisedBtn) {
+      digitisedBtn.addEventListener("click", function () {
+        requireDigitised = !requireDigitised;
+        this.classList.toggle("active", requireDigitised);
+        applyFilters();
+      });
+    }
+
+    if (onlineBtn) {
+      onlineBtn.addEventListener("click", function () {
+        requireOnline = !requireOnline;
+        this.classList.toggle("active", requireOnline);
+        applyFilters();
+      });
+    }
   });
 </script>
