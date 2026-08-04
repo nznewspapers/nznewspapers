@@ -29,7 +29,16 @@ eleventyComputed:
   }
 </script>
 
-<div class="multicolumnbox">
+<div style="text-align: center; margin-bottom: 20px">
+  <input
+    type="text"
+    id="placeSearch"
+    placeholder="Search places..."
+    style="padding: 8px; width: 80%; max-width: 400px; font-size: 16px"
+  />
+</div>
+
+<div class="multicolumnbox" id="placesList">
   {% for regionObj in places.all %}
   <div class="columnheading">{{ regionObj.name }}</div>
 
@@ -38,3 +47,67 @@ eleventyComputed:
   {% for paper in districtObj.papers %} {{ newspaperLine(paper) }} {% endfor %}
   {% endfor %} {% endfor %}
 </div>
+
+<script>
+  document.getElementById("placeSearch").addEventListener("keyup", function () {
+    var filter = this.value.toLowerCase().trim();
+    var container = document.getElementById("placesList");
+    var items = container.getElementsByClassName("columnitem");
+    var subheadings = container.getElementsByClassName("columnsubheading");
+    var headings = container.getElementsByClassName("columnheading");
+
+    if (!filter) {
+      for (var i = 0; i < items.length; i++) items[i].style.display = "";
+      for (var s = 0; s < subheadings.length; s++)
+        subheadings[s].style.display = "";
+      for (var h = 0; h < headings.length; h++) headings[h].style.display = "";
+      return;
+    }
+
+    // Filter items by matching item text or parent district/region headings
+    for (var i = 0; i < items.length; i++) {
+      var text = items[i].textContent || items[i].innerText;
+      var searchStr = text;
+      var sibling = items[i].previousElementSibling;
+      while (sibling) {
+        if (sibling.classList.contains("columnsubheading")) {
+          searchStr += " " + (sibling.textContent || sibling.innerText);
+        }
+        if (sibling.classList.contains("columnheading")) {
+          searchStr += " " + (sibling.textContent || sibling.innerText);
+          break;
+        }
+        sibling = sibling.previousElementSibling;
+      }
+
+      if (searchStr.toLowerCase().indexOf(filter) > -1) {
+        items[i].style.display = "";
+      } else {
+        items[i].style.display = "none";
+      }
+    }
+
+    // Hide empty subheadings & headings initially
+    for (var s = 0; s < subheadings.length; s++)
+      subheadings[s].style.display = "none";
+    for (var h = 0; h < headings.length; h++)
+      headings[h].style.display = "none";
+
+    // Show parent district subheadings and region headings for visible items
+    for (var i = 0; i < items.length; i++) {
+      if (items[i].style.display !== "none") {
+        var sib = items[i].previousElementSibling;
+        while (sib) {
+          if (sib.classList.contains("columnsubheading")) {
+            sib.style.display = "";
+          }
+          if (sib.classList.contains("columnheading")) {
+            sib.style.display = "";
+            break;
+          }
+          sib = sib.previousElementSibling;
+        }
+      }
+    }
+  });
+</script>
