@@ -3,10 +3,10 @@
   <head>
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title>Newspapers published in Lyell</title>
+    <title>Lyell</title>
     <meta
       name="description"
-      content="Newspapers published in Lyell"
+      content="Lyell"
     />
     <link rel="canonical" href="https://www.nznewspapers.org/place/lyell/" />
 
@@ -18,11 +18,11 @@
     />
     <meta
       property="og:title"
-      content="Newspapers published in Lyell"
+      content="Lyell"
     />
     <meta
       property="og:description"
-      content="Newspapers published in Lyell"
+      content="Lyell"
     />
     <meta
       property="og:image"
@@ -37,11 +37,11 @@
     />
     <meta
       property="twitter:title"
-      content="Newspapers published in Lyell"
+      content="Lyell"
     />
     <meta
       property="twitter:description"
-      content="Newspapers published in Lyell"
+      content="Lyell"
     />
     <meta
       property="twitter:image"
@@ -96,52 +96,168 @@
       </nav>
 
       <div class="bannerbox">
-        <h2 id="pagetitle">Newspapers published in Lyell</h2>
+        <h2 id="pagetitle">Lyell</h2>
       </div>
 
       <main class="contentbox">
-<div class="bannerbox">
-  <div class="links">
-    <a href="/places/">All Places</a>
-  </div>
-</div>
-
 <div class="contentbox">
-  <h3>Lyell</h3>
-  <p>
-    Lyell is in the Buller District district, West Coast
-    region.
-  </p>
-
-  <p>
-    There are 2 newspapers published in Lyell.
-  </p>
+  <div class="place-meta-bar">
+    <span class="meta-item">Buller District District</span>
+    <span class="meta-sep">&mdash;</span>
+    <span class="meta-item">West Coast Region</span>
+    <span class="meta-sep">&mdash;</span>
+    <span class="meta-item meta-count"
+      >2 Newspapers</span
+    >
+  </div>
 
   
 
   <section class="all-papers-section">
-    <h4>All Newspapers in Lyell</h4>
-    <div class="multicolumnbox">
-      
-      <div class="columnitem">
-        <a href="/newspapers/2293/">Lyell Argus</a>
-        <br />
-        <span class="paper-meta">
-           1873 - 1898 
-        </span>
-      </div>
-      
-      <div class="columnitem">
-        <a href="/newspapers/2300/">Lyell Times and Central Buller Gazette</a>
-        <br />
-        <span class="paper-meta">
-           1881 - 1898 
-        </span>
-      </div>
-      
-    </div>
+    <h3>All Newspapers in Lyell</h3>
+
+       
+
+    <table class="papers-data-table" id="place-papers-table">
+      <thead>
+        <tr>
+          <th>Title</th>
+          <th>Years</th>
+          <th>Frequency</th>
+          <th>Status</th>
+          <th>Digitised</th>
+          <th>Online Site</th>
+          <th>Lineage</th>
+        </tr>
+      </thead>
+      <tbody>
+         
+         
+
+        <tr
+          class="paper-row"
+          data-lineage="standalone"
+        >
+          <td>
+            <a href="/newspapers/2293/"
+              ><strong>Lyell Argus</strong></a
+            >
+            
+          </td>
+          <td>
+             1873 – 1898 
+          </td>
+          <td>—</td>
+          <td>
+            
+            <span class="badge-status ceased">Ceased</span>
+            
+          </td>
+          <td>
+            
+            <span style="color: #aaa">—</span>
+            
+          </td>
+          <td>
+            
+            <span style="color: #aaa">—</span>
+            
+          </td>
+          <td>
+            
+            <span style="color: #757575" title="Standalone publication"
+              >📄 Single</span
+            >
+            
+          </td>
+        </tr>
+         
+         
+
+        <tr
+          class="paper-row"
+          data-lineage="standalone"
+        >
+          <td>
+            <a href="/newspapers/2300/"
+              ><strong>Lyell Times and Central Buller Gazette</strong></a
+            >
+            
+          </td>
+          <td>
+             1881 – 1898 
+          </td>
+          <td>Weekly</td>
+          <td>
+            
+            <span class="badge-status ceased">Ceased</span>
+            
+          </td>
+          <td>
+            
+            <a
+              href="https://paperspast.natlib.govt.nz/newspapers/lyell-times-and-central-buller-gazette"
+              class="badge-link"
+              target="_blank"
+              rel="noopener"
+              >📜 Papers Past</a
+            >
+            
+          </td>
+          <td>
+            
+            <span style="color: #aaa">—</span>
+            
+          </td>
+          <td>
+            
+            <span style="color: #757575" title="Standalone publication"
+              >📄 Single</span
+            >
+            
+          </td>
+        </tr>
+        
+      </tbody>
+    </table>
   </section>
 </div>
+
+<script>
+  document.addEventListener("DOMContentLoaded", function () {
+    const filterBtns = document.querySelectorAll(
+      ".table-filter-bar .filter-btn"
+    );
+    const rows = document.querySelectorAll("#place-papers-table .paper-row");
+
+    filterBtns.forEach((btn) => {
+      btn.addEventListener("click", function () {
+        filterBtns.forEach((b) => b.classList.remove("active"));
+        this.classList.add("active");
+
+        const filter = this.getAttribute("data-filter");
+
+        rows.forEach((row) => {
+          if (filter === "all") {
+            row.classList.remove("hidden-row");
+          } else if (filter === "lineage") {
+            if (row.getAttribute("data-lineage") === "lineage") {
+              row.classList.remove("hidden-row");
+            } else {
+              row.classList.add("hidden-row");
+            }
+          } else if (filter === "standalone") {
+            if (row.getAttribute("data-lineage") === "standalone") {
+              row.classList.remove("hidden-row");
+            } else {
+              row.classList.add("hidden-row");
+            }
+          }
+        });
+      });
+    });
+  });
+</script>
 </main>
 
       <footer class="footerbox">

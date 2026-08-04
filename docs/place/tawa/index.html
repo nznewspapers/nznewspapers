@@ -3,10 +3,10 @@
   <head>
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title>Newspapers published in Tawa</title>
+    <title>Tawa</title>
     <meta
       name="description"
-      content="Newspapers published in Tawa"
+      content="Tawa"
     />
     <link rel="canonical" href="https://www.nznewspapers.org/place/tawa/" />
 
@@ -18,11 +18,11 @@
     />
     <meta
       property="og:title"
-      content="Newspapers published in Tawa"
+      content="Tawa"
     />
     <meta
       property="og:description"
-      content="Newspapers published in Tawa"
+      content="Tawa"
     />
     <meta
       property="og:image"
@@ -37,11 +37,11 @@
     />
     <meta
       property="twitter:title"
-      content="Newspapers published in Tawa"
+      content="Tawa"
     />
     <meta
       property="twitter:description"
-      content="Newspapers published in Tawa"
+      content="Tawa"
     />
     <meta
       property="twitter:image"
@@ -96,34 +96,28 @@
       </nav>
 
       <div class="bannerbox">
-        <h2 id="pagetitle">Newspapers published in Tawa</h2>
+        <h2 id="pagetitle">Tawa</h2>
       </div>
 
       <main class="contentbox">
-<div class="bannerbox">
-  <div class="links">
-    <a href="/places/">All Places</a>
-  </div>
-</div>
-
 <div class="contentbox">
-  <h3>Tawa</h3>
-  <p>
-    Tawa is in the Wellington City district, Wellington
-    region.
-  </p>
-
-  <p>
-    There are 2 newspapers published in Tawa.
-  </p>
+  <div class="place-meta-bar">
+    <span class="meta-item">Wellington City District</span>
+    <span class="meta-sep">&mdash;</span>
+    <span class="meta-item">Wellington Region</span>
+    <span class="meta-sep">&mdash;</span>
+    <span class="meta-item meta-count"
+      >2 Newspapers</span
+    >
+  </div>
 
   
   <section class="lineage-section">
-    <h4>Publication Lineages &amp; Family Trees</h4>
-    <p>
-      The following continuations and parallel editions occurred among
-      newspapers in Tawa:
-    </p>
+    <h3>Publication Lineages &amp; Family Trees</h3>
+    <div class="chart-legend">
+      <span>📜 Digitised on Papers Past</span>
+      <span>🌐 Publisher Website Available</span>
+    </div>
 
     <div class="mermaid-tree-list">
       
@@ -155,28 +149,156 @@ graph LR
   
 
   <section class="all-papers-section">
-    <h4>All Newspapers in Tawa</h4>
-    <div class="multicolumnbox">
-      
-      <div class="columnitem">
-        <a href="/newspapers/2077/">Tawa Tatler</a>
-        <br />
-        <span class="paper-meta">
-           1947 - 1949 
-        </span>
-      </div>
-      
-      <div class="columnitem">
-        <a href="/newspapers/2078/">Tatler</a>
-        <br />
-        <span class="paper-meta">
-           1949 - an unknown date 
-        </span>
-      </div>
-      
+    <h3>All Newspapers in Tawa</h3>
+
+       
+    <div class="table-filter-bar">
+      <button type="button" class="filter-btn active" data-filter="all">
+        All Newspapers (2)
+      </button>
+      <button type="button" class="filter-btn" data-filter="lineage">
+        🌳 In Lineage Charts (2)
+      </button>
+      <button type="button" class="filter-btn" data-filter="standalone">
+        📄 Standalone (0)
+      </button>
     </div>
+    
+
+    <table class="papers-data-table" id="place-papers-table">
+      <thead>
+        <tr>
+          <th>Title</th>
+          <th>Years</th>
+          <th>Frequency</th>
+          <th>Status</th>
+          <th>Digitised</th>
+          <th>Online Site</th>
+          <th>Lineage</th>
+        </tr>
+      </thead>
+      <tbody>
+         
+             
+
+        <tr
+          class="paper-row"
+          data-lineage="lineage"
+        >
+          <td>
+            <a href="/newspapers/2077/"
+              ><strong>Tawa Tatler</strong></a
+            >
+            
+          </td>
+          <td>
+             1947 – 1949 
+          </td>
+          <td>Monthly</td>
+          <td>
+            
+            <span class="badge-status ceased">Ceased</span>
+            
+          </td>
+          <td>
+            
+            <span style="color: #aaa">—</span>
+            
+          </td>
+          <td>
+            
+            <span style="color: #aaa">—</span>
+            
+          </td>
+          <td>
+            
+            <span style="color: #2e7d32" title="Appears in lineage diagram"
+              >🌳 Chart</span
+            >
+            
+          </td>
+        </tr>
+         
+             
+
+        <tr
+          class="paper-row"
+          data-lineage="lineage"
+        >
+          <td>
+            <a href="/newspapers/2078/"
+              ><strong>Tatler</strong></a
+            >
+            
+          </td>
+          <td>
+             1949 – an unknown date 
+          </td>
+          <td>Monthly</td>
+          <td>
+            
+            <span class="badge-status ceased">Ceased</span>
+            
+          </td>
+          <td>
+            
+            <span style="color: #aaa">—</span>
+            
+          </td>
+          <td>
+            
+            <span style="color: #aaa">—</span>
+            
+          </td>
+          <td>
+            
+            <span style="color: #2e7d32" title="Appears in lineage diagram"
+              >🌳 Chart</span
+            >
+            
+          </td>
+        </tr>
+        
+      </tbody>
+    </table>
   </section>
 </div>
+
+<script>
+  document.addEventListener("DOMContentLoaded", function () {
+    const filterBtns = document.querySelectorAll(
+      ".table-filter-bar .filter-btn"
+    );
+    const rows = document.querySelectorAll("#place-papers-table .paper-row");
+
+    filterBtns.forEach((btn) => {
+      btn.addEventListener("click", function () {
+        filterBtns.forEach((b) => b.classList.remove("active"));
+        this.classList.add("active");
+
+        const filter = this.getAttribute("data-filter");
+
+        rows.forEach((row) => {
+          if (filter === "all") {
+            row.classList.remove("hidden-row");
+          } else if (filter === "lineage") {
+            if (row.getAttribute("data-lineage") === "lineage") {
+              row.classList.remove("hidden-row");
+            } else {
+              row.classList.add("hidden-row");
+            }
+          } else if (filter === "standalone") {
+            if (row.getAttribute("data-lineage") === "standalone") {
+              row.classList.remove("hidden-row");
+            } else {
+              row.classList.add("hidden-row");
+            }
+          }
+        });
+      });
+    });
+  });
+</script>
 </main>
 
       <footer class="footerbox">

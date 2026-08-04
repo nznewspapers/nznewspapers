@@ -3,10 +3,10 @@
   <head>
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title>Newspapers published in Takapuna</title>
+    <title>Takapuna</title>
     <meta
       name="description"
-      content="Newspapers published in Takapuna"
+      content="Takapuna"
     />
     <link rel="canonical" href="https://www.nznewspapers.org/place/takapuna/" />
 
@@ -18,11 +18,11 @@
     />
     <meta
       property="og:title"
-      content="Newspapers published in Takapuna"
+      content="Takapuna"
     />
     <meta
       property="og:description"
-      content="Newspapers published in Takapuna"
+      content="Takapuna"
     />
     <meta
       property="og:image"
@@ -37,11 +37,11 @@
     />
     <meta
       property="twitter:title"
-      content="Newspapers published in Takapuna"
+      content="Takapuna"
     />
     <meta
       property="twitter:description"
-      content="Newspapers published in Takapuna"
+      content="Takapuna"
     />
     <meta
       property="twitter:image"
@@ -96,34 +96,28 @@
       </nav>
 
       <div class="bannerbox">
-        <h2 id="pagetitle">Newspapers published in Takapuna</h2>
+        <h2 id="pagetitle">Takapuna</h2>
       </div>
 
       <main class="contentbox">
-<div class="bannerbox">
-  <div class="links">
-    <a href="/places/">All Places</a>
-  </div>
-</div>
-
 <div class="contentbox">
-  <h3>Takapuna</h3>
-  <p>
-    Takapuna is in the Auckland district, Auckland
-    region.
-  </p>
-
-  <p>
-    There are 12 newspapers published in Takapuna.
-  </p>
+  <div class="place-meta-bar">
+    <span class="meta-item">Auckland District</span>
+    <span class="meta-sep">&mdash;</span>
+    <span class="meta-item">Auckland Region</span>
+    <span class="meta-sep">&mdash;</span>
+    <span class="meta-item meta-count"
+      >12 Newspapers</span
+    >
+  </div>
 
   
   <section class="lineage-section">
-    <h4>Publication Lineages &amp; Family Trees</h4>
-    <p>
-      The following continuations and parallel editions occurred among
-      newspapers in Takapuna:
-    </p>
+    <h3>Publication Lineages &amp; Family Trees</h3>
+    <div class="chart-legend">
+      <span>📜 Digitised on Papers Past</span>
+      <span>🌐 Publisher Website Available</span>
+    </div>
 
     <div class="mermaid-tree-list">
       
@@ -158,108 +152,556 @@ graph LR
   
 
   <section class="all-papers-section">
-    <h4>All Newspapers in Takapuna</h4>
-    <div class="multicolumnbox">
-      
-      <div class="columnitem">
-        <a href="/newspapers/1099/">North Shore News</a>
-        <br />
-        <span class="paper-meta">
-           1933 - 1939 
-        </span>
-      </div>
-      
-      <div class="columnitem">
-        <a href="/newspapers/1113/">North Shore Times</a>
-        <br />
-        <span class="paper-meta">
-           1949 - 1966 
-        </span>
-      </div>
-      
-      <div class="columnitem">
-        <a href="/newspapers/1114/">Shore</a>
-        <br />
-        <span class="paper-meta">
-           1949 - an unknown date 
-        </span>
-      </div>
-      
-      <div class="columnitem">
-        <a href="/newspapers/1117/">Takapuna and North Shore News</a>
-        <br />
-        <span class="paper-meta">
-           1952 - an unknown date 
-        </span>
-      </div>
-      
-      <div class="columnitem">
-        <a href="/newspapers/1119/">North Shore Advertiser</a>
-        <br />
-        <span class="paper-meta">
-           1954 - 1966 
-        </span>
-      </div>
-      
-      <div class="columnitem">
-        <a href="/newspapers/1136/">Eastern Suburbs Echo</a>
-        <br />
-        <span class="paper-meta">
-           1962 - sometime in the 1900&#39;s 
-        </span>
-      </div>
-      
-      <div class="columnitem">
-        <a href="/newspapers/1153/">North Shore Times Advertiser</a>
-        <br />
-        <span class="paper-meta">
-           1966 - 2004 
-        </span>
-      </div>
-      
-      <div class="columnitem">
-        <a href="/newspapers/1165/">North Shore Gazette (1971)</a>
-        <br />
-        <span class="paper-meta">
-           1971 - 1975 
-        </span>
-      </div>
-      
-      <div class="columnitem">
-        <a href="/newspapers/1194/">Bays&#39; News</a>
-        <br />
-        <span class="paper-meta">
-           1981 - 1983 
-        </span>
-      </div>
-      
-      <div class="columnitem">
-        <a href="/newspapers/1193/">Shore Sentinel</a>
-        <br />
-        <span class="paper-meta">
-           1981 - 1982 
-        </span>
-      </div>
-      
-      <div class="columnitem">
-        <a href="/newspapers/3053/">All Aboard</a>
-        <br />
-        <span class="paper-meta">
-           Published since 1997 
-        </span>
-      </div>
-      
-      <div class="columnitem">
-        <a href="/newspapers/1256/">North Shore Times</a>
-        <br />
-        <span class="paper-meta">
-           Published since 2004 
-        </span>
-      </div>
-      
+    <h3>All Newspapers in Takapuna</h3>
+
+       
+    <div class="table-filter-bar">
+      <button type="button" class="filter-btn active" data-filter="all">
+        All Newspapers (12)
+      </button>
+      <button type="button" class="filter-btn" data-filter="lineage">
+        🌳 In Lineage Charts (3)
+      </button>
+      <button type="button" class="filter-btn" data-filter="standalone">
+        📄 Standalone (9)
+      </button>
     </div>
+    
+
+    <table class="papers-data-table" id="place-papers-table">
+      <thead>
+        <tr>
+          <th>Title</th>
+          <th>Years</th>
+          <th>Frequency</th>
+          <th>Status</th>
+          <th>Digitised</th>
+          <th>Online Site</th>
+          <th>Lineage</th>
+        </tr>
+      </thead>
+      <tbody>
+         
+               
+
+        <tr
+          class="paper-row"
+          data-lineage="standalone"
+        >
+          <td>
+            <a href="/newspapers/1099/"
+              ><strong>North Shore News</strong></a
+            >
+            
+          </td>
+          <td>
+             1933 – 1939 
+          </td>
+          <td>Weekly</td>
+          <td>
+            
+            <span class="badge-status ceased">Ceased</span>
+            
+          </td>
+          <td>
+            
+            <span style="color: #aaa">—</span>
+            
+          </td>
+          <td>
+            
+            <span style="color: #aaa">—</span>
+            
+          </td>
+          <td>
+            
+            <span style="color: #757575" title="Standalone publication"
+              >📄 Single</span
+            >
+            
+          </td>
+        </tr>
+         
+               
+
+        <tr
+          class="paper-row"
+          data-lineage="standalone"
+        >
+          <td>
+            <a href="/newspapers/1113/"
+              ><strong>North Shore Times</strong></a
+            >
+            
+          </td>
+          <td>
+             1949 – 1966 
+          </td>
+          <td>Weekly</td>
+          <td>
+            
+            <span class="badge-status ceased">Ceased</span>
+            
+          </td>
+          <td>
+            
+            <span style="color: #aaa">—</span>
+            
+          </td>
+          <td>
+            
+            <span style="color: #aaa">—</span>
+            
+          </td>
+          <td>
+            
+            <span style="color: #757575" title="Standalone publication"
+              >📄 Single</span
+            >
+            
+          </td>
+        </tr>
+         
+               
+
+        <tr
+          class="paper-row"
+          data-lineage="standalone"
+        >
+          <td>
+            <a href="/newspapers/1114/"
+              ><strong>Shore</strong></a
+            >
+            
+          </td>
+          <td>
+             1949 – an unknown date 
+          </td>
+          <td>Monthly</td>
+          <td>
+            
+            <span class="badge-status ceased">Ceased</span>
+            
+          </td>
+          <td>
+            
+            <span style="color: #aaa">—</span>
+            
+          </td>
+          <td>
+            
+            <span style="color: #aaa">—</span>
+            
+          </td>
+          <td>
+            
+            <span style="color: #757575" title="Standalone publication"
+              >📄 Single</span
+            >
+            
+          </td>
+        </tr>
+         
+               
+
+        <tr
+          class="paper-row"
+          data-lineage="standalone"
+        >
+          <td>
+            <a href="/newspapers/1117/"
+              ><strong>Takapuna and North Shore News</strong></a
+            >
+            
+          </td>
+          <td>
+             1952 – an unknown date 
+          </td>
+          <td>Monthly</td>
+          <td>
+            
+            <span class="badge-status ceased">Ceased</span>
+            
+          </td>
+          <td>
+            
+            <span style="color: #aaa">—</span>
+            
+          </td>
+          <td>
+            
+            <span style="color: #aaa">—</span>
+            
+          </td>
+          <td>
+            
+            <span style="color: #757575" title="Standalone publication"
+              >📄 Single</span
+            >
+            
+          </td>
+        </tr>
+         
+               
+
+        <tr
+          class="paper-row"
+          data-lineage="lineage"
+        >
+          <td>
+            <a href="/newspapers/1119/"
+              ><strong>North Shore Advertiser</strong></a
+            >
+            
+          </td>
+          <td>
+             1954 – 1966 
+          </td>
+          <td>Weekly</td>
+          <td>
+            
+            <span class="badge-status ceased">Ceased</span>
+            
+          </td>
+          <td>
+            
+            <span style="color: #aaa">—</span>
+            
+          </td>
+          <td>
+            
+            <span style="color: #aaa">—</span>
+            
+          </td>
+          <td>
+            
+            <span style="color: #2e7d32" title="Appears in lineage diagram"
+              >🌳 Chart</span
+            >
+            
+          </td>
+        </tr>
+         
+               
+
+        <tr
+          class="paper-row"
+          data-lineage="standalone"
+        >
+          <td>
+            <a href="/newspapers/1136/"
+              ><strong>Eastern Suburbs Echo</strong></a
+            >
+            
+          </td>
+          <td>
+             1962 – sometime in the 1900&#39;s 
+          </td>
+          <td>—</td>
+          <td>
+            
+            <span class="badge-status ceased">Ceased</span>
+            
+          </td>
+          <td>
+            
+            <span style="color: #aaa">—</span>
+            
+          </td>
+          <td>
+            
+            <span style="color: #aaa">—</span>
+            
+          </td>
+          <td>
+            
+            <span style="color: #757575" title="Standalone publication"
+              >📄 Single</span
+            >
+            
+          </td>
+        </tr>
+         
+               
+
+        <tr
+          class="paper-row"
+          data-lineage="lineage"
+        >
+          <td>
+            <a href="/newspapers/1153/"
+              ><strong>North Shore Times Advertiser</strong></a
+            >
+            
+          </td>
+          <td>
+             1966 – 2004 
+          </td>
+          <td>Two issues per week</td>
+          <td>
+            
+            <span class="badge-status ceased">Ceased</span>
+            
+          </td>
+          <td>
+            
+            <span style="color: #aaa">—</span>
+            
+          </td>
+          <td>
+            
+            <span style="color: #aaa">—</span>
+            
+          </td>
+          <td>
+            
+            <span style="color: #2e7d32" title="Appears in lineage diagram"
+              >🌳 Chart</span
+            >
+            
+          </td>
+        </tr>
+         
+               
+
+        <tr
+          class="paper-row"
+          data-lineage="standalone"
+        >
+          <td>
+            <a href="/newspapers/1165/"
+              ><strong>North Shore Gazette (1971)</strong></a
+            >
+            
+          </td>
+          <td>
+             1971 – 1975 
+          </td>
+          <td>Weekly</td>
+          <td>
+            
+            <span class="badge-status ceased">Ceased</span>
+            
+          </td>
+          <td>
+            
+            <span style="color: #aaa">—</span>
+            
+          </td>
+          <td>
+            
+            <span style="color: #aaa">—</span>
+            
+          </td>
+          <td>
+            
+            <span style="color: #757575" title="Standalone publication"
+              >📄 Single</span
+            >
+            
+          </td>
+        </tr>
+         
+               
+
+        <tr
+          class="paper-row"
+          data-lineage="standalone"
+        >
+          <td>
+            <a href="/newspapers/1194/"
+              ><strong>Bays&#39; News</strong></a
+            >
+            
+          </td>
+          <td>
+             1981 – 1983 
+          </td>
+          <td>Monthly</td>
+          <td>
+            
+            <span class="badge-status ceased">Ceased</span>
+            
+          </td>
+          <td>
+            
+            <span style="color: #aaa">—</span>
+            
+          </td>
+          <td>
+            
+            <span style="color: #aaa">—</span>
+            
+          </td>
+          <td>
+            
+            <span style="color: #757575" title="Standalone publication"
+              >📄 Single</span
+            >
+            
+          </td>
+        </tr>
+         
+               
+
+        <tr
+          class="paper-row"
+          data-lineage="standalone"
+        >
+          <td>
+            <a href="/newspapers/1193/"
+              ><strong>Shore Sentinel</strong></a
+            >
+            
+          </td>
+          <td>
+             1981 – 1982 
+          </td>
+          <td>Fortnightly</td>
+          <td>
+            
+            <span class="badge-status ceased">Ceased</span>
+            
+          </td>
+          <td>
+            
+            <span style="color: #aaa">—</span>
+            
+          </td>
+          <td>
+            
+            <span style="color: #aaa">—</span>
+            
+          </td>
+          <td>
+            
+            <span style="color: #757575" title="Standalone publication"
+              >📄 Single</span
+            >
+            
+          </td>
+        </tr>
+         
+               
+
+        <tr
+          class="paper-row"
+          data-lineage="standalone"
+        >
+          <td>
+            <a href="/newspapers/3053/"
+              ><strong>All Aboard</strong></a
+            >
+            
+          </td>
+          <td>
+             1997 – Present 
+          </td>
+          <td>Weekly</td>
+          <td>
+            
+            <span class="badge-status current">Current</span>
+            
+          </td>
+          <td>
+            
+            <span style="color: #aaa">—</span>
+            
+          </td>
+          <td>
+            
+            <span style="color: #aaa">—</span>
+            
+          </td>
+          <td>
+            
+            <span style="color: #757575" title="Standalone publication"
+              >📄 Single</span
+            >
+            
+          </td>
+        </tr>
+         
+               
+
+        <tr
+          class="paper-row"
+          data-lineage="lineage"
+        >
+          <td>
+            <a href="/newspapers/1256/"
+              ><strong>North Shore Times</strong></a
+            >
+            
+          </td>
+          <td>
+             2004 – Present 
+          </td>
+          <td>Three issues per week</td>
+          <td>
+            
+            <span class="badge-status current">Current</span>
+            
+          </td>
+          <td>
+            
+            <span style="color: #aaa">—</span>
+            
+          </td>
+          <td>
+            
+            <span style="color: #aaa">—</span>
+            
+          </td>
+          <td>
+            
+            <span style="color: #2e7d32" title="Appears in lineage diagram"
+              >🌳 Chart</span
+            >
+            
+          </td>
+        </tr>
+        
+      </tbody>
+    </table>
   </section>
 </div>
+
+<script>
+  document.addEventListener("DOMContentLoaded", function () {
+    const filterBtns = document.querySelectorAll(
+      ".table-filter-bar .filter-btn"
+    );
+    const rows = document.querySelectorAll("#place-papers-table .paper-row");
+
+    filterBtns.forEach((btn) => {
+      btn.addEventListener("click", function () {
+        filterBtns.forEach((b) => b.classList.remove("active"));
+        this.classList.add("active");
+
+        const filter = this.getAttribute("data-filter");
+
+        rows.forEach((row) => {
+          if (filter === "all") {
+            row.classList.remove("hidden-row");
+          } else if (filter === "lineage") {
+            if (row.getAttribute("data-lineage") === "lineage") {
+              row.classList.remove("hidden-row");
+            } else {
+              row.classList.add("hidden-row");
+            }
+          } else if (filter === "standalone") {
+            if (row.getAttribute("data-lineage") === "standalone") {
+              row.classList.remove("hidden-row");
+            } else {
+              row.classList.add("hidden-row");
+            }
+          }
+        });
+      });
+    });
+  });
+</script>
 </main>
 
       <footer class="footerbox">

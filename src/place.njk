@@ -7,34 +7,28 @@ permalink: "place/{{ place.name | slugify }}/"
 layout: layout.njk
 eleventyExcludeFromCollections: true
 eleventyComputed:
-  title: "Newspapers published in {{ place.name }}"
+  title: "{{ place.name }}"
 ---
 
-<div class="bannerbox">
-  <div class="links">
-    <a href="/places/">All Places</a>
-  </div>
-</div>
-
 <div class="contentbox">
-  <h3>{{ place.name }}</h3>
-  <p>
-    {{ place.name }} is in the {{ place.district }} district, {{ place.region }}
-    region.
-  </p>
-
-  <p>
-    There are {{ place.papers.length }} newspapers published in {{ place.name
-    }}.
-  </p>
+  <div class="place-meta-bar">
+    <span class="meta-item">{{ place.district }} District</span>
+    <span class="meta-sep">&mdash;</span>
+    <span class="meta-item">{{ place.region }} Region</span>
+    <span class="meta-sep">&mdash;</span>
+    <span class="meta-item meta-count"
+      >{{ place.papers.length }} Newspaper{% if place.papers.length != 1 %}s{%
+      endif %}</span
+    >
+  </div>
 
   {% if place.mermaidGraphs and place.mermaidGraphs.length > 0 %}
   <section class="lineage-section">
-    <h4>Publication Lineages &amp; Family Trees</h4>
-    <p>
-      The following continuations and parallel editions occurred among
-      newspapers in {{ place.name }}:
-    </p>
+    <h3>Publication Lineages &amp; Family Trees</h3>
+    <div class="chart-legend">
+      <span>📜 Digitised on Papers Past</span>
+      <span>🌐 Publisher Website Available</span>
+    </div>
 
     <div class="mermaid-tree-list">
       {% for mg in place.mermaidGraphs %}
@@ -61,19 +55,142 @@ eleventyComputed:
   {% endif %}
 
   <section class="all-papers-section">
-    <h4>All Newspapers in {{ place.name }}</h4>
-    <div class="multicolumnbox">
-      {% for paper in place.papers %}
-      <div class="columnitem">
-        <a href="{{ paper.url }}">{{ paper.title }}</a>
-        <br />
-        <span class="paper-meta">
-          {% if paper.finalYear == "9999" %} Published since {{ paper.firstYear
-          | prettyYear }} {% else %} {{ paper.firstYear | prettyYear }} - {{
-          paper.finalYear | prettyYear }} {% endif %}
-        </span>
-      </div>
-      {% endfor %}
+    <h3>All Newspapers in {{ place.name }}</h3>
+
+    {% set lineageSet = place.lineagePaperIds or [] %} {% set inLineageCount =
+    lineageSet.length %} {% set standaloneCount = place.papers.length -
+    inLineageCount %} {% if inLineageCount > 0 %}
+    <div class="table-filter-bar">
+      <button type="button" class="filter-btn active" data-filter="all">
+        All Newspapers ({{ place.papers.length }})
+      </button>
+      <button type="button" class="filter-btn" data-filter="lineage">
+        🌳 In Lineage Charts ({{ inLineageCount }})
+      </button>
+      <button type="button" class="filter-btn" data-filter="standalone">
+        📄 Standalone ({{ standaloneCount }})
+      </button>
     </div>
+    {% endif %}
+
+    <table class="papers-data-table" id="place-papers-table">
+      <thead>
+        <tr>
+          <th>Title</th>
+          <th>Years</th>
+          <th>Frequency</th>
+          <th>Status</th>
+          <th>Digitised</th>
+          <th>Online Site</th>
+          <th>Lineage</th>
+        </tr>
+      </thead>
+      <tbody>
+        {% for paper in place.papers %} {% set paperIdStr = paper.id | string %}
+        {% set isInLineage = false %} {% for lId in lineageSet %} {% if lId ==
+        paperIdStr %}{% set isInLineage = true %}{% endif %} {% endfor %}
+
+        <tr
+          class="paper-row"
+          data-lineage="{% if isInLineage %}lineage{% else %}standalone{% endif %}"
+        >
+          <td>
+            <a href="/newspapers/{{ paper.id }}/"
+              ><strong>{{ paper.title }}</strong></a
+            >
+            {% if paper.genre and paper.genre != "Newspaper" %}
+            <br /><small style="color: #666">({{ paper.genre }})</small>
+            {% endif %}
+          </td>
+          <td>
+            {% if paper.finalYear == "9999" %} {{ paper.firstYear | prettyYear
+            }} – Present {% else %} {{ paper.firstYear | prettyYear }} – {{
+            paper.finalYear | prettyYear }} {% endif %}
+          </td>
+          <td>{{ paper.frequency or "—" }}</td>
+          <td>
+            {% if paper.finalYear == "9999" or paper.isCurrent %}
+            <span class="badge-status current">Current</span>
+            {% else %}
+            <span class="badge-status ceased">Ceased</span>
+            {% endif %}
+          </td>
+          <td>
+            {% if paper.urlDigitized %}
+            <a
+              href="{{ paper.urlDigitized }}"
+              class="badge-link"
+              target="_blank"
+              rel="noopener"
+              >📜 Papers Past</a
+            >
+            {% else %}
+            <span style="color: #aaa">—</span>
+            {% endif %}
+          </td>
+          <td>
+            {% if paper.urlCurrent %}
+            <a
+              href="{{ paper.urlCurrent }}"
+              class="badge-link"
+              target="_blank"
+              rel="noopener"
+              >🌐 Website</a
+            >
+            {% else %}
+            <span style="color: #aaa">—</span>
+            {% endif %}
+          </td>
+          <td>
+            {% if isInLineage %}
+            <span style="color: #2e7d32" title="Appears in lineage diagram"
+              >🌳 Chart</span
+            >
+            {% else %}
+            <span style="color: #757575" title="Standalone publication"
+              >📄 Single</span
+            >
+            {% endif %}
+          </td>
+        </tr>
+        {% endfor %}
+      </tbody>
+    </table>
   </section>
 </div>
+
+<script>
+  document.addEventListener("DOMContentLoaded", function () {
+    const filterBtns = document.querySelectorAll(
+      ".table-filter-bar .filter-btn"
+    );
+    const rows = document.querySelectorAll("#place-papers-table .paper-row");
+
+    filterBtns.forEach((btn) => {
+      btn.addEventListener("click", function () {
+        filterBtns.forEach((b) => b.classList.remove("active"));
+        this.classList.add("active");
+
+        const filter = this.getAttribute("data-filter");
+
+        rows.forEach((row) => {
+          if (filter === "all") {
+            row.classList.remove("hidden-row");
+          } else if (filter === "lineage") {
+            if (row.getAttribute("data-lineage") === "lineage") {
+              row.classList.remove("hidden-row");
+            } else {
+              row.classList.add("hidden-row");
+            }
+          } else if (filter === "standalone") {
+            if (row.getAttribute("data-lineage") === "standalone") {
+              row.classList.remove("hidden-row");
+            } else {
+              row.classList.add("hidden-row");
+            }
+          }
+        });
+      });
+    });
+  });
+</script>

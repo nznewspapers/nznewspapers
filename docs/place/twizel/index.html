@@ -3,10 +3,10 @@
   <head>
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title>Newspapers published in Twizel</title>
+    <title>Twizel</title>
     <meta
       name="description"
-      content="Newspapers published in Twizel"
+      content="Twizel"
     />
     <link rel="canonical" href="https://www.nznewspapers.org/place/twizel/" />
 
@@ -18,11 +18,11 @@
     />
     <meta
       property="og:title"
-      content="Newspapers published in Twizel"
+      content="Twizel"
     />
     <meta
       property="og:description"
-      content="Newspapers published in Twizel"
+      content="Twizel"
     />
     <meta
       property="og:image"
@@ -37,11 +37,11 @@
     />
     <meta
       property="twitter:title"
-      content="Newspapers published in Twizel"
+      content="Twizel"
     />
     <meta
       property="twitter:description"
-      content="Newspapers published in Twizel"
+      content="Twizel"
     />
     <meta
       property="twitter:image"
@@ -96,34 +96,28 @@
       </nav>
 
       <div class="bannerbox">
-        <h2 id="pagetitle">Newspapers published in Twizel</h2>
+        <h2 id="pagetitle">Twizel</h2>
       </div>
 
       <main class="contentbox">
-<div class="bannerbox">
-  <div class="links">
-    <a href="/places/">All Places</a>
-  </div>
-</div>
-
 <div class="contentbox">
-  <h3>Twizel</h3>
-  <p>
-    Twizel is in the Mackenzie District district, Canterbury
-    region.
-  </p>
-
-  <p>
-    There are 2 newspapers published in Twizel.
-  </p>
+  <div class="place-meta-bar">
+    <span class="meta-item">Mackenzie District District</span>
+    <span class="meta-sep">&mdash;</span>
+    <span class="meta-item">Canterbury Region</span>
+    <span class="meta-sep">&mdash;</span>
+    <span class="meta-item meta-count"
+      >2 Newspapers</span
+    >
+  </div>
 
   
   <section class="lineage-section">
-    <h4>Publication Lineages &amp; Family Trees</h4>
-    <p>
-      The following continuations and parallel editions occurred among
-      newspapers in Twizel:
-    </p>
+    <h3>Publication Lineages &amp; Family Trees</h3>
+    <div class="chart-legend">
+      <span>📜 Digitised on Papers Past</span>
+      <span>🌐 Publisher Website Available</span>
+    </div>
 
     <div class="mermaid-tree-list">
       
@@ -155,28 +149,156 @@ graph LR
   
 
   <section class="all-papers-section">
-    <h4>All Newspapers in Twizel</h4>
-    <div class="multicolumnbox">
-      
-      <div class="columnitem">
-        <a href="/newspapers/2516/">Twizel Chronicle</a>
-        <br />
-        <span class="paper-meta">
-           1971 - 1984 
-        </span>
-      </div>
-      
-      <div class="columnitem">
-        <a href="/newspapers/2515/">Twizel Newsletter</a>
-        <br />
-        <span class="paper-meta">
-           1971 - 1971 
-        </span>
-      </div>
-      
+    <h3>All Newspapers in Twizel</h3>
+
+       
+    <div class="table-filter-bar">
+      <button type="button" class="filter-btn active" data-filter="all">
+        All Newspapers (2)
+      </button>
+      <button type="button" class="filter-btn" data-filter="lineage">
+        🌳 In Lineage Charts (2)
+      </button>
+      <button type="button" class="filter-btn" data-filter="standalone">
+        📄 Standalone (0)
+      </button>
     </div>
+    
+
+    <table class="papers-data-table" id="place-papers-table">
+      <thead>
+        <tr>
+          <th>Title</th>
+          <th>Years</th>
+          <th>Frequency</th>
+          <th>Status</th>
+          <th>Digitised</th>
+          <th>Online Site</th>
+          <th>Lineage</th>
+        </tr>
+      </thead>
+      <tbody>
+         
+             
+
+        <tr
+          class="paper-row"
+          data-lineage="lineage"
+        >
+          <td>
+            <a href="/newspapers/2516/"
+              ><strong>Twizel Chronicle</strong></a
+            >
+            
+          </td>
+          <td>
+             1971 – 1984 
+          </td>
+          <td>Fortnightly</td>
+          <td>
+            
+            <span class="badge-status ceased">Ceased</span>
+            
+          </td>
+          <td>
+            
+            <span style="color: #aaa">—</span>
+            
+          </td>
+          <td>
+            
+            <span style="color: #aaa">—</span>
+            
+          </td>
+          <td>
+            
+            <span style="color: #2e7d32" title="Appears in lineage diagram"
+              >🌳 Chart</span
+            >
+            
+          </td>
+        </tr>
+         
+             
+
+        <tr
+          class="paper-row"
+          data-lineage="lineage"
+        >
+          <td>
+            <a href="/newspapers/2515/"
+              ><strong>Twizel Newsletter</strong></a
+            >
+            
+          </td>
+          <td>
+             1971 – 1971 
+          </td>
+          <td>Weekly</td>
+          <td>
+            
+            <span class="badge-status ceased">Ceased</span>
+            
+          </td>
+          <td>
+            
+            <span style="color: #aaa">—</span>
+            
+          </td>
+          <td>
+            
+            <span style="color: #aaa">—</span>
+            
+          </td>
+          <td>
+            
+            <span style="color: #2e7d32" title="Appears in lineage diagram"
+              >🌳 Chart</span
+            >
+            
+          </td>
+        </tr>
+        
+      </tbody>
+    </table>
   </section>
 </div>
+
+<script>
+  document.addEventListener("DOMContentLoaded", function () {
+    const filterBtns = document.querySelectorAll(
+      ".table-filter-bar .filter-btn"
+    );
+    const rows = document.querySelectorAll("#place-papers-table .paper-row");
+
+    filterBtns.forEach((btn) => {
+      btn.addEventListener("click", function () {
+        filterBtns.forEach((b) => b.classList.remove("active"));
+        this.classList.add("active");
+
+        const filter = this.getAttribute("data-filter");
+
+        rows.forEach((row) => {
+          if (filter === "all") {
+            row.classList.remove("hidden-row");
+          } else if (filter === "lineage") {
+            if (row.getAttribute("data-lineage") === "lineage") {
+              row.classList.remove("hidden-row");
+            } else {
+              row.classList.add("hidden-row");
+            }
+          } else if (filter === "standalone") {
+            if (row.getAttribute("data-lineage") === "standalone") {
+              row.classList.remove("hidden-row");
+            } else {
+              row.classList.add("hidden-row");
+            }
+          }
+        });
+      });
+    });
+  });
+</script>
 </main>
 
       <footer class="footerbox">

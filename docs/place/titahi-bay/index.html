@@ -3,10 +3,10 @@
   <head>
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title>Newspapers published in Titahi Bay</title>
+    <title>Titahi Bay</title>
     <meta
       name="description"
-      content="Newspapers published in Titahi Bay"
+      content="Titahi Bay"
     />
     <link rel="canonical" href="https://www.nznewspapers.org/place/titahi-bay/" />
 
@@ -18,11 +18,11 @@
     />
     <meta
       property="og:title"
-      content="Newspapers published in Titahi Bay"
+      content="Titahi Bay"
     />
     <meta
       property="og:description"
-      content="Newspapers published in Titahi Bay"
+      content="Titahi Bay"
     />
     <meta
       property="og:image"
@@ -37,11 +37,11 @@
     />
     <meta
       property="twitter:title"
-      content="Newspapers published in Titahi Bay"
+      content="Titahi Bay"
     />
     <meta
       property="twitter:description"
-      content="Newspapers published in Titahi Bay"
+      content="Titahi Bay"
     />
     <meta
       property="twitter:image"
@@ -96,44 +96,122 @@
       </nav>
 
       <div class="bannerbox">
-        <h2 id="pagetitle">Newspapers published in Titahi Bay</h2>
+        <h2 id="pagetitle">Titahi Bay</h2>
       </div>
 
       <main class="contentbox">
-<div class="bannerbox">
-  <div class="links">
-    <a href="/places/">All Places</a>
-  </div>
-</div>
-
 <div class="contentbox">
-  <h3>Titahi Bay</h3>
-  <p>
-    Titahi Bay is in the Porirua City district, Wellington
-    region.
-  </p>
-
-  <p>
-    There are 1 newspapers published in Titahi Bay.
-  </p>
+  <div class="place-meta-bar">
+    <span class="meta-item">Porirua City District</span>
+    <span class="meta-sep">&mdash;</span>
+    <span class="meta-item">Wellington Region</span>
+    <span class="meta-sep">&mdash;</span>
+    <span class="meta-item meta-count"
+      >1 Newspaper</span
+    >
+  </div>
 
   
 
   <section class="all-papers-section">
-    <h4>All Newspapers in Titahi Bay</h4>
-    <div class="multicolumnbox">
-      
-      <div class="columnitem">
-        <a href="/newspapers/2036/">Spokesman</a>
-        <br />
-        <span class="paper-meta">
-           1950 - 1951 
-        </span>
-      </div>
-      
-    </div>
+    <h3>All Newspapers in Titahi Bay</h3>
+
+       
+
+    <table class="papers-data-table" id="place-papers-table">
+      <thead>
+        <tr>
+          <th>Title</th>
+          <th>Years</th>
+          <th>Frequency</th>
+          <th>Status</th>
+          <th>Digitised</th>
+          <th>Online Site</th>
+          <th>Lineage</th>
+        </tr>
+      </thead>
+      <tbody>
+         
+         
+
+        <tr
+          class="paper-row"
+          data-lineage="standalone"
+        >
+          <td>
+            <a href="/newspapers/2036/"
+              ><strong>Spokesman</strong></a
+            >
+            
+          </td>
+          <td>
+             1950 – 1951 
+          </td>
+          <td>Fortnightly</td>
+          <td>
+            
+            <span class="badge-status ceased">Ceased</span>
+            
+          </td>
+          <td>
+            
+            <span style="color: #aaa">—</span>
+            
+          </td>
+          <td>
+            
+            <span style="color: #aaa">—</span>
+            
+          </td>
+          <td>
+            
+            <span style="color: #757575" title="Standalone publication"
+              >📄 Single</span
+            >
+            
+          </td>
+        </tr>
+        
+      </tbody>
+    </table>
   </section>
 </div>
+
+<script>
+  document.addEventListener("DOMContentLoaded", function () {
+    const filterBtns = document.querySelectorAll(
+      ".table-filter-bar .filter-btn"
+    );
+    const rows = document.querySelectorAll("#place-papers-table .paper-row");
+
+    filterBtns.forEach((btn) => {
+      btn.addEventListener("click", function () {
+        filterBtns.forEach((b) => b.classList.remove("active"));
+        this.classList.add("active");
+
+        const filter = this.getAttribute("data-filter");
+
+        rows.forEach((row) => {
+          if (filter === "all") {
+            row.classList.remove("hidden-row");
+          } else if (filter === "lineage") {
+            if (row.getAttribute("data-lineage") === "lineage") {
+              row.classList.remove("hidden-row");
+            } else {
+              row.classList.add("hidden-row");
+            }
+          } else if (filter === "standalone") {
+            if (row.getAttribute("data-lineage") === "standalone") {
+              row.classList.remove("hidden-row");
+            } else {
+              row.classList.add("hidden-row");
+            }
+          }
+        });
+      });
+    });
+  });
+</script>
 </main>
 
       <footer class="footerbox">

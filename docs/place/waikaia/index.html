@@ -3,10 +3,10 @@
   <head>
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title>Newspapers published in Waikaia</title>
+    <title>Waikaia</title>
     <meta
       name="description"
-      content="Newspapers published in Waikaia"
+      content="Waikaia"
     />
     <link rel="canonical" href="https://www.nznewspapers.org/place/waikaia/" />
 
@@ -18,11 +18,11 @@
     />
     <meta
       property="og:title"
-      content="Newspapers published in Waikaia"
+      content="Waikaia"
     />
     <meta
       property="og:description"
-      content="Newspapers published in Waikaia"
+      content="Waikaia"
     />
     <meta
       property="og:image"
@@ -37,11 +37,11 @@
     />
     <meta
       property="twitter:title"
-      content="Newspapers published in Waikaia"
+      content="Waikaia"
     />
     <meta
       property="twitter:description"
-      content="Newspapers published in Waikaia"
+      content="Waikaia"
     />
     <meta
       property="twitter:image"
@@ -96,44 +96,122 @@
       </nav>
 
       <div class="bannerbox">
-        <h2 id="pagetitle">Newspapers published in Waikaia</h2>
+        <h2 id="pagetitle">Waikaia</h2>
       </div>
 
       <main class="contentbox">
-<div class="bannerbox">
-  <div class="links">
-    <a href="/places/">All Places</a>
-  </div>
-</div>
-
 <div class="contentbox">
-  <h3>Waikaia</h3>
-  <p>
-    Waikaia is in the Southland District district, Southland
-    region.
-  </p>
-
-  <p>
-    There are 1 newspapers published in Waikaia.
-  </p>
+  <div class="place-meta-bar">
+    <span class="meta-item">Southland District District</span>
+    <span class="meta-sep">&mdash;</span>
+    <span class="meta-item">Southland Region</span>
+    <span class="meta-sep">&mdash;</span>
+    <span class="meta-item meta-count"
+      >1 Newspaper</span
+    >
+  </div>
 
   
 
   <section class="all-papers-section">
-    <h4>All Newspapers in Waikaia</h4>
-    <div class="multicolumnbox">
-      
-      <div class="columnitem">
-        <a href="/newspapers/2670/">Waikaia Herald</a>
-        <br />
-        <span class="paper-meta">
-           1882 - 1883 
-        </span>
-      </div>
-      
-    </div>
+    <h3>All Newspapers in Waikaia</h3>
+
+       
+
+    <table class="papers-data-table" id="place-papers-table">
+      <thead>
+        <tr>
+          <th>Title</th>
+          <th>Years</th>
+          <th>Frequency</th>
+          <th>Status</th>
+          <th>Digitised</th>
+          <th>Online Site</th>
+          <th>Lineage</th>
+        </tr>
+      </thead>
+      <tbody>
+         
+         
+
+        <tr
+          class="paper-row"
+          data-lineage="standalone"
+        >
+          <td>
+            <a href="/newspapers/2670/"
+              ><strong>Waikaia Herald</strong></a
+            >
+            
+          </td>
+          <td>
+             1882 – 1883 
+          </td>
+          <td>Weekly</td>
+          <td>
+            
+            <span class="badge-status ceased">Ceased</span>
+            
+          </td>
+          <td>
+            
+            <span style="color: #aaa">—</span>
+            
+          </td>
+          <td>
+            
+            <span style="color: #aaa">—</span>
+            
+          </td>
+          <td>
+            
+            <span style="color: #757575" title="Standalone publication"
+              >📄 Single</span
+            >
+            
+          </td>
+        </tr>
+        
+      </tbody>
+    </table>
   </section>
 </div>
+
+<script>
+  document.addEventListener("DOMContentLoaded", function () {
+    const filterBtns = document.querySelectorAll(
+      ".table-filter-bar .filter-btn"
+    );
+    const rows = document.querySelectorAll("#place-papers-table .paper-row");
+
+    filterBtns.forEach((btn) => {
+      btn.addEventListener("click", function () {
+        filterBtns.forEach((b) => b.classList.remove("active"));
+        this.classList.add("active");
+
+        const filter = this.getAttribute("data-filter");
+
+        rows.forEach((row) => {
+          if (filter === "all") {
+            row.classList.remove("hidden-row");
+          } else if (filter === "lineage") {
+            if (row.getAttribute("data-lineage") === "lineage") {
+              row.classList.remove("hidden-row");
+            } else {
+              row.classList.add("hidden-row");
+            }
+          } else if (filter === "standalone") {
+            if (row.getAttribute("data-lineage") === "standalone") {
+              row.classList.remove("hidden-row");
+            } else {
+              row.classList.add("hidden-row");
+            }
+          }
+        });
+      });
+    });
+  });
+</script>
 </main>
 
       <footer class="footerbox">

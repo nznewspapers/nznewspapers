@@ -213,17 +213,145 @@ table.simpletable td {
   padding: 4px 6px;
 }
 
-/* Graph Tree Flowchart Styles */
+/* Graph Tree Flowchart & Place Page Styles (Archival Hot-Metal Grey Palette) */
+.place-meta-bar {
+  text-align: center;
+  font-family: "Playfair Display", Georgia, serif;
+  font-style: italic;
+  font-size: 0.95rem;
+  color: #444444;
+  margin: 0.5em 0 1.5em 0;
+  padding-bottom: 0.8em;
+  border-bottom: 1px solid #111111;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 10px;
+  flex-wrap: wrap;
+}
+
+.place-meta-bar .meta-sep {
+  color: #888888;
+  font-style: normal;
+}
+
+.place-meta-bar .meta-count {
+  font-weight: 600;
+  color: #111111;
+}
+
+.chart-legend {
+  display: flex;
+  gap: 16px;
+  font-size: 0.82rem;
+  color: #444444;
+  margin-top: 0.4em;
+  margin-bottom: 1em;
+  padding: 5px 10px;
+  background: #eae7df;
+  border: 1px solid #d5d2c8;
+  border-radius: 2px;
+}
+
+.table-filter-bar {
+  display: flex;
+  gap: 8px;
+  margin-bottom: 1em;
+  flex-wrap: wrap;
+}
+
+.filter-btn {
+  background: #edeae1;
+  border: 1px solid #b8b2a4;
+  color: #222222;
+  padding: 5px 12px;
+  font-family: "Source Serif 4", Georgia, serif;
+  font-size: 0.88rem;
+  border-radius: 2px;
+  cursor: pointer;
+  transition: all 0.15s ease-in-out;
+}
+
+.filter-btn:hover {
+  background: #dfdcd2;
+  border-color: #777777;
+}
+
+.filter-btn.active {
+  background: #111111;
+  color: #ffffff;
+  border-color: #111111;
+}
+
+table.papers-data-table {
+  width: 100%;
+  border-collapse: collapse;
+  margin-top: 0.5em;
+  font-size: 0.9rem;
+  border-top: 2px solid #111111;
+  border-bottom: 2px solid #111111;
+}
+
+table.papers-data-table th {
+  font-family: "Playfair Display", Georgia, serif;
+  text-align: left;
+  padding: 8px 10px;
+  background: #eae7df;
+  color: #111111;
+  border-bottom: 2px solid #111111;
+}
+
+table.papers-data-table td {
+  padding: 8px 10px;
+  border-bottom: 1px dotted #bbbbbb;
+  vertical-align: middle;
+}
+
+table.papers-data-table tr.hidden-row {
+  display: none;
+}
+
+.badge-status {
+  font-size: 0.78rem;
+  padding: 2px 6px;
+  border-radius: 2px;
+  font-weight: 500;
+}
+
+.badge-status.current {
+  background: #e2f0d9;
+  color: #276a13;
+  border: 1px solid #c2e0b1;
+}
+
+.badge-status.ceased {
+  background: #f5e2e0;
+  color: #a61c1c;
+  border: 1px solid #e6bcba;
+}
+
+.badge-link {
+  font-size: 0.8rem;
+  color: #004499;
+  text-decoration: none;
+}
+
+.badge-link:hover {
+  text-decoration: underline;
+}
+
 .lineage-section {
   margin: 1.5em 0;
   padding-bottom: 1em;
   border-bottom: 1px solid #dcdcdc;
 }
 
-.lineage-section h4 {
+.lineage-section h3,
+.all-papers-section h3 {
   font-family: "Playfair Display", Georgia, serif;
-  font-size: 1.2rem;
+  font-size: 1.3rem;
   margin-bottom: 0.5em;
+  margin-top: 0;
 }
 
 .mermaid-card {

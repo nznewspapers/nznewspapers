@@ -3,10 +3,10 @@
   <head>
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title>Newspapers published in Oamaru</title>
+    <title>Oamaru</title>
     <meta
       name="description"
-      content="Newspapers published in Oamaru"
+      content="Oamaru"
     />
     <link rel="canonical" href="https://www.nznewspapers.org/place/oamaru/" />
 
@@ -18,11 +18,11 @@
     />
     <meta
       property="og:title"
-      content="Newspapers published in Oamaru"
+      content="Oamaru"
     />
     <meta
       property="og:description"
-      content="Newspapers published in Oamaru"
+      content="Oamaru"
     />
     <meta
       property="og:image"
@@ -37,11 +37,11 @@
     />
     <meta
       property="twitter:title"
-      content="Newspapers published in Oamaru"
+      content="Oamaru"
     />
     <meta
       property="twitter:description"
-      content="Newspapers published in Oamaru"
+      content="Oamaru"
     />
     <meta
       property="twitter:image"
@@ -96,43 +96,37 @@
       </nav>
 
       <div class="bannerbox">
-        <h2 id="pagetitle">Newspapers published in Oamaru</h2>
+        <h2 id="pagetitle">Oamaru</h2>
       </div>
 
       <main class="contentbox">
-<div class="bannerbox">
-  <div class="links">
-    <a href="/places/">All Places</a>
-  </div>
-</div>
-
 <div class="contentbox">
-  <h3>Oamaru</h3>
-  <p>
-    Oamaru is in the Waitaki District district, Canterbury
-    region.
-  </p>
-
-  <p>
-    There are 5 newspapers published in Oamaru.
-  </p>
+  <div class="place-meta-bar">
+    <span class="meta-item">Waitaki District District</span>
+    <span class="meta-sep">&mdash;</span>
+    <span class="meta-item">Canterbury Region</span>
+    <span class="meta-sep">&mdash;</span>
+    <span class="meta-item meta-count"
+      >5 Newspapers</span
+    >
+  </div>
 
   
   <section class="lineage-section">
-    <h4>Publication Lineages &amp; Family Trees</h4>
-    <p>
-      The following continuations and parallel editions occurred among
-      newspapers in Oamaru:
-    </p>
+    <h3>Publication Lineages &amp; Family Trees</h3>
+    <div class="chart-legend">
+      <span>📜 Digitised on Papers Past</span>
+      <span>🌐 Publisher Website Available</span>
+    </div>
 
     <div class="mermaid-tree-list">
       
       <div class="mermaid-card">
         <pre class="mermaid">
 graph LR
-  node_2547[&quot;Oamaru Times and Waitaki Reporter&lt;br/&gt;(1864–1872)&quot;]
+  node_2547[&quot;Oamaru Times and Waitaki Reporter 📜&lt;br/&gt;(1864–1872)&quot;]
   click node_2547 &quot;/newspapers/2547/&quot; &quot;View Oamaru Times and Waitaki Reporter&quot;
-  node_2548[&quot;North Otago Times&lt;br/&gt;(1872–1932)&quot;]
+  node_2548[&quot;North Otago Times 📜&lt;br/&gt;(1872–1932)&quot;]
   click node_2548 &quot;/newspapers/2548/&quot; &quot;View North Otago Times&quot;
   node_2547 --&gt; node_2548
         </pre>
@@ -141,9 +135,9 @@ graph LR
       <div class="mermaid-card">
         <pre class="mermaid">
 graph LR
-  node_2549[&quot;Evening Mail&lt;br/&gt;(1876–1879)&quot;]
+  node_2549[&quot;Evening Mail 📜&lt;br/&gt;(1876–1879)&quot;]
   click node_2549 &quot;/newspapers/2549/&quot; &quot;View Evening Mail&quot;
-  node_2551[&quot;Oamaru Mail&lt;br/&gt;(Published since 1879)&quot;]
+  node_2551[&quot;Oamaru Mail 📜 🌐&lt;br/&gt;(Published since 1879)&quot;]
   click node_2551 &quot;/newspapers/2551/&quot; &quot;View Oamaru Mail&quot;
   node_2549 --&gt; node_2551
         </pre>
@@ -166,52 +160,306 @@ graph LR
   
 
   <section class="all-papers-section">
-    <h4>All Newspapers in Oamaru</h4>
-    <div class="multicolumnbox">
-      
-      <div class="columnitem">
-        <a href="/newspapers/2547/">Oamaru Times and Waitaki Reporter</a>
-        <br />
-        <span class="paper-meta">
-           1864 - 1872 
-        </span>
-      </div>
-      
-      <div class="columnitem">
-        <a href="/newspapers/2548/">North Otago Times</a>
-        <br />
-        <span class="paper-meta">
-           1872 - 1932 
-        </span>
-      </div>
-      
-      <div class="columnitem">
-        <a href="/newspapers/2549/">Evening Mail</a>
-        <br />
-        <span class="paper-meta">
-           1876 - 1879 
-        </span>
-      </div>
-      
-      <div class="columnitem">
-        <a href="/newspapers/2551/">Oamaru Mail</a>
-        <br />
-        <span class="paper-meta">
-           Published since 1879 
-        </span>
-      </div>
-      
-      <div class="columnitem">
-        <a href="/newspapers/2552/">The Mail Minor: for the Young Folk</a>
-        <br />
-        <span class="paper-meta">
-           1939 - 1942 
-        </span>
-      </div>
-      
+    <h3>All Newspapers in Oamaru</h3>
+
+       
+    <div class="table-filter-bar">
+      <button type="button" class="filter-btn active" data-filter="all">
+        All Newspapers (5)
+      </button>
+      <button type="button" class="filter-btn" data-filter="lineage">
+        🌳 In Lineage Charts (4)
+      </button>
+      <button type="button" class="filter-btn" data-filter="standalone">
+        📄 Standalone (1)
+      </button>
     </div>
+    
+
+    <table class="papers-data-table" id="place-papers-table">
+      <thead>
+        <tr>
+          <th>Title</th>
+          <th>Years</th>
+          <th>Frequency</th>
+          <th>Status</th>
+          <th>Digitised</th>
+          <th>Online Site</th>
+          <th>Lineage</th>
+        </tr>
+      </thead>
+      <tbody>
+         
+                 
+
+        <tr
+          class="paper-row"
+          data-lineage="lineage"
+        >
+          <td>
+            <a href="/newspapers/2547/"
+              ><strong>Oamaru Times and Waitaki Reporter</strong></a
+            >
+            
+          </td>
+          <td>
+             1864 – 1872 
+          </td>
+          <td>Two issues per week</td>
+          <td>
+            
+            <span class="badge-status ceased">Ceased</span>
+            
+          </td>
+          <td>
+            
+            <a
+              href="https://paperspast.natlib.govt.nz/newspapers/north-otago-times"
+              class="badge-link"
+              target="_blank"
+              rel="noopener"
+              >📜 Papers Past</a
+            >
+            
+          </td>
+          <td>
+            
+            <span style="color: #aaa">—</span>
+            
+          </td>
+          <td>
+            
+            <span style="color: #2e7d32" title="Appears in lineage diagram"
+              >🌳 Chart</span
+            >
+            
+          </td>
+        </tr>
+         
+                 
+
+        <tr
+          class="paper-row"
+          data-lineage="lineage"
+        >
+          <td>
+            <a href="/newspapers/2548/"
+              ><strong>North Otago Times</strong></a
+            >
+            
+          </td>
+          <td>
+             1872 – 1932 
+          </td>
+          <td>Daily</td>
+          <td>
+            
+            <span class="badge-status ceased">Ceased</span>
+            
+          </td>
+          <td>
+            
+            <a
+              href="https://paperspast.natlib.govt.nz/newspapers/north-otago-times"
+              class="badge-link"
+              target="_blank"
+              rel="noopener"
+              >📜 Papers Past</a
+            >
+            
+          </td>
+          <td>
+            
+            <span style="color: #aaa">—</span>
+            
+          </td>
+          <td>
+            
+            <span style="color: #2e7d32" title="Appears in lineage diagram"
+              >🌳 Chart</span
+            >
+            
+          </td>
+        </tr>
+         
+                 
+
+        <tr
+          class="paper-row"
+          data-lineage="lineage"
+        >
+          <td>
+            <a href="/newspapers/2549/"
+              ><strong>Evening Mail</strong></a
+            >
+            
+          </td>
+          <td>
+             1876 – 1879 
+          </td>
+          <td>Daily (except Sunday)</td>
+          <td>
+            
+            <span class="badge-status ceased">Ceased</span>
+            
+          </td>
+          <td>
+            
+            <a
+              href="https://paperspast.natlib.govt.nz/newspapers/oamaru-mail"
+              class="badge-link"
+              target="_blank"
+              rel="noopener"
+              >📜 Papers Past</a
+            >
+            
+          </td>
+          <td>
+            
+            <span style="color: #aaa">—</span>
+            
+          </td>
+          <td>
+            
+            <span style="color: #2e7d32" title="Appears in lineage diagram"
+              >🌳 Chart</span
+            >
+            
+          </td>
+        </tr>
+         
+                 
+
+        <tr
+          class="paper-row"
+          data-lineage="lineage"
+        >
+          <td>
+            <a href="/newspapers/2551/"
+              ><strong>Oamaru Mail</strong></a
+            >
+            
+          </td>
+          <td>
+             1879 – Present 
+          </td>
+          <td>Daily (except Sunday)</td>
+          <td>
+            
+            <span class="badge-status current">Current</span>
+            
+          </td>
+          <td>
+            
+            <a
+              href="https://paperspast.natlib.govt.nz/newspapers/oamaru-mail"
+              class="badge-link"
+              target="_blank"
+              rel="noopener"
+              >📜 Papers Past</a
+            >
+            
+          </td>
+          <td>
+            
+            <a
+              href="http://www.oamarumail.co.nz/"
+              class="badge-link"
+              target="_blank"
+              rel="noopener"
+              >🌐 Website</a
+            >
+            
+          </td>
+          <td>
+            
+            <span style="color: #2e7d32" title="Appears in lineage diagram"
+              >🌳 Chart</span
+            >
+            
+          </td>
+        </tr>
+         
+                 
+
+        <tr
+          class="paper-row"
+          data-lineage="standalone"
+        >
+          <td>
+            <a href="/newspapers/2552/"
+              ><strong>The Mail Minor: for the Young Folk</strong></a
+            >
+            
+          </td>
+          <td>
+             1939 – 1942 
+          </td>
+          <td>Weekly</td>
+          <td>
+            
+            <span class="badge-status ceased">Ceased</span>
+            
+          </td>
+          <td>
+            
+            <span style="color: #aaa">—</span>
+            
+          </td>
+          <td>
+            
+            <span style="color: #aaa">—</span>
+            
+          </td>
+          <td>
+            
+            <span style="color: #757575" title="Standalone publication"
+              >📄 Single</span
+            >
+            
+          </td>
+        </tr>
+        
+      </tbody>
+    </table>
   </section>
 </div>
+
+<script>
+  document.addEventListener("DOMContentLoaded", function () {
+    const filterBtns = document.querySelectorAll(
+      ".table-filter-bar .filter-btn"
+    );
+    const rows = document.querySelectorAll("#place-papers-table .paper-row");
+
+    filterBtns.forEach((btn) => {
+      btn.addEventListener("click", function () {
+        filterBtns.forEach((b) => b.classList.remove("active"));
+        this.classList.add("active");
+
+        const filter = this.getAttribute("data-filter");
+
+        rows.forEach((row) => {
+          if (filter === "all") {
+            row.classList.remove("hidden-row");
+          } else if (filter === "lineage") {
+            if (row.getAttribute("data-lineage") === "lineage") {
+              row.classList.remove("hidden-row");
+            } else {
+              row.classList.add("hidden-row");
+            }
+          } else if (filter === "standalone") {
+            if (row.getAttribute("data-lineage") === "standalone") {
+              row.classList.remove("hidden-row");
+            } else {
+              row.classList.add("hidden-row");
+            }
+          }
+        });
+      });
+    });
+  });
+</script>
 </main>
 
       <footer class="footerbox">

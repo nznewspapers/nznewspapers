@@ -119,6 +119,7 @@ module.exports = function () {
 
     const visited = new Set();
     const mermaidGraphs = [];
+    const lineagePaperIds = new Set();
 
     place.papers.forEach((p) => {
       const pId = String(p.id);
@@ -141,6 +142,7 @@ module.exports = function () {
         }
 
         if (componentIds.length > 1) {
+          componentIds.forEach((id) => lineagePaperIds.add(String(id)));
           const compSet = new Set(componentIds);
           let lines = ["graph LR"];
 
@@ -152,7 +154,11 @@ module.exports = function () {
                 ? `Published since ${paper.firstYear}`
                 : `${paper.firstYear}–${paper.finalYear}`;
 
-            lines.push(`  node_${id}["${titleEsc}<br/>(${dates})"]`);
+            let icons = "";
+            if (paper.urlDigitized) icons += " 📜";
+            if (paper.urlCurrent) icons += " 🌐";
+
+            lines.push(`  node_${id}["${titleEsc}${icons}<br/>(${dates})"]`);
             lines.push(
               `  click node_${id} "/newspapers/${id}/" "View ${titleEsc}"`
             );
@@ -183,6 +189,7 @@ module.exports = function () {
 
     mermaidGraphs.sort((a, b) => a.earliestYear - b.earliestYear);
     place.mermaidGraphs = mermaidGraphs;
+    place.lineagePaperIds = Array.from(lineagePaperIds);
   });
 
   return placesList;
