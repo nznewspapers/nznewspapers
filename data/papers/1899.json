@@ -19,11 +19,6 @@
       "relationship": "Merged",
       "target-description": "Feilding herald Rangitikei mail"
     },
-    "1902": {
-      "direction": "Succeeding",
-      "relationship": "Merged",
-      "target-description": "Rangitikei mail"
-    },
     "3142": {
       "direction": "Preceding",
       "target-description": "The Rangitikei Mail",
@@ -31,6 +26,7 @@
     }
   },
   "sources": {
+    "2026-08-04T02:14:15.234Z": "Removed redundant transitive shortcut link to record 1902 (Rangitikei Mail (2005)) via intermediate run 1900 (Feilding Herald Rangitikei Mail).",
     "2026-08-03T05:01:33.559Z": "Added reciprocal Preceding link to record 3142 (The Rangitikei Mail).",
     "2014-05-07T09:47:26.000Z": "Modified by DataBot",
     "2013-04-02T08:58:38.000Z": "Extracted from the New Zealand National Bibliography (MARC record 3531223) downloaded March 2013."

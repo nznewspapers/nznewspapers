@@ -15,11 +15,6 @@
   "region": "Canterbury",
   "urlDigitized": "https://paperspast.natlib.govt.nz/newspapers/observer",
   "links": {
-    "2460": {
-      "direction": "Preceding",
-      "relationship": "Continues",
-      "target-description": "Community News (Observer Edition)"
-    },
     "2492": {
       "direction": "Preceding",
       "relationship": "Continues",
@@ -37,6 +32,7 @@
     }
   },
   "sources": {
+    "2026-08-04T02:24:11.090Z": "Removed redundant transitive shortcut link via intermediate succession path.",
     "2026-08-03T05:13:26.062Z": "Added reciprocal Preceding link to record 2938 (Lyttelton Times (1993)).",
     "2026-07-30T06:12:02.554Z": "Updated Papers Past info using the nzn-paperspast-updater.js script.",
     "2014-05-07T09:09:23.000Z": "Modified by DataBot",

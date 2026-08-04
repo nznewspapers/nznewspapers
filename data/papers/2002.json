@@ -21,14 +21,10 @@
     "2003": {
       "direction": "Continued By",
       "target-description": "Kapiti Observer News Shopper"
-    },
-    "3138": {
-      "direction": "Preceding",
-      "target-description": "Kapiti Observer",
-      "relationship": "Continues"
     }
   },
   "sources": {
+    "2026-08-04T02:14:15.234Z": "Removed redundant transitive shortcut link to record 3138 (Kapiti Observer) via intermediate run 2001 (Golden Coast News Shopper).",
     "2026-08-03T05:01:33.559Z": "Added reciprocal Preceding link to record 3138 (Kapiti Observer).",
     "2014-05-31T09:43:45.000Z": "Modified by gordon.paynter",
     "2013-04-02T08:58:38.000Z": "Extracted from the New Zealand National Bibliography (MARC record 8177292) downloaded March 2013."

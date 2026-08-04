@@ -15,14 +15,10 @@
       "direction": "Succeeding",
       "relationship": "Merged",
       "target-description": "Feilding herald"
-    },
-    "1900": {
-      "direction": "Succeeding",
-      "relationship": "Merged",
-      "target-description": "Feilding herald Rangitikei mail"
     }
   },
   "sources": {
+    "2026-08-04T02:14:15.234Z": "Removed redundant transitive shortcut link to record 1900 (Feilding Herald Rangitikei Mail) via intermediate run 1899 (Feilding Herald).",
     "2026-08-03T05:01:33.559Z": "Resolved unknown target placeholder link(s) to numerical record ID(s).",
     "2022-08-31T04:35:52.094Z": "Extracted from the New Zealand National Bibliography (MARC record 3531217) downloaded June 2022."
   },

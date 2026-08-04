@@ -16,14 +16,10 @@
       "direction": "Succeeding",
       "relationship": "Continued by",
       "target-description": "Observer (Christchurch, N.Z. : 1996)"
-    },
-    "2499": {
-      "direction": "Succeeding",
-      "relationship": "Continued by",
-      "target-description": "Observer (Christchurch, N.Z.)"
     }
   },
   "sources": {
+    "2026-08-04T02:24:11.090Z": "Removed redundant transitive shortcut link via intermediate succession path.",
     "2013-04-02T08:58:38.000Z": "Extracted from the New Zealand National Bibliography (MARC record 3526808) downloaded March 2013."
   },
   "revision": 4

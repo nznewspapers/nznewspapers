@@ -21,14 +21,10 @@
       "direction": "Succeeding",
       "relationship": "Merged",
       "target-description": "Dunstan times"
-    },
-    "2568": {
-      "direction": "Succeeding",
-      "relationship": "Merged",
-      "target-description": "Central Otago news"
     }
   },
   "sources": {
+    "2026-08-04T02:14:15.234Z": "Removed redundant transitive shortcut link to record 2568 (Central Otago News) via intermediate run 2557 (Lake County Mail).",
     "2026-08-03T05:01:33.559Z": "Resolved unknown target placeholder link(s) to numerical record ID(s).",
     "2022-08-31T04:35:30.975Z": "Extracted from the New Zealand National Bibliography (MARC record 8123452) downloaded June 2022."
   },

@@ -18,11 +18,6 @@
       "relationship": "Merged into",
       "target-description": "Observer News Shopper"
     },
-    "2004": {
-      "direction": "Succeeding",
-      "target-description": "Kapiti Observer",
-      "relationship": "Continued by"
-    },
     "3138": {
       "direction": "Preceding",
       "target-description": "Kapiti Observer",
@@ -30,6 +25,7 @@
     }
   },
   "sources": {
+    "2026-08-04T02:27:00.000Z": "Removed redundant transitive shortcut link to record 2004 (Kapiti Observer) via intermediate run 2002 (Observer News Shopper).",
     "2026-08-03T05:13:26.062Z": "Added reciprocal Succeeding link to record 2004 (Kapiti Observer).",
     "2026-08-03T05:01:33.559Z": "Added reciprocal Preceding link to record 3138 (Kapiti Observer).",
     "2014-05-31T09:47:01.000Z": "Modified by gordon.paynter",
