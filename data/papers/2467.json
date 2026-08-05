@@ -25,11 +25,6 @@
       "relationship": "Merged",
       "target-description": "Shore news (Christchurch, N.Z.)"
     },
-    "2487": {
-      "direction": "Succeeding",
-      "relationship": "Merged",
-      "target-description": "Star community (Southern)"
-    },
     "3120": {
       "direction": "Preceding",
       "relationship": "Continues",
@@ -37,6 +32,7 @@
     }
   },
   "sources": {
+    "2026-08-04T02:14:15.234Z": "Removed redundant transitive shortcut link to record 2487 (Star Community (Southern)) via intermediate run 2484 (Shore News).",
     "2026-08-03T04:13:03.129Z": "Added sequential continuation link from earlier run #3120 (Observer).",
     "2026-07-30T06:12:02.554Z": "Updated Papers Past info using the nzn-paperspast-updater.js script.",
     "2014-05-07T09:11:20.000Z": "Modified by DataBot",

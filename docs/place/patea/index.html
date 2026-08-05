@@ -3,10 +3,10 @@
   <head>
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title>Newspapers published in Patea</title>
+    <title>Patea</title>
     <meta
       name="description"
-      content="Newspapers published in Patea"
+      content="Patea"
     />
     <link rel="canonical" href="https://www.nznewspapers.org/place/patea/" />
 
@@ -18,11 +18,11 @@
     />
     <meta
       property="og:title"
-      content="Newspapers published in Patea"
+      content="Patea"
     />
     <meta
       property="og:description"
-      content="Newspapers published in Patea"
+      content="Patea"
     />
     <meta
       property="og:image"
@@ -37,11 +37,11 @@
     />
     <meta
       property="twitter:title"
-      content="Newspapers published in Patea"
+      content="Patea"
     />
     <meta
       property="twitter:description"
-      content="Newspapers published in Patea"
+      content="Patea"
     />
     <meta
       property="twitter:image"
@@ -96,79 +96,413 @@
       </nav>
 
       <div class="bannerbox">
-        <h2 id="pagetitle">Newspapers published in Patea</h2>
+        <h2 id="pagetitle">Patea</h2>
       </div>
 
       <main class="contentbox">
-<div class="bannerbox">
-  <div class="links">
-    <a href="/places/">All Places</a>
-  </div>
-</div>
-
 <div class="contentbox">
-  <h3>Patea</h3>
-  <p>
-    Patea is in the South Taranaki District district, Taranaki
-    region.
-  </p>
-
-  <p>
-    There are 6 newspapers published in Patea.
-  </p>
-
-  <div class="multicolumnbox">
-    
-    <div class="columnitem">
-      <a href="/newspapers/1605/">Patea Mail</a>
-      <br />
-      <span class="paper-meta">
-         1875 - 1887 
-      </span>
-    </div>
-    
-    <div class="columnitem">
-      <a href="/newspapers/1609/">Patea County Press</a>
-      <br />
-      <span class="paper-meta">
-         1887 - 1914 
-      </span>
-    </div>
-    
-    <div class="columnitem">
-      <a href="/newspapers/3134/">Patea &amp; Waverley Press</a>
-      <br />
-      <span class="paper-meta">
-         1914 - 1975 
-      </span>
-    </div>
-    
-    <div class="columnitem">
-      <a href="/newspapers/1613/">The Patea Mail</a>
-      <br />
-      <span class="paper-meta">
-         1975 - 1999 
-      </span>
-    </div>
-    
-    <div class="columnitem">
-      <a href="/newspapers/1614/">Waverley Newsletter</a>
-      <br />
-      <span class="paper-meta">
-         1998 - 1999 
-      </span>
-    </div>
-    
-    <div class="columnitem">
-      <a href="/newspapers/1615/">Patea and Waverley Press</a>
-      <br />
-      <span class="paper-meta">
-         Published since 1999 
-      </span>
-    </div>
-    
+  <div class="place-meta-bar">
+    <span class="meta-item">South Taranaki District District</span>
+    <span class="meta-sep">&mdash;</span>
+    <span class="meta-item">Taranaki Region</span>
+    <span class="meta-sep">&mdash;</span>
+    <span class="meta-item meta-count"
+      >6 Newspapers</span
+    >
   </div>
+
+  
+  <section class="lineage-section">
+    <h3>Publication Lineages</h3>
+    <div class="chart-legend">
+      <span>📜 Digitised on Papers Past</span>
+      <span>🌐 Publisher Website Available</span>
+    </div>
+
+    <div class="mermaid-tree-list">
+      
+      <div class="mermaid-card">
+        <pre class="mermaid">
+graph LR
+  node_1605[&quot;Patea Mail 📜&lt;br/&gt;(1875–1887)&quot;]
+  click node_1605 &quot;/newspapers/1605/&quot; &quot;View Patea Mail&quot;
+  node_1609[&quot;Patea County Press 📜&lt;br/&gt;(1887–1914)&quot;]
+  click node_1609 &quot;/newspapers/1609/&quot; &quot;View Patea County Press&quot;
+  node_3134[&quot;Patea &amp; Waverley Press 📜&lt;br/&gt;(1914–1975)&quot;]
+  click node_3134 &quot;/newspapers/3134/&quot; &quot;View Patea &amp; Waverley Press&quot;
+  node_1613[&quot;The Patea Mail&lt;br/&gt;(1975–1999)&quot;]
+  click node_1613 &quot;/newspapers/1613/&quot; &quot;View The Patea Mail&quot;
+  node_1615[&quot;Patea and Waverley Press 🌐&lt;br/&gt;(since 1999)&quot;]
+  click node_1615 &quot;/newspapers/1615/&quot; &quot;View Patea and Waverley Press&quot;
+  node_1614[&quot;Waverley Newsletter&lt;br/&gt;(1998–1999)&quot;]
+  click node_1614 &quot;/newspapers/1614/&quot; &quot;View Waverley Newsletter&quot;
+  node_1605 --&gt; node_1609
+  node_1609 --&gt; node_3134
+  node_3134 --&gt; node_1613
+  node_1613 --&gt; node_1615
+  node_1614 --&gt; node_1615
+        </pre>
+      </div>
+      
+    </div>
+  </section>
+  <script type="module">
+    import mermaid from "https://cdn.jsdelivr.net/npm/mermaid@10/dist/mermaid.esm.min.mjs";
+    mermaid.initialize({
+      startOnLoad: true,
+      theme: "base",
+      themeVariables: {
+        fontFamily: '"Source Serif 4", Georgia, serif',
+        fontSize: "14px",
+        background: "#eeeeee",
+        primaryColor: "#f7f7f7",
+        primaryBorderColor: "#111111",
+        primaryTextColor: "#111111",
+        lineColor: "#111111",
+        edgeLabelBackground: "#eeeeee",
+        nodeBorder: "1.5px",
+        clusterBkg: "#eeeeee",
+        clusterBorder: "#111111",
+      },
+      flowchart: {
+        useMaxWidth: true,
+        htmlLabels: true,
+        curve: "basis",
+      },
+    });
+  </script>
+  
+
+  <section class="all-papers-section">
+    <h3>Newspaper List</h3>
+
+      
+
+    <div class="table-filter-bar">
+      <div class="filter-group">
+        <button
+          type="button"
+          class="filter-btn active"
+          data-lineage-filter="all"
+        >
+          All (6)
+        </button>
+        
+        <button type="button" class="filter-btn" data-lineage-filter="lineage">
+          🌳 In Lineage Charts (6)
+        </button>
+        <button
+          type="button"
+          class="filter-btn"
+          data-lineage-filter="standalone"
+        >
+          📄 Standalone (0)
+        </button>
+        
+      </div>
+
+      <div class="filter-group access-filters">
+        <button
+          type="button"
+          class="filter-btn filter-toggle"
+          data-access-filter="digitised"
+        >
+          📜 Digitised
+        </button>
+        <button
+          type="button"
+          class="filter-btn filter-toggle"
+          data-access-filter="online"
+        >
+          🌐 Online
+        </button>
+      </div>
+    </div>
+
+    <table class="papers-data-table" id="place-papers-table">
+      <thead>
+        <tr>
+          <th>Title</th>
+          <th>Years</th>
+          <th>Frequency</th>
+          <th>Status</th>
+          <th>Digitised</th>
+          <th>Online Site</th>
+          <th>Lineage</th>
+        </tr>
+      </thead>
+      <tbody>
+         
+                     
+
+        <tr
+          class="paper-row"
+          data-lineage="lineage"
+          data-digitised="true"
+          data-online="false"
+        >
+          <td>
+            <a href="/newspapers/1605/"
+              ><strong>Patea Mail</strong></a
+            >
+            
+          </td>
+          <td>
+             1875 – 1887 
+          </td>
+          <td>—</td>
+          <td>
+             Ceased 
+          </td>
+          <td>
+            
+            <a href="https://paperspast.natlib.govt.nz/newspapers/patea-mail" target="_blank" rel="noopener"
+              >📜 Papers Past</a
+            >
+            
+          </td>
+          <td>
+             — 
+          </td>
+          <td>
+             🌳 Chart 
+          </td>
+        </tr>
+         
+                     
+
+        <tr
+          class="paper-row"
+          data-lineage="lineage"
+          data-digitised="true"
+          data-online="false"
+        >
+          <td>
+            <a href="/newspapers/1609/"
+              ><strong>Patea County Press</strong></a
+            >
+            
+          </td>
+          <td>
+             1887 – 1914 
+          </td>
+          <td>Three issues per week</td>
+          <td>
+             Ceased 
+          </td>
+          <td>
+            
+            <a href="https://paperspast.natlib.govt.nz/newspapers/patea-mail" target="_blank" rel="noopener"
+              >📜 Papers Past</a
+            >
+            
+          </td>
+          <td>
+             — 
+          </td>
+          <td>
+             🌳 Chart 
+          </td>
+        </tr>
+         
+                     
+
+        <tr
+          class="paper-row"
+          data-lineage="lineage"
+          data-digitised="true"
+          data-online="false"
+        >
+          <td>
+            <a href="/newspapers/3134/"
+              ><strong>Patea &amp; Waverley Press</strong></a
+            >
+            
+          </td>
+          <td>
+             1914 – 1975 
+          </td>
+          <td>Three no. a week</td>
+          <td>
+             Ceased 
+          </td>
+          <td>
+            
+            <a href="https://paperspast.natlib.govt.nz/newspapers/patea-mail" target="_blank" rel="noopener"
+              >📜 Papers Past</a
+            >
+            
+          </td>
+          <td>
+             — 
+          </td>
+          <td>
+             🌳 Chart 
+          </td>
+        </tr>
+         
+                     
+
+        <tr
+          class="paper-row"
+          data-lineage="lineage"
+          data-digitised="false"
+          data-online="false"
+        >
+          <td>
+            <a href="/newspapers/1613/"
+              ><strong>The Patea Mail</strong></a
+            >
+            
+          </td>
+          <td>
+             1975 – 1999 
+          </td>
+          <td>—</td>
+          <td>
+             Ceased 
+          </td>
+          <td>
+             — 
+          </td>
+          <td>
+             — 
+          </td>
+          <td>
+             🌳 Chart 
+          </td>
+        </tr>
+         
+                     
+
+        <tr
+          class="paper-row"
+          data-lineage="lineage"
+          data-digitised="false"
+          data-online="false"
+        >
+          <td>
+            <a href="/newspapers/1614/"
+              ><strong>Waverley Newsletter</strong></a
+            >
+            
+          </td>
+          <td>
+             1998 – 1999 
+          </td>
+          <td>Monthly</td>
+          <td>
+             Ceased 
+          </td>
+          <td>
+             — 
+          </td>
+          <td>
+             — 
+          </td>
+          <td>
+             🌳 Chart 
+          </td>
+        </tr>
+         
+                     
+
+        <tr
+          class="paper-row"
+          data-lineage="lineage"
+          data-digitised="false"
+          data-online="true"
+        >
+          <td>
+            <a href="/newspapers/1615/"
+              ><strong>Patea and Waverley Press</strong></a
+            >
+            
+          </td>
+          <td>
+             1999 – Present 
+          </td>
+          <td>—</td>
+          <td>
+             Current 
+          </td>
+          <td>
+             — 
+          </td>
+          <td>
+            
+            <a href="http://pateawaverleypress.wordpress.com/" target="_blank" rel="noopener"
+              >🌐 Website</a
+            >
+            
+          </td>
+          <td>
+             🌳 Chart 
+          </td>
+        </tr>
+        
+      </tbody>
+    </table>
+  </section>
 </div>
+
+<script>
+  document.addEventListener("DOMContentLoaded", function () {
+    const lineageBtns = document.querySelectorAll("[data-lineage-filter]");
+    const digitisedBtn = document.querySelector(
+      '[data-access-filter="digitised"]'
+    );
+    const onlineBtn = document.querySelector('[data-access-filter="online"]');
+    const rows = document.querySelectorAll("#place-papers-table .paper-row");
+
+    let activeLineageFilter = "all";
+    let requireDigitised = false;
+    let requireOnline = false;
+
+    function applyFilters() {
+      rows.forEach((row) => {
+        const matchLineage =
+          activeLineageFilter === "all" ||
+          row.getAttribute("data-lineage") === activeLineageFilter;
+        const matchDigitised =
+          !requireDigitised || row.getAttribute("data-digitised") === "true";
+        const matchOnline =
+          !requireOnline || row.getAttribute("data-online") === "true";
+
+        if (matchLineage && matchDigitised && matchOnline) {
+          row.classList.remove("hidden-row");
+        } else {
+          row.classList.add("hidden-row");
+        }
+      });
+    }
+
+    lineageBtns.forEach((btn) => {
+      btn.addEventListener("click", function () {
+        lineageBtns.forEach((b) => b.classList.remove("active"));
+        this.classList.add("active");
+        activeLineageFilter = this.getAttribute("data-lineage-filter");
+        applyFilters();
+      });
+    });
+
+    if (digitisedBtn) {
+      digitisedBtn.addEventListener("click", function () {
+        requireDigitised = !requireDigitised;
+        this.classList.toggle("active", requireDigitised);
+        applyFilters();
+      });
+    }
+
+    if (onlineBtn) {
+      onlineBtn.addEventListener("click", function () {
+        requireOnline = !requireOnline;
+        this.classList.toggle("active", requireOnline);
+        applyFilters();
+      });
+    }
+  });
+</script>
 </main>
 
       <footer class="footerbox">

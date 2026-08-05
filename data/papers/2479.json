@@ -22,14 +22,10 @@
       "direction": "Succeeding",
       "relationship": "Merged",
       "target-description": "Christchurch mail (Waimairi, Papanui, Riccarton, Fendalton)"
-    },
-    "2495": {
-      "direction": "Succeeding",
-      "relationship": "Continued by",
-      "target-description": "Christchurch Mail (North-western Ed.)"
     }
   },
   "sources": {
+    "2026-08-04T02:14:15.234Z": "Removed redundant transitive shortcut link to record 2495 (Christchurch Mail (North-western Ed.)) via intermediate run 2482 (Christchurch Mail (Waimairi, Papanui, Riccarton, Fendalton)).",
     "2026-08-03T05:13:26.062Z": "Added reciprocal Preceding link to record 2463 (Christchurch Mail).",
     "2026-08-03T04:48:26.979Z": "Removed redundant horizontal co-predecessor link (2478).",
     "2014-05-07T09:13:10.000Z": "Modified by DataBot",

@@ -14,22 +14,14 @@
   "region": "Wellington",
   "urlCurrent": "http://www.stuff.co.nz/dominion-post/news/local-papers/kapiti-observer/",
   "links": {
-    "2001": {
-      "direction": "Continues",
-      "target-description": "Golden Coast News Shopper"
-    },
     "2003": {
       "direction": "Preceding",
       "target-description": "Kapiti Observer News Shopper",
       "relationship": "Continues"
-    },
-    "3138": {
-      "direction": "Preceding",
-      "relationship": "Continues",
-      "target-description": "Kapiti Observer"
     }
   },
   "sources": {
+    "2026-08-04T02:14:15.234Z": "Removed redundant transitive shortcut link to record 3138 (Kapiti Observer) via intermediate run 2001 (Golden Coast News Shopper).",
     "2026-08-03T05:13:26.062Z": "Added reciprocal Preceding link to record 2003 (Kapiti Observer News Shopper).",
     "2026-08-03T04:13:03.129Z": "Added sequential continuation link from earlier run #3138 (Kapiti Observer).",
     "2014-05-31T09:49:09.000Z": "Modified by gordon.paynter",

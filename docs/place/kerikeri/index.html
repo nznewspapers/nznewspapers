@@ -3,10 +3,10 @@
   <head>
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title>Newspapers published in Kerikeri</title>
+    <title>Kerikeri</title>
     <meta
       name="description"
-      content="Newspapers published in Kerikeri"
+      content="Kerikeri"
     />
     <link rel="canonical" href="https://www.nznewspapers.org/place/kerikeri/" />
 
@@ -18,11 +18,11 @@
     />
     <meta
       property="og:title"
-      content="Newspapers published in Kerikeri"
+      content="Kerikeri"
     />
     <meta
       property="og:description"
-      content="Newspapers published in Kerikeri"
+      content="Kerikeri"
     />
     <meta
       property="og:image"
@@ -37,11 +37,11 @@
     />
     <meta
       property="twitter:title"
-      content="Newspapers published in Kerikeri"
+      content="Kerikeri"
     />
     <meta
       property="twitter:description"
-      content="Newspapers published in Kerikeri"
+      content="Kerikeri"
     />
     <meta
       property="twitter:image"
@@ -96,63 +96,325 @@
       </nav>
 
       <div class="bannerbox">
-        <h2 id="pagetitle">Newspapers published in Kerikeri</h2>
+        <h2 id="pagetitle">Kerikeri</h2>
       </div>
 
       <main class="contentbox">
-<div class="bannerbox">
-  <div class="links">
-    <a href="/places/">All Places</a>
-  </div>
-</div>
-
 <div class="contentbox">
-  <h3>Kerikeri</h3>
-  <p>
-    Kerikeri is in the Far North District district, Northland
-    region.
-  </p>
-
-  <p>
-    There are 4 newspapers published in Kerikeri.
-  </p>
-
-  <div class="multicolumnbox">
-    
-    <div class="columnitem">
-      <a href="/newspapers/1022/">Kerikeri Chronicle</a>
-      <br />
-      <span class="paper-meta">
-         1974 - 1986 
-      </span>
-    </div>
-    
-    <div class="columnitem">
-      <a href="/newspapers/1026/">Chronicle (Kerikeri)</a>
-      <br />
-      <span class="paper-meta">
-         1988 - 2003 
-      </span>
-    </div>
-    
-    <div class="columnitem">
-      <a href="/newspapers/1031/">Bay Chronicle</a>
-      <br />
-      <span class="paper-meta">
-         Published since 2003 
-      </span>
-    </div>
-    
-    <div class="columnitem">
-      <a href="/newspapers/1032/">The Bay Report</a>
-      <br />
-      <span class="paper-meta">
-         2006 - 2009 
-      </span>
-    </div>
-    
+  <div class="place-meta-bar">
+    <span class="meta-item">Far North District District</span>
+    <span class="meta-sep">&mdash;</span>
+    <span class="meta-item">Northland Region</span>
+    <span class="meta-sep">&mdash;</span>
+    <span class="meta-item meta-count"
+      >4 Newspapers</span
+    >
   </div>
+
+  
+  <section class="lineage-section">
+    <h3>Publication Lineages</h3>
+    <div class="chart-legend">
+      <span>📜 Digitised on Papers Past</span>
+      <span>🌐 Publisher Website Available</span>
+    </div>
+
+    <div class="mermaid-tree-list">
+      
+      <div class="mermaid-card">
+        <pre class="mermaid">
+graph LR
+  node_1026[&quot;Chronicle (Kerikeri)&lt;br/&gt;(1988–2003)&quot;]
+  click node_1026 &quot;/newspapers/1026/&quot; &quot;View Chronicle (Kerikeri)&quot;
+  node_1031[&quot;Bay Chronicle 🌐&lt;br/&gt;(since 2003)&quot;]
+  click node_1031 &quot;/newspapers/1031/&quot; &quot;View Bay Chronicle&quot;
+  node_1026 --&gt; node_1031
+        </pre>
+      </div>
+      
+    </div>
+  </section>
+  <script type="module">
+    import mermaid from "https://cdn.jsdelivr.net/npm/mermaid@10/dist/mermaid.esm.min.mjs";
+    mermaid.initialize({
+      startOnLoad: true,
+      theme: "base",
+      themeVariables: {
+        fontFamily: '"Source Serif 4", Georgia, serif',
+        fontSize: "14px",
+        background: "#eeeeee",
+        primaryColor: "#f7f7f7",
+        primaryBorderColor: "#111111",
+        primaryTextColor: "#111111",
+        lineColor: "#111111",
+        edgeLabelBackground: "#eeeeee",
+        nodeBorder: "1.5px",
+        clusterBkg: "#eeeeee",
+        clusterBorder: "#111111",
+      },
+      flowchart: {
+        useMaxWidth: true,
+        htmlLabels: true,
+        curve: "basis",
+      },
+    });
+  </script>
+  
+
+  <section class="all-papers-section">
+    <h3>Newspaper List</h3>
+
+      
+
+    <div class="table-filter-bar">
+      <div class="filter-group">
+        <button
+          type="button"
+          class="filter-btn active"
+          data-lineage-filter="all"
+        >
+          All (4)
+        </button>
+        
+        <button type="button" class="filter-btn" data-lineage-filter="lineage">
+          🌳 In Lineage Charts (2)
+        </button>
+        <button
+          type="button"
+          class="filter-btn"
+          data-lineage-filter="standalone"
+        >
+          📄 Standalone (2)
+        </button>
+        
+      </div>
+
+      <div class="filter-group access-filters">
+        <button
+          type="button"
+          class="filter-btn filter-toggle"
+          data-access-filter="digitised"
+        >
+          📜 Digitised
+        </button>
+        <button
+          type="button"
+          class="filter-btn filter-toggle"
+          data-access-filter="online"
+        >
+          🌐 Online
+        </button>
+      </div>
+    </div>
+
+    <table class="papers-data-table" id="place-papers-table">
+      <thead>
+        <tr>
+          <th>Title</th>
+          <th>Years</th>
+          <th>Frequency</th>
+          <th>Status</th>
+          <th>Digitised</th>
+          <th>Online Site</th>
+          <th>Lineage</th>
+        </tr>
+      </thead>
+      <tbody>
+         
+             
+
+        <tr
+          class="paper-row"
+          data-lineage="standalone"
+          data-digitised="false"
+          data-online="false"
+        >
+          <td>
+            <a href="/newspapers/1022/"
+              ><strong>Kerikeri Chronicle</strong></a
+            >
+            
+          </td>
+          <td>
+             1974 – 1986 
+          </td>
+          <td>Fortnightly</td>
+          <td>
+             Ceased 
+          </td>
+          <td>
+             — 
+          </td>
+          <td>
+             — 
+          </td>
+          <td>
+             📄 Single 
+          </td>
+        </tr>
+         
+             
+
+        <tr
+          class="paper-row"
+          data-lineage="lineage"
+          data-digitised="false"
+          data-online="false"
+        >
+          <td>
+            <a href="/newspapers/1026/"
+              ><strong>Chronicle (Kerikeri)</strong></a
+            >
+            
+          </td>
+          <td>
+             1988 – 2003 
+          </td>
+          <td>—</td>
+          <td>
+             Ceased 
+          </td>
+          <td>
+             — 
+          </td>
+          <td>
+             — 
+          </td>
+          <td>
+             🌳 Chart 
+          </td>
+        </tr>
+         
+             
+
+        <tr
+          class="paper-row"
+          data-lineage="lineage"
+          data-digitised="false"
+          data-online="true"
+        >
+          <td>
+            <a href="/newspapers/1031/"
+              ><strong>Bay Chronicle</strong></a
+            >
+            
+          </td>
+          <td>
+             2003 – Present 
+          </td>
+          <td>Weekly</td>
+          <td>
+             Current 
+          </td>
+          <td>
+             — 
+          </td>
+          <td>
+            
+            <a href="http://www.stuff.co.nz/auckland/local-news/northland/bay-chronicle" target="_blank" rel="noopener"
+              >🌐 Website</a
+            >
+            
+          </td>
+          <td>
+             🌳 Chart 
+          </td>
+        </tr>
+         
+             
+
+        <tr
+          class="paper-row"
+          data-lineage="standalone"
+          data-digitised="false"
+          data-online="false"
+        >
+          <td>
+            <a href="/newspapers/1032/"
+              ><strong>The Bay Report</strong></a
+            >
+            
+          </td>
+          <td>
+             2006 – 2009 
+          </td>
+          <td>Weekly</td>
+          <td>
+             Ceased 
+          </td>
+          <td>
+             — 
+          </td>
+          <td>
+             — 
+          </td>
+          <td>
+             📄 Single 
+          </td>
+        </tr>
+        
+      </tbody>
+    </table>
+  </section>
 </div>
+
+<script>
+  document.addEventListener("DOMContentLoaded", function () {
+    const lineageBtns = document.querySelectorAll("[data-lineage-filter]");
+    const digitisedBtn = document.querySelector(
+      '[data-access-filter="digitised"]'
+    );
+    const onlineBtn = document.querySelector('[data-access-filter="online"]');
+    const rows = document.querySelectorAll("#place-papers-table .paper-row");
+
+    let activeLineageFilter = "all";
+    let requireDigitised = false;
+    let requireOnline = false;
+
+    function applyFilters() {
+      rows.forEach((row) => {
+        const matchLineage =
+          activeLineageFilter === "all" ||
+          row.getAttribute("data-lineage") === activeLineageFilter;
+        const matchDigitised =
+          !requireDigitised || row.getAttribute("data-digitised") === "true";
+        const matchOnline =
+          !requireOnline || row.getAttribute("data-online") === "true";
+
+        if (matchLineage && matchDigitised && matchOnline) {
+          row.classList.remove("hidden-row");
+        } else {
+          row.classList.add("hidden-row");
+        }
+      });
+    }
+
+    lineageBtns.forEach((btn) => {
+      btn.addEventListener("click", function () {
+        lineageBtns.forEach((b) => b.classList.remove("active"));
+        this.classList.add("active");
+        activeLineageFilter = this.getAttribute("data-lineage-filter");
+        applyFilters();
+      });
+    });
+
+    if (digitisedBtn) {
+      digitisedBtn.addEventListener("click", function () {
+        requireDigitised = !requireDigitised;
+        this.classList.toggle("active", requireDigitised);
+        applyFilters();
+      });
+    }
+
+    if (onlineBtn) {
+      onlineBtn.addEventListener("click", function () {
+        requireOnline = !requireOnline;
+        this.classList.toggle("active", requireOnline);
+        applyFilters();
+      });
+    }
+  });
+</script>
 </main>
 
       <footer class="footerbox">

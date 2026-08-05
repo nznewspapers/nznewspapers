@@ -3,10 +3,10 @@
   <head>
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title>Newspapers published in Te Anau</title>
+    <title>Te Anau</title>
     <meta
       name="description"
-      content="Newspapers published in Te Anau"
+      content="Te Anau"
     />
     <link rel="canonical" href="https://www.nznewspapers.org/place/te-anau/" />
 
@@ -18,11 +18,11 @@
     />
     <meta
       property="og:title"
-      content="Newspapers published in Te Anau"
+      content="Te Anau"
     />
     <meta
       property="og:description"
-      content="Newspapers published in Te Anau"
+      content="Te Anau"
     />
     <meta
       property="og:image"
@@ -37,11 +37,11 @@
     />
     <meta
       property="twitter:title"
-      content="Newspapers published in Te Anau"
+      content="Te Anau"
     />
     <meta
       property="twitter:description"
-      content="Newspapers published in Te Anau"
+      content="Te Anau"
     />
     <meta
       property="twitter:image"
@@ -96,47 +96,202 @@
       </nav>
 
       <div class="bannerbox">
-        <h2 id="pagetitle">Newspapers published in Te Anau</h2>
+        <h2 id="pagetitle">Te Anau</h2>
       </div>
 
       <main class="contentbox">
-<div class="bannerbox">
-  <div class="links">
-    <a href="/places/">All Places</a>
-  </div>
-</div>
-
 <div class="contentbox">
-  <h3>Te Anau</h3>
-  <p>
-    Te Anau is in the Southland District district, Southland
-    region.
-  </p>
-
-  <p>
-    There are 2 newspapers published in Te Anau.
-  </p>
-
-  <div class="multicolumnbox">
-    
-    <div class="columnitem">
-      <a href="/newspapers/2690/">Fiordland Focus</a>
-      <br />
-      <span class="paper-meta">
-         Published since sometime in the 1900&#39;s 
-      </span>
-    </div>
-    
-    <div class="columnitem">
-      <a href="/newspapers/2691/">Fiordland Advocate</a>
-      <br />
-      <span class="paper-meta">
-         Published since 2009 
-      </span>
-    </div>
-    
+  <div class="place-meta-bar">
+    <span class="meta-item">Southland District District</span>
+    <span class="meta-sep">&mdash;</span>
+    <span class="meta-item">Southland Region</span>
+    <span class="meta-sep">&mdash;</span>
+    <span class="meta-item meta-count"
+      >2 Newspapers</span
+    >
   </div>
+
+  
+
+  <section class="all-papers-section">
+    <h3>Newspaper List</h3>
+
+      
+
+    <div class="table-filter-bar">
+      <div class="filter-group">
+        <button
+          type="button"
+          class="filter-btn active"
+          data-lineage-filter="all"
+        >
+          All (2)
+        </button>
+        
+      </div>
+
+      <div class="filter-group access-filters">
+        <button
+          type="button"
+          class="filter-btn filter-toggle"
+          data-access-filter="digitised"
+        >
+          📜 Digitised
+        </button>
+        <button
+          type="button"
+          class="filter-btn filter-toggle"
+          data-access-filter="online"
+        >
+          🌐 Online
+        </button>
+      </div>
+    </div>
+
+    <table class="papers-data-table" id="place-papers-table">
+      <thead>
+        <tr>
+          <th>Title</th>
+          <th>Years</th>
+          <th>Frequency</th>
+          <th>Status</th>
+          <th>Digitised</th>
+          <th>Online Site</th>
+          <th>Lineage</th>
+        </tr>
+      </thead>
+      <tbody>
+         
+         
+
+        <tr
+          class="paper-row"
+          data-lineage="standalone"
+          data-digitised="false"
+          data-online="false"
+        >
+          <td>
+            <a href="/newspapers/2690/"
+              ><strong>Fiordland Focus</strong></a
+            >
+            
+          </td>
+          <td>
+             sometime in the 1900&#39;s – Present 
+          </td>
+          <td>Every three weeks</td>
+          <td>
+             Current 
+          </td>
+          <td>
+             — 
+          </td>
+          <td>
+             — 
+          </td>
+          <td>
+             📄 Single 
+          </td>
+        </tr>
+         
+         
+
+        <tr
+          class="paper-row"
+          data-lineage="standalone"
+          data-digitised="false"
+          data-online="true"
+        >
+          <td>
+            <a href="/newspapers/2691/"
+              ><strong>Fiordland Advocate</strong></a
+            >
+            
+          </td>
+          <td>
+             2009 – Present 
+          </td>
+          <td>Weekly</td>
+          <td>
+             Current 
+          </td>
+          <td>
+             — 
+          </td>
+          <td>
+            
+            <a href="http://www.fiordlandadvocate.co.nz/" target="_blank" rel="noopener"
+              >🌐 Website</a
+            >
+            
+          </td>
+          <td>
+             📄 Single 
+          </td>
+        </tr>
+        
+      </tbody>
+    </table>
+  </section>
 </div>
+
+<script>
+  document.addEventListener("DOMContentLoaded", function () {
+    const lineageBtns = document.querySelectorAll("[data-lineage-filter]");
+    const digitisedBtn = document.querySelector(
+      '[data-access-filter="digitised"]'
+    );
+    const onlineBtn = document.querySelector('[data-access-filter="online"]');
+    const rows = document.querySelectorAll("#place-papers-table .paper-row");
+
+    let activeLineageFilter = "all";
+    let requireDigitised = false;
+    let requireOnline = false;
+
+    function applyFilters() {
+      rows.forEach((row) => {
+        const matchLineage =
+          activeLineageFilter === "all" ||
+          row.getAttribute("data-lineage") === activeLineageFilter;
+        const matchDigitised =
+          !requireDigitised || row.getAttribute("data-digitised") === "true";
+        const matchOnline =
+          !requireOnline || row.getAttribute("data-online") === "true";
+
+        if (matchLineage && matchDigitised && matchOnline) {
+          row.classList.remove("hidden-row");
+        } else {
+          row.classList.add("hidden-row");
+        }
+      });
+    }
+
+    lineageBtns.forEach((btn) => {
+      btn.addEventListener("click", function () {
+        lineageBtns.forEach((b) => b.classList.remove("active"));
+        this.classList.add("active");
+        activeLineageFilter = this.getAttribute("data-lineage-filter");
+        applyFilters();
+      });
+    });
+
+    if (digitisedBtn) {
+      digitisedBtn.addEventListener("click", function () {
+        requireDigitised = !requireDigitised;
+        this.classList.toggle("active", requireDigitised);
+        applyFilters();
+      });
+    }
+
+    if (onlineBtn) {
+      onlineBtn.addEventListener("click", function () {
+        requireOnline = !requireOnline;
+        this.classList.toggle("active", requireOnline);
+        applyFilters();
+      });
+    }
+  });
+</script>
 </main>
 
       <footer class="footerbox">

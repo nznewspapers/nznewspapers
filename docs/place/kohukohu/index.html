@@ -3,10 +3,10 @@
   <head>
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title>Newspapers published in Kohukohu</title>
+    <title>Kohukohu</title>
     <meta
       name="description"
-      content="Newspapers published in Kohukohu"
+      content="Kohukohu"
     />
     <link rel="canonical" href="https://www.nznewspapers.org/place/kohukohu/" />
 
@@ -18,11 +18,11 @@
     />
     <meta
       property="og:title"
-      content="Newspapers published in Kohukohu"
+      content="Kohukohu"
     />
     <meta
       property="og:description"
-      content="Newspapers published in Kohukohu"
+      content="Kohukohu"
     />
     <meta
       property="og:image"
@@ -37,11 +37,11 @@
     />
     <meta
       property="twitter:title"
-      content="Newspapers published in Kohukohu"
+      content="Kohukohu"
     />
     <meta
       property="twitter:description"
-      content="Newspapers published in Kohukohu"
+      content="Kohukohu"
     />
     <meta
       property="twitter:image"
@@ -96,63 +96,327 @@
       </nav>
 
       <div class="bannerbox">
-        <h2 id="pagetitle">Newspapers published in Kohukohu</h2>
+        <h2 id="pagetitle">Kohukohu</h2>
       </div>
 
       <main class="contentbox">
-<div class="bannerbox">
-  <div class="links">
-    <a href="/places/">All Places</a>
-  </div>
-</div>
-
 <div class="contentbox">
-  <h3>Kohukohu</h3>
-  <p>
-    Kohukohu is in the Far North District district, Northland
-    region.
-  </p>
-
-  <p>
-    There are 4 newspapers published in Kohukohu.
-  </p>
-
-  <div class="multicolumnbox">
-    
-    <div class="columnitem">
-      <a href="/newspapers/1006/">Hokianga Times</a>
-      <br />
-      <span class="paper-meta">
-         1905 - 1936 
-      </span>
-    </div>
-    
-    <div class="columnitem">
-      <a href="/newspapers/1014/">Hokianga Star</a>
-      <br />
-      <span class="paper-meta">
-         1923 - 1937 
-      </span>
-    </div>
-    
-    <div class="columnitem">
-      <a href="/newspapers/1018/">Hokianga Herald</a>
-      <br />
-      <span class="paper-meta">
-         1938 - sometime in the 1940&#39;s 
-      </span>
-    </div>
-    
-    <div class="columnitem">
-      <a href="/newspapers/1021/">Hokianga Herald [1946]</a>
-      <br />
-      <span class="paper-meta">
-         1946 - 1959 
-      </span>
-    </div>
-    
+  <div class="place-meta-bar">
+    <span class="meta-item">Far North District District</span>
+    <span class="meta-sep">&mdash;</span>
+    <span class="meta-item">Northland Region</span>
+    <span class="meta-sep">&mdash;</span>
+    <span class="meta-item meta-count"
+      >4 Newspapers</span
+    >
   </div>
+
+  
+  <section class="lineage-section">
+    <h3>Publication Lineages</h3>
+    <div class="chart-legend">
+      <span>📜 Digitised on Papers Past</span>
+      <span>🌐 Publisher Website Available</span>
+    </div>
+
+    <div class="mermaid-tree-list">
+      
+      <div class="mermaid-card">
+        <pre class="mermaid">
+graph LR
+  node_1006[&quot;Hokianga Times&lt;br/&gt;(1905–1936)&quot;]
+  click node_1006 &quot;/newspapers/1006/&quot; &quot;View Hokianga Times&quot;
+  node_1014[&quot;Hokianga Star&lt;br/&gt;(1923–1937)&quot;]
+  click node_1014 &quot;/newspapers/1014/&quot; &quot;View Hokianga Star&quot;
+  node_1018[&quot;Hokianga Herald&lt;br/&gt;(1938–194u)&quot;]
+  click node_1018 &quot;/newspapers/1018/&quot; &quot;View Hokianga Herald&quot;
+  node_1021[&quot;Hokianga Herald [1946]&lt;br/&gt;(1946–1959)&quot;]
+  click node_1021 &quot;/newspapers/1021/&quot; &quot;View Hokianga Herald [1946]&quot;
+  node_1006 --&gt; node_1014
+  node_1014 --&gt; node_1018
+  node_1018 --&gt; node_1021
+        </pre>
+      </div>
+      
+    </div>
+  </section>
+  <script type="module">
+    import mermaid from "https://cdn.jsdelivr.net/npm/mermaid@10/dist/mermaid.esm.min.mjs";
+    mermaid.initialize({
+      startOnLoad: true,
+      theme: "base",
+      themeVariables: {
+        fontFamily: '"Source Serif 4", Georgia, serif',
+        fontSize: "14px",
+        background: "#eeeeee",
+        primaryColor: "#f7f7f7",
+        primaryBorderColor: "#111111",
+        primaryTextColor: "#111111",
+        lineColor: "#111111",
+        edgeLabelBackground: "#eeeeee",
+        nodeBorder: "1.5px",
+        clusterBkg: "#eeeeee",
+        clusterBorder: "#111111",
+      },
+      flowchart: {
+        useMaxWidth: true,
+        htmlLabels: true,
+        curve: "basis",
+      },
+    });
+  </script>
+  
+
+  <section class="all-papers-section">
+    <h3>Newspaper List</h3>
+
+      
+
+    <div class="table-filter-bar">
+      <div class="filter-group">
+        <button
+          type="button"
+          class="filter-btn active"
+          data-lineage-filter="all"
+        >
+          All (4)
+        </button>
+        
+        <button type="button" class="filter-btn" data-lineage-filter="lineage">
+          🌳 In Lineage Charts (4)
+        </button>
+        <button
+          type="button"
+          class="filter-btn"
+          data-lineage-filter="standalone"
+        >
+          📄 Standalone (0)
+        </button>
+        
+      </div>
+
+      <div class="filter-group access-filters">
+        <button
+          type="button"
+          class="filter-btn filter-toggle"
+          data-access-filter="digitised"
+        >
+          📜 Digitised
+        </button>
+        <button
+          type="button"
+          class="filter-btn filter-toggle"
+          data-access-filter="online"
+        >
+          🌐 Online
+        </button>
+      </div>
+    </div>
+
+    <table class="papers-data-table" id="place-papers-table">
+      <thead>
+        <tr>
+          <th>Title</th>
+          <th>Years</th>
+          <th>Frequency</th>
+          <th>Status</th>
+          <th>Digitised</th>
+          <th>Online Site</th>
+          <th>Lineage</th>
+        </tr>
+      </thead>
+      <tbody>
+         
+                 
+
+        <tr
+          class="paper-row"
+          data-lineage="lineage"
+          data-digitised="false"
+          data-online="false"
+        >
+          <td>
+            <a href="/newspapers/1006/"
+              ><strong>Hokianga Times</strong></a
+            >
+            
+          </td>
+          <td>
+             1905 – 1936 
+          </td>
+          <td>—</td>
+          <td>
+             Ceased 
+          </td>
+          <td>
+             — 
+          </td>
+          <td>
+             — 
+          </td>
+          <td>
+             🌳 Chart 
+          </td>
+        </tr>
+         
+                 
+
+        <tr
+          class="paper-row"
+          data-lineage="lineage"
+          data-digitised="false"
+          data-online="false"
+        >
+          <td>
+            <a href="/newspapers/1014/"
+              ><strong>Hokianga Star</strong></a
+            >
+            
+          </td>
+          <td>
+             1923 – 1937 
+          </td>
+          <td>Weekly</td>
+          <td>
+             Ceased 
+          </td>
+          <td>
+             — 
+          </td>
+          <td>
+             — 
+          </td>
+          <td>
+             🌳 Chart 
+          </td>
+        </tr>
+         
+                 
+
+        <tr
+          class="paper-row"
+          data-lineage="lineage"
+          data-digitised="false"
+          data-online="false"
+        >
+          <td>
+            <a href="/newspapers/1018/"
+              ><strong>Hokianga Herald</strong></a
+            >
+            
+          </td>
+          <td>
+             1938 – sometime in the 1940&#39;s 
+          </td>
+          <td>Weekly</td>
+          <td>
+             Ceased 
+          </td>
+          <td>
+             — 
+          </td>
+          <td>
+             — 
+          </td>
+          <td>
+             🌳 Chart 
+          </td>
+        </tr>
+         
+                 
+
+        <tr
+          class="paper-row"
+          data-lineage="lineage"
+          data-digitised="false"
+          data-online="false"
+        >
+          <td>
+            <a href="/newspapers/1021/"
+              ><strong>Hokianga Herald [1946]</strong></a
+            >
+            
+          </td>
+          <td>
+             1946 – 1959 
+          </td>
+          <td>Weekly</td>
+          <td>
+             Ceased 
+          </td>
+          <td>
+             — 
+          </td>
+          <td>
+             — 
+          </td>
+          <td>
+             🌳 Chart 
+          </td>
+        </tr>
+        
+      </tbody>
+    </table>
+  </section>
 </div>
+
+<script>
+  document.addEventListener("DOMContentLoaded", function () {
+    const lineageBtns = document.querySelectorAll("[data-lineage-filter]");
+    const digitisedBtn = document.querySelector(
+      '[data-access-filter="digitised"]'
+    );
+    const onlineBtn = document.querySelector('[data-access-filter="online"]');
+    const rows = document.querySelectorAll("#place-papers-table .paper-row");
+
+    let activeLineageFilter = "all";
+    let requireDigitised = false;
+    let requireOnline = false;
+
+    function applyFilters() {
+      rows.forEach((row) => {
+        const matchLineage =
+          activeLineageFilter === "all" ||
+          row.getAttribute("data-lineage") === activeLineageFilter;
+        const matchDigitised =
+          !requireDigitised || row.getAttribute("data-digitised") === "true";
+        const matchOnline =
+          !requireOnline || row.getAttribute("data-online") === "true";
+
+        if (matchLineage && matchDigitised && matchOnline) {
+          row.classList.remove("hidden-row");
+        } else {
+          row.classList.add("hidden-row");
+        }
+      });
+    }
+
+    lineageBtns.forEach((btn) => {
+      btn.addEventListener("click", function () {
+        lineageBtns.forEach((b) => b.classList.remove("active"));
+        this.classList.add("active");
+        activeLineageFilter = this.getAttribute("data-lineage-filter");
+        applyFilters();
+      });
+    });
+
+    if (digitisedBtn) {
+      digitisedBtn.addEventListener("click", function () {
+        requireDigitised = !requireDigitised;
+        this.classList.toggle("active", requireDigitised);
+        applyFilters();
+      });
+    }
+
+    if (onlineBtn) {
+      onlineBtn.addEventListener("click", function () {
+        requireOnline = !requireOnline;
+        this.classList.toggle("active", requireOnline);
+        applyFilters();
+      });
+    }
+  });
+</script>
 </main>
 
       <footer class="footerbox">

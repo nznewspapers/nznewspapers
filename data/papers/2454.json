@@ -15,16 +15,12 @@
   "links": {
     "2463": {
       "direction": "Succeeding",
-      "target-description": "Christchurch Mail",
-      "relationship": "Continued by"
-    },
-    "2495": {
-      "direction": "Succeeding",
       "relationship": "Continued by",
-      "target-description": "Christchurch mail"
+      "target-description": "Christchurch Mail"
     }
   },
   "sources": {
+    "2026-08-04T02:24:11.090Z": "Removed redundant transitive shortcut link via intermediate succession path.",
     "2026-08-03T05:13:26.062Z": "Added reciprocal Succeeding link to record 2463 (Christchurch Mail).",
     "2014-05-07T09:47:50.000Z": "Modified by DataBot",
     "2013-04-02T08:58:38.000Z": "Extracted from the New Zealand National Bibliography (MARC record 3601357) downloaded March 2013."

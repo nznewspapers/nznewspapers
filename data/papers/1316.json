@@ -15,10 +15,6 @@
   "region": "Auckland",
   "urlDigitized": "https://paperspast.natlib.govt.nz/newspapers/auckland-star",
   "links": {
-    "1299": {
-      "direction": "Continues",
-      "target-description": "Evening Star"
-    },
     "1343": {
       "direction": "Preceding",
       "relationship": "Incorporates",
@@ -31,6 +27,7 @@
     }
   },
   "sources": {
+    "2026-08-04T02:14:15.234Z": "Removed redundant transitive shortcut link to record 1299 (Evening Star) via intermediate run 3099 (Auckland Evening Star).",
     "2026-08-03T05:01:33.559Z": "Added reciprocal Preceding link to record 3099 (Auckland Evening Star).",
     "2022-01-18T04:19:28.874Z": "Updated Papers Past info using the nzn-paperspast-updater.js script.",
     "2014-04-10T08:54:42.000Z": "Modified by gordon.paynter",

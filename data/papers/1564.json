@@ -13,11 +13,6 @@
   "price": "Gratis",
   "region": "Waikato",
   "links": {
-    "1553": {
-      "direction": "Preceding",
-      "relationship": "Formed by the union",
-      "target-description": "Morrinsville star"
-    },
     "3066": {
       "direction": "Preceding",
       "target-description": "Arrow",
@@ -25,6 +20,7 @@
     }
   },
   "sources": {
+    "2026-08-04T02:14:15.234Z": "Removed redundant transitive shortcut link to record 1553 (Morrinsville Star) via intermediate run 3066 (Arrow).",
     "2026-08-03T05:01:33.559Z": "Added reciprocal Preceding link to record 3066 (Arrow).",
     "2014-05-07T09:47:22.000Z": "Modified by DataBot",
     "2013-04-02T08:58:38.000Z": "Extracted from the New Zealand National Bibliography (MARC record 3531216) downloaded March 2013."

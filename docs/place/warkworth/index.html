@@ -3,10 +3,10 @@
   <head>
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title>Newspapers published in Warkworth</title>
+    <title>Warkworth</title>
     <meta
       name="description"
-      content="Newspapers published in Warkworth"
+      content="Warkworth"
     />
     <link rel="canonical" href="https://www.nznewspapers.org/place/warkworth/" />
 
@@ -18,11 +18,11 @@
     />
     <meta
       property="og:title"
-      content="Newspapers published in Warkworth"
+      content="Warkworth"
     />
     <meta
       property="og:description"
-      content="Newspapers published in Warkworth"
+      content="Warkworth"
     />
     <meta
       property="og:image"
@@ -37,11 +37,11 @@
     />
     <meta
       property="twitter:title"
-      content="Newspapers published in Warkworth"
+      content="Warkworth"
     />
     <meta
       property="twitter:description"
-      content="Newspapers published in Warkworth"
+      content="Warkworth"
     />
     <meta
       property="twitter:image"
@@ -96,63 +96,328 @@
       </nav>
 
       <div class="bannerbox">
-        <h2 id="pagetitle">Newspapers published in Warkworth</h2>
+        <h2 id="pagetitle">Warkworth</h2>
       </div>
 
       <main class="contentbox">
-<div class="bannerbox">
-  <div class="links">
-    <a href="/places/">All Places</a>
-  </div>
-</div>
-
 <div class="contentbox">
-  <h3>Warkworth</h3>
-  <p>
-    Warkworth is in the Auckland district, Auckland
-    region.
-  </p>
-
-  <p>
-    There are 4 newspapers published in Warkworth.
-  </p>
-
-  <div class="multicolumnbox">
-    
-    <div class="columnitem">
-      <a href="/newspapers/1084/">Rodney and Otamatea Times, Waitemata and Kaipara Gazette</a>
-      <br />
-      <span class="paper-meta">
-         1901 - 1964 
-      </span>
-    </div>
-    
-    <div class="columnitem">
-      <a href="/newspapers/1109/">Rodney and Otamatea Courier</a>
-      <br />
-      <span class="paper-meta">
-         1948 - 1964 
-      </span>
-    </div>
-    
-    <div class="columnitem">
-      <a href="/newspapers/1144/">Rodney &amp; Waitemata Times</a>
-      <br />
-      <span class="paper-meta">
-         1964 - 1991 
-      </span>
-    </div>
-    
-    <div class="columnitem">
-      <a href="/newspapers/1217/">Rodney Times</a>
-      <br />
-      <span class="paper-meta">
-         Published since 1991 
-      </span>
-    </div>
-    
+  <div class="place-meta-bar">
+    <span class="meta-item">Auckland District</span>
+    <span class="meta-sep">&mdash;</span>
+    <span class="meta-item">Auckland Region</span>
+    <span class="meta-sep">&mdash;</span>
+    <span class="meta-item meta-count"
+      >4 Newspapers</span
+    >
   </div>
+
+  
+  <section class="lineage-section">
+    <h3>Publication Lineages</h3>
+    <div class="chart-legend">
+      <span>📜 Digitised on Papers Past</span>
+      <span>🌐 Publisher Website Available</span>
+    </div>
+
+    <div class="mermaid-tree-list">
+      
+      <div class="mermaid-card">
+        <pre class="mermaid">
+graph LR
+  node_1084[&quot;Rodney and Otamatea Times, Waitemata and Kaipara Gazette 📜&lt;br/&gt;(1901–1964)&quot;]
+  click node_1084 &quot;/newspapers/1084/&quot; &quot;View Rodney and Otamatea Times, Waitemata and Kaipara Gazette&quot;
+  node_1144[&quot;Rodney &amp; Waitemata Times&lt;br/&gt;(1964–1991)&quot;]
+  click node_1144 &quot;/newspapers/1144/&quot; &quot;View Rodney &amp; Waitemata Times&quot;
+  node_1217[&quot;Rodney Times&lt;br/&gt;(since 1991)&quot;]
+  click node_1217 &quot;/newspapers/1217/&quot; &quot;View Rodney Times&quot;
+  node_1084 --&gt; node_1144
+  node_1144 --&gt; node_1217
+        </pre>
+      </div>
+      
+    </div>
+  </section>
+  <script type="module">
+    import mermaid from "https://cdn.jsdelivr.net/npm/mermaid@10/dist/mermaid.esm.min.mjs";
+    mermaid.initialize({
+      startOnLoad: true,
+      theme: "base",
+      themeVariables: {
+        fontFamily: '"Source Serif 4", Georgia, serif',
+        fontSize: "14px",
+        background: "#eeeeee",
+        primaryColor: "#f7f7f7",
+        primaryBorderColor: "#111111",
+        primaryTextColor: "#111111",
+        lineColor: "#111111",
+        edgeLabelBackground: "#eeeeee",
+        nodeBorder: "1.5px",
+        clusterBkg: "#eeeeee",
+        clusterBorder: "#111111",
+      },
+      flowchart: {
+        useMaxWidth: true,
+        htmlLabels: true,
+        curve: "basis",
+      },
+    });
+  </script>
+  
+
+  <section class="all-papers-section">
+    <h3>Newspaper List</h3>
+
+      
+
+    <div class="table-filter-bar">
+      <div class="filter-group">
+        <button
+          type="button"
+          class="filter-btn active"
+          data-lineage-filter="all"
+        >
+          All (4)
+        </button>
+        
+        <button type="button" class="filter-btn" data-lineage-filter="lineage">
+          🌳 In Lineage Charts (3)
+        </button>
+        <button
+          type="button"
+          class="filter-btn"
+          data-lineage-filter="standalone"
+        >
+          📄 Standalone (1)
+        </button>
+        
+      </div>
+
+      <div class="filter-group access-filters">
+        <button
+          type="button"
+          class="filter-btn filter-toggle"
+          data-access-filter="digitised"
+        >
+          📜 Digitised
+        </button>
+        <button
+          type="button"
+          class="filter-btn filter-toggle"
+          data-access-filter="online"
+        >
+          🌐 Online
+        </button>
+      </div>
+    </div>
+
+    <table class="papers-data-table" id="place-papers-table">
+      <thead>
+        <tr>
+          <th>Title</th>
+          <th>Years</th>
+          <th>Frequency</th>
+          <th>Status</th>
+          <th>Digitised</th>
+          <th>Online Site</th>
+          <th>Lineage</th>
+        </tr>
+      </thead>
+      <tbody>
+         
+               
+
+        <tr
+          class="paper-row"
+          data-lineage="lineage"
+          data-digitised="true"
+          data-online="false"
+        >
+          <td>
+            <a href="/newspapers/1084/"
+              ><strong>Rodney and Otamatea Times, Waitemata and Kaipara Gazette</strong></a
+            >
+            
+          </td>
+          <td>
+             1901 – 1964 
+          </td>
+          <td>Weekly</td>
+          <td>
+             Ceased 
+          </td>
+          <td>
+            
+            <a href="https://paperspast.natlib.govt.nz/newspapers/rodney-and-otamatea-times-waitemata-and-kaipara-gazette" target="_blank" rel="noopener"
+              >📜 Papers Past</a
+            >
+            
+          </td>
+          <td>
+             — 
+          </td>
+          <td>
+             🌳 Chart 
+          </td>
+        </tr>
+         
+               
+
+        <tr
+          class="paper-row"
+          data-lineage="standalone"
+          data-digitised="false"
+          data-online="false"
+        >
+          <td>
+            <a href="/newspapers/1109/"
+              ><strong>Rodney and Otamatea Courier</strong></a
+            >
+            
+          </td>
+          <td>
+             1948 – 1964 
+          </td>
+          <td>Weekly</td>
+          <td>
+             Ceased 
+          </td>
+          <td>
+             — 
+          </td>
+          <td>
+             — 
+          </td>
+          <td>
+             📄 Single 
+          </td>
+        </tr>
+         
+               
+
+        <tr
+          class="paper-row"
+          data-lineage="lineage"
+          data-digitised="false"
+          data-online="false"
+        >
+          <td>
+            <a href="/newspapers/1144/"
+              ><strong>Rodney &amp; Waitemata Times</strong></a
+            >
+            
+          </td>
+          <td>
+             1964 – 1991 
+          </td>
+          <td>Two issues per week</td>
+          <td>
+             Ceased 
+          </td>
+          <td>
+             — 
+          </td>
+          <td>
+             — 
+          </td>
+          <td>
+             🌳 Chart 
+          </td>
+        </tr>
+         
+               
+
+        <tr
+          class="paper-row"
+          data-lineage="lineage"
+          data-digitised="false"
+          data-online="false"
+        >
+          <td>
+            <a href="/newspapers/1217/"
+              ><strong>Rodney Times</strong></a
+            >
+            
+          </td>
+          <td>
+             1991 – Present 
+          </td>
+          <td>—</td>
+          <td>
+             Current 
+          </td>
+          <td>
+             — 
+          </td>
+          <td>
+             — 
+          </td>
+          <td>
+             🌳 Chart 
+          </td>
+        </tr>
+        
+      </tbody>
+    </table>
+  </section>
 </div>
+
+<script>
+  document.addEventListener("DOMContentLoaded", function () {
+    const lineageBtns = document.querySelectorAll("[data-lineage-filter]");
+    const digitisedBtn = document.querySelector(
+      '[data-access-filter="digitised"]'
+    );
+    const onlineBtn = document.querySelector('[data-access-filter="online"]');
+    const rows = document.querySelectorAll("#place-papers-table .paper-row");
+
+    let activeLineageFilter = "all";
+    let requireDigitised = false;
+    let requireOnline = false;
+
+    function applyFilters() {
+      rows.forEach((row) => {
+        const matchLineage =
+          activeLineageFilter === "all" ||
+          row.getAttribute("data-lineage") === activeLineageFilter;
+        const matchDigitised =
+          !requireDigitised || row.getAttribute("data-digitised") === "true";
+        const matchOnline =
+          !requireOnline || row.getAttribute("data-online") === "true";
+
+        if (matchLineage && matchDigitised && matchOnline) {
+          row.classList.remove("hidden-row");
+        } else {
+          row.classList.add("hidden-row");
+        }
+      });
+    }
+
+    lineageBtns.forEach((btn) => {
+      btn.addEventListener("click", function () {
+        lineageBtns.forEach((b) => b.classList.remove("active"));
+        this.classList.add("active");
+        activeLineageFilter = this.getAttribute("data-lineage-filter");
+        applyFilters();
+      });
+    });
+
+    if (digitisedBtn) {
+      digitisedBtn.addEventListener("click", function () {
+        requireDigitised = !requireDigitised;
+        this.classList.toggle("active", requireDigitised);
+        applyFilters();
+      });
+    }
+
+    if (onlineBtn) {
+      onlineBtn.addEventListener("click", function () {
+        requireOnline = !requireOnline;
+        this.classList.toggle("active", requireOnline);
+        applyFilters();
+      });
+    }
+  });
+</script>
 </main>
 
       <footer class="footerbox">

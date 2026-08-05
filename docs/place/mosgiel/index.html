@@ -3,10 +3,10 @@
   <head>
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title>Newspapers published in Mosgiel</title>
+    <title>Mosgiel</title>
     <meta
       name="description"
-      content="Newspapers published in Mosgiel"
+      content="Mosgiel"
     />
     <link rel="canonical" href="https://www.nznewspapers.org/place/mosgiel/" />
 
@@ -18,11 +18,11 @@
     />
     <meta
       property="og:title"
-      content="Newspapers published in Mosgiel"
+      content="Mosgiel"
     />
     <meta
       property="og:description"
-      content="Newspapers published in Mosgiel"
+      content="Mosgiel"
     />
     <meta
       property="og:image"
@@ -37,11 +37,11 @@
     />
     <meta
       property="twitter:title"
-      content="Newspapers published in Mosgiel"
+      content="Mosgiel"
     />
     <meta
       property="twitter:description"
-      content="Newspapers published in Mosgiel"
+      content="Mosgiel"
     />
     <meta
       property="twitter:image"
@@ -96,55 +96,230 @@
       </nav>
 
       <div class="bannerbox">
-        <h2 id="pagetitle">Newspapers published in Mosgiel</h2>
+        <h2 id="pagetitle">Mosgiel</h2>
       </div>
 
       <main class="contentbox">
-<div class="bannerbox">
-  <div class="links">
-    <a href="/places/">All Places</a>
-  </div>
-</div>
-
 <div class="contentbox">
-  <h3>Mosgiel</h3>
-  <p>
-    Mosgiel is in the Dunedin City district, Otago
-    region.
-  </p>
-
-  <p>
-    There are 3 newspapers published in Mosgiel.
-  </p>
-
-  <div class="multicolumnbox">
-    
-    <div class="columnitem">
-      <a href="/newspapers/2601/">Taieri Advocate</a>
-      <br />
-      <span class="paper-meta">
-         1881 - 1916 
-      </span>
-    </div>
-    
-    <div class="columnitem">
-      <a href="/newspapers/2623/">Plainsman</a>
-      <br />
-      <span class="paper-meta">
-         1960 - 1964 
-      </span>
-    </div>
-    
-    <div class="columnitem">
-      <a href="/newspapers/2624/">Taieri Herald</a>
-      <br />
-      <span class="paper-meta">
-         1962 - 2012 
-      </span>
-    </div>
-    
+  <div class="place-meta-bar">
+    <span class="meta-item">Dunedin City District</span>
+    <span class="meta-sep">&mdash;</span>
+    <span class="meta-item">Otago Region</span>
+    <span class="meta-sep">&mdash;</span>
+    <span class="meta-item meta-count"
+      >3 Newspapers</span
+    >
   </div>
+
+  
+
+  <section class="all-papers-section">
+    <h3>Newspaper List</h3>
+
+      
+
+    <div class="table-filter-bar">
+      <div class="filter-group">
+        <button
+          type="button"
+          class="filter-btn active"
+          data-lineage-filter="all"
+        >
+          All (3)
+        </button>
+        
+      </div>
+
+      <div class="filter-group access-filters">
+        <button
+          type="button"
+          class="filter-btn filter-toggle"
+          data-access-filter="digitised"
+        >
+          📜 Digitised
+        </button>
+        <button
+          type="button"
+          class="filter-btn filter-toggle"
+          data-access-filter="online"
+        >
+          🌐 Online
+        </button>
+      </div>
+    </div>
+
+    <table class="papers-data-table" id="place-papers-table">
+      <thead>
+        <tr>
+          <th>Title</th>
+          <th>Years</th>
+          <th>Frequency</th>
+          <th>Status</th>
+          <th>Digitised</th>
+          <th>Online Site</th>
+          <th>Lineage</th>
+        </tr>
+      </thead>
+      <tbody>
+         
+         
+
+        <tr
+          class="paper-row"
+          data-lineage="standalone"
+          data-digitised="false"
+          data-online="false"
+        >
+          <td>
+            <a href="/newspapers/2601/"
+              ><strong>Taieri Advocate</strong></a
+            >
+            
+          </td>
+          <td>
+             1881 – 1916 
+          </td>
+          <td>Two issues per week</td>
+          <td>
+             Ceased 
+          </td>
+          <td>
+             — 
+          </td>
+          <td>
+             — 
+          </td>
+          <td>
+             📄 Single 
+          </td>
+        </tr>
+         
+         
+
+        <tr
+          class="paper-row"
+          data-lineage="standalone"
+          data-digitised="false"
+          data-online="false"
+        >
+          <td>
+            <a href="/newspapers/2623/"
+              ><strong>Plainsman</strong></a
+            >
+            
+          </td>
+          <td>
+             1960 – 1964 
+          </td>
+          <td>Monthly</td>
+          <td>
+             Ceased 
+          </td>
+          <td>
+             — 
+          </td>
+          <td>
+             — 
+          </td>
+          <td>
+             📄 Single 
+          </td>
+        </tr>
+         
+         
+
+        <tr
+          class="paper-row"
+          data-lineage="standalone"
+          data-digitised="false"
+          data-online="false"
+        >
+          <td>
+            <a href="/newspapers/2624/"
+              ><strong>Taieri Herald</strong></a
+            >
+            
+          </td>
+          <td>
+             1962 – 2012 
+          </td>
+          <td>Weekly</td>
+          <td>
+             Ceased 
+          </td>
+          <td>
+             — 
+          </td>
+          <td>
+             — 
+          </td>
+          <td>
+             📄 Single 
+          </td>
+        </tr>
+        
+      </tbody>
+    </table>
+  </section>
 </div>
+
+<script>
+  document.addEventListener("DOMContentLoaded", function () {
+    const lineageBtns = document.querySelectorAll("[data-lineage-filter]");
+    const digitisedBtn = document.querySelector(
+      '[data-access-filter="digitised"]'
+    );
+    const onlineBtn = document.querySelector('[data-access-filter="online"]');
+    const rows = document.querySelectorAll("#place-papers-table .paper-row");
+
+    let activeLineageFilter = "all";
+    let requireDigitised = false;
+    let requireOnline = false;
+
+    function applyFilters() {
+      rows.forEach((row) => {
+        const matchLineage =
+          activeLineageFilter === "all" ||
+          row.getAttribute("data-lineage") === activeLineageFilter;
+        const matchDigitised =
+          !requireDigitised || row.getAttribute("data-digitised") === "true";
+        const matchOnline =
+          !requireOnline || row.getAttribute("data-online") === "true";
+
+        if (matchLineage && matchDigitised && matchOnline) {
+          row.classList.remove("hidden-row");
+        } else {
+          row.classList.add("hidden-row");
+        }
+      });
+    }
+
+    lineageBtns.forEach((btn) => {
+      btn.addEventListener("click", function () {
+        lineageBtns.forEach((b) => b.classList.remove("active"));
+        this.classList.add("active");
+        activeLineageFilter = this.getAttribute("data-lineage-filter");
+        applyFilters();
+      });
+    });
+
+    if (digitisedBtn) {
+      digitisedBtn.addEventListener("click", function () {
+        requireDigitised = !requireDigitised;
+        this.classList.toggle("active", requireDigitised);
+        applyFilters();
+      });
+    }
+
+    if (onlineBtn) {
+      onlineBtn.addEventListener("click", function () {
+        requireOnline = !requireOnline;
+        this.classList.toggle("active", requireOnline);
+        applyFilters();
+      });
+    }
+  });
+</script>
 </main>
 
       <footer class="footerbox">

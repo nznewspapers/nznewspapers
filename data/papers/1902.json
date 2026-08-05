@@ -14,11 +14,6 @@
   "price": "Gratis",
   "region": "Manawatu-Wanganui",
   "links": {
-    "1899": {
-      "direction": "Preceding",
-      "target-description": "Feilding Herald",
-      "relationship": "Continues"
-    },
     "1900": {
       "direction": "Preceding",
       "relationship": "Continues",
@@ -26,6 +21,7 @@
     }
   },
   "sources": {
+    "2026-08-04T02:14:15.234Z": "Removed redundant transitive shortcut link to record 1899 (Feilding Herald) via intermediate run 1900 (Feilding Herald Rangitikei Mail).",
     "2026-08-03T05:13:26.062Z": "Added reciprocal Preceding link to record 1899 (Feilding Herald).",
     "2014-05-07T09:51:20.000Z": "Modified by DataBot",
     "2013-04-02T08:58:38.000Z": "Extracted from the New Zealand National Bibliography (MARC record 9185048) downloaded March 2013."

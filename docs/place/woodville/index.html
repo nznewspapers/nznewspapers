@@ -3,10 +3,10 @@
   <head>
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title>Newspapers published in Woodville</title>
+    <title>Woodville</title>
     <meta
       name="description"
-      content="Newspapers published in Woodville"
+      content="Woodville"
     />
     <link rel="canonical" href="https://www.nznewspapers.org/place/woodville/" />
 
@@ -18,11 +18,11 @@
     />
     <meta
       property="og:title"
-      content="Newspapers published in Woodville"
+      content="Woodville"
     />
     <meta
       property="og:description"
-      content="Newspapers published in Woodville"
+      content="Woodville"
     />
     <meta
       property="og:image"
@@ -37,11 +37,11 @@
     />
     <meta
       property="twitter:title"
-      content="Newspapers published in Woodville"
+      content="Woodville"
     />
     <meta
       property="twitter:description"
-      content="Newspapers published in Woodville"
+      content="Woodville"
     />
     <meta
       property="twitter:image"
@@ -96,47 +96,261 @@
       </nav>
 
       <div class="bannerbox">
-        <h2 id="pagetitle">Newspapers published in Woodville</h2>
+        <h2 id="pagetitle">Woodville</h2>
       </div>
 
       <main class="contentbox">
-<div class="bannerbox">
-  <div class="links">
-    <a href="/places/">All Places</a>
-  </div>
-</div>
-
 <div class="contentbox">
-  <h3>Woodville</h3>
-  <p>
-    Woodville is in the Tararua District district, Manawatu-Wanganui
-    region.
-  </p>
-
-  <p>
-    There are 2 newspapers published in Woodville.
-  </p>
-
-  <div class="multicolumnbox">
-    
-    <div class="columnitem">
-      <a href="/newspapers/1928/">Woodville Examiner</a>
-      <br />
-      <span class="paper-meta">
-         1883 - 1891 
-      </span>
-    </div>
-    
-    <div class="columnitem">
-      <a href="/newspapers/1931/">Examiner</a>
-      <br />
-      <span class="paper-meta">
-         1892 - 1938 
-      </span>
-    </div>
-    
+  <div class="place-meta-bar">
+    <span class="meta-item">Tararua District District</span>
+    <span class="meta-sep">&mdash;</span>
+    <span class="meta-item">Manawatu-Wanganui Region</span>
+    <span class="meta-sep">&mdash;</span>
+    <span class="meta-item meta-count"
+      >2 Newspapers</span
+    >
   </div>
+
+  
+  <section class="lineage-section">
+    <h3>Publication Lineages</h3>
+    <div class="chart-legend">
+      <span>📜 Digitised on Papers Past</span>
+      <span>🌐 Publisher Website Available</span>
+    </div>
+
+    <div class="mermaid-tree-list">
+      
+      <div class="mermaid-card">
+        <pre class="mermaid">
+graph LR
+  node_1928[&quot;Woodville Examiner 📜&lt;br/&gt;(1883–1891)&quot;]
+  click node_1928 &quot;/newspapers/1928/&quot; &quot;View Woodville Examiner&quot;
+  node_1931[&quot;Examiner&lt;br/&gt;(1892–1938)&quot;]
+  click node_1931 &quot;/newspapers/1931/&quot; &quot;View Examiner&quot;
+  node_1928 --&gt; node_1931
+        </pre>
+      </div>
+      
+    </div>
+  </section>
+  <script type="module">
+    import mermaid from "https://cdn.jsdelivr.net/npm/mermaid@10/dist/mermaid.esm.min.mjs";
+    mermaid.initialize({
+      startOnLoad: true,
+      theme: "base",
+      themeVariables: {
+        fontFamily: '"Source Serif 4", Georgia, serif',
+        fontSize: "14px",
+        background: "#eeeeee",
+        primaryColor: "#f7f7f7",
+        primaryBorderColor: "#111111",
+        primaryTextColor: "#111111",
+        lineColor: "#111111",
+        edgeLabelBackground: "#eeeeee",
+        nodeBorder: "1.5px",
+        clusterBkg: "#eeeeee",
+        clusterBorder: "#111111",
+      },
+      flowchart: {
+        useMaxWidth: true,
+        htmlLabels: true,
+        curve: "basis",
+      },
+    });
+  </script>
+  
+
+  <section class="all-papers-section">
+    <h3>Newspaper List</h3>
+
+      
+
+    <div class="table-filter-bar">
+      <div class="filter-group">
+        <button
+          type="button"
+          class="filter-btn active"
+          data-lineage-filter="all"
+        >
+          All (2)
+        </button>
+        
+        <button type="button" class="filter-btn" data-lineage-filter="lineage">
+          🌳 In Lineage Charts (2)
+        </button>
+        <button
+          type="button"
+          class="filter-btn"
+          data-lineage-filter="standalone"
+        >
+          📄 Standalone (0)
+        </button>
+        
+      </div>
+
+      <div class="filter-group access-filters">
+        <button
+          type="button"
+          class="filter-btn filter-toggle"
+          data-access-filter="digitised"
+        >
+          📜 Digitised
+        </button>
+        <button
+          type="button"
+          class="filter-btn filter-toggle"
+          data-access-filter="online"
+        >
+          🌐 Online
+        </button>
+      </div>
+    </div>
+
+    <table class="papers-data-table" id="place-papers-table">
+      <thead>
+        <tr>
+          <th>Title</th>
+          <th>Years</th>
+          <th>Frequency</th>
+          <th>Status</th>
+          <th>Digitised</th>
+          <th>Online Site</th>
+          <th>Lineage</th>
+        </tr>
+      </thead>
+      <tbody>
+         
+             
+
+        <tr
+          class="paper-row"
+          data-lineage="lineage"
+          data-digitised="true"
+          data-online="false"
+        >
+          <td>
+            <a href="/newspapers/1928/"
+              ><strong>Woodville Examiner</strong></a
+            >
+            
+          </td>
+          <td>
+             1883 – 1891 
+          </td>
+          <td>Three issues per week</td>
+          <td>
+             Ceased 
+          </td>
+          <td>
+            
+            <a href="https://paperspast.natlib.govt.nz/newspapers/woodville-examiner" target="_blank" rel="noopener"
+              >📜 Papers Past</a
+            >
+            
+          </td>
+          <td>
+             — 
+          </td>
+          <td>
+             🌳 Chart 
+          </td>
+        </tr>
+         
+             
+
+        <tr
+          class="paper-row"
+          data-lineage="lineage"
+          data-digitised="false"
+          data-online="false"
+        >
+          <td>
+            <a href="/newspapers/1931/"
+              ><strong>Examiner</strong></a
+            >
+            
+          </td>
+          <td>
+             1892 – 1938 
+          </td>
+          <td>Three issues per week</td>
+          <td>
+             Ceased 
+          </td>
+          <td>
+             — 
+          </td>
+          <td>
+             — 
+          </td>
+          <td>
+             🌳 Chart 
+          </td>
+        </tr>
+        
+      </tbody>
+    </table>
+  </section>
 </div>
+
+<script>
+  document.addEventListener("DOMContentLoaded", function () {
+    const lineageBtns = document.querySelectorAll("[data-lineage-filter]");
+    const digitisedBtn = document.querySelector(
+      '[data-access-filter="digitised"]'
+    );
+    const onlineBtn = document.querySelector('[data-access-filter="online"]');
+    const rows = document.querySelectorAll("#place-papers-table .paper-row");
+
+    let activeLineageFilter = "all";
+    let requireDigitised = false;
+    let requireOnline = false;
+
+    function applyFilters() {
+      rows.forEach((row) => {
+        const matchLineage =
+          activeLineageFilter === "all" ||
+          row.getAttribute("data-lineage") === activeLineageFilter;
+        const matchDigitised =
+          !requireDigitised || row.getAttribute("data-digitised") === "true";
+        const matchOnline =
+          !requireOnline || row.getAttribute("data-online") === "true";
+
+        if (matchLineage && matchDigitised && matchOnline) {
+          row.classList.remove("hidden-row");
+        } else {
+          row.classList.add("hidden-row");
+        }
+      });
+    }
+
+    lineageBtns.forEach((btn) => {
+      btn.addEventListener("click", function () {
+        lineageBtns.forEach((b) => b.classList.remove("active"));
+        this.classList.add("active");
+        activeLineageFilter = this.getAttribute("data-lineage-filter");
+        applyFilters();
+      });
+    });
+
+    if (digitisedBtn) {
+      digitisedBtn.addEventListener("click", function () {
+        requireDigitised = !requireDigitised;
+        this.classList.toggle("active", requireDigitised);
+        applyFilters();
+      });
+    }
+
+    if (onlineBtn) {
+      onlineBtn.addEventListener("click", function () {
+        requireOnline = !requireOnline;
+        this.classList.toggle("active", requireOnline);
+        applyFilters();
+      });
+    }
+  });
+</script>
 </main>
 
       <footer class="footerbox">

@@ -17,11 +17,6 @@
       "relationship": "Merged",
       "target-description": "Christchurch times"
     },
-    "2387": {
-      "direction": "Succeeding",
-      "relationship": "Continued by",
-      "target-description": "Christchurch Star"
-    },
     "2431": {
       "direction": "Succeeding",
       "relationship": "Merged",
@@ -39,6 +34,7 @@
     }
   },
   "sources": {
+    "2026-08-04T02:14:15.234Z": "Removed redundant transitive shortcut link to record 2387 (Christchurch Star) via intermediate run 2431 (Christchurch Star-Sun).",
     "2026-08-03T05:01:33.559Z": "Resolved unknown target placeholder link(s) to numerical record ID(s).",
     "2026-08-03T04:13:03.129Z": "Added sequential continuation link to later run #2387 (Christchurch Star).",
     "2022-08-31T04:35:39.750Z": "Extracted from the New Zealand National Bibliography (MARC record 8127551) downloaded June 2022."
