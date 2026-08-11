@@ -2,3 +2,4 @@ docs/
 node_modules/
 package-lock.json
 data/
+src/robots.njk

@@ -1,0 +1,78 @@
+---
+permalink: /404.html
+layout: layout.njk
+eleventyExcludeFromCollections: true
+eleventyComputed:
+  title: "Page Not Found (404) — Newspapers of New Zealand"
+---
+
+<div class="contentbox" style="text-align: center; padding: 40px 20px">
+  <h2>Page Not Found (404)</h2>
+  <p style="font-size: 1.1rem; margin-bottom: 20px">
+    The page or newspaper record you are looking for could not be found.
+  </p>
+
+  <div style="margin: 30px 0">
+    <a href="/titles/" class="button" style="margin: 5px; padding: 8px 16px"
+      >Browse All Newspaper Titles</a
+    >
+    <a href="/places/" class="button" style="margin: 5px; padding: 8px 16px"
+      >Browse Newspapers by Place</a
+    >
+    <a href="/" class="button" style="margin: 5px; padding: 8px 16px"
+      >Home Page</a
+    >
+  </div>
+</div>
+
+<script>
+  (function () {
+    // Map of deleted MARC duplicate paper IDs to their merged master record IDs
+    const mergedDuplicates = {
+      3028: "3027",
+      3048: "3047",
+      3049: "3046",
+      3063: "3062",
+      3070: "3069",
+      3089: "3088",
+      3116: "3115",
+      3124: "3123",
+      3135: "3134",
+      3144: "3143",
+    };
+
+    const pathname = window.location.pathname;
+    const search = window.location.search;
+    const params = new URLSearchParams(search);
+
+    // 1. Check if pathname matches a deleted duplicate paper ID e.g. /newspapers/3028/
+    const paperMatch = pathname.match(/\/newspapers\/(\d+)\/?/);
+    if (paperMatch && paperMatch[1] && mergedDuplicates[paperMatch[1]]) {
+      window.location.replace(
+        "/newspapers/" + mergedDuplicates[paperMatch[1]] + "/"
+      );
+      return;
+    }
+
+    // 2. Check query string legacy parameters
+    const idParam = params.get("id");
+    const placeParam = params.get("place");
+
+    if (idParam) {
+      const targetId = mergedDuplicates[idParam] || idParam;
+      window.location.replace("/newspapers/" + targetId + "/");
+      return;
+    }
+
+    if (placeParam) {
+      const slug = placeParam
+        .toLowerCase()
+        .trim()
+        .replace(/[^\w\s-]/g, "")
+        .replace(/[\s_-]+/g, "-")
+        .replace(/^-+|-+$/g, "");
+      window.location.replace("/place/" + slug + "/");
+      return;
+    }
+  })();
+</script>

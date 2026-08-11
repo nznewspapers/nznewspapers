@@ -1,0 +1,200 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Page Not Found (404) — Newspapers of New Zealand</title>
+    <meta
+      name="description"
+      content="Page Not Found (404) — Newspapers of New Zealand"
+    />
+    <link rel="canonical" href="https://www.nznewspapers.org/404.html" />
+
+    <!-- Open Graph / Facebook -->
+    <meta property="og:type" content="website" />
+    <meta
+      property="og:url"
+      content="https://www.nznewspapers.org/404.html"
+    />
+    <meta
+      property="og:title"
+      content="Page Not Found (404) — Newspapers of New Zealand"
+    />
+    <meta
+      property="og:description"
+      content="Page Not Found (404) — Newspapers of New Zealand"
+    />
+    <meta
+      property="og:image"
+      content="https://www.nznewspapers.org/assets/Newspapers-of-New-Zealand-840x120.png"
+    />
+
+    <!-- Twitter -->
+    <meta property="twitter:card" content="summary_large_image" />
+    <meta
+      property="twitter:url"
+      content="https://www.nznewspapers.org/404.html"
+    />
+    <meta
+      property="twitter:title"
+      content="Page Not Found (404) — Newspapers of New Zealand"
+    />
+    <meta
+      property="twitter:description"
+      content="Page Not Found (404) — Newspapers of New Zealand"
+    />
+    <meta
+      property="twitter:image"
+      content="https://www.nznewspapers.org/assets/Newspapers-of-New-Zealand-840x120.png"
+    />
+
+    <!-- Google Fonts for Authentic Newspaper Typography -->
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Playfair+Display:ital,wght@0,600;0,700;1,400&family=Source+Serif+4:ital,opsz,wght@0,8..60,400;0,8..60,600;1,8..60,400&display=swap"
+      rel="stylesheet"
+    />
+
+    <link type="text/css" rel="stylesheet" href="/assets/nznewspapers.css" />
+
+    <!-- Global site tag (gtag.js) - Google Analytics -->
+    <script
+      async
+      src="https://www.googletagmanager.com/gtag/js?id=G-FM6HMWX85F"
+    ></script>
+    <script>
+      window.dataLayer = window.dataLayer || [];
+      function gtag() {
+        dataLayer.push(arguments);
+      }
+      gtag("js", new Date());
+      gtag("config", "G-FM6HMWX85F");
+    </script>
+  </head>
+  <body>
+    <div class="mainbox">
+      <header class="mastheadbox">
+        <a href="/">
+          <img
+            src="/assets/Newspapers-of-New-Zealand-840x120.png"
+            width="840"
+            height="120"
+            title="Newspapers of New Zealand"
+            alt="Newspapers of New Zealand Masthead"
+          />
+        </a>
+      </header>
+
+      <nav class="menubox">
+        <a class="menuitem" href="/">Home</a>
+        <a class="menuitem" href="/titles/">By Title</a>
+        <a class="menuitem" href="/places/">By Place</a>
+        <a class="menuitem" href="/digitised/">Digitised</a>
+        <a class="menuitem" href="/current/">Current</a>
+        <a class="menuitem" href="/about/">About</a>
+      </nav>
+
+      <div class="bannerbox">
+        <h2 id="pagetitle">Page Not Found (404) — Newspapers of New Zealand</h2>
+      </div>
+
+      <main class="contentbox">
+<div class="contentbox" style="text-align: center; padding: 40px 20px">
+  <h2>Page Not Found (404)</h2>
+  <p style="font-size: 1.1rem; margin-bottom: 20px">
+    The page or newspaper record you are looking for could not be found.
+  </p>
+
+  <div style="margin: 30px 0">
+    <a href="/titles/" class="button" style="margin: 5px; padding: 8px 16px"
+      >Browse All Newspaper Titles</a
+    >
+    <a href="/places/" class="button" style="margin: 5px; padding: 8px 16px"
+      >Browse Newspapers by Place</a
+    >
+    <a href="/" class="button" style="margin: 5px; padding: 8px 16px"
+      >Home Page</a
+    >
+  </div>
+</div>
+
+<script>
+  (function () {
+    // Map of deleted MARC duplicate paper IDs to their merged master record IDs
+    const mergedDuplicates = {
+      3028: "3027",
+      3048: "3047",
+      3049: "3046",
+      3063: "3062",
+      3070: "3069",
+      3089: "3088",
+      3116: "3115",
+      3124: "3123",
+      3135: "3134",
+      3144: "3143",
+    };
+
+    const pathname = window.location.pathname;
+    const search = window.location.search;
+    const params = new URLSearchParams(search);
+
+    // 1. Check if pathname matches a deleted duplicate paper ID e.g. /newspapers/3028/
+    const paperMatch = pathname.match(/\/newspapers\/(\d+)\/?/);
+    if (paperMatch && paperMatch[1] && mergedDuplicates[paperMatch[1]]) {
+      window.location.replace(
+        "/newspapers/" + mergedDuplicates[paperMatch[1]] + "/"
+      );
+      return;
+    }
+
+    // 2. Check query string legacy parameters
+    const idParam = params.get("id");
+    const placeParam = params.get("place");
+
+    if (idParam) {
+      const targetId = mergedDuplicates[idParam] || idParam;
+      window.location.replace("/newspapers/" + targetId + "/");
+      return;
+    }
+
+    if (placeParam) {
+      const slug = placeParam
+        .toLowerCase()
+        .trim()
+        .replace(/[^\w\s-]/g, "")
+        .replace(/[\s_-]+/g, "-")
+        .replace(/^-+|-+$/g, "");
+      window.location.replace("/place/" + slug + "/");
+      return;
+    }
+  })();
+</script>
+</main>
+
+      <footer class="footerbox">
+        <p align="center">
+          This website is based on data derived from the
+          <a
+            href="https://natlib.govt.nz/about-us/open-data/publications-nz-metadata"
+            >Publications New Zealand Metadata Dataset</a
+          >
+          which is licensed under
+          <a href="https://creativecommons.org/licenses/by/3.0/nz/"
+            >CC BY 3.0 NZ</a
+          >
+          by the
+          <a href="https://natlib.govt.nz/">National Library of New Zealand</a>.
+          <br />
+          It was developed by
+          <a href="https://github.com/nznewspapers">Gordon</a> and
+          <a href="https://github.com/news-papers">Stella</a>. Report issues to
+          our
+          <a href="https://github.com/nznewspapers/nznewspapers/issues"
+            >GitHub project page</a
+          >.
+        </p>
+      </footer>
+    </div>
+  </body>
+</html>
