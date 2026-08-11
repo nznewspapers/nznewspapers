@@ -3,13 +3,13 @@
 <html lang="en">
   <head>
     <meta charset="UTF-8" />
+    <meta name="robots" content="noindex, follow" />
     <title>Redirecting...</title>
     <script>
       const params = new URLSearchParams(window.location.search);
       const place = params.get("place");
       if (place) {
         // Slugify the place name to match 11ty output (kebab-case)
-        // Simple slugify: lowercase, remove non-word chars (except space), replace spaces with hyphens
         const slug = place
           .toLowerCase()
           .trim()

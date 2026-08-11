@@ -3,20 +3,60 @@ permalink: /sitemap.xml
 eleventyExcludeFromCollections: true
 ---
 
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-  {% for page in collections.all %}
+  <!-- Core Site Pages -->
   <url>
-    <loc>https://www.nznewspapers.org{{ page.url | url }}</loc>
-    <lastmod>{{ page.date | dateToRfc3339 }}</lastmod>
+    <loc>https://www.nznewspapers.org/</loc>
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
   </url>
-  {% endfor %} {% for paper in papers %}
   <url>
-    <loc>https://www.nznewspapers.org/newspapers/{{ paper.id }}/</loc>
+    <loc>https://www.nznewspapers.org/titles/</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
   </url>
-  {% endfor %} {% for place in placesList %}
+  <url>
+    <loc>https://www.nznewspapers.org/places/</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://www.nznewspapers.org/digitised/</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://www.nznewspapers.org/current/</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://www.nznewspapers.org/scope/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://www.nznewspapers.org/about/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+
+  <!-- Place Pages -->
+  {% for place in placesList %}
   <url>
     <loc>https://www.nznewspapers.org/place/{{ place.name | slugify }}/</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  {% endfor %}
+
+  <!-- Newspaper Record Pages -->
+  {% for paper in papers %}
+  <url>
+    <loc>https://www.nznewspapers.org/newspapers/{{ paper.id }}/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
   </url>
   {% endfor %}
 </urlset>

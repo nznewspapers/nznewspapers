@@ -16,13 +16,16 @@ eleventyComputed:
     "@context": "https://schema.org",
     "@type": "Periodical",
     "name": "{{ paper.title }}",
+    "url": "https://www.nznewspapers.org/newspapers/{{ paper.id }}/",
+    "mainEntityOfPage": "https://www.nznewspapers.org/newspapers/{{ paper.id }}/",
     "startDate": "{{ paper.firstYear }}",
     {% if paper.finalYear != "9999" %}"endDate": "{{ paper.finalYear }}",{% endif %}
     "spatialCoverage": {
       "@type": "Place",
       "name": "{{ paper.placename }}"
-    },
-    "issn": "{{ paper.idMarcControlNumber }}"
+    }{% if paper.idMarcControlNumber %},
+    "identifier": "{{ paper.idMarcControlNumber }}"
+    {% endif %}
   }
 </script>
 

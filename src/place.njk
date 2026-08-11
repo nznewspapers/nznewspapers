@@ -8,7 +8,21 @@ layout: layout.njk
 eleventyExcludeFromCollections: true
 eleventyComputed:
   title: "{{ place.name }}"
+  description: "Directory of {{ place.papers.length }} newspapers published in {{ place.name }}, {{ place.district }} District, {{ place.region }} Region."
 ---
+
+<script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    "@type": "Place",
+    "name": "{{ place.name }}",
+    "containedInPlace": {
+      "@type": "AdministrativeArea",
+      "name": "{{ place.district }} District, {{ place.region }} Region"
+    },
+    "url": "https://www.nznewspapers.org/place/{{ place.name | slugify }}/"
+  }
+</script>
 
 <div class="contentbox">
   <div class="place-meta-bar">
